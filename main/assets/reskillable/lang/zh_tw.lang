@@ -1,0 +1,143 @@
+# MISC
+reskillable.misc.capped=MAX
+reskillable.misc.skills=技能
+reskillable.misc.requirements=需要：
+reskillable.misc.requirements_shift=按住 SHIFT鍵 查看需求
+reskillable.misc.skill_points=%d 技能點數
+reskillable.misc.shift=按住 SHIFT鍵 查看詳細信息
+reskillable.misc.unlocked=已解鎖！
+
+reskillable.misc.locked.item=你沒資格使用該物品 請升級 !
+reskillable.misc.locked.block_break=你沒資格破壞該方塊 請升級!
+reskillable.misc.locked.block_use=你沒資格使用該方塊 請升級!
+reskillable.misc.locked.armor_equip=你沒資格穿戴該裝備 請升級!
+
+# FORMATS
+reskillable.requirements.format.skill=%s%s: %s%d
+reskillable.requirements.format.advancement=進度： %s%s
+reskillable.requirements.format.trait=特性： %s%s
+reskillable.requirements.format.unobtainable=無法獲得
+reskillable.requirements.format.and=AND
+reskillable.requirements.format.nand=NAND
+reskillable.requirements.format.or=OR
+reskillable.requirements.format.nor=NOR
+reskillable.requirements.format.xor=XOR
+reskillable.requirements.format.xnor=XNOR
+
+# SKILL NAMES
+reskillable.skill.reskillable.mining=挖掘
+reskillable.skill.reskillable.gathering=採集
+reskillable.skill.reskillable.attack=攻擊
+reskillable.skill.reskillable.defense=防禦
+reskillable.skill.reskillable.building=建造
+reskillable.skill.reskillable.farming=農耕
+reskillable.skill.reskillable.agility=敏捷
+reskillable.skill.reskillable.magic=魔法
+
+# UNLOCKABLE NAMES
+reskillable.unlock.reskillable.obsidian_smasher=黑曜石破壞者
+reskillable.unlock.reskillable.obsidian_smasher.desc=顯著提高使用鑽石鎬破壞黑曜石的速度
+reskillable.unlock.reskillable.fossil_digger=化石開採者
+reskillable.unlock.reskillable.fossil_digger.desc=在使用不帶有絲綢之觸附魔的鐵鎬或更高等級的鎬子挖掘煤礦時有很小的概率掉落兩個煤炭
+reskillable.unlock.reskillable.ore_cascade=連鎖挖礦
+reskillable.unlock.reskillable.ore_cascade.desc=切換能力：挖掘一個礦物方塊時將導致整個礦脈都被挖掘下來而鎬子會掉落雙倍的耐久
+reskillable.unlock.reskillable.lucky_fisherman=幸運漁夫
+reskillable.unlock.reskillable.lucky_fisherman.desc=增加釣魚時的運氣
+reskillable.unlock.reskillable.drop_guarantee=掉落保障
+reskillable.unlock.reskillable.drop_guarantee.desc=如果敵對生物有掉落物，那麼將必定掉落至少一個物品
+reskillable.unlock.reskillable.neutralissse=拆彈專家
+reskillable.unlock.reskillable.neutralissse.desc=給予引爆中的苦力怕一擊可減緩引爆時間
+reskillable.unlock.reskillable.undershirt=內衣
+reskillable.unlock.reskillable.undershirt.desc=每過10 秒鐘，當你的生命值超過3 顆心時，對你造成的致命的一擊會將你的生命值減少到半顆心，而不是將你擊殺
+reskillable.unlock.reskillable.transmutation=歌萊果嬗變術
+reskillable.unlock.reskillable.transmutation.desc=解鎖將歌萊果用作可以將一些方塊轉換為其它方塊的方塊嬗變催化劑的能力
+reskillable.unlock.reskillable.perfect_recover=完美復原
+reskillable.unlock.reskillable.perfect_recover.desc=像螢石一樣會掉落其合成材料的方塊將必定掉落足夠的合成材料以重新合成
+reskillable.unlock.reskillable.more_wheat=超多小麥
+reskillable.unlock.reskillable.more_wheat.desc=在收穫完全成熟的小麥作物時有很小的概率收穫兩個小麥
+reskillable.unlock.reskillable.green_thumb=綠拇指
+reskillable.unlock.reskillable.green_thumb.desc=擁有此能力的玩家周圍的作物將會生長的更快
+reskillable.unlock.reskillable.hungry_farmer=飢餓農夫
+reskillable.unlock.reskillable.hungry_farmer.desc=進食成為被動任務（自動進食）
+reskillable.unlock.reskillable.roadwalk=陸上行走
+reskillable.unlock.reskillable.roadwalk.desc=增加在草徑上行走時的移動速度
+reskillable.unlock.reskillable.golden_osmosis=黃金修補
+reskillable.unlock.reskillable.golden_osmosis.desc=在手持金制工具時，它將會汲取使用者的經驗來飛速修復自身
+reskillable.unlock.reskillable.sidestep=閃避
+reskillable.unlock.reskillable.sidestep.desc=在按住疾跑鍵向後移動時按兩下“向左移動”鍵或“向右移動”鍵將會向該方向進行閃避，該技能冷卻時間很短
+reskillable.unlock.reskillable.safe_port=安全港
+reskillable.unlock.reskillable.safe_port.desc=使用終界珍珠傳送將不會造成傷害
+reskillable.unlock.reskillable.battle_spirit=戰魂
+reskillable.unlock.reskillable.battle_spirit.desc=擊殺怪物將給予你短暫的力量效果
+reskillable.unlock.reskillable.effect_twist=效果扭曲
+reskillable.unlock.reskillable.effect_twist.desc=當玩家擁有良性的藥水效果時被怪物攻擊，則有一定機率給予攻擊者該效果的惡性版本的效果
+reskillable.unlock.reskillable.hillwalker=爬坡行者
+reskillable.unlock.reskillable.hillwalker.desc=經過漫長旅程和陡峭山壁，您已經達到隨時隨都能奔跑的狀態。你擁有步行輔助!
+
+# RANK NAMES
+reskillable.rank.0=新手
+reskillable.rank.1=菜鳥
+reskillable.rank.2=學徒
+reskillable.rank.3=熟練工
+reskillable.rank.4=能手
+reskillable.rank.5=技師
+reskillable.rank.6=專家
+reskillable.rank.7=大師
+reskillable.rank.8=宗師
+
+# TAB NAMES
+reskillable.tab.inventory=物品欄
+reskillable.tab.skills=技能
+reskillable.tab.abilities=能力
+
+# KEY-BINDINGS
+key.controls.reskillable=可重新安裝
+key.open_gui=開放技能GUI
+
+# TOAST MESSAGES
+reskillable.toast.skill_desc=提升等級至: %s
+reskillable.toast.unlockable_desc=已解鎖！
+
+
+# COMMANDS
+reskillable.command.usage=/reskillable subcommand
+reskillable.command.resetskill.usage=/reskillable resetskill <player> <skill>
+reskillable.command.setskilllevel.usage=/reskillable setskilllevel <player> <skill> <level>
+reskillable.command.incrementskill.usage=/reskillable incrementskill <player> <skill>
+reskillable.command.resetall.usage=/reskillable resetall <player>
+reskillable.command.toggletrait.usage=/reskillable toggletrait <player> <trait>
+
+reskillable.command.success.unlocktrait=Successfully unlocked '%s' for player '%s'.
+reskillable.command.success.locktrait=Successfully locked '%s' for player '%s'.
+reskillable.command.success.resetskill=Successfully reset Skill: '%s' for player '%s'.
+reskillable.command.success.setskilllevel=Successfully set the level of Skill: '%s' to '%s' for player '%s'.
+reskillable.command.success.skillup=Successfully leveled up Skill: '%s' for player '%s'.
+reskillable.command.success.resetall=Successfully reset all skills for player '%s'.
+
+reskillable.command.fail.unlocktrait=Failed to unlock '%s' for player '%s'.
+reskillable.command.fail.locktrait=Failed to lock '%s' for player '%s'.
+reskillable.command.fail.resetskill=Failed to reset Skill: '%s' for player '%s'.
+reskillable.command.fail.setskilllevel=Failed to set the level of Skill: '%s' to '%s' for player '%s'.
+reskillable.command.fail.skillup=Failed to level up Skill: '%s' for player '%s'.
+reskillable.command.fail.resetall=Failed to reset skills '%s' for player '%s'.
+
+reskillable.command.invalid.skill=Skill '%s' is invalid.
+reskillable.command.invalid.trait=Trait '%s' is invalid.
+reskillable.command.invalid.pastcap=Level '%s' is past the cap of '%s' for that skill.
+reskillable.command.invalid.belowmin=Level '%s' is below the minimum level of '1'.
+
+reskillable.command.invalid.missing.skill=You must enter the name of a skill.
+reskillable.command.invalid.missing.trait=You must enter the name of a trait.
+reskillable.command.invalid.missing.player=You must enter the name of a player.
+reskillable.command.invalid.missing.level=You must enter a level to set the skill to.
+reskillable.command.invalid.missing.playerskill=You must enter the name of both a player and a skill.
+reskillable.command.invalid.missing.playertrait=You must enter the name of both a player and a trait.
+reskillable.command.invalid.missing.playerskilllevel=You must enter the name of both a player and a skill, and a level for the skill.
+reskillable.command.invalid.missing.skilllevel=You must enter the name of a skill, and a level for the skill.
+
+# ADVANCMENTS
+reskillable.advancement.first_level.title=第一次升級！
+reskillable.advancement.first_level.desc=您已經掌握了第一門技能
+
+reskillable.advancement.attack_5.title=攻擊！
+reskillable.advancement.attack_5.desc=您已將攻擊等級提高至5
