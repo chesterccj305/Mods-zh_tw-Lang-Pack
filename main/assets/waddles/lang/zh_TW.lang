@@ -1,0 +1,12 @@
+#Entity
+entity.waddles:adelie_penguin.name=阿德利企鵝
+
+#Subtitles
+waddles:subtitles.adelie.ambient=阿德利企鵝：吱吱聲
+waddles:subtitles.adelie.baby.ambient=幼年阿德利企鵝：吱吱聲
+waddles:subtitles.adelie.death=阿德利企鵝：一命鳴呼
+waddles:subtitles.adelie.hurt=阿德利企鵝：受到傷害
+
+#Tooltip
+waddles:config.category.general.tooltip=基礎設置
+waddles:config.category.spawnchances.tooltip=生成概率設置
