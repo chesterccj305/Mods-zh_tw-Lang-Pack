@@ -278,3 +278,8 @@ entity.mocreatures:wildpolarbear.name=北極熊
 entity.mocreatures:wraith.name=幽靈
 entity.mocreatures:wwolf.name=野狼
 entity.mocreatures:wyvern.name=飛龍
+
+entity.mocreatures:kittybed.name=貓床
+entity.mocreatures:litterbox.name=貓盒
+entity.mocreatures:egg.name=蛋
+entity.mocreatures:manticorepet.name=蠍獅(寵物)
