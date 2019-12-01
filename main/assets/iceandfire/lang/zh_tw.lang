@@ -467,6 +467,7 @@ hippogryph.command.new_home=這隻鷹馬的巢穴座標設定為： %d, %d, %d.
 cockatrice.command.0=這隻雞蛇獸正在徘迴.
 cockatrice.command.1=這隻雞蛇獸正在待命.
 cockatrice.command.2=這隻雞蛇獸目前跟隨著你.
+cockatrice.command.3=這隻雞蛇獸正在巡邏.
 myrmex.message.raised_reputation=你贏得了巨蟻們的信任，(友好度 %d, 提升到 %d.)
 myrmex.message.lowered_reputation=§c你失去了巨蟻們的信任，(友好度 %d, 下降到 %d.)
 myrmex.message.peaceful=這座巢穴的巨蟻不再主動攻擊你.
