@@ -24,7 +24,7 @@ reskillable.requirements.format.nor=NOR
 reskillable.requirements.format.xor=XOR
 reskillable.requirements.format.xnor=XNOR
 
-# SKILL NAMES
+# SKILL NAMES 技能名稱
 reskillable.skill.reskillable.mining=挖掘
 reskillable.skill.reskillable.gathering=採集
 reskillable.skill.reskillable.attack=攻擊
@@ -98,8 +98,7 @@ key.open_gui=開放技能GUI
 reskillable.toast.skill_desc=提升等級至: %s
 reskillable.toast.unlockable_desc=已解鎖！
 
-
-# COMMANDS
+# COMMANDS 指令
 reskillable.command.usage=/reskillable subcommand
 reskillable.command.resetskill.usage=/reskillable resetskill <player> <skill>
 reskillable.command.setskilllevel.usage=/reskillable setskilllevel <player> <skill> <level>
@@ -135,7 +134,7 @@ reskillable.command.invalid.missing.playertrait=You must enter the name of both 
 reskillable.command.invalid.missing.playerskilllevel=You must enter the name of both a player and a skill, and a level for the skill.
 reskillable.command.invalid.missing.skilllevel=You must enter the name of a skill, and a level for the skill.
 
-# ADVANCMENTS
+# ADVANCMENTS 進度
 reskillable.advancement.first_level.title=第一次升級！
 reskillable.advancement.first_level.desc=您已經掌握了第一門技能
 
