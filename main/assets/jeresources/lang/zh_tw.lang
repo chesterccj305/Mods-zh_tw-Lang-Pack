@@ -32,7 +32,7 @@ jer.any=任意
 jer.dim.no=無有效生成維度
 jer.not=否
 
-#Dungeon View
+#Dungeon View 獎利箱信息
 jer.dungeon.title=地牢資源
 jer.dungeon.abandonedMineshaftChest=廢棄礦坑
 jer.dungeon.desertPyramidChest=沙漠神殿
@@ -48,13 +48,13 @@ jer.dungeon.endCityTreasureChest=終界城
 jer.dungeon.iglooChest=雪屋
 jer.dungeon.woodlandMansion=綠林府邸
 
-#Enchantments View
+#Enchantments View 附魔信息
 jer.enchantments.title=可用附魔屬性
 
-#Plant View
+#Plant View 植物信息
 jer.plant.title=植物掉落信息
 
-#Ore View
+#Ore View 礦物分佈
 jer.worldgen.title=礦物生成
 jer.worldgen.silkTouch=需要絲綢之處
 jer.worldgen.biomes=生物群系
@@ -124,7 +124,7 @@ jer.belowLooting.text=掉落條件：掠奪附魔等級小於%s
 jer.killedBy.text=掉落條件：被%s殺死
 jer.notKilledBy.text=掉落條件：未被%s殺死
 
-#Moon Phases
+#Moon Phases月相
 jer.full.moon=滿月
 jer.waning_gibbous.moon=虧凸月
 jer.third_quarter.moon=下弦月
