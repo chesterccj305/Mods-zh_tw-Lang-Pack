@@ -400,92 +400,92 @@ tile.poopcloud.description=會造成緩速和反胃的雲！
 #
 #
 # ========== Fire ==========
-tile.scorchfire.name=Scorchfire
-tile.scorchfire.description=An enchanted fire, not as hot as normal fire but it applies penetration, increasing the damage taken.
+tile.scorchfire.name=熾焰
+tile.scorchfire.description=一種附帶魔法的火焰，它不像正常火焰那麼熾熱，但會穿透，增加了受到的傷害。
 #
-tile.doomfire.name=Doomfire
-tile.doomfire.description=An evil flame writhing with demonic rage. Burns and spreads faster than regular fire.
+tile.doomfire.name=死焰
+tile.doomfire.description=一種邪惡般火焰纏繞著惡魔的憤怒。 燃燒和蔓延的速度比正常火焰快。
 #
-tile.hellfire.name=Hellfire
-tile.hellfire.description=A wicked flame tainted by twisted demonic energy. Burns longer, spreads slower, deals more damage than fire.
+tile.hellfire.name=地獄火
+tile.hellfire.description=一種附著邪惡能量的邪惡火焰。 比正常火焰燃燒時間更長，傳播速度更慢，造成的傷害。
 #
-tile.icefire.name=Icefire
-tile.icefire.description=A magical flame that freezes, will cause damage and apply movement slowdown.
+tile.icefire.name=冰火
+tile.icefire.description=一種冰魔法創造而成的火焰，會造成傷害及緩慢。
+#.
+tile.shadowfire.name=影火
+tile.shadowfire.description=一種黑暗的火焰，會造成傷害及失明。
 #
-tile.shadowfire.name=Shadowfire
-tile.shadowfire.description=A dark flame that damages and applies blindness.
+tile.frostcloud.name=霜雲
+tile.frostcloud.description=一種小型冰雪雲朵，會造成緩速及飢餓。
 #
-tile.frostcloud.name=Frostcloud
-tile.frostcloud.description=A small snow cloud that applies movement slowdown and hunger.
-#
-tile.frostfire.name=Frostfire
-tile.frostfire.description=A magical flame that superfreezes, will cause damage and apply movement slowdown. Can spawn Reivers.
+tile.frostfire.name=霜火
+tile.frostfire.description=霜火為冰火的增強版，在原本造成傷害以及緩速的基礎上，霜火還能生成雪元素。
 #
 #
 # ========== Fluids ==========
-tile.purelava.name=Moglava
-tile.purelava.description=Clearer than regular lava, flows slightly faster and no creatures spawn in this. Can be renewed like water.
+tile.purelava.name=純熔岩
+tile.purelava.description=比普通的熔岩更清澈，並且沒有生物生存其中。流動速度和水一樣。
 #
-tile.ooze.name=Ooze
-tile.ooze.description=An icy gel substance, causes slowness, hunger and applies low damage over time.
+tile.ooze.name=膠狀水
+tile.ooze.description=冰冷的凝膠物質，會導致緩速及飢餓，隨時間推移造成的傷害較小。
 #
 #
 # ========== Vespid ==========
-tile.veswax.name=Veswax
-tile.veswax.description=A tough clay-like substance created by Vespids usually to form hive walls.
+tile.veswax.name=蜂蠟
+tile.veswax.description=一種用來黏糊巢穴的主要材料，質地與陶瓦有的一拼。
 #
-tile.propolis.name=Propolis
-tile.propolis.description=A tough clay-like substance created by Vespids usually to form hive floors and ceilings.
+tile.propolis.name=蜂膠
+tile.propolis.description=一種用來搭建蜂巢地基的主要材料，它像陶瓦一樣堅硬。
 # ========================================================================
-tile.demonstonebrick_stairs.name=Demonstone Brick Stairs
-tile.demonstonebrick_stairs.description=Some say the greater demons ensalve lesser demons as slaves to build evil temples.
+tile.demonstonebrick_stairs.name=惡魔磚樓梯
+tile.demonstonebrick_stairs.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
 #
-tile.demoncrystal.name=Demon Crystal
-tile.demoncrystal.description=The symbol acts as a ward as the trapped demonic energy rages within emiting a wicked light.
+tile.demoncrystal.name=惡魔水晶
+tile.demoncrystal.description=當被捕獲的惡魔能量在內部發出邪惡的光線時所產生的結晶。
 #
-tile.demonstonechiseled.name=Chiseled Demonstone
-tile.demonstonechiseled.description=It is unknown why greater demons demand such detail for their temples, perhaps they are a status symbol?
+tile.demonstonechiseled.name=浮雕惡魔石磚
+tile.demonstonechiseled.description=為什麼強大的惡魔會為他們的神殿要求如此的細節，也許它們是地位的象徵？
 #
-tile.demonstonebrick_wall.name=Demonstone Brick Wall
-tile.demonstonebrick_wall.description=Some say the greater demons ensalve lesser demons as slaves to build evil temples.
+tile.demonstonebrick_wall.name=惡魔磚牆
+tile.demonstonebrick_wall.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
 #
-tile.demonstone.name=Demonstone
-tile.demonstone.description=Stone infused with the evil essence of a great demon.
+tile.demonstone.name=惡魔石
+tile.demonstone.description=注入了大惡魔邪惡本質的石頭。
 #
-tile.demonstonebrick_slab.name=Demonstone Brick Slab
-tile.demonstonebrick_slab.description=Some say the greater demons ensalve lesser demons as slaves to build evil temples.
+tile.demonstonebrick_slab.name=惡魔磚半磚
+tile.demonstonebrick_slab.description=注入了大惡魔邪惡本質的石頭。
 #
-tile.demonstone_stairs.name=Demonstone Stairs
-tile.demonstone_stairs.description=Stone infused with the evil essence of a great demon.
+tile.demonstone_stairs.name=惡魔石樓梯
+tile.demonstone_stairs.description=注入了大惡魔邪惡本質的石頭。
 #
-tile.demonstone_slab.name=Demonstone Slab
-tile.demonstone_slab.description=Stone infused with the evil essence of a great demon.
+tile.demonstone_slab.name=惡魔石半磚
+tile.demonstone_slab.description=注入了大惡魔邪惡本質的石頭。
 #
-tile.demonstonebrick_fence.name=Demonstone Brick Fence
-tile.demonstonebrick_fence.description=Some say the greater demons ensalve lesser demons as slaves to build evil temples.
+tile.demonstonebrick_fence.name=惡魔磚柵欄
+tile.demonstonebrick_fence.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
 #
-tile.demonstonepillar.name=Demonstone Pillar
-tile.demonstonepillar.description=The demonic temples are built big and while caked in the blood of the suffering, they look majestic.
+tile.demonstonepillar.name=惡魔石柱
+tile.demonstonepillar.description=惡魔的神殿一般造的十分宏偉，在加上它更顯輝煌
 #
-tile.demonstonetile_slab.name=Demonstone Tile Slab
-tile.demonstonetile_slab.description=How can something of such evil contain so much beauty?
+tile.demonstonetile_slab.name=惡魔瓷磚半磚
+tile.demonstonetile_slab.description=如此邪惡的東西怎麼會這麼美麗呢？
 #
-tile.demonstonetile.name=Demonstone Tile
-tile.demonstonetile.description=How can something of such evil contain so much beauty?
+tile.demonstonetile.name=惡魔瓷磚
+tile.demonstonetile.description=如此邪惡的東西怎麼會這麼美麗呢？
 #
-tile.demonstone_slab_double.name=Double Demonstone Slab
-tile.demonstone_slab_double.description=Stone infused with the evil essence of a great demon.
+tile.demonstone_slab_double.name=雙層惡魔石半磚
+tile.demonstone_slab_double.description=注入了大惡魔邪惡本質的半磚。
 #
-tile.demonstonebrick.name=Demonstone Brick
-tile.demonstonebrick.description=Some say the greater demons ensalve lesser demons as slaves to build evil temples.
+tile.demonstonebrick.name=惡魔磚
+tile.demonstonebrick.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
 #
-tile.demonstonepolished.name=Polished Demonstone
+tile.demonstonepolished.name=平滑惡魔石
 tile.demonstonepolished.description=Once polished, the demonic stone looks like fresh blood.
 #
-tile.demonstonetile_stairs.name=Demonstone Tile Stairs
+tile.demonstonetile_stairs.name=惡魔瓷磚樓弟
 tile.demonstonetile_stairs.description=How can something of such evil contain so much beauty?
 #
-tile.soulcubedemonic.name=Demonic Soulcube
+tile.soulcubedemonic.name=惡魔靈魂立方
 tile.soulcubedemonic.description=A source of great demonic energy waiting to be unleashed, perfect for luring a great evil...
 # ========================================================================
 tile.desertstonebrick_stairs.name=Desertstone Brick Stairs
