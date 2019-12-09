@@ -480,1478 +480,1478 @@ tile.demonstonebrick.name=惡魔磚
 tile.demonstonebrick.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
 #
 tile.demonstonepolished.name=平滑惡魔石
-tile.demonstonepolished.description=Once polished, the demonic stone looks like fresh blood.
+tile.demonstonepolished.description=經過拋光之後，猶如注入新鮮血液般。
 #
-tile.demonstonetile_stairs.name=惡魔瓷磚樓弟
-tile.demonstonetile_stairs.description=How can something of such evil contain so much beauty?
+tile.demonstonetile_stairs.name=惡魔瓷磚樓梯
+tile.demonstonetile_stairs.description=如此邪惡的東西怎麼會這麼美麗呢？
 #
 tile.soulcubedemonic.name=惡魔靈魂立方
-tile.soulcubedemonic.description=A source of great demonic energy waiting to be unleashed, perfect for luring a great evil...
-# ========================================================================
-tile.desertstonebrick_stairs.name=Desertstone Brick Stairs
-tile.desertstonebrick_stairs.description=A refined sandstone used to build great desert monuments.
+tile.soulcubedemonic.description=一個完美的惡魔能量源正在被釋放，可以吸引到一直強大的惡魔...
+# ================================================= =======================
+tile.desertstonebrick_stairs.name=沙漠石磚樓梯
+tile.desertstonebrick_stairs.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertcrystal.name=Desert Crystal
-tile.desertcrystal.description=Strange glass enchanted with light magic.
+tile.desertcrystal.name=沙漠水晶
+tile.desertcrystal.description=用光魔法附魔的奇怪玻璃。
 #
-tile.desertstonechiseled.name=Chiseled Desertstone
-tile.desertstonechiseled.description=Finely carved desertstone.
+tile.desertstonechiseled.name=浮雕沙漠石
+tile.desertstonechiseled.description=精雕細刻的沙漠石。
 #
-tile.desertstonebrick_wall.name=Desertstone Brick Wall
-tile.desertstonebrick_wall.description=A refined sandstone used to build great desert monuments.
+tile.desertstonebrick_wall.name=沙漠石磚牆
+tile.desertstonebrick_wall.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstone.name=Desertstone
-tile.desertstone.description=A refined sandstone used to build great desert monuments.
+tile.desertstone.name=沙漠石
+tile.desertstone.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstonebrick_slab.name=Desertstone Brick Slab
-tile.desertstonebrick_slab.description=A refined sandstone used to build great desert monuments.
+tile.desertstonebrick_slab.name=沙漠石磚半磚
+tile.desertstonebrick_slab.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstone_stairs.name=Desertstone Stairs
-tile.desertstone_stairs.description=A refined sandstone used to build great desert monuments.
+tile.desertstone_stairs.name=沙漠石樓梯
+tile.desertstone_stairs.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstone_slab.name=Desertstone Slab
-tile.desertstone_slab.description=A refined sandstone used to build great desert monuments.
+tile.desertstone_slab.name=沙漠石半磚
+tile.desertstone_slab.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstonebrick_fence.name=Desertstone Brick Fence
-tile.desertstonebrick_fence.description=A refined sandstone used to build great desert monuments.
+tile.desertstonebrick_fence.name=沙漠石磚柵欄
+tile.desertstonebrick_fence.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstonepillar.name=Desertstone Pillar
-tile.desertstonepillar.description=A refined sandstone used to build great desert monuments.
+tile.desertstonepillar.name=沙漠石柱
+tile.desertstonepillar.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstonetile_slab.name=Desertstone Tile Slab
-tile.desertstonetile_slab.description=Decorated desertstone used to pave the floors of great monuments.
+tile.desertstonetile_slab.name=沙漠瓷瓦半磚
+tile.desertstonetile_slab.description=裝飾沙漠石曾經鋪砌了偉大古蹟的地面。
 #
-tile.desertstonetile.name=Desertstone Tile
-tile.desertstonetile.description=Decorated desertstone used to pave the floors of great monuments.
+tile.desertstonetile.name=沙漠瓷瓦
+tile.desertstonetile.description=裝飾沙漠石曾經鋪砌了偉大古蹟的地面。
 #
-tile.desertstone_slab_double.name=Double Desertstone Slab
-tile.desertstone_slab_double.description=A refined sandstone used to build great desert monuments.
+tile.desertstone_slab_double.name=雙層沙漠石半磚
+tile.desertstone_slab_double.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstonebrick.name=Desertstone Brick
-tile.desertstonebrick.description=A refined sandstone used to build great desert monuments.
+tile.desertstonebrick.name=沙漠石磚
+tile.desertstonebrick.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstonepolished.name=Polished Desertstone
-tile.desertstonepolished.description=A refined sandstone used to build great desert monuments.
+tile.desertstonepolished.name=平滑沙漠石
+tile.desertstonepolished.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
 #
-tile.desertstonetile_stairs.name=Desertstone Tile Stairs
-tile.desertstonetile_stairs.description=Decorated desertstone used to pave the floors of great monuments.
+tile.desertstonetile_stairs.name=沙漠瓷瓦樓梯
+tile.desertstonetile_stairs.description=裝飾沙漠石曾經鋪砌了偉大古蹟的地面。
 #
-tile.soulcubedesertic.name=Desertic Soulcube
-tile.soulcubedesertic.description=A strange device full of complex light, gravity and earth magic.
+tile.soulcubedesertic.name=沙漠靈魂立方
+tile.soulcubedesertic.description=一種充滿複雜光，重力和大地魔法的奇怪裝置。
 # ========================================================================
-tile.lushstonebrick_stairs.name=Lushstone Brick Stairs
-tile.lushstonebrick_stairs.description=The very essence of nature courses through this stone.
+tile.lushstonebrick_stairs.name=蔥鬱石磚樓梯
+tile.lushstonebrick_stairs.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushcrystal.name=Lush Crystal
-tile.lushcrystal.description=The symbol acts as a ward as the trapped lushic energy rages within emiting a wicked light.
+tile.lushcrystal.name=蔥鬱水晶
+tile.lushcrystal.description=這個符號就像一個守衛，被困的蔥鬱能量在釋放邪惡的光中肆虐。
 #
-tile.lushstonechiseled.name=Chiseled Lushstone
-tile.lushstonechiseled.description=The very essence of nature courses through this stone.
+tile.lushstonechiseled.name=浮雕蔥鬱石
+tile.lushstonechiseled.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonebrick_wall.name=Lushstone Brick Wall
-tile.lushstonebrick_wall.description=The very essence of nature courses through this stone.
+tile.lushstonebrick_wall.name=蔥鬱石磚牆
+tile.lushstonebrick_wall.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstone.name=Lushstone
-tile.lushstone.description=The very essence of nature courses through this stone.
+tile.lushstone.name=蔥鬱石
+tile.lushstone.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonebrick_slab.name=Lushstone Brick Slab
-tile.lushstonebrick_slab.description=The very essence of nature courses through this stone.
+tile.lushstonebrick_slab.name=蔥鬱石磚半磚
+tile.lushstonebrick_slab.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstone_stairs.name=Lushstone Stairs
-tile.lushstone_stairs.description=The very essence of nature courses through this stone.
+tile.lushstone_stairs.name=蔥鬱石樓梯
+tile.lushstone_stairs.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstone_slab.name=Lushstone Slab
-tile.lushstone_slab.description=The very essence of nature courses through this stone.
+tile.lushstone_slab.name=蔥鬱石半磚
+tile.lushstone_slab.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonebrick_fence.name=Lushstone Brick Fence
-tile.lushstonebrick_fence.description=The very essence of nature courses through this stone.
+tile.lushstonebrick_fence.name=蔥鬱石磚柵欄
+tile.lushstonebrick_fence.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonepillar.name=Lushstone Pillar
-tile.lushstonepillar.description=The very essence of nature courses through this stone.
+tile.lushstonepillar.name=蔥鬱石柱
+tile.lushstonepillar.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonetile_slab.name=Lushstone Tile Slab
-tile.lushstonetile_slab.description=The very essence of nature courses through this stone.
+tile.lushstonetile_slab.name=蔥鬱石瓷瓦半磚
+tile.lushstonetile_slab.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonetile.name=Lushstone Tile
-tile.lushstonetile.description=The very essence of nature courses through this stone.
+tile.lushstonetile.name=蔥鬱石瓷瓦
+tile.lushstonetile.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstone_slab_double.name=Double Lushstone Slab
-tile.lushstone_slab_double.description=The very essence of nature courses through this stone.
+tile.lushstone_slab_double.name=雙層蔥鬱石半磚
+tile.lushstone_slab_double.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonebrick.name=Lushstone Brick
-tile.lushstonebrick.description=The very essence of nature courses through this stone.
+tile.lushstonebrick.name=蔥鬱石磚
+tile.lushstonebrick.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonepolished.name=Polished Lushstone
-tile.lushstonepolished.description=The very essence of nature courses through this stone.
+tile.lushstonepolished.name=平滑蔥鬱石
+tile.lushstonepolished.description=大自然的本質貫穿於這塊石頭。
 #
-tile.lushstonetile_stairs.name=Lushstone Tile Stairs
-tile.lushstonetile_stairs.description=The very essence of nature courses through this stone.
+tile.lushstonetile_stairs.name=蔥鬱石瓷瓦樓梯
+tile.lushstonetile_stairs.description=大自然的本質貫穿於這塊石頭。
 #
-tile.soulcubelushic.name=Lushic Soulcube
-tile.soulcubelushic.description=Enchanted crystal glass that glows like moonlight.
+tile.soulcubelushic.name=蔥鬱靈魂立方
+tile.soulcubelushic.description=附魔的水晶玻璃，如月光般閃耀。
 # ========================================================================
 #
-tile.shadowstonebrick_stairs.name=Shadowstone Brick Stairs
-tile.shadowstonebrick_stairs.description=The caps between the bricks seem to suck in the light.
+tile.shadowstonebrick_stairs.name=陰影石磚樓梯
+tile.shadowstonebrick_stairs.description=磚塊之間的縫隙似乎能吸收可見光。
 #
-tile.shadowstonetile_stairs.name=Shadowstone Tile Stairs
-tile.shadowstonetile_stairs.description=Walk upon the darkness and smile, you have achieved great things.
+tile.shadowstonetile_stairs.name=陰影石瓷瓦樓梯
+tile.shadowstonetile_stairs.description=走在黑暗與光明之間，你已經取得了偉大的成就。
 #
-tile.shadowstonebrick_fence.name=Shadowstone Brick Fence
-tile.shadowstonebrick_fence.description=The caps between the bricks seem to suck in the light.
+tile.shadowstonebrick_fence.name=陰影石磚柵欄
+tile.shadowstonebrick_fence.description=磚塊之間的縫隙似乎能吸收可見光。
 #
-tile.shadowcrystal.name=Shadow Crystal
-tile.shadowcrystal.description=As the rune rapidly pulls in the light, it becomes so dark that it is bright.
+tile.shadowcrystal.name=陰影水晶
+tile.shadowcrystal.description=隨著符文能量的匯聚，它變得黑暗以至於光明。
 #
-tile.shadowstone_slab_double.name=Double Shadowstone Slab
-tile.shadowstone_slab_double.description=Stone crafted from the very shadows.
+tile.shadowstone_slab_double.name=雙層陰影石半磚
+tile.shadowstone_slab_double.description=石頭是用陰影製作而成的。
 #
-tile.shadowstonechiseled.name=Chiseled Shadowstone
-tile.shadowstonechiseled.description=The most effective way to chisel Shadowstone is to use the bones of your victims.
+tile.shadowstonechiseled.name=浮雕陰影石
+tile.shadowstonechiseled.description=想要雕刻陰影石，最好的方法就是用那些作為你的受害者的骨頭雕刻。
 #
-tile.shadowstone.name=Shadowstone
-tile.shadowstone.description=Stone crafted from the very shadows.
+tile.shadowstone.name=陰影石
+tile.shadowstone.description=石頭是用陰影製作而成的。
 #
-tile.shadowstone_stairs.name=Shadowstone Stairs
-tile.shadowstone_stairs.description=Stone crafted from the very shadows.
+tile.shadowstone_stairs.name=陰影石樓梯
+tile.shadowstone_stairs.description=石頭是用陰影製作而成的。
 #
-tile.shadowstone_slab.name=Shadowstone Slab
-tile.shadowstone_slab.description=Stone crafted from the very shadows.
+tile.shadowstone_slab.name=陰影石半磚
+tile.shadowstone_slab.description=石頭是用陰影製作而成的。
 #
-tile.shadowstonetile.name=Shadowstone Tile
-tile.shadowstonetile.description=Walk upon the darkness and smile, you have achieved great things.
+tile.shadowstonetile.name=陰影石瓷瓦
+tile.shadowstonetile.description=走在黑暗與光明之間，你已經取得了偉大的成就。
 #
-tile.shadowstonebrick_slab.name=Shadowstone Brick Slab
-tile.shadowstonebrick_slab.description=The caps between the bricks seem to suck in the light.
+tile.shadowstonebrick_slab.name=陰影石磚半磚
+tile.shadowstonebrick_slab.description=磚塊之間的縫隙似乎能吸收可見光。
 #
-tile.shadowstonepolished.name=Polished Shadowstone
-tile.shadowstonepolished.description=Whilst associated with fear and despair, the shadows are soft and somewhat comforting...
+tile.shadowstonepolished.name=平滑陰影石
+tile.shadowstonepolished.description=將陰影和恐懼連接在一起，不失柔和，又帶有些安慰…
 #
-tile.shadowstonebrick.name=Shadowstone Brick
-tile.shadowstonebrick.description=The caps between the bricks seem to suck in the light.
+tile.shadowstonebrick.name=陰影石磚
+tile.shadowstonebrick.description=磚塊之間的縫隙似乎能吸收可見光。
 #
-tile.shadowstonepillar.name=Shadowstone Pillar
-tile.shadowstonepillar.description=Let those around you be dominated as they gaze upon your dark majesty.
+tile.shadowstonepillar.name=陰影石柱
+tile.shadowstonepillar.description=給予人一種黑暗中延伸出威嚴之感。
 #
-tile.shadowstonetile_slab.name=Shadowstone Tile Slab
-tile.shadowstonetile_slab.description=Walk upon the darkness and smile, you have achieved great things.
+tile.shadowstonetile_slab.name=陰影石瓷瓦半磚
+tile.shadowstonetile_slab.description=走在黑暗與光明之間，你已經取得了偉大的成就。
 #
-tile.shadowstonebrick_wall.name=Shadowstone Brick Wall
-tile.shadowstonebrick_wall.description=The caps between the bricks seem to suck in the light.
+tile.shadowstonebrick_wall.name=陰影石磚牆
+tile.shadowstonebrick_wall.description=磚塊之間的縫隙似乎能吸收可見光。
 # ========================================================================
-entity.lycanitesmobs.abaia.name=Abaia
-entity.lycanitesmobs.abaia.description=Aggressive eels that generate an electric current through their body.
-entity.lycanitesmobs.abaia.habitat=These fish are catadromous meaning they are born in saltwater oceans and then migrate and mature in freshwater rivers before returning to saltwater again, some end up trapped in lakes and create a colony there also, so they can be found in most locations.
-entity.lycanitesmobs.abaia.combat=While Abaia use their electrical current to shock anything near them, they also have a nasty bite.
-# ========================================================================
-entity.lycanitesmobs.abtu.name=Abtu
-entity.lycanitesmobs.abtu.description=Vicious fish with big teeth! It is rare to find adults as their reckless nature means they don't live too long!
-entity.lycanitesmobs.abtu.habitat=These fish are found commonly in saltwater oceans and beaches.
-entity.lycanitesmobs.abtu.combat=Once an Abtu has sense of it's prey, it will stop at nothing to devour it, they are known to even jump onto land and chase their prey! Adult Abtu are more reserved but also rare, they will call nearby infants to swarm their prey.
-# ========================================================================
-entity.lycanitesmobs.aegis.name=Aegis
-entity.lycanitesmobs.aegis.description=Law enforcing Order Elementals, Aegis have been known to enforce the law around villages, even petty thieves will be mercilessly pursued.
-entity.lycanitesmobs.aegis.habitat=Being Order Elementals, Aegis manifest in areas rich in the Order element, thus villages very commonly create these creatures.
-entity.lycanitesmobs.aegis.combat=Aegis have two modes that they shift between, a defensive Shield Mode where they will block most damage with two large rotating shields and an offensive Sword Mode where they will shred through their target with four spinning blades.
-# ========================================================================
-entity.lycanitesmobs.afrit.name=Afrit
-entity.lycanitesmobs.afrit.description=Wicked flame imps that are bent on destruction, they will aggressively burn the world around them.
-entity.lycanitesmobs.afrit.habitat=These imps are usually found bathing in pools of lava.
-entity.lycanitesmobs.afrit.combat=Afrits usually attack from a distance by throwing balls of Scorchfire, a deadly combination of hot fire and a strong acid that weakens the defenses of anything that is hit.
-# ========================================================================
-entity.lycanitesmobs.aglebemu.name=Aglebemu
-entity.lycanitesmobs.aglebemu.description=Large poisonous frogs with excellent swimming ability as well as amazing jumping power and a deadly long tongue!
-entity.lycanitesmobs.aglebemu.habitat=These amphibians are usually found in swamplands.
-entity.lycanitesmobs.aglebemu.combat=Aglebemu use their powerful, extremely long and sharp tongues to spear their victims and inject a deadly concoction of contagious bacteria.
-# ========================================================================
-entity.lycanitesmobs.argus.name=Argus
-entity.lycanitesmobs.argus.description=Disruptive Chaos elementals, Argi (plural) spread havoc in their wake.
-entity.lycanitesmobs.argus.habitat=Being Chaos Elementals, Argi are formed when there is a large concentration of Chaos in the area, this can be caused by several things but usually destroying other Elementals causes a high concentration of Chaos.
-entity.lycanitesmobs.argus.combat=These Elementals attack by launching an orb of concentrated Chaos energy, the trajectory of these orbs can be unpredictable and on impact, these orbs disrupt the very fabric of reality causing instability.
-# ========================================================================
-entity.lycanitesmobs.arisaur.name=Arisaur
-entity.lycanitesmobs.arisaur.description=Large plant covered sauropods, Arisaurs are peaceful and normally graze from trees or from their own backs sharing a symbiotic relationship.
-entity.lycanitesmobs.arisaur.habitat=Arisaurs are usually found in dense forests but can also be seen migrating through plains.
-entity.lycanitesmobs.arisaur.combat=Arisaurs are usually peaceful.
-# ========================================================================
-entity.lycanitesmobs.arix.name=Arix
-entity.lycanitesmobs.arix.description=Naughty ice imps that are constantly searching for food.
-entity.lycanitesmobs.arix.habitat=Arix thrive in cold temperatures and are often found in cold biomes as well as bathing in icy ooze.
-entity.lycanitesmobs.arix.combat=These imps wield Icefire, a form of Frost Magic that looks and behaves as though it was fire but freezes instead of burns.
-# ========================================================================
-entity.lycanitesmobs.asmodeus.name=Asmodeus
-entity.lycanitesmobs.asmodeus.description=Asmodeus is known to be the mastermind behind any form of demonic invasion, sometimes even Rahovart falls in line.
-entity.lycanitesmobs.asmodeus.habitat=It is said that Asmodeus originate from the vast Hell Planes of endless flesh called Purgatory and that they were originally powerful Astaroth meaning that once in their existence they were but mere Trites!
-entity.lycanitesmobs.asmodeus.combat=This great demon, or devil, has a wide array of attacks and is capable of jumping great heights with it's demonic mech. It will use it's huge Gatling Gun periodically to barrage targets and is also swarming with Trites that will defend it.  Phase 1: Asmodeus will release rings of projectiles outwards.  Phase 2: Asmodeus will summon large Astaroths that will project a shield around him until they are destroyed.  Phase 3: The Astaroth will instead heal Asmodeus and Cacodemons are also summoned.
-# ========================================================================
-entity.lycanitesmobs.aspid.name=Aspid
-entity.lycanitesmobs.aspid.description=Peaceful reptiles with strange growths on their backs. Aspids love mushrooms and can be farmed with them. Be careful however as they constantly emit a cloud of poison and usually leave a trail of this behind them.
-entity.lycanitesmobs.aspid.habitat=These creatures are usually found in swamps, dark forests and mushroom islands due to their love of the shroom!
-entity.lycanitesmobs.aspid.combat=Aspids are usually peaceful but the poisonous clouds they emit can be quite dangerous, these don't stop passionate farmers however!
-# ========================================================================
-entity.lycanitesmobs.astaroth.name=Astaroth
-entity.lycanitesmobs.astaroth.description=Demonic brain-like beings mounted on a mechanical platforms made from demonic redstone technology maintained by Trite minions. If you manage to get past their rapid fire weapons and destroy them, all resident Trites will crawl out and attack!
-entity.lycanitesmobs.astaroth.habitat=These demons are said to originate from the endless Hell plane of flesh called Purgatory and that they were once mere Trites, they can often be found stalking the Nether.
-entity.lycanitesmobs.astaroth.combat=Astaroth use powerful rapid weapons that extract their demonic energizes into powerful projectiles called Devil Stars, on impact these can cause wither. Should an Astaroth fall, a small force of Trites will come out of their corpse and proceed to attack!
-# ========================================================================
-entity.lycanitesmobs.banshee.name=Banshee
-entity.lycanitesmobs.banshee.description=Banshees are terrifying Phase Elementals that can phase through reality itself, they can often be heard 'singing'. It is said that the elemental is actually the pair of eyes and not the corpse that it 're-purposed'. Geonach and Djinn elementals can also fuse into a powerful Banshee.
-entity.lycanitesmobs.banshee.habitat=These elementals haunt eerie and abandoned places where they are usually found around abandoned mineshafts as well as dark forests and other locations that embody unease.
-entity.lycanitesmobs.banshee.combat=On contact with Banshees, the very soul of their victim is shocked with Phase Magic, this usually induces fear and panic.
-# ========================================================================
-entity.lycanitesmobs.barghest.name=Barghest
-entity.lycanitesmobs.barghest.description=Deadly mountain predators capable of making high leaps. Barghests are also very competent climbers making them exceptional mounts for the mountains.
-entity.lycanitesmobs.barghest.habitat=These beasts are usually found in mountainous areas as well as savannas.
-entity.lycanitesmobs.barghest.combat=Barghests are known to leap at their prey and tear at them causing bleeding.
-# ========================================================================
-entity.lycanitesmobs.behemoth.name=Behemoth
-entity.lycanitesmobs.behemoth.description=Tall demonic monstrosities, Behemoth are powerful demons bent on destruction.
-entity.lycanitesmobs.behemoth.habitat=Behemoth can be found in the Nether and will also invade through unprotected portals if they are large enough.
-entity.lycanitesmobs.behemoth.combat=These demons lob balls of Hellfire, a green flame created by tearing apart souls, not only do these flames burn, but they wither as well.
-# ========================================================================
-entity.lycanitesmobs.beholder.name=Beholder
-entity.lycanitesmobs.beholder.description=Large hostile masses of eyes and tentacles with an eternal hunger for magic energy!
-entity.lycanitesmobs.beholder.habitat=Beholders can be found in the mountains as they like high up places and dwell in large caves and ruins and come out at night.
-entity.lycanitesmobs.beholder.combat=These Aberrations bend gravity and void magic to create powerful Arcane Storms, that they blast from their mouths, these attacks then release deadly lasers in all directions and can be explosive on impact.
-# ========================================================================
-entity.lycanitesmobs.belph.name=Belph
-entity.lycanitesmobs.belph.description=Small but dangerous demons with a one track mind bent on killing and eating.
-entity.lycanitesmobs.belph.habitat=These demons can be found in the Nether and will invade through portals.
-entity.lycanitesmobs.belph.combat=Belphs throw balls of Doomfire, a flame made from Nether Magic, that burn an unnatural red.
-# ========================================================================
-entity.lycanitesmobs.cacodemon.name=Cacodemon
-entity.lycanitesmobs.cacodemon.description=Large floating abominations of life. Cacodemons like to bully Ghasts for their delicious tears. Can be tamed as a flying pet.
-entity.lycanitesmobs.cacodemon.habitat=These demons fly around the fiery skies of the Nether.
-entity.lycanitesmobs.cacodemon.combat=Cacodemons spit large balls of Demonic Lightning, while not actually electrical, these are balls of explosive Nether energy that will wither on impact and release smaller Demonic Sparks in all direction.
-# ========================================================================
-entity.lycanitesmobs.calpod.name=Calpod
-entity.lycanitesmobs.calpod.description=Nasty termite-like insects that swarm their prey!
-entity.lycanitesmobs.calpod.habitat=These insects can be found in the forest undergrowth and come out at night.
-entity.lycanitesmobs.calpod.combat=Calpods have a nasty bite but must be killed quickly as they will rapidly call more Calpods to join them.
-# ========================================================================
-entity.lycanitesmobs.cephignis.name=Cephignis
-entity.lycanitesmobs.cephignis.description=Large peaceful fish that have adapted to live in extreme temperatures, their bodies are as hot as lava. Cephignis can be farmed using coal or charcoal!
-entity.lycanitesmobs.cephignis.habitat=These fish can be found swimming in lava and cannot survive outside it for long.
-entity.lycanitesmobs.cephignis.combat=Cephignis are usually passive relying on their environment to protect them from most predators.
-# ========================================================================
-entity.lycanitesmobs.chupacabra.name=Chupacabra
-entity.lycanitesmobs.chupacabra.description=Dreadful creatures, their insatiable hunger for flesh can be used to manipulate and farm them.
-entity.lycanitesmobs.chupacabra.habitat=Chupacabras usually live underground in dark caves.
-entity.lycanitesmobs.chupacabra.combat=These beasts are incredibly aggressive with a deadly bite and sharp claws, however their greed can be used against them as they will prioritize large prey. Their attacks will also heal them.
-# ========================================================================
-entity.lycanitesmobs.cinder.name=Cinder
-entity.lycanitesmobs.cinder.description=Violent Fire Elementals that seeks only to burn other creatures around them.
-entity.lycanitesmobs.cinder.habitat=Being Fire Elementals, Cinders are manifested from pure Fire and so they will spawns frequently in locations with a lot of fire. They don't manifest around impure flames such as Scorchfire or Doomfire however.
-entity.lycanitesmobs.cinder.combat=Cinders release a powerful gout for fire that will burn their enemies, these flames are too weak to spread more fire however.
-# ========================================================================
-entity.lycanitesmobs.clink.name=Clink
-entity.lycanitesmobs.clink.description=Strange imps that rapidly grow metallic blades on their arms that can then be easily detached.
-entity.lycanitesmobs.clink.habitat=These imps are often found in deserts as they thrive on consuming minerals as well as flesh, they are wingless so aren't found in mountainous areas.
-entity.lycanitesmobs.clink.combat=Clinks detach the blades they grow and throw them at their enemies.
-# ========================================================================
-entity.lycanitesmobs.cockatrice.name=Cockatrice
-entity.lycanitesmobs.cockatrice.description=Deadly giant chicken-like wyverns, very dangerous, stay away!
-entity.lycanitesmobs.cockatrice.habitat=These wyvern dragons are usually found in tropical areas such as jungles as they like to consume fruit as well as devour large insects, of course, anything that moves is on the menu!
-entity.lycanitesmobs.cockatrice.combat=Cockatrice peck with beaks that drip with paralysing and aphagia inducing toxins that are said make their victims feel like they're turned into stone.
-# ========================================================================
-entity.lycanitesmobs.conba.name=Conba
-entity.lycanitesmobs.conba.description=Mischievous apes with a passion for poop!
-entity.lycanitesmobs.conba.habitat=These apes can be found in tropical biomes like jungles.
-entity.lycanitesmobs.conba.combat=Comba like to throw their sticky poop at people causing slowness and nausea as well as creating a poop cloud which extends these effects. These beast will also try to keep their distance.
-entity.lycanitesmobs.conba.infected=Infected Conba
-# ========================================================================
-entity.lycanitesmobs.concapede.name=Concapede
-entity.lycanitesmobs.concapede.description=Strange beetles that connect to each other. Heads lead the way and grow extra segments from behind and if fed, will become preoccupied allowing their segments to be attacked, this technique is used by farmers.
-entity.lycanitesmobs.concapede.habitat=These insects can be found in tropical areas like jungles.
-entity.lycanitesmobs.concapede.combat=Concapedes have a poisonous bite but are only hostile at night.
-# ========================================================================
-entity.lycanitesmobs.concapedesegment.name=Concapede Segment
-entity.lycanitesmobs.concapedesegment.description=Strange beetles that connect to each other. Segments are usually attached to and are grown by heads. If detached from a head or another segment in front, it will grow into a head. Segments alone are defenseless.
-entity.lycanitesmobs.concapedesegment.habitat=Segments grow from heads which can be found in tropical areas like jungles.
-entity.lycanitesmobs.concapedesegment.combat=Segments are defenseless but will be protected by Heads unless those Heads are busy eating.
-# ========================================================================
-entity.lycanitesmobs.crusk.name=Crusk
-entity.lycanitesmobs.crusk.description=Large sand worms with a thick exoskeleton protecting them. Smaller baby Crusks can be tamed, however they take a very long time to grow but make excellent protective pets.
-entity.lycanitesmobs.crusk.habitat=These creatures can be found digging through the desert dunes.
-entity.lycanitesmobs.crusk.combat=Crusks have a very powerful bite and can submerge and hide themselves within soft terrain like sand, grass or dirt.
-# ========================================================================
-entity.lycanitesmobs.cryptkeeper.name=Cryptkeeper
-entity.lycanitesmobs.cryptkeeper.description=Mummified corpses, unlike the usual undead, these do not burn in sunlight.
-entity.lycanitesmobs.cryptkeeper.habitat=These undead often wonder the desert at night.
-entity.lycanitesmobs.cryptkeeper.combat=Cryptkeepers attack at melee and spread a nasty bacteria that inflicts aphagia.
-# ========================================================================
-entity.lycanitesmobs.darkling.name=Darkling
-entity.lycanitesmobs.darkling.description=Foul little shadow insects that like to latch onto their victim and slowly drain their blood! You best swat these pests off fast!
-entity.lycanitesmobs.darkling.habitat=These insects can be found in dark underground areas.
-entity.lycanitesmobs.darkling.combat=Darklings will leap at their victims and latch on where they will begin to rapidly drain blood, this will heal them, it is vital that they are killed fast.
-# ========================================================================
-entity.lycanitesmobs.dawon.name=Dawon
-entity.lycanitesmobs.dawon.description=Crystaline felines, sometimes rare crystals can be found on their body.
-entity.lycanitesmobs.dawon.habitat=These beasts can be found in jungles.
-entity.lycanitesmobs.dawon.combat=Dawon will pounce at their target, crippling their prey reducing movement speed.
-# ========================================================================
-entity.lycanitesmobs.djinn.name=Djinn
-entity.lycanitesmobs.djinn.description=Proud Air Elementals that guard the skies from those that they think shouldn't be up there!
-entity.lycanitesmobs.djinn.habitat=Being Air Elementals, these creatures commonly manifest high up in the sky.
-entity.lycanitesmobs.djinn.combat=Djinn unleash deadly whirlwind rings that inflict the levitation debuff on impact.
-# ========================================================================
-entity.lycanitesmobs.dweller.name=Dweller
-entity.lycanitesmobs.dweller.description=Water bound amphibians that can sliver onto land for a small period of time, they must return to the water when they get too dry as they can die if on land for too long. They are fast and deadly in the water and can survive on land during rain.
-entity.lycanitesmobs.dweller.habitat=These creatures can be found in the waters of swamps, dark forests and jungles.
-entity.lycanitesmobs.dweller.combat=Dwellers have a poisonous scratch and excel when in water, on land they can be defeated easily unless it is raining.
-# ========================================================================
-entity.lycanitesmobs.eechetik.name=Eechetik
-entity.lycanitesmobs.eechetik.description=Dangerous Poison Elementals bursting with deadly plagues that infect all around them. They have a fondness for mushrooms! Jengu and Argus elementals can also fuse into a powerful Eechetik.
-entity.lycanitesmobs.eechetik.habitat=Being Poison Elementals, Eechetik manifest in areas of poison and parasitic growths, mushrooms seem to frequently cause them to manifest when it is dark.
-entity.lycanitesmobs.eechetik.combat=These elementals are inspect like in appearance and attack will their many stringer arms, their attacks rapidly spread plague so be prepared with healing items.
-# ========================================================================
-entity.lycanitesmobs.ent.name=Ent
-entity.lycanitesmobs.ent.description=Protectors of the forest, they will attack anything they deem a threat to the forest on sight.
-entity.lycanitesmobs.ent.habitat=Ents can be found wandering forests at night but also merge into trees so be careful when chopping down trees!
-entity.lycanitesmobs.ent.combat=Ents have a poisonous attack and will regenerate in water, they will also drain health when attacking. Axes and similar tools are very effective.
-# ========================================================================
-entity.lycanitesmobs.epion.name=Epion
-entity.lycanitesmobs.epion.description=Giant shadow blood bats. When in contact with direct sunlight, Epions drop to the ground and explode on impact!
-entity.lycanitesmobs.epion.habitat=These bats come out at night during a full moon.
-entity.lycanitesmobs.epion.combat=Epions spit Bloodleeches at their victims, draining health on hit.
-# ========================================================================
-entity.lycanitesmobs.erepede.name=Erepede
-entity.lycanitesmobs.erepede.description=Wild rock covered insectsthat like to hunt Jousts and will attack Crusks on sight too.
-entity.lycanitesmobs.erepede.habitat=These insects can be found roaming hot, dry terrains like deserts and mesas.
-entity.lycanitesmobs.erepede.combat=Erepedes spit out a dangerous mud shots that weakens the target.
-# ========================================================================
-entity.lycanitesmobs.ettin.name=Ettin
-entity.lycanitesmobs.ettin.description=Large twin headed monstrosities. These brutes are feared for their destructive capabilities.
-entity.lycanitesmobs.ettin.habitat=These brutes often live in swamps.
-entity.lycanitesmobs.ettin.combat=Ettins are slow but pack a nasty blow. If you get too close during combat they will panic and destroy nearby soft blocks such as wood or dirt.
-# ========================================================================
-entity.lycanitesmobs.eyewig.name=Eyewig
-entity.lycanitesmobs.eyewig.description=In the dark Eyewigs are hostile and can climb as well as skit across water surfaces.
-entity.lycanitesmobs.eyewig.habitat=These insects are often found in swamps, dark forests and jungles.
-entity.lycanitesmobs.eyewig.combat=Eyewigs can fire a poisonous laser from their giant eye! Their bite can also cause blindness!
-# ========================================================================
-entity.lycanitesmobs.fear.name=Fear
-entity.lycanitesmobs.fear.description=This is a dummy entity used for the fear effect, if this is in the beastiary or has a spawn egg this is a bug, please report it!
-entity.lycanitesmobs.fear.habitat=Dummy entity.
-entity.lycanitesmobs.fear.combat=Dummy entity.
-# ========================================================================
-entity.lycanitesmobs.feradon.name=Feradon
-entity.lycanitesmobs.feradon.description=Lion-like predators that are excellent hunters.
-entity.lycanitesmobs.feradon.habitat=These beats thrive in plains and savannas.
-entity.lycanitesmobs.feradon.combat=Feradon attack with a powerful bite that offenses the defenses of the victim.
-# ========================================================================
-entity.lycanitesmobs.frostweaver.name=Frostweaver
-entity.lycanitesmobs.frostweaver.description=Spitting spiders that thrive in cold environments.
-entity.lycanitesmobs.frostweaver.habitat=These spiders can be found in cold areas such as taigas or ice plains.
-entity.lycanitesmobs.frostweaver.combat=Frostweavers spit an icy web that causes slowness and creates a temporary frost web.
-# ========================================================================
-entity.lycanitesmobs.geist.name=Geist
-entity.lycanitesmobs.geist.description=Geists are opportunistic undead that deform and climb into other undead lifeforms or corpses and feed off whatever their host is capable of killing. When their host dies, Geists leap out and reform for a surprise attack!
-entity.lycanitesmobs.geist.habitat=Geists usually come from other undead creatures but can also be found lurking in Dark Forests and the End.
-entity.lycanitesmobs.geist.combat=Geists have a simple melee attack but on death release shadow fire, while this doesn;t burn, it does cause damage and blindness.
-# ========================================================================
-entity.lycanitesmobs.geken.name=Geken
-entity.lycanitesmobs.geken.description=Venomous reptiles with excellent jumping abilities.
-entity.lycanitesmobs.geken.habitat=These creatures like in tropical areas like jungles but can also be found in swamps.
-entity.lycanitesmobs.geken.combat=Gekens constantly jump about making them harder to hit, their scratches are sharp and cause bleeding.
-# ========================================================================
-entity.lycanitesmobs.geonach.name=Geonach
-entity.lycanitesmobs.geonach.description=Geonachs are brutal Earth Elementals commonly found by unsuspecting miners when disturbing the earth.
-entity.lycanitesmobs.geonach.habitat=Being Earth Elementals, Geonach manifest where the Earth is strong, usually within ores, breaking these ores will aggravate them.
-entity.lycanitesmobs.geonach.combat=Geonach will attack rapidly with their spear arm as well as occasionally with their heavier fist for more damage. Their attacks will inflict the weight debuff which commonly traps their victims. Pickaxes and similar tools are very effective.
-# ========================================================================
-entity.lycanitesmobs.ghoul.name=Ghoul
-entity.lycanitesmobs.ghoul.description=Foul poisonous undead, Ghouls are smaller than the average zombie allowing them to crawl into smaller places.
-entity.lycanitesmobs.ghoul.habitat=Ghouls can be found lurking around swamps, dark forests and jungles at night.
-entity.lycanitesmobs.ghoul.combat=Ghouls attack at melee and inflict poison.
-# ========================================================================
-entity.lycanitesmobs.gorger.name=Gorger
-entity.lycanitesmobs.gorger.description=Huge magma worms that swim through molten lava, they can also survive on land and can burrow into soft ground like dirt.
-entity.lycanitesmobs.gorger.habitat=These creatures can be found in large bodies of lava.
-entity.lycanitesmobs.gorger.combat=Gorgers attack by release several balls of lava everywhere, while these attacks are powerful, they are inaccurate leaving them open.
-# ========================================================================
-entity.lycanitesmobs.gorgomite.name=Gorgomite
-entity.lycanitesmobs.gorgomite.description=Small rock beetles, they are known to be quite aggressive but are scared of Manticores.
-entity.lycanitesmobs.gorgomite.habitat=Gorgomites are often found in the desert where they come out at night.
-entity.lycanitesmobs.gorgomite.combat=These beetles are just a nuisance at first with a simple weak bite, but they will rapidly call for other Gorgomites and will begin to swarm so it is vital that they are eliminated quickly.
-# ========================================================================
-entity.lycanitesmobs.grue.name=Grue
-entity.lycanitesmobs.grue.description=When it is pitch black, you are likely to be eaten by a Grue! It is impossible to see these Shadow Elementals in complete darkness. Cinder and Argus elementals can fuse to create powerful Grues.
-entity.lycanitesmobs.grue.habitat=Being Shadow Elementals, Grues spawn where it is dark and usually deep underground.
-entity.lycanitesmobs.grue.combat=Grues have a nasty melee attack that inflicts blindness on top of this they will occasionally teleport behind their victim. Also, if their victim has any good effects active, Grues will devour these effects and heal!
-# ========================================================================
-entity.lycanitesmobs.herma.name=Herma
-entity.lycanitesmobs.herma.description=Giant crabs that usually keep to themselves unless something gets too close!
-entity.lycanitesmobs.herma.habitat=These creatures are found in saltwater oceans and on beaches.
-entity.lycanitesmobs.herma.combat=Herma attack with their strong claws.
-# ========================================================================
-entity.lycanitesmobs.ignibus.name=Ignibus
-entity.lycanitesmobs.ignibus.description=Large fiery Drake Dragons with a hot temper, searing claws, blazing breath and a burning desire to melt your face off!
-entity.lycanitesmobs.ignibus.habitat=Ignibi (plural) can be found within very large lakes, they are rare but incredibly powerful.
-entity.lycanitesmobs.ignibus.combat=These Drake Dragons unleash a powerful gout of Scorchfire and hot embers that will ignite the ground and anything hit. The Scorchfire will also inflict penetration weakening defenses.
-# ========================================================================
-entity.lycanitesmobs.ika.name=Ika
-entity.lycanitesmobs.ika.description=Slow snail-turtle-shellfish! Ika can be lured and bred with vegetables, however they can only survive on land for a small amount of time. Farm with care!
-entity.lycanitesmobs.ika.habitat=Ika can be found in saltwater oceans and pools on beaches.
-entity.lycanitesmobs.ika.combat=Ika are usually passive.
-# ========================================================================
-entity.lycanitesmobs.ioray.name=Ioray
-entity.lycanitesmobs.ioray.description=Beautiful creatures that gracefully swim at a very fast rate, they have a large collection of precious gems on their back, they are quite aggressive however.
-entity.lycanitesmobs.ioray.habitat=These creatures can be found in saltwater oceans.
-entity.lycanitesmobs.ioray.combat=Iorays have a deadly Water Jet attack that will strip away the defenses of anything hit.
-# ========================================================================
-entity.lycanitesmobs.jabberwock.name=Jabberwock
-entity.lycanitesmobs.jabberwock.description=Vicious deer like creatures that rip their prey to shreds.
-entity.lycanitesmobs.jabberwock.habitat=Jabberwocks can be found stalking the mountains at night.
-entity.lycanitesmobs.jabberwock.combat=Jabberwocks have hooked claws will cause a weight effect pulling their victim down, this prevents any jumping and increases falling damage, making Jabberwocks deadly in the mountains.
-# ========================================================================
-entity.lycanitesmobs.jengu.name=Jengu
-entity.lycanitesmobs.jengu.description=Water Elementals known as the protectors of pure water, they will attack anything they see as a threat to their water's purity.
-entity.lycanitesmobs.jengu.habitat=Being Water Elementals, Jengu manifest from large bodies of water in the dark.
-entity.lycanitesmobs.jengu.combat=Jengu attack be throwing large blasts of water, on impact these create a temporary pool of water.
-# ========================================================================
-entity.lycanitesmobs.joust.name=Joust
-entity.lycanitesmobs.joust.description=Fierce arthropod creatures, they can be farmed and love cactus green!
-entity.lycanitesmobs.joust.habitat=These creatures can be found in deserts and mesas.
-entity.lycanitesmobs.joust.combat=Jousts are usually peaceful but will bite back if hit and will follow the command of aggressive Alpha Jousts.
-# ========================================================================
-entity.lycanitesmobs.joustalpha.name=Joust Alpha
-entity.lycanitesmobs.joustalpha.description=Larger Jousts and leaders, they will attack other Joust Alphas on sight and will also command all none alphas, they are very hostile.
-entity.lycanitesmobs.joustalpha.habitat=These creatures can be found in deserts and mesas.
-entity.lycanitesmobs.joustalpha.combat=Jousts are fast and attack rapidly, they will also rally other none alpha Jousts to attack with them.
-# ========================================================================
-entity.lycanitesmobs.khalk.name=Khalk
-entity.lycanitesmobs.khalk.description=Large magma beasts known for their incredible defense and deadly offense. On death, their bodies break down into lava!
-entity.lycanitesmobs.khalk.habitat=These beasts can be found deep in lakes of lava that are underground.
-entity.lycanitesmobs.khalk.combat=Khalk have an incredibly powerful melee attack that inflicts smouldering, however they are incredibly slow. Be sure to keep back when they die as they turn into a small pool of temporary lava.
-# ========================================================================
-entity.lycanitesmobs.kobold.name=Kobold
-entity.lycanitesmobs.kobold.description=Small rodents that can't resist stealing items including torches! Killing them will cause them to drop their stolen goods.
-entity.lycanitesmobs.kobold.habitat=These rodents can usually be found in the plains at night.
-entity.lycanitesmobs.kobold.combat=Kobolds usually flee from other creatures but are known to attack people who are low on health.
-# ========================================================================
-entity.lycanitesmobs.lacedon.name=Lacedon
-entity.lycanitesmobs.lacedon.description=Strange humanoid aquatic creatures, they are able to come onto land for a small amount of time and indefinitely if it is raining.
-entity.lycanitesmobs.lacedon.habitat=Lacedon can be found in saltwater oceans.
-entity.lycanitesmobs.lacedon.combat=Lacedon inflict a weight debuff when attacking which will usually end with their victim being dragged into the bottom of the ocean.
-# ========================================================================
-entity.lycanitesmobs.lobber.name=Lobber
-entity.lycanitesmobs.lobber.description=Large lava brutes, Lobbers are incredibly powerful creatures.
-entity.lycanitesmobs.lobber.habitat=These brutes are found in lava lakes.
-entity.lycanitesmobs.lobber.combat=Lobbers are named for their attacks where they lob large balls of magma at their victims, this very quickly begins to flood the area with temporary lava.
-# ========================================================================
-entity.lycanitesmobs.lurker.name=Lurker
-entity.lycanitesmobs.lurker.description=Lurkers are able to completely blend in with their environment. Their Once inflicted, they will hide, letting the poison do the work. Can be tamed as excellent pets, also great as Creeper guards!
-entity.lycanitesmobs.lurker.habitat=These creatures can be found in forests and swamps but avoid cold areas.
-entity.lycanitesmobs.lurker.combat=Lurker bites will both poison and blind, after biting the Lurker will flee and attempt to hide allowing the poison to do it's work, they will attack again if the poison wears off.
-# ========================================================================
-entity.lycanitesmobs.maka.name=Maka
-entity.lycanitesmobs.maka.description=Large peaceful herbivores. Can be farmed with vegetables for their meat and leather. Be careful around alphas.
-entity.lycanitesmobs.maka.habitat=Makas can be found in plans and savannas.
-entity.lycanitesmobs.maka.combat=Makas are usually peaceful.
-# ========================================================================
-entity.lycanitesmobs.makaalpha.name=Maka Alpha
-entity.lycanitesmobs.makaalpha.description=Larger Makas, alphas are usually peaceful but will sometimes attack, they also spar with each other a lot. Alphas Makas will protect the rest of the herd, thus they making farming Makas tricky at times.
-entity.lycanitesmobs.makaalpha.habitat=Maka Alphas can be found in plans and savannas.
-entity.lycanitesmobs.makaalpha.combat=When aggravated, Alpha Makas have a powerful bite and spiked tail causing high melee damage.
-# ========================================================================
-entity.lycanitesmobs.manticore.name=Manticore
-entity.lycanitesmobs.manticore.description=Vicious bat-like beasts with scorpion like tails. They like to hunt down Gorgomites and other small prey.
-entity.lycanitesmobs.manticore.habitat=Manticores fly around the desert skies at night.
-entity.lycanitesmobs.manticore.combat=A Manticore's sting will leave you feeling very weak and hungry!
-# ========================================================================
-entity.lycanitesmobs.maug.name=Maug
-entity.lycanitesmobs.maug.description=Large wolf-like arctic bears.
-entity.lycanitesmobs.maug.habitat=These beasts can be found in cold areas like snowy mountains or taigas.
-entity.lycanitesmobs.maug.combat=Maugs have a powerful maul that will cripple causing slowness.
-# ========================================================================
-entity.lycanitesmobs.morock.name=Morock
-entity.lycanitesmobs.morock.description=Aggressive Wyvern Dragons, while they can't breathe fire, they still have a devastating bite!
-entity.lycanitesmobs.morock.habitat=Morocks are found stalking the skies of open areas with a lot of tasty prey like plains, fortunately they are fairly rare.
-entity.lycanitesmobs.morock.combat=Morocks are fast and bite hard, it is best to use their large size against them.
-# ========================================================================
-entity.lycanitesmobs.nymph.name=Nymph
-entity.lycanitesmobs.nymph.description=Whimsical Fae Elementals bursting with healing energy that heals all around them. They have a fondness for flowers! While harmless directly, they can cause mischief when scared. Jengu and Aegis Elementals can fuse to create powerful Nymphs.
-entity.lycanitesmobs.nymph.habitat=Being Fae Elementals, Nymphs manifest around sources of life and as such manifest around flowers in sunlight.
-entity.lycanitesmobs.nymph.combat=Nymphs are peaceful and will healing anything around them, this can be harmful to undead. If hit, Nymphs will flee firing flowers with sharp thorns that inflict bleed.
-# ========================================================================
-entity.lycanitesmobs.pinky.name=Pinky
-entity.lycanitesmobs.pinky.description=Gluttonous beasts that especially love to devour live animals. Can be farmed and bred using live large animals. Baby Pinkies can be tamed and when matured, can be used as battle mounts.
-entity.lycanitesmobs.pinky.habitat=Pinkies roam the Nether looking for anything to eat.
-entity.lycanitesmobs.pinky.combat=These demons are incredibly aggressive but will prioritize bigger juicier prey which ca be used to pure them.
-# ========================================================================
-entity.lycanitesmobs.quetzodracl.name=Quetzodracl
-entity.lycanitesmobs.quetzodracl.description=Powerful flying wyvern dragons that still share a strong resemblance to their dragon ancestors the pterosaurs.
-entity.lycanitesmobs.quetzodracl.habitat=These wyverns can be found flying over oceans.
-entity.lycanitesmobs.quetzodracl.combat=Quetzodracl are incredibly power and will pickup their prey, it is best to use their size against them.
-# ========================================================================
-entity.lycanitesmobs.quillbeast.name=Quillbeast
-entity.lycanitesmobs.quillbeast.description=Large rodents with razor sharp quills on their back, they are easily threatened and will fire these quills from afar.
-entity.lycanitesmobs.quillbeast.habitat=These beasts can be found in plains, savannas and forests.
-entity.lycanitesmobs.quillbeast.combat=Quillbeasts attack with their deadly quills that also cut through long grass.
-# ========================================================================
-entity.lycanitesmobs.rahovart.name=Rahovart
-entity.lycanitesmobs.rahovart.description=As the lord of the underworld, Rahovart's name alone strikes fear and terror into the hearts of even the most evil of beings.
-entity.lycanitesmobs.rahovart.habitat=It is said that Rahovart is a very old and powerful Behemoth that originates from the Underworld a vast plane of Hell.
-entity.lycanitesmobs.rahovart.combat=Rahovart is a powerful demon that attacks with a powerful Hellfire Cannon. Phase 1: Rahovart summons Belphs, overtime these Belphs become empowered and eventually explode giving Rahovart a Hellfire Orb. With 5 orbs, Rahovart will unleash a large wave of hellfire that causes great damage and burns away any good effects, it is important to kill the Belphs to reduce how much this happens.  Phase 2: Rahovart continues to summon Belphs but no longer empowers them instead he also summons Behemoth that get empowered, these will give him the orbs instead, at 5 orbs Rahovart will create a giant Hellfire Wall that rotates around him, this deals damage and removes effect like wave but lasts longer so kill the Behemoths as quickly as possible.  Phase 3: Rahovart will now create orbs on his own and will create Hellfire Barriers, these don't move but will eventually take over the area around Rahovart, however killing his minions will remove these barriers so if there are too many, kill the Belphs and Behemoth to lower the barriers.
-# ========================================================================
-entity.lycanitesmobs.raiko.name=Raiko
-entity.lycanitesmobs.raiko.description=Large sea birds known to dive into the ocean and snatch their prey.
-entity.lycanitesmobs.raiko.habitat=These birds can be found flying over oceans.
-entity.lycanitesmobs.raiko.combat=Raiko will pickup their prey, it is important to kill them before they carry you too far up. Eventually Raiko will release their prey with the weight effect, this can cause great falling damage but usually drops their victim into the deep ocean.
-# ========================================================================
-entity.lycanitesmobs.reaper.name=Reaper
-entity.lycanitesmobs.reaper.description=Twisted spirits that feed on death, Reapers are attracted to death and sometimes mistake people who are asleep as dead!
-entity.lycanitesmobs.reaper.habitat=These spirits sometimes appear when a creature dies and sometimes when someone is attempting to sleep.
-entity.lycanitesmobs.reaper.combat=Reapers have ranged attacks cause their victims to run around fear!
-# ========================================================================
-entity.lycanitesmobs.reiver.name=Reiver
-entity.lycanitesmobs.reiver.description=Icy Frost Elementals, Reivers seek to freeze everything around them. Jengu and Djinn Elementals can fuse to create powerful Reivers.
-entity.lycanitesmobs.reiver.habitat=Reivers are sometimes found roaming the night sky in cold areas and will also manifest from Frostfire spread by other creatures.
-entity.lycanitesmobs.reiver.combat=These elementals fire icy frostbolts that freeze victims hit slowing their movement.
-# ========================================================================
-entity.lycanitesmobs.remobra.name=Remobra
-entity.lycanitesmobs.remobra.description=Small, flying Amphithere Dragons that spit venom.
-entity.lycanitesmobs.remobra.habitat=These dragons can be found in swamps and dark forests.
-entity.lycanitesmobs.remobra.combat=Remobra attack by spitting venom, if their spit hits their victim it inflicts plague, if it hits the ground, it will burst into a poisonous cloud.
-# ========================================================================
-entity.lycanitesmobs.roa.name=Roa
-entity.lycanitesmobs.roa.description=Ferocious sharks that dominate the sea! The brave or foolish attempt to tame them as mounts.
-entity.lycanitesmobs.roa.habitat=These sharks can be found in saltwater oceans.
-entity.lycanitesmobs.roa.combat=Roas create deadly whirlpools around them to pull their prey towards their deadly jaws! These can pull land creatures into the water as well, sneaking helps stop them pull you off the edge of a ledge.
-# ========================================================================
-entity.lycanitesmobs.roc.name=Roc
-entity.lycanitesmobs.roc.description=Rocs fly in the sky searching for prey at night.
-entity.lycanitesmobs.roc.habitat=These birds usually fly over plains and savanna.
-entity.lycanitesmobs.roc.combat=Rocs have strange tails that act as giant claws, they use these to pickup their vitims. Rocs are only hostile at night or in the dark however.
-# ========================================================================
-entity.lycanitesmobs.salamander.name=Salamander
-entity.lycanitesmobs.salamander.description=Deadly amphibians that have adapted to incredible temperatures. Tamed Salamanders make great mounts and even protect their rider from fire!
-entity.lycanitesmobs.salamander.habitat=These creatures live in lakes of lava.
-entity.lycanitesmobs.salamander.combat=Salamanders have a fiery bite that inflict smouldering.
-# ========================================================================
-entity.lycanitesmobs.serpix.name=Serpix
-entity.lycanitesmobs.serpix.description=Notorious ice worms that burrow through the frozen earth.
-entity.lycanitesmobs.serpix.habitat=These worms can be found in large pools of icy ooze and cold areas like ice plains.
-entity.lycanitesmobs.serpix.combat=Serpix attack by roaring a deadly blizzard, casting Frostfire upon the ground which both damages and slows.
-# ========================================================================
-entity.lycanitesmobs.shade.name=Shade
-entity.lycanitesmobs.shade.description=Large decrepit serpentine aberrations spawned from the very shadows themselves. There are legends of the four mighty Serpent Riders who rode these beasts into battle: D'sparil, Korax, Eidelon and Lycanite.
-entity.lycanitesmobs.shade.habitat=These aberrations can be found in the darkest of places, deep underground.
-entity.lycanitesmobs.shade.combat=Shades drain a bit of health when attacking and they have a horrific howl sending all that oppose them running in fear!
-# ========================================================================
-entity.lycanitesmobs.shambler.name=Shambler
-entity.lycanitesmobs.shambler.description=Overgrown shrub creatures. Can be tamed and are an excellent way to liven up the your garden!
-entity.lycanitesmobs.shambler.habitat=Shamblers spawn in dense forests and jungles.
-entity.lycanitesmobs.shambler.combat=Shamblers regenerate from water and can inflict paralysis, they are dangerous but very slow.
-# ========================================================================
-entity.lycanitesmobs.silex.name=Silex
-entity.lycanitesmobs.silex.description=Beautiful fish with scales encrusted with Lapis Lazuli. Silex are known to eat the Lapis off of each other's scales as well as natural formations from rocks.
-entity.lycanitesmobs.silex.habitat=These fish are often found in freshwater lakes and rivers.
-entity.lycanitesmobs.silex.combat=Silex are peaceful creatures.
-# ========================================================================
-entity.lycanitesmobs.skylus.name=Skylus
-entity.lycanitesmobs.skylus.description=Squid like creatures that form and live in tough shells. If damaged enough, their shells will break.
-entity.lycanitesmobs.skylus.habitat=These creatures can be found in saltwater oceans.
-entity.lycanitesmobs.skylus.combat=Skylus with grasp their prey and drag them deep underwater, their attacks also blind with ink. When their shell is destroyed they become a lot faster but also more vulnerable to damage.
-# ========================================================================
-entity.lycanitesmobs.spectre.name=Spectre
-entity.lycanitesmobs.spectre.description=Mysterious Void Elementals, they seek to break down reality itself into nothing. Aegis and Argus Elementals can fuse to create a powerful Spectre.
-entity.lycanitesmobs.spectre.habitat=Being Void Elementals, Spectres manifest close to the void very deep underground and in the skies of the End.
-entity.lycanitesmobs.spectre.combat=Spectres will attempt to suck in their prey and will attack at close range.
-# ========================================================================
-entity.lycanitesmobs.spriggan.name=Spriggan
-entity.lycanitesmobs.spriggan.description=Mystical Arbour Elementals, Spriggans protect nature against those who would threaten it. Jengu and Geonach Elementals can fuse to create powerful Spriggans.
-entity.lycanitesmobs.spriggan.habitat=Being Arbour Elementals, Spriggans can be found occasionally wandering forests and rapidly manifest in the defense of plant life so take care when harvesting plants.
-entity.lycanitesmobs.spriggan.combat=Spriggans fire powerful lasers that are poisonous and drain life healing the Spriggan.
-# ========================================================================
-entity.lycanitesmobs.strider.name=Strider
-entity.lycanitesmobs.strider.description=These giant amphibious creatures somewhat resemble a shrimp, they are feared for their dreadful tentacle claws from which they ensnare and consume their victims.
-entity.lycanitesmobs.strider.habitat=These creatures are usually found in large lakes or rivers.
-entity.lycanitesmobs.strider.combat=Striders will pickup their victims and slowly drain the life out of them, they are also fast when in the water or if it raining.
-# ========================================================================
-entity.lycanitesmobs.sutiramu.name=Sutiramu
-entity.lycanitesmobs.sutiramu.description=Aggressive giant scorpions.
-entity.lycanitesmobs.sutiramu.habitat=These creatures can be found roaming the desert and mesa.
-entity.lycanitesmobs.sutiramu.combat=Sutiramu attack with a venom that induce hunger.
-# ========================================================================
-entity.lycanitesmobs.sylph.name=Sylph
-entity.lycanitesmobs.sylph.description=Holy Aether Elementals that curse those who trespass upon holy ground. Djinn and Aegis can fuse to create powerful Sylphs.
-entity.lycanitesmobs.sylph.habitat=Being Aether Elementals, Sylphs manifest in areas of worship such as Pyramids or Temples.
-entity.lycanitesmobs.sylph.combat=Sylphs will release a large wave of Aether Magic smiting those hit where they will burn in the sunlight!
-# ========================================================================
-entity.lycanitesmobs.tarantula.name=Tarantula
-entity.lycanitesmobs.tarantula.description=Poisonous jumping spiders that leave behind a trail of temporary sticky green webbing.
-entity.lycanitesmobs.tarantula.habitat=Tarantulas can be found in jungles and swamps.
-entity.lycanitesmobs.tarantula.combat=These spiders have a poisonous bite and jump frequently, it is important to be wary of their sticky green webs.
-# ========================================================================
-entity.lycanitesmobs.thresher.name=Thresher
-entity.lycanitesmobs.thresher.description=Giant majestic water creatures with a massive appetite and powerful fins capable of creating huge whirlpools to pull in their prey! Very dangerous!
-entity.lycanitesmobs.thresher.habitat=These aquatic creatures can be found in both freshwater lakes and large rivers as well as saltwater oceans.
-entity.lycanitesmobs.thresher.combat=Threshers create large whirlpools that pull in their prey from all around, it is even unsafe on land as they will also pull their prey up into the air towards them.
-# ========================================================================
-entity.lycanitesmobs.treant.name=Treant
-entity.lycanitesmobs.treant.description=Large guardians of the forest, very much like Ents only much bigger and stronger.
-entity.lycanitesmobs.treant.habitat=Although rare, Trents can be found in dense forests.
-entity.lycanitesmobs.treant.combat=Treants cause paralysis, drain health when attacking and regenerate from water. Axes and similar tools are very effective.
-# ========================================================================
-entity.lycanitesmobs.tremor.name=Tremor
-entity.lycanitesmobs.tremor.description=Explosive Quake Elementals, Tremors are incredibly destructive. Geonach and Argus Elementals can fuse to create powerful Tremors.
-entity.lycanitesmobs.tremor.habitat=Being Quake Elementals, Tremors manifest from combustion and loud sounds and so occasionally manifest from large explosions.
-entity.lycanitesmobs.tremor.combat=Tremors attack by creating small explosions around them, they are fairly weak but can be quite destructive and should be eliminated quickly.
-# ========================================================================
-entity.lycanitesmobs.triffid.name=Triffid
-entity.lycanitesmobs.triffid.description=Large carnivorous plants, slow but incredibly poisonous and deadly!
-entity.lycanitesmobs.triffid.habitat=These plant creatures often lurk in swamps due to it being moist, not too cold and full of prey for them to devour.
-entity.lycanitesmobs.triffid.combat=These creatures are very slow but should be handled with care as their attacks are incredibly strong and spread plague. Axes are very effective, but take heed for they will heal in water!
-# ========================================================================
-entity.lycanitesmobs.trite.name=Trite
-entity.lycanitesmobs.trite.description=Small and fast demonic creatures that appear to be a brain with spider-like legs.
-entity.lycanitesmobs.trite.habitat=Trites roam all over the nether, it is said they come from Purgatory a Hell Plane of endless flesh.
-entity.lycanitesmobs.trite.combat=Trites are very weak but can be hard to hit due to their speed and small size, their bites also apply wither.
-# ========================================================================
-entity.lycanitesmobs.troll.name=Troll
-entity.lycanitesmobs.troll.description=In the sun a Troll's skin is as hard as stone, in the dark a gruesome green flesh. Trolls are known to be destructive.
-entity.lycanitesmobs.troll.habitat=These brutes are often found living up in the mountains.
-entity.lycanitesmobs.troll.combat=Trolls have a strong melee attack and will destroy soft terrain around them. When in sunlight they become as hard as stone and have higher defense but are vulnerable to pickaxes, out of the sun they are lose their defense and are very weak to fire.
-# ========================================================================
-entity.lycanitesmobs.uvaraptor.name=Uvaraptor
-entity.lycanitesmobs.uvaraptor.description=Colorful raptors with extreme jumping and gliding abilities. Can be tamed as useful high jumping mounts, can almost sustain flight.
-entity.lycanitesmobs.uvaraptor.habitat=These raptors are commonly found in jungles.
-entity.lycanitesmobs.uvaraptor.combat=Uvaraptors leap into the air and attack their prey making them trickier to hit but also vulnerable to ranged attacks.
-# ========================================================================
-entity.lycanitesmobs.vapula.name=Vapula
-entity.lycanitesmobs.vapula.description=Powerful Gravity Elementals that embody the essence of structure itself. Geonach and Aegis Elementals can fuse to create powerful Vapula.
-entity.lycanitesmobs.vapula.habitat=Being Gravity Elementals, Vapula manifest from sources of compression and structure where they are often mount amongst gemstones like diamonds.
-entity.lycanitesmobs.vapula.combat=Vapula fire a rounf of sharp crystal projectiles from their back rapidly, once the round is fired they must recharge making them vulnerable. pickaxes and similar tools are very effective.
-# ========================================================================
-entity.lycanitesmobs.ventoraptor.name=Ventoraptor
-entity.lycanitesmobs.ventoraptor.description=Swift raptors that glide at incredible speeds. Can be tamed as one of the fastest known mounts.
-entity.lycanitesmobs.ventoraptor.habitat=These raptors like to hunt across the plains.
-entity.lycanitesmobs.ventoraptor.combat=Ventoraptors are very fast and will leap towards their prey and attack.
-# ========================================================================
-entity.lycanitesmobs.vespid.name=Vespid
-entity.lycanitesmobs.vespid.description=Invasive giant wasps with a poisonous sting. Vespid alone aren't much of a problem but in groups or with a Queen Vespid, they can be very dangerous. They are known to build hives when near a Queen.
-entity.lycanitesmobs.vespid.habitat=These insects live in tropical areas like jungles.
-entity.lycanitesmobs.vespid.combat=Vespids are fast but fairly weak, their stings are poisonous. They are often in groups and can have dangerous numbers when in a hive.
-# ========================================================================
-entity.lycanitesmobs.vespidqueen.name=Vespid Queen
-entity.lycanitesmobs.vespidqueen.description=Large Vespids that are protected by a swarm of standard Vespids. Queens will have nearby standard Vespids build a hive for them. Vespid Queens are known to inject eggs into Conba turning them into infected moving nests waiting to hatch!
-entity.lycanitesmobs.vespidqueen.habitat=These insects live in tropical areas like jungles.
-entity.lycanitesmobs.vespidqueen.combat=Vespid Queens are tougher than regular Vespids with a more powerful sting that is poisonous. They are usually surrounded by regular Vespids which will prioritize protecting their Queen above anything else.
-# ========================================================================
-entity.lycanitesmobs.volcan.name=Volcan
-entity.lycanitesmobs.volcan.description=Searing Lava Elementals, Volcans will melt everything in their path! Cinders and Geonach Elementals can fuse to create powerful Volcans.
-entity.lycanitesmobs.volcan.habitat=Being Lava Elementals, Volcans manifest around large volumes of lava underground, they are quite rare.
-entity.lycanitesmobs.volcan.combat=Volcans will melt any stone around them into lava so must be eliminated fast. Volcans attack at melee and apply the smouldering effect, however they also have a heat aura burning anything close to them.
-# ========================================================================
-entity.lycanitesmobs.warg.name=Warg
-entity.lycanitesmobs.warg.description=Large wolf-like beasts with a vicious bite! They are known to hunt in packs. When tamed they make fantastic mounts!
-entity.lycanitesmobs.warg.habitat=These beasts often roam forests.
-entity.lycanitesmobs.warg.combat=Wargs have a deadly leap that briefly paralyses anything near their landing location.
-# ========================================================================
-entity.lycanitesmobs.wendigo.name=Wendigo
-entity.lycanitesmobs.wendigo.description=Large icy brutes known for leaving a trail of Frostfire in their wake!
-entity.lycanitesmobs.wendigo.habitat=These brutes can be found in cold areas like ice plains a well as large pools of icy ooze.
-entity.lycanitesmobs.wendigo.combat=Wendigo are slow but hurl Tundra Blasts which create pools of icy ooze on impact. They also leave Frostfire where they walk which is known to manifest Reivers if left unchecked.
-# ========================================================================
-entity.lycanitesmobs.wildkin.name=Wildkin
-entity.lycanitesmobs.wildkin.description=Powerful bipedal owl-bear beasts that are fast and swift for their size.
-entity.lycanitesmobs.wildkin.habitat=These beasts are known to live in mountains and cold areas like ice plains.
-entity.lycanitesmobs.wildkin.combat=Wildkin have a strong maul attack that inflicts the weight effect.
-# ========================================================================
-entity.lycanitesmobs.wisp.name=Wisp
-entity.lycanitesmobs.wisp.description=Bright Light Elementals, Wisps can sometimes be seen playing catch with each other throwing a deadly ball of radiation. While they're friendly, it is not wise to provoke a Wisp. Cinder and Aegis Elementals can fuse to create powerful Wisps.
-entity.lycanitesmobs.wisp.habitat=being Light Elementals, Wisps manifest out in direct sunlight.
-entity.lycanitesmobs.wisp.combat=Wisps will throw a ball of light radiation at their victims, on impact this will cause them to glow revealing them to any nearby potential predators. Wisps also have a light aura that cause anything near them to glow but also grants night vision, they will also burn nearby undead.
-# ========================================================================
-entity.lycanitesmobs.wraamon.name=Wraamon
-entity.lycanitesmobs.wraamon.description=Deadly rodents loaded with chaotic energy, they emit this through the spines on their back in order to attack their prey. Very few creatures dare attack these dangerous rodents.
-entity.lycanitesmobs.wraamon.habitat=These rodents live deep underground, it is said they come through tiny random chaotic portals that occasionally show up through the world, where they portals lead is a mystery.
-entity.lycanitesmobs.wraamon.combat=Wraamon can be a big menace, their bites inflict instability, a powerful chaos curse that causes the afflicted to randomly jolt about the place. They are fairly weak but small and fast.
-# ========================================================================
-entity.lycanitesmobs.wraith.name=Wraith
-entity.lycanitesmobs.wraith.description=Wicked Nether Elementals that are a symbol of pain and suffering. Djinn and Argus Elementals can fuse to create a powerful Wraith.
-entity.lycanitesmobs.wraith.habitat=Being Nether Elementals, Wraiths manifest in areas of concentrated evil such as the skies of the Nether.
-entity.lycanitesmobs.wraith.combat=Wraiths are fast and will fly recklessly to their victim and attack on impact, they are fairly weak but explode upon their destruction.
-# ========================================================================
-entity.lycanitesmobs.xaphan.name=Xaphan
-entity.lycanitesmobs.xaphan.description=Corrosive Acid Elementals that embody the aspect of breaking down and dissolving away. Cinders and Jengu Elementals can fuse to create a powerful Xaphan.
-entity.lycanitesmobs.xaphan.habitat=Being Acid Elementals, Xaphan manifest from mixtures such as when water meets lava.
-entity.lycanitesmobs.xaphan.combat=Xaphan are constantly dripping acid beneath them and will release a ring of acid splashes all around them when attacking. Their acid is damaging and inflicts penetration increasing any incoming damage.
-# ========================================================================
-entity.lycanitesmobs.yale.name=Yale
-entity.lycanitesmobs.yale.description=Strange fluffy ram-like beasts, however under the coat of wool, they are not what they seem. Yales provide wool which can be obtained using shears, they can also be farmed with vegetables. Their horns are actually strange limbs and they have tiny hooked arms that they use to sift through grass with.
-entity.lycanitesmobs.yale.habitat=These beasts can be found roaming the mountains.
-entity.lycanitesmobs.yale.combat=Yales are usually passive.
-# ========================================================================
-entity.lycanitesmobs.yeti.name=Yeti
-entity.lycanitesmobs.yeti.description=Large frosty mammals that like to eat the frozen vegetation of the arctic. They can be farmed using vegetables, but watch out for their frost clouds. Yeti milk is a delicacy!
-entity.lycanitesmobs.yeti.habitat=These beasts often roam cold and snowy areas such as taiga.
-entity.lycanitesmobs.yeti.combat=Yetis are usually passive.
-# ========================================================================
-entity.lycanitesmobs.zephyr.name=Zephyr
-entity.lycanitesmobs.zephyr.description=Fierce Electric Elementals with a powerful electric field around them. Cinders and Djinn Elementals can fuse to create powerful Zephyr.
-entity.lycanitesmobs.zephyr.habitat=Being Electric Elementals, Zephyr manifest from electric weather such as thunderstorms, they can also rarely manifest during regular rainstorms as well.
-entity.lycanitesmobs.zephyr.combat=Zephyrs will shock any foe close to them and direct attacks from them cause paralysis.
-# ========================================================================
-entity.lycanitesmobs.zoataur.name=Zoataur
-entity.lycanitesmobs.zoataur.description=Large reptilian beasts with thick scales.
-entity.lycanitesmobs.zoataur.habitat=These beasts can be found roaming the plains.
-entity.lycanitesmobs.zoataur.combat=Zoataur are slow but hit hard, they will also sometime curl into a defensive pose where they can block most damage, they can't move or attack when doing this however.
-# ========================================================================
-creaturetype.spawn=Spawn
-creaturetype.beast.name=Beast
-creaturetype.avian.name=Avian
-creaturetype.arthropod.name=Arthropod
-creaturetype.plant.name=Plant
-creaturetype.aquatic.name=Aquatic
-creaturetype.aberration.name=Aberration
-creaturetype.undead.name=Undead
-creaturetype.brute.name=Brute
-creaturetype.imp.name=Imp
-creaturetype.demon.name=Demon
-creaturetype.angel.name=Angel
-creaturetype.elemental.name=Elemental
-creaturetype.dragon.name=Dragon
-creaturetype.worm.name=Worm
-# ========================================================================
-death.attack.ooze=%1$s was frozen in the icy ooze!
-# ========================================================================
-# Effect names must also be included in the base en_US.lang for now.
-# Debuffs
-effect.poison.description=Causes damage over time, however the poison effect cannot kill.
-#
-effect.levitation.description=Causes the afflicted to slowly float upwards, when it expires they being to fall back down.
-#
-effect.glowing.description=Causes the afflicted to glow, any nearby hostile creatures will be attracted to them and will always see where they are.
-#
-effect.wither.description=Causes damage over time and can kill.
-#
-effect.weakness.description=Reduces the damage dealt by the afflicted.
-#
-effect.hunger.description=Increases the rate of hunger.
-#
-effect.blindness.description=Reduces vision and prevents sprinting.
-#
-effect.mining_fatigue=Mining Fatigue
-effect.mining_fatigue.description=Reduces the speed of tool usage and attacking.
-#
-effect.slowness=Slowness (Move Slowdown)
-effect.slowness.description=Reduces movement speed.
-#
-effect.burning=Burning
-effect.burning.description=Causes damage over time and can kill but can be extinguished using water. Some creatures will spread burning when they attack.
-#
-effect.paralysis=Paralysis
-effect.paralysis.description=Drastically reduces movement speed and prevents jumping.
-#
-effect.penetration=Penetration
-effect.penetration.description=Weakens defenses, increasing any damage received.
-#
-effect.recklessness=Recklessness
-effect.recklessness.description=Drastically weakens defenses but also increases damage dealt.
-#
-effect.rage=Rage
-effect.rage.description=Causes the afflicted to lose their mind and attack anything nearby.
-#
-effect.weight=Weight
-effect.weight.description=Creates a constant downwards pull increasing falling speed and preventing jumping or swimming/flying upwards.
-#
-effect.fear=Fear
-effect.fear.description=Causes the afflicted to lose their mind and run around uncontrollably.
-#
-effect.decay=Decay
-effect.decay.description=Reduces all healing received.
-#
-effect.insomnia=Insomnia
-effect.insomnia.description=Prevents sleeping.
-#
-effect.instability=Instability
-effect.instability.description=Randomly pushes the afflicted around in all directions.
-#
-effect.lifeleak=Lifeleak
-effect.lifeleak.description=Causes any damage dealt by the afflicted to heal instead.
-#
-effect.bleed=Bleed
-effect.bleed.description=Deals damage rapidly over time if the afflicted moves.
-#
-effect.plague=Plague
-effect.plague.description=Instantly poisons the afflicted and then spreads Plague one level lower or Poison if lowest level to nearby creatures.
-#
-effect.aphagia=Aphagia
-effect.aphagia.description=Prevents eating and the use of various items.
-#
-effect.smited=Smited
-effect.smited.description=Causes the afflicted to burn in sunlight.
-#
-effect.smouldering=Smouldering
-effect.smouldering.description=Constantly applies burning to the afflicted, staying in water can suppress but not remove this.
-#
-#
-# Buffs
-effect.resistance.description=Reduces damage received.
-#
-effect.saturation.description=Reduces hungers.
-#
-effect.regeneration.description=Heals over time.
-#
-effect.absorption.description=Gives a shield that acts like additional health.
-#
-effect.invisibility.description=Hides the affected reducing how well enemies can see them.
-#
-effect.water_breathing=Water Breathing
-effect.water_breathing.description=Allows for breathing underwater.
-#
-effect.jump_boost=Jump Boost
-effect.jump_boost.description=Increases jumping height but does not prevent falling damage.
-#
-effect.speed=Speed (Movement)
-effect.speed.description=Increases movement speed.
-#
-effect.strength=Strength
-effect.strength.description=Increases damage dealt.
-#
-effect.haste=Haste (Mining Speed)
-effect.haste.description=Increases the mining speeds of tools and attack speed of some weapons.
-#
-effect.fire_resistance=Fire Resistance
-effect.fire_resistance.description=Prevents burning.
-#
-effect.night_vision=Night Vision
-effect.night_vision.description=Increases visibility in dark places.
-#
-effect.leech=Leech
-effect.leech.description=Drains health when dealing damage.
-#
-effect.swiftswimming=Swiftswimming
-effect.swiftswimming.description=Increases swimming speed.
-#
-effect.fallresist=Fall Resistance
-effect.fallresist.description=Prevents falling damage.
-#
-effect.rejuvenation=Rejuvenation
-effect.rejuvenation.description=Boosts all healing received.
-#
-effect.immunization=Immunization
-effect.immunization.description=Removes and grants immunity to poison, hunger, weakness, nausea and paralysis.
-#
-effect.cleansed=Cleansed
-effect.cleansed.description=Removes and grants immunity to wither, bad luck, fear and insomnia.
-#
-effect.heataura=Heat Aura
-effect.heataura.description=Burns enemies around the affected.
-#
-effect.staticaura=Static Aura
-effect.staticaura.description=Paralyses enemies around the affected.
-#
-effect.freezeaura=Freeze Aura
-effect.freezeaura.description=Slows enemies around the affected.
-#
-effect.envenom=Envenom
-effect.envenom.description=Adds poison to any attacks.
-# ========================================================================
-element.fire.name=Fire
-element.fire.description=A base element that represents plasma and raw energy. It can be extracted from the para elements: Acid, Lava, Lightning, Light and Shadow.
-#
-element.water.name=Water
-element.water.description=A base element that represents fluids, predominantly water itself. Water can be extracted from the para elements: Acid, Arbour, Frost, Fae and Poison.
-#
-element.earth.name=Earth
-element.earth.description=A base element that represents solid form, from the dirt to rocks, crystals and even metal or bone. It can be extracted from the para elements: Lava, Arbour, Phase, Gravity and Quake.
-#
-element.air.name=Air
-element.air.description=A base element that represents gas but is often known only for its ability to control the flow of wind. It can be extracted from the para elements: Lightning, Ice, Phase, Aether and Nether.
-#
-element.order.name=Order
-element.order.description=A base element that represents sequence and balance, while these are very hypothetical concepts, Order has a very physical presence in magical universes with a basic form being raw force. Order can be extracted from the para elements: Light, Fae, Gravity, Aether and Void.
-#
-element.chaos.name=Chaos
-element.chaos.description=A base element that represents entropy, growth and destruction. It can be extracted from the para elements: Shadow, Poison, Quake, Nether and Void.
-#
-element.acid.name=Acid
-element.acid.description=A para element that represents corrosion and physical consumption but can be expanded into a wide range of chemistry and also despite the name Acid it also covers base substances as well. Acid can be fused from the base elements Fire and Water as it embodies both the energy based properties of Fire and the fluid substance based properties of Water.
-#
-element.lava.name=Lava
-element.lava.description=A para element that represents embodied heat, while Fire is more about plasma and energy, Lava is about energy storage and the effects of heat. Lava can be fused from the base elements Fire and Earth as it embodies the energy aspect of Fire and the dense mass aspect of Earth.
-#
-element.lightning.name=Lightning
-element.lightning.description=A para element that represents electrical current and energy. Lightning can be fused from the base elements Fire and Air as it embodies the energy and plasma aspects of Fire with the flowing and non-grounded aspects of Air.
-#
-element.light.name=Light
-element.light.description=A para element that represents radiation making it a very dangerous force as it can range from the visible light spectrum that the element is named after to the more deadlier ranges of radiation that can cause serious damage. Light can be fused from the base elements Fire and Order as it embodies the energy aspect of Fire and the refinement of Order.
-#
-element.shadow.name=Shadow
-element.shadow.description=A para element that represents darkness as a force that stops radiation or energy generation. Shadow can be fused from Fire and Chaos as it embodies the energy aspect of Fire which is then inverted by Chaos into a force that goes against energy creation cancelling it out.
-#
-element.arbour.name=Arbour
-element.arbour.description=A para element that represents growth and nature, it is closely based around plants with make heavy use of this element. Arbour can be fused from Water and Earth as it embodies the fluid form of water with the solid presence of Earth.
-#
-element.frost.name=Frost
-element.frost.description=A para element that represents cold where it actively repels any form of heat. Frost can be fused from Water and Air as it embodies the fluid cooling nature of Water and the cooling flow of Air.
-#
-element.fae.name=Fae
-element.fae.description=A para element that represents life and adaption. Fae can be fused from Water and Order as it embodies the fluid nature of Water and the structure of Order.
-#
-element.poison.name=Poison
-element.poison.description=A para element that represents chemical substances, usually poisons or venom as well as narcotics and also medicines but can also take on many other forms as well such as oil. Poison can be fused from Water and Chaos where Water embodies a fluid form that can be altered which is manipulated by Chaos into all kinds of strange chemicals.
-#
-element.phase.name=Phase
-element.phase.description=A para element that represents phase shifting or spiritual reality, a space layered on top of the physical world, it is what spirits are made of and use. Phase can be fused from the base elements Earth and Air as it embodies the solid form of Earth and the flowing non-solid of Air.
-#
-element.gravity.name=Gravity
-element.gravity.description=A para element that represents gravitation, magnetism, bonding, compression and artificial structure. Gravity can be fused from Earth and Order where it embodies the solid physical presence of Earth and the structure and laws of Order.
-#
-element.quake.name=Quake
-element.quake.description=A para element that represents vibration, sound, combustion and destruction. Quake can be fused from Earth and Chaos where Earth embodies solid form which is then broke apart by Chaos.
-#
-element.aether.name=Aether
-element.aether.description=A para element that represents purity, divinity, faith and worship. Aether can be fused from Air and Order as it embodies the flowing aspect of Air with the structure and laws of Order.
-#
-element.nether.name=Nether
-element.nether.description=A para element that represents corruption, demonism, desire and rebellion. Nether can be fused from Air and Chaos where Air embodies flowing and Chaos twists it into corruption.
-#
-element.void.name=Void
-element.void.description=A para element that represents nothingness and removal. Void can be fused from Order and Chaos where Order embodies structure and consistency which is cancelled out by Chaos which embodies entropy and randomness.
+entity.freshwatermobs.abaia.name=電鰻
+entity.freshwatermobs.abaia.description=一種渾身包裹著電的魚類，能對試圖靠近者造成威脅以至令人聞風喪膽。
+entity.lycanitesmobs.abaia.habitat=這些魚類是降海產卵的，意味著它們出生在鹹水海洋，然後在淡水河流中遷移和成熟，然後再次返回鹹水，有些最終被困在湖泊中，並在那裡建立了一個群體，因此它們可以在大多數地方找到。
+entity.lycanitesmobs.abaia.combat=當電鰻用它們的電流電擊它們附近的任何東西時，它們也會進行討厭的撕咬。
+# ========================================================================
+entity.saltwatermobs.abtu.name=食人魚
+entity.saltwatermobs.abtu.description=長著大牙的兇猛魚類！成年食人魚是很稀少的非常難被找到，但如果你找到了，你最好趕快遊走因為它們會和成群的幼年魚包圍你！
+entity.lycanitesmobs.abtu.habitat=這些魚普遍存在於鹹水海洋和海灘。
+entity.lycanitesmobs.abtu.combat=一旦一隻食人魚察覺到它的獵物，它會不顧一切地吞食它，它們甚至會跳到陸地上追逐獵物！成年的食人魚比較保守，但也很罕見，它們會叫附近的幼年魚來驅散它們的獵物。
+# ========================================================================
+entity.lycanitesmobs.aegis.name=宙斯盾
+entity.lycanitesmobs.aegis.description=執法秩序元素，眾所周知，宙斯盾是在村莊周圍執法的，即使是小偷也會被無情地追捕。
+entity.lycanitesmobs.aegis.habitat=作為秩序元素，宙斯盾出現在秩序元素豐富的地區，因此村莊通常會創造這些生物。
+entity.lycanitesmobs.aegis.combat=宙斯盾有兩種模式可以轉換，一種是防禦盾模式，兩個大旋轉盾可以阻擋大部分的傷害，另一種是進攻劍模式，用四個旋轉刀刃撕碎目標。
+# ========================================================================
+entity.lycanitesmobs.afrit.name=伊夫利特
+entity.lycanitesmobs.afrit.description=邪惡的烈火小鬼，它們決心毀滅，它們會猛烈地燒毀周圍的世界。
+entity.lycanitesmobs.afrit.habitat=這些小鬼通常會在熔岩池裡洗澡。
+entity.lycanitesmobs.afrit.combat=伊夫利特通常從遠處攻擊，投擲烈火球，烈火和強酸的致命組合，削弱任何被擊中的東西的防禦。
+# ========================================================================
+entity.lycanitesmobs.aglebemu.name=箭毒蛙
+entity.lycanitesmobs.aglebemu.description=一種十分擅長游泳的青蛙，擁有驚人的跳躍能力以及致命的長舌！
+entity.lycanitesmobs.aglebemu.habitat=這些兩棲動物通常生活在沼澤地。
+entity.lycanitesmobs.aglebemu.combat=箭毒蛙用它們強有力的、非常長的、鋒利的舌頭刺穿受害者，並註射一種由傳染性細菌構成的致命混合物。
+# ========================================================================
+entity.lycanitesmobs.argus.name=阿格斯
+entity.lycanitesmobs.argus.description=破壞性的混沌元素，阿格斯在它們身後傳播浩劫。
+entity.lycanitesmobs.argus.habitat=作為混沌元素，阿格斯是當區域內存在大量混沌時形成的，這可能是由多種因素造成的，但通常破壞其他元素會導致高濃度的混沌。
+entity.lycanitesmobs.argus.combat=這些元素通過發射一個具有集中混沌能量的球體進行攻擊，這些球體的軌跡可能無法預測，並且在受到衝擊時，這些球體破壞了其真實的結構，導致不穩定。
+# ========================================================================
+entity.lycanitesmobs.arisaur.name=阿里蛇頸龍
+entity.lycanitesmobs.arisaur.description=阿里蛇頸龍是一種大型的覆蓋著植物的蜥腳類動物，它們是和平的，通常從樹上或從自己的背上吃草，共享一種共生關係。
+entity.lycanitesmobs.arisaur.habitat=阿里蛇頸龍通常在茂密的森林中發現，但也可以看到它們在平原遷移。
+entity.lycanitesmobs.arisaur.combat=阿里蛇頸龍通常是和平的。
+# ========================================================================
+entity.lycanitesmobs.arix.name=雪精靈
+entity.lycanitesmobs.arix.description=不斷尋找食物的頑皮冰小鬼。
+entity.lycanitesmobs.arix.habitat=雪精靈在寒冷的溫度下茁壯成長，經常在寒冷的生物群係以及在冰冷的膠狀冰中沐浴。
+entity.lycanitesmobs.arix.combat=這些小鬼們揮舞著冰火，這是一種冰霜魔法，看起來和行為就像是火，但效果卻是凍結而不是燒傷。
+# ========================================================================
+entity.lycanitesmobs.asmodeus.name=阿斯摩蒂爾斯
+entity.lycanitesmobs.asmodeus.description=阿斯摩蒂爾斯被認為是惡魔入侵的幕後主導，有時甚至可以和拉赫凡特相提並論。
+entity.lycanitesmobs.asmodeus.habitat=據說阿斯摩蒂爾斯起源於無盡肉體的巨大地獄層面，稱為煉獄，它們原本是強大的阿斯塔羅特，意思是一旦它們存在，它們只是陳腐的！
+entity.lycanitesmobs.asmodeus.combat=這個巨大的惡魔，或者說魔鬼，有著廣泛的攻擊，並且能夠用它的惡魔機械跳到很高的高度。它會周期性地使用巨大的加特林機槍對目標進行火力攻擊，同時也會大量攜帶護衛它的小武器。第一階段：阿斯摩蒂爾斯將向外釋放砲彈環。第二階段：阿斯摩蒂爾斯將召喚大型阿斯塔羅斯，它們將在他周圍投射一個盾牌，直到它們被摧毀。第三階段：阿斯塔羅特將代替治療阿斯摩蒂爾斯，以及巨腦魔也被召喚。
+# ========================================================================
+entity.lycanitesmobs.aspid.name=阿斯匹徳
+entity.lycanitesmobs.aspid.description=安靜的爬行動物背上長著奇怪的東西。阿斯匹徳喜歡蘑菇，可以和它們一起繁殖。但是要小心，因為它們不斷地釋放出一團毒雲，通常會在它們身後留下一道毒雲。
+entity.lycanitesmobs.aspid.habitat=這些生物通常被發現在沼澤地，黑森林和蘑菇島，因為它們對菇類的愛！
+entity.lycanitesmobs.aspid.combat=阿斯匹徳通常是和平的，但它們散發出的毒雲是相當危險的，但這些並不能阻止熱情的農民！
+# ========================================================================
+entity.lycanitesmobs.astaroth.name=阿斯塔羅特
+entity.lycanitesmobs.astaroth.description=一種由大腦以及紅石技術組成的統治者。如果你想快速躲過火焰的襲擊並殺死它，那麼腦內的蛆蟲會爬出來攻擊你！
+entity.lycanitesmobs.astaroth.habitat=據說這些惡魔起源於被稱為煉獄的無窮無盡的肉體地獄層，它們曾經只是陳腐的陳詞濫調，經常被發現在下界之中。
+entity.lycanitesmobs.astaroth.combat=阿斯塔羅特使用強大的快速武器，將它們的惡魔能量提取成強大的彈射物，稱為惡魔之星，在碰到這些時可以導致凋零。如果阿斯塔羅特被擊殺，一小隊蛆蟲將從它們的屍體中出來，然後開始攻擊！
+# ========================================================================
+entity.lycanitesmobs.banshee.name=女妖
+entity.lycanitesmobs.banshee.description=女妖是可怕的相位元素，它們可以通過現實本身來相位，它們經常被聽到“歌唱”。據說元素其實是一雙眼睛，而不是它“目的”的屍體。地魔和幻靈元素也可以融合成強大的女妖。
+entity.lycanitesmobs.banshee.habitat=這些元素常出沒於怪誕和廢棄的地方，通常在廢棄礦井周圍，以及黑暗的森林和其他體現不安的地方。
+entity.lycanitesmobs.banshee.combat=與女妖接觸後，受害者的靈魂會被相位魔法震驚，這通常會引發恐懼和恐慌。
+# ========================================================================
+entity.lycanitesmobs.barghest.name=犬鬼
+entity.lycanitesmobs.barghest.description=致命的山間掠食者，能跳得很高。犬鬼也是非常能幹的登山者，使它們成為山脈的特殊坐騎。
+entity.lycanitesmobs.barghest.habitat=這些動物通常出現在山區和熱帶草原。
+entity.lycanitesmobs.barghest.combat=眾所周知，犬鬼會撲向獵物並將其撕碎，造成流血。
+# ========================================================================
+entity.lycanitesmobs.behemoth.name=比蒙巨獸
+entity.lycanitesmobs.behemoth.description=高大的惡魔怪物，比蒙巨獸都是決心毀滅的強大惡魔。
+entity.lycanitesmobs.behemoth.habitat=比蒙巨獸可以在下界中找到，如果它們足夠大，也會通過未受保護的傳送門入侵。
+entity.lycanitesmobs.behemoth.combat=這些惡魔投擲地獄火球，一種撕裂靈魂而產生的綠色火焰，不僅火焰會燃燒，而且它們也會凋零。
+# ========================================================================
+entity.lycanitesmobs.beholder.name=觀察者
+entity.lycanitesmobs.beholder.description=大量充滿敵意的眼睛和触角，永遠渴望魔法能量！
+entity.lycanitesmobs.beholder.habitat=觀察者喜歡高高的地方，住在大洞穴和廢墟中，晚上出來，可以在山上找到它們。
+entity.lycanitesmobs.beholder.combat=這些畸變會彎曲重力並使魔法無效，從而產生強大的神秘風暴，它們會從口中爆炸，然後這些攻擊會向各個方向釋放致命的激光，並在撞擊中爆炸。
+# ========================================================================
+entity.lycanitesmobs.belph.name=貝爾菲
+entity.lycanitesmobs.belph.description=小而危險的惡魔，一心只想殺戮和進食。
+entity.lycanitesmobs.belph.habitat=這些惡魔可以在下界中找到，並且會通過傳送門入侵。
+entity.lycanitesmobs.belph.combat=貝爾菲投擲毀滅之火的球，這是一種由下界魔法製造的火焰，燃燒著一種不自然的紅色。
+# ========================================================================
+entity.lycanitesmobs.cacodemon.name=巨腦魔
+entity.lycanitesmobs.cacodemon.description=一種大型浮游敵對生物，它們會釋放出致命的惡魔電光從而發生爆炸。另外，巨腦魔還喜歡攻擊惡魂以獲取它們可口的眼淚。
+entity.lycanitesmobs.cacodemon.habitat=這些惡魔在下界熾熱天空中飛來飛去。
+entity.lycanitesmobs.cacodemon.combat=巨腦魔吐出巨大的惡魔閃電球，雖然實際上不是電的，但它們是爆炸性的下界能量球，在擊中時會凋零，並向四面八方釋放較小的惡魔火花。
+# ========================================================================
+entity.lycanitesmobs.calpod.name=樹蟻
+entity.lycanitesmobs.calpod.description=像白蟻一樣的昆蟲，它們成群地捕食！
+entity.lycanitesmobs.calpod.habitat=這些昆蟲可以在森林的灌木叢中找到，晚上出來活動。
+entity.lycanitesmobs.calpod.combat=樹蟻有一個討厭的撕咬，但必須盡快被殺死，因為它們會迅速呼叫更多的樹蟻加入它們。
+# ========================================================================
+entity.lycanitesmobs.cephignis.name=岩漿魚
+entity.lycanitesmobs.cephignis.description=適應極端溫度生活的大型和平魚類，其身體像熔岩一樣熱。岩漿魚可以用煤炭或木炭繁殖！
+entity.lycanitesmobs.cephignis.habitat=這些魚可以在熔岩中游泳，不能在熔岩外長期生存。
+entity.lycanitesmobs.cephignis.combat=岩漿魚通常是被動的，依靠它們的環境來保護它們免受大多數掠食者的傷害。
+# ========================================================================
+entity.lycanitesmobs.chupacabra.name=卓柏卡布拉
+entity.lycanitesmobs.chupacabra.description=可怕的生物，它們對肉體的永不滿足的渴望，可以用來操縱和耕種它們。
+entity.lycanitesmobs.chupacabra.habitat=卓柏卡布拉通常生活在黑暗洞穴的地下。
+entity.lycanitesmobs.chupacabra.combat=這些野獸以致命的撕咬和鋒利的利爪具有難以置信的攻擊性，但是它們的貪婪可以用來對付它們，因為它們會優先考慮大型獵物。它們的攻擊也會治愈它們。
+# ========================================================================
+entity.lycanitesmobs.cinder.name=火元素
+entity.lycanitesmobs.cinder.description=暴力的火元素，只尋求燃燒周圍的其他生物。
+entity.lycanitesmobs.cinder.habitat=作為火的元素，火元素是從純火中顯現出來的，因此它們會在有大量火的地方頻繁生成。然而，它們不會出現在不潔的火焰周圍，如熾焰或死焰。
+entity.lycanitesmobs.cinder.combat=火元素釋放出一種強大的痛風，可以燃燒敵人，但是這些火焰太弱，無法傳播更多的火。
+# ========================================================================
+entity.lycanitesmobs.clink.name=劈楔
+entity.lycanitesmobs.clink.description=奇怪的小鬼，在它們的手臂上迅速長出金屬刀片，然後很容易被分離。
+entity.lycanitesmobs.clink.habitat=這些小鬼經常在沙漠中被發現，因為它們以消耗礦物質生，就像肉一樣，它們沒有翅膀，所以在山區沒有。
+entity.lycanitesmobs.clink.combat=劈楔分離它們生長的刀刃並向敵人投擲。
+# ========================================================================
+entity.lycanitesmobs.cockatrice.name=雞蛇
+entity.lycanitesmobs.cockatrice.description=像雙足飛龍一樣的致命巨型雞，非常危險，離我遠點！
+entity.lycanitesmobs.cockatrice.habitat=這些雙足飛龍通常出現在熱帶地區，比如叢林，因為它們喜歡吃水果和吞食大型昆蟲，當然，任何移動的東西都在菜單上！
+entity.lycanitesmobs.cockatrice.combat=雞蛇用喙啄食，嘴上滴著麻痺和厭惡的毒素，據說這些毒素會讓受害者感覺自己變成石頭。
+# ========================================================================
+entity.lycanitesmobs.conba.name=棕毛獸
+entity.lycanitesmobs.conba.description=頑皮的猿類，對翔充滿了熱情！
+entity.lycanitesmobs.conba.habitat=這些猿類可以在熱帶生物群落中找到，如叢林。
+entity.lycanitesmobs.conba.combat=喜歡把它們粘粘的翔扔到人身上，造成緩慢和反胃，同時製造翔雲以擴大這些效果。這些野獸也會努力保持距離。
+entity.lycanitesmobs.conba.infected=感染的棕毛獸
+# ========================================================================
+entity.lycanitesmobs.concapede.name=貝狀百足蟲
+entity.lycanitesmobs.concapede.description=互相連接的奇怪甲蟲。頭在前面，從後面長出額外的分節，如果餵食蔬菜就會全神貫注，讓它們的分節受到攻擊，這種技術被農民使用。
+entity.lycanitesmobs.concapede.habitat=這些昆蟲可以在熱帶地區如叢林中找到。
+entity.lycanitesmobs.concapede.combat=貝狀百足蟲有毒，但只在夜間有敵意。
+# ========================================================================
+entity.lycanitesmobs.concapedesegment.name=貝狀百足蟲分節
+entity.lycanitesmobs.concapedesegment.description=互相連接的奇怪甲蟲。分節通常與頭部相連並由頭部生長。如果與前面的頭部或其他分節分離，它將成長為頭部。只有部分是無法防禦的。
+entity.lycanitesmobs.concapedesegment.habitat=分節生長的部分，可在熱帶地區如叢林中找到。
+entity.lycanitesmobs.concapedesegment.combat=分節沒有防禦能力，但將由頭部保護，除非這些頭部忙於進食。
+# ========================================================================
+entity.lycanitesmobs.crusk.name=死亡之蟲
+entity.lycanitesmobs.crusk.description=大型沙蠕蟲，有厚厚的外骨骼保護它們。較小的幼崽可以被馴服，但是它們需要很長的時間才能成長，但卻可以成為很好地保護寵物。
+entity.lycanitesmobs.crusk.habitat=這些生物可以在沙漠沙丘中找到。
+entity.lycanitesmobs.crusk.combat=死亡之蟲撕咬得很厲害，可以潛入柔軟地形，如沙子、草方塊或泥土。
+# ========================================================================
+entity.lycanitesmobs.cryptkeeper.name=地穴守護者
+entity.lycanitesmobs.cryptkeeper.description=木乃伊化的屍體，不像通常的亡靈，它們不會在陽光下燃燒。
+entity.lycanitesmobs.cryptkeeper.habitat=這些亡靈經常在夜間的沙漠出沒。
+entity.lycanitesmobs.cryptkeeper.combat=地穴守護者使用近戰攻擊並傳播造成厭惡的有害細菌。
+# ========================================================================
+entity.lycanitesmobs.darkling.name=嗜血蝨蟲
+entity.lycanitesmobs.darkling.description=骯髒的小陰影昆蟲喜歡抓住它們的受害者，慢慢地吸乾它們的血液！你最好快點把這些害蟲趕走！
+entity.lycanitesmobs.darkling.habitat=這些昆蟲可以在黑暗的地下區域找到。
+entity.lycanitesmobs.darkling.combat=嗜血蝨蟲會跳到受害者身上，抓住它們開始快速吸血的地方，這將治愈它們，快速殺死它們至關重要。
+# ========================================================================
+entity.lycanitesmobs.dawon.name=水晶貓
+entity.lycanitesmobs.dawon.description=貓科動物的結晶體，有時在它們的身體上能發現罕見的晶體。
+entity.lycanitesmobs.dawon.habitat=這些野獸可以在叢林中找到。
+entity.lycanitesmobs.dawon.combat=水晶貓會攻擊目標，使獵物殘廢，降低移動速度。
+# ========================================================================
+entity.lycanitesmobs.djinn.name=幻靈
+entity.lycanitesmobs.djinn.description=驕傲的風元素，保護天空遠離那些它們認為不應該出現在那裡的人！
+entity.lycanitesmobs.djinn.habitat=作為風元素，這些生物通常出現在高空。
+entity.lycanitesmobs.djinn.combat=幻靈釋放致命的旋風環，在命中時造成飄浮的負面效果。
+# ========================================================================
+entity.lycanitesmobs.dweller.name=居住者
+entity.lycanitesmobs.dweller.description=水陸兩棲動物可以在陸地上生活一段時間，它們必須在太乾的時候回到水里，因為如果在陸地上生活太久，它們可能會死去。它們在水中快速而致命，在雨中能在陸地上生存。
+entity.lycanitesmobs.dweller.habitat=這些生物可以在沼澤、黑暗森林和叢林中找到。
+entity.lycanitesmobs.dweller.combat=居住者使用一種有毒的爪子劃傷目標，並且在水里十分擅長，而在陸地上它們卻很容易被打敗，除非下雨。
+# ========================================================================
+entity.lycanitesmobs.eechetik.name=毒元素
+entity.lycanitesmobs.eechetik.description=充滿致命瘟疫的危險有毒元素會感染周圍的人。它們喜歡蘑菇！水元素和阿格斯元素也可以融合成一個強大的毒元素。
+entity.lycanitesmobs.eechetik.habitat=作為有毒元素，毒元素在有毒和寄生生長的區域出現，蘑菇似乎經常導致它們在黑暗中出現。
+entity.lycanitesmobs.eechetik.combat=這些元素的外觀和攻擊會像檢查一樣，它們的許多細臂，它們的攻擊會迅速傳播瘟疫，因此需要準備治療物品。
+# ========================================================================
+entity.lycanitesmobs.ent.name=樹人
+entity.lycanitesmobs.ent.description=森林保護者，它們會攻擊任何它們認為對森林構成威脅的東西。
+entity.lycanitesmobs.ent.habitat=樹人可以在夜間發現遊蕩的森林，但也會合併到樹中，所以砍樹時要小心！
+entity.lycanitesmobs.ent.combat=樹人使用毒害攻擊，在水中恢復生命，攻擊時也會消耗生命。斧和類似的工具非常有效。
+# ========================================================================
+entity.lycanitesmobs.epion.name=厄匹恩
+entity.lycanitesmobs.epion.description=巨大的陰影吸血蝙蝠。當與陽光直接接觸時，厄匹恩會掉到地上並在撞擊中爆炸！
+entity.lycanitesmobs.epion.habitat=這些蝙蝠在滿月的夜晚出來。
+entity.lycanitesmobs.epion.combat=厄匹恩向受害者吐吸血螞蟥，在被擊中時消耗生命。
+# ========================================================================
+entity.lycanitesmobs.erepede.name=艾勒派德
+entity.lycanitesmobs.erepede.description=一種近似昆蟲的岩石類生物，它們喜歡打獵，也會在視線中攻擊死亡之蟲。
+entity.lycanitesmobs.erepede.habitat=這些昆蟲可以在沙漠和平頂山等炎熱乾燥的地形上游盪。
+entity.lycanitesmobs.erepede.combat=艾勒派德發出危險的泥漿彈，虛弱目標。
+# ========================================================================
+entity.lycanitesmobs.ettin.name=食人魔
+entity.lycanitesmobs.ettin.description=巨大的雙頭怪物。這些狂獸因為它們的破壞能力而受到威脅。
+entity.lycanitesmobs.ettin.habitat=這些狂獸經常生活在沼澤地。
+entity.lycanitesmobs.ettin.combat=食人魔動作緩慢，但會受到嚴重打擊。如果你在戰鬥中離得太近，它們會驚慌並摧毀附近的柔軟方塊，如木頭或泥土。
+# ========================================================================
+entity.lycanitesmobs.eyewig.name=毒眼
+entity.lycanitesmobs.eyewig.description=在黑暗中，眼睛是敵對的，可以爬過水面也可以滑過水面。
+entity.lycanitesmobs.eyewig.habitat=這些昆蟲經常在沼澤、黑暗森林和叢林中發現。
+entity.lycanitesmobs.eyewig.combat=毒眼可以從它們的巨眼發射有毒激光！它們的撕咬也會導致失明！
+# ========================================================================
+entity.lycanitesmobs.fear.name=恐懼
+entity.lycanitesmobs.fear.description=這是一個用於恐懼效果的虛擬實體，如果它在生物圖鑑內或有刷怪蛋，那麼這是一個漏洞，請報告它！
+entity.lycanitesmobs.fear.habitat=虛擬實體。
+entity.lycanitesmobs.fear.combat=虛擬實體。
+# ========================================================================
+entity.lycanitesmobs.feradon.name=費雷德
+entity.lycanitesmobs.feradon.description=像獅子一樣的掠食者是優秀的獵手。
+entity.lycanitesmobs.feradon.habitat=這些野獸在平原和草原上茁壯成長。
+entity.lycanitesmobs.feradon.combat=費雷德用強力的撕咬攻擊以攻破受害者防禦。
+# ========================================================================
+entity.lycanitesmobs.frostweaver.name=霜語者
+entity.lycanitesmobs.frostweaver.description=在寒冷的環境中茁壯成長的吐冰蜘蛛。
+entity.lycanitesmobs.frostweaver.habitat=這些蜘蛛可以在針葉林或冰原等寒冷地區找到。
+entity.lycanitesmobs.frostweaver.combat=霜語者會吐出一種存在時間短暫的霜網，這種網會導致速度變慢。
+# ========================================================================
+entity.lycanitesmobs.geist.name=感知
+entity.lycanitesmobs.geist.description=感知是機會主義的亡靈生物，它們變形並爬進其他亡靈生物的生命體或屍體，並以宿主能夠殺死的任何東西為食。當它們的主人死了，感知就會跳出來，然後發起突襲！
+entity.lycanitesmobs.geist.habitat=感知通常來自其他亡靈生物，但也可以發現它們潛伏在黑暗森林和末地中。
+entity.lycanitesmobs.geist.combat=感知使用簡單的近戰攻擊，但在死亡時釋放影火，雖然不會燃燒，但會造成傷害和失明。
+# ========================================================================
+entity.lycanitesmobs.geken.name=哥肯
+entity.lycanitesmobs.geken.description=有著卓越跳躍能力的劇毒爬蟲。
+entity.lycanitesmobs.geken.habitat=這些生物喜歡在熱帶地區，如叢林，但也可以在沼澤中找到。
+entity.lycanitesmobs.geken.combat=哥肯不斷地跳躍，使它們更難被擊中，它們的爪子很鋒利，會導致流血。
+# ========================================================================
+entity.lycanitesmobs.geonach.name=地魔
+entity.lycanitesmobs.geonach.description=地魔由殘酷的大地元素生物幻化而成，一般它們都會待在地下，有些不知情的礦工將會驚醒它們。
+entity.lycanitesmobs.geonach.habitat=作為大地元素，地魔表現為大地很強大，通常藏在礦石中，破壞這些礦石會激怒它們。
+entity.lycanitesmobs.geonach.combat=地魔會用它們的長矛臂快速攻擊，偶爾也會用它們更重的拳頭攻擊以獲得更多的傷害。它們的攻擊會獲得沉重負面效果，這通常會困住受害者。鎬和類似工具非常有效。
+# ========================================================================
+entity.lycanitesmobs.ghoul.name=食屍鬼
+entity.lycanitesmobs.ghoul.description=惡毒的亡靈生物，食屍鬼比一般的殭屍小，允許它們爬到較小的地方。
+entity.lycanitesmobs.ghoul.habitat=夜間可以發現潛伏在沼澤、暗森林和叢林周圍的食屍鬼。
+entity.lycanitesmobs.ghoul.combat=食屍鬼近戰攻擊並造成中毒。
+# ========================================================================
+entity.lycanitesmobs.gorger.name=熔岩蟲
+entity.lycanitesmobs.gorger.description=巨大的岩漿蠕蟲在熔岩中游動，它們也能在陸地上生存，像泥土一樣鑽入柔軟地面中。
+entity.lycanitesmobs.gorger.habitat=這些生物可以在大片熔岩中找到。
+entity.lycanitesmobs.gorger.combat=熔岩蟲通過在各處釋放幾個熔岩球進行攻擊，雖然這些攻擊很強大，但它們不能準確擊中目標。
+# ========================================================================
+entity.lycanitesmobs.gorgomite.name=魔鬼蟎
+entity.lycanitesmobs.gorgomite.description=小型岩石甲蟲，它們是眾所周知的非常好鬥，但害怕獅蠍。
+entity.lycanitesmobs.gorgomite.habitat=魔鬼蟎通常出現在沙漠中，它們在夜間出沒。
+entity.lycanitesmobs.gorgomite.combat=這些甲蟲一開始只是一個簡單輕微叮咬的討厭鬼，但它們會迅速召喚其他的甲蟲，並開始成群結隊，因此快速消滅它們至關重要。
+# ========================================================================
+entity.lycanitesmobs.grue.name=蠐螬
+entity.lycanitesmobs.grue.description=當一片漆黑之時，你要小心被蠐螬吃掉！在完全黑暗中看不到這些影子元素。火元素和阿格斯元素可以融合在一起形成強大的蠐螬。
+entity.lycanitesmobs.grue.habitat=作為陰影元素，在黑暗的地下深處生成。
+entity.lycanitesmobs.grue.combat=蠐螬使用危險的近戰攻擊，還會造成失明，除此之外，它們還會偶爾在傳送到受害者身後。而且，如果它們的受害者有任何正面效果，蠐螬會吞食這些效果並治愈！
+# ========================================================================
+entity.lycanitesmobs.herma.name=巨鉗蟹
+entity.lycanitesmobs.herma.description=巨蟹！它們通常十分保守，除非有東西離得太近了！
+entity.lycanitesmobs.herma.habitat=這些生物在鹹水海洋和海灘上發現。
+entity.lycanitesmobs.herma.combat=巨鉗蟹用它們強有力的爪子攻擊。
+# ========================================================================
+entity.lycanitesmobs.ignibus.name=赤炎飛龍
+entity.lycanitesmobs.ignibus.description=火熱的巨龍，暴躁的脾氣，灼熱的爪子，熾熱的呼吸，燃燒的渴望融化你的臉！
+entity.lycanitesmobs.ignibus.habitat=赤炎飛龍可以在非常大的湖泊中找到，它們很罕見，但卻非常強大。
+entity.lycanitesmobs.ignibus.combat=這些巨龍釋放出一股強大的烈火和熱餘燼，可以點燃地面和任何物體。熾焰還將造成滲透削弱防禦。
+# ========================================================================
+entity.lycanitesmobs.ika.name=伊卡
+entity.lycanitesmobs.ika.description=緩慢的蝸牛龜貝類！伊卡可以用蔬菜來引誘和繁殖，然而它們在陸地上只能活一小會兒。要細心養殖！
+entity.lycanitesmobs.ika.habitat=伊卡可以在海水和海灘上的水池中找到。
+entity.lycanitesmobs.ika.combat=伊卡通常是被動的。
+# ========================================================================
+entity.lycanitesmobs.ioray.name=魔鬼魚
+entity.lycanitesmobs.ioray.description=美麗的生物以極快的速度優雅地游泳，它們的背上有大量珍貴的寶石，但是它們很有攻擊性。
+entity.lycanitesmobs.ioray.habitat=這些生物可以在海水中找到。
+entity.lycanitesmobs.ioray.combat=魔鬼魚使用致命的水噴射攻擊，將摧毀任何攻擊的防禦。
+# ========================================================================
+entity.lycanitesmobs.jabberwock.name=囉嗦怪
+entity.lycanitesmobs.jabberwock.description=像鹿一樣兇殘的動物，把獵物撕成碎片。
+entity.lycanitesmobs.jabberwock.habitat=晚上可以在山上發現囉嗦怪。
+entity.lycanitesmobs.jabberwock.combat=囉嗦怪有鉤爪，會造成沉重效果，將受害者拉下來，這可以防止任何跳躍，增加墜落傷害，使囉嗦怪在山上是致命的。
+# ========================================================================
+entity.lycanitesmobs.jengu.name=水元素
+entity.lycanitesmobs.jengu.description=水元素被稱為純淨水的保護者，它們會攻擊任何它們認為對它們的水純度構成威脅的東西。
+entity.lycanitesmobs.jengu.habitat=作為水的元素，水元素在黑暗中從大型水體中顯現。
+entity.lycanitesmobs.jengu.combat=水元素通過投擲大量的水攻擊，碰到這些水會形成一個臨時的水池。
+# ========================================================================
+entity.lycanitesmobs.joust.name=騎鬥士
+entity.lycanitesmobs.joust.description=兇猛的節肢動物，它們可以被繁殖，喜歡仙人掌綠！
+entity.lycanitesmobs.joust.habitat=這些生物可以在沙漠和平頂山中找到。
+entity.lycanitesmobs.joust.combat=騎鬥士通常是和平的，但如果被攻擊，會被咬回去，並遵循攻擊性初代騎鬥士的命令。
+# ========================================================================
+entity.lycanitesmobs.joustalpha.name=初代騎鬥士
+entity.lycanitesmobs.joustalpha.description=更大的騎鬥士和首領，它們會攻擊視野裡其它的初代同時會命令除了初代之外的騎鬥士，它們非常敵對。
+entity.lycanitesmobs.joustalpha.habitat=這些生物可以在沙漠和平頂山中找到。
+entity.lycanitesmobs.joustalpha.combat=騎鬥士速度快，攻擊速度也快，它們還將召集其他非初代騎鬥士與它們一起攻擊。
+# ========================================================================
+entity.lycanitesmobs.khalk.name=熔岩鱷龜
+entity.lycanitesmobs.khalk.description=大型岩漿動物以其難以置信的防禦和致命的進攻而聞名。死後，它們的身體會分解成熔岩！
+entity.lycanitesmobs.khalk.habitat=這些野獸可以在地下熔岩湖深處找到。
+entity.lycanitesmobs.khalk.combat=熔岩鱷龜使用非常強大的近戰攻擊，可以造成燃燒，但是速度非常慢。當它們變成一個臨時的熔岩小池子時，一定要在它們死去的時候留下來。
+# ========================================================================
+entity.lycanitesmobs.kobold.name=地精
+entity.lycanitesmobs.kobold.description=小型囓齒動物總忍不住會偷東西，包括火把！殺死它們會掉落它們偷的物品。
+entity.lycanitesmobs.kobold.habitat=這些囓齒動物通常在夜間在平原上發現。
+entity.lycanitesmobs.kobold.combat=地精通常逃離其他生物，但已知會攻擊低生命值的人。
+# ========================================================================
+entity.lycanitesmobs.lacedon.name=水鬼
+entity.lycanitesmobs.lacedon.description=奇怪的類人水生生物，它們能夠在一小段時間內登陸，如果下雨的話，也可以無限期地登陸。
+entity.lycanitesmobs.lacedon.habitat=水鬼可以在鹹水海洋中找到。
+entity.lycanitesmobs.lacedon.combat=水鬼在攻擊時造成沉重效果，通常以受害者被拖到海底結束。
+# ========================================================================
+entity.lycanitesmobs.lobber.name=熔岩巨魔
+entity.lycanitesmobs.lobber.description=巨大的熔岩狂獸，大裂片是非常強大的生物。
+entity.lycanitesmobs.lobber.habitat=這些狂獸在熔岩湖中發現。
+entity.lycanitesmobs.lobber.combat=熔岩巨魔因其攻擊而得名，在攻擊中它們向受害者投擲大量岩漿球，這很快就開始向該地區注入臨時熔岩。
+# ========================================================================
+entity.lycanitesmobs.lurker.name=潛伏者
+entity.lycanitesmobs.lurker.description=潛伏者非常適合隱藏在它們的環境之中。一旦得手，它們就會躲避起來，等待毒液慢慢生效。同時它也可以被馴服為不錯的寵物，以防止爬行者。
+entity.lycanitesmobs.lurker.habitat=這些生物可以在森林和沼澤中找到，但會避開寒冷地區。
+entity.lycanitesmobs.lurker.combat=潛伏者的撕咬會導致中毒和失明，咬傷後潛伏者會逃跑並試圖躲避起來，讓毒素發揮作用，如果毒素消失，它們會再次發起攻擊。
+# ========================================================================
+entity.lycanitesmobs.maka.name=克萊
+entity.lycanitesmobs.maka.description=一種巨型的草食性生物，它們可以用蔬菜進行繁殖，以獲取肉和皮革。請小心初代克萊。
+entity.lycanitesmobs.maka.habitat=克萊可在草原和熱帶草原中找到。
+entity.lycanitesmobs.maka.combat=克萊通常是和平的。
+# ========================================================================
+entity.lycanitesmobs.makaalpha.name=初代克萊
+entity.lycanitesmobs.makaalpha.description=更大的克萊變體，初代克萊通常是和平的，但有時會攻擊，它們也會彼此爭吵很多。初代克萊將保護其餘的克萊，因此它們有時使繁殖克萊變得棘手。
+entity.lycanitesmobs.makaalpha.habitat=初代克萊可在草原和熱帶草原中找到。
+entity.lycanitesmobs.makaalpha.combat=當被激怒時，初代克萊使用強大的撕咬和尖刺的尾巴以造成很高的近戰傷害。
+# ========================================================================
+entity.lycanitesmobs.manticore.name=獅蠍
+entity.lycanitesmobs.manticore.description=像蝙蝠一樣兇惡的野獸，尾巴像蝎子。它們喜歡捕殺魔鬼蟎和其他小獵物。
+entity.lycanitesmobs.manticore.habitat=在夜間，獅蠍在沙漠上空飛行。
+entity.lycanitesmobs.manticore.combat=獅蠍的刺會讓你感到非常虛弱和飢餓！
+# ========================================================================
+entity.lycanitesmobs.maug.name=冰河熊
+entity.lycanitesmobs.maug.description=一種體型巨大的酷似狼的北極熊。
+entity.lycanitesmobs.maug.habitat=這些動物可以在寒冷地區找到，如雪山或針葉林。
+entity.lycanitesmobs.maug.combat=冰河熊使用強大的猛烈攻擊，它會使人殘廢，導致行動緩慢。
+# ========================================================================
+entity.lycanitesmobs.morock.name=雙足飛龍
+entity.lycanitesmobs.morock.description=兇猛的雙足飛龍，雖然它們不能吐出火焰，但它們仍然會使用毀滅性的撕咬！
+entity.lycanitesmobs.morock.habitat=雙足飛龍被發現在開闊的天空中，有許多美味的獵物，如草原，幸運的是它們相當罕見。
+entity.lycanitesmobs.morock.combat=雙足飛龍速度快，撕咬有力，最好用它們的大塊頭來對付它們。
+# ========================================================================
+entity.lycanitesmobs.nymph.name=精靈
+entity.lycanitesmobs.nymph.description=異想天開的仙靈元素充滿了治愈它們周圍一切的能量。它們喜歡花！雖然直接無害，但當它們害怕時會造成傷害。水元素和宙斯盾元素可以融合，創造出強大的仙女。
+entity.lycanitesmobs.nymph.habitat=作為仙靈元素，精靈在生命源周圍出現，因此在陽光下的花朵周圍出現。
+entity.lycanitesmobs.nymph.combat=精靈是和平的，會治愈它們周圍的一切，這對亡靈生物是有害的。如果被擊中，精靈們會逃跑，用鋒利的荊棘燒掉花，造成流血。
+# ========================================================================
+entity.lycanitesmobs.pinky.name=牛鬼
+entity.lycanitesmobs.pinky.description=特別喜歡吃活動物的貪吃的動物。可以用活的大型動物飼養和繁殖。幼年的牛鬼可以被馴服，成熟後可以作為戰鬥坐騎。
+entity.lycanitesmobs.pinky.habitat=牛鬼在下界中游盪，尋找食物。
+entity.lycanitesmobs.pinky.combat=這些惡魔具有難以置信的攻擊性，但會優先考慮更多汁的獵物，而這些獵物可以用來淨化它們。
+# ========================================================================
+entity.lycanitesmobs.quetzodracl.name=風神翼龍
+entity.lycanitesmobs.quetzodracl.description=強大的雙足飛龍，仍然與它們的龍祖先翼龍有著強烈的相似之處。
+entity.lycanitesmobs.quetzodracl.habitat=這些飛龍可以在海上飛行。
+entity.lycanitesmobs.quetzodracl.combat=風神翼龍是不可思議的力量，它會抓住獵物，最好用它們的大塊頭來對付它們。
+# ========================================================================
+entity.lycanitesmobs.quillbeast.name=毛羽獸
+entity.lycanitesmobs.quillbeast.description=一種大型囓齒類動物，它們很容易受到驚嚇，會從遠處發射這些棘刺。
+entity.lycanitesmobs.quillbeast.habitat=這些動物可以在草原、熱帶草原和森林中找到。
+entity.lycanitesmobs.quillbeast.combat=毛羽獸用致命的棘刺攻擊，同時割穿長草。
+# ========================================================================
+entity.lycanitesmobs.rahovart.name=拉赫凡特
+entity.lycanitesmobs.rahovart.description=作為地下世界的領主，拉赫凡特的名字本身就給最邪惡的人帶來了恐懼和害怕。
+entity.lycanitesmobs.rahovart.habitat=據說拉赫凡特是一個非常古老和強大的龐然大物，起源於一個巨大的地獄。
+entity.lycanitesmobs.rahovart.combat=拉赫凡特是一個強大的惡魔，用強大的地獄火大砲攻擊。第一階段：拉赫凡特召喚貝爾菲，超時時間，這些貝爾菲變得強大，並最終爆炸給拉赫凡特一個地獄火球。有了5個球體，拉赫凡特將釋放出一個巨大的地獄火波，造成巨大的傷害並燒掉任何好的效果，殺死貝爾菲是很重要的，以減少這種情況的發生。第二階段：拉赫凡特繼續召喚貝爾菲，但不再賦予它們力量，相反，他也召喚了獲得力量的巨獸，這些巨獸將給予他球體，在5個球體處，拉赫凡特將創造一個巨大的地獄之火牆，圍繞他旋轉，這會造成傷害並消除效果，像波浪一樣，但持續的時間更長，所以盡可能快地殺死比蒙巨獸。第三階段：拉赫凡特現在將自己創造球體，並將創造地獄之火屏障，這些不會移動，但最終將接管拉赫凡特周圍的區域，但是殺死他的部下將移除這些屏障，因此如果有太多，殺死貝爾菲和比蒙巨獸以降低屏障。
+# ========================================================================
+entity.lycanitesmobs.raiko.name=鵜鶘
+entity.lycanitesmobs.raiko.description=眾所周知，大型海鳥會潛入海洋並抓住獵物。
+entity.lycanitesmobs.raiko.habitat=這些鳥可以在海洋上空找到。
+entity.lycanitesmobs.raiko.combat=鵜鶘會抓住獵物，在它們把你抬得太高之前殺死它們是很重要的。最終，鵜鶘會釋放它們的獵物，並獲得沉重效果，這會造成巨大的墜落傷害，但通常會將它們的受害者丟到深海中。
+# ========================================================================
+entity.lycanitesmobs.reaper.name=收割者
+entity.lycanitesmobs.reaper.description=扭曲的靈魂以死亡為食，收割者會被死亡所吸引，有時會誤以為睡著的人已經死了！
+entity.lycanitesmobs.reaper.habitat=這些靈魂有時出現在生物死亡時，有時出現在某人試圖睡覺時。
+entity.lycanitesmobs.reaper.combat=收割者遠程攻擊會使它們的受害者在恐懼中奔跑！
+# ========================================================================
+entity.lycanitesmobs.reiver.name=雪元素
+entity.lycanitesmobs.reiver.description=冰霜元素，雪元素試圖凍結它們周圍的一切。水元素和幻靈元素可以融合，創造強大的雪元素。
+entity.lycanitesmobs.reiver.habitat=雪元素有時在寒冷地區的夜空中漫遊，也會從其他生物傳播的霜火中顯現出來。
+entity.lycanitesmobs.reiver.combat=這些元素會發射冰凍的冰霜閃電，使受害者的攻擊速度減慢。
+# ========================================================================
+entity.lycanitesmobs.remobra.name=蛇龍
+entity.lycanitesmobs.remobra.description=一種可以飛在天空進行噴射毒液的蛇，如果它們噴吐的落在地面上，那麼它會爆出一團毒霧。
+entity.lycanitesmobs.remobra.habitat=這些龍可以在沼澤和黑暗森林中找到。
+entity.lycanitesmobs.remobra.combat=蛇龍通過噴射毒液進行遠程攻擊，如果它們吐出的毒液擊中受害者，就會造成瘟疫，如果它們吐出的毒液擊中地面，就會形成一團毒霧。
+# ========================================================================
+entity.lycanitesmobs.roa.name=龍捲鯊
+entity.lycanitesmobs.roa.description=統治海洋的兇猛鯊魚！把它們馴服成坐騎是勇敢或愚蠢的嘗試。
+entity.lycanitesmobs.roa.habitat=這些鯊魚可以在鹹水海洋中找到。
+entity.lycanitesmobs.roa.combat=龍捲鯊在它們周圍製造致命的漩渦，將獵物拉向它們致命的下顎！它們也能把陸地生物拉入水中，潛入水中有助於阻止它們把你拉離懸崖邊緣。
+# ========================================================================
+entity.lycanitesmobs.roc.name=大鵬
+entity.lycanitesmobs.roc.description=大鵬在夜空中飛翔，尋找獵物。
+entity.lycanitesmobs.roc.habitat=這些鳥通常飛越草原和熱帶草原。
+entity.lycanitesmobs.roc.combat=大鵬長有奇怪的尾巴，充當巨大的爪子，它們用這些來來抓住受害者。然而，大鵬只在夜間或黑暗中有敵意。
+# ========================================================================
+entity.lycanitesmobs.salamander.name=蠑螈
+entity.lycanitesmobs.salamander.description=適應了難以置信的溫度的致命兩棲動物。馴服的蠑螈可以成為巨大的坐騎，甚至可以保護它們的騎手不受火的傷害！
+entity.lycanitesmobs.salamander.habitat=這些生物生活在熔岩湖中。
+entity.lycanitesmobs.salamander.combat=蠑螈使用烈火撕咬，導致燃燒。
+# ========================================================================
+entity.lycanitesmobs.serpix.name=瑟皮克斯
+entity.lycanitesmobs.serpix.description=臭名昭著的冰蟲在冰凍的土地上挖洞。
+entity.lycanitesmobs.serpix.habitat=這些蠕蟲可以在大型的膠狀冰池和冰原等寒冷地區找到。
+entity.lycanitesmobs.serpix.combat=瑟皮克斯通過咆哮產生一場致命的暴風雪，在地面上投下霜火，造成傷害和減速。
+# ========================================================================
+entity.lycanitesmobs.shade.name=陰暗
+entity.lycanitesmobs.shade.description=巨大的陳舊的蛇形畸變是由陰影本身產生的。有四個強大的蛇騎士騎這些野獸進入戰鬥的傳說：D'sparil、Korax、Eidelon 和 Lycanite。
+entity.lycanitesmobs.shade.habitat=這些畸變可以在最黑暗的地下深處發現。
+entity.lycanitesmobs.shade.combat=陰暗在攻擊時會消耗一點生命，它們會發出可怕的嚎叫，讓所有反對它們的人都在恐懼中奔跑！
+# ========================================================================
+entity.lycanitesmobs.shambler.name=蹣跚者
+entity.lycanitesmobs.shambler.description=過度生長的灌木生物。可以被馴服，是一個很好的方式來活躍你的花園！
+entity.lycanitesmobs.shambler.habitat=蹣跚者在密林和叢林中生成。
+entity.lycanitesmobs.shambler.combat=蹣跚者從水中再生，可以造成麻痺，它們很危險，但速度很慢。
+# ========================================================================
+entity.lycanitesmobs.silex.name=青金石魚
+entity.lycanitesmobs.silex.description=美麗的魚，鱗片上鑲嵌著青金石。眾所周知，青金石魚會吃掉彼此鱗片上的青金石以及岩石形成的天然岩層。
+entity.lycanitesmobs.silex.habitat=這些魚經常在淡水湖泊和河流中發現。
+entity.lycanitesmobs.silex.combat=青金石魚是和平的生物。
+# ========================================================================
+entity.lycanitesmobs.skylus.name=盾鬥魚
+entity.lycanitesmobs.skylus.description=一種類似魷魚一樣的生物，有著堅硬的外殼。如果傷害足夠，就可以破壞它們的殼。
+entity.lycanitesmobs.skylus.habitat=這些生物可以在海水中找到。
+entity.lycanitesmobs.skylus.combat=盾鬥魚抓住獵物並把它們拖到水下深處，它們會用帶有失明效果的墨汁攻擊。當它們的外殼被摧毀時，它們會變得更快，但也更容易受到傷害。
+# ========================================================================
+entity.lycanitesmobs.spectre.name=通靈
+entity.lycanitesmobs.spectre.description=神秘的虛空元素，它們試圖將現實本身分解為虛無。宙斯盾和阿格斯元素可以融合在一起形成一個強大的幽靈。
+entity.lycanitesmobs.spectre.habitat=作為虛空元素，通靈顯現在靠近虛空的地下深處和末地的天空中。
+entity.lycanitesmobs.spectre.combat=通靈會試圖吸食獵物並近距離攻擊。
+# ========================================================================
+entity.lycanitesmobs.spriggan.name=保衛者
+entity.lycanitesmobs.spriggan.description=神秘的植物元素，保衛者保護自然免受威脅。水元素和地魔元素可以融合，創造出強大的枝條。
+entity.lycanitesmobs.spriggan.habitat=作為植物元素，保衛者可以偶爾在森林中游盪，並迅速出現在植物生命的防禦中，因此在收穫植物時要小心。
+entity.lycanitesmobs.spriggan.combat=保衛者發射有毒的強大激光並消耗生命來治療保衛者。
+# ========================================================================
+entity.lycanitesmobs.strider.name=斯特賴德
+entity.lycanitesmobs.strider.description=這些巨大的兩棲動物有點像蝦，它們害怕它們可怕的觸鬚爪，從中捕捉和消費它們的受害者。
+entity.lycanitesmobs.strider.habitat=這些生物通常在大型湖泊或河流中發現。
+entity.lycanitesmobs.strider.combat=斯特賴德會把它們的受害者帶走，慢慢地將它們的生命抽取出來，它們在水中或下雨時也很快。
+# ========================================================================
+entity.lycanitesmobs.sutiramu.name=毒蠍
+entity.lycanitesmobs.sutiramu.description=好鬥的大蝎子。
+entity.lycanitesmobs.sutiramu.habitat=這些生物可以在沙漠和平頂山中找到。
+entity.lycanitesmobs.sutiramu.combat=毒蠍用毒液攻擊，導致飢餓。
+# ========================================================================
+entity.lycanitesmobs.sylph.name=西爾芙
+entity.lycanitesmobs.sylph.description=神聖的以太元素，詛咒那些侵入聖地的人。幻靈和宙斯盾可以融合，創造出強大的西爾芙。
+entity.lycanitesmobs.sylph.habitat=作為以太元素，西爾芙在金字塔或寺廟等崇拜區域顯現。
+entity.lycanitesmobs.sylph.combat=西爾芙將釋放一個巨大的以太魔法波，打擊那些在陽光下燃燒的目標！
+# ========================================================================
+entity.lycanitesmobs.tarantula.name=狼蛛
+entity.lycanitesmobs.tarantula.description=一種會在途徑暫時留下綠色織網物的劇毒跳珠。
+entity.lycanitesmobs.tarantula.habitat=狼蛛可以在叢林和沼澤中找到。
+entity.lycanitesmobs.tarantula.combat=這些蜘蛛經常會毒咬和跳躍，注意它們粘乎乎的綠色織網物很重要。
+# ========================================================================
+entity.lycanitesmobs.thresher.name=蛇頸龍
+entity.lycanitesmobs.thresher.description=巨大而雄偉的水生物，有著巨大的胃口和強有力的鰭，能夠製造巨大的漩渦來吸引獵物！非常危險！
+entity.lycanitesmobs.thresher.habitat==這些水生生物既可在淡水湖、大型河流中找到，也可在鹹水海洋中找到。
+entity.lycanitesmobs.thresher.combat=蛇頸龍製造大型漩渦，從周圍拉入獵物，在陸地上甚至不安全，因為它們也會把獵物拉向空中。
+# ========================================================================
+entity.lycanitesmobs.treant.name=高樹人
+entity.lycanitesmobs.treant.description=巨型森林的守護者，比起樹人它們更加高大而強壯。
+entity.lycanitesmobs.treant.habitat=雖然很罕見，但在密林中也能發現高樹人。
+entity.lycanitesmobs.treant.combat=高樹人會造成麻痺，攻擊時消耗生命並從水中再生。斧和類似的工具對其非常有效。
+# ========================================================================
+entity.lycanitesmobs.tremor.name=地元素
+entity.lycanitesmobs.tremor.description=爆炸性震動元素，地元素具有難以置信的破壞性。地魔和阿格斯元素可以融合產生強烈的震動。
+entity.lycanitesmobs.tremor.habitat=作為震動元素，地元素表現為燃燒和響亮的聲音，因此偶爾表現為大爆炸。
+entity.lycanitesmobs.tremor.combat=地元素通過在周圍製造小爆炸進行攻擊，它們相當弱，但具有相當大的破壞性，應該迅速消滅。
+# ========================================================================
+entity.lycanitesmobs.triffid.name=巨型三裂植物
+entity.lycanitesmobs.triffid.description=大型食肉植物，緩慢但極其有毒和致命！
+entity.lycanitesmobs.triffid.habitat==這些植物生物經常潛伏在沼澤中，因為沼澤潮濕，不太冷，而且充滿獵物，它們無法吞食。
+entity.lycanitesmobs.triffid.combat=這些生物速度非常慢，但應該小心對付，因為它們的攻擊非常強大，並且傳播瘟疫。斧頭對它們是非常有效的，但要注意它們會在水中進行自我再生！
+# ========================================================================
+entity.lycanitesmobs.trite.name=蛆蟲
+entity.lycanitesmobs.trite.description=小而快的惡魔生物，看起來像一個有蜘蛛般腿的大腦。
+entity.lycanitesmobs.trite.habitat=蛆蟲在下界裡游盪，據說它們來自煉獄，是一個無盡肉體的地獄。
+entity.lycanitesmobs.trite.combat=蛆蟲非常弱小，但由於速度和體積小，很難被擊中，被它咬到的人會中凋零效果。
+# ========================================================================
+entity.lycanitesmobs.troll.name=巨怪
+entity.lycanitesmobs.troll.description=在陽光下，巨怪的皮膚像石頭一樣堅硬，在黑暗中，則是一個可怕的綠色肉體。巨怪是破壞性的。
+entity.lycanitesmobs.troll.habitat=這些狂獸通常生活在山上。
+entity.lycanitesmobs.troll.combat=巨怪使用強大的近戰攻擊，並將摧毀它們周圍的軟地形。在陽光下，它們變得像石頭一樣堅硬，防禦能力更強，但容易受到鎬的攻擊，在陽光下，它們會失去防禦能力，很容易受到攻擊。
+# ========================================================================
+entity.lycanitesmobs.uvaraptor.name=烏瓦食肉鳥
+entity.lycanitesmobs.uvaraptor.description=色彩斑斕的猛禽，有極強的跳躍和滑翔能力。可以馴服為有用的跳高坐騎，幾乎可以維持飛行。
+entity.lycanitesmobs.uvaraptor.habitat=這些猛禽通常出現在叢林中。
+entity.lycanitesmobs.uvaraptor.combat=烏瓦食肉鳥跳到空中攻擊獵物，使它們更難以受到攻擊，但也容易受到遠程攻擊。
+# ========================================================================
+entity.lycanitesmobs.vapula.name=瓦布拉
+entity.lycanitesmobs.vapula.description=強大的重力元素，體現了結構本身的本質。地魔和宙斯盾元素可以融合形成強大的瓦布拉。
+entity.lycanitesmobs.vapula.habitat=作為重力元素，瓦布拉從壓縮源和結構中顯現出來，它們通常被鑲嵌在寶石中，如鑽石。
+entity.lycanitesmobs.vapula.combat=瓦布拉從它們的背部快速發射一團鋒利的水晶彈，一旦子彈被發射，它們必須重新充能，使它們變得脆弱。鎬和類似工具非常有效。
+# ========================================================================
+entity.lycanitesmobs.ventoraptor.name=風猛禽
+entity.lycanitesmobs.ventoraptor.description=快速的猛禽以難以置信的速度滑翔，可以馴服為已知最快的坐騎之一。
+entity.lycanitesmobs.ventoraptor.habitat=這些猛禽喜歡在草原上狩獵。
+entity.lycanitesmobs.ventoraptor.combat=風猛禽速度非常快，會向獵物跳躍並攻擊。
+# ========================================================================
+entity.lycanitesmobs.vespid.name=胡蜂
+entity.lycanitesmobs.vespid.description=帶有毒刺的入侵性大黃蜂。單獨的胡蜂不是什麼問題，但要是有一群或者有女王蜂存在，它們可能是非常危險的。人們知道它們在女王附近築巢。
+entity.lycanitesmobs.vespid.habitat=這些昆蟲生活在熱帶地區，如叢林。
+entity.lycanitesmobs.vespid.combat=胡蜂快但很弱，它們的刺有毒。它們經常成群結隊，在蜂巢裡會有危險的數量。
+# ================================================= =======================
+entity.lycanitesmobs.vespidqueen.name=女王蜂
+entity.lycanitesmobs.vespidqueen.description=由標準胡蜂群保護的大型胡蜂。女王蜂將由附近的標準胡蜂為它們建造一個蜂巢。眾所周知，女王蜂會將卵注入棕毛獸，把它們變成受感染的移動巢穴，等待孵化！
+entity.lycanitesmobs.vespidqueen.habitat=這些昆蟲生活在熱帶地區，如叢林。
+entity.lycanitesmobs.vespidqueen.combat=女王蜂比常規的帶有更強大毒刺的胡蜂更堅硬。它們通常被常規的胡蜂包圍，這些胡蜂將優先保護它們的女王。
+# ========================================================================
+entity.lycanitesmobs.volcan.name=火巨人
+entity.lycanitesmobs.volcan.description=一種炙熱的熔岩元素，火巨人將融化它們所經過的一切！火元素和地魔元素可以融合，形成強大的火巨人。
+entity.lycanitesmobs.volcan.habitat=作為熔岩元素，火巨人在地下大量的熔岩周圍出現，非常罕見。
+entity.lycanitesmobs.volcan.combat=火巨人會將周圍的任何石頭熔化成熔岩，因此必須快速消滅。火巨人在近戰中攻擊並應用燃燒效果，但它們也有一個熾熱光環燃燒任何接近它們的東西。
+# ========================================================================
+entity.lycanitesmobs.warg.name=座狼
+entity.lycanitesmobs.warg.description=像狼一樣兇猛的大型野獸！眾所周知，它們成群結隊地狩獵。馴服後，它們會成為理想的坐騎！
+entity.lycanitesmobs.warg.habitat=這些野獸經常在森林裡游盪。
+entity.lycanitesmobs.warg.combat=座狼使用致命的跳躍，它會使任何靠近它們著陸位置的東西暫時麻痺。
+# ========================================================================
+entity.lycanitesmobs.wendigo.name=溫迪戈
+entity.lycanitesmobs.wendigo.description=以在它們身後留下一道霜火而聞名的大型冰雪野獸！
+entity.lycanitesmobs.wendigo.habitat=這些狂獸可以在寒冷地區找到，比如冰原以及一大片的膠狀冰池。
+entity.lycanitesmobs.wendigo.combat=溫迪戈速度很慢，但會投擲苔原爆炸，在撞擊時形成一灘膠狀冰。它們也會在它們行走的地方留下霜火，如果不加以控制，這就是眾所周知的雪元素顯現。
+# ========================================================================
+entity.lycanitesmobs.wildkin.name=梟獸
+entity.lycanitesmobs.wildkin.description=一種熊與貓頭鷹的結合，行動敏捷而迅猛。
+entity.lycanitesmobs.wildkin.habitat=已知這些野獸生活在高山和寒冷地區，如冰原。
+entity.lycanitesmobs.wildkin.combat=梟獸使用強大的襲擊，造成沉重效果。
+# ========================================================================
+entity.lycanitesmobs.wisp.name=妖精
+entity.lycanitesmobs.wisp.description=明亮的光元素，有時可以看到一束小樹枝在相互追逐，投擲致命的輻射球。雖然它們很友好，但激怒一隻妖精是不明智的。火元素和宙斯盾元素可以融合在一起形成強大的妖精。
+entity.lycanitesmobs.wisp.habitat=作為光元素，妖精在陽光直射下顯現。
+entity.lycanitesmobs.wisp.combat=妖精將向受害者投擲一個光輻射球，受到影響後，會使它們發光，向附近潛在的捕食者暴露。妖精也有一個光之光環，可以使它們附近的任何東西發光，但也可以提供夜視能力，它們也會燃燒附近的亡靈生物。
+# ========================================================================
+entity.lycanitesmobs.wraamon.name=雷阿蒙
+entity.lycanitesmobs.wraamon.description=充滿混沌能量的致命囓齒動物，通過背部的刺發出這種能量來攻擊獵物。很少有生物敢攻擊這些危險的囓齒動物。
+entity.lycanitesmobs.wraamon.habitat=這些囓齒動物生活在地下深處，據說它們通過微小的隨機混沌的傳送門，偶爾會出現在世界各地，它們傳送門所指向的地方是一個謎。
+entity.lycanitesmobs.wraamon.combat=雷阿蒙可以說是一個巨大的威脅，它們的撕咬會造成不穩定，一個強大的混沌詛咒會導致受苦者在這個地方隨意搖晃。它們相當弱小，但又小又快。
+# ========================================================================
+entity.lycanitesmobs.wraith.name=地獄遊魂
+entity.lycanitesmobs.wraith.description=邪惡的下界元素，是痛苦和苦難的象徵。幻靈和阿格斯元素可以融合，創造出一個強大的幽靈。
+entity.lycanitesmobs.wraith.habitat=作為下界元素，地獄遊魂顯現在集中的邪惡區域，如下界的天空。
+entity.lycanitesmobs.wraith.combat=地獄遊魂速度很快，會不顧一切地飛到它們的受害者身上，並在受到衝擊時攻擊，它們相當虛弱，但在被摧毀後會爆炸。
+# ========================================================================
+entity.lycanitesmobs.xaphan.name=薩凡
+entity.lycanitesmobs.xaphan.description=腐蝕性酸元素，體現分解和溶解的方面。火元素和水元素可以融合，創造出強大的薩凡。
+entity.lycanitesmobs.xaphan.habitat=作為酸性元素，薩凡從混合物中顯現，例如水遇到熔岩時。
+entity.lycanitesmobs.xaphan.combat=薩凡不斷地在其下方滴酸，攻擊時會在其周圍釋放一圈酸液。它們的酸性物質具有破壞性，會造成穿透力，增加任何進入的傷害。
+# ========================================================================
+entity.lycanitesmobs.yale.name=耶魯
+entity.lycanitesmobs.yale.description=奇怪的、毛絨絨的、像公羊一樣的野獸，然而在羊毛的外衣下，卻不是它們看起來的樣子。耶魯提供羊毛，羊毛可以用剪刀獲得，也可以用蔬菜繁殖。它們的角實際上是奇怪的四肢，它們有著細小的鉤狀手臂，用來在草地上篩。
+entity.lycanitesmobs.yale.habitat=這些野獸可以在山上漫步。
+entity.lycanitesmobs.yale.combat=耶魯通常是被動的。
+# ========================================================================
+entity.lycanitesmobs.yeti.name=雪怪
+entity.lycanitesmobs.yeti.description=一種大型哺乳動物，喜好是吃冰雪覆蓋下的植被。它們可以用蔬菜繁殖，但要注意它們的霜雲。雪怪奶是一種美味的佳餚！
+entity.lycanitesmobs.yeti.habitat=這些動物經常在寒冷和下雪的地區漫步，如針葉林。
+entity.lycanitesmobs.yeti.combat=雪怪通常是被動的。
+# ========================================================================
+entity.lycanitesmobs.zephyr.name=微風之靈
+entity.lycanitesmobs.zephyr.description=兇猛的閃電元素，周圍有強大的電場。火元素和幻靈元素可以融合，創造出強大的微風之靈。
+entity.lycanitesmobs.zephyr.habitat=作為閃電元素，微風之靈從雷暴等電性天氣中顯現出來，它們也很少在常規暴雨中出現。
+entity.lycanitesmobs.zephyr.combat=微風之靈將電擊靠近它們的任何敵人並直接攻擊它們導致麻痺。
+# ========================================================================
+entity.lycanitesmobs.zoataur.name=半獸馬
+entity.lycanitesmobs.zoataur.description=有厚鱗的大型爬行動物。
+entity.lycanitesmobs.zoataur.habitat=可以在平原上找到這些野獸。
+entity.lycanitesmobs.zoataur.combat=半獸馬速度慢但打擊力大，有時它們也會彎曲成防禦姿勢，這時它們可以阻擋大部分傷害，但是它們能移動或攻擊。
+# ========================================================================
+creaturetype.spawn=生成
+creaturetype.beast.name=野獸
+creaturetype.avian.name=禽類
+creaturetype.arthropod.name=節肢動物
+creaturetype.plant.name=植物
+creaturetype.aquatic.name=水生生物
+creaturetype.aberration.name=畸變
+creaturetype.undead.name=亡靈生物
+creaturetype.brute.name=狂獸
+creaturetype.imp.name=小鬼
+creaturetype.demon.name=惡魔
+creaturetype.angel.name=天使
+creaturetype.elemental.name=元素生物
+creaturetype.dragon.name=龍
+creaturetype.worm.name=蟲
+# ========================================================================
+death.attack.ooze=%1$s被凍死於膠狀冰中！
+# ========================================================================
+# 現在，效果名稱也必須包含在基礎的 zh_TW.lang 中。
+# 負面效果
+effect.poison.description=隨著時間的推移會造成傷害，但不會致死。
+#
+effect.levitation.description=使目標慢慢地向上飄浮，當它結束時，它們將掉下來。
+#
+effect.glowing.description=使目標發光，任何附近的敵對生物都會被它們吸引，並且總是能看到它們在哪裡。
+#
+effect.wither.description=隨著時間的推移會造成傷害並可能導致死亡。
+#
+effect.weakness.description=減少目標造成的傷害。
+#
+effect.hunger.description=提升飢餓感。
+#
+effect.blindness.description=削弱視野，禁止疾跑。
+#
+effect.mining_fatigue=挖掘疲勞
+effect.mining_fatigue.description=減緩挖掘與攻擊速度。
+#
+effect.slowness=緩速
+effect.slowness.description=減緩行走速度。
+#
+effect.burning=燃燒
+effect.burning.description=隨著時間的推移會造成傷害，並可能導致死亡，但可以用水熄滅。有些生物攻擊時會燃燒。
+#
+effect.paralysis=麻痺
+effect.paralysis.description=大幅降低移動速度，防止跳躍。
+#
+effect.penetration=滲透
+effect.penetration.description=削弱防禦，提升受到的傷害。
+#
+effect.recklessness=魯莽
+effect.recklessness.description=大幅度削弱防禦，但也提升了造成的傷害。
+#
+effect.rage=憤怒
+effect.rage.description=使目標失去理智，攻擊附近的任何東西。
+#
+effect.weight=沉重
+effect.weight.description=產生恆定的向下拉力，提升下落速度，防止跳躍或游泳/向上飛行。
+#
+effect.fear=恐懼
+effect.fear.description=使目標失去理智，無法控制地四處亂跑。
+#
+effect.decay=腐朽
+effect.decay.description=減少所有受到的治療效果。
+#
+effect.insomnia=失眠
+effect.insomnia.description=防止睡覺。
+#
+effect.instability=不穩定
+effect.instability.description=隨機向四面八方推擠目標。
+#
+effect.lifeleak=生命洩漏
+effect.lifeleak.description=使目標造成的傷害恢復。
+#
+effect.bleed=流血
+effect.bleed.description=如果目標移動，會隨著時間迅速造成傷害。
+#
+effect.plague=瘟疫
+effect.plague.description=立即毒害目標，然後將瘟疫降低一級或毒害到附近的生物。
+#
+effect.aphagia=厭惡
+effect.aphagia.description=防止進食和使用各種物品。
+#
+effect.smited=亡靈殺手
+effect.smited.description=使目標在陽光下燃燒。
+#
+effect.smouldering=陰燃
+effect.smouldering.description=不斷地對目標施以燃燒，停留在水中可以抑制但不能移除這個效果。
+#
+#
+# 正面效果
+effect.resistance.description=減少受到的傷害。
+#
+effect.saturation.description=減少飢餓感。
+#
+effect.regeneration.description=隨時間恢復生命。
+#
+effect.absorption.description=提供一個類似額外生命的護盾。
+#
+effect.invisibility.description=獲得隱形效果，減少敵人看到它們的程度。
+#
+effect.water_breathing=水下呼吸
+effect.water_breathing.description=允許在水下呼吸。
+#
+effect.jump_boost=跳躍提升
+effect.jump_boost.description=提升跳躍高度，但不能防止摔落傷害。
+#
+effect.speed=速度
+effect.speed.description=提升行走速度。
+#
+effect.strength=力量
+effect.strength.description=提升造成的傷害。
+#
+effect.haste=急迫
+effect.haste.description=提升挖掘與攻擊速度。
+#
+effect.fire_resistance=防火
+effect.fire_resistance.description=防止燃燒。
+#
+effect.night_vision=夜視
+effect.night_vision.description=提升黑暗處的能見度。
+#
+effect.leech=水蛭
+effect.leech.description=造成傷害時會消耗生命。
+#
+effect.swiftswimming=深海探索者
+effect.swiftswimming.description=提升游泳速度。
+#
+effect.fallresist=摔落保護
+effect.fallresist.description=防止摔落傷害。
+#
+effect.rejuvenation=沐浴回春
+effect.rejuvenation.description=提升所有受到的治療效果。
+#
+effect.immunization=免疫
+effect.immunization.description=消除並免疫中毒、飢餓、虛弱、反胃和麻痺。
+#
+effect.cleansed=淨化
+effect.cleansed.description=消除並免疫凋零、霉運、恐懼和失眠。
+#
+effect.heataura=熾熱光環
+effect.heataura.description=燃燒目標周圍的敵人。
+#
+effect.staticaura=靜態光環
+effect.staticaura.description=麻痺目標周圍的敵人。
+#
+effect.freezeaura=霜凍光環
+effect.freezeaura.description=減緩目標周圍的敵人。
+#
+effect.envenom=劇毒
+effect.envenom.description=為任何攻擊添加中毒效果。
+# ========================================================================
+element.fire.name=火
+element.fire.description=一種代表等離子體和原始能量的基本元素，它可以從酸、熔岩、閃電、光和陰影中提取。
+#
+element.water.name=水
+element.water.description=一種代表流體的基本元素，主要是水本身。水可以從復合元素中提取：酸、植物、凜冰、仙靈和劇毒。
+#
+element.earth.name=大地
+element.earth.description=一種代表固體形態的基本元素，從泥土到岩石、晶體甚至金屬或骨頭。它可以從復合元素中提取：熔岩、植物、相位、重力和震動。
+#
+element.air.name=空氣
+element.air.description=一種代表氣體的基本元素，但通常只因其控制氣流的能力而為人所知。它可以從閃電、凜冰、相位、以太和地獄等複合元素中提取。
+#
+element.order.name=秩序
+element.order.description=一種代表序列和平衡的基本元素，雖然這些都是非常假設的概念，但秩序在魔法宇宙中有著非常物理的存在，其基本形式是原始力。秩序可以從復合元素中提取：光、仙靈、重力、以太和虛空。
+#
+element.chaos.name=混沌
+element.chaos.description=一種代表熵、增長和破壞的基本元素。它可以從復合元素中提取：陰影、劇毒、震動、地獄和虛空。
+#
+element.acid.name=酸
+element.acid.description=一種代表腐蝕和物理消耗的複合元素，但可以擴展為廣泛的化學性質，而且儘管名稱為酸，它也涵蓋了基本物質。酸可以由基本元素火和水融合而成，因為它既體現了火的能量特性，又體現了水的流體物質特性。
+#
+element.lava.name=熔岩
+element.lava.description=一種代表具體熱量的複合元素，而火更多的是等離子體和能量，而熔岩則是能量儲存和熱量的影響。熔岩可以從基本元素火和大地融合，因為它體現了火的能量方面和大地的緻密質量方面。
+#
+element.lightning.name=閃電
+element.lightning.description=一種代表電流和能量的複合元素。閃電可以從基本元素火和風中融合，因為它體現了火的能量和等離子體方面以及風的流動和不接地方面。
+#
+element.light.name=光
+element.light.description=一種代表輻射的複合元素，使其成為一種非常危險的力，因為它的範圍從以該元素命名的可見光譜到可能造成嚴重損害的更致命的輻射範圍。光可以從基本元素火和秩序融合，因為它體現了火的能量方面和秩序的精緻。
+#
+element.shadow.name=陰影
+element.shadow.description=一種代表將黑暗為阻止輻射或能量產生的力量的複合元素。陰影可以從火和混沌中融合，因為它體現了火的能量方面，然後被混沌顛倒成一種對抗能量創造的力量，將其消除。
+#
+element.arbour.name=植物
+element.arbour.description=一種代表生長和自然的複合元素，它緊緊圍繞著大量利用這種元素的植物。植物可以從水和大地融合，因為它體現了水的流動形式和大地的固體存在。
+#
+element.frost.name=凜冰
+element.frost.description=一種代表寒冷的複合元素，它能有效地排斥任何形式的熱。凜冰可以從水和風中融合，因為它體現了水的流體冷卻性質和風的冷卻流動。
+#
+element.fae.name=仙靈
+element.fae.description=一種代表生命和適應的複合元素。仙靈可以從水和秩序中融合，因為它體現了水的流動性和秩序的結構。
+#
+element.poison.name=劇毒
+element.poison.description=一種代表化學物質的複合元素，通常是有毒或毒液以及麻醉劑和藥物，但也可以有許多其他形式，如油。劇毒可以從水和混沌中融合出來，在混沌中，水體現出一種可以被改變的流動形式，這種形式被混沌操縱成各種奇怪的化學物質。
+#
+element.phase.name=相位
+element.phase.description=一種代表移相或精神實相的複合元素，一個分層在物質世界之上的空間，它是精神的構成和使用。相位可以從基礎元素大地和風中融合，因為它體現了大地的固體形態和風的流動性非固體性。
+#
+element.gravity.name=重力
+element.gravity.description=一種代表萬有引力、磁性、鍵合、壓縮和人造結構的複合元素。重力可以從大地和秩序中融合，在那裡它體現了大地的固體物理存在以及秩序的結構和規律。
+#
+element.quake.name=震動
+element.quake.description=一種代表震動、聲音、燃燒和破壞的複合元素。地震可以從大地和混沌中融合，在那里大地呈現出固體形態，然後被混沌分裂。
+#
+element.aether.name=以太
+element.aether.description=一種代表純潔、神性、信仰和崇拜的複合元素。以太可以從風和秩序中融合，因為它用秩序的結構和規律來體現風的流動。
+#
+element.nether.name=地獄
+element.nether.description=一種代表腐敗、惡魔、慾望和反叛的複合元素。地獄可以從風和混沌中融合，在那里風體現流動，混沌將其扭曲成腐敗。
+#
+element.void.name=虛空
+element.void.description=一種代表虛無和刪除的複合元素。秩序體現了結構和一致性，秩序體現了熵和隨機性，混沌抵消了秩序和混沌的融合。
 f:\projects\lycanites mobs 1.12.2\src\main\resources\assets\lycanitesmobs\lang\en_us\extract.txt
 # ========================================================================
 [Error] - File could not be written...
 # ========================================================================
-item.whirlwindcharge.name=Whirlwind Charge
-item.whirlwindcharge.description=Use to release a ring of whirlwinds or fire from a dispenser.
+item.whirlwindcharge.name=旋風球
+item.whirlwindcharge.description=用於發射旋風球，也可從發射器發射。
 #
-item.demoniclightningcharge.name=Demonic Lightning Charge
-item.demoniclightningcharge.description=Use to throw a demonic lightning blast! Can also be fired from a dispenser.
+item.demoniclightningcharge.name=惡魔電光球
+item.demoniclightningcharge.description=用於發射惡魔電光，也可從發射器發射。
 #
-item.magmacharge.name=Magma Charge
-item.magmacharge.description=Use to throw a ball of lava! Can also be fired from a dispenser.
+item.magmacharge.name=熔岩球
+item.magmacharge.description=用於投擲熔岩球，也可從發射器發射。
 #
-item.frostboltcharge.name=Frostbolt Charge
-item.frostboltcharge.description=Use to fire a bolt of ice. Can also be fired from a dispenser.
+item.frostboltcharge.name=凜冰球
+item.frostboltcharge.description=用於發射一束冰，也可從發射器發射。
 #
-item.spectralboltcharge.name=Spectral Bolt Charge
-item.spectralboltcharge.description=Use to throw a Spectral Bolt. Can also be fired from a dispenser.
+item.spectralboltcharge.name=波狀閃電球
+item.spectralboltcharge.description=用於發射波狀閃電，也可用發射器發射。
 #
-item.throwingscythe.name=Throwing Scythe
-item.throwingscythe.description=A curved metal blade, use to throw or triple fire from a dispenser.
+item.throwingscythe.name=投擲鐮刀
+item.throwingscythe.description=彎曲的金屬刀片，可直接投擲或者使用發射器發射。
 #
-item.boulderblastcharge.name=Boulder Blast Charge
-item.boulderblastcharge.description=Use to throw a giant boulder! Can be fired from a dispenser, causes dig speed slowdown.
+item.boulderblastcharge.name=爆石球
+item.boulderblastcharge.description=用於投擲石頭，也可用發射器發射。
 #
-item.acidsplashcharge.name=Acid Splash Charge
-item.acidsplashcharge.description=Use to fire a wave of acid. Can also be fired from a dispenser.
+item.acidsplashcharge.name=濃酸球
+item.acidsplashcharge.description=用於發射濃酸，也可從發射器發射。
 #
-item.faeboltcharge.name=Faebolt Charge
-item.faeboltcharge.description=Use to fire a bolt of fae energy, this deals no damage but applies the lifeleak debuff converting all damage dealt into healing. Can also be fired from a dispenser.
+item.faeboltcharge.name=仙域球
+item.faeboltcharge.description=用於發射一道螺旋，不會造成傷害但會使目標受到凋零效果，從而將凋零效果裝換為再生效果治愈玩家，也可從發射器發射。
 #
-item.embercharge.name=Ember Charge
-item.embercharge.description=Use to throw a small flame or spray from a dispenser.
+item.embercharge.name=餘燼球
+item.embercharge.description=用於釋放火苗，也可從發射器發射。
 #
-item.venomshotcharge.name=Venomshot Charge
-item.venomshotcharge.description=Use to throw a ball of venom that creates a poisonous cloud and inflicts plague.
+item.venomshotscepter.name=毒蠍權杖
+item.venomshotscepter.description=低等傷害，速射，中等效果，釋放毒霧
 #
-item.poopcharge.name=Poop
-item.poopcharge.description=Very smelly! Throw it! Can also be used on plants as a fertilizer like bonemeal.
+item.poopcharge.name=翔球
+item.poopcharge.description=非常臭，請扔了它！它可以像骨粉一樣催熟作物。
 #
-item.lifedraincharge.name=Life Drain Charge
-item.lifedraincharge.description=Use to fire a quick life draining beam, or fire from a dispenser.
+item.lifedraincharge.name=嗜血球
+item.lifedraincharge.description=用於發射一束吸血射線，也可從發射器發射。
 #
-item.aquapulsecharge.name=Aqua Pulse Charge
-item.aquapulsecharge.description=Use to throw a ball of mystic water or fire from a dispenser.
+item.aquapulsecharge.name=脈沖水球
+item.aquapulsecharge.description=用於發射魔法水球，也可從發射器發射。
 #
-item.arcanelaserstormcharge.name=Arcane Laser Storm Charge
-item.arcanelaserstormcharge.description=Use to fire a large blast of arcane magic energy with lasers bursting from it. Can be fired from a dispenser.
+item.arcanelaserstormcharge.name=神秘激光風暴球
+item.arcanelaserstormcharge.description=釋放出伴隨著爆炸激光的魔法能量，也可用發射器發射。
 #
-item.lightball.name=Light Ball Charge
-item.lightball.description=Use to throw a ball of light. Can also be fired from a dispenser.
+item.lightball.name=熒光球
+item.lightball.description=用於發射光球，也可從發射器發射。
 #
-item.doomfirecharge.name=Doomfire Charge
-item.doomfirecharge.description=Use to place throw a ball of Doomfire. Can also be fired from a dispenser.
+item.doomfirecharge.name=死焰球
+item.doomfirecharge.description=用於釋放死焰，也可從發射器發射。
 #
-item.aetherwavecharge.name=Aetherwave Charge
-item.aetherwavecharge.description=Use to release a wave of aether energy. Can also be fired from a dispenser.
+item.aetherwavecharge.name=以太球
+item.aetherwavecharge.description=用於發射以太能量，也可從發射器發射。
 #
-item.mudshotcharge.name=Mudshot Charge
-item.mudshotcharge.description=A ball of vibrating mud. Use to throw or fire from a dispencer. Applies weakness.
+item.mudshotcharge.name=泥漿球
+item.mudshotcharge.description=一種泥漿搓成的球體，可直接投擲或者使用發射器發射。造成虛弱效果。
 #
-item.hellfirecharge.name=Hellfire Charge
-item.hellfirecharge.description=Use to throw a ball of Hellfire. Can also be fired from a dispenser.
+item.hellfirecharge.name=地獄火球
+item.hellfirecharge.description=用於釋放地獄火，也可從發射器發射。
 #
-item.tundracharge.name=Tundra Charge
-item.tundracharge.description=Use to launch a ball of ooze. Can also be fired from a dispenser.
+item.tundracharge.name=凍原球
+item.tundracharge.description=用於發射膠狀冰球，也可從發射器發射。
 #
-item.quill.name=Quill
-item.quill.description=A razor sharp quill, can be thrown or fired from a dispenser.
+item.quill.name=翎羽
+item.quill.description=用於投擲鐮刀，也可用發射器發射。
 #
-item.crystalshard.name=Crystal Shard
-item.crystalshard.description=Use to throw a crystal shard. Can also be fired from a dispenser.
+item.crystalshard.name=水晶球
+item.crystalshard.description=用於投射水晶，也可從發射器發射。
 #
-item.scorchfirecharge.name=Scorchfire Charge
-item.scorchfirecharge.description=Use to throw a ball of scorchfire. Can also be fired from a dispenser.
+item.scorchfirecharge.name=熾焰球
+item.scorchfirecharge.description=用於投擲熾焰火球，也可從發射器發射。
 #
-item.bloodleechcharge.name=Bloodleech Charge
-item.bloodleechcharge.description=Use to throw a Bloodleech. Can also be fired from a dispenser.
+item.bloodleechcharge.name=吸血螞蟥球
+item.bloodleechcharge.description=用於投擲吸血螞蟥，也可用發射器發射。
 #
-item.frostwebcharge.name=Frostweb Charge
-item.frostwebcharge.description=Use to throw a frosty web. Can also be fired from a dispenser.
+item.frostwebcharge.name=霜網球
+item.frostwebcharge.description=用於發射霜網，也可從發射器發射。
 #
-item.chaosorbcharge.name=Chaos Orb Charge
-item.chaosorbcharge.description=Use to unleash an orb of chaos. Can also be fired from a dispenser.
+item.chaosorbcharge.name=混沌球
+item.chaosorbcharge.description=用來釋放一團混沌，也可從發射器發射。
 #
-item.icefirecharge.name=Icefire Charge
-item.icefirecharge.description=Use to launch a ball of icefire. Can also be fired from a dispenser.
+item.icefirecharge.name=冰火球
+item.icefirecharge.description=用於發射冰火球，也可從發射器發射。
 #
-item.blizzardcharge.name=Blizzard Charge
-item.blizzardcharge.description=Use to throw a small wave of icefire. Can also be fired from a dispenser.
+item.blizzardcharge.name=暴雪球
+item.blizzardcharge.description=用於發射一種小型的冰火球，也可從發射器發射。
 #
-item.waterjetcharge.name=Water Jet Charge
-item.waterjetcharge.description=Use to fire a water jet or fire from a dispenser.
+item.waterjetcharge.name=高壓水球
+item.waterjetcharge.description=用於從發射器中發射高壓水流（可以進行滅火）。
 #
-item.devilstarcharge.name=Devilstar Charge
-item.devilstarcharge.description=Use to throw a small devilstar. Can also be rapid fired from a dispenser.
+item.devilstarcharge.name=惡魔之心球
+item.devilstarcharge.description=用於發射一種小型的惡魔之心，也可從發射器發射。
 #
 # ========================================================================
-item.equipment.name=Crafted Equipment
+item.equipment.name=合成的裝備
 item.equipment.description=
-item.equipmentpart.description=This item can be used to create powerful equipment using an Equipment Forge or can be crafted into a useful resource.
+item.equipmentpart.description=這個物品可用於使用裝備鍛造台創造功能強大的裝備，也可將其製作為有用的資源。
 #
-item.woodenrod.name=Wooden Rod
-item.woodenhilt.name=Wooden Hilt
-item.woodenpaxel.name=Wooden Paxel
-item.ironrod.name=Iron Rod
-item.ironhilt.name=Iron Hilt
-item.ironpaxel.name=Iron Paxel
-item.ironpikejoint.name=Iron Pike Joint
-item.ironaxehead.name=Iron Axe Head
-item.bansheeeye.name=Banshee Eye
-item.sylphwing.name=Sylph Wing
-item.grueclaw.name=Grue Claw
-item.geonachspear.name=Geonach Spear
-item.remobrawing.name=Remobra Wing
-item.astarothclaw.name=Astaroth Claw
-item.zephyrblade.name=Zephyr Blade
-item.sutiramustinger.name=Sutiramu Stinger
-item.wendigoantler.name=Wendigo Antler
-item.clinkscythe.name=Clink Scythe
-item.vespidstinger.name=Vespid Stinger
-item.argustail.name=Argus Tail
-item.wargskull.name=Warg Skull
-item.djinncloud.name=Djinn Cloud
-item.ventoraptorskull.name=Ventoraptor Skull
-item.darklingskull.name=Darkling Skull
-item.entarm.name=Ent Arm
-item.wraithskull.name=Wraith Skull
-item.sprigganroot.name=Spriggan Root
-item.xaphanspine.name=Xaphan Spine
-item.cinderblade.name=Cinder Blade
-item.geonachfist.name=Geonach Fist
-item.spectretendril.name=Spectre Tendril
-item.vapulacrystal.name=Vapula Crystal
-item.reiverhorns.name=Reiver Horns
-item.eechetikarm.name=Eechetik Arm
+item.woodenrod.name=木棒
+item.woodenhilt.name=木劍柄
+item.woodenpaxel.name=木斧鎬
+item.ironrod.name=鐵棒
+item.ironhilt.name=鐵劍柄
+item.ironpaxel.name=鐵斧鎬
+item.ironpikejoint.name=鐵矛頭
+item.ironaxehead.name=鐵斧頭
+item.bansheeeye.name=女妖之眼
+item.sylphwing.name=西爾芙之翼
+item.grueclaw.name=蠐螬之爪
+item.geonachspear.name=地魔之矛
+item.remobrawing.name=蛇龍之翼
+item.astarothclaw.name=阿斯塔羅特之爪
+item.zephyrblade.name=微風之靈之刃
+item.sutiramustinger.name=毒蠍毒刺
+item.wendigoantler.name=溫迪戈之角
+item.clinkscythe.name=劈楔鐮刀
+item.vespidstinger.name=胡蜂毒刺
+item.argustail.name=阿格斯之尾
+item.wargskull.name=座狼頭顱
+item.djinncloud.name=幻靈之雲
+item.ventoraptorskull.name=風猛禽頭顱
+item.darklingskull.name=嗜血蝨蟲頭顱
+item.entarm.name=樹人之臂
+item.wraithskull.name=地獄遊魂頭顱
+item.sprigganroot.name=保衛者之根
+item.xaphanspine.name=薩凡之脊柱
+item.cinderblade.name=火元素之刃
+item.geonachfist.name=地魔之拳
+item.spectretendril.name=通靈蔓須
+item.vapulacrystal.name=瓦布拉水晶
+item.reiverhorns.name=雪元素之角
+item.eechetikarm.name=毒元素之臂
 # ========================================================================
-item.arisaurmeatraw.name=Raw Arisaur Meat
-item.arisaurmeatraw.description=Is it really meat though? Stunningly good to eat raw!
+item.arisaurmeatraw.name=生阿里蛇頸龍肉
+item.arisaurmeatraw.description=這真的是肉嗎？生吃非常好吃！
 #
-item.joustmeatcooked.name=Cooked Joust Meat
-item.joustmeatcooked.description=Tastes like spicy peri peri chicken!
+item.joustmeatcooked.name=熟騎鬥士肉
+item.joustmeatcooked.description=吃起來像辛辣脆皮雞！
 #
-item.ambercake.name=Amber Cake
-item.ambercake.description=A spicy cake full of sugar! Applies a speed boost!
+item.ambercake.name=琥珀蛋糕
+item.ambercake.description=一種添加了糖的辛辣蛋糕，會給予食用者速度效果！
 #
-item.silexmeatraw.name=Raw Silex Meat
-item.silexmeatraw.description=Very sharp and boney!
+item.silexmeatraw.name=生青金魚肉
+item.silexmeatraw.description=摻雜著刺和骨頭！
 #
-item.devillasagna.name=Devil Lasagna
-item.devillasagna.description=A delicous meaty pasta dish that surges with demonic strength.
+item.devillasagna.name=惡魔麵條
+item.devillasagna.description=湧動著惡魔能量的可口摻雜著肉末的意大利面。
 #
-item.pinkymeatraw.name=Raw Pinky Meat
-item.pinkymeatraw.description=Withering demonic energy pulses through this meat, it must be cleansed by fire.
+item.pinkymeatraw.name=生牛鬼肉
+item.pinkymeatraw.description=可以明顯感覺到令人生畏的惡魔能量脈衝貫穿著整塊肉排，必須用火烤一烤才行。
 #
-item.yalemeatraw.name=Raw Yale Meat
-item.yalemeatraw.description=Tastes a bit like mutton. Very chewy when raw, causes dig speed slowdown.
+item.yalemeatraw.name=生耶魯肉
+item.yalemeatraw.description=味道有點像羊肉。生的時候非常難嚼，會造成挖掘疲勞。
 #
-item.cephignismeatcooked.name=Cooked Cephignis Meat
-item.cephignismeatcooked.description=Very spicy fish!
+item.cephignismeatcooked.name=烤岩漿魚肉
+item.cephignismeatcooked.description=非常火辣！
 #
-item.battleburrito.name=Battle Burrito
-item.battleburrito.description=A powerful fusion of many tasty meats! Applies: Strength, Resistance, Absorption, Health Boost and Heals!
+item.battleburrito.name=戰鬥捲餅
+item.battleburrito.description=一種混合了許多風味的捲餅，將給予食用者力量、抗性提示、傷害吸收、生命提升以及治療效果！
 #
-item.concapedemeatraw.name=Raw Concapede Meat
-item.concapedemeatraw.description=Close your eyes and pretend that it is chicken!
+item.concapedemeatraw.name=生貝狀百足蟲肉
+item.concapedemeatraw.description=閉上你的眼睛告訴自己這是雞肉！
 #
-item.yalemeatcooked.name=Cooked Yale Meat
-item.yalemeatcooked.description=Tastes like minty roast lamb.
+item.yalemeatcooked.name=熟耶魯肉
+item.yalemeatcooked.description=嘗起來像薄荷烤羊肉。
 #
-item.peakskebab.name=Peaks Kebab
-item.peakskebab.description=The food of the mountains, increases arm strength for mining speed, the best a miner could eat!
+item.peakskebab.name=山峰羊肉串
+item.peakskebab.description=來自大自然最天然的塑造，給予食用者急迫效果。
 #
-item.lapisfishandchips.name=Lapis Fish and Chips
-item.lapisfishandchips.description=Swim through the water with the grace of a Silex after eating this delicacy. The chips are chunky fries rather than thin crispy potato wafers.
+item.lapisfishandchips.name=炸魚薯條
+item.lapisfishandchips.description=這些來自青金石魚的恩惠，會給予食用者水下快速潛行的效果。
 #
-item.pinkymeatcooked.name=Cooked Pinky Meat
-item.pinkymeatcooked.description=Tastes like very rich, salty beef. Provides strength.
+item.pinkymeatcooked.name=熟牛鬼肉
+item.pinkymeatcooked.description=味道十分濃郁，有點類似醃牛肉。
 #
-item.bulwarkburger.name=Bulwark Burger
-item.bulwarkburger.description=Take on the tough defense of the mighty Maka! Applies absorption.
+item.bulwarkburger.name=堡壘漢堡
+item.bulwarkburger.description=賦予你同克萊一樣強大的抗性，給予食用者傷害吸收效果。
 #
-item.explorersrisotto.name=Explorers Risotto
-item.explorersrisotto.description=A mighty dish bursting with power! Applies: Movement Speed, Dig Speed, Water Breathing and Jump Boost!
+item.explorersrisotto.name=探險家燴飯
+item.explorersrisotto.description=一股暗流從其中湧出，將給予食用者速度提升、急迫、水下呼吸以及跳躍提升效果！
 #
-item.paleosalad.name=Paleo Salad
-item.paleosalad.description=The healthiest food you can eat! Increases all healing received.
+item.paleosalad.name=遠古沙拉
+item.paleosalad.description=你吃到過的最健康的食物，給予食用者治療效果。
 #
-item.bloodchili.name=Blood Chili
-item.bloodchili.description=An intense chili that empowers the consumer allowing them to consume the life force of any creature they attack, healing them.
+item.bloodchili.name=鮮血辣椒湯
+item.bloodchili.description=這碗濃稠的辣椒湯將給予食用者力量以及治療效果。
 #
-item.ikameatraw.name=Raw Ika Meat
-item.ikameatraw.description=Fishy seafood! It feels very heavy.
+item.ikameatraw.name=生伊卡肉
+item.ikameatraw.description=腥臭的海鮮！十分沉重。
 #
-item.seashellmaki.name=Seashell Maki
-item.seashellmaki.description=A taste infusion from the deep blue sea! Applies water breathing!
+item.seashellmaki.name=貝殼卷
+item.seashellmaki.description=深藍大海浸漬過的美味，給予食用者水下呼吸效果。
 #
-item.chupacabrameatcooked.name=Cooked Chupacabra Meat
-item.chupacabrameatcooked.description=While the creature it comes from is disgusting, once cooked, this rich meat is absolutely delicious!
+item.chupacabrameatcooked.name=熟卓帕卡布拉肉
+item.chupacabrameatcooked.description=雖然長得令人難以吞嚥，但煮熟之後卻散發出對食材的憧憬！
 #
-item.searingtaco.name=Searing Taco
-item.searingtaco.description=So spicy that it makes you immune to fire!
+item.searingtaco.name=熾熱捲餅
+item.searingtaco.description=辣到使你產生對火焰的免疫效果！
 #
-item.mosspie.name=Moss Pie
-item.mosspie.description=A healthy, rich meaty pie! Applies regeneration.
+item.mosspie.name=苔蘚餡餅
+item.mosspie.description=一個綠色、美味的餡餅！給予食用者生命恢復效果。
 #
-item.aspidmeatcooked.name=Cooked Aspid Meat
-item.aspidmeatcooked.description=Crumbles apart in the mouth, delicious, a bit like slow cooked beef!
+item.aspidmeatcooked.name=熟阿斯匹德肉
+item.aspidmeatcooked.description=撕一點放嘴裡，美味！有點像文火牛肉…
 #
-item.yetimeatcooked.name=Cooked Yeti Meat
-item.yetimeatcooked.description=Tastes a bit like pork.
+item.yetimeatcooked.name=熟雪怪肉
+item.yetimeatcooked.description=味道有些像豬肉。
 #
-item.chupacabrameatraw.name=Raw Chupacabra Meat
-item.chupacabrameatraw.description=Scaley flesh that oozes with blood. Eating it raw can cause terrifying hallucinations!
+item.chupacabrameatraw.name=生卓帕卡布拉肉
+item.chupacabrameatraw.description=滲出血的附著著鱗的肉，生吃它可能會出現幻覺！
 #
-item.makameatraw.name=Raw Maka Meat
-item.makameatraw.description=Very chewy and pork like. Eating this raw will cause weakness.
+item.makameatraw.name=生剋萊肉
+item.makameatraw.description=像豬肉而且很難嚼，生吃可能會引起虛弱。
 #
-item.aspidmeatraw.name=Raw Aspid Meat
-item.aspidmeatraw.description=Smells like beef seasoned with cumin. Looks poisonous.
+item.aspidmeatraw.name=生阿斯匹徳肉
+item.aspidmeatraw.description=聞起來像加了孜然的老牛肉，看起來有毒。
 #
-item.silexmeatcooked.name=Cooked Silex Meat
-item.silexmeatcooked.description=Very refreshing!
+item.silexmeatcooked.name=熟青金魚肉
+item.silexmeatcooked.description=十分提神！
 #
-item.yetimeatraw.name=Raw Yeti Meat
-item.yetimeatraw.description=It feels very cold...
+item.yetimeatraw.name=生雪怪肉
+item.yetimeatraw.description=它摸起來給人的感覺十分冰冷…
 #
-item.concapedemeatcooked.name=Cooked Concapede Meat
-item.concapedemeatcooked.description=Tastes like BBQ chicken! Does not look like it though!
+item.concapedemeatcooked.name=熟貝狀百足蟲肉
+item.concapedemeatcooked.description=吃起來像雞肉，雖然它看起來不像！
 #
-item.arisaurmeatcooked.name=Cooked Arisaur Meat
-item.arisaurmeatcooked.description=Imbued with the gift of nature with impurities cooked out, increases all healing received.
+item.arisaurmeatcooked.name=熟阿里蛇頸龍肉
+item.arisaurmeatcooked.description=大自然恩賜所鑄，給予食用者治療效果。
 #
-item.joustmeatraw.name=Raw Joust Meat
-item.joustmeatraw.description=Looks chewy and smells like feet, applies movement slowdown, best cook it.
+item.joustmeatraw.name=生騎鬥士肉
+item.joustmeatraw.description=看起來難以咬磨，但聞起來卻猶如豬肉，會使行動緩慢，最後烤熟它。
 #
-item.palesoup.name=Pale Soup
-item.palesoup.description=A milky soup that bolsters resistance.
+item.palesoup.name=蒼汁湯
+item.palesoup.description=乳白色的湯，賦予了飲用者抗性提升效果。
 #
-item.makameatcooked.name=Cooked Maka Meat
-item.makameatcooked.description=Has a subtle bacon like taste.
+item.makameatcooked.name=熟克萊肉
+item.makameatcooked.description=吃起來有點像培根。
 #
-item.tropicalcurry.name=Tropical Curry
-item.tropicalcurry.description=Bursting full of exotic flavours! Bouncy!
+item.tropicalcurry.name=熱帶咖哩
+item.tropicalcurry.description=充滿了極具特色的異國風味！
 #
-item.ikameatcooked.name=Cooked Ika Meat
-item.ikameatcooked.description=Crispy seafood! Cooking it has made it much lighter!
+item.ikameatcooked.name=熟伊卡肉
+item.ikameatcooked.description=乾脆的海鮮！熟透後輕盈很多。
 #
 # ========================================================================
-item.soulgazer.name=Soulgazer
-item.soulgazer.description=Use on a creature to add it to the Beastiary. To open your Beastiary, either click on the Beastiary tab of your survival inventory or press the Beastiary key (set via the Controls menu).
+item.soulgazer.name=靈魂凝視者
+item.soulgazer.description=對著生物使用將其添加到生物圖鑑中。打開你的生物圖鑑的方法：點擊生存模式物品欄的圖標或者按生物圖鑑的快捷鍵（在控制設置裡修改）。
 #
-item.mobtoken.name=Mob Token
-item.mobtoken.description=A cosmetic item used to display creature models as achievement icons, etc.
+item.mobtoken.name=怪物標記
+item.mobtoken.description=一個裝飾用道具，用於展示怪物完整形象，等等。
 #
 #
-# ========== Consumables ==========
-item.immunizer.name=Immunizer
-item.immunizer.description=A special potion that immunizes against poison, hunger, weakness, nausea and paralysis.
+# ========== 消耗品 ==========
+item.immunizer.name=抗生素
+item.immunizer.description=飲用後將清除身上的中毒、飢餓、虛弱、反胃以及麻痺效果。
 #
-item.cleansingcrystal.name=Cleansing Crystal
-item.cleansingcrystal.description=A magical crystal imbued with spiritual energy, protects against wither, bad luck, fear and insomnia.
+item.cleansingcrystal.name=聖潔水晶
+item.cleansingcrystal.description=由精神凝結而成的無暇水晶，將給予免疫凋零、運氣不佳、恐懼和失眠效果。
 #
-item.geistliver.name=Geist Liver
-item.geistliver.description=It has a very musky odor... Use to squeeze out a gout of Shadowfire.
+item.geistliver.name=感知的肝
+item.geistliver.description=這東西非常有嚼勁非常濃郁…可以擠出一團影火。
 #
-item.frostyfur.name=Frosty Fur
-item.frostyfur.description=As cold as snow, use to create a frost cloud.
+item.frostyfur.name=極寒毛皮
+item.frostyfur.description=冰若似霜，用於製造霜雲。
 #
-item.poisongland.name=Poison Gland
-item.poisongland.description=Squeeze to place a poison cloud!
+item.poisongland.name=毒腺
+item.poisongland.description=用於釋放毒霧。
 #
-item.bucketooze.name=Ooze Bucket
-item.bucketooze.description=Ooze is an icy gel substance, causes slowness and applies low damage over time.
+item.bucketooze.name=膠狀冰桶
+item.bucketooze.description=膠狀冰是一種膠狀流體，流動十分緩慢，觸碰者會受到由冰冷帶來的傷害以及飢餓效果。
 #
-item.bucketpurelava.name=Moglava Bucket
-item.bucketpurelava.description=Clearer that regular lava, flows slightly faster and no inferno mobs spawn in this. Can be renewed like water.
+item.bucketpurelava.name=純粹的熔岩桶
+item.bucketpurelava.description=一種純淨的熔岩，它不會生成火海生物並且會像水一樣流動。
 #
 #
 # ========== Seasonal ==========
-item.halloweentreat.name=Halloween Treat
-item.halloweentreat.description=Trick or treat?!
-item.halloweentreat.good=It's a treat! Lucky you!
-item.halloweentreat.bad=Trick! Bwahahahahah!
+item.halloweentreat.name=萬聖節的款待
+item.halloweentreat.description=搗蛋還是款待？ ！
+item.halloweentreat.good=這是款待！你真幸運！
+item.halloweentreat.bad=搗蛋！蹦哈哈哈哈！
 #
-item.wintergift.name=Winter Gift
-item.wintergift.description=Good tidings, Happy Yuletide and Merry Christmas! Open it up and do see what's inside!
-item.wintergift.good=You open your present and it's a pleasant surprise!
-item.wintergift.bad=Oh no! It's a gift of pain, misery and nightmares!
+item.wintergift.name=聖誕禮物
+item.wintergift.description=好東西，聖誕快樂！打開它！
+item.wintergift.good=你打開了禮物，這是驚喜！
+item.wintergift.bad=噢不！這是讓人痛苦的禮物！
 #
-item.wintergiftlarge.name=Large Winter Gift
-item.wintergiftlarge.description=It's December 25th! Time to open your big presents! Ignore the screeching sound the box makes, it's nothing...
-item.wintergiftlarge.bad=Aaaahhhhh Haaa Haaa Haaa Ha Ha Ha! Bwahahahah! Happy Holidays!
+item.wintergiftlarge.name=巨大的聖誕禮物
+item.wintergiftlarge.description=現在是12月25號！是時候打開你的大禮物了！別在乎這箱子發出的尖叫聲，也許是別處傳來的噪音…
+item.wintergiftlarge.bad=啊啊啊啊啊啊 哈啊啊 哈啊啊 哈啊啊 哈 哈 哈！蹦哈哈哈哈！聖誕快樂！
 #
 #
 # ========== Keys ==========
-item.soulkey.name=Soulkey
-item.soulkey.description=Use to activate a summoning altar to call for a rare monster or activate a special event.
+item.soulkey.name=靈魂鑰匙
+item.soulkey.description=用來激活一個召喚祭壇去召喚稀有種生物或者觸發一個特殊事件。
 #
-item.soulkeydiamond.name=Diamond Soulkey
-item.soulkeydiamond.description=A more powerful Soul Key capable for summoning more powerful bosses!
+item.soulkeydiamond.name=鑽石靈魂鑰匙
+item.soulkeydiamond.description=更好的靈魂鑰匙能召喚更強大的BOSS！
 #
-item.soulkeyemerald.name=Emerald Soulkey
-item.soulkeyemerald.description=A more powerful Soul Key capable for summoning more powerful bosses!
+item.soulkeyemerald.name=綠寶石靈魂鑰匙
+item.soulkeyemerald.description=更好的靈魂鑰匙能召喚更強大的BOSS！
 #
 #
 # ========== Soulstones ==========
-item.soulstone.name=Soulstone
-item.soulstone.description=Use on a tamed creature to bind it to your spirit allowing you to summon and dismiss it anywhere anytime. Bound pets or mounts will also respawn after death.
+item.soulstone.name=靈魂石
+item.soulstone.description=用來將馴服的寵物與你的精神連接允許你在任何地方召喚它或者解除它的綁定。綁定的坐騎或寵物都將在死後重生。
 #
-item.soulstoneinferno.name=Inferno Soulstone
-item.soulstoneinferno.description=A fiery soul is contained within! Use this item to release what is inside!
+item.soulstoneinferno.name=火海靈魂石
+item.soulstoneinferno.description=一個灼熱的靈魂被禁錮於此！你可以打開看看裡面到底有什麼…
 #
-item.soulstonefreshwater.name=Freshwater Soulstone
-item.soulstonefreshwater.description=This soulstone looks like a ball of water, inside is the soul of an aquatic beast! Unleash it and let it be yours!
+item.soulstonefreshwater.name=水之靈魂石
+item.soulstonefreshwater.description=這個靈魂石看起來就像一個水球，裡面卻蘊含著生命本質。釋放它，將創造屬於你的生命體！
 #
-item.soulstonedemonic.name=Demonic Soulstone
-item.soulstonedemonic.description=A demonic soul is contained within! Use this item to release what is inside... or use it to craft a Demonic Soulcube to summon something truly evil!
+item.soulstonedemonic.name=惡魔靈魂石
+item.soulstonedemonic.description=一個惡魔的靈魂被禁錮於此！你可以窺視其中的奧秘…或者用它製造惡魔立方體以召喚一些服侍你的惡魔們！
 #
-item.soulstoneshadow.name=Shadow Soulstone
-item.soulstoneshadow.description=A dark soul is contained within! Use this item to release what is inside!
+item.soulstoneshadow.name=陰影靈魂石
+item.soulstoneshadow.description=一個幽深的靈魂被禁錮於此！你可以打開看看裡面到底有什麼…
 #
-item.soulstonemountain.name=Mountain Soulstone
-item.soulstonemountain.description=A spirit of the mountains is contained within! Use this item to release what is inside!
+item.soulstonemountain.name=山脈靈魂石
+item.soulstonemountain.description=一個山脈的靈魂被禁錮於此！你可以打開看看裡面能施放出什麼！
 #
 #
 # ========== Spawns ==========
-item.forestspawn.name=Spawn
-item.swampspawn.name=Spawn
-item.arcticspawn.name=Spawn
-item.mountainspawn.name=Spawn
-item.elementalspawn.name=Spawn
-item.plainsspawn.name=Spawn
-item.saltwaterspawn.name=Spawn
-item.desertspawn.name=Spawn
-item.junglespawn.name=Spawn
-item.shadowspawn.name=Spawn
-item.infernospawn.name=Spawn
-item.demonspawn.name=Spawn
-item.freshwaterspawn.name=Spawn
+item.forestspawn.name=生成
+item.swampspawn.name=生成
+item.arcticspawn.name=生成
+item.mountainspawn.name=生成
+item.elementalspawn.name=生成
+item.plainsspawn.name=生成
+item.saltwaterspawn.name=生成
+item.desertspawn.name=生成
+item.junglespawn.name=生成
+item.shadowspawn.name=生成
+item.infernospawn.name=生成
+item.demonspawn.name=生成
+item.freshwaterspawn.name=生成
 # ========================================================================
-item.aquapulsescepter.name=Aqua Pulse Scepter
-item.aquapulsescepter.description=Low Damage, Charge Up, Applies Penetration, Places Water
+item.aquapulsescepter.name=脈沖水權杖
+item.aquapulsescepter.description=低等傷害，蓄能，滲透效果，釋放水
 #
-item.scorchfirescepter.name=Scorchfire Scepter
-item.scorchfirescepter.description=Low Damage, Rapid Fire, Applies Fire, Places Scorchfire
+item.scorchfirescepter.name=熾焰權杖
+item.scorchfirescepter.description=低等傷害，速射，著火，釋放熾焰
 #
-item.devilstarscepter.name=Devilstar Scepter
-item.devilstarscepter.description=Low Damage, Fast Rapid Fire
+item.devilstarscepter.name=惡魔之心權杖
+item.devilstarscepter.description=低等傷害，高速射
 #
-item.wraithsigil.name=Wraith Sigil
-item.wraithsigil.description=This skull is full to the brim with evil Wraiths! Use to fire a wave of angry Wraiths forwards towards your victim! Results can be explosive!
+item.whirlwindscepter.name=旋風權杖
+item.whirlwindscepter.description=中等傷害，蓄能，飄浮效果，釋放火苗
 #
-item.quillscepter.name=Quill Scepter
-item.quillscepter.description=Mid Damage, Rapid Fire
+item.quillscepter.name=翎羽權杖
+item.quillscepter.description=低等傷害，速射
 #
-item.mudshotscepter.name=Mudshot Scepter
-item.mudshotscepter.description=Mid Damage, Rapid Fire, Applies Weakness
+item.mudshotscepter.name=泥漿權杖
+item.mudshotscepter.description=中等傷害，速射，造成虛弱
 #
-item.venomshotscepter.name=Venom Shot Scepter
-item.venomshotscepter.description=Low Damage, Rapid Fire, Applies Poison, Places Poison Clouds
+item.venomshotscepter.name=毒蠍權杖
+item.venomshotscepter.description=低等傷害，速射，中等效果，釋放毒霧
 #
-item.blizzardscepter.name=Blizzard Scepter
-item.blizzardscepter.description=Mid Damage, Spray Fire, Places Icefire
+item.blizzardscepter.name=暴雪權杖
+item.blizzardscepter.description=中等傷害，速射，釋放冰火
 #
-item.bloodleechscepter.name=Bloodleech Scepter
-item.bloodleechscepter.description=Low Damage, Rapid Fire, Drains Health
+item.bloodleechscepter.name=吸血螞蟥權杖
+item.bloodleechscepter.description=低等傷害，速射，吸血
 #
-item.waterjetscepter.name=Water Jet Scepter
-item.waterjetscepter.description=Mid Damage, Laser, Applies Penetration
+item.waterjetscepter.name=高壓水流權杖
+item.waterjetscepter.description=中等傷害，激光，穿透
 #
-item.doomfirescepter.name=Doomfire Scepter
-item.doomfirescepter.description=Mid Damage, Rapid Fire, Applies Fire, Places Fire
+item.doomfirescepter.name=死焰權杖
+item.doomfirescepter.description=中等傷害，速射，著火，釋放死焰
 #
-item.frostboltscepter.name=Frostbolt Scepter
-item.frostboltscepter.description=Mid Damage, Rapid Fire, Applies Move Slowdown
+item.frostboltscepter.name=凜冰權杖
+item.frostboltscepter.description=中等傷害，速射，減緩移動
 #
-item.poopscepter.name=Poop Scepter
-item.poopscepter.description=Low Damage, Rapid Fire, Applies Slowness and Nausea, Places Poop Clouds
+item.poopscepter.name=翔球權杖
+item.poopscepter.description=低等傷害，速射，緩慢和反胃效果，釋放翔雲
 #
-item.scythescepter.name=Scythe Scepter
-item.scythescepter.description=Mid Damage, Triple Pulse Fire
+item.scythescepter.name=鐮刀權杖
+item.scythescepter.description=中等傷害，三倍間歇發射
 #
-item.tundrascepter.name=Tundra Scepter
-item.tundrascepter.description=High Damage, Charge Up, Places Ooze
+item.tundrascepter.name=凍原權杖
+item.tundrascepter.description=高等傷害，蓄能，釋放膠狀冰
 #
-item.magmascepter.name=Magma Scepter
-item.magmascepter.description=High Damage, Charge Up, Applies Fire, Places Lava
+item.magmascepter.name=熔岩權杖
+item.magmascepter.description=高等傷害，蓄能，著火，釋放熔岩
 #
-item.hellfirescepter.name=Hellfire Scepter
-item.hellfirescepter.description=High Damage, Charge Up, Applies Fire, Places Hellfire
+item.hellfirescepter.name=地獄火權杖
+item.hellfirescepter.description=高等傷害，蓄能，著火，釋放地獄火
 #
-item.emberscepter.name=Ember Scepter
-item.emberscepter.description=Mid Damage, Spray Fire, Applies Fire
+item.emberscepter.name=餘燼權杖
+item.emberscepter.description=中等傷害，著火，釋放火苗
 #
-item.icefirescepter.name=Icefire Scepter
-item.icefirescepter.description=Low Damage, Rapid Fire, Places Icefire
+item.icefirescepter.name=冰火權杖
+item.icefirescepter.description=低等傷害，速射，釋放冰火
 #
-item.poisonrayscepter.name=Poison Ray Scepter
-item.poisonrayscepter.description=Mid Damage, Laser, Applies Poison
+item.poisonrayscepter.name=毒腺權杖
+item.poisonrayscepter.description=中等傷害，遠程射線，釋放毒霧
 #
-item.arcanelaserstormscepter.name=Arcane Laser Storm Scepter
-item.arcanelaserstormscepter.description=High Damage, Charge Up, Lasers Fly Off
+item.arcanelaserstormscepter.name=神秘激光風暴權杖
+item.arcanelaserstormscepter.description=高等傷害，蓄能，釋放激光
 #
-item.demoniclightningscepter.name=Demonic Lightning Scepter
-item.demoniclightningscepter.description=High Damage, Charge Up, Applies Wither, Damaging Sparks Fly Off
+item.demoniclightningscepter.name=惡魔電光權杖
+item.demoniclightningscepter.description=高等傷害，蓄能，凋零效果，火花四濺
 #
-item.spectralboltscepter.name=Spectral Bolt Scepter
-item.spectralboltscepter.description=Medium Damage, Rapid Fire, Causes Fear
+item.spectralboltscepter.name=波狀閃電權杖
+item.spectralboltscepter.description=中等傷害，速射，引發恐懼
 #
-item.lifedrainscepter.name=Life Drain Scepter
-item.lifedrainscepter.description=Mid Damage, Laser, Drains Health
+item.lifedrainscepter.name=嗜血權杖
+item.lifedrainscepter.description=中等傷害，激光，生命汲取
 #
-item.frostwebscepter.name=Frostweb Scepter
-item.frostwebscepter.description=Low Damage, Rapid Fire, Applies Move Slowdown, Places Frostwebs
+item.frostwebscepter.name=霜網權杖
+item.frostwebscepter.description=低等傷害，速射，減緩移動，釋放霜網
 #
-item.boulderblastscepter.name=Boulder Blast Scepter
-item.boulderblastscepter.description=High Damage, Charge Up, Applies Dig Speed Slowdown
+item.boulderblastscepter.name=爆石權杖
+item.boulderblastscepter.description=高等傷害，蓄能，挖掘疲勞效果
 #
 # ========================================================================
 # ========== Summoning Staves ==========
-item.summoningstaff.name=Summoning Staff
-item.summoningstaff.description=Summon minions to do your bidding! Start using to create a portal, over time the portal will drain your Summoning Focus (above your hunger bar).
+item.summoningstaff.name=召喚之杖
+item.summoningstaff.description=召喚聽命於你的寵物！創建傳送門後，隨著時間的推移傳送門將耗盡你的召喚力（在生存模式的飽食度條上方）。
 #
-item.stablesummoningstaff.name=Stable Summoning Staff
-item.stablesummoningstaff.description=Summoned minions last longer but costs more focus.
+item.stablesummoningstaff.name=穩定的召喚之杖
+item.stablesummoningstaff.description=召喚的野獸持續時間更長但消耗更多的精力。
 #
-item.bloodsummoningstaff.name=Blood Summoning Staff
-item.bloodsummoningstaff.description=Half the focus cost by sacrificing your health in its place.
+item.bloodsummoningstaff.name=流血的召喚之杖
+item.bloodsummoningstaff.description=通過獻祭你的生命，只消耗一半的召喚力來召喚。
 #
-item.savagesummoningstaff.name=Savage Summoning Staff
-item.savagesummoningstaff.description=Summon double minions, but at half health each.
+item.savagesummoningstaff.name=野蠻的召喚之杖
+item.savagesummoningstaff.description=召喚兩隻生物，每次消耗一半生命。
 #
-item.sturdysummoningstaff.name=Sturdy Summoning Staff
-item.sturdysummoningstaff.description=This staff lasts much longer but costs more focus.
+item.sturdysummoningstaff.name=堅挺的召喚之杖
+item.sturdysummoningstaff.description=召喚物持續時間更長但消耗更多的精力。
 #
 #
 # ========== Weapons ==========
-item.cinderfallsword.name=Cinderfall Sword
-item.cinderfallsword.description=Imbued with the souls of Cinders! On hit: Deals additional damage as armor piercing fire damage, ignites, chance of summoning a Cinder minion.
+item.cinderfallsword.name=落灰之劍
+item.cinderfallsword.description=受到火元素浸染的劍，會給予目標著火效果並且會小概率召喚火元素眷屬。
 #
-item.azurecinderfallsword.name=Azure Cinderfall Sword
-item.azurecinderfallsword.description=An improved Cinderfall Sword that will summon Azure Cinders for an increased amount of time and deals more damage.
+item.azurecinderfallsword.name=湛藍·落灰之劍
+item.azurecinderfallsword.description=改良的落灰之劍可以召喚深藍火元素時間更長而且傷害更多。
 #
-item.verdantcinderfallsword.name=Verdant Cinderfall Sword
-item.verdantcinderfallsword.description=An improved Cinderfall Sword that will summon Verdant Cinders with a higher chance and deals more damage.
+item.verdantcinderfallsword.name=翠綠·落灰之劍
+item.verdantcinderfallsword.description=改良的落灰之劍可以召喚翠綠火元素機率更大而且傷害更多。
 #
-item.venomaxeblade.name=Venom Axeblade
-item.venomaxeblade.description=Imbued with the souls of Remobra. Effective as both a sword and an axe. On hit: Applies Poison, Chance of summoning Remobra minion. On hold: Poison Immunity.
+item.venomaxeblade.name=毒蠍斧刃
+item.venomaxeblade.description=受到蛇龍的靈魂浸染的斧刃，可以當做劍以及斧使用。會給予目標中毒效果並且會小概率召喚蛇龍眷屬，並使持有者獲得對中毒的免疫。
 #
-item.goldenvenomaxeblade.name=Golden Venom Axeblade
-item.goldenvenomaxeblade.description=An improved Venom Axeblade that summons Golden Remobra for an increased amount of time and deals more damage.
+item.goldenvenomaxeblade.name=黃金·毒蠍斧刃
+item.goldenvenomaxeblade.description=改良的毒蠍斧刃可以召喚黃金蛇龍時間更長而且傷害更大。
 #
-item.verdantvenomaxeblade.name=Verdant Venom Axeblade
-item.verdantvenomaxeblade.description=An improved Venom Axeblade that summons Verdant Remobra with a higher chance and deals more damage.
+item.verdantvenomaxeblade.name=翠綠·毒蠍斧刃
+item.verdantvenomaxeblade.description=改良的毒蠍斧刃可以召喚翠綠蛇龍機率更大而且傷害更大。
 # ========================================================================
-item.aberrationtreat.name=Aberration Treat
-item.aberrationtreat.description=A dark effigy made as tribute to a mysterious creature, but can you win it over?
+item.aberrationtreat.name=畸變的款待
+item.aberrationtreat.description=一個黑暗的雕像，作為對一個神秘生物的敬意，但你能贏得它嗎？
 #
-item.angeltreat.name=Angel Treat
-item.angeltreat.description=There are currently no Angel creatures added yet.
+item.angeltreat.name=天使的款待
+item.angeltreat.description=目前還沒有添加天使生物。
 #
-item.aquatictreat.name=Aquatic Treat
-item.aquatictreat.description=Made from tender fish, you can tame some aquatic creatures with this.
+item.aquatictreat.name=水生生物的款待
+item.aquatictreat.description=由嫩魚製成，可以用來馴服一些水生生物。
 #
-item.arthropodtreat.name=Arthropod Treat
-item.arthropodtreat.description=Made from fresh fruits, all sorts of arthropods will want to gorge on this.
+item.arthropodtreat.name=節肢動物的款待
+item.arthropodtreat.description=由新鮮水果製成，各種節肢動物都想狼吞虎咽。
 #
-item.aviantreat.name=Avian Treat
-item.aviantreat.description=Made from light meats, you can tame some avian creatures with this.
+item.aviantreat.name=禽類的款待
+item.aviantreat.description=由清淡肉類製成，你可以用它馴服一些鳥類。
 #
-item.beasttreat.name=Beast Treat
-item.beasttreat.description=Made from juicy meats, you can tame some beasts with this.
+item.beasttreat.name=野獸的款待
+item.beasttreat.description=由多汁的肉製成，你可以用這個馴服一些野獸。
 #
-item.brutetreat.name=Brute Treat
-item.brutetreat.description=Made from fatty meats, Brutes are quite simple minded, could any be swayed by this?
+item.brutetreat.name=大野獸的款待
+item.brutetreat.description=由肥肉製成，大野獸的思想很簡單，會不會有人受此影響？
 #
-item.demontreat.name=Demon Treat
-item.demontreat.description=All demons seem to enjoy snacking on Nether Wart between their meals of live flesh.
+item.demontreat.name=惡魔的款待
+item.demontreat.description=所有的惡魔似乎都喜歡在它們的肉食之間吃下地獄疣。
 #
-item.dragontreat.name=Dragon Treat
-item.dragontreat.description=A treasure adorned with fine jewels, dragons love treasure.
+item.dragontreat.name=龍的款待
+item.dragontreat.description=寶藏裝飾著精美的珠寶，龍喜愛寶藏。
 #
-item.elementaltreat.name=Elemental Treat
-item.elementaltreat.description=Creative only, elementals can be summoned but not tamed.
+item.elementaltreat.name=元素生物的款待
+item.elementaltreat.description=只有創造模式，元素生物才能被召喚，但不能被馴服。
 #
-item.imptreat.name=Imp Treat
-item.imptreat.description=Imps are unruly fiends but they can't resist the taste of rich meant.
+item.imptreat.name=小鬼的款待
+item.imptreat.description=小鬼是不守規矩的惡魔，但它們無法抗拒富人的誘惑。
 #
-item.planttreat.name=Plant Treat
-item.planttreat.description=Made from fresh vegetables and sugar cane, some plant creatures can be tamed with this.
+item.planttreat.name=植物的款待
+item.planttreat.description=由新鮮蔬菜和甘蔗製成，一些植物生物可以用它來馴服。
 #
-item.undeadtreat.name=Undead Treat
-item.undeadtreat.description=Made from the finest rotten flesh, but can any undead creature be swayed by this?
+item.undeadtreat.name=亡靈生物的款待
+item.undeadtreat.description=由最好的腐肉製成，但任何亡靈生物都能被它動搖嗎？
 #
-item.wormtreat.name=Worm Treat
-item.wormtreat.description=Made from very gamey meat, those worm creatures seem to like that.
+item.lycanitesmobs.wormtreat=蠕蟲的熱情好客
+item.lycanitesmobs.wormtreat.description=豐富的肉，蠕蟲歡它。
 # ========================================================================
 # %event% will be replaced with the name of the event, don't translate this!
-event.started=%event% has begun!
-event.extended=%event% has been extended!
-event.finished=%event% is no longer spawning mobs!
-event.boss.started=%event% has been called!
-event.boss.extended=%event% is coming!
-event.boss.finished=%event% is unleashed!
-event.boss.phase=Phase
+event.started=%event%正在發生！
+event.extended=%event%被延長！
+event.finished=%event%已經結束了！
+event.boss.started=%event%被召喚了！
+event.boss.extended=%event%正在降臨！
+event.boss.finished=%event%解除了！
+event.boss.phase=階段
 #
 # ========== Event Names ==========
-mobevent.arachnophobia.name=Arachnophobia
-mobevent.asmodeus.name=Asmodeus
-mobevent.bamstorm.name=Bamstorm
-mobevent.blackplague.name=Black Plague
-mobevent.bladeflurry.name=Blade Flurry
-mobevent.boulderdash.name=Boulderdash
-mobevent.cinderfall.name=Cinderfall
-mobevent.dragonsroar.name=Dragons Roar
-mobevent.eruption.name=Eruption
-mobevent.halloween.name=Happy Halloween
-mobevent.hellsfury.name=Hells Fury
-mobevent.marchofthegorgomites.name=March of The Gorgomites
-mobevent.poopparty.name=Poop Party
-mobevent.primalfury.name=Primal Fury
-mobevent.rahovart.name=Rahovart
-mobevent.raptorrampage.name=Raptor Rampage
-mobevent.reptileruckus.name=Reptile Ruckus
-mobevent.roasting.name=Your Head Roasting On A Cinder Fire
-mobevent.rootriot.name=Root Riot
-mobevent.rudolph.name=Rudolph The Bloodstained Jabberwock
-mobevent.saltytree.name=Salty Tree
-mobevent.satanclaws.name=Satan Claws
-mobevent.seastorm.name=Seastorm
-mobevent.shadowgames.name=Shadow Games
-mobevent.sharknado.name=Sharknado
-mobevent.subzero.name=Subzero
-mobevent.theswarm.name=The Swarm
-mobevent.tsunami.name=Tsunami
-mobevent.windstorm.name=Windstorm
-mobevent.wingedvenom.name=Winged Venom
-mobevent.wintersgrasp.name=Winters Grasp
+mobevent.arachnophobia.name=蜘蛛恐懼症
+mobevent.asmodeus.name=惡魔降臨
+mobevent.bamstorm.name=惡作劇風暴
+mobevent.blackplague.name=黑死病
+mobevent.bladeflurry.name=劍刃亂舞
+mobevent.boulderdash.name=原石沖擊
+mobevent.cinderfall.name=熔渣隕落
+mobevent.dragonsroar.name=龍之怒吼
+mobevent.eruption.name=火山爆發
+mobevent.halloween.name=萬聖節快樂
+mobevent.hellsfury.name=地獄之怒
+mobevent.marchofthegorgomites.name=魔鬼蟎的進軍
+mobevent.poopparty.name=“投翔”派對
+mobevent.primalfury.name=原始之怒
+mobevent.rahovart.name=拉赫凡特
+mobevent.raptorrampage.name=猛禽暴怒
+mobevent.reptileruckus.name=爬行生物騷動
+mobevent.roasting.name=烈火洗禮
+mobevent.rootriot.name=樹根暴動
+mobevent.rudolph.name=魯道夫血漬的低語
+mobevent.saltytree.name=諷刺的樹
+mobevent.satanclaws.name=魔王之爪
+mobevent.seastorm.name=海上暴風
+mobevent.shadowgames.name=暗影遊戲
+mobevent.sharknado.name=龍捲鯊
+mobevent.subzero.name=絕對零度
+mobevent.theswarm.name=殺人蜂群
+mobevent.tsunami.name=震風陵雨
+mobevent.windstorm.name=平原暴風
+mobevent.wingedvenom.name=翼毒蠍
+mobevent.wintersgrasp.name=凜冬將至
 # ========================================================================
-entity.lycanitesmobs.ember.name=Ember
-entity.lycanitesmobs.venomshot.name=Venomshot
+entity.lycanitesmobs.ember.name=灰燼
+entity.lycanitesmobs.venomshot.name=毒液彈
