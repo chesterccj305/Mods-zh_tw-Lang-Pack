@@ -1,0 +1,33 @@
+bbw.key.category=更好的建築法杖
+bbw.key.mode=轉換模式
+bbw.key.fluidmode=轉換流體模式
+
+item.betterbuilderswands:wandBasic.name=石質手杖
+item.betterbuilderswands:wandAdvanced.name=鐵質手杖
+item.betterbuilderswands:wandUnrestricted.name=鑽石手杖
+item.betterbuilderswands:wandUnbreakable.name=永恆手杖
+
+bbw.hover.mode.northsouth=模式：北-南
+bbw.hover.mode.verticalnorthsouth=模式：北-南（+豎直）
+bbw.hover.mode.eastwest=模式：東-西
+bbw.hover.mode.verticaleastwest=模式：東-西（+豎直）
+bbw.hover.mode.horizontal=模式：水平
+bbw.hover.mode.vertical=模式：豎直
+bbw.hover.mode.nolock=模式：無鎖定
+bbw.hover.maxblocks=最大%d個方塊
+bbw.chat.mode.northsouth=模式：北-南 ——從起始方塊向南，北方向延伸
+bbw.chat.mode.verticalnorthsouth=模式：北-南（+豎直） ——從起始方塊向南，北，上和下方向延伸
+bbw.chat.mode.eastwest=模式：東-西 ——從起始方塊向東，西方向延伸
+bbw.chat.mode.verticaleastwest=模式：東-西（+豎直） ——從起始方塊向東，西，上和下方向延伸
+bbw.chat.mode.horizontal=模式：水平 ——從起始方塊向左，右延伸
+bbw.chat.mode.vertical=模式：豎直 ——從起始方塊向上，下延伸
+bbw.chat.mode.nolock=模式：無鎖定 ——從起始方塊向左，右，上和下延伸
+
+bbw.hover.fluidmode.stopat=流體模式：禁止
+bbw.chat.fluidmode.stopat=流體模式：禁止 ——不會在流體中覆蓋任何方塊
+bbw.hover.fluidmode.ignore=流體模式：忽略
+bbw.chat.fluidmode.ignore=流體模式：忽略 ——會覆蓋任何流體方塊（包括源頭和流動的部分）
+
+bbw.chat.error.noundo=我記不得這個手杖上次修建的歷史了。
+bbw.chat.error.nowand=你需要手持Better Builders Wands的手杖來運行它。
+bbw.chat.error.bot=AI檢測使用者不是玩家。請不要在這樣做了。
