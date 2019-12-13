@@ -1,0 +1,24 @@
+item.animal_net_small.name=小型動物捕捉網
+item.animal_net_medium.name=中型動物捕捉網
+item.animal_net_big.name=大型動物捕捉網
+item.mob_net_small.name=小型怪物捕捉網
+item.mob_net_big.name=大型怪物捕捉網
+item.catched_animal.name=捕獲動物/怪物
+item.mob_core.name=生物核心
+item.npc_net.name=NPC捕捉網
+item.spawner_fragmental.name=生怪磚碎片
+
+itemGroup.AnimalNet Items=動物捕獸網
+
+message.animalnet.net_too_small=你需要一個更大的網！
+message.animalnet.can_not_be_caught=這種動物無法捕獲！
+message.animalnet.entity_too_big=%s 太大了，不能被抓住!
+
+message.animalnet.animal_needed=你需要一個動物捕捉網來捕捉動物!
+message.animalnet.mob_needed=你需要一個怪物捕捉網來捕捉怪物!
+message.animalnet.npc_needed=你需要一個NPC捕捉網來抓住NPC!
+message.animalnet.villager_needed=你需要一個NPC網來抓住村民!
+
+message.animalnet.formal_mob=這個怪物
+message.animalnet.formal_animal=這種動物
+message.animalnet.formal_npc=這個NPC
