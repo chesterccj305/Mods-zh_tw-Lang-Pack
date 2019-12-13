@@ -1,0 +1,87 @@
+//Minecraft Blocks
+tile.iron_bricks.name=鐵磚塊
+tile.gold_bricks.name=金磚塊
+tile.diamond_bricks.name=鑽石磚塊
+	
+tile.iron_brick_stairs.name=鐵磚塊階梯
+tile.gold_brick_stairs.name=金磚塊階梯
+tile.diamond_brick_stairs.name=鑽石磚塊階梯
+
+//SimpleOres Blocks
+tile.copper_bricks.name=銅磚塊
+tile.tin_bricks.name=錫磚塊
+tile.mythril_bricks.name=秘銀磚塊
+tile.adamantium_bricks.name=精金磚塊
+tile.onyx_bricks.name=縞瑪瑙磚塊
+	
+tile.copper_brick_stairs.name=銅磚塊階梯
+tile.tin_brick_stairs.name=錫磚塊階梯
+tile.mythril_brick_stairs.name=秘銀磚塊階梯
+tile.adamantium_brick_stairs.name=精金磚塊階梯
+tile.onyx_brick_stairs.name=縞瑪瑙磚塊階梯
+
+tile.copper_bars.name=銅柵欄
+tile.tin_bars.name=錫柵欄
+tile.mythril_bars.name=秘銀柵欄
+tile.adamantium_bars.name=精金柵欄
+tile.onyx_bars.name=縞瑪瑙柵欄
+
+//SimpleOres Items
+item.adamantium_door.name=精金門
+item.copper_door.name=銅門
+item.mythril_door.name=秘銀門
+item.onyx_door.name=縞瑪瑙門
+item.tin_door.name=錫門
+
+//Fusion Blocks
+tile.steel_bricks.name=鋼磚塊
+tile.bronze_bricks.name=青銅磚塊
+tile.thyrium_bricks.name=鍪銀磚塊
+tile.sinisite_bricks.name=逆銀磚塊
+	
+tile.steel_brick_stairs.name=鋼磚塊階梯
+tile.bronze_brick_stairs.name=青銅磚塊階梯
+tile.thyrium_brick_stairs.name=鍪銀磚塊階梯
+tile.sinisite_brick_stairs.name=逆銀磚塊階梯
+
+tile.steel_bars.name=鋼柵欄
+tile.bronze_bars.name=青銅柵欄
+tile.thyrium_bars.name=鍪銀柵欄
+tile.sinisite_bars.name=逆銀柵欄
+
+//Fusion Items
+item.bronze_door.name=青銅門
+
+//Netherrocks Blocks
+tile.fyrite_bricks.name=鳳凰石磚塊
+tile.malachite_bricks.name=孔雀石磚塊
+tile.ashstone_bricks.name=灰燼石磚塊
+tile.illumenite_bricks.name=幻象石磚塊
+tile.dragonstone_bricks.name=火龍石磚塊
+tile.argonite_bricks.name=紫荊石磚塊
+	
+tile.fyrite_brick_stairs.name=鳳凰石磚塊階梯
+tile.malachite_brick_stairs.name=孔雀石磚塊階梯
+tile.ashstone_brick_stairs.name=灰燼石磚塊階梯
+tile.illumenite_brick_stairs.name=幻象石磚塊階梯
+tile.dragonstone_brick_stairs.name=火龍石磚塊階梯
+tile.argonite_brick_stairs.name=紫荊石磚塊階梯
+
+tile.fyrite_bars.name=鳳凰石柵欄
+tile.malachite_bars.name=孔雀石柵欄
+tile.ashstone_bars.name=灰燼石柵欄
+tile.illumenite_bars.name=幻象石柵欄
+tile.dragonstone_bars.name=火龍石柵欄
+tile.argonite_bars.name=紫荊石柵欄
+
+//Netherrocks Items
+item.argonite_door.name=紫荊石門
+item.ashstone_door.name=灰燼石門
+item.dragonstone_door.name=火龍石門
+item.fyrite_door.name=鳳凰石門
+item.illumenite_door.name=幻象石門
+item.malachite_door.name=孔雀石門
+
+//Update Messages
+aesthetics.updateMessage1=§3更多礦物建材 §r已過時。最新版本是 §c
+aesthetics.updateMessage2=§r。請到 §9http://bit.ly/SimpleOres 進行更新
