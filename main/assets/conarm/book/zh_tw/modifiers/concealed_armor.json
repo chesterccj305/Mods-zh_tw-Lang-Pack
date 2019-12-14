@@ -1,0 +1,25 @@
+﻿{
+  "armormodifier": "concealed_armor",
+  "text": [
+    {
+      "text": "塗抹一些隱性墨水在護甲上，能夠讓它變得肉眼不可見。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "僅用於裝飾。"
+    }
+  ],
+  "effects": [
+    "讓你的護甲變得隱形",
+    "不需要强化槽",
+    "不能用於旅行者披風（隱身）"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}

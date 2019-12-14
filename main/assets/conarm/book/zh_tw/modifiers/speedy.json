@@ -1,0 +1,24 @@
+﻿{
+  "armormodifier": "speedy_armor",
+  "text": [
+    {
+      "text": "採用紅石作為塗層塗抹在護甲上將使護甲更加輕盈。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "這將有效提供跑圖效率。"
+    }
+  ],
+  "effects": [
+    "每個紅石都能提升一點護甲的速度",
+    "強化等級可以堆疊"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}
