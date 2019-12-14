@@ -1,0 +1,81 @@
+//Armors
+
+item.draconicadditions:inert_potato_helm.name=馬鈴薯頭盔
+item.draconicadditions:inert_potato_chest.name=馬鈴薯胸甲
+item.draconicadditions:inert_potato_legs.name=馬鈴薯護腿
+item.draconicadditions:inert_potato_boots.name=馬鈴薯靴子
+item.draconicadditions:infused_potato_helm.name=龍質馬鈴薯頭盔
+item.draconicadditions:infused_potato_chest.name=龍質馬鈴薯胸甲
+item.draconicadditions:infused_potato_legs.name=龍質馬鈴薯護腿
+item.draconicadditions:infused_potato_boots.name=龍質馬鈴薯靴子
+item.draconicadditions:potato_helm.name=能量馬鈴薯頭盔
+item.draconicadditions:potato_chest.name=能量馬鈴薯胸甲
+item.draconicadditions:potato_legs.name=能量馬鈴薯護腿
+item.draconicadditions:potato_boots.name=能量馬鈴薯靴子
+item.draconicadditions:chaotic_helm.name=混沌頭盔
+item.draconicadditions:chaotic_chest.name=混沌胸甲
+item.draconicadditions:chaotic_legs.name=混沌護腿
+item.draconicadditions:chaotic_boots.name=混沌靴子
+
+//Blocks
+
+tile.draconicadditions:chaos_stabilizer_core.name=混沌穩定器核心
+tile.draconicadditions:armor_generator.name=裝甲發電機
+tile.draconicadditions:chaotic_armor_generator.name=混沌裝甲發電機
+tile.draconicadditions:item_drainer.name=排水機
+tile.draconicadditions:chaos_liquefier.name=混沌液化機
+
+//Tools
+
+item.draconicadditions:chaotic_staff_of_power.name=混沌權杖
+item.draconicadditions:chaos_container.name=混沌容器
+
+//Baubles
+
+item.draconicadditions:basic_shield_necklace.name=基本防護項鍊
+item.draconicadditions:wyvern_shield_necklace.name=飛龍防護項鍊
+item.draconicadditions:draconic_shield_necklace.name=神龍防護項鍊
+item.draconicadditions:overload_belt.name=龍族超載皮帶
+item.draconicadditions:vampiric_shirt.name=龍族自我虹吸內衣
+item.draconicadditions:inertia_cancel_ring.name=慣性消除戒指
+
+//Crafting Componants
+
+item.draconicadditions:chaotic_energy_core.name=混沌能量核心
+
+//Lore
+
+item.draconicadditions:infused_potato.lore=已注入龍質但還不具有能量...
+item.draconicadditions:infused_potato.lore2=也許需要某種啟動方式?
+item.draconicadditions:potato.lore=在意外的瘋狂生長後已具有能量。
+item.draconicadditions:potato.lore2=長得有點怪, 但還是有用的。
+
+msg.da.infusedTransformation.normal=搖晃這件護甲時, 它開始奇怪的亂長！
+msg.da.infusedTransformation.smack=拿這件護甲敲打生物時, 它開始奇怪的亂長！
+
+msg.da.energizedBreak=在你的護甲能量耗盡後, 它會分解出其成分！
+
+msg.da.chaosStabilizer.canStabilize=你感到手中的物品被吸向穩定器...
+msg.da.chaosStabilizer.alreadyStabilized=穩定器維持靜止。你已經穩定過這個物品了。
+msg.da.chaosStabilizer.cannotStabilize=穩定器不接受你手中的物品！
+msg.da.chaosStabilizer.emptyHand=你瘋了嗎？ 別把手伸進渾沌核心！
+msg.da.chaosStabilizer.full=目前穩定器中已有物品。
+msg.da.chaosStabilizer.notMultiblock=穩定器似乎沒有任何反應...
+
+msg.da.chaosContainer.explode=你的混沌容器的屏蔽失敗了，它突然爆炸了!
+msg.da.chaosContainer.cantdrop=把一個裝滿混沌液體的容器亂扔在地上似乎是個壞主意.
+
+//Misc
+
+itemGroup.draconicadditions=龍族追加
+
+config.field.shirtSafetyCutoff.entry=安全開關
+config.field.shirtSafetyCutoff.description=設定內衣停止運作以保留你生命值的點數。 注意:這裡的生命值是以半顆心為單位來計算。
+config.field.shirtEntropyActivate.entry=熵值啟動
+config.field.shirtEntropyActivate.description=設定內衣在熵值超過多少百分比就開始用你的生命值來補充護盾值。
+
+info.da.shieldcharge.txt=屏蔽充能
+info.da.storedchaos.txt=存儲混沌
+info.da.cooldown.txt=技能冷卻時間
+
+key.overload=啟動超載
