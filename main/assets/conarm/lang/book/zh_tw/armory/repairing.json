@@ -1,0 +1,17 @@
+﻿{
+  "title": "Repairing",
+  "image": {
+    "file": "conarm:textures/gui/book/repair.png",
+    "width": 136,
+    "height": 70
+  },
+  "text": [
+    {
+      "text": "問題來了該如何修理護甲呢？其實這很簡單，只需要將它們放入組裝台或者轉配台，然後放上和護甲基底相同的材料即可。"
+    },
+    {
+      "text": "另外，你也可以不使用組裝/裝配台進行修復。你只需要隨身攜帶一個拋光工具即可。",
+      "paragraph": true
+    }
+  ]
+}
