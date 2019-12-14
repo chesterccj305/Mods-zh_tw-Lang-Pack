@@ -1,0 +1,16 @@
+﻿{
+  "armormodifier": "travel_goggles_armor",
+  "text": [
+    {
+      "text": "戴著護目鏡將使你看得更遠。"
+    }
+  ],
+  "effects": [
+    "能夠遠眺",
+    "通過快捷鍵使用",
+    "每件護甲只能裝配一個部件"
+  ],
+  "demoArmor": [
+    "conarm:helmet"
+  ]
+}
