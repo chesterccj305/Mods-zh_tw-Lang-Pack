@@ -1,0 +1,20 @@
+﻿{
+  "armormodifier": "mending_armor",
+  "text": [
+    {
+      "text": "你用舊的護甲邊緣長了些苔蘚。用一些經驗來附魔能讓它與護甲融合，從而逐步的修復它。"
+    }
+  ],
+  "effects": [
+    "吸取撿起的經驗球",
+    "隨著時間推移修復耐久",
+    "必須不穿戴護甲進行修復",
+    "多個等級"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}

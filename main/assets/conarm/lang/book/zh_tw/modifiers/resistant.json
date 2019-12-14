@@ -1,0 +1,26 @@
+﻿{
+  "armormodifier": "resistant_armor",
+  "text": [
+    {
+      "text": "採用黑曜石作為塗層塗抹在護甲上將使護甲更具防護能力，雖然這非常艱難。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "但卻有助於抵禦各種傷害。"
+    }
+  ],
+  "effects": [
+    "提供保護效果",
+    "只需要一個強化槽",
+    "與其他保護衝突",
+    "多個等級"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}
