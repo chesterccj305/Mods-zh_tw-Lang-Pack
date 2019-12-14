@@ -1,0 +1,35 @@
+item.can.name=罐子
+item.sugar_water.name=糖水
+item.aluminum_ingot.name=鋁錠
+
+item.black_soda.name=黑蘇打
+item.white_soda.name=白蘇打
+item.red_soda.name=紅蘇打
+item.blue_soda.name=藍蘇打
+item.green_soda.name=綠蘇打
+item.yellow_soda.name=黃蘇打
+item.brown_soda.name=棕蘇打
+item.orange_soda.name=橙蘇打
+item.cyan_soda.name=青蘇打
+item.purple_soda.name=紫蘇打
+item.grey_soda.name=灰蘇打
+item.light_blue_soda.name=淺藍蘇打
+item.pink_soda.name=粉紅蘇打
+item.lime_soda.name=淺綠蘇打
+item.magenta_soda.name=洋紅蘇打
+item.light_grey_soda.name=淺灰蘇打
+
+tile.ore_cinerium.name=Cinerium Ore
+tile.ore_luxium.name=Luxium Ore
+tile.ore_albium.name=Albium Ore
+tile.ore_cerasium.name=Cerasium Ore
+tile.ore_tenebrium.name=Tenebrium Ore
+tile.ore_aluminum.name=鋁礦石
+
+tile.carbonizer.name=碳化劑
+tile.carbonizer_tier_2.name=碳化劑 II
+tile.carbonizer_tier_3.name=碳化劑 III
+
+container.carbonizer=碳化劑
+container.carbonizer_tier_2=碳化劑
+container.carbonizer_tier_3=碳化劑
