@@ -1,0 +1,203 @@
+# CREATIVE TAB
+itemGroup.extendedcrafting=擴展合成
+
+# BLOCKS
+tile.ec.storage_black_iron.name=黑鐵磚
+tile.ec.storage_luminessence.name=華光磚
+tile.ec.storage_nether_star.name=地獄之星磚
+tile.ec.storage_crystaltine.name=水晶磚
+tile.ec.storage_ultimate.name=終極磚
+tile.ec.storage_ender.name=終界磚
+tile.ec.storage_ender_star.name=終界之星磚
+tile.ec.storage_enhanced_ender.name=強化終界磚
+
+tile.ec.frame.name=黑鐵框架
+tile.ec.lamp_glowstone.name=黑鐵燈籠
+tile.ec.lamp_luminessence.name=黑鐵燈籠
+
+tile.ec.trimmed_iron.name=黑鐵磚
+tile.ec.trimmed_gold.name=黑鐵磚
+tile.ec.trimmed_diamond.name=黑鐵磚
+tile.ec.trimmed_emerald.name=黑鐵磚
+tile.ec.trimmed_crystaltine.name=黑鐵磚
+tile.ec.trimmed_ultimate.name=黑鐵磚
+
+tile.ec.crafting_table.name=合成台
+
+tile.ec.pedestal.name=台座
+tile.ec.crafting_core.name=合成核心
+
+tile.ec.interface.name=自動化介面
+
+tile.ec.table_basic.name=基礎合成台
+tile.ec.table_advanced.name=進階合成台
+tile.ec.table_elite.name=精英合成台
+tile.ec.table_ultimate.name=終極合成台
+
+tile.ec.compressor.name=原子壓縮機
+
+tile.ec.ender_alternator.name=終界發電機
+tile.ec.ender_crafter.name=終界合成台
+
+# ITEMS
+item.guide.extendedcrafting.name=擴展合成導覽書
+
+item.ec.material_black_iron.name=黑鐵錠
+item.ec.material_black_iron_nugget.name=黑鐵粒
+item.ec.material_black_iron_slate.name=黑鐵板
+item.ec.material_black_iron_rod.name=黑鐵棒
+
+item.ec.material_luminessence.name=華光原質
+
+item.ec.material_basic_catalyst.name=基礎催化劑
+item.ec.material_advanced_catalyst.name=進階催化劑
+item.ec.material_elite_catalyst.name=精英催化劑
+item.ec.material_ultimate_catalyst.name=終極催化劑
+item.ec.material_crystaltine_catalyst.name=水晶催化劑
+item.ec.material_ultimater_catalyst.name=真˙終極催化劑
+
+item.ec.material_basic_component.name=基礎元件
+item.ec.material_advanced_component.name=進階元件
+item.ec.material_elite_component.name=精英元件
+item.ec.material_ultimate_component.name=終極元件
+item.ec.material_crystaltine_component.name=水晶元件
+item.ec.material_ultimater_component.name=真˙終極元件
+
+item.ec.material_crystaltine_ingot.name=水晶錠
+item.ec.material_crystaltine_nugget.name=水晶粒
+
+item.ec.material_ultimate_ingot.name=終極錠
+item.ec.material_ultimate_nugget.name=終極粒
+
+item.ec.material_ender_ingot.name=終界錠
+item.ec.material_ender_nugget.name=終界粒
+
+item.ec.material_ender_star.name=終界之星
+item.ec.material_ender_star_nugget.name=終界之星粒
+
+item.ec.material_enhanced_ender_ingot.name=強化終界錠
+item.ec.material_enhanced_ender_nugget.name=強化終界粒
+
+item.ec.material_diamond_nugget.name=鑽石粒
+item.ec.material_emerald_nugget.name=綠寶石粒
+item.ec.material_nether_star_nugget.name=地獄之星粒
+
+item.ec.handheld_table.name=手持合成台
+
+item.ec.recipe_maker.name=配方製作器
+
+item.ec.singularity.name=奇異點
+item.ec.singularity_ultimate.name=終極奇異點
+
+# CONTAINERS
+container.ec.crafting_core=合成核心
+container.ec.interface=自動化介面
+container.ec.table_basic=基礎合成台
+container.ec.table_advanced=進階合成台
+container.ec.table_elite=精英合成台
+container.ec.table_ultimate=終極合成台
+container.ec.compressor=原子壓縮機
+container.ec.ender_crafter=終界合成台
+
+ec.ccore.pedestals=Pedestals: %s
+ec.ccore.rf_cost=RF 消耗: %s
+ec.ccore.rf_rate=RF Rate: %s
+ec.ccore.no_recipe=未找到合成表。
+ec.ccore.no_power=電量不足。
+
+ec.interface.save=儲存配方
+ec.interface.clear=清除配方
+ec.interface.view=檢視配方
+ec.interface.auto_insert=自動輸入
+ec.interface.auto_extract=自動輸出
+ec.interface.auto_eject=自動噴出
+ec.interface.smart_insert=智慧輸入
+ec.interface.table=合成台
+ec.interface.recipe=合成表
+ec.interface.config=設定
+ec.interface.back=Back
+ec.interface.none=NONE
+ec.interface.on=ON
+ec.interface.off=OFF
+ec.interface.insert_desc=界面會自動從指定方向將物品導入。
+ec.interface.extract_desc=界面會自動將物品從指定方向導出。
+ec.interface.eject_desc=若物品無法導入工作檯，介面會自動將物品從輸入欄彈射到輸出欄。
+ec.interface.smart_desc=介面將不會讓無法進入工作台的物品進入輸入欄。
+
+# JEI
+jei.ec.table_crafting_3x3=基礎合成
+jei.ec.table_crafting_5x5=進階合成
+jei.ec.table_crafting_7x7=精英合成
+jei.ec.table_crafting_9x9=終極合成
+jei.ec.combination_crafting=綁定合成
+jei.ec.compressor=原子壓縮
+jei.ec.ender_crafting=終界合成
+
+desc.item.ec.recipe_maker=用於將合成台的內容複製為CraftTweaker的腳本。這是通過右鍵單擊來完成的。潛行+右鍵更改模式。
+
+# MESSAGE
+message.ec.copied_recipe=已將配方複製到剪貼板。
+message.ec.changed_mode=已將模式更改為 %s.
+message.ec.nbt_requires_crafttweaker=警告：複製NBT需要安裝CraftTweaker。
+
+# TOOLTIPS
+tooltip.ec.crafting_table=裝飾
+tooltip.ec.lamp_glowstone=螢光石
+tooltip.ec.lamp_luminessence=華光粉
+tooltip.ec.trimmed_iron=鐵修飾
+tooltip.ec.trimmed_gold=金修飾
+tooltip.ec.trimmed_diamond=鑽石修飾
+tooltip.ec.trimmed_emerald=綠寶石修飾
+tooltip.ec.trimmed_crystaltine=水晶修飾
+tooltip.ec.trimmed_ultimate=終極修飾
+
+tooltip.ec.ultimate_block=我就是那個，不要重一噸...
+tooltip.ec.ultimate_catalyst=我是真正的終極催化劑...
+tooltip.ec.ultimate_component=沒有任何比我好...
+tooltip.ec.ultimate_ingot=有著無時無刻都在增強的力量...
+tooltip.ec.ultimate_nugget=Baby steps...
+tooltip.ec.singularity_ultimate=有著我們所有的力量...
+
+tooltip.ec.empty=空
+tooltip.ec.eject=噴出
+tooltip.ec.ejecting=噴出中...
+tooltip.ec.limited_input=有限輸入
+tooltip.ec.unlimited_input=不受限輸入
+
+tooltip.ec.tier=等級: %s
+tooltip.ec.output=輸出: %sx %s
+tooltip.ec.crafting=製作: %sx %s
+tooltip.ec.mode=模式: %s
+tooltip.ec.num_items=%s 個物品
+tooltip.ec.requires_table=需要 %s 合成表
+tooltip.ec.items_required=必要物品:
+
+# GUIDE
+guide.extendedcrafting.name=擴展合成導覽書
+
+guide.entry.introduction=簡介
+guide.entry.introduction.page.1=<b>擴展合成<r>加入了許多合成的新方式，以及額外的合成物品與實用程序。這本指南書僅用於解釋基本功能，因為不同的合成方式是由模組包製作者來決定的。<n><n><i>這個模組的目標是提供玩家製作物品的自豪感和成就感。<r><n><n><i>translated by 土窯雞沒左手 jimgo514<r>
+
+guide.entry.combination_crafting=綁定合成
+guide.entry.combination_crafting.page.1=<b>綁定合成<r>是一種在世界內的多方塊結構設置，將物品組合在一起以做出某種不同的東西。<n><n>此設置包含一個放在中央的<red>合成核心<r>與圍繞著它的許多<red>台座<r>。<red>台座<r>需被放置在圍繞著合成核心的3格半徑內，且須在一樣的Y軸。<red>合成核心<r>需要吃電。<n><n>將合成表的中心物品放置在<red>合成核心<r>上，其他物品放在<red>台座<r>上，圍繞著核心。
+guide.entry.combination_crafting.page.2=右鍵<red>合成核心<r>將會顯示當前配方的資訊，像是過程中的能量消耗，以及儲存了多少能量。
+
+guide.entry.table_crafting=合成桌
+guide.entry.table_crafting.page.1=<b>合成桌<r>有分成許多級別，其工作方式與合成台相似。有分成<red>3x3<r>, <red>5x5<r>, <red>7x7<r>,和<red>9x9<r>的大小。當關閉合成台時，它們會將物品保留在物品欄中。<n><n>你可以使用<red>自動化界面<r>來自動化，且可以自動輸入和輸出物品。<n><n>基礎合成台<r>可以用來當作普通的合成台。
+
+guide.entry.quantum_compression=原子壓縮
+guide.entry.quantum_compression.page.1=<b>原子壓縮<r>是一個將許多物品輕輕地壓縮起來的動作。由<red>原子壓縮機<r>來進行。<n><n><red>原子壓縮機<r>是一台吃電的機器，它可以儲存非常大量的材料。放進<red>原子壓縮機<r>的物品會進入機器裡的緩衝區用來壓縮。緩衝區由<red>紅色條<r>來表示。<n><n>配方<i>經常<r>需要催化劑。催化劑不會消耗，將其放在最左方的格子。
+guide.entry.quantum_compression.page.2=一旦緩衝區中有足夠的物品，機器便會開始製作。<red>原子壓縮機<r>僅在製作時吃電。<n><n>如果您不小心將物品放入壓縮機中，可以按下輸入槽上方的<red>噴出<r>按鈕將其取回。 緩衝區中的物品存儲在無盡虛空中，只能通過噴出重新獲得。 破壞機器會導致這些物品永遠迷失，請小心！
+guide.entry.quantum_compression.page.3=<red>量子壓縮機<r>的項目輸入緩衝區能夠容納<red>數十億個<r>項目，但默認情況下僅容納配方所需的數量。 您可以通過單擊輸入緩衝區欄旁邊的<red>鎖定鍵<r>來禁用此限制。
+
+guide.entry.ender_crafting=終界合成
+guide.entry.ender_crafting.page.1=<b>終界合成<r>使用來自於虛空的力量。終界合成的設置包含<red>終界合成台<r>和<red>終界發電機<r>。合成台通過終界發電機從虛空中獲取能量。 您擁有的終界發電機越多，它的製造速度就越快。<n><n><red>終界發電機<r>可放置在<red>終界合成台<r>周圍<red>3格半徑<r>內的的任何位置。甚至在不同Y軸！<n><n><red>終界合成台<r>可以使用<red>自動化介面<r>自動化，可以自動輸入和抽出物品。
+
+guide.entry.interface=自動化介面
+guide.entry.interface.page.1=<b>自動化介面<r>是一個強大的方塊，它可以實現合成桌與終界合成桌的自動化。將其放置在目標方塊上方，且須供電。<n><n>接口有輸入和輸出欄，放置在輸入欄的物品將會輸入進合成台中的最佳位置。若物品無法放入合成台，它將會留在輸入欄，除非開啟了<red>自動噴出<r>。合成結果將會輸出至輸出欄。
+guide.entry.interface.page.2=<red>自動化接口<r>對於自動合成是很有用的。只要有可能，界面將自動合成並將合成結果放在輸出欄中。<n><n>切記當這機器在工作時，需要一直供應能量。<n><n>若要保存配方，按<red>儲存配方<r>鍵；若要檢視配方，按<red>檢視配方<r>鍵；若要清除配方，按<red>清除配方<r>鍵。
+guide.entry.interface.page.3=<red>自動化介面<r>還具有一些自動移動物品功能。可以通過按<red>設定<r>按鈕配置它們。<n><n><b>自動輸入：<r>界面會自動從指定方向將物品導入。<n><b>自動輸出：<r>界面會自動將物品從指定方向導出。<n><b>自動噴出：<r>若物品無法導入工作檯，介面會自動將物品從輸入欄彈射到輸出欄。
+guide.entry.interface.page.4=<b>智慧輸入:<r>介面將不會讓無法進入工作台的物品進入輸入欄。
+
+guide.entry.singularity=奇異點
+guide.entry.singularity.page.1=<b>奇異點<r>是高度壓縮的物質，它們<i>通常<r>由<red>原子壓縮機<r>製作。<n><n>在<red>終極合成台<r>把所有奇異點合在一起會得到<red>終極奇異點<r>.
