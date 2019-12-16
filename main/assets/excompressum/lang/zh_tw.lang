@@ -1,0 +1,116 @@
+item.excompressum:compressed_hammer_wood.name=壓縮木錘
+item.excompressum:compressed_hammer_stone.name=壓縮石鎚
+item.excompressum:compressed_hammer_iron.name=壓縮鐵鎚
+item.excompressum:compressed_hammer_gold.name=壓縮金鎚
+item.excompressum:compressed_hammer_diamond.name=壓縮鑽石鎚
+item.excompressum:double_compressed_diamond_hammer.name=雙重壓縮鑽石鎚
+item.excompressum:compressed_crook.name=壓縮鉤子
+item.excompressum:chicken_stick.name=小雞錘
+item.excompressum:iron_mesh.name=鐵篩網
+item.excompressum:bait_wolf.name=狼誘餌
+item.excompressum:bait_ocelot.name=豹貓誘餌
+item.excompressum:bait_cow.name=牛誘餌
+item.excompressum:bait_pig.name=豬誘餌
+item.excompressum:bait_chicken.name=雞誘餌
+item.excompressum:bait_sheep.name=羊誘餌
+item.excompressum:bait_squid.name=魷魚誘餌
+item.excompressum:bait_rabbit.name=兔子誘餌
+item.excompressum:bait_horse.name=馬誘餌
+item.excompressum:bait_donkey.name=驢誘餌
+item.excompressum:bait_llama.name=羊駝誘餌
+item.excompressum:bait_polar_bear.name=北極熊誘餌
+item.excompressum:bait_parrot.name=鸚鵡誘餌
+item.excompressum:wood_chippings.name=木屑
+item.excompressum:uncompressed_coal.name=碎煤
+item.excompressum:bat_zapper.name=蝙蝠殺手
+item.excompressum:ore_smasher.name=礦物粉碎機
+item.excompressum:hammer_mana.name=魔鋼錘
+item.excompressum:ugly_steel_plating.name=醜陋的鋼製電鍍板
+
+gui.excompressum:autoSieve.noMesh=無篩網
+gui.excompressum:autoSieve.incorrectMesh=不正確的篩網
+
+tooltip.excompressum:double_compressed_diamond_hammer=匠魂工具強化
+tooltip.excompressum:best_with_blasting=與爆破強化結合以達到最佳效果
+tooltip.excompressum:auto_sieve=%s 盒裝版™
+tooltip.excompressum:auto_heavy_sieve=%s 盒裝版™
+tooltip.excompressum:mana_sieve=%s 盒裝版™
+tooltip.excompressum:consumingEnergy=消耗 %d FE/t
+tooltip.excompressum:ugly_steel_plating=用在機器上讓機器變得不那麼顯眼。
+
+info.excompressum:baitCanSpawn=這個誘餌將在這種環境下工作。請離開作用範圍，不要嚇到動物！
+info.excompressum:baitNearbyBait=這裡有太多的誘餌，太可疑了。
+info.excompressum:baitWrongEnv=需要放置更多來自動物原產地群系的方塊到這裡。
+info.excompressum:baitNearbyAnimal=動物們都很害羞，但這裡動物太多了。
+info.excompressum:baitNoWater=這裡沒有水。
+info.excompressum:baitPlaceInWater=必須放置在水中。
+
+commands.excompressum:reload.success=Ex Compressum 註冊表重新加載。
+
+tile.excompressum:compressed_dust.name=壓縮塵土
+tile.excompressum:compressed_cobblestone.name=壓縮圓石
+tile.excompressum:compressed_sand.name=壓縮沙子
+tile.excompressum:compressed_dirt.name=壓縮泥土
+tile.excompressum:compressed_gravel.name=壓縮沙礫
+tile.excompressum:compressed_flint.name=壓縮燧石
+tile.excompressum:compressed_ender_gravel.name=壓縮末地石沙礫
+tile.excompressum:compressed_nether_gravel.name=壓縮地獄岩沙礫
+tile.excompressum:compressed_soul_sand.name=壓縮靈魂沙
+tile.excompressum:compressed_netherrack.name=壓縮地獄岩
+tile.excompressum:compressed_end_stone.name=壓縮末地石
+tile.excompressum:heavy_sieve_0.name=重型橡木篩子
+tile.excompressum:heavy_sieve_1.name=重型雲杉木篩子
+tile.excompressum:heavy_sieve_2.name=重型白樺木篩子
+tile.excompressum:heavy_sieve_3.name=重型叢林木篩子
+tile.excompressum:heavy_sieve_4.name=重型金合歡木篩子
+tile.excompressum:heavy_sieve_5.name=重型深色橡木篩子
+tile.excompressum:wooden_crucible_0.name=橡木坩堝
+tile.excompressum:wooden_crucible_1.name=雲杉木坩堝
+tile.excompressum:wooden_crucible_2.name=白樺木坩堝
+tile.excompressum:wooden_crucible_3.name=叢林木坩堝
+tile.excompressum:wooden_crucible_4.name=金合歡木坩堝
+tile.excompressum:wooden_crucible_5.name=深色橡木坩堝
+tile.excompressum:auto_compressor.name=自動壓縮機
+tile.excompressum:auto_hammer.name=自動錘子
+tile.excompressum:auto_compressed_hammer.name=自動壓縮錘
+tile.excompressum:auto_sieve.name=自動篩子
+tile.excompressum:mana_sieve.name=魔鋼篩子
+tile.excompressum:auto_heavy_sieve.name=重型自動篩子
+tile.excompressum:auto_compressor_rationing.name=自動壓縮機（供應模式）
+
+entity.excompressum.AngryChicken.name=憤怒的雞
+
+itemGroup.excompressum=壓縮工具
+
+botania.entry.excompressum.orechidEvolved=進化的凝礦蘭
+botania.tagline.excompressum.orechidEvolved=以石頭造就礦石
+botania.page.excompressum.orechidEvolved0=你也許已經發現，你根本不能 在這個空無一物的世界中挖礦。 &1進化的凝礦蘭&0可通過消耗 &4Mana&0來在附近的&1石頭&0中生成&4礦 石&0，與&1凝礦蘭&0相比速度更快，消耗 更低。 <br>礦石生成過程完全隨機，但相比 較來說，它似乎更偏向於生成 那些常見的礦石。
+botania.page.excompressum.orechidEvolved1=&o然而並不是龍的便便&r。
+tile.botania:flower.excompressum.orechidEvolved.name=進化的凝礦蘭
+tile.botania:flower.excompressum.orechidEvolved.reference=Orechid: Evolved: Skyblock: The Movie
+
+modifier.excompressum:smashingii.name=粉碎 II
+modifier.excompressum:compressing.name=壓縮
+gui.error.invalid_trait_order=
+
+waila.excompressum:baitTooClose=你離得太近了。
+waila.excompressum:baitTooClose2=動物們都被嚇跑了。
+waila.excompressum:speedBoost=速度提升: %s
+waila.excompressum:luckBonus=幸運加成: %s
+waila.excompressum:sieveSkin=皮膚: %s
+waila.excompressum:sieveProgress=進度: %s
+waila.excompressum:sieveMesh=%s %d/%d
+waila.excompressum:sieveNoMesh=無篩網
+waila.excompressum:solidVolume=固體體積: %s
+waila.excompressum:fluidVolume=液體體積: %s
+
+jei.excompressum:heavySieve=重型篩子
+jei.excompressum:compressedHammer=壓縮錘子
+jei.excompressum:woodenCrucible=木坩堝
+jei.excompressum:chickenStick=小雞錘
+jei.excompressum:compressedHammer.dropChance=掉落機率:
+jei.excompressum:heavySieve.dropChance=掉落機率:
+jei.excompressum:compressedHammer.luck=幸運
+jei.excompressum:heavySieve.luck=幸運
+
+tooltip.excompressum:disableFakeWoodenCrucible=被「壓縮工具」禁用，使用橡木坩堝
