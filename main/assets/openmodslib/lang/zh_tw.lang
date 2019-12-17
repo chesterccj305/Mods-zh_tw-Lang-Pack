@@ -1,5 +1,5 @@
 openmodslib.command.no_enough_args=參數不足
-openmodslib.command.unknown_modid=未知的 Mod ID
+openmodslib.command.unknown_modid=未知的模組 ID
 openmodslib.command.unknown_value=未知的值
 openmodslib.command.saved=設置已保存至%s
 openmodslib.command.not_multiple=該屬性不能接受多個值
@@ -12,7 +12,7 @@ openmodslib.command.invalid_type=無法將%s轉換為%s
 openmodslib.command.invalid_class_name=無效的類名 %s
 openmodslib.command.unknown_error_details=未知錯誤,請查看日誌文件
 openmodslib.command.class_source=類 '%s' 來自於 '%s'
-openmodslib.command.api_class=API 信息: name='%s', ownerMod='%s', version='%s'
+openmodslib.command.api_class=API信息: name='%s', ownerMod='%s', version='%s'
 openmodslib.command.class_provider=類來自於文件 %s (mods: %s)
 
 openmodslib.command.calc_set=值 %s 設置為 %s
