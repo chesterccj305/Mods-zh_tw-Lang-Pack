@@ -1,0 +1,18 @@
+language.name=繁體中文
+language.region=TW
+language.code=zh_TW
+
+categories.all=所有綁定鍵
+categories.conflicts=有衝突的綁定鍵
+categories.unbound=未綁定鍵
+
+gui.openKeyWiz=鍵盤精靈
+gui.done = 完成
+gui.resetBinding=重設綁定鍵
+gui.clearBinding=清除綁定鍵
+gui.activeModifier=啟用組合鍵
+gui.bindingCategories=綁定鍵分類
+gui.page=頁面
+gui.mouse=滑鼠
+
+keywizard.keybind.openKeyboardWizard=開啟鍵盤精靈
