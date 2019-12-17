@@ -1006,7 +1006,7 @@ advancements.fossil.fossil_seed.description=分析植物化石，獲得古代的
 advancements.fossil.restored_seed.title=復活植物
 advancements.fossil.restored_seed.description=使用培養槽成功復活古代植物
 advancements.fossil.cultivate.title=古代煉藥鍋
-advancements.fossil.cultivate.description製作一台培養槽，投入 DNA 後可使古代生物復活的裝置
+advancements.fossil.cultivate.description=製作一台培養槽，投入 DNA 後可使古代生物復活的裝置
 advancements.fossil.egg.title=恐龍蛋
 advancements.fossil.egg.description=成功培養出一顆恐龍蛋
 advancements.fossil.embryo.title=古代送子鳥
