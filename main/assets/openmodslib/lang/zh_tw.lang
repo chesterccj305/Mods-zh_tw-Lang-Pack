@@ -1,0 +1,77 @@
+openmodslib.command.no_enough_args=Not enough arguments
+openmodslib.command.unknown_modid=Unknown mod id
+openmodslib.command.unknown_value=Unknown config value
+openmodslib.command.saved=Saved configuration to %s
+openmodslib.command.not_multiple=This property doesn't accept multiple values
+openmodslib.command.online_change=Config property changed. Using new value. 
+openmodslib.command.offline_change=Config property changed. New value will be applied after restart
+openmodslib.command.cancelled=Config change cancelled!
+openmodslib.command.unknown_error=Unknown error during config property change: %s
+openmodslib.command.invalid_command=Invalid command '%s'
+openmodslib.command.invalid_type=Can't convert value %s to %s
+openmodslib.command.invalid_class_name=Invalid class name %s
+openmodslib.command.unknown_error_details=Unknown error. Please check logs for more details.
+openmodslib.command.class_source=Class '%s' loaded from '%s'
+openmodslib.command.api_class=API information: name='%s', ownerMod='%s', version='%s'
+openmodslib.command.class_provider=Class provided by file %s (mods: %s)
+
+openmodslib.command.calc_set=Value %s set to %s
+openmodslib.command.calc_no_type=Please provide new calculator type
+openmodslib.command.calc_no_name=Please provide calculator name
+openmodslib.command.calc_invalid_name=Invalid calculator name
+openmodslib.command.calc_invalid_type=Invalid calculator type. Allowed types: %s
+openmodslib.command.calc_invalid_mode=Invalid calculator mode. Allowed modes: %s
+openmodslib.command.calc_no_key=Please provide name of property
+openmodslib.command.calc_no_value=Please provide new value of property
+openmodslib.command.calc_invalid_key=Invalid property name
+openmodslib.command.calc_cant_set=Failed to set property
+openmodslib.command.calc_function_defined=Defined function %s
+openmodslib.command.calc_error=Failed to execute: '%s'
+openmodslib.command.calc_syntax_error_path=Failed to parse command '%s': 
+openmodslib.command.calc_runtime_error_path=Failed to execute command '%s': 
+openmodslib.command.calc_stack_underflow=Calculator stack underflow
+openmodslib.command.calc_after_push=Pushed calculator, stack size: %s
+openmodslib.command.calc_after_pop=Popped calculator, stack size: %s
+openmodslib.command.calc_stack_size=Stack size: %s
+openmodslib.command.calc_extra_args=Unparsed arguments left in command: %s
+openmodslib.command.calc_invalid_number='%s' is not valid number
+openmodslib.command.no_subcommand=Can't find subcommand: %s
+openmodslib.command.no_subcommands=Command has no subcommands
+openmodslib.command.not_enough_arguments=Not enough arguments
+openmodslib.command.calc_executed_count=Executed %d commands
+openmodslib.command.calc_not_child=Path %s is not child of %s
+openmodslib.command.calc_not_file=Path %s is not valid file
+
+openmodslib.color.black=黑色
+openmodslib.color.red=紅色
+openmodslib.color.green=綠色
+openmodslib.color.brown=棕色
+openmodslib.color.blue=藍色
+openmodslib.color.purple=紫色
+openmodslib.color.cyan=青色
+openmodslib.color.lightGray=淺灰色
+openmodslib.color.gray=灰色
+openmodslib.color.pink=粉紅色
+openmodslib.color.lime=黃綠色
+openmodslib.color.yellow=黃色
+openmodslib.color.lightBlue=淺藍色
+openmodslib.color.magenta=洋紅色
+openmodslib.color.orange=橘色
+openmodslib.color.white=白色
+
+openmodslib.gui.watch_video=觀看影片
+
+openmodslib.locale.book.scale.pageNumber=0.5
+openmodslib.locale.book.scale.sectionTitle=2.0
+openmodslib.locale.book.scale.pageTitle=1.0
+openmodslib.locale.book.scale.pageContent=0.5
+
+openmodslib.locale.book.lineSpace.titledPage=2
+openmodslib.locale.book.lineSpace.recipePage=4
+
+openmodslib.config.features=開啟/關閉特點
+openmodslib.config.features.blocks=開啟/關閉方塊
+openmodslib.config.features.items=開啟/關閉物品
+openmodslib.config.config=模組屬性控制
+openmodslib.config.update_warning=§c§l註:§r要線上即時變更控制設定,使用指令§l/om_config_s§r或§l/om_config_m§r
+
