@@ -1,0 +1,14 @@
+{
+  "modifier": "hitech",
+  "text": [{
+    "text": "iChisel的最新的未來鑿技術"
+  }],
+  "effects": [
+    "適用於鑿子",
+    "未來界面",
+    "可以與寬度++和高度++結合使用，以實現更多的鑿削模式"
+  ],
+  "demoTool": [
+    "tcomplement:chisel"
+  ]
+}
