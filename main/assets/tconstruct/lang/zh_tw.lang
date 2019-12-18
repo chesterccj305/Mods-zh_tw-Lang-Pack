@@ -252,7 +252,7 @@ tile.tconstruct.brownstone_stairs_creeper.name=苦力怕臉褐色石樓梯
 ################
 
 # General Items
-item.tconstruct.book.name=打鐵材料手冊
+item.tconstruct.book.name=匠魂材料手冊
 item.tconstruct.book.tooltip=每個鐵匠都必備的書\n作者 Skyla
 
 item.tconstruct.edible.bacon.name=培根
@@ -960,12 +960,12 @@ gui.general.temperature.celsius=%s°C
 gui.general.temperature.kelvin=%sK
 
 # Creative Tabs
-itemGroup.TinkerGeneral=打鐵物品
-itemGroup.TinkerTools=打鐵工具
-itemGroup.TinkerToolParts=打鐵部件
-itemGroup.TinkerSmeltery=打鐵冶煉爐
-itemGroup.TinkerWorld=打鐵自然界
-itemGroup.TinkerGadgets=打鐵小物
+itemGroup.TinkerGeneral=匠魂物品
+itemGroup.TinkerTools=匠魂工具
+itemGroup.TinkerToolParts=匠魂部件
+itemGroup.TinkerSmeltery=匠魂冶煉爐
+itemGroup.TinkerWorld=匠魂自然界
+itemGroup.TinkerGadgets=匠魂小物
 
 # Crafting Station
 gui.craftingstation.name=合成工作站
