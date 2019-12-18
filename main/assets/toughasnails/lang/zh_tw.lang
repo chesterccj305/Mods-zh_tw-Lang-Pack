@@ -1,0 +1,76 @@
+commands.toughasnails.usage=/toughasnails <tempinfo|settemp> [參數]
+commands.toughasnails.settemp.success=已將玩家體溫設定為 %s
+commands.toughasnails.settemp.disabled=體溫系統當前已禁用！
+
+itemGroup.tabToughAsNails=意志堅定
+
+fluid.purified_water=淨化水
+
+tile.campfire.name=營火
+tile.rain_collector.name=雨水收集器
+tile.temperature_coil.cooling_coil.name=室內冷卻管
+tile.temperature_coil.heating_coil.name=室內增溫管
+
+item.air_filter.name=空氣過濾器
+item.bottle_of_blackdamp.name=瓶裝窒息瓦斯
+item.bottle_of_whitedamp.name=瓶裝一氧化碳
+item.bottle_of_firedamp.name=瓶裝沼氣
+item.bottle_of_stinkdamp.name=瓶裝硫化氫
+item.canteen.name=水壺
+item.charcoal_filter.name=活性碳過濾器
+item.purified_water_bottle.name=淨水水瓶
+item.ice_cube.name=碎冰塊
+item.jelled_slime.name=凍狀冷膠
+item.jelled_slime_helmet.name=冷膠頭盔
+item.jelled_slime_chestplate.name=冷膠胸甲
+item.jelled_slime_leggings.name=冷膠護腿
+item.jelled_slime_boots.name=冷膠靴子
+item.juice_apple.name=蘋果汁
+item.juice_beetroot.name=甜菜汁
+item.juice_cactus.name=仙人掌汁
+item.juice_carrot.name=胡蘿蔔汁
+item.juice_chorus_fruit.name=歌萊果汁
+item.juice_glistering_melon.name=鑲金西瓜汁
+item.juice_golden_apple.name=金蘋果汁
+item.juice_golden_carrot.name=金蘿蔔汁
+item.juice_melon.name=西瓜汁
+item.juice_pumpkin.name=南瓜汁
+item.magma_shard.name=岩漿碎片
+item.respirator.name=口罩
+item.thermometer.name=溫度計
+item.wool_helmet.name=羊毛兜帽
+item.wool_chestplate.name=羊毛夾克
+item.wool_leggings.name=羊毛長褲
+item.wool_boots.name=羊毛長靴
+
+potion.hypothermia=寒凍
+potion.hyperthermia=過熱
+potion.thirst=口渴
+potion.cold_resistance=寒冷抗性
+potion.heat_resistance=炎熱抗性
+potion.hydration=解渴
+
+potion.effect.cold_resistance_type=寒冷抗性藥水
+potion.effect.long_cold_resistance_type=嚴寒抗性藥水
+potion.effect.heat_resistance_type=炎熱抗性藥水
+potion.effect.long_heat_resistance_type=酷熱抗性藥水
+
+splash_potion.effect.cold_resistance_type=飛濺 寒冷抗性藥水
+splash_potion.effect.long_cold_resistance_type=飛濺 嚴寒抗性藥水
+splash_potion.effect.heat_resistance_type=飛濺 炎熱抗性藥水
+splash_potion.effect.long_heat_resistance_type=飛濺 酷熱抗性藥水
+
+lingering_potion.effect.cold_resistance_type=滯留 寒冷抗性藥水
+lingering_potion.effect.long_cold_resistance_type=滯留 嚴寒抗性藥水
+lingering_potion.effect.heat_resistance_type=滯留 炎熱抗性藥水
+lingering_potion.effect.long_heat_resistance_type=滯留 酷熱抗性藥水
+
+tipped_arrow.effect.cold_resistance_type=寒冷抗性之箭
+tipped_arrow.effect.long_cold_resistance_type=嚴寒抗性之箭
+tipped_arrow.effect.heat_resistance_type=炎熱抗性之箭
+tipped_arrow.effect.long_heat_resistance_type=酷熱抗性之箭
+
+enchantment.warming=溫暖
+enchantment.cooling=涼爽
+enchantment.toughasnails.warming.desc=如羊毛套裝一般增加體溫
+enchantment.toughasnails.cooling.desc=如冷膠裝甲一般降低體溫
