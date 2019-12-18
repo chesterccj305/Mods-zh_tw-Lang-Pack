@@ -1,0 +1,12 @@
+tile.simplecorn.corn.name=玉米
+tile.simplecorn.corn_mid.name=玉米
+tile.simplecorn.corn_top.name=玉米
+item.simplecorn.corncob.name=玉米穗
+item.simplecorn.roastedcorn.name=烤玉米
+item.simplecorn.cornchowder.name=玉米濃湯
+item.simplecorn.chickencornchowder.name=雞肉玉米濃湯
+item.simplecorn.kernels.name=玉米粒
+item.simplecorn.poppedcorn.name=爆米花
+item.simplecorn.popfirework.name=玉米煙花
+simplecorn.advancements.husbandry.plant_corn.description=種植一些玉米並觀察其生長
+simplecorn.advancements.husbandry.plant_corn.title=冷笑話
