@@ -1,0 +1,12 @@
+key.toggleLiquids=液體資訊顯示開關
+key.toggleVisible=訊息顯示開關
+key.categories.theoneprobe=檢測器
+item.theoneprobe.probe.name=檢測器
+item.theoneprobe.probe_goggles.name=檢測器（擺設）
+item.theoneprobe.diamond_helmet_probe.name=裝有檢測器的鑽石頭盔
+item.theoneprobe.gold_helmet_probe.name=裝有檢測器的金頭盔
+item.theoneprobe.iron_helmet_probe.name=裝有檢測器的鐵頭盔
+item.theoneprobe.creativeprobe.name=創造模式下的檢測器
+item.theoneprobe.probenote.name=檢測器筆記
+
+itemGroup.Probe=一個探針
