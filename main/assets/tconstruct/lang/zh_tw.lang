@@ -1053,3 +1053,41 @@ option.tconstruct.progress=製作進度
 # Config
 config.synced.restart=你的設定檔已被更新以符合伺服器, 請重新開啟 Minecraft。
 config.synced.ok=設定檔已經與伺服器同步。
+
+#以下為SimpleTcon模組新增
+material.stconmythril.name=秘銀
+material.stconadamantium.name=精金
+material.stcononyx.name=犒瑪瑙
+material.stconthyrium.name=鍪銀
+material.stconsinisite.name=逆銀
+material.stconfyrite.name=鳳凰岩
+material.stconmalachite.name=孔雀石
+material.stconashstone.name=火山灰石
+material.stconillumenite.name=鈣鋁石
+material.stcondragonstone.name=龍石
+material.stconargonite.name=紫荊
+material.stconcinderstone.name=煤渣石
+material.stconthraka.name=塔卡石
+material.stconpyralis.name=飛蛾石
+material.stcondragonbezoar.name=龍丸石
+
+
+modifier.modifiable.name=修正
+modifier.modifiable.desc=§o修正§r\n這將允許更多修改器。
+modifier.magical.name=魔術
+modifier.magical.desc=§o您會感到力量§r\n這一定是某種魔術。
+modifier.durable.name=耐用
+modifier.durable.desc=§o強...§r\n您的工具使用的耗損降低。
+modifier.dwarvish.name=矮人
+modifier.dwarvish.desc=§o偉大的鍛造!§r\n對地獄生物造成額外傷害。
+modifier.dwarvish.extra=對地獄生物 +%s
+modifier.fieryt.name=火熱
+modifier.fieryt.desc=§o現在太熱了！§r\n擁有火焰傷害，使敵人著火。
+modifier.fieryt.extra=火焰傷害 +%s
+modifier.fieryt.extra2=持繼時間: %ss
+modifier.blinding.name=致盲
+modifier.blinding.desc=§o好亮！§r\n使敵人蒙上陰影。
+modifier.slowing.name=減速
+modifier.slowing.desc=§o無法移動！§r\n減速敵人。
+modifier.illuminating.name=照明
+modifier.illuminating.desc=§o我可以看到！§r\n給予攻擊者夜視能力。
