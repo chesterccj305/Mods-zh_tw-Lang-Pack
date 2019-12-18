@@ -1,0 +1,11 @@
+{
+  "title": "合金儲罐",
+  "image": {
+    "file": "tcomplement:textures/gui/book/alloy_tank.png"
+  },
+  "text": [
+    {
+      "text": "合金儲罐從相鄰的罐中抽出液體並過濾以製成合金。"
+    }
+  ]
+}
