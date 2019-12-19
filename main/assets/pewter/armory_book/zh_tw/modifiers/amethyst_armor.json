@@ -1,0 +1,17 @@
+{
+    "armormodifier": "amethyst_armor",
+    "demoArmor": [
+        "conarm:helmet",
+        "conarm:chestplate",
+        "conarm:leggings",
+        "conarm:boots"
+    ],
+    "effects": [
+        "部分提升裝甲耐久性和防禦"
+    ],
+    "text": [
+        {
+            "text": "這種紫色寶石實際上是各種各樣的石英，其部分顏色來自輻射。它非常堅硬，因此非常耐用。\n"
+        }
+    ]
+}
