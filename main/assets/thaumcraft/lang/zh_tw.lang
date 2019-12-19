@@ -94,7 +94,7 @@ item.chunk.mutton.name=羊肉塊
 item.brain.name=殭屍腦袋
 item.triple_meat_treat.name=三層肉饌
 item.phial.empty.name=玻璃管型瓶
-item.phial.filled.name=源質管型瓶
+item.phial.filled.name=%s 源質管型瓶
 item.label.blank.name=空白標籤
 item.label.filled.name=標記標籤
 item.jar_brace.name=黃銅蓋箍
@@ -1002,7 +1002,7 @@ card.truth.text=你拼命試圖找出異象背後的真相，以及它對世界�
 thaumcraft.config.graphics=圖形設定
 thaumcraft.config.world=世界設定
 thaumcraft.config.misc=雜項設定
-itemGroup.thaumcraft=Thaumcraft
+itemGroup.thaumcraft=秘術時代
 #
 got.crystals=當你在蒐集水晶時手指感到了異樣的刺痛。這意味著什麼呢？或許稍作歇息可以得到答案。
 got.dream=你從一個奇怪的夢中醒來。你急忙在忘卻之前將它記錄下來。 
@@ -1196,7 +1196,7 @@ research.CrimsonCultist.title=緋色崇拜
 research.CrimsonCultist.stage.1=最近出現了一群紅袍的邪教徒。他們似乎不願意與我對話，所以我無法得知他們的目的。不僅如此，這些傢伙相當...不對勁。他們的理智似乎趨於斷線，而他們犯下的錯更勝於此。我很難跟你解釋。 <BR>我的存在似乎惹毛了他們，我相信應該是因為我擁有秘術的才能。 <BR>它們的僧侶雖然有汲取靈氣施放魔法的能力，但那些魔法似乎不是秘術。不論那是什麼都使我感到毛骨悚然，每當他們汲取靈氣時我都能感受到靈氣被拉扯、撕裂。 <BR>某些信徒似乎帶著一本書。我覺得我該想辦法弄來一本，或許那能讓我對這詭異的宗教有所瞭解。我必須保持謹慎，有些知識會帶來危險。
 #
 research.CrimsonRites.title=緋紅教儀
-research.CrimsonRites.stage.1=我應該找到崇拜者稱為緋紅聖經並進行研究。
+research.CrimsonRites.stage.1=我應該找到崇拜者稱為緋紅教儀並進行研究。
 research.CrimsonRites.stage.2=書上大多是些扭曲、難以理解的潦草手稿，但我從可理解的部分中對緋色崇拜的目的有了一些奇怪的推測。 <BR>雖然他們的起源籠罩著神秘的面紗，但是他們的目標似乎是完成一個稱為「Apertis Oculis」——開眼 的儀式。雖然其作用尚未明瞭，但我能肯定這一定有什麼好處。 <BR>有趣的是，我認為秘術或許能提供他們長久以來遺失的部分。顯然只有瘋子才會試圖踏入這項研究...
 #
 research.TaintCrawler.stage.1=這些噁心的蛆蟲不管爬到哪都不停地散佈腐蝕液。一般而言這些腐蝕現象在離源頭太遠的地方很快就會消退，然而也有機會導致腐蝕漫延得更快。 <BR>最好在發現的當下立即撲滅。
@@ -1405,7 +1405,7 @@ research.BASEINFUSION.title=基礎注魔
 research.BASEINFUSION.stage.1=我準備好要製作賦予魔力的物品與工具了。 <LINE>我畫了一些旗幟的設計圖來裝飾自己的實驗室。我可以將瓶中的源質倒在旗幟上來讓旗子顯示出源質的要素圖案。
 #
 research.INFUSION.title=注魔
-research.INFUSION.stage.1=奧術工法與煉金術目前只能走到這一步。我需要其他更好的方法才能製造出真正強大的神祕物件。 <BR>你相信應該能用更直接的方式將源質注入物件中。你能做到，舉例而言，將 §6Aer§0 魔素和羽毛注入石頭中可以產生一顆非常輕巧的石頭。 <BR>至少，這是我的理論。
+research.INFUSION.stage.1=奧術工法與煉金術目前只能走到這一步。我需要其他更好的方法才能製造出真正強大的神祕物件。 <BR>你相信應該能用更直接的方式將源質注入物件中。你能做到，舉例而言，將 §6風§0 魔素和羽毛注入石頭中可以產生一顆非常輕巧的石頭。 <BR>至少，這是我的理論。
 research.INFUSION.stage.2=不出所料，注魔製程已證實比我預期中更加複雜。單純試著將要素注入其他物體是行不通的。我需要利用一個相對複雜的系統來穩定整個處理過程。我畫下了一組盧恩方陣的草稿來讓我達成目的。
 research.INFUSION.stage.3=為了開始進行注魔製程，我需要以下這些東西： 盧恩方陣（這我已經有了）、奧術基座以及供應魔力的源質。 <BR>只要將盧恩方陣正確置入一個稱為注魔祭壇的結構，就能開始進行製作了。跟其他神秘的裝置一樣，祭壇也需要利用世界鹽來製作。設立好注魔樁後就能用施術工具來啟動盧恩方陣。 <BR>位於中央，方陣下的基座用來擺放你要注魔的目標物。你還需要在祭壇周圍放置更多的基座，用來擺放你要用來注入目標物的方塊與物品。最後，你會需要封罐或是其他用來裝載源質的容器，用來提供所需的魔素。 <BR>全部都蒐集好後就能用施術工具輕觸盧恩方陣來開始注魔製程。 <BR>合成的第一階段會先從周遭的來源中汲取源質。如果合成因為源質不足而停滯——會發生你不希望發生的事，後面會加以詳述。 <BR>當所需的源質都注入目標物件後，會開始徹底汲取其他物件的本質。當這步驟結束後注魔製程才算完成。 <LINE>注魔製程始終伴隨著風險。整個過程涉及將大量的能量強制擠進單一的物件中。往往會發生難以預料的狀況。 <BR>常見的狀況包含注魔材料被撞離基座，或是產生咒波，而更多的災難性事故也是時有所聞。 <BR>合成期間未解決的問題拖得愈久，例如源質匱乏或是材料掉落，發生事故的機會也會愈高。 <BR>可以透過一些手法來減少這些現象。首先，你希望整個注魔結構盡可能得對稱——留意基座擺放的位置，確保和祭壇另一側的其他基座維持平衡。你希望放置注魔材料時也能盡量得保持平衡。最後，你也可以在祭壇周圍均衡地放置一些超自然魔術的象徵物品（像是蠟燭、頭顱之類的物品）。這有助於降低不穩定性。 <IMG>thaumcraft:textures/research/research5.png:128:0:128:136:1</IMG>
 #
@@ -1749,7 +1749,7 @@ research.SEALUSE.title=控制印記：使用
 research.SEALUSE.stage.1=I should be able to design a seal that allows golems to interact with the world in more complex ways than simply carrying items around or attacking things. There are many objects that require manual operation and maybe I can have golems do that for me.
 research.SEALUSE.stage.2=This seal allows a golem to act like a player and left or right click on the block that you have marked.<BR>It can also click with any items it happens to be holding or specific items you have filtered.<BR>The seal will remain even if the block you placed it on is removed, allowing the seal to target empty air if you wish.<BR>If a whitelist item is specified you can also request it to be §5provisioned§0.
 #
-research.SEALSTOCK.title控制印記：堆疊
+research.SEALSTOCK.title=控制印記：堆疊
 research.SEALSTOCK.stage.1=I need a seal that will allow me to keep a minimum number of items stocked in a container at all times.
 research.SEALSTOCK.stage.2=This seal is similar to the store seal, except it keeps a certain number of items stocked inside its container at all times. The seal only insures that a minimum number of items are kept in stock - it will not prevent overstocking should it occur by other means.<BR>This seal requires provider seals to know where to get the items.
 #
