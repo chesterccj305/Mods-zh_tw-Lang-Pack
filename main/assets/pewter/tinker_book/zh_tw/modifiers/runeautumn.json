@@ -1,0 +1,18 @@
+﻿{
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:broadsword",
+        "tconstruct:arrow"
+    ],
+    "effects": [
+        "每個符文都會增加從工具使用中獲得的Mana",
+        "只能應用於Mana採掘工具",
+        "多個等级"
+    ],
+    "modifier": "runeautumn",
+    "text": [
+        {
+            "text": "通過Mana採掘為一個工具添加秋之符文，你可以增加每次擊殺所獲得的Mana值。"
+        }
+    ]
+}

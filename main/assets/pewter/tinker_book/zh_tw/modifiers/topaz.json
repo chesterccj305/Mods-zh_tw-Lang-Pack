@@ -1,0 +1,17 @@
+﻿{
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:broadsword",
+        "tconstruct:arrow"
+    ],
+    "effects": [
+        "大大提高了工具的耐久",
+        "適度提高攻擊速度"
+    ],
+    "modifier": "topaz",
+    "text": [
+        {
+            "text": "這種深橙色礦物質是世界上最硬的天然寶石之一，它也是最硬的天然矽酸鹽礦物。\n"
+        }
+    ]
+}

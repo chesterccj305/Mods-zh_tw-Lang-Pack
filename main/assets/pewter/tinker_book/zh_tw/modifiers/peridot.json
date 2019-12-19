@@ -1,0 +1,18 @@
+﻿{
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:broadsword",
+        "tconstruct:arrow"
+    ],
+    "effects": [
+        "適度提升工具耐久",
+        "攻擊速度略有提高",
+        "讓人聯想到青蘋果"
+    ],
+    "modifier": "peridot",
+    "text": [
+        {
+            "text": "經常被誤認為是祖母綠，它們應該是少數天然綠色寶石中的一種，象徵著海爾的眼淚，火山女神。\n"
+        }
+    ]
+}
