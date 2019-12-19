@@ -1,0 +1,19 @@
+﻿{
+    "armormodifier": "dragonstone_armor",
+    "demoArmor": [
+        "conarm:helmet",
+        "conarm:chestplate",
+        "conarm:leggings",
+        "conarm:boots"
+    ],
+    "effects": [
+        "基於Botania材料數量的額外耐久",
+        "一次性使用",
+        "很艷麗!"
+    ],
+    "text": [
+        {
+            "text": "將龍石添加到某些盔甲會使其獲得一些耐久。對於由能容納Mana的材料製成的盔甲，該效果會放大。"
+        }
+    ]
+}

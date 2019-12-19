@@ -1,0 +1,19 @@
+﻿{
+    "armormodifier": "runemana_armor",
+    "demoArmor": [
+        "conarm:helmet",
+        "conarm:chestplate",
+        "conarm:leggings",
+        "conarm:boots"
+    ],
+    "effects": [
+        "每個符文都會降低護甲的法力值",
+        "只能應用於Mana灌注裝備",
+        "多個等級"
+    ],
+    "text": [
+        {
+            "text": "通過在Mana灌注中添加一些魔力符文，你可以減少護甲用來修復自身消耗的Mana值。"
+        }
+    ]
+}
