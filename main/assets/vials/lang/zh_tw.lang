@@ -1,0 +1,8 @@
+itemGroup.vials=儲液瓶
+vials.CAPACITY=容積：%d mB
+item.vials.vial_16.name=小型儲液瓶
+item.vials.vial_144.name=標準儲液瓶
+item.vials.vial_288.name=大型儲液瓶
+item.vials.vial_432.name=極大儲液瓶
+item.vials.vial_576.name=巨型儲液瓶
+item.vials.vial_1296.name=瘋狂儲液瓶
