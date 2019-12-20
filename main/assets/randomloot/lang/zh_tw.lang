@@ -1,0 +1,9 @@
+item.axe.name=隨機之斧
+item.basic_case.name=基礎戰利品袋
+item.bow.name=弓
+item.golden_case.name=§6金色戰利品袋
+item.pickaxe.name=隨機之鎬
+item.shovel.name=隨機之鏟
+item.sword.name=隨機之劍
+item.titan_case.name=§d泰坦戰利品袋
+itemGroup.randomlootTab=戰利品生成器
