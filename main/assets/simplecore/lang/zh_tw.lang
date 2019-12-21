@@ -9,6 +9,6 @@ itemGroup.SimpleMachines=更多礦物_裝置
 
 # Blocks
 tile.test_furnace.name=測試熔爐
-tile.lit_test_furnace.name=測試熔爐(燒煉)
+tile.lit_test_furnace.name=測試熔爐(燃燒中)
 
 container.test_furnace=測試熔爐
