@@ -87,6 +87,7 @@ advancement.use_true_sight.desc=你使用了真視魔法
 advancement.use_true_sight.title=終於看清楚了
 advancement.use_unstable_intangibleness.desc=你使用了不穩定的無形石板
 advancement.use_unstable_intangibleness.title=生存，還是毀滅
+
 tombstone.command.exception.cap_null=無法獲取信息
 tombstone.command.exception.dead_entity=指令不能作用於死亡的實體
 tombstone.command.exception.denied_dimension=此維度中不允許使用該命令
