@@ -1,0 +1,87 @@
+{
+    "name": "破壞催化器",
+    "icon": "auraddons:block_disruption_catalyst",
+    "category": "using",
+    "advancement": "naturesaura:conversion_catalyst",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(l:collecting/altar)自然祭壇$()不止能$(aura)用來灌註物品，也能將物品破壞成更基本的元素。對於植物學家來說，這種技能在某些情況下是非常有用的，因為它可以提高效率，而在另一些情況下，它又非常方便。要使用$(item)破壞催化器$()，將其放在圍繞祭壇四個更低的$(item)苔石磚$()之一上方。"
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "text": "使用$(l:practices/tree_ritual)森林儀式$()合成$(item)破壞催化器$()。",
+            "recipe": "auraddons:recipe_disruption_catalyst"
+        },
+        {
+            "type": "auraddons:altar_special",
+            "text": "將$(item)石英塊$()破壞成碎片",
+            "recipe": "auraddons:recipe_quartz_disruption",
+            "suffix": ";chiseled;pillar"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "將$(item)沙礫$()過濾成$(item)燧石$()",
+            "recipe": "auraddons:recipe_gravel_disruption"
+        },
+        {
+            "type": "auraddons:altar_special",
+            "text": "將$(item)混凝土$()還原成粉末",
+            "recipe": "auraddons:recipe_concrete_disruption",
+            "suffix": "color"
+        },
+        {
+            "type": "auraddons:altar_special",
+            "text": "將$(item)原木$()轉換成$(item)木板$()",
+            "recipe": "auraddons:recipe_wood_disruption",
+            "suffix": "wood"
+        },
+        {
+            "type": "auraddons:altar_special",
+            "text": "將$(item)砂巖$()還原成$(item)沙子$()",
+            "recipe": "auraddons:recipe_sandstone_disruption",
+            "suffix": ";chiseled;smooth;red;red_chiseled;red_smooth"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "將$(item)熒石$()破壞成$(item)熒石粉$()",
+            "recipe": "auraddons:recipe_glowstone_disruption"
+        },
+        {
+            "type": "auraddons:altar_special",
+            "text": "將$(item)梯子$()還原成$(item)木棍$()",
+            "recipe": "auraddons:recipe_ladder_disruption",
+            "suffix": ";ancient"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "從$(item)面包$()中提取$(item)小麥$()",
+            "recipe": "auraddons:recipe_bread_disruption"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "從$(item)甘蔗$()提取$(item)糖$()，而且產量更多",
+            "recipe": "auraddons:recipe_sugar_cane_disruption"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "將$(item)西瓜方塊$()打碎成$(item)西瓜$()",
+            "recipe": "auraddons:recipe_melon_disruption"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "移出$(item)唱片機$()裏的$(item)鉆石$()",
+            "recipe": "auraddons:recipe_jukebox_disruption"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "移出$(item)末影箱子$()裏的$(item)末影之眼$()",
+            "recipe": "auraddons:recipe_ender_chest_disruption"
+        },
+        {
+            "type": "naturesaura:altar",
+            "text": "移出$(item)信標$()裏的$(item)下界之星$()",
+            "recipe": "auraddons:recipe_beacon_disruption"
+        }
+    ]
+}
