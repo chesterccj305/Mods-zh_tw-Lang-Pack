@@ -1,0 +1,17 @@
+{
+  "name": "活性食品",
+  "icon": "minecraft:bread",
+  "category": "compounds_category",
+  "pages": [
+    {
+      "type": "text",
+      "title": "活性食品",
+      "text": "任何食物都可以與活性化合物合成使其帶有該種活性化合物的特殊效果。"
+    },
+    {
+      "type": "text",
+      "title": "更加有趣",
+      "text": "當你想整蠱你的好友時，你可以通過八個氯化鈉圍著活性食品一圈的合成方式合成以掩蓋活性化合物味道。"
+    }
+  ]
+}
