@@ -1,0 +1,15 @@
+{
+  "name": "液化器簡介",
+  "icon": "alchemistry:liquifier",
+  "category": "liquifier_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "液體化器是一種需要消耗FE能量的機器，它可以讓元素和化合物組成一些流體"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:liquifier"
+    }
+  ]
+}
