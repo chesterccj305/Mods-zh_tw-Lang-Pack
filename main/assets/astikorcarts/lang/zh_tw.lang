@@ -1,0 +1,11 @@
+item.astikorcarts:cargocart.name=貨車
+item.astikorcarts:plowcart.name=犁
+item.astikorcarts:mobcart.name=運輸貨車
+item.astikorcarts:wheel.name=車輪
+entity.astikorcarts:cargocart.name=貨車
+entity.astikorcarts:plowcart.name=犁
+entity.astikorcarts:mobcart.name=運輸貨車
+itemGroup.astikorcarts=馬拉貨車
+key.categories.astikorcarts=馬拉貨車
+key.astikorcarts.desc=連接鍵
+config.astikorcarts:speedmodifier=速度倍率
