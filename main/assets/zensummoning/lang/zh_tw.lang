@@ -1,0 +1,9 @@
+tile.altar.name=召喚祭壇
+chat.zensummoning.success=祭壇發出悅耳的嗡嗡聲。
+chat.zensummoning.busy=祭壇很忙。
+chat.zensummoning.no_match=祭壇不知道你想要什麽。
+chat.zensummoning.unsatisfied=祭壇不滿意。
+jei.zensummoning.recipe.altar=召喚祭壇
+jei.zensummoning.recipe.altar.entity=%1$dx%2$s
+jei.zensummoning.catalyst.lore=將其他需要的物品都放入祭壇之後，手持這個物品Shift右擊祭壇開始召喚。
+itemGroup.zensummoning=禪：召喚
