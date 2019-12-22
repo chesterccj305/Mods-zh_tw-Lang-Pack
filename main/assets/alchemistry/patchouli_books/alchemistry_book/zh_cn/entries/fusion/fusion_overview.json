@@ -1,0 +1,20 @@
+{
+  "name": "聚變倉簡介",
+  "icon": "alchemistry:fusion_controller",
+  "category": "fusion_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "聚變倉可以使兩種元素變為原子序數之和等於該兩種元素的元素。 舉例: 鐵 (26) + 磷 (15) -> 鈮 (41)"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:fusion_controller",
+      "recipe2": "alchemistry:fusion_core"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:fusion_casing"
+    }
+  ]
+}
