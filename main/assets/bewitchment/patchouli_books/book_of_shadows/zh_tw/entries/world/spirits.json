@@ -1,0 +1,25 @@
+{
+  "name": "幽靈",
+  "category": "world",
+  "icon": "bewitchment:spectral_dust",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "物質世界經常被超自然的事物所拜訪，它們要麽充當守護者和保護者，要麽在某些情況下帶有惡意地造成破壞。不管它們的性質如何，冷鐵都是對付他們的實際工具。"
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "黑狗",
+	  "text": "黑狗像一個巨大的影子犬，並以騷擾村鎮、折磨住在那裏的人而被熟知。如果受到攻擊，黑狗可能會變得不可見，只有眼睛的光芒可見。"
+	},
+	{
+	  "type": "entity",
+	  "entity": "bewitchment:black_dog",
+	  "scale": 0.5
+	}
+  ]
+}
