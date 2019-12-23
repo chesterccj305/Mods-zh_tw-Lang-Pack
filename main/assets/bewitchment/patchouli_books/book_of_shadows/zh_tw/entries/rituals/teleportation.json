@@ -1,0 +1,15 @@
+{
+  "name": "傳送",
+  "category": "rituals",
+  "icon": "bewitchment:waystone",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "將圍繞在字符中央一個小半徑範圍內的所有實體傳送到道標石的定位位置或者一個實體的位置，具體取決於所使用的材料。只有在目標和儀式處於同一維度時才會工作。"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:teleport"
+	}
+  ]
+}
