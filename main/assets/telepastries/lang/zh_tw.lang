@@ -1,0 +1,16 @@
+# Config
+telepastries.config.title=傳送糕點模組配置
+# Creative Tab
+itemGroup.telepastries=傳送糕點
+# Block
+tile.telepastries:nether_cake.name=下界蛋糕
+tile.telepastries:end_cake.name=末地蛋糕
+tile.telepastries:overworld_cake.name=主世界蛋糕
+tile.telepastries:twilight_cake.name=暮色蛋糕
+tile.telepastries:lost_city_cake.name=失落的城市蛋糕
+tile.telepastries:hunting_dimension_cake.name=狩獵維度蛋糕
+# Waila
+telepastries.bites.name=咬過的蛋糕
+# Message
+telepastries.pastry.reset.complete=維度 %s 的保存位置已重置。
+telepastries.pastry.reset.failed=維度 %s 沒有保存的位置。
