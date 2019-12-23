@@ -1,0 +1,46 @@
+#Enchantment Tooltip
+#Ender Core
+#Extra Utilities 2
+#Random Things
+#Vanilla Enchantment Descriptions
+enchantment.endercore.autosmelt.desc=挖掘的物品將以它們燒制後的狀態掉落。
+enchantment.endercore.xpboost.desc=生物死亡時掉落更多經驗值。
+enchantment.extrautils2.xu.bladerang.desc=提高回旋鏢的傷害值。
+enchantment.extrautils2.xu.burnerang.desc=回旋鏢造成火焰傷害。
+enchantment.extrautils2.xu.kaboomerang.desc=回旋鏢能打破或收獲方塊。
+enchantment.extrautils2.xu.zoomerang.desc=回旋鏢移動更快。
+enchantment.minecraft.aqua_affinity.desc=加快水下挖掘速度。
+enchantment.minecraft.bane_of_arthropods.desc=對節肢生物造成額外傷害（如蜘蛛、洞穴蜘蛛、蠹蟲和末影蟎） 。
+enchantment.minecraft.binding_curse.desc=避免已被附魔的物品從護甲欄移除。
+enchantment.minecraft.blast_protection.desc=減少爆炸傷害，也會降低爆炸產生的（等級*15）%的擊退效果。
+enchantment.minecraft.depth_strider.desc=加快水下行走速度。
+enchantment.minecraft.efficiency.desc=提高工具的挖掘速度。
+enchantment.minecraft.feather_falling.desc=減少摔落傷害和來源於末影珍珠的傳送傷害。
+enchantment.minecraft.fire_aspect.desc=使攻擊目標著火。
+enchantment.minecraft.fire_protection.desc=減少火焰傷害，也會減少著火時（等級×15）%的燃燒時間。
+enchantment.minecraft.flame.desc=點燃被弓箭攻擊的目標。
+enchantment.minecraft.fortune.desc=增加方塊的掉落（比如鉆石和煤炭）。
+enchantment.minecraft.frost_walker.desc=在水上行走時會產生霜冰。
+enchantment.minecraft.infinity.desc=射箭不會消耗箭矢（但是要保證物品欄內至少有一根箭）。
+enchantment.minecraft.knockback.desc=增加擊退的距離。
+enchantment.minecraft.looting.desc=生物死亡時能掉落更多物品。
+enchantment.minecraft.luck_of_the_sea.desc=降低釣到垃圾的幾率。
+enchantment.minecraft.lure.desc=減少釣魚的等待時間。
+enchantment.minecraft.mending.desc=用經驗來修補工具和護甲的耐久值。
+enchantment.minecraft.power.desc=增加弓箭造成的傷害。
+enchantment.minecraft.projectile_protection.desc=減少來源於彈射物的傷害（包括來源於箭、火球等傷害）。
+enchantment.minecraft.protection.desc=減少大多數傷害
+enchantment.minecraft.punch.desc=增加弓箭擊退的距離。
+enchantment.minecraft.respiration.desc=延長水下呼吸時間，增強水下視覺效果。
+enchantment.minecraft.sharpness.desc=增加物品的傷害值。
+enchantment.minecraft.silk_touch.desc=被挖掘的方塊會掉落它們的本體而不是應該掉落的物品。
+enchantment.minecraft.smite.desc=對亡靈生物造成額外傷害（如僵屍、僵屍豬人、骷髏、雕靈骷髏和雕靈）。
+enchantment.minecraft.sweeping.desc=增加橫掃攻擊的威力。
+enchantment.minecraft.thorns.desc=給予攻擊者傷害。
+enchantment.minecraft.unbreaking.desc=減緩工具的耐久消耗速率。
+enchantment.minecraft.vanishing_curse.desc=如果你帶著附魔物品死掉，該物品會被銷毀。
+enchantment.randomthings.magnetic.desc=擁有磁性附魔的工具，挖掘出的掉落物將直接進入你的物品欄，而不是落在地上。
+tooltip.enchdesc.activate=按下%s%s%s查看附魔描述。
+tooltip.enchdesc.addedby=添加者
+tooltip.enchdesc.missing=找不到描述文件。請尋求%s的作者添加一個描述文件。本地化的key是%s
+tooltip.enchdesc.name=附魔
