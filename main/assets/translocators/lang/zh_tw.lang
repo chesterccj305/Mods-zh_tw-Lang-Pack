@@ -1,0 +1,7 @@
+item.translocators.part_fluid.name=液體轉運器
+item.translocators.part_item.name=物品轉運器
+item.translocators:diamond_nugget.name=鑽石粒
+key.craftingGrid=合成格
+tile.craftingGrid.name=合成格
+translocators.filter=過濾
+translocators.regulate=調控
