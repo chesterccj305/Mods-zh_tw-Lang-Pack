@@ -1,0 +1,87 @@
+{
+  "name": "礦物",
+  "category": "world",
+  "icon": "bewitchment:amethyst",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "無機礦物質，從寶石到石頭再到金屬，在巫術學中也是同樣重要的。"
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "貝殼灰巖",
+	  "text": "一種發現在海灘上的沈積巖，這種石頭和海洋有一種強力的聯系，事實上，它本身就是由海洋中的甲殼類動物遺骸所組成。"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/coquina.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "text",
+	  "title": "紫水晶",
+	  "text": "一種非常受歡迎的紫色水晶體，它被用來輔助提高進攻性魔法的威力，一些人聲稱它可以影響健康積極性"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/amethyst.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "text",
+	  "title": "石榴石",
+	  "text": "一種深紫紅色寶石，這種寶石非常擅長防護邪惡魔法等諸如此類的魔法。具有防禦屬性。"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/garnet.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "text",
+	  "title": "蛋白石",
+	  "text": "一種以變彩效應或者“火”而聞名的白色的寶石，它可以變換出燦爛的流光，這取決於它被如何拿著。這種寶石能增幅支援類魔法，比如增強力量等"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/opal.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "text",
+	  "title": "鹽",
+	  "text": "在淺層地下發現的礦物，雖然看起來不顯然，但鹽可以用來防禦所有種類的超自然生物，勉強扮演著一道天然的屏障"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/salt.png"
+	  ],
+	  "border": true
+	},
+	{
+	  "type": "text",
+	  "title": "銀",
+	  "text": "一種光亮的金屬，僅伴生於金礦周圍。代表了純潔的月亮，銀是一種用於許多魔法設備的令人向往的金屬。它也被發現可以廣泛地應用於獵殺超自然生物，比如狼人，但是吸血鬼和其他亡靈生物也受它的影響"
+	},
+	{
+	  "type": "image",
+	  "images": [
+		"bewitchment:textures/gui/patchouli/silver.png"
+	  ],
+	  "border": true
+	}
+  ]
+}
