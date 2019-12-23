@@ -1,0 +1,15 @@
+{
+  "name": "伯萊恩新月小刀",
+  "category": "gear",
+  "icon": "bewitchment:boline",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "通常柄為白色的一把小鐮刀，它可以無傷害地從生物身上獲取物品，比如從烏鴉身上獲取羽毛，從羊身上獲取毛線等，同時也在許多偏自然向的儀式上發揮作用"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/tool/boline"
+	}
+  ]
+}
