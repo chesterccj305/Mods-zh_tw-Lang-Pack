@@ -1,0 +1,157 @@
+tile.workbench.name=工作台
+
+item.handgun.name=手槍
+item.shotgun.name=霰彈槍
+item.sniper_rifle.name=狙擊步槍
+item.grenade_launcher.name=榴彈發射器
+item.bazooka.name=巴祖卡火箭筒
+item.chain_gun.name=加特林機槍
+item.rifle.name=步槍
+item.assault_rifle.name=突擊步槍
+
+item.ammo_basic.name=基礎彈藥
+item.ammo_advanced.name=高級彈藥
+item.ammo_shell.name=霰彈
+item.ammo_grenade.name=手榴彈
+item.ammo_grenade_stun.name=閃光震撼彈
+item.ammo_missile.name=導彈
+
+item.scope_small.name=瞄準鏡（短）
+item.scope_medium.name=瞄準鏡（中）
+item.scope_long.name=瞄準鏡（長）
+item.silencer.name=消音器
+
+itemGroup.tabCGM=MrCrayfish 的槍
+
+death.attack.cgm.bullet.killed=%1$s 被 %2$s 大卸八塊。
+death.attack.cgm.grenade.eliminated=%1$s 被 %2$s 幹掉了。
+death.attack.cgm.bullet.executed=%1$s 被 %2$s 處決了。
+death.attack.cgm.bullet.annihilated=%1$s 被 %2$s 殲滅了。
+death.attack.cgm.bullet.decimated=%1$s 被 %2$s 打得灰飛煙滅。
+
+info.cgm.damage=傷害：%s
+info.cgm.ammo=彈藥：%s/%s
+info.cgm.ignore_ammo=無限彈藥
+
+config.cgm.title=MrCrayfish 的槍——配置
+
+config.cgm.client=客戶端
+
+config.cgm.client.tooltip=僅限客戶端的配置
+config.cgm.client.sounds=聲音
+config.cgm.client.sounds.tooltip=控制槍聲
+config.cgm.client.sounds.hit_sound=播放命中聲音
+config.cgm.client.sounds.hit_sound.tooltip=如果設為 true，當你成功地用槍擊中玩家時，會發出叮當聲。
+config.cgm.client.display=顯示
+config.cgm.client.display.tooltip=顯示相關選項的配置
+config.cgm.client.display.workbench_animation=工作台動畫
+config.cgm.client.display.workbench_animation.tooltip=如果設為 true，則在工作台中循環物品時執行動畫。
+
+config.cgm.server=服務器
+
+config.cgm.server.tooltip=僅限服務器的配置
+config.cgm.server.aggro=挑釁生物
+config.cgm.server.aggro.tooltip=附近的生物在聽到槍聲後會被激怒和/或受驚嚇。
+config.cgm.server.aggro.enabled=啟用挑釁生物
+config.cgm.server.aggro.enabled.tooltip=如果設為 true，附近的生物在聽到槍聲後會被激怒和/或受驚嚇。
+config.cgm.server.aggro.hostile=激怒敵對生物
+config.cgm.server.aggro.hostile.tooltip=如果設為 true，除了引起被動生物的恐慌外，開槍也會使附近的敵對生物以射擊者為目標。
+config.cgm.server.aggro.silenced=有消音器的範圍
+config.cgm.server.aggro.silenced.tooltip=在這個半徑範圍內的任何生物都會攻擊持有帶消音器的槍的射擊者。
+config.cgm.server.aggro.unsilenced=無消音器的範圍
+config.cgm.server.aggro.unsilenced.tooltip=在這個半徑範圍內的任何生物都會攻擊持有不帶消音器的槍的射擊者。
+config.cgm.server.aggro.exempt=豁免生物類
+config.cgm.server.aggro.exempt.tooltip=任何在這個名單中有類路徑的生物都不會攻擊射擊者。
+
+config.cgm.server.grenade.stun=閃光震撼彈
+config.cgm.server.grenade.stun.tooltip=閃光震撼彈的致盲/耳聾屬性。
+config.cgm.server.grenade.stun.blind=致盲
+config.cgm.server.grenade.stun.blind.tooltip=閃光震撼彈的致盲屬性。
+config.cgm.server.grenade.stun.deafen=耳聾
+config.cgm.server.grenade.stun.deafen.tooltip=閃光震撼彈的耳聾屬性。
+
+config.cgm.server.grenade.stun.effect_criteria.blind=效果條件
+config.cgm.server.grenade.stun.effect_criteria.blind.tooltip=確定存在/不存在和致盲效果持續時間的條件。
+config.cgm.server.grenade.stun.blind.overlay.alpha=覆蓋物 Alpha 值
+config.cgm.server.grenade.stun.blind.overlay.alpha.tooltip=在持續時間下降到這許多刻之後，致盲時覆蓋物的透明度將逐漸淡入到 0 alpha。
+config.cgm.server.grenade.stun.blind.overlay.fade=覆蓋物淡入閾值
+config.cgm.server.grenade.stun.blind.overlay.fade.tooltip=致盲時覆蓋物的透明度將是這個 alpha 值，最終淡入到 0 alpha。
+
+config.cgm.server.grenade.stun.effect_criteria.deafen=效果條件
+config.cgm.server.grenade.stun.effect_criteria.deafen.tooltip=確定存在/不存在和耳聾效果持續時間的條件。
+config.cgm.server.grenade.stun.deafen.sound.percentage=聲音百分比
+config.cgm.server.grenade.stun.deafen.sound.percentage.tooltip=大多數遊戲聲音的音量，當耳聾時，會在這個百分比，最後會淡入到100%。
+config.cgm.server.grenade.stun.deafen.sound.fade=聲音淡入閾值
+config.cgm.server.grenade.stun.deafen.sound.fade.tooltip=在持續時間下降到這許多刻之後，鈴聲音量將逐漸淡出到 0，其他音量將淡入到 100%。
+config.cgm.server.grenade.stun.deafen.sound.ring=鈴聲音量
+config.cgm.server.grenade.stun.deafen.sound.ring.tooltip=鈴聲的音量，當耳聾時，會在這個音量下播放，最後淡出到 0。
+
+config.cgm.server.grenade.stun.effect_criteria.radius=半徑
+config.cgm.server.grenade.stun.effect_criteria.radius.tooltip=手榴彈必須不超過這幾米遠才能產生效果。
+config.cgm.server.grenade.stun.effect_criteria.duration.max=最長持續時間
+config.cgm.server.grenade.stun.effect_criteria.duration.max.tooltip=如果手榴彈直接對著玩家的眼睛而直接看著它，效果將有這個持續時間（以刻為單位）。
+config.cgm.server.grenade.stun.effect_criteria.duration.min=最小持續時間（按距離）
+config.cgm.server.grenade.stun.effect_criteria.duration.min.tooltip=如果手榴彈是從玩家眼睛看的最大距離，效果將有這個持續時間（以刻為單位）。
+config.cgm.server.grenade.stun.effect_criteria.angle.effect=作用角度
+config.cgm.server.grenade.stun.effect_criteria.angle.effect.tooltip=眼睛/註視方向和眼睛/手榴彈方向之間的角度不得超過該角度的一半，以產生效果。
+config.cgm.server.grenade.stun.effect_criteria.angle.attenuation.max=最大角度衰減
+config.cgm.server.grenade.stun.effect_criteria.angle.attenuation.max.tooltip=在持續時間被距離衰減後，它將根據眼睛/註視方向和眼睛/手榴彈方向之間的角度（度）進一步衰減。如果角度為 0，則乘以 1（無衰減）；如果角度在效果角度內最大，則乘以該值。
+config.cgm.server.grenade.stun.effect_criteria.raytrace.opaque=光線跟蹤不透明方塊
+config.cgm.server.grenade.stun.effect_criteria.raytrace.opaque.tooltip=如果設為 true，則僅當眼睛和手榴彈之間的線與不透明度大於 0 的任何非液體方塊不相交時才應用效果。
+
+config.cgm.server.guns=槍
+config.cgm.server.guns.tooltip=修改槍的屬性。
+config.cgm.server.guns.pistol=手槍
+config.cgm.server.guns.pistol.tooltip=修改手槍的屬性。
+config.cgm.server.guns.shotgun=霰彈槍
+config.cgm.server.guns.shotgun.tooltip=修改霰彈槍的屬性。
+config.cgm.server.guns.rifle=步槍
+config.cgm.server.guns.rifle.tooltip=修改步槍的屬性。
+config.cgm.server.guns.grenade_launcher=榴彈發射器
+config.cgm.server.guns.grenade_launcher.tooltip=修改榴彈發射器的屬性。
+config.cgm.server.guns.bazooka=巴祖卡火箭筒
+config.cgm.server.guns.bazooka.tooltip=修改巴祖卡火箭筒的屬性。
+config.cgm.server.guns.chain_gun=加特林機槍
+config.cgm.server.guns.chain_gun.tooltip=修改加特林機槍的屬性。
+config.cgm.server.guns.assault_rifle=突擊步槍
+config.cgm.server.guns.assault_rifle.tooltip=修改突擊步槍的屬性。
+
+config.cgm.gun.general=常規
+config.cgm.gun.general.tooltip=修改槍的常規屬性。
+config.cgm.gun.general.max_ammo=最大彈藥
+config.cgm.gun.general.max_ammo.tooltip=這把槍能裝的最大彈藥量。
+config.cgm.gun.general.reload_speed=裝彈速度
+config.cgm.gun.general.reload_speed.tooltip=每次裝彈時裝入到槍上的子彈數量。
+
+config.cgm.gun.projectile=彈射物
+config.cgm.gun.projectile.tooltip=修改從槍發射的彈射物的屬性。
+config.cgm.gun.projectile.visible=可見
+config.cgm.gun.projectile.visible.tooltip=如果設為 true，將渲染彈射物。由於渲染問題，對快速彈射物禁用此選項。
+config.cgm.gun.projectile.damage=傷害
+config.cgm.gun.projectile.damage.tooltip=這把槍會造成的傷害，每個值相當於半個心。
+config.cgm.gun.projectile.size=大小
+config.cgm.gun.projectile.size.tooltip=彈射物大小。
+config.cgm.gun.projectile.speed=速度
+config.cgm.gun.projectile.speed.tooltip=彈射物速度。
+config.cgm.gun.projectile.life=生命
+config.cgm.gun.projectile.life.tooltip=在為世界移除彈射物之前的刻數。
+config.cgm.gun.projectile.gravity=重力
+config.cgm.gun.projectile.gravity.tooltip=如果設為 true，彈射物將受到重力的影響下落。
+config.cgm.gun.projectile.damage_fall_off=傷害衰減
+config.cgm.gun.projectile.damage_fall_off.tooltip=如果設為 true，目標離得越遠，槍的傷害就越小。
+config.cgm.gun.projectile.damage_reduce_zoomed=不縮放時減少傷害
+config.cgm.gun.projectile.damage_reduce_zoomed.tooltip=如果設為 true，在不縮放時槍的傷害會減少。
+
+key.categories.gun=MrCrayfish 的槍
+key.aim=瞄準
+key.reload=裝彈
+key.unload=取出彈藥
+
+effect.cgm.blinded=致盲
+effect.cgm.deafened=耳聾
+
+subtitle.cgm.stun.explosion=閃光震撼彈爆炸
+subtitle.cgm.stun.ring=鈴聲
+subtitle.cgm.fire=槍開火
+subtitle.cgm.fire.silenced=槍開火（有消音器）
+subtitle.cgm.reload=裝彈
