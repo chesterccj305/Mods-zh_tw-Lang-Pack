@@ -1,0 +1,49 @@
+{
+  "name": "女巫祭壇",
+  "category": "devices",
+  "icon": "bewitchment:stone_witches_altar",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "魔法能量，或者ME，存在於所有的生命形式中，從最小的幼苗到時間盡頭的巨龍。其他群體可能稱之為“Vis”或“Lifepoints”或“Magan”或類似的東西，但本質上它是生命和自然同樣的原始力量。當ME在植物和真菌中自由流動時，植物必須放在祭壇附近才能產生ME。"
+	},
+	{
+	  "type": "text",
+	  "text": "雖然ME也存在於動物中，但我們不能從動物身上駕馭它，因為它們的靈魂阻止ME離開它們的身體，直到靈魂離開動物。然而，某些動物(和人類)的遺骸引起了ME的共鳴，它們不足以被祭壇所駕馭，但足以在儀式中充當試劑。"
+	},
+	{
+	  "type": "text",
+	  "title": "祭壇",
+	  "text": "這是所有女巫的核心設備，祭壇可以將附近植物的力量轉化為其他設備可以使用的形式，大多數設備必須放在祭壇附近才能使用。祭壇可以由多種材料制成，從石頭到地磚，不一而足，最後還可以鋪上任何顏色的地毯。祭壇也可以用某些裝飾物品來增強。有關裝飾物品的信息可以在以下頁面中找到。"
+	},
+	{
+	  "type": "crafting",
+	  "title": "制造祭壇",
+	  "recipe": "bewitchment:stone_witches_altar"
+	},
+	{
+	  "type": "text",
+	  "title": "祭壇裝飾品",
+	  "text": "杯狀物提供了一個小的增加增益和乘數。包括高腳杯、瓶子和花盆。劍增加乘數。包括儀式刀, 伯萊恩新月小刀和其他刀片。魔杖可以提升祭壇的最大力量。包括火把、蠟燭和末地燭。五芒星增加收益。包括頭骨、寶石和五芒星。"
+	},
+	{
+	  "type": "multiblock",
+	  "name": "怎樣建造",
+	  "multiblock": {
+		"mapping": {
+		  "A": "bewitchment:stone_witches_altar[type=0]",
+		  "0": "bewitchment:stone_witches_altar[type=0]"
+		},
+		"pattern": [
+		  [
+			"AA",
+			"0A",
+			"AA"
+		  ]
+		]
+	  },
+	  "text": "祭壇周圍的方塊必須$(i)不能$()是其他的祭壇方塊"
+	}
+  ]
+}
