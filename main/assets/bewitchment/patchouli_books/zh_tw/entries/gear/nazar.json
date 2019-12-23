@@ -1,0 +1,15 @@
+{
+  "name": "納紮爾邪眼",
+  "category": "gear",
+  "icon": "bewitchment:nazar",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "一種眼睛狀的小飾品，用來保護穿戴者抵抗魔法傷害，也可以防止壞運氣近身"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/bauble/nazar"
+	}
+  ]
+}
