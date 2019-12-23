@@ -1,0 +1,349 @@
+{
+  "name": "女巫釡鍋",
+  "category": "devices",
+  "icon": "bewitchment:witches_cauldron",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "一半用於制造高級的釀造藥劑，而普通的的釀造台則無法制造。當然某些其他物品也可以投入釡鍋裏熬煮反應，來創造新的事物。釡鍋需要魔法能量，還需要一個熱源在釡鍋下方。在任何釀造階段，木灰都可以扔進釡鍋。"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:witches_cauldron"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:filled_goblet",
+	  "text": "當高腳杯盛滿了這種神器的混合物時，會為祭壇提供更多的能量，並且會引發紅石信號"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:embergrass",
+	  "text": "一種煉金術合成的植物，它釋放燃燒的灰燼來點燃試圖接觸它的事物，這種植物也會蔓延，用來做基地防禦很不錯。"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:torchwood",
+	  "text": "一種煉金術創造的植物，它從自身的木莖頂端的球狀鱗莖上發出亮光。當然跟普通植物相同，它也可以蔓延。"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:tallow",
+	  "text": "用死者熬制的脂肪，用於制作蠟燭等"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:slimeball",
+	  "text": "粘乎乎的."
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:iron_gall_ink",
+	  "text": "墨囊的人道主義替代物。有人認為這是重要的惡魔契約…"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:catechu_brown",
+	  "text": "一種木生的用來替代可可豆的棕色染料"
+	},
+	{
+	  "type": "bewitchment:cauldron_recipe",
+	  "recipe": "bewitchment:banner_pattern_removal",
+	  "text": "釡鍋的一個很平凡的用途是清洗被染料染色過的旗幟"
+	},
+	{
+	  "type": "text",
+	  "title": "Teleporting",
+	  "text": "通過站在釡鍋裏並向其中投入維度之沙，然後在聊天框中輸入名字，可以讓玩家傳送至其他已經被命名牌命名過的釡鍋。"
+	},
+	{
+	  "type": "text",
+	  "title": "Disposal",
+	  "text": "充滿熔巖的釡鍋會摧毀所有扔進去的物品，同樣，它會點燃任何站在釡鍋中的生物"
+	},
+	{
+	  "type": "text",
+	  "title": "Brews",
+	  "text": "為了防止釡鍋做無用的釀造，在投入所有其他試劑前，需要先投入曼陀羅根。之後，加入其他的試劑，添加的試劑越多，釀造出來的藥劑就越貴重，ME消耗也更加合理"
+	},
+	{
+	  "type": "text",
+	  "text": "投入紅石會增加釀造藥劑的持續時間，最高到一個固定值。投入螢石具有相同的效果，而一只烏鴉的羽毛會阻止藥劑發出粒子效果，投入火藥後會釀造出噴濺型的藥劑，而投入小貓頭鷹翅膀，就會變成滯留型藥劑。"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:instant_health",
+	  "text": "治療活體生物，如果是不死生物則造成傷害。"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:instant_damage",
+	  "text": "治療不死生物，如果是活體生物則造成傷害。"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:regeneration",
+	  "text": "給予活體生物再生效果，如果是其他生物，則無效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:poison",
+	  "text": "給予活體生物中毒效果，如果是其他生物，則無效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:wither",
+	  "text": "類似於中毒，但擁有殺死實體的能力，對不死生物同樣有效"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:night_vision",
+	  "text": "允許目標在暗處看清事物，古老之眼會額外給這支藥劑水下呼吸的效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:blindness",
+	  "text": "致盲目標，並防止目標沖刺"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:strength",
+	  "text": "強化目標的手臂，允許它們造成更多的近戰傷害"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:weakness",
+	  "text": "弱化目標的手臂，使它們造成更少的近戰傷害"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:resistance",
+	  "text": "韌化目標的皮膚，使目標受到的非魔法傷害降低"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:fire_resistance",
+	  "text": "給予目標火焰和巖漿的免疫效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:absorption",
+	  "text": "生命暫時提升"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:jump_boost",
+	  "text": "強化目標的腿部，使他們跳得更高"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:speed",
+	  "text": "強化目標的腿部，使他們跑的更快"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:slowness",
+	  "text": "弱化目標的腿部，使他們跑得更慢"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:haste",
+	  "text": "強化目標的手臂，使他們挖掘和揮砍更加快速"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:mining_fatigue",
+	  "text": "弱化目標的手臂，使他們挖掘和揮砍更加慢速"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:luck",
+	  "text": "讓目標有機會獲得更好的戰利品"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:unluck",
+	  "text": "讓目標獲得更好的戰利品的機會更小"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:water_breathing",
+	  "text": "使目標張出一副臨時的鰓，允許他們在水下進行呼吸，古老之眼會額外增添夜視的效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:invisibility",
+	  "text": "所有的光會穿透目標，使他們隱形，但並不適用於目標的護甲和手持物品……"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:hunger",
+	  "text": "使目標在下一頓飯這件事上思考的過多，2333"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:nausea",
+	  "text": "使目標頭昏眼花"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:glowing",
+	  "text": "使目標生長"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:levitation",
+	  "text": "使目標緩慢升空"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:absence",
+	  "text": "清除所有的藥劑效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:purification",
+	  "text": "清除所有的負面藥劑效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:corruption",
+	  "text": "清除所有的正面藥劑效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:magic_resistance",
+	  "text": "使目標受到更少的魔法傷害"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:magic_weakness",
+	  "text": "使目標受到更多的魔法傷害"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:hellworld",
+	  "text": "將周圍環境轉化為下界地形"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:iceworld",
+	  "text": "將周邊環境轉化為奇妙的冬季環境，並熄滅周圍地面和實體上的火焰，可能會招來一些永恒之冰，永恒之冰是一種不會融化的冰，可以像石磚一樣被制成憎惡方磚"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:rubedo",
+	  "text": "將沙子和染色方塊轉換為紅色"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:citrinitas",
+	  "text": "將紅磚和染色方塊轉換為黃色"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:desertification",
+	  "text": "將植物和一些其他事物轉化為沙漠變種"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:fertility",
+	  "text": "使植物生長，使動物繁殖"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:harvest",
+	  "text": "立即收獲並重新種植，也可以使葉子掉落蘋果，使南瓜結果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:spore_cloud",
+	  "text": "催生蘑菇、菌絲、蕨類植物和青苔，我希望你對這並不過敏……"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:blight",
+	  "text": "殺死植物和農作物，也可以使生物進入虛弱狀態"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:ruin",
+	  "text": "使一些方塊腐爛或者破碎"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:pesticide",
+	  "text": "對節肢動物造成傷害"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:arachnophobia",
+	  "text": "用蜘蛛網包裹目標，並召喚饑餓的蜘蛛來攻擊他們"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:mending",
+	  "text": "將泥土和菌絲方塊轉化為草方塊，並治愈僵屍村民"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:holy_water",
+	  "text": "僅次於神聖手雷，對邪惡生物造成傷害，比如僵屍和惡魔"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:wolfsbane",
+	  "text": "對狼和其他犬科動物造成傷害"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:deviants_decomposure",
+	  "text": "對被社群放逐的人造成傷害，比如災厄村民或者巫師。對女巫獵手沒有影響"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:sleeping",
+	  "text": "致盲並減速目標，如果目標生命值過低，則會殺死他們"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:volatility",
+	  "text": "Duang！！！爆炸並造成傷害，不影響方塊"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:grace",
+	  "text": "使目標承受更少的掉落傷害"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:shell_armor",
+	  "text": "對那些攻擊目標的人造成反傷"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:deflection",
+	  "text": "叮！反彈箭矢和其他彈射物"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:revealing",
+	  "text": "使目標實體脫離隱形效果"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:disrobing",
+	  "text": "從目標身上卸下盔甲和飾品"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:sinking",
+	  "text": "使跳躍變得更難，以至於在更強力的情況下都不能跳躍"
+	},
+	{
+	  "type": "bewitchment:brew",
+	  "recipe": "bewitchment:cursed_leaps",
+	  "text": "將目標拋向天空，使他們無法行動，並造成掉落傷害"
+	}
+  ]
+}
