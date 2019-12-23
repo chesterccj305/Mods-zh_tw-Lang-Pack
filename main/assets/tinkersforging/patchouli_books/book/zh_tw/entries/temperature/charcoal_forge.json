@@ -1,0 +1,27 @@
+{
+    "name": "木炭熔爐",
+    "icon": "minecraft:coal:1",
+    "category": "temperature",
+    "pages": [
+        {
+            "type": "text",
+            "text": "木炭熔爐是原始但又極具效率的東西，能夠一次性加熱很多物品。通過點燃木炭堆來做到。功能上和$(l:blocks_and_items/brick_forge)紅磚熔爐$()極為相似。雖然加熱速度緩慢，但是能夠一次性加熱多個物品。將木炭右擊方塊即可弄出木炭堆，就如同雪片一樣，最高可以堆疊8層。"
+        },
+        {
+            "type": "image",
+            "images": [
+                "tinkersforging:textures/guide/charcoal_piles.png"
+            ],
+            "text": "一大坨木炭堆"
+        },
+        {
+            "type": "text",
+            "text": "為了搭建出木炭熔爐，只需要按照下頁顯示的搭建多方塊結構，接下來用諸如打火石之類的東西右擊熔爐進行點火。熔爐就會開始燃燒，隨著消耗木炭而進行體積縮小。環繞的方塊一旦被打破，溫度會急劇下降，使其最高溫度只有最高溫度的三分之一"
+        },
+        {
+            "type": "multiblock",
+            "multiblock_id": "tinkersforging:charcoal_forge",
+            "text": "邊側部分可以為任意類型的石制固體方塊。"
+        }
+    ]
+}
