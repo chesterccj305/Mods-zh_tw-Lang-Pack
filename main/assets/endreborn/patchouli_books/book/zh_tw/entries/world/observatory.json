@@ -1,0 +1,12 @@
+{
+    "name": "瞭望台",
+    "icon": "endreborn:tool_sword_wolframium",
+    "category": "world",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "在地下挖開另一條隧道時，我偶然發現一個幾乎完全被破壞的建築……唔……到底是誰遺留下了這些建築，相比起來，末地的城堡看起來要會更新一點。不過這也並不重要了，因為這地方看起來實在太危險了。"
+        }
+    ]
+}
