@@ -1,0 +1,16 @@
+{
+  "name": "靈媒",
+  "category": "gear",
+  "icon": "bewitchment:taglock",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "一個小玻璃瓶，可以盛放生物的精華，有些人說在目標宿主休息的地方也可以獲取這些精華"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:bone_needle",
+	  "recipe2": "bewitchment:taglock"
+	}
+  ]
+}
