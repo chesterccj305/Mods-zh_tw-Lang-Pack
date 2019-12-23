@@ -1,0 +1,8 @@
+enderstorage.command.no_arguments=該數字無法作為有效參數
+enderstorage.command.no_colour=無效顏色:%s
+enderstorage.command.no_freq=無效頻率
+enderstorage.command.usage=enderstorage <freq>|(<顏色> <顏色> <顏色>) [持有人]
+enderstorage.serverop=操作者
+item.ender_pouch.name=終界袋子
+tile.ender_chest.name=終界箱子
+tile.ender_tank.name=終界蓄水槽
