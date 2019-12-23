@@ -1,0 +1,13 @@
+trapexpansion.subtitle.spikeout=釘刺叮當作響
+tile.trapexpansion.spike_trap.name=釘刺陷阱
+tile.trapexpansion.spike_trap_wall.name=釘刺陷阱
+tile.trapexpansion.slippery_stone.name=滑滑石
+tile.trapexpansion.fan.name=風扇
+tile.trapexpansion.detector.name=實體檢測器
+
+trapexpansion.tip.spiderproof=防止蜘蛛攀爬
+
+death.attack.trapexpansion.spike=%1$s 被刺穿了
+death.attack.trapexpansion.spike.player=%1$s 被 %2$s 刺穿了
+
+itemGroup.trapexpansion=Trap Expansion
