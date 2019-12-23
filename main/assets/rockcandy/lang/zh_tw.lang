@@ -1,0 +1,27 @@
+item.rockcandy.candy_cane_pickaxe.name=糖錐鎬
+item.rockcandy.candy_club.name=糖棍
+item.rockcandy.candy_core.name=糖芯
+item.rockcandy.candy_dispenser.name=糖果發射器
+item.rockcandy.candy_gem.name=永恒的大塊圓硬糖
+item.rockcandy.candy_rod.name=糖工具桿
+item.rockcandy.harden_rock_candy.name=硬化石糖
+item.rockcandy.hunger_stick.name=調試模式鎖定饑餓值
+item.rockcandy.raw_rock_candy.name=生石糖
+item.rockcandy.rock_candy.name=石頭糖果
+itemGroup.rockcandy=石糖
+tile.candy_ore.name=糖礦石
+#Potion Candies
+item.rockcandy.red_hot_candy.name=火紅石糖
+item.rockcandy.deep_blue_candy.name=深藍石糖
+item.rockcandy.glow_candy.name=絢光石糖
+item.rockcandy.clear_candy.name=通透石糖
+item.rockcandy.float_candy.name=漂浮石糖
+item.rockcandy.healthy_candy.name=健康石糖
+#JEI Descriptions
+jei.candy_gem.desc=永恒的大塊圓硬糖是個好東西。\n它可以儲存糖，也可以被食用。\n它可以被附上§4糖來張口！
+jei.candy_dispenser.desc=糖果發射器裝有石糖和硬化石糖，並可被食用。\n可以被附上§4糖來張口！
+jei.candy_infuser.desc=石糖註入器將強大的藥水效果註入石糖。只需加入配料！\n§l§n配方：（產物/配料）\n§r糖芯：鉆石\n火紅石糖：巖漿膏\n深藍石糖：海晶碎片\n絢光石糖：金胡蘿卜\n通透石糖：發酵蛛眼\n漂浮石糖：潛影殼\n健康石糖：惡魂之淚
+tile.candy_infuser.name=石糖註入器
+tile.candy_block.name=石糖塊
+#Enchants
+enchantment.auto_feed=§4糖來張口
