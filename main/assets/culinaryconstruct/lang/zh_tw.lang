@@ -1,0 +1,40 @@
+#################
+#    General    #
+#################
+tile.culinaryconstruct.sandwich_station.name=食品加工台
+item.culinaryconstruct.sandwich.name=三明治
+tooltip.culinaryconstruct.ingredients.name=配方
+tooltip.culinaryconstruct.ingredients=按住 §e§oShift§r§7 查看配方
+tooltip.culinaryconstruct.quality.name=口感
+tooltip.culinaryconstruct.quality.0=乏味
+tooltip.culinaryconstruct.quality.1=清淡
+tooltip.culinaryconstruct.quality.2=適中
+tooltip.culinaryconstruct.quality.3=美味
+tooltip.culinaryconstruct.quality.4=饕餮盛宴
+tooltip.culinaryconstruct.count.2=雙層
+tooltip.culinaryconstruct.count.3=三層
+tooltip.culinaryconstruct.count.4=四層
+tooltip.culinaryconstruct.count.5=五層
+tooltip.culinaryconstruct.list.2=%s和%s
+tooltip.culinaryconstruct.list.3=%s，%s，和%s
+tooltip.culinaryconstruct.list.4=%s，%s，%s，和%s
+tooltip.culinaryconstruct.list.5=%s，%s，%s，%s，和%s
+container.culinaryconstruct.sandwich_station=名稱
+culinaryconstruct.advancements.sandwich_station.title=三明治愛好者
+culinaryconstruct.advancements.sandwich_station.description=制作一個三明治
+#################
+#     Config    #
+#################
+culinaryconstruct.general.maxsaturation=最大原料飽和度
+culinaryconstruct.general.maxsaturation.tooltip=黑名單原料超過此最大飽和度修改，-1禁用
+culinaryconstruct.general.maxfood=最大成分食物
+culinaryconstruct.general.maxfood.tooltip=將食品價值超過此最大值的成分列入黑名單，-1禁用
+culinaryconstruct.general.blacklist=黑名單
+culinaryconstruct.general.blacklist.tooltip=列入三明治原料黑名單的物品
+culinaryconstruct.general.breaditems=其他面包物品
+culinaryconstruct.general.breaditems.tooltip=作為面包的附加物品清單
+tooltip.culinaryconstruct.list.1=%s
+culinaryconstruct.general.maxsandwichnesting=最大三明治嵌套
+culinaryconstruct.general.maxsandwichnesting.tooltip=三明治可以放入三明治的最大次數
+tooltip.culinaryconstruct.meta=元-
+tooltip.culinaryconstruct.metaplus=元^%s-
