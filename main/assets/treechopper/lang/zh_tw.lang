@@ -1,0 +1,18 @@
+command.decayLeaves=樹葉雕謝：
+command.decayLeavesInfo=當樹倒下時快速雕謝樹葉
+command.decayLeavesSwitch=樹葉清除已被切換
+command.disableShift=禁用shift:
+command.disableShiftInfo=禁用shift功能
+command.disableShiftSwitch=shift禁用功能已被切換
+command.errorMessage=輸入 "/tch help" 尋求幫助
+command.infoInfo=打印服務器設定相關信息
+command.permissions=你沒有使用此命令的權限
+command.plantSapling=自動種植樹苗:
+command.plantSaplingInfo=在他的樹幹周圍自動種植樹苗
+command.plantSaplingSwitch=自動種植已被切換
+command.reverseShift=反向函數：
+command.reverseShiftInfo=反轉shift功能
+command.reverseShiftSwitch=翻轉方式已被切換
+proxy.printBlock=方塊：
+proxy.printMainHand=手持物品：
+
