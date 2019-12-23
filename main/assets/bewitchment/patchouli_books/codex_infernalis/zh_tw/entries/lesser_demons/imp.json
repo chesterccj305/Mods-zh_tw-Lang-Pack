@@ -1,0 +1,26 @@
+{
+  "name": "低階小惡魔",
+  "category": "lesser_demons",
+  "icon": "bewitchment:heart",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "小鬼是等級較低的惡魔，通常在惡魔領主的手下工作，是惡魔社會的中堅力量，因為他們是最常見的智力稍低的惡魔，大致相當於惡魔農民。"
+	},
+	{
+	  "type": "entity",
+	  "entity": "bewitchment:imp",
+	  "scale": 0.75
+	},
+	{
+	  "type": "text",
+	  "title": "召喚",
+	  "text": "招來一只小鬼，一個更小的惡魔。為了滿足小惡魔並開始儀式，雞的血也必須灑在圓圈裏。"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:conjure_imp",
+	  "name": "召喚低階小惡魔"
+	}
+  ]
+}
