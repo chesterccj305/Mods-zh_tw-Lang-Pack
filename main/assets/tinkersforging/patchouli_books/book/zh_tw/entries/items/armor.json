@@ -1,0 +1,35 @@
+{
+    "name": "護甲",
+    "icon": "minecraft:iron_chestplate",
+    "category": "items",
+    "pages": [
+        {
+            "type": "text",
+            "text": "工匠砧也可用來鍛造護甲。支持大部分材料，這意味著你能夠通過很多模組的材料來制作頭盔、胸甲、護腿和靴子。"
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_helmet",
+            "title": "頭盔",
+            "text": "任意頭盔都需要五個錠鍛造得到。默認的鍛造規則為：彎曲，末尾；彎曲，倒數第二；擊打，倒數第三。"
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_chestplate",
+            "title": "胸甲",
+            "text": "任意胸甲都需要八個錠鍛造得到。默認的鍛造規則為：擊打，末尾；彎曲，任意；鐓鍛，任意。"
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_leggings",
+            "title": "護腿",
+            "text": "任意護腿都需要七個錠鍛造得到。默認的鍛造規則為：擊打，任意；彎曲，任意；牽拉，任意。"
+        },
+        {
+            "type": "spotlight",
+            "item": "minecraft:iron_boots",
+            "title": "靴子",
+            "text": "任意靴子都需要四個錠鍛造得到。默認的鍛造規則為：彎曲，末尾；彎曲，倒數第二；收縮，倒數第三。"
+        }
+    ]
+}
