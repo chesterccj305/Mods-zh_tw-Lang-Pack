@@ -1,0 +1,16 @@
+{
+  "name": "地獄犬",
+  "category": "nethers_firstborn",
+  "icon": "bewitchment:tongue_of_dog",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "地獄犬就像地獄裏的狼，頭上長著犄角和火紅的皮毛，就像它們的名字一樣。雖然地獄犬只比惡魔害蟲多一點，但它們的地位往往高於巨蛇，並通常捕食它們。地獄犬被認為是黑狗的近親。"
+	},
+	{
+	  "type": "entity",
+	  "entity": "bewitchment:hellhound",
+	  "scale": 0.5
+	}
+  ]
+}
