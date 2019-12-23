@@ -1,0 +1,17 @@
+{
+    "name": "終界符文",
+    "icon": "endreborn:item_end_rune",
+    "category": "tools",
+	"advancement": "endreborn:endreborn/end_rune",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "這些終界守衛掉落的碎片和這謎題非常相似……對，沒錯，它們組合成了一個我已經看到過的奇怪符號而且開始發光……"
+        },
+	{
+            "type": "crafting",
+            "recipe": "endreborn:items/item_end_rune"
+        }
+    ]
+}
