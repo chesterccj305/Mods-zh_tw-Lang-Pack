@@ -1,0 +1,45 @@
+tile.vendingMachine.name=交易機
+tile.vendingMachineAdvanced.name=高級交易機
+tile.vendingMachineMultiple.name=多樣交易機
+item.vendingMachineWrench.name=交易機扳手
+itemGroup.tabVending=交易機
+tile.vendingStorageAttachment.name=自動售貨存取裝置
+
+# GUI
+gui.vendingBlock.select=選擇...
+gui.vendingBlock.storage=倉庫
+gui.vendingBlock.selling=出售
+gui.vendingBlock.buying=收購
+gui.vendingBlock.settings=交易機設置
+gui.vendingBlock.owner=所有者名稱
+gui.vendingBlock.infinite=無限
+gui.vendingBlock.yes=是
+gui.vendingBlock.no=否
+gui.vendingBlock.apply=完成
+gui.vendingBlock.isSelling=正在出售
+gui.vendingBlock.for=需要
+gui.vendingBlock.and=和
+gui.vendingBlock.isGivingAway=免費贈送
+gui.vendingBlock.isAccepting=無償收取
+gui.vendingBlock.closed=商店已關閉
+gui.vendingBlock.shopNotEnoughCredits=商店沒足夠的金錢
+gui.vendingBlock.ok=確認
+gui.vendingBlock.cancel=取消
+gui.vendingBlock.number_of_credits=金額
+gui.vendingBlock.toInventory=獲取預設
+gui.vendingBlock.buy_buffer=收購緩沖
+gui.vendingBlock.sell_buffer=出售緩沖
+gui.vendingBlock.inventory=物品欄
+
+# Subtitles
+subtitles.block.vendingMachine.click=點擊交易機
+subtitles.block.vendingMachine.dispense=交易機分配物品
+subtitles.block.vendingMachineStorage.open=售貨存取裝置開啟
+subtitles.block.vendingMachineStorage.close=售貨存取裝置關閉
+
+gui.vendingBlock.banknoteInStorageRequiredToAcceptPayments=將鈔票放入存錢器中接受付款
+
+# Stats
+vending:stat.vendingMachinesUsed=交易機使用
+vending:stat.vendingMachinesOpened=交易機打開
+vending:stat.storageAttachmentsOpened=存錢器打開
