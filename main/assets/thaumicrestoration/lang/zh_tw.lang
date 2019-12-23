@@ -1,0 +1,86 @@
+#Creative Tab
+itemGroup.tabreadopted=奧法秘術
+#Items
+item_wand_0.name=學徒法杖
+item_wand_1.name=導師法杖
+item_wand_2.name=大師法杖
+item_ingot_0.name=註入 Aer 的神秘錠
+item_ingot_1.name=註入 Ignis 的神秘錠
+item_ingot_2.name=註入 Aqua 的神秘錠
+item_ingot_3.name=註入 Terra 的神秘錠
+item_ingot_4.name=註入 Ordo 的神秘錠
+item_ingot_5.name=註入 Perditio 的神秘錠
+item.item_bucket.name=無盡水桶
+#Blocks
+tile.block_reinforced.name=神秘石
+tile.block_infuser.name=神秘基座
+tile.block_adv_recharge_pedestal.name=高級充能基座
+tile.block_greatwood.name=雕紋宏偉之木
+tile.block_greatwood_framed.name=鑲框宏偉之木
+tile.block_crystal.name=源質結晶
+# --- Research ---
+#Research categories
+tc.research_category.READOPTION=秘術學
+#Readoption
+research_stage.thaumicreadoption:readoption.0=我似乎觸及到了一個嶄新的領域，本章將向我揭示一些既古老而又有趣的魔法裝置。
+#Wand
+research_stage.thaumicreadoption:basicwand.0=
+research_stage.thaumicreadoption:basicwand.1=我創造出了一種便攜式工具來取代世界鹽，我稱之其為"法杖"。它使用起來和世界鹽沒什麽區別，只是需要消耗魔力。
+item.item_wandcap.name=黃銅杖端
+item.item_wandrod.name=木杖芯
+item_plate_0.name=註入 Aer 的神秘板
+item_plate_1.name=註入 Ignis 的神秘板
+item_plate_2.name=註入 Auqa 的神秘板
+item_plate_3.name=註入 Terra 的神秘板
+item_plate_4.name=註入 Ordo 的神秘板
+item_plate_5.name=註入 Perditio 的神秘板
+item.item_toast.name=神秘吐司
+#Creative Tab
+itemGroup.tabrestoration=
+item.item_witherring.name=雕零防護指環
+tile.block_obsidian.name=註入 Terra 的黑曜石
+tile.block_paving_aer.name=滲透奧術石磚
+#Golems
+golem.material.tr_tallow=魔力油脂
+golem.material.text.tr_tallow=這種傀儡由魔力油脂制作而成，因此其不是很牢固並且移動方式古怪。但是至少其較為輕巧。
+golem.material.tr_silverwood=銀樹
+golem.material.text.tr_silverwood=這種傀儡由銀樹制作而成。其輕巧，相對堅固，甚至能夠執行一些高級任務。即使它不耐火。 
+golem.material.tr_thaumium_aer=註入 Aer 的神秘錠
+golem.material.text.tr_thaumium_aer=這種傀儡由註入 Aer 的神秘錠制作而成。其輕盈的特性使其能夠漂浮於空中，並仍然具有與神秘錠相似的特質。
+golem.material.tr_thaumium_ignis=註入 Ignis 的神秘錠
+golem.material.text.tr_thaumium_ignis=這種傀儡由註入 Ignis 的神秘錠鍛造而成。其性質與神秘錠相似，但能予以傀儡如火焰一般熊熊燃燒的暴怒。
+golem.material.tr_thaumium_aqua=註入 Aqua 的神秘錠
+golem.material.text.tr_thaumium_aqua=這種傀儡由註入 Aqua 的神秘錠鍛造而成。其對水的吸引力使得它能自我再生，並仍然具有與神秘錠相似的特質。
+golem.material.tr_thaumium_terra=註入 Terra 的神秘錠
+golem.material.text.tr_thaumium_terra=這種傀儡由註入 Terra 的神秘錠鍛造而成，因此其擁有更高的護甲值，除此之外其仍然具有與神秘錠相似的特質。
+golem.material.tr_thaumium_ordo=註入 Ordo 的神秘錠
+golem.material.text.tr_thaumium_ordo=這種傀儡由註入 Ordo 的神秘錠鍛造而成。歸功於額外註入的知識，它能夠管理更大的區域。
+golem.material.tr_thaumium_perditio=註入 Perditio 的神秘錠
+golem.material.text.tr_thaumium_perditio=這種傀儡由註入 Perditio 神秘錠鍛造而成，其性質與神秘錠十分相似。
+# --- TConstruct ---
+material.aer_thaumium.name=註入 Aer 的神秘錠
+material.ignis_thaumium.name=註入 Ignis 的神秘錠
+material.aqua_thaumium.name=註入 Aqua 的神秘錠
+material.terra_thaumium.name=註入 Terra 的神秘錠
+material.ordo_thaumium.name=註入 Ordo 的神秘錠
+material.perditio_thaumium.name=註入 Perditio 的神秘錠
+fluid.fluid_molten_aer=註入 Aer 的神秘錠流體
+fluid.fluid_molten_ignis=註入 Ignis 的神秘錠流體
+fluid.fluid_molten_aqua=註入 Aqua 的神秘錠流體
+fluid.fluid_molten_terra=註入 Terra 的神秘錠流體
+fluid.fluid_molten_ordo=註入 Ordo 的神秘錠流體
+fluid.fluid_molten_perditio=註入 Perditio 的神秘錠流體
+modifier.tr_entropic.desc=凡俗的材料無法抵禦你工具中熵的共鳴。
+#Restoration
+research_stage.thaumicrestoration:restoration.0=唔姆...這一章節看起來會很有趣，古老的魔法設備，也許這是我應該深入研究的話題。
+research_stage.thaumicrestoration:restoration.1=這一章節主要講解了神秘設備的制造，這正是我所期盼的內容。
+#Deco
+research_stage.thaumicrestoration:trdeco.0=這種蘊含魔力的木頭看起來十分堅固，可以作為很好的裝飾性方塊。
+research_addendum.thaumicrestoration:trdeco.0=將其嵌入這種蘊含魔力的金屬石能使其更加堅固，並且這種木頭極具美觀性。
+#Novice Wand
+research_stage.thaumicrestoration:novicewand.0=昨晚我靈光一閃，如果將魔力直接導入物體會發生什麽？盡管現在這還是未解之謎，我想我需要一種新的設備來引導這些魔力。 
+research_stage.thaumicrestoration:novicewand.1=我找到了一種便捷操縱靈氣的方法：魔杖，其作用與世界鹽完全一致，但制作世界鹽的過程過於浪費時間。也許我還能找到改進魔杖的方法...
+#Transmutations
+research_stage.thaumicrestoration:transmutation.0=它不可能只有世界鹽的性質，一定有些不同之處...
+#Adept Wand
+research_stage.thaumicrestoration:adeptwand.0=我發現這種魔杖中的魔力波動會在魔力振諧器附近減弱，也許這是其不足之處的關鍵
