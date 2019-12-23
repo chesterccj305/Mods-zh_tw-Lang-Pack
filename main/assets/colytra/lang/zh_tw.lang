@@ -1,0 +1,17 @@
+key.colytra.category=Colytra
+key.colytra.toggle.desc=切換鞘翅
+tooltip.colytra.broken=損壞
+toggle.colytra.on=啟用鞘翅
+toggle.colytra.off=禁用鞘翅
+colytra.general.permissionmode=權限模式
+colytra.general.permissionmode.tooltip=設定物品列表為黑名單或白名單
+colytra.general.durabilitymode=耐久模式
+colytra.general.durabilitymode.tooltip=設定以何種方式消耗鞘翅的耐久，Normal：鞘翅將僅使用自己的耐久，Infinite:鞘翅將不消耗耐久，Chestplate：鞘翅將使用胸甲的耐久或能量
+colytra.general.itemlist=物品列表
+colytra.general.itemlist.tooltip=根據權限模式將註冊表名稱列入黑名單/白名單
+colytra.general.baubles.baubleslot=Bauble 類型
+colytra.general.baubles.baubleslot.tooltip=設定鞘翅將使用飾品欄中的哪一格
+colytra.general.baubles.disablebauble=禁用Bauble
+colytra.general.baubles.disablebauble.tooltip=設置為true來取消使用飾品鞘翅
+colytra.general.separatecolytra=允許鞘翅胸甲分離
+colytra.general.separatecolytra.tooltip=如果為 ture 時將允許鞘翅在工作台中分開，否則為 false
