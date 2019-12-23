@@ -1,0 +1,6 @@
+item.transprot:linker.name=連接器
+item.transprot:upgrade_0.name=1級升級
+item.transprot:upgrade_1.name=2級升級
+item.transprot:upgrade_2.name=3級升級
+item.transprot:upgrade_3.name=4級升級
+tile.transprot:dispatcher.name=調度器
