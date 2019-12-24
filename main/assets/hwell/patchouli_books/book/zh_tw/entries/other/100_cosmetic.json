@@ -1,0 +1,74 @@
+{
+    "name": "裝飾性方塊",
+    "icon": "hwell:moonstone",
+    "category": "other",
+    "sortnum": 100,
+    "pages": [
+    	{	
+        	"type": "spotlight",
+            "title": "裝飾性方塊",
+            "item": "hwell:moonstone",
+            "link_recipe": true,
+            "text": "通過將水晶碎片的神奇特性運用於日常生活中,你可以獲得許多方塊.一些方塊可以用於建築,但有一些也很有用,其他的一些方塊可以通過冶煉以創造這些方塊的平滑版本."
+        },
+		{
+            "type": "text",
+			"text": "大多數的這些方塊可以制造成台階,樓梯. 當然這些方塊可以制造成磚,這些磚同樣可以制造樓梯和台階.$(br2)這些台階和普通台階有些許不同. 你可以將這些台階豎直放置, 而不是只可以把他們放在方塊的頂部或者底部. 當你放置豎直台階時這些豎直台階會依靠著你單擊的方塊上,除非你按住shift放置就會使他放置在相反的一側."
+        },
+	    {
+            "type": "crafting",
+			"title": "",
+			"recipe": "hwell:citrinic_stone",
+			"recipe2": "hwell:white_block"
+		},
+	    {
+            "type": "crafting",
+			"title": "",
+			"recipe": "hwell:azurite",
+			"recipe2": "hwell:onyx"
+		},
+
+	    {
+            "type": "crafting",
+			"title": "",
+			"recipe2": "hwell:scorch_grit",
+			"recipe": "hwell:fullgrass_block"
+		},
+		{
+            "type": "crafting",
+			"recipe": "hwell:gaseous_sand",
+			"recipe2": "hwell:moonstone"
+		},
+		{
+            "type": "smelting",
+			"recipe": "hwell:citrinic_stone",
+			"recipe2": "hwell:azurite"
+		},
+		{
+            "type": "smelting",
+			"recipe": "hwell:scorch_grit",	
+			"recipe2": "hwell:onyx"		
+        },
+		{
+            "type": "smelting",
+			"recipe": "hwell:gaseous_sand"
+        },
+        {
+            "type": "crafting",
+			"title": "",
+			"recipe": "hwell:moonstone_bricks"
+		},        
+		{
+            "type": "crafting",
+			"title": "",
+			"recipe": "hwell:moonstone_slab",
+			"recipe2": "hwell:moonstone_stairs"
+		},
+		{
+        	"type": "crafting",
+			"test": "etc...",
+			"recipe": "hwell:moonstone_bricks_slab",
+			"recipe2": "hwell:moonstone_bricks_stairs"
+		}
+    ]
+}
