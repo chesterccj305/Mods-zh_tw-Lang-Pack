@@ -1,0 +1,8 @@
+oreexcavation.key.excavate=連鎖挖礦
+oreexcavation.key.shape=形狀切換/編輯（Ctrl）
+oreexcavation.undo.failed.disabled=撤回已經被禁用！
+oreexcavation.undo.failed.items=撤回失敗：無法返還物品
+oreexcavation.undo.failed.no_history=撤回失敗：無撤回操作
+oreexcavation.undo.failed.obstructed=撤回失敗：區域被阻塞
+oreexcavation.undo.failed.xp=撤回失敗：無法返還經驗
+oreexcavation.undo.success=撤回最後的連鎖挖礦……
