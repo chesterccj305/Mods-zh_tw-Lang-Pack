@@ -1,0 +1,20 @@
+{
+    "name": "修覆膏",
+    "icon": "hwell:repairing_paste",
+    "category": "other_mechanics",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "crafting",
+            "title": "修復膏",            
+            "recipe": "hwell:raw_repairing_paste",
+			"text": "你可以在使用物品的同時輕松的修覆他們,可以制造一些未燒制的修覆膏，將它燒制使他變成修覆膏$(br)將修覆膏拿在副手上,將你要修覆的東西拿在主手,它將會慢慢的恢覆你手上物品的耐久."
+        },
+        {
+            "type": "smelting",
+			"title": "燒制",
+			"recipe": "hwell:raw_repairing_paste",
+			"text": "修覆膏在每一次修覆時都會損失一點耐久. 如果你有許多不同耐久的修覆膏,你可以把他們一起放在合成台中進行混合制作.當修覆膏失去所有耐久時,它將很容易被消耗消失."
+        }
+	]
+}
