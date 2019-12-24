@@ -1,0 +1,21 @@
+{
+    "name": "末影板條箱",
+    "icon": "naturesaura:ender_crate",
+    "category": "using",
+    "advancement": "naturesaura:aura_bottle_end",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)末影箱子$()對於安全存儲來說是非常好的技術，但是末影箱子並不能簡單地進行物品$(thing)傳輸$()。對於這個問題，$(item)末影板條箱$()非常完美：兩個或多個鏈接在一起的板條箱會共享存儲，甚至跨維度都能工作，意味著這些板條箱非常適於用於物品傳輸。"
+        },
+        {
+            "type": "text",
+            "text": "當然，每次與板條箱的互動是需要一些$(#419600)靈氣$()的。$(br)要鏈接板條箱，需要給它們賦予$(item)末影名$()，具體操作是在$(thing)鐵砧$()上將其和$(item)末影之眼$()放在一起然後寫下想要的名字。$(br)如果擔心別人會起一樣的名字，名字能被$(thing)鎖定$()，只需要在那個名字的箱內放置一個$(l:practices/offering#terror)恐怖徽章$()。"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)末影板條箱$()",
+            "recipe": "naturesaura:ender_crate"
+        }
+    ]
+}
