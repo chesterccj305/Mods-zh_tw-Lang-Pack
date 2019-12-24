@@ -1,0 +1,17 @@
+{
+    "name": "冷凍",
+    "icon": "hwell:freezer",
+    "category": "core_mechanics",
+    "sortnum": 70,
+    "pages": [
+        {
+            "type": "text",
+            "text": "冰凍機. 可以將附近的液體冰凍成固體. 比如將水變成雪或冰, 將巖漿變成黑曜石. 每一次工作都將消耗一些能量."
+        },
+        { 	"type": "crafting",
+	        "name": "Freezer",
+            "recipe": "hwell:freezer",
+	        "text": ""
+        }   
+    ]
+}
