@@ -1,0 +1,58 @@
+// Blocks \\
+// Config \\
+// Creative Tab \\
+// GUI \\
+// Items \\
+item.netherutils.debug_tool.name=調試工具
+item.netherutils.forbidden_fruit.name=禁果
+itemGroup.netherutils=Nether Utils
+nu.config.features.tooltip=編輯 Mod 的功能
+nu.config.features=特征
+nu.config.features_end.tooltip=編輯末地的設置
+nu.config.features_end=末地
+nu.config.features_end_portal.tooltip=編輯末地傳送門的設置
+nu.config.features_end_portal=末地傳送門
+nu.config.features_nether.tooltip=編輯下界的設置
+nu.config.features_nether=下界
+nu.config.features_nether_portal.tooltip=編輯下界傳送門的設置
+nu.config.features_nether_portal=下界傳送門
+nu.config.features_portal.tooltip=編輯傳送門設置
+nu.config.features_portal=傳送門
+nu.config.features_tank.tooltip=編輯流體儲罐的設置
+nu.config.features_tank=流體儲罐
+nu.config.generation.tooltip=編輯木頭的生成
+nu.config.generation=生成
+nu.config.starting.tooltip=啟動物品和藥水效果
+nu.config.starting=首個出生點
+nu.gui.fuel=有 %s 的燃料
+nu.gui.start1=按下以激活
+nu.gui.start2=當前在線
+nu.gui.start3=當前激活
+nu.gui.status1=在線
+nu.gui.status2=離線
+nu.gui.status3=激活順序
+nu.gui.stop1=按下以停用
+nu.gui.stop2=目前離線
+nu.gui.stop3=按下以停止
+tile.nether_portal_slave.name=傳送門從動裝置
+tile.netherutils.end_portal.name=末地傳送門
+tile.netherutils.end_portal_slave.name=傳送門從動裝置
+tile.netherutils.leaf_ash.name=灰燼樹葉
+tile.netherutils.leaf_hell.name=地獄樹葉
+tile.netherutils.leaf_soul.name=靈魂樹葉
+tile.netherutils.log_ash.name=灰燼木原木
+tile.netherutils.log_hell.name=地獄木原木
+tile.netherutils.log_soul.name=靈魂木原木
+tile.netherutils.nether_portal.name=主世界傳送門
+tile.netherutils.obelisk.name=方尖碑
+tile.netherutils.pedestal_end.name=末地基座
+tile.netherutils.pedestal_nether.name=下界底座
+tile.netherutils.planks_ash.name=灰燼木板
+tile.netherutils.planks_hell.name=地獄木板
+tile.netherutils.planks_soul.name=靈魂木板
+tile.netherutils.sapling_ash.name=灰燼樹苗
+tile.netherutils.sapling_hell.name=地獄樹苗
+tile.netherutils.sapling_soul.name=靈魂樹苗
+tile.netherutils.soul_soil.name=靈魂土
+tile.netherutils.spawn_point.name=出生點
+tile.netherutils.tank.name=流體儲罐
