@@ -1,0 +1,4 @@
+item.refinedstorageaddons:wireless_crafting_grid.0.name=無線合成終端
+item.refinedstorageaddons:wireless_crafting_grid.1.name=創造模式無線合成終端
+itemGroup.refinedstorageaddons=精致存儲丨附屬
+key.refinedstorageaddons.openWirelessCraftingGrid=打開無線合成網格
