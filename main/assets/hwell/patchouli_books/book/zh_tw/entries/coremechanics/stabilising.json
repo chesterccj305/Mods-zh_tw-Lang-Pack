@@ -1,0 +1,38 @@
+{
+    "name": "核心轉化穩定器",
+    "icon": "hwell:stabiliser",
+    "category": "core_mechanics",
+    "sortnum": 30,
+    "pages": [
+        {
+            "type": "spotlight",
+			"item": "hwell:stabiliser",
+			"text": "這種有用的方塊可以防止轉化核心破壞太多的催化劑方塊. 你只需要將穩定器放在核心旁邊的一個方塊底下 (而不是在核心底下) 然後你就會發現放不放穩定器產生的巨大區別."
+		},
+		{
+            "type": "multiblock",
+            "name": "穩定器",
+            "multiblock": {
+                "pattern": [
+					[ "B0", " B"],
+					[ "S ", " S"]
+                ],
+                "mapping": {
+                    "0": "hwell:core_stone",
+                    "S": "hwell:stabiliser_heavy",
+					"B": "minecraft:cobblestone"
+                }
+            }
+		},
+		{
+			"type": "crafting",
+			"recipe": "hwell:stabiliser_light",
+			"text": "核心穩定器有三個層級, 重型核心穩定器是他們之中最強大的, 它可以完全防止催化劑破壞."
+		},
+	    {
+            "type": "crafting",
+			"recipe": "hwell:stabiliser",
+			"recipe2": "hwell:stabiliser_heavy"
+		}   
+    ]
+}
