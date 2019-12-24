@@ -1,0 +1,15 @@
+librarianlib.bauble_tooltip=按 &b%s&7 鍵打開飾品菜單
+librarianlib.book.nav.back=返回
+librarianlib.book.nav.next=下一個
+librarianlib.book.nav.previous=上一個
+librarianlib.book.results.kwd=1個匹配關鍵字
+librarianlib.book.results.kwds=%d個匹配的關鍵字
+librarianlib.book.results.match=%d%% 匹配
+librarianlib.book.results.notfound=未找到結果！
+librarianlib.book.results.nresults=找到%d個結果！
+librarianlib.book.results.oneresult=找到一個結果!
+librarianlib.book.results.toobroad=搜索太廣泛！使用關鍵字找到%d個結果。
+librarianlib.error.nobook=這本書沒有正確加載......
+librarianlib.false_item.materials=需要材料
+librarianlib.shiftinfo=&7按住 &bSHIFT&7 查看詳情
+librarianlib.subtitle.equip_bauble=首飾已裝備
