@@ -1,0 +1,52 @@
+{
+    "name": "精密磨床",
+    "icon": "hwell:precision_grinder_empty",
+    "category": "core_mechanics",
+    "sortnum": 60,
+    "pages": [
+        {
+            "type": "text",
+            "text": "精密磨床是一種多方塊結構. 它需要插入砂輪, 但是並非每一種工作都適合這種砂輪. 請不要在磨床中扔入大量的材料,否則磨床將會卡住,砂輪將會從磨床中跳出."
+        },
+        {
+            
+            "type": "multiblock",
+            "name": "精密磨床",
+            "multiblock": {
+                "pattern": [
+					[ " P ", "PL ", " P "],
+					[ " P ", "P  ", " P "],
+					[ "HPH", "P0P", "HLH"]
+                ],
+                "mapping": {
+                    "H": "hwell:heavy_block",
+                    "P": "hwell:protection_block",
+					"L": "hwell:slab_lamp",
+					"0": "hwell:precision_grinder_iron"
+                }
+            }
+        
+        },
+        { 	"type": "crafting",
+	        "name": "精密磨床",
+            "recipe": "hwell:precision_grinder_empty",
+	        "text": "精密磨床可以作為一種可以實現多倍化資源的機器的基礎機器,因為他每次都可以略微提高礦石的產量.精密磨床每一次的工作都需要一些能量."
+        },
+        {
+            "type": "text",
+            "text": "$(br2)$(br)將磨床的的紅色部分面向正下方的平板燈, 平板燈應該位於磨床入口的右側.$(br2)記得按住shift將平板燈放在地面上,使其倒置."
+        },		
+        {   "type": "crafting",
+            "name": "Grinding Wheels",
+            "recipe": "hwell:grinding_wheel_iron",
+            "recipe2": "hwell:grinding_wheel_diamond",
+            "text": "精密磨床砂輪"
+        },
+        {   "type": "crafting",
+            "name": "Grinding Wheels",
+            "recipe": "hwell:grinding_wheel_crystal",
+            "text": "精密磨床砂輪的研磨請查看JEI，並非每一種工作都適合這種砂輪"
+        } 
+            
+    ]
+}
