@@ -1,0 +1,12 @@
+entity.fluidcows.fluidcow.name=流體牛
+item.fluidcows.cow_displayer.name=牛顯示器
+item.fluidcows.cow_halter.name=牛韁繩
+itemGroup.fluidcows=流體牛
+tile.fluidcows.accelerator.name=生長加速器
+tile.fluidcows.stall.name=牛畜欄
+tile.fluidcows.feeder.name=飼育機
+tile.fluidcows.sorter.name=分類器
+item.fluidcows.ranger.name=距離升級
+gui.fluidcows.sorter.remove=移除 %s
+gui.fluidcows.sorter.insert=點擊這裏懸浮顯示下一個流體通過了桶/隔間/顯示器
+gui.fluidcows.sorter.list=變更 %s 列表
