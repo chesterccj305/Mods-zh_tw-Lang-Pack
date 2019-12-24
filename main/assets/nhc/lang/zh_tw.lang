@@ -1,0 +1,86 @@
+//---Creative Tab---//
+itemGroup.nhcore=NHAVE 核心
+
+//---Items---//
+item.nhc.wrench.name=扳手
+item.nhc.shader_remover.name=塗裝清除器
+item.nhc.data_glass.name=數據眼鏡
+item.nhc.chroma.name=虹晶
+item.nhc.token.name=神秘令牌
+item.nhc.token_active.name=感恩令牌
+item.nhc.lock.name=機器鎖
+item.nhc.publiclock.name=公共機器鎖
+item.nhc.key.name=機器鑰匙
+item.nhc.masterkey.name=統領骷髏鑰匙
+item.nhc.energypearl.name=充能末影珍珠
+
+//---Blocks---//
+tile.nhc.frame.name=機器框架
+tile.nhc.toolstation.name=工具站
+tile.nhc.display.name=物品展示台
+
+//---Tooltip---//
+tooltip.nhc.data_glass=在 HUD 中顯示適合物品的數據
+tooltip.nhc.token=只授予我的特別支持者。
+tooltip.nhc.token.deny=這只是一枚毫無價值的硬幣！
+tooltip.nhc.token.access=這枚硬幣在你手中發著微弱的光;應該再檢查一番！
+tooltip.nhc.lock=潛行並右擊可鎖定機器並將其設為私人所有。
+tooltip.nhc.publiclock=阻止他人鎖定你的公共機器。
+tooltip.nhc.key=潛行並右擊可解鎖你鎖定的機器。
+tooltip.nhc.masterkey=可無視所有者解鎖機器。
+tooltip.nhc.energypearl=這顆珍珠可持續生產微小的能量。;足以給簡單設備供能。
+tooltip.nhc.error.missingnbt=!!缺失 NBT 數據!!
+tooltip.nhc.details.shift1=按住
+tooltip.nhc.details.shift2=Shift
+tooltip.nhc.details.shift3=查看詳細信息
+tooltip.nhc.details.alt1=按住
+tooltip.nhc.details.alt2=Alt
+tooltip.nhc.details.alt3=查看模組
+tooltip.nhc.details.ctrl1=按住
+tooltip.nhc.details.ctrl2=Ctrl
+tooltip.nhc.details.ctrl3=查看更多信息
+tooltip.nhc.chroma=用來將受支持物品的顏色改變為%color%。
+tooltip.nhc.chroma.rainbow=在彩虹色間切換顏色的虹晶。
+tooltip.nhc.chroma.tracker=當怪物靠近時改變顏色的虹晶。
+tooltip.nhc.chroma.current=使用中的虹晶
+tooltip.nhc.shader=物品塗裝
+tooltip.nhc.shader.appliesto=可應用於
+tooltip.nhc.shader.nomods=未安裝受支持的模組！
+tooltip.nhc.toolstation=在上方放置物品，;然後用另一物品右擊修改之。
+tooltip.nhc.toolstation.item=物品
+tooltip.nhc.toolstation.chroma=虹晶
+tooltip.nhc.display=右擊展示一個物品;再次右擊可將其移除。
+tooltip.nhc.display.item=物品
+tooltip.nhc.owner=所有者
+tooltip.nhc.publicmachine=公共機器
+
+//---Colors---//
+color.nhc.black=黑色
+color.nhc.red=紅色
+color.nhc.green=綠色
+color.nhc.brown=棕色
+color.nhc.blue=藍色
+color.nhc.purple=紫色
+color.nhc.cyan=青色
+color.nhc.lightGray=淡灰色
+color.nhc.gray=灰色
+color.nhc.pink=粉紅色
+color.nhc.lime=黃綠色
+color.nhc.yellow=黃色
+color.nhc.lightBlue=淡藍色
+color.nhc.magenta=品紅色
+color.nhc.orange=橙色
+color.nhc.white=白色
+color.nhc.rainbow=彩虹
+color.nhc.tracker=追蹤
+
+//---Config---//
+key.nhc.category=NHAVE 的模組
+key.nhc.toggle=切換模式
+cfg.nhc.title.main=NHAVE 核心 配置菜單
+cfg.nhc.title.client=NHAVE 核心 客戶端配置
+cfg.nhc.entry.client=客戶端配置
+cfg.nhc.entry.client.tooltip=所有客戶端選項
+cfg.nhc.title.common=NHAVE 核心 公共配置
+cfg.nhc.entry.common=公共配置
+cfg.nhc.entry.common.tooltip=所有公共選項
