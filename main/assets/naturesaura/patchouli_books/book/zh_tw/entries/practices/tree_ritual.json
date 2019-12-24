@@ -1,0 +1,27 @@
+{
+    "name": "森林儀式",
+    "icon": "naturesaura:wood_stand",
+    "category": "practices",
+    "advancement": "naturesaura:gold_leaf",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "當你剛成為魔法植物學家時，使用自然力量本身比使用$(#419600)靈氣$()的力量更加有益。 $(item)森林儀式$()使用$(l:practices/gold_trees)金葉粉$()來趨勢自然成分力量進入一顆茁壯生長的樹苗，並同時吞噬它，將其轉化為實用的工具與物品。"
+        },
+        {
+            "type": "text",
+            "text": "要建造此$(thing)儀式$()，需要如同下一頁展示 那樣放置$(item)金葉粉$()，一些 $(item)木墩$()也需要放置在周圍，以此來限制住自然成分。$(br)隨後，正確的$(item)樹苗$()必須被放置在中間。最後，使用肥料或等待一段時間來讓樹苗生長。"
+        },
+        {
+            "type": "multiblock",
+            "multiblock_id": "naturesaura:tree_ritual",
+            "text": "準備$(item)森林儀式$()。它並不需要圖中所有的$(item)木墩$()。"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)木墩$()",
+            "recipe": "naturesaura:wood_stand"
+        }
+    ]
+}
