@@ -1,0 +1,32 @@
+{
+    "name": "破壞之樹",
+    "icon": "hwell:grit_vase",
+    "category": "other_mechanics",
+    "sortnum": 50,
+    "pages": [
+        {
+            "type": "image",
+			"title": "Breaking Tree",
+			"image": "Breaking Tree",
+	        "border": true,
+            "images": [ "hwell:textures/gui/breaking_tree.png" ],
+			"text": "破壞之樹可以打破在他附近放置的方塊."
+        },
+		{
+            "type": "crafting",
+            "title": "黑瑪瑙樹盆",            
+            "recipe": "hwell:grit_vase",
+			"text": "黑瑪瑙樹盆是一種特殊的樹盆,用來容納和種植破壞之樹"
+        },
+		{
+            "type": "text",
+			"text": "當你要種植破壞之樹時,你可以在花盆上使用神秘肥料.你可以不斷使用神秘肥料使它長大,你最多可以使用五次肥料,你使用的肥料越多,樹木就越大.破壞之樹的最大破壞範圍為5個方塊,它將會在破壞方塊時發出粒子.破壞之樹不需要能量，但他們不能隨時停止破壞方塊.但是你可以使用過濾器設置破壞之木的白名單和黑名單."
+        },
+		{
+            "type": "spotlight",
+			"title": "破壞之樹樹枝",
+			"item": "hwell:branch",
+			"text": "含有破壞之木的花盆將會在被打破時掉落破壞之樹樹枝. 這些樹枝是破壞之樹的最重要的生命根枝, 他們是制作連鎖核心的重要物品. 然而隨著時間的推移,這些樹枝將會漸漸地失去生命. 當它們從樹上砍下來時, 你將不可能阻止它們的生命流失. 在停止遊戲直接它們都會流逝生命."
+        }
+	]
+}
