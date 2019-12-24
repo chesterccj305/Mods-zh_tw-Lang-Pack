@@ -1,0 +1,57 @@
+{
+    "name": "獻給眾神",
+    "icon": "naturesaura:offering_table",
+    "category": "practices",
+    "advancement": "naturesaura:aura_bottle_nether",
+    "pages": [
+        {
+            "type": "text",
+            "text": "$(item)灌註鐵$()很好，它有足夠的自然力量獨自做各種事情。但對於更先進的機械，需要更強大的金屬。$(br)長久以來，諸神一直是最強壯、最強大的存在，因此，它們也擁有人類所知的最強壯的金屬。"
+        },
+        {
+            "type": "text",
+            "text": "要構造一種方法來呼喚神靈本身，只需放置一個$(item)供桌$()，並在桌子$()周圍放一些花，如下一頁所示。然後,開始祭祀,將任何數量你想供奉的物品放在桌子上的碗裏，然後靠近桌子扔下呼喚神本身的物品,在大多數情況下，$(item)呼喚之魂$()。$(br)運氣好的話,請求的物品將從天空如雨般落下。"
+        },
+        {
+            "type": "multiblock",
+            "multiblock_id": "naturesaura:offering_table",
+            "text": "準備$(item)獻給眾神$()儀式。可以用任何種類的花。"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)供桌$()",
+            "recipe": "naturesaura:offering_table"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)呼喚之魂$()",
+            "recipe": "naturesaura:calling_spirit"
+        },
+        {
+            "type": "naturesaura:offering",
+            "text": "請求$(item)天空之錠$()，用神聖能量灌註的強大金屬。",
+            "recipe": "naturesaura:sky_ingot"
+        },
+        {
+            "type": "naturesaura:offering",
+            "text": "把$(item)快樂徽章$()換成更強大的$(item)幸福徽章$()",
+            "recipe": "naturesaura:token_euphoria"
+        },
+        {
+            "type": "naturesaura:offering",
+            "text": "把$(item)恐懼徽章$()換成更強大的$(item)恐怖徽章$()",
+            "recipe": "naturesaura:token_terror",
+            "anchor": "terror"
+        },
+        {
+            "type": "naturesaura:offering",
+            "text": "把$(item)憤怒徽章$()換成更強大的$(item)狂怒徽章$()",
+            "recipe": "naturesaura:token_rage"
+        },
+        {
+            "type": "naturesaura:offering",
+            "text": "把$(item)遺憾徽章$()換成更強大的$(item)悲傷徽章$()",
+            "recipe": "naturesaura:token_grief"
+        }
+    ]
+}
