@@ -1,0 +1,21 @@
+{
+    "name": "礦物集聚",
+    "icon": "minecraft:diamond_ore",
+    "category": "effects",
+    "advancement": "naturesaura:positive_imbalance",
+    "pages": [
+        {
+            "type": "text",
+            "text": "使用$(l:creating/generator_limit_remover)創造催化器$()，$(#419600)靈氣$()能超過$(l:items/eye)環境之眼$()的觀測範圍。這種潛能允許一種更高級的失衡效應出現：$(item)礦物集聚$()會在附近有$(l:effects/effect_powder)慷慨之粉$()的時候開始發生。"
+        },
+        {
+            "type": "text",
+            "text": "在主世界，各種各樣的$(thing)礦物$()會開始在附近$(item)石頭$()方塊中出現，在下界，則會在$(item)地獄巖$()方塊中出現，可以預見的是，不少的$(#419600)靈氣$()會在這些礦物被召喚時消耗。$(p)當然，像這樣的創造能力可以用於某種自動化，也許還要用上類似$(l:using/field_creator)靈氣力場創造器$()這樣的方塊。"
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "recipe": "naturesaura:ore_spawn_powder",
+            "text": "合成$(l:effects/effect_powder)慷慨之粉$()。"
+        }
+    ]
+}
