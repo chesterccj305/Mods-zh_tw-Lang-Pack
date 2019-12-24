@@ -1,0 +1,6 @@
+info.kjlib.holdShiftForDetails=按住§e§oShift§r§7以獲得詳細信息§r
+info.kjlib.tutorial.fluxRequired=需要RF才能工作。
+info.kjlib.tutorial.tabAugment="增強" 選項卡允許模塊化添加。
+info.kjlib.tutorial.tabConfiguration="配置" 選項卡確定此方塊的輸入和輸出參數。
+info.kjlib.tutorial.tabRedstone=“紅石控制”選項卡配置此方塊如何對紅石信號做出反應。
+info.kjlib.tutorial.tabSecurity="安全" 選項卡允許所有者控制誰可以訪問此方塊。
