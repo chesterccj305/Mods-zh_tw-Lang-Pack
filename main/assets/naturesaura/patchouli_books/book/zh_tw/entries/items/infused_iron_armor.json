@@ -1,0 +1,26 @@
+{
+    "name": "植物學家的盔甲",
+    "icon": "naturesaura:infused_iron_chest",
+    "category": "items",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "在$(l:items/infused_iron_tools)工具$()之外，植物學家也能從盔甲中得到保護，特別是$(item)植物學家的盔甲$()。除了擁有鐵盔甲級別的保護力外，盔甲還能通過持有$(l:items/aura_cache)靈氣緩存$()時潛行來回覆耐久，類似工具。除此之外，穿齊整套盔甲還有$(thing)套裝獎勵$()。"
+        },
+        {
+            "type": "text",
+            "text": "當生物攻擊穿戴者時，它會短暫得到$(item)雕零$()效果，效果類似荊棘附魔。$(br)除此之外，穿整套時使用$(l:items/shockwave_creator)憤怒護身符$()也會使得被沖擊到的生物得到雕零效果。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:infused_helmet",
+            "recipe2": "naturesaura:infused_chest"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:infused_pants",
+            "recipe2": "naturesaura:infused_shoes"
+        }
+    ]
+}
