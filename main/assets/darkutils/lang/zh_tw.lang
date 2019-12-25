@@ -151,7 +151,7 @@ item.banner.du_vector_plate.orange=橘色傳輸帶圖案
 item.banner.du_vector_plate.white=白色
 
 #Misc
-itemGroup.darkutils=Dark Utilities
+itemGroup.darkutils=黑暗實用物品
 chat.darkutils.focussash=%s你被專注頭巾救了一次!
 chat.darkutils.monolith.spawning=這個墓碑以生成了 %d 隻生物.
 
