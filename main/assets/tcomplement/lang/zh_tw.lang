@@ -2,7 +2,7 @@
 #    Common    #
 ################
 
-itemGroup.TCompGeneral=Tinkers' Complement|一般物品
+itemGroup.TCompGeneral=匠魂補充 物品
 
 item.tcomplement.materials.stone_bucket.name=石桶
 item.tcomplement.materials.stone_bucket.tooltip=並不能像鐵桶一樣使用，倒是可以用來製作鑄模。
@@ -145,7 +145,7 @@ gui.jei.high_oven.fuel.time=燃燒時間: %ss
 #    Tools     #
 ################
 
-itemGroup.TCompTools=Tinkers' Complement|工具
+itemGroup.TCompTools=匠魂補充 工具
 
 item.tcomplement.sledge_head.name=碎礦錘鎚頭
 item.tcomplement.sledge_hammer.name=碎礦錘
