@@ -1,12 +1,12 @@
 # Config
 telepastries.config.title=傳送糕點模組配置
 # Creative Tab
-itemGroup.telepastries=傳送糕點
+itemGroup.telepastries=傳送蛋糕
 # Block
-tile.telepastries:nether_cake.name=下界蛋糕
-tile.telepastries:end_cake.name=末地蛋糕
+tile.telepastries:nether_cake.name=地獄蛋糕
+tile.telepastries:end_cake.name=終界蛋糕
 tile.telepastries:overworld_cake.name=主世界蛋糕
-tile.telepastries:twilight_cake.name=暮色蛋糕
+tile.telepastries:twilight_cake.name=暮光蛋糕
 tile.telepastries:lost_city_cake.name=失落的城市蛋糕
 tile.telepastries:hunting_dimension_cake.name=狩獵維度蛋糕
 # Waila
