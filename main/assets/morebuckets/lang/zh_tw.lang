@@ -1,5 +1,6 @@
 # CREATIVE TAB
 itemGroup.morebuckets=更多桶
+
 # ITEMS
 item.morebuckets.aluminum_bucket.name=鋁桶
 item.morebuckets.copper_bucket.name=銅桶
@@ -12,16 +13,19 @@ item.morebuckets.bronze_bucket.name=青銅桶
 item.morebuckets.golden_bucket.name=金桶
 item.morebuckets.steel_bucket.name=鋼桶
 item.morebuckets.emerald_bucket.name=綠寶石桶
-item.morebuckets.diamond_bucket.name=鉆石桶
+item.morebuckets.diamond_bucket.name=鑽石桶
+
 item.morebuckets.inferium_bucket.name=下級精華桶
 item.morebuckets.prudentium_bucket.name=初級精華桶
 item.morebuckets.intermedium_bucket.name=中級精華桶
 item.morebuckets.superium_bucket.name=高級精華桶
 item.morebuckets.supremium_bucket.name=終極精華桶
 item.morebuckets.insanium_bucket.name=究極精華桶
+
 item.morebuckets.ardite_bucket.name=阿迪特桶
 item.morebuckets.cobalt_bucket.name=鈷桶
 item.morebuckets.manyullyn_bucket.name=瑪玉靈桶
+
 # TOOLTIPS
 tooltip.morebuckets.empty=空
 tooltip.morebuckets.buckets=%s/%s - %s
