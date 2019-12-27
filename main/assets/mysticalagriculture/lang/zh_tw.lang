@@ -32,9 +32,9 @@ tile.ma.soulstone_cracked.name=裂離魂石磚
 tile.ma.soulstone_chiseled.name=鏨制離魂石
 tile.ma.soulstone_slab_block.name=離魂石台階塊
 
-tile.ma.soulstone_slab.name=離魂石台階
-tile.ma.cobbled_soulstone_slab.name=碎離魂石台階
-tile.ma.soulstone_brick_slab.name=離魂石磚台階
+tile.ma.soulstone_slab.name=離魂石半磚
+tile.ma.cobbled_soulstone_slab.name=碎離魂石半磚
+tile.ma.soulstone_brick_slab.name=離魂石磚半磚
 
 tile.ma.cobbled_soulstone_stairs.name=碎離魂石樓梯
 tile.ma.soulstone_brick_stairs.name=離魂石磚樓梯
