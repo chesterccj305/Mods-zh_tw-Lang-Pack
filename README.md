@@ -24,7 +24,8 @@ danny600306、 Johnsonyan、龜龜、 林阿爸、土窯雞沒左手、擬珊瑚
 v2版
 
 簡體中文漢化資源包
+https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
 
-https://www.curseforge.com/minecraft/texture-packs/simplified-chinese-localization-resource-package
+在 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 之下基于简体中文包繁化
 
-https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod 
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
