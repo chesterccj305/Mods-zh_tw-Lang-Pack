@@ -1,0 +1,11 @@
+{
+  "name": "肥料",
+  "icon": "alchemistry:fertilizer",
+  "category": "utility_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "肥料是一個很簡單的物品，它可以在化學合成機中被合成，作用與骨粉相同。"
+    }
+  ]
+}

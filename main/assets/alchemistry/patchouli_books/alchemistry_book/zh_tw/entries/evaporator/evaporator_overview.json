@@ -1,0 +1,15 @@
+{
+  "name": "蒸發皿",
+  "icon": "alchemistry:evaporator",
+  "category": "evaporator_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "蒸發皿可以讓內部的流體蒸發以得到某些固體物質，比如一些礦物鹽。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "alchemistry:evaporator"
+    }
+  ]
+}
