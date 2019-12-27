@@ -12,3 +12,19 @@
 再次感謝
 
 希望未來能實現全中文的理想
+
+特別感謝
+
+v1版
+
+黒羽紫音
+
+danny600306、 Johnsonyan、龜龜、 林阿爸、土窯雞沒左手、擬珊瑚蛇、小江、閒者納孜、默默無名的邊緣人
+
+v2版
+
+簡體中文漢化資源包
+
+https://www.curseforge.com/minecraft/texture-packs/simplified-chinese-localization-resource-package
+
+https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod 
