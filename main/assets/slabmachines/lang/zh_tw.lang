@@ -1,37 +1,35 @@
 #Creative Tab Name
-itemGroup.slabmachines=台階型設備
+itemGroup.slabmachines=半磚設備
 
 #Config Name
-slabmachines.config.title=台階型設備模組配置
+slabmachines.config.title=半磚設備模組配置
 
 #blocks
-tile.slabmachines:workbenchslab.name=台階型工作台
-tile.slabmachines:furnaceslab.name=台階型熔爐
-tile.slabmachines:trappedchestslab.name=台階型陷阱箱
-tile.slabmachines:chestslab.name=台階型箱子
-tile.slabmachines:noteslab.name=台階型音符盒
-tile.slabmachines:tntslab.name=台階型 TNT
+tile.slabmachines:workbenchslab.name=半磚工作台
+tile.slabmachines:furnaceslab.name=半磚熔爐
+tile.slabmachines:trappedchestslab.name=半磚陷阱箱
+tile.slabmachines:chestslab.name=半磚箱子
+tile.slabmachines:noteslab.name=半磚音符盒
+tile.slabmachines:tntslab.name=半磚TNT
 
 #tinkers compat
-tile.slabmachines:craftingstationslab.name=台階型合成站
-tile.slabmachines:partbuilderslab.name=台階型部件加工台
-tile.slabmachines:partchestslab.name=台階型部件箱
-tile.slabmachines:patternchestslab.name=台階型模具箱
-tile.slabmachines:stenciltableslab.name=台階型模具加工台
-tile.slabmachines:toolforgeslab.name=台階型工具組裝台
-tile.slabmachines:toolstationslab.name=台階型工具裝配台
+tile.slabmachines:craftingstationslab.name=半磚合成站
+tile.slabmachines:partbuilderslab.name=半磚部件加工台
+tile.slabmachines:partchestslab.name=半磚部件箱
+tile.slabmachines:patternchestslab.name=半磚模具箱
+tile.slabmachines:stenciltableslab.name=半磚模具加工台
+tile.slabmachines:toolforgeslab.name=半磚工具組裝台
+tile.slabmachines:toolstationslab.name=半磚工具裝配台
 
 #Gui Id
-#不要翻譯
 slabmachines:slabfurnace=Slab Furnace
 slabmachines:slabchest=Slab Chest
 
 #container
-slabmachines:container.furnace=台階型熔爐
-slabmachines:container.chest=台階型箱子
+slabmachines:container.furnace=半磚熔爐
+slabmachines:container.chest=半磚箱子
 
 #TileEntities
-#不要翻譯
 slabmachines:slabfurnace=Slab Furnace Tileentity
 slabmachines:slabchest=Slab Chest Tileentity
 
@@ -44,4 +42,4 @@ slabmachines:slabtoolforge=Slab Tool Forge Tileentity
 slabmachines:slabtoolstation=Slab Tool Station Tileentity
 
 #Entity
-entity.slabmachines:slabtntprimed.name=台階型TNT
+entity.slabmachines:slabtntprimed.name=半磚TNT
