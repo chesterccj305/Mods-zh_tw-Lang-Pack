@@ -6,7 +6,7 @@ tile.ceramics.clay_hard.dark_bricks.name=暗色瓷磚
 tile.ceramics.clay_hard.marine_bricks.name=海洋瓷磚
 tile.ceramics.clay_hard.golden_bricks.name=金色瓷磚
 tile.ceramics.clay_hard.dragon_bricks.name=龍息瓷磚
-tile.ceramics.clay_hard.lava_bricks.name=熔巖磚
+tile.ceramics.clay_hard.lava_bricks.name=熔岩磚
 tile.ceramics.clay_hard.rainbow_bricks.name=彩虹磚
 tile.ceramics.clay_hard.monochrome_bricks.name=單色磚
 
@@ -17,7 +17,7 @@ tile.ceramics.clay_slab.dark_bricks.name=暗色瓷磚半磚
 tile.ceramics.clay_slab.marine_bricks.name=海洋瓷磚半磚
 tile.ceramics.clay_slab.golden_bricks.name=金色瓷磚半磚
 tile.ceramics.clay_slab.dragon_bricks.name=龍息瓷磚半磚
-tile.ceramics.clay_slab.lava_bricks.name=熔巖磚半磚
+tile.ceramics.clay_slab.lava_bricks.name=熔岩磚半磚
 tile.ceramics.clay_slab.rainbow_bricks.name=彩虹磚半磚
 tile.ceramics.clay_slab.monochrome_bricks.name=單色磚半磚
 
@@ -26,7 +26,7 @@ tile.ceramics.dark_bricks_stairs.name=暗色瓷磚樓梯
 tile.ceramics.marine_bricks_stairs.name=海洋瓷磚樓梯
 tile.ceramics.golden_bricks_stairs.name=金色瓷磚樓梯
 tile.ceramics.dragon_bricks_stairs.name=龍息瓷磚樓梯
-tile.ceramics.lava_bricks_stairs.name=熔巖磚樓梯
+tile.ceramics.lava_bricks_stairs.name=熔岩磚樓梯
 tile.ceramics.rainbow_bricks_stairs.name=彩虹磚樓梯
 tile.ceramics.monochrome_bricks_stairs.name=單色磚樓梯
 
@@ -36,7 +36,7 @@ tile.ceramics.clay_wall.dark_bricks.name=暗色瓷磚墻
 tile.ceramics.clay_wall.marine_bricks.name=海洋瓷磚墻
 tile.ceramics.clay_wall.golden_bricks.name=金色瓷磚墻
 tile.ceramics.clay_wall.dragon_bricks.name=龍息瓷磚墻
-tile.ceramics.clay_wall.lava_bricks.name=熔巖磚墻
+tile.ceramics.clay_wall.lava_bricks.name=熔岩磚墻
 tile.ceramics.clay_wall.rainbow_bricks.name=彩虹磚墻
 tile.ceramics.clay_wall.monochrome_bricks.name=單色磚墻
 
