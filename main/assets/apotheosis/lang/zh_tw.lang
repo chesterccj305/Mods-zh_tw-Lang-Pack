@@ -1,50 +1,75 @@
-enchantment.apotheosis.capturing.desc=讓怪物有機會掉落對應的刷怪蛋。
-info.spw.entity=實體：%s
-waila.spw.mindelay=最小延遲：%s
-waila.spw.maxdelay=最大延遲：%s
-waila.spw.spawncount=生成數量：%s
-waila.spw.playerrange=玩家範圍：%s
-waila.spw.spawnrange=生成範圍：%s
-waila.spw.ignoreplayers=忽略玩家
+//Spawner Module
+enchantment.spw.capturing=捕捉
+
+enchantment.apotheosis.capturing.desc=使生物有機會掉落它們的刷怪蛋.
+info.spw.entity=實體: %s
+
+waila.spw.mindelay=最小延遲: %s
+waila.spw.maxdelay=最大延遲: %s
+waila.spw.spawncount=刷怪數量: %s
+waila.spw.maxnearby=附近最大實體數量: %s
+waila.spw.playerrange=玩家激活範圍: %s
+waila.spw.spawnrange=刷怪範圍: %s
+waila.spw.ignoreplayers=忽略附近玩家
 waila.spw.ignoreconditions=忽略生成條件
-waila.spw.redstone=需要紅石
-waila.spw.maxnearby=附近最大實體數：%s
-waila.spw.ignorecap=忽略生成限制
-waila.spw.sneak=潛行以獲取信息
-jei.spw.title=刷怪籠修改
-# //Spawner Module
-enchantment.spw.capturing=捕獲
-jei.spw.invert=反選修改項
-jei.spw.invert2=必須拿在副手
-jei.spw.editmindelay=減少最小生成延遲
-jei.spw.editmaxdelay=減少最大生成延遲
-jei.spw.editspawncount=增加生成數量
-jei.spw.editnearby=提升附近實體數量上限
-jei.spw.editspawn=增加生成範圍
-jei.spw.ignoreconditions=忽視生成條件
-jei.spw.ignoreplayers=忽視附近玩家
+waila.spw.ignorecap=忽略區域刷怪限制
+waila.spw.redstone=紅石控制已啟用
+waila.spw.sneak=偷看消息
+
+jei.spw.title=生怪磚修改
+jei.spw.invert=反轉調節器的行為
+jei.spw.invert2=必須用一隻手拿著
+jei.spw.editmindelay=減小最小刷怪延遲
+jei.spw.editmaxdelay=減小最大刷怪延遲
+jei.spw.editspawncount=增加刷怪數量
+jei.spw.editnearby=增加附近最大實體數
+jei.spw.editplayer=增加玩家激活生怪磚的範圍
+jei.spw.editspawn=增加刷怪範圍
+jei.spw.ignoreconditions=忽略刷怪條件
+jei.spw.ignoreplayers=忽略附近玩家
 jei.spw.changeentity=更改生成的實體
-jei.spw.ignorecap=忽視生成數量上限
+jei.spw.ignorecap=忽略區域刷怪限制
 jei.spw.redstone=啟用紅石控制
-jei.spw.instructions=通過右擊, 可以使用不同的物品來修改刷怪籠屬性。\n一個特定的物品可以反轉修改，從而導致被修改的屬性產生相反的效果。\n刷怪籠也將會被削弱 %s。
-jei.spw.capturing=捕獲附魔使怪物有幾率掉落對應刷怪蛋。\n每級增加 0.4% 掉落幾率。
-info.apotheosis.cobweb=可用於移除附魔。
+jei.spw.instructions=手持各種物品右擊生怪磚可以調節生怪磚.\\n某個物品可以反轉此行為, 導致反方向調節生怪磚的數據.\\n使用精准採集可以獲得生怪磚%s.
+jei.spw.capturing=捕捉附魔有機會讓怪物掉落它們的刷怪蛋.\\n每個附魔等級增加+0.4% 的機率.
+
+//Enchantment Module
+tile.apotheosis.hellshelf.name=地獄書架
+info.apotheosis.hellshelf=為附魔台提供 %s 的附魔能力.
+info.apotheosis.cobweb=可以用來去除所有附魔屬性.
 info.apotheosis.masterwork=極品
 info.apotheosis.twisted=扭曲
-info.apotheosis.altar=海洋祭壇是轉換附魔的必需品。\n\n首先，在每個柱子上放置一個附魔的物品。一旦物品放置完成，祭壇將消耗附近玩家的經驗。\n如果經驗不足，就會有白色粒子生成。\n\n完成後，將消耗所有物品，並生成一本新附魔書。可以獲得通過這種方法獲得極品附魔。
-enchantment.apotheosis.hell_infusion.desc=在下界造成額外的魔法傷害。
-enchantment.apotheosis.mounted_strike.desc=騎馬時造成額外傷害。
-enchantment.apotheosis.depth_miner=礦工熱忱
-enchantment.apotheosis.depth_miner.desc=根據高度調整挖掘速度。
-enchantment.apotheosis.stable_footing=穩定立足
-enchantment.apotheosis.stable_footing.desc=減少滯空采掘速度的減益。
+info.apotheosis.corrupted=腐化
+info.apotheosis.enchanting=附魔台現在可以超過30級. 一些附魔只會出現在30級以上.
+info.apotheosis.altar=海之祭壇專注於轉換附魔物品.\\n\\n首先，先在每根柱子上放置一個附魔物品，一旦提供了足夠的物品，祭壇將吸取附近玩家的經驗.\ \n如果經驗不足，將會產生紫色顆粒.\\n\\n一旦完成，海之祭壇上的物品會被消耗，並生成一本附魔書，有可能獲得寶藏級附魔.
+
+enchantment.apotheosis.hell_infusion=煉獄灌注
+enchantment.apotheosis.hell_infusion.desc=在地獄可以造成額外的魔法傷害.
+
+enchantment.apotheosis.mounted_strike=騎砍
+enchantment.apotheosis.mounted_strike.desc=騎馬時造成額外傷害.
+
+enchantment.apotheosis.depth_miner=礦工的熱情
+enchantment.apotheosis.depth_miner.desc=根據等級調整Y的挖掘速度.
+
+enchantment.apotheosis.stable_footing=穩住腳步
+enchantment.apotheosis.stable_footing.desc=取消飛行時的採礦速度懲罰.
+
 enchantment.apotheosis.scavenger=拾荒者
+enchantment.apotheosis.scavenger.desc=生物被殺死後它們的戰利品有可能會翻2倍.
+
 enchantment.apotheosis.life_mending=生命修補
-enchantment.apotheosis.life_mending.desc=將生命值轉化為耐久。
-enchantment.apotheosis.icy_thorns=寒冰荊刺
-enchantment.apotheosis.icy_thorns.desc=減緩攻擊者的速度。
-item.apotheosis.prismatic_web.name=斑斕蛛網
-info.apotheosis.prismatic_cobweb=可用於消除詛咒附魔
+enchantment.apotheosis.life_mending.desc=將生命轉化為耐久.
+
+enchantment.apotheosis.icy_thorns=冰刺
+enchantment.apotheosis.icy_thorns.desc=使攻擊者受到緩慢效果.
+
+death.apotheosis.corrupted=%1$s 的生命被腐化附魔耗盡了.
+
+item.apotheosis.prismatic_web.name=棱柱形蜘蛛網
+info.apotheosis.prismatic_cobweb=可以用來消除一件裝備中的所有腐化附魔.
+
+item.apotheosis.null_book.name=其他寶典
 item.apotheosis.armor_head_book.name=頭盔寶典
 item.apotheosis.armor_chest_book.name=胸甲寶典
 item.apotheosis.armor_legs_book.name=護腿寶典
@@ -52,55 +77,51 @@ item.apotheosis.armor_feet_book.name=靴子寶典
 item.apotheosis.weapon_book.name=武器寶典
 item.apotheosis.digger_book.name=礦工寶典
 item.apotheosis.fishing_rod_book.name=漁夫寶典
-item.apotheosis.bow_book.name=射手寶典
-info.apotheosis.null_book=接受各種附魔
-info.apotheosis.hellshelf=提高 %s 附魔等級。
-info.apotheosis.corrupted=腐壞
-info.apotheosis.enchanting=附魔台現在可以超過 30 級。一些附魔效果可能只出現在 30 級以上。
-enchantment.apotheosis.scavenger.desc=被擊殺的怪物可能會掉落兩次物品
-info.apotheosis.armor_head_book=接受頭盔附魔
-info.apotheosis.armor_chest_book=接受胸甲附魔
-info.apotheosis.armor_legs_book=接受護腿附魔
+item.apotheosis.bow_book.name=弓寶典
+item.apotheosis.scrap_tome.name=分解寶典
+info.apotheosis.null_book=接受其他附魔.
+info.apotheosis.armor_head_book=接受頭盔附魔.
+info.apotheosis.armor_chest_book=接受胸甲附魔.
+info.apotheosis.armor_legs_book=接受護腿附魔.
 info.apotheosis.armor_feet_book=接受靴子附魔
-info.apotheosis.weapon_book=接受武器附魔
-info.apotheosis.digger_book=接受采掘工具附魔
-info.apotheosis.fishing_rod_book=接受釣魚竿附魔
-info.apotheosis.bow_book=接受弓附魔
-enchantment.apotheosis.tempting.desc=引誘附近的農場動物。
-enchantment.apotheosis.shield_bash=盾牌反擊
-enchantment.apotheosis.shield_bash.desc=使盾牌左鍵能造成更高的傷害。
-enchantment.apotheosis.reflective=反射防禦
-enchantment.apotheosis.reflective.desc=可能將傷害反彈給攻擊者。
-enchantment.apotheosis.berserk=狂戰士之怒
-enchantment.apotheosis.berserk.desc=受傷時提高自身傷害。
-enchantment.apotheosis.knowledge=知識
-enchantment.apotheosis.knowledge.desc=怪物掉落物會被轉換為經驗。
-enchantment.apotheosis.natures_blessing=自然祝福
-enchantment.apotheosis.natures_blessing.desc=鋤頭可以當作骨粉催熟作物。
-enchantment.apotheosis.rebounding=回彈
-enchantment.apotheosis.rebounding.desc=受傷時把使用近戰攻擊的怪物彈飛
-enchantment.apotheosis.magic_protection=魔法保護
-enchantment.apotheosis.magic_protection.desc=減少使用者受到的魔法傷害。
-tile.apotheosis.prismatic_altar.name=海之祭壇
-# //Vanilla
-tile.reeds.name=甘蔗
-item.apotheosis.lucky_foot.name=幸運兔子腳
-info.apotheosis.lucky=罕見的發現
-enchantment.apotheosis.mounted_strike=騎兵突擊
-jei.spw.editplayer=增加所需玩家範圍
-# //Enchantment Module
-tile.apotheosis.hellshelf.name=地獄灌註書架
-enchantment.apotheosis.hell_infusion=地獄灌註
-death.apotheosis.corrupted=%1$s 被腐壞附魔耗盡了最後一點氣息。
-item.apotheosis.null_book.name=其他寶典
+info.apotheosis.weapon_book=接受武器附魔.
+info.apotheosis.digger_book=接受礦工附魔.
+info.apotheosis.fishing_rod_book=接受漁夫附魔.
+info.apotheosis.bow_book=接受弓附魔.
+info.apotheosis.scrap_tome=可以將一些附魔轉移到分解寶典上，之後使用方法與附魔書相同.
+info.apotheosis.scrap_tome2=使用後將會被消耗.
+
 enchantment.apotheosis.tempting=引誘
-enchantment.apotheosis.splitting=分裂
-enchantment.apotheosis.splitting.desc=允許帶有此附魔的鐵砧分開附魔書上的附魔。
-# //Potion Module
-enchantment.apotheosis.true_infinity=極致無限
-enchantment.apotheosis.true_infinity.desc=讓所有的箭都是無限的。
-# //Anvil Module
-info.apotheosis.anvil=能夠被附魔。
+enchantment.apotheosis.tempting.desc=引誘附近的動物.
+
+enchantment.apotheosis.shield_bash=盾擊
+enchantment.apotheosis.shield_bash.desc=增加盾牌造成的傷害.
+
+enchantment.apotheosis.reflective=反甲
+enchantment.apotheosis.reflective.desc=格擋有可能會對攻擊者造成傷害.
+
+enchantment.apotheosis.berserk=狂戰士
+enchantment.apotheosis.berserk.desc=受到傷害時會變得憤怒.
+
+enchantment.apotheosis.knowledge=閱歷
+enchantment.apotheosis.knowledge.desc=敵人的掉落物將會被轉化為經驗.
+
+enchantment.apotheosis.splitting=拆分
+enchantment.apotheosis.splitting.desc=允許當鐵砧砸中有多種附魔的附魔書時能將它們依次拆分.
+
+enchantment.apotheosis.natures_blessing=大自然的祝福
+enchantment.apotheosis.natures_blessing.desc=鋤頭右鍵可以對作物施加骨粉.
+
+enchantment.apotheosis.rebounding=反彈
+enchantment.apotheosis.rebounding.desc=近戰攻擊者有可能會被彈飛.
+
+enchantment.apotheosis.magic_protection=神秘的厭惡
+enchantment.apotheosis.magic_protection.desc=減少對玩家造成的魔法傷害.
+
+tile.apotheosis.prismatic_altar.name=海之祭壇
+
+//Vanilla
+tile.reeds.name=甘蔗
 potion.potency.3=IV
 enchantment.level.11=XI
 enchantment.level.12=XII
@@ -219,41 +240,56 @@ enchantment.level.124=CXXIV
 enchantment.level.125=CXXV
 enchantment.level.126=CXXVI
 enchantment.level.127=CXXVII
+
+//Potion Module
+enchantment.apotheosis.true_infinity=無限箭袋
+enchantment.apotheosis.true_infinity.desc=使所有的箭無限(附魔在弓上,無需箭).
+
 potion.effect.resistance=抗性藥水
-splash_potion.effect.resistance=噴濺型抗性藥水
-lingering_potion.effect.resistance=滯留型抗性藥水
+splash_potion.effect.resistance=飛濺 抗性藥水
+lingering_potion.effect.resistance=滯留 抗性藥水
 tipped_arrow.effect.resistance=抗性之箭
-potion.effect.absorption=吸收藥水
-splash_potion.effect.absorption=噴濺型吸收藥水
-lingering_potion.effect.absorption=滯留型吸收藥水
-tipped_arrow.effect.absorption=吸收之箭
+
+potion.effect.absorption=傷害吸收藥水
+splash_potion.effect.absorption=飛濺 傷害吸收藥水
+lingering_potion.effect.absorption=滯留 傷害吸收藥水
+tipped_arrow.effect.absorption=傷害吸收之箭
+
 potion.effect.haste=急迫藥水
-splash_potion.effect.haste=噴濺型急迫藥水
-lingering_potion.effect.haste=滯留型急迫藥水
+splash_potion.effect.haste=飛濺 急迫藥水
+lingering_potion.effect.haste=滯留 急迫藥水
 tipped_arrow.effect.haste=急迫之箭
+
 potion.effect.fatigue=挖掘疲勞藥水
-splash_potion.effect.fatigue=噴濺型挖掘疲勞藥水
-lingering_potion.effect.fatigue=滯留型挖掘疲勞藥水
+splash_potion.effect.fatigue=飛濺 挖掘疲勞藥水
+lingering_potion.effect.fatigue=滯留 挖掘疲勞藥水
 tipped_arrow.effect.fatigue=挖掘疲勞之箭
-potion.effect.wither=雕零藥水
-splash_potion.effect.wither=噴濺型雕零藥水
-lingering_potion.effect.wither=滯留型雕零藥水
-tipped_arrow.effect.wither=雕零之箭
-effect.apotheosis.knowledge=知識
-potion.effect.knowledge=古識藥水
-splash_potion.effect.knowledge=噴濺型古識藥水
-lingering_potion.effect.knowledge=滯留型古識藥水
-tipped_arrow.effect.knowledge=古識之箭
-effect.apotheosis.sundering=天災
-potion.effect.sundering=天災藥水
-splash_potion.effect.sundering=噴濺型天災藥水
-item.apotheosis.scrap_tome.name=拆解寶典
-info.apotheosis.scrap_tome=能夠移除附魔，並把其中一些轉移到自己上。
-info.apotheosis.scrap_tome2=在處理中會消耗物品。
-lingering_potion.effect.sundering=滯留型天災藥水
-tipped_arrow.effect.sundering=天災之箭
-# //Garden Module
-item.apotheosis.farmers_leash.name=末影農夫栓繩
-info.apotheosis.noentity=持有實體：無
-info.apotheosis.containedentity=持有實體：%s
-info.apotheosis.farmleash=此栓繩能夠用於移除附近的動物。左擊捕獲生物，右擊進行釋放。栓繩不會作用於其他類型實體。
+
+potion.effect.wither=凋零藥水
+splash_potion.effect.wither=飛濺 凋零藥水
+lingering_potion.effect.wither=滯留 凋零藥水
+tipped_arrow.effect.wither=凋零之箭
+
+effect.apotheosis.sundering=破甲
+potion.effect.sundering=破甲藥水
+splash_potion.effect.sundering=飛濺 破甲藥水
+lingering_potion.effect.sundering=滯留 破甲藥水
+tipped_arrow.effect.sundering=破甲之箭
+
+effect.apotheosis.knowledge=閱歷
+potion.effect.knowledge=古代知識藥水
+splash_potion.effect.knowledge=飛濺 古代知識藥水
+lingering_potion.effect.knowledge=滯留 古代知識藥水
+tipped_arrow.effect.knowledge=古代知識之箭
+
+item.apotheosis.lucky_foot.name=幸運的兔子腳
+info.apotheosis.lucky=一個罕見的發現
+
+//Anvil Module
+info.apotheosis.anvil=可以被附魔.
+
+//Garden Module
+item.apotheosis.farmers_leash.name=終界栓繩
+info.apotheosis.noentity=持有實體: 沒有
+info.apotheosis.containedentity=持有實體: %s
+info.apotheosis.farmleash=終界栓繩是一種可以用來移動動物的物品. 鼠標左鍵捕​​捉動物, 鼠標右鍵釋放動物. 這種捕捉僅適用於動物.
