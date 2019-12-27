@@ -1,6 +1,6 @@
 block.portalgun.block.portal.name=傳送塊
 entity.EntityPortalProjectile.name=傳送槍子彈
-item.portalgun.item.dustEnderPearl.name=末影珍珠粉
+item.portalgun.item.dustEnderPearl.name=終界珍珠粉
 item.portalgun.item.miniatureBlackHole.name=微型黑洞
 item.portalgun.item.portalgun.name=傳送槍
 portalgun.config.cat.portalgun.comment=與傳送槍有關的配置選項
