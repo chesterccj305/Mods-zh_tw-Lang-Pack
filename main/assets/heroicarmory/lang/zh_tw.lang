@@ -1,0 +1,333 @@
+#Creative Tab
+itemGroup.tabHeroicArmory=英雄武器庫
+#
+#lotr 魔戒
+item.lotrGimliBattleAxe.name=金靂戰斧
+item.lotrGimliLongAxe.name=金靂長斧
+item.lotrMorgulBlade.name=魔窟劍
+item.lotrSting.name=刺針
+item.lotrGlamdring.name=敵擊劍
+item.lotrAnduril.name=安督瑞爾
+item.lotrNarsil.name=納希爾聖劍
+item.lotrSauronMace.name=索倫權杖
+item.lotrWitchKingSword.name=戒靈王之劍
+#
+#loz 薩爾達傳說
+item.lozMasterSword.name=大師之劍
+item.lozMasterSwordII.name=大師之劍 II
+item.lozTemperedSword.name=Tempered Sword
+item.lozMasterSwordIII.name=大師之劍 III
+item.lozGoldenSword.name=Golden Sword
+item.lozFlameblade.name=Flameblade
+item.lozDarknutSwordTp.name=Darknut Sword
+item.lozGhirahimSword.name=Ghirahim Sword
+item.lozFierceDietySword.name=Fierce Diety's Sword
+item.lozZeldaSword.name=Zelda's Sword
+item.lozBokoStick.name=Boko Stick
+item.lozCaneofByrna.name=Cane of Byrna
+item.lozMegatonHammer.name=Megaton Hammer
+item.lozKokiriSwordMm.name=Kokiri Sword
+item.lozKokiriSwordOoT.name=Kokiri Sword
+item.lozDemiseSword.name=Demise's Sword
+item.lozGiantKnife.name=Giant's Knife
+item.lozBiggoronSword.name=Biggoron's Sword
+item.lozPhantomGanonSword.name=Phantom Ganon's Sword
+item.lozUltimateSword.name=Ultimate Sword
+item.lozRoyalGuardSword.name=Royal Guard's Sword
+item.lozMagicSwordConcept.name=Magic Sword
+item.lozMagicSword.name=Magic Sword
+item.lozWhiteSword.name=White Sword
+item.lozWhiteSwordConcept.name=White Sword
+item.lozPicoriBlade.name=Picori Blade
+item.lozRazorSword.name=Razor Sword
+item.lozGreatFairySword.name=Great Fairy's Sword
+item.lozGoddessWhiteSword.name=Goddess White Sword
+item.lozGoddessSword.name=Goddess Sword
+item.lozGildedSword.name=Gilded Sword
+item.lozSpikedBokoClub.name=Spiked Boko Club
+item.lozBokoClub.name=Boko Club
+#
+#at 探險活寶
+item.atJakeSword.name=Jake's Sword
+item.atCrystalSword.name=Crystal Sword
+item.atNothung.name=Nothung
+item.atFinnSword.name=Finn Sword
+item.atSwordoftheDead.name=Sword of the Dead
+item.atWishStarSword.name=Wish Star Sword
+item.atFightKingSword.name=Fight King Sword
+item.atRootSword.name=Root Sword
+item.atScarlet.name=Scarlet
+item.atGrassSword.name=Grass Sword
+item.atDemonBloodSword.name=Demon Blood Sword
+item.atAxeBass.name=Axe Bass
+#
+#ff 最終幻想
+item.ffTheMasamune.name=The Masamune
+item.ffBusterSword.name=Buster Sword
+item.ffCaladbolg.name=Caladbolg
+#
+#rotmg 狂神國度
+item.rotmgSwordoftheColossus.name=Sword of the Colossus
+item.rotmgCrystalSword.name=Crystal Sword
+item.rotmgPixieEnchantedSword.name=Pixie-Enchanted Sword
+item.rotmgSwordOfAcclaim.name=Sword Of Acclaim
+item.rotmgDemonBlade.name=Demon Blade
+item.rotmgSwordoftheMadGod.name=Sword of the Mad God
+item.rotmgIndomptable.name=Indomptable
+item.rotmgPirateKingCutlass.name=Pirate King's Cutlass
+item.rotmgSwordofSplendor.name=Sword of Splendor
+item.rotmgSkysplitterSword.name=Skysplitter Sword
+item.rotmgArchonSword.name=Archon Sword
+item.rotmgAncientStoneSword.name=Ancient Stone Sword
+item.rotmgDragonsoulSword.name=Dragonsoul Sword
+item.rotmgRavenheartSword.name=Ravenheart Sword
+#
+#sc 劍魂
+item.scFirangi.name=Firangi
+item.scCocytus.name=Cocytus
+item.scErlangBlade.name=Erlang's Blade
+item.scSoulEdgeNightmare.name=Soul Edge
+item.scPhlegathon.name=Phlegathon
+item.scAcheron.name=Acheron
+item.scLethe.name=Lethe
+item.scQueenGuard.name=Queen's Guard
+item.scHolyAntler.name=Holy Antler
+item.scEpee.name=Epee
+item.scWarHammer.name=War Hammer
+item.scKalutues.name=Kalutues
+item.scEstoc.name=Estoc
+item.scFlambert2P.name=Flambert
+item.scReiterpallasch.name=Reiterpallasch
+item.scFlambert.name=Flambert
+item.scBlueCrystalRod.name=Blue Crystal Rod
+item.scFireBlade.name=Fire Blade
+item.scXiSword.name=Xi Sword
+item.scOmegaSword2P.name=Omega Sword
+item.scOmegaSword.name=Omega Sword
+item.scOrichalcum.name=Orichalcum
+item.scStiletto.name=Stiletto
+item.scRequiem.name=Requiem
+item.scFaust.name=Faust
+item.scFlamberge.name=Flamberge
+item.scSteelPaddle.name=Steel Paddle
+item.scGlam.name=Glam
+item.scGreatBlade.name=Great Blade
+#
+#rs RuneScape
+item.rsBronzeSword.name=Bronze Sword
+item.rsIronSword.name=Iron Sword
+item.rsWhiteSword.name=White Sword
+item.rsBlackSword.name=Black Sword
+item.rsSteelSword.name=Steel Sword
+item.rsMithrilSword.name=Mithril Sword
+item.rsAdamantSword.name=Adamant Sword
+item.rsRuneSword.name=Rune Sword
+item.rsDragonSword.name=Dragon Sword
+item.rsBronzeBattleaxe.name=Bronze Battleaxe
+item.rsIronBattleaxe.name=Iron Battleaxe
+item.rsSteelBattleaxe.name=Steel Battleaxe
+item.rsBlackBattleaxe.name=Black Battleaxe
+item.rsWhiteBattleaxe.name=White Battleaxe
+item.rsMithrilBattleaxe.name=Mithril Battleaxe
+item.rsAdamantBattleaxe.name=Adamant Battleaxe
+item.rsRuneBattleaxe.name=Rune Battleaxe
+item.rsDragonBattleaxe.name=Dragon Battleaxe
+item.rsBronzeScimitar.name=Bronze Scimitar
+item.rsIronScimitar.name=Iron Scimitar
+item.rsBlackScimitar.name=Black Scimitar
+item.rsWhiteScimitar.name=White Scimitar
+item.rsSteelScimitar.name=Steel Scimitar
+item.rsMithrilScimitar.name=Mithril Scimitar
+item.rsAdamantScimitar.name=Adamant Scimitar
+item.rsRuneScimitar.name=Rune Scimitar
+item.rsDragonScimitar.name=Dragon Scimitar
+item.rsBronzeWarhammer.name=Bronze Warhammer
+item.rsIronWarhammer.name=Iron Warhammer
+item.rsSteelWarhammer.name=Steel Warhammer
+item.rsBlackWarhammer.name=Black Warhammer
+item.rsWhiteWarhammer.name=White Warhammer
+item.rsMithrilWarhammer.name=Mithril Warhammer
+item.rsAdamantWarhammer.name=Adamant Warhammer
+item.rsRuneWarhammer.name=Rune Warhammer
+item.rsBronzeMace.name=Bronze Mace
+item.rsIronMace.name=Iron Mace
+item.rsSteelMace.name=Steel Mace
+item.rsBlackMace.name=Black Mace
+item.rsWhiteMace.name=White Mace
+item.rsMithrilMace.name=Mithril Mace
+item.rsAdamantMace.name=Adamant Mace
+item.rsRuneMace.name=Rune Mace
+item.rsGraniteLongsword.name=Granite Longsword
+item.rsGraniteHammer.name=Granite Hammer
+item.rsGraniteMaul.name=Granite Maul
+item.rsElderMaul.name=Elder Maul
+item.rsToktzxilak.name=Toktz-xil-ak
+item.rsWolfsbane.name=Wolfsbane
+item.rsZamorakGodsword.name=Zamorak Godsword
+item.rsBandosGodsword.name=Bandos Godsword
+item.rsArmadylGodsword.name=Armadyl Godsword
+item.rsSaradominGodsword.name=Saradomin Godsword
+item.rsBarrelchestAnchor.name=Barrelchest Anchor
+#
+#dmc 惡魔獵人
+item.dmcRedQueen.name=绯红女皇
+item.dmcRebellion.name=反逆
+item.dmcYamato.name=閻魔刀
+#
+#pkmn
+item.pkmnHonedgeShiny.name=異色獨劍鞘
+item.pkmnHonedge.name=獨劍鞘
+#
+#kirby 星之卡比
+item.kirbyGalaxia.name=伽拉西亞
+item.kirbyKirbyUltraSword.name=卡比究極之劍
+item.kirbyKirbySword.name=卡比之劍
+#
+#fe 聖火降魔錄
+item.feChromFalchion.name=庫洛姆的封劍
+item.feFalchion.name=封劍
+#
+#kh 國王之心
+item.khKeyblade.name=鑰刃
+#
+#bleach 死神
+item.bleachZabimaru.name=蛇尾丸
+item.bleachZangestsu.name=斩月
+#
+#ds 黑暗靈魂
+item.dsGreatswordofArtorias.name=Greatsword of Artorias
+item.dsGreatLordGreatsword.name=Great Lord Greatsword
+item.dsAstoraGreatsword.name=Astora Greatsword
+item.dsZweilhander.name=Zweilhander
+#
+#myth
+item.mythDeathScythe.name=死神之鐮
+item.mythTheDevilPitchfork.name=惡魔三叉戟
+#
+#bayonetta 魔兵驚天錄
+item.bayonettaShuraba.name=Shuraba
+item.bayonettaAngelSlayer.name=Angel Slayer
+#
+#gow 戰神
+item.gowLeviathanUpgraded.name=Leviathan
+item.gowLeviathan.name=Leviathan
+item.gowBladeofOlympus.name=Blade of Olympus
+item.gowBladeofChaos.name=Blade of Chaos
+#
+#skyrim 上古卷軸
+item.skyrimIronSword.name=Iron Sword
+item.skyrimIronWarhammer.name=Iron Warhammer
+item.skyrimSteelSword.name=Steel Sword
+item.skyrimSteelWarhammer.name=Steel Warhammer
+item.skyrimOrcishSword.name=Orcish Sword
+item.skyrimOrcishWarhammer.name=Orcish Warhammer
+item.skyrimDwarvenSword.name=Dwarven Sword
+item.skyrimDwarvenWarhammer.name=Dwarven Warhammer
+item.skyrimElvenSword.name=Elven Sword
+item.skyrimElvenWarhammer.name=Elven Warhammer
+item.skyrimGlassSword.name=Glass Sword
+item.skyrimGlassWarhammer.name=Glass Warhammer
+item.skyrimEbonySword.name=Ebony Sword
+item.skyrimEbonyWarhammer.name=Ebony Warhammer
+item.skyrimDaedricSword.name=Daedric Sword
+item.skyrimDaedricWarhammer.name=Daedric Warhammer
+item.skyrimDragonboneSword.name=Dragonbone Sword
+item.skyrimDragonboneWarhammer.name=Dragonbone Warhammer
+item.skyrimImperialSword.name=Imperial Sword
+item.skyrimDawnbreaker.name=Dawnbreaker
+item.skyrimAncientNordSword.name=Ancient Nord Sword
+item.skyrimChillrend.name=Chillrend
+item.skyrimEbonyBlade.name=Ebony Blade
+#
+#mh 魔物獵人
+item.mhChickenDecapitator.name=Chicken Decapitator
+item.mhGolemBlade.name=Golem Blade
+item.mhDefender.name=Defender
+item.mhBlackBeltBlade.name=Black Belt Blade
+item.mhWailingCleaver.name=Wailing Cleaver
+item.mhGaelicFlame.name=Gaelic Flame
+item.mhBoneKatana.name=Bone Katana
+item.mhHellishSlasher.name=Hellish Slasher
+item.mhCentenarianDagger.name=Centenarian Dagger
+item.mhWyvernBladeBlood.name=Wyvern Blade Blood
+item.mhWyvernBladeHolly.name=Wyvern Blade Holly
+item.mhWyvernBladePale.name=Wyvern Blade Pale
+item.mhWyvernBladeAzure.name=Wyvern Blade Azure
+item.mhWyvernBladeLeaf.name=Wyvern Blade Leaf
+item.mhRathalosFlamesword.name=Rathalos Flamesword
+#
+#terraria 泰拉瑞亞
+item.terrariaPalmWoodSword.name=棕梠木劍
+item.terrariaBorealWoodSword.name=針葉木劍
+item.terrariaShadewoodSword.name=暗影木劍
+item.terrariaEbonwoodSword.name=烏木劍
+item.terrariaCopperShortsword.name=銅短劍
+item.terrariaCopperBroadsword.name=銅闊劍
+item.terrariaTinShortsword.name=錫短劍
+item.terrariaTinBroadsword.name=錫寬劍
+item.terrariaLeadShortsword.name=鉛短劍
+item.terrariaLeadBroadsword.name=鉛寬劍
+item.terrariaSpear.name=長矛
+item.terrariaIronShortsword.name=鐵短劍
+item.terrariaIronBroadsword.name=鐵闊劍
+item.terrariaSilverBroadsword.name=銀短劍
+item.terrariaSilverShortsword.name=銀闊劍
+item.terrariaGoldShortsword.name=金短劍
+item.terrariaGoldBroadsword.name=金闊劍
+item.terrariaTungstenBroadsword.name=鎢寬劍
+item.terrariaTungstenShortsword.name=鎢短劍
+item.terrariaPlatinumShortsword.name=鉑金短劍
+item.terrariaPlatinumBroadsword.name=鉑金寬劍
+item.terrariaMandibleBlade.name=頜骨劍
+item.terrariaKatana.name=武士刀
+item.terrariaExoticScimitar.name=外星彎刀
+item.terrariaMuramasa.name=村正大刀
+item.terrariaFalconBlade.name=獵鷹刃
+item.terrariaBladeofGrass.name=草劍
+item.terrariaFieryGreatsword.name=熾焰巨劍
+item.terrariaBoneSword.name=骨劍
+item.terrariaBloodButcherer.name=血腥屠刀
+item.terrariaEnchantedSword.name=附魔劍
+item.terrariaStarfury.name=星怒
+item.terrariaBeeKeeper.name=養蜂人
+item.terrariaIceBlade.name=冰雪刃
+item.terrariaNightEdge.name=永夜刃
+item.terrariaArkhalis.name=Arkhalis劍
+item.terrariaTrident.name=三叉戟
+item.terrariaTheRottedFork.name=腐叉
+item.terrariaWhitePhaseblade.name=白隕石光劍
+item.terrariaYellowPhaseblade.name=黃隕石光劍
+item.terrariaPurplePhaseblade.name=紫隕石光劍
+item.terrariaGreenPhaseblade.name=綠隕石光劍
+item.terrariaRedPhaseblade.name=紅隕石光劍
+item.terrariaBluePhaseblade.name=藍隕石光劍
+item.terrariaLightBane.name=魔光劍
+item.terrariaDarkLance.name=暗黑長戟
+item.terrariaPurpleClubberfish.name=紫揮棒魚
+item.terrariaCactusSword.name=仙人掌劍
+item.terrariaSwordfish.name=劍魚
+#
+#sw 星際大戰
+item.swYellowLightsaber.name=黃色光劍
+item.swGreenLightsaber.name=綠色光劍
+item.swBlueLightsaber.name=藍色光劍
+item.swRedLightsaber.name=紅色光劍
+item.swMaceWinduLightsaber.name=魅使·雲度的光劍
+item.swTheInquisitorLightsaber.name=審判官的光劍
+item.swDarthMaulLightsaber.name=達斯·魔的光劍
+item.swQuiGonJinnLightsaber.name=魁剛·金的光劍
+item.swKyloRenLightsaber.name=凱羅·忍的光劍
+item.swCountDookuLightsaber.name=杜庫伯爵的光劍
+item.swDarksaber.name=暗劍
+#
+#internet
+item.internetDemonoidPitchfork.name=Demonoid's Pitchfork
+#
+#nh Nethack
+item.nhMagicbane.name=Magicbane
+item.nhAthame.name=Athame
+item.nhGrayswandir.name=Grayswandir
+item.nhSilverSaber.name=Silver Saber
+#
+#abcm
+item.abcmExcalibur.name=神劍
