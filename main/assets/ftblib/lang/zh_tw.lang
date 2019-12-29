@@ -9,18 +9,18 @@ gui.close=關閉
 gui.open=開啟
 gui.saved=保存
 gui.loaded=價值
-gui.info=信息
+gui.info=資訊
 gui.collapse_all=全部折疊
 gui.expand_all=全部展開
 gui.download=下載
 gui.downloaded=已下載
 gui.update=更新
 gui.updated=已更新
-gui.active=激活
-gui.inactive=未激活
+gui.active=啟動
+gui.inactive=未啟動
 gui.settings=設置
-gui.rename=重命名
-gui.search_box=搜索中……
+gui.rename=重新命名
+gui.search_box=搜尋欄
 gui.move=移動
 gui.copy=複製
 gui.paste=貼上
@@ -28,7 +28,7 @@ gui.cut=剪下
 
 ## Labels
 gui.other=其他
-gui.server_forced=服務器強制加載：%s
+gui.server_forced=伺服器強制加載：%s
 gui.online=在線
 gui.offline=離線
 gui.whitelist=白名單
@@ -56,13 +56,13 @@ wip=開發中！
 deprecated=不建議使用這個方法，請使用 %s
 example=示例：
 click_here=[點擊此處]
-feature_disabled=這個功能被禁用！
-feature_disabled_server=這個功能在服務器被禁用！
+feature_disabled=此功能已停用！
+feature_disabled_server=此功能在伺服器被停用！
 error=錯誤：%s
 owner=組長：%s
-delete_item=你想要刪除“%s”麽？
+delete_item=你想要刪除“%s”嗎？
 server_forced=服務器覆寫了“%s”
-commands=命令
+commands=指令
 my_permissions=我的權限
 all_permissions=所有權限
 key.categories.ftbmods=FTB Mods
@@ -75,10 +75,10 @@ cant_use_now_cooldown=現在無法使用，冷卻時間：%s
 action_bar=動作欄
 nothing_changed=沒有改變！
 player_must_be_online=玩家必須在線！
-lat_support=喜歡這個模組嗎？ 單擊以支持我的項目！
+lat_support=喜歡這個模組嗎？ 點擊以支持我的項目！
 
-ftblib.lang.reload_server_button=重載服務端
-ftblib.lang.reload_server=FTBLib：服務端重載耗時 %s
+ftblib.lang.reload_server_button=重載伺服端
+ftblib.lang.reload_server=FTBLib：伺務端重載耗時 %s
 ftblib.lang.reload_client=FTBLib：客戶端重載耗時 %s
 ftblib.lang.reload_failed=這些 ID 重載失敗：
 
@@ -103,7 +103,7 @@ ftblib.select_team.gui=選擇組
 
 # Config
 ftblib.general.clientless_mode=無客戶端模式
-ftblib.general.replace_reload_command=替換/重新加載命令
+ftblib.general.replace_reload_command=替換/重新加載指令
 ftblib.general.merge_offline_mode_players=合並離線玩家數據
 
 ftblib.teams=組
@@ -111,11 +111,11 @@ ftblib.teams.autocreate_sp=單人遊戲自動創建組
 ftblib.teams.autocreate_mp=多人遊戲自動創建組
 
 ftblib.debugging=調試
-ftblib.debugging.special_commands=特殊命令
-ftblib.debugging.print_more_info=打印輸出更多信息
-ftblib.debugging.print_more_errors=打印輸出更多錯誤
-ftblib.debugging.log_network=記錄網絡 IO
-ftblib.debugging.log_teleport=記錄傳送信息
+ftblib.debugging.special_commands=特殊指令
+ftblib.debugging.print_more_info=列印輸出更多資訊
+ftblib.debugging.print_more_errors=列印輸出更多錯誤
+ftblib.debugging.log_network=記錄網路 IO
+ftblib.debugging.log_teleport=記錄傳送資訊
 ftblib.debugging.log_config_editing=記錄配置修改
 ftblib.debugging.dev_sidebar_buttons=僅開發模式的側邊欄按鈕
 ftblib.debugging.gui_widget_bounds=GUI 小按鈕邊界
@@ -125,12 +125,12 @@ ftblib.debugging.log_events=記錄事件
 ftblib_client.general.item_ore_names=顯示物品礦物詞典名稱
 ftblib_client.general.item_ore_names.item_tooltip=礦物詞典名稱：
 ftblib_client.general.item_nbt=顯示物品 NBT
-ftblib_client.general.replace_vanilla_status_messages=替換原版狀態信息
+ftblib_client.general.replace_vanilla_status_messages=替換原版狀態資訊
 ftblib_client.general.debug_helper=調試幫助
 
 # Player Settings
-player_config=我的服務器設置
-player_config.ftblib.hide_team_notification=登錄時隱藏組內通知
+player_config=我的伺服器設置
+player_config.ftblib.hide_team_notification=登入時隱藏組內通知
 
 # Team Settings
 team_config.ftblib.display=顯示
@@ -156,7 +156,7 @@ ftblib.lang.team.invited=已經邀請 %s 到“%s”組
 ftblib.lang.team.invited_you=你被邀請到“%s”，邀請者是 %s
 ftblib.lang.team.cancel_invite=拒絕邀請
 ftblib.lang.team.error.not_found=組“%s”沒有找到！
-ftblib.lang.team.error.no_team=你必須在一個組裏面才能這樣做！
+ftblib.lang.team.error.no_team=你必須在一個組裡面才能這樣做！
 ftblib.lang.team.error.must_leave=你必須離開你的組才能那樣做！
 ftblib.lang.team.error.not_owner=你不是這個組的組長！
 ftblib.lang.team.error.not_member=%s 不是這個組的組員！
@@ -165,8 +165,8 @@ ftblib.lang.team.error.already_invited=%s 已經被邀請！
 ftblib.lang.team.error.failed_to_join=不能加入這個組！
 ftblib.lang.team.permission.set=權限“%s”對於 %s 設置為 %s
 ftblib.lang.team.permission.owner=不能改變組長的權限！
-ftblib.lang.team.notification=你還沒有加入或創建組！%s 來打開組隊GUI，%s 來隱藏此信息。
-ftblib.lang.team.notification.hide=隱藏此信息
+ftblib.lang.team.notification=你還沒有加入或創建組！%s 來打開組隊GUI，%s 來隱藏此資訊。
+ftblib.lang.team.notification.hide=隱藏此資訊
 ftblib.lang.team.chat_message=[組 %s] %s
 
 team_action.ftblib.select_team=選擇想要加入的組
