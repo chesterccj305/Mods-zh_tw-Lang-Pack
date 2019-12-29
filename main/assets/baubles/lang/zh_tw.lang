@@ -1,11 +1,11 @@
 button.baubles=飾品
 button.normal=普通
-item.Ring.0.name=礦工指環
+item.Ring.0.name=礦工戒指
 keybind.baublesinventory=飾品欄
 name.AMULET=飾品（護身符）
 name.BELT=飾品（腰帶）
 name.BODY=飾品（身體）
 name.CHARM=飾品（墜飾）
 name.HEAD=飾品（頭部）
-name.RING=飾品（指環）
+name.RING=飾品（戒指）
 name.TRINKET=飾品（任意）
