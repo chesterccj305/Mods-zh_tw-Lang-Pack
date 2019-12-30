@@ -2,17 +2,17 @@
 itemGroup.redstonerepository.creativeTab=紅石軍械庫
 
 #Items
-item.redstonerepository.material.dustGelidEnderium.name=極寒末影粉
-item.redstonerepository.material.gearGelidEnderium.name=極寒末影齒輪
+item.redstonerepository.material.dustGelidEnderium.name=極寒終界粉
+item.redstonerepository.material.gearGelidEnderium.name=極寒終界齒輪
 item.redstonerepository.material.gemGelid.name=極寒水晶
-item.redstonerepository.material.ingotGelidEnderium.name=極寒末影錠
-item.redstonerepository.material.nuggetGelidEnderium.name=極寒末影粒
-item.redstonerepository.material.plateGelidEnderium.name=極寒末影板
+item.redstonerepository.material.ingotGelidEnderium.name=極寒終界錠
+item.redstonerepository.material.nuggetGelidEnderium.name=極寒終界粒
+item.redstonerepository.material.plateGelidEnderium.name=極寒終界板
 item.redstonerepository.material.plateArmorGelidEnderium.name=極寒護甲防護板
 item.redstonerepository.material.rodGelid.name=極寒黑曜石手柄
 item.redstonerepository.material.stringFluxed.name=充能紅石線
 
-tile.redstonerepository.storage.blockGelidEnderium.name=極寒末影塊
+tile.redstonerepository.storage.blockGelidEnderium.name=極寒終界塊
 tile.redstonerepository.storage.blockGelidGem.name=極寒水晶塊
 
 item.redstonerepository.bauble.feeder.name=自動餵食腰帶
@@ -22,18 +22,18 @@ item.redstonerepository.bauble.ring.mining.name=飛行破壞指環
 item.redstonerepository.bauble.capacitor.gelid.name=便攜式極寒電容
 
 #Tools
-item.redstonerepository.tool.enderium.gelid.axe.name=極寒末影斧
-item.redstonerepository.tool.enderium.gelid.battlewrench.name=極寒末影戰錘
-item.redstonerepository.tool.enderium.gelid.pickaxe.name=極寒末影鎬
-item.redstonerepository.tool.enderium.gelid.shovel.name=極寒末影鍬
-item.redstonerepository.tool.enderium.gelid.sickle.name=極寒末影鐮刀
-item.redstonerepository.tool.enderium.gelid.sword.name=極寒末影劍
+item.redstonerepository.tool.enderium.gelid.axe.name=極寒終界斧
+item.redstonerepository.tool.enderium.gelid.battlewrench.name=極寒終界戰錘
+item.redstonerepository.tool.enderium.gelid.pickaxe.name=極寒終界鎬
+item.redstonerepository.tool.enderium.gelid.shovel.name=極寒終界鏟
+item.redstonerepository.tool.enderium.gelid.sickle.name=極寒終界鐮刀
+item.redstonerepository.tool.enderium.gelid.sword.name=極寒終界劍
 
 #Armor
-item.redstonerepository.armor.enderium.gelid.helm.name=末影充能頭盔
-item.redstonerepository.armor.enderium.gelid.chestplate.name=末影充能胸甲
-item.redstonerepository.armor.enderium.gelid.leggings.name=末影充能護腿
-item.redstonerepository.armor.enderium.gelid.boots.name=末影充能靴子
+item.redstonerepository.armor.enderium.gelid.helm.name=終界充能頭盔
+item.redstonerepository.armor.enderium.gelid.chestplate.name=終界充能胸甲
+item.redstonerepository.armor.enderium.gelid.leggings.name=終界充能護腿
+item.redstonerepository.armor.enderium.gelid.boots.name=終界充能靴子
 
 #Equipment Tooltip Titles
 info.redstonerepository.capacitor.title=激活可為你背包中的物品充能，必須裝備在飾品欄以生效
@@ -41,10 +41,10 @@ info.redstonerepository.feeder.title=激活可為你提供飽食度回覆，必�
 info.redstonerepository.feeder.short=裝備在飾品欄自動餵食
 info.redstonerepository.hungerPoints=存儲飽食度
 info.redstonerepository.ring.effect.title=激活可為你凍結當前所有藥水狀態，啟用時無法獲得新的效果
-info.redstonerepository.ring.mining.title=在空中采礦速度不會減慢
+info.redstonerepository.ring.mining.title=在空中採礦速度不會減慢
 
 #Equipment Tooltip Various
-info.redstonerepository.ring.effect.disabled=過熱！ 覆原：（%s）秒。
+info.redstonerepository.ring.effect.disabled=過熱！ 復原：（%s）秒。
 
 #Tooltips
 info.redstonerepository.tooltip.getenergy=充能：%d / %d RF
