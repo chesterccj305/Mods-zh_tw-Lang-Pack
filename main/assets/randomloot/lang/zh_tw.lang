@@ -14,10 +14,10 @@ item.heavy_helmet.name=隨機頭盔
 item.heavy_chest.name=隨機胸甲
 item.heavy_legs.name=隨機護腿
 item.heavy_boots.name=隨機靴子
-item.titanium_helmet.name=隨機頭盔
-item.titanium_chest.name=隨機胸甲
-item.titanium_legs.name=隨機護腿
-item.titanium_boots.name=隨機靴子
+item.titanium_helmet.name=鈦頭盔
+item.titanium_chest.name=鈦胸甲
+item.titanium_legs.name=鈦護腿
+item.titanium_boots.name=鈦靴子
 
 tile.random_anvil.name=金砧
 tile.repair_station.name=維修站
