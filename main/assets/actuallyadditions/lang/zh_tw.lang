@@ -1,8 +1,8 @@
 #General 一般
-itemGroup.actuallyadditions=實用拓展
-achievement.page.actuallyadditions=實用拓展
+itemGroup.actuallyadditions=實用擴展
+achievement.page.actuallyadditions=實用擴展
 actuallyadditions.lolWutHowUDoDis.name=這東西出bug了。請扔了它。
-tooltip.actuallyadditions.disabled=被禁用的對象
+tooltip.actuallyadditions.disabled=被禁用的物件
 actuallyadditions.cft=CF/t
 actuallyadditions.cf=CF
 actuallyadditions.cflong=水晶通量
@@ -19,22 +19,22 @@ entity.Villager.actuallyadditions.crystallizer=晶化學家
 entity.Villager.actuallyadditions.engineer=工程師
 
 #Banners旗幟
-item.banner.actuallyadditionsBook.black=黑色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.red=紅色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.green=綠色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.brown=棕色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.blue=藍色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.purple=紫色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.cyan=青色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.silver=淡灰色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.gray=灰色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.pink=粉色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.lime=黃綠色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.yellow=黃色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.lightBlue=淡藍色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.magenta=品紅色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.orange=橙色實用拓展手冊旗幟
-item.banner.actuallyadditionsBook.white=白色實用拓展手冊旗幟
+item.banner.actuallyadditionsBook.black=黑色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.red=紅色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.green=綠色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.brown=棕色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.blue=藍色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.purple=紫色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.cyan=青色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.silver=淺灰色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.gray=灰色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.pink=粉色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.lime=淺綠色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.yellow=黃色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.lightBlue=淺藍色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.magenta=洋紅色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.orange=橙色實用擴展手冊旗幟
+item.banner.actuallyadditionsBook.white=白色實用擴展手冊旗幟
 
 item.banner.actuallyadditionsPhanCon.black=黑色幻靈連接器旗幟
 item.banner.actuallyadditionsPhanCon.red=紅色幻靈連接器旗幟
@@ -46,10 +46,10 @@ item.banner.actuallyadditionsPhanCon.cyan=青色幻靈連接器旗幟
 item.banner.actuallyadditionsPhanCon.silver=淺灰色幻靈連接器旗幟
 item.banner.actuallyadditionsPhanCon.gray=灰色幻靈連接器旗幟
 item.banner.actuallyadditionsPhanCon.pink=粉色幻靈連接器旗幟
-item.banner.actuallyadditionsPhanCon.lime=黃綠色幻靈連接器旗幟
+item.banner.actuallyadditionsPhanCon.lime=淺綠色幻靈連接器旗幟
 item.banner.actuallyadditionsPhanCon.yellow=黃色幻靈連接器旗幟
-item.banner.actuallyadditionsPhanCon.lightBlue=淡藍色幻靈連接器旗幟
-item.banner.actuallyadditionsPhanCon.magenta=品紅色幻靈連接器旗幟
+item.banner.actuallyadditionsPhanCon.lightBlue=淺藍色幻靈連接器旗幟
+item.banner.actuallyadditionsPhanCon.magenta=洋紅色幻靈連接器旗幟
 item.banner.actuallyadditionsPhanCon.orange=橙色幻靈連接器旗幟
 item.banner.actuallyadditionsPhanCon.white=白色幻靈連接器旗幟
 
@@ -63,10 +63,10 @@ item.banner.actuallyadditionsLeafBlo.cyan=青色吹葉器旗幟
 item.banner.actuallyadditionsLeafBlo.silver=淺灰色吹葉器旗幟
 item.banner.actuallyadditionsLeafBlo.gray=灰色吹葉器旗幟
 item.banner.actuallyadditionsLeafBlo.pink=粉色吹葉器旗幟
-item.banner.actuallyadditionsLeafBlo.lime=黃綠色吹葉器旗幟
+item.banner.actuallyadditionsLeafBlo.lime=淺綠色吹葉器旗幟
 item.banner.actuallyadditionsLeafBlo.yellow=黃色吹葉器旗幟
-item.banner.actuallyadditionsLeafBlo.lightBlue=淡藍色吹葉器旗幟
-item.banner.actuallyadditionsLeafBlo.magenta=品紅色吹葉器旗幟
+item.banner.actuallyadditionsLeafBlo.lightBlue=淺藍色吹葉器旗幟
+item.banner.actuallyadditionsLeafBlo.magenta=洋紅色吹葉器旗幟
 item.banner.actuallyadditionsLeafBlo.orange=橙色吹葉器旗幟
 item.banner.actuallyadditionsLeafBlo.white=白色吹葉器旗幟
 
@@ -80,10 +80,10 @@ item.banner.actuallyadditionsDrill.cyan=青色手鑽旗幟
 item.banner.actuallyadditionsDrill.silver=淺灰色手鑽旗幟
 item.banner.actuallyadditionsDrill.gray=灰色手鑽旗幟
 item.banner.actuallyadditionsDrill.pink=粉色手鑽旗幟
-item.banner.actuallyadditionsDrill.lime=黃綠色手鑽旗幟
+item.banner.actuallyadditionsDrill.lime=淺綠色手鑽旗幟
 item.banner.actuallyadditionsDrill.yellow=黃色手鑽旗幟
-item.banner.actuallyadditionsDrill.lightBlue=淡藍色手鑽旗幟
-item.banner.actuallyadditionsDrill.magenta=品紅色手鑽旗幟
+item.banner.actuallyadditionsDrill.lightBlue=淺藍色手鑽旗幟
+item.banner.actuallyadditionsDrill.magenta=洋紅色手鑽旗幟
 item.banner.actuallyadditionsDrill.orange=橙色手鑽旗幟
 item.banner.actuallyadditionsDrill.white=白色手鑽旗幟
 
@@ -102,8 +102,8 @@ container.nei.actuallyadditions.coffee.extra.milk=+01:00，-1Lv
 container.nei.actuallyadditions.reconstructor.name=原子再構機
 container.nei.actuallyadditions.empowerer.name=充能台
 
-container.nei.actuallyadditions.booklet.name=實用拓展手冊
-container.nei.actuallyadditions.booklet.header=<item>實用拓展手冊<r>說道：
+container.nei.actuallyadditions.booklet.name=實用擴展手冊
+container.nei.actuallyadditions.booklet.header=<item>實用擴展手冊<r>說道：
 container.nei.actuallyadditions.booklet.noText=這裡空無一物！但是別擔心，只需點擊底部按鈕，即可繼續瀏覽其他條目！
 
 #Damage Sources
@@ -116,7 +116,7 @@ death.actuallyadditions.atomicReconstructor.5=%s應該是吃了一發重組炮�
 #Blocks
 tile.actuallyadditions.block_compost.name=堆肥機
 tile.actuallyadditions.block_misc_ore_black_quartz.name=焦黑石英礦
-tile.actuallyadditions.block_misc_black_quartz.name=焦黑石英塊
+tile.actuallyadditions.block_misc_black_quartz.name=焦黑石英磚
 tile.actuallyadditions.block_misc_black_quartz_chiseled.name=鏨制焦黑石英
 tile.actuallyadditions.block_misc_black_quartz_pillar.name=焦黑石英柱
 tile.actuallyadditions.block_feeder.name=自動飼育機
@@ -135,7 +135,7 @@ tile.actuallyadditions.block_greenhouse_glass.name=溫室玻璃
 tile.actuallyadditions.block_energizer.name=充能站
 tile.actuallyadditions.block_enervator.name=釋能站
 tile.actuallyadditions.block_rice.name=水稻
-tile.actuallyadditions.block_misc_charcoal.name=木炭塊
+tile.actuallyadditions.block_misc_charcoal.name=木炭磚
 tile.actuallyadditions.block_coal_generator.name=煤炭發電機
 tile.actuallyadditions.block_lamp_powerer.name=燈具控制器
 tile.actuallyadditions.block_colored_lamp_white.name=白色燈具
@@ -150,15 +150,15 @@ tile.actuallyadditions.block_colored_lamp_green.name=綠色燈具
 tile.actuallyadditions.block_colored_lamp_black.name=黑色燈具
 tile.actuallyadditions.block_colored_lamp_brown.name=棕色燈具
 tile.actuallyadditions.block_colored_lamp_red.name=紅色燈具
-tile.actuallyadditions.block_colored_lamp_lime.name=黃綠色燈具
+tile.actuallyadditions.block_colored_lamp_lime.name=淺綠色燈具
 tile.actuallyadditions.block_colored_lamp_pink.name=粉色燈具
 tile.actuallyadditions.block_colored_lamp_cyan.name=青色燈具
 tile.actuallyadditions.block_colored_lamp_purple.name=紫色燈具
-tile.actuallyadditions.block_phantomface.name=幻靈接口
-tile.actuallyadditions.block_player_interface.name=玩家接口
-tile.actuallyadditions.block_phantom_energyface.name=幻靈能量接口
-tile.actuallyadditions.block_phantom_redstoneface.name=幻靈紅石接口
-tile.actuallyadditions.block_phantom_liquiface.name=幻靈流體接口
+tile.actuallyadditions.block_phantomface.name=幻靈介面
+tile.actuallyadditions.block_player_interface.name=玩家介面
+tile.actuallyadditions.block_phantom_energyface.name=幻靈能量介面
+tile.actuallyadditions.block_phantom_redstoneface.name=幻靈紅石介面
+tile.actuallyadditions.block_phantom_liquiface.name=幻靈流體介面
 tile.actuallyadditions.block_phantom_placer.name=幻靈方塊放置器
 tile.actuallyadditions.block_phantom_breaker.name=幻靈方塊破壞器
 tile.actuallyadditions.block_lava_factory_controller.name=岩漿工廠控制器
@@ -173,10 +173,10 @@ tile.actuallyadditions.block_wild_coffee.name=野生咖啡
 tile.actuallyadditions.block_wild_flax.name=野生亞麻
 tile.actuallyadditions.block_testifi_bucks_green_wall.name=裝飾用綠色石英方塊
 tile.actuallyadditions.block_testifi_bucks_white_wall.name=裝飾用石英
-tile.actuallyadditions.block_testifi_bucks_green_stairs.name=裝飾用綠色石英樓梯
-tile.actuallyadditions.block_testifi_bucks_white_stairs.name=裝飾用石英樓梯
-tile.actuallyadditions.block_testifi_bucks_green_slab.name=裝飾用綠色石英台階
-tile.actuallyadditions.block_testifi_bucks_white_slab.name=裝飾用石英台階
+tile.actuallyadditions.block_testifi_bucks_green_stairs.name=裝飾用綠色石英階梯
+tile.actuallyadditions.block_testifi_bucks_white_stairs.name=裝飾用石英階梯
+tile.actuallyadditions.block_testifi_bucks_green_slab.name=裝飾用綠色石英半磚
+tile.actuallyadditions.block_testifi_bucks_white_slab.name=裝飾用石英半磚
 tile.actuallyadditions.block_canola.name=油菜
 tile.actuallyadditions.block_treasure_chest.name=藏寶箱
 tile.actuallyadditions.block_canola_press.name=油菜壓榨機
@@ -185,12 +185,12 @@ tile.actuallyadditions.block_canola_oil.name=菜籽油
 tile.actuallyadditions.block_refined_canola_oil.name=精製菜籽油
 tile.actuallyadditions.block_crystal_oil.name=晶化油
 tile.actuallyadditions.block_empowered_oil.name=充能油
-tile.actuallyadditions.block_misc_enderpearl.name=末影珍珠塊
+tile.actuallyadditions.block_misc_enderpearl.name=終界珍珠磚
 tile.actuallyadditions.block_oil_generator.name=原油發電機
 tile.actuallyadditions.block_breaker.name=方塊破壞器
 tile.actuallyadditions.block_placer.name=方塊放置器
 tile.actuallyadditions.block_dropper.name=精準自動投擲器
-tile.actuallyadditions.block_misc_ender_casing.name=末影外殼
+tile.actuallyadditions.block_misc_ender_casing.name=終界外殼
 tile.actuallyadditions.block_flax.name=亞麻
 tile.actuallyadditions.block_coffee_machine.name=咖啡製造機
 tile.actuallyadditions.block_xp_solidifier.name=經驗固化器
@@ -198,41 +198,41 @@ tile.actuallyadditions.block_smiley_cloud.name=微笑雲朵
 tile.actuallyadditions.block_leaf_generator.name=咀葉發電機
 tile.actuallyadditions.block_directional_breaker.name=長距離方塊破壞器
 tile.actuallyadditions.block_ranged_collector.name=物品吸收器
-tile.actuallyadditions.block_laser_relay.name=能量激光中繼器
-tile.actuallyadditions.block_laser_relay_advanced.name=高級能量激光中繼器
-tile.actuallyadditions.block_laser_relay_extreme.name=超級能量激光中繼器
-tile.actuallyadditions.block_laser_relay_fluids.name=流體激光中繼器
+tile.actuallyadditions.block_laser_relay.name=能量雷射中繼器
+tile.actuallyadditions.block_laser_relay_advanced.name=進階能量雷射中繼器
+tile.actuallyadditions.block_laser_relay_extreme.name=超級能量雷射中繼器
+tile.actuallyadditions.block_laser_relay_fluids.name=流體雷射中繼器
 tile.actuallyadditions.block_misc_iron_casing.name=鐵製外殼
 tile.actuallyadditions.block_black_lotus.name=黑蓮花
 tile.actuallyadditions.block_testifi_bucks_white_fence.name=裝飾用石英圍牆
 tile.actuallyadditions.block_testifi_bucks_green_fence.name=裝飾用綠色石英圍牆
-tile.actuallyadditions.block_crystal_red.name=紅石水晶塊
-tile.actuallyadditions.block_crystal_blue.name=青金石水晶塊
-tile.actuallyadditions.block_crystal_light_blue.name=鑽石水晶塊
-tile.actuallyadditions.block_crystal_green.name=綠寶石水晶塊
-tile.actuallyadditions.block_crystal_black.name=煤晶塊
-tile.actuallyadditions.block_crystal_white.name=鐵晶塊
-tile.actuallyadditions.block_crystal_empowered_red.name=充能紅石水晶塊
-tile.actuallyadditions.block_crystal_empowered_blue.name=充能青金石水晶塊
-tile.actuallyadditions.block_crystal_empowered_light_blue.name=充能鑽石水晶塊
-tile.actuallyadditions.block_crystal_empowered_green.name=充能綠寶石水晶塊
-tile.actuallyadditions.block_crystal_empowered_black.name=充能煤晶塊
-tile.actuallyadditions.block_crystal_empowered_white.name=充能鐵晶塊
+tile.actuallyadditions.block_crystal_red.name=紅石水晶磚
+tile.actuallyadditions.block_crystal_blue.name=青金石水晶磚
+tile.actuallyadditions.block_crystal_light_blue.name=鑽石水晶磚
+tile.actuallyadditions.block_crystal_green.name=綠寶石水晶磚
+tile.actuallyadditions.block_crystal_black.name=煤晶磚
+tile.actuallyadditions.block_crystal_white.name=鐵晶磚
+tile.actuallyadditions.block_crystal_empowered_red.name=充能紅石水晶磚
+tile.actuallyadditions.block_crystal_empowered_blue.name=充能青金石水晶磚
+tile.actuallyadditions.block_crystal_empowered_light_blue.name=充能鑽石水晶磚
+tile.actuallyadditions.block_crystal_empowered_green.name=充能綠寶石水晶磚
+tile.actuallyadditions.block_crystal_empowered_black.name=充能煤晶磚
+tile.actuallyadditions.block_crystal_empowered_white.name=充能鐵晶磚
 tile.actuallyadditions.block_miner.name=垂直挖礦機
-tile.actuallyadditions.block_firework_box.name=煙花發射器
+tile.actuallyadditions.block_firework_box.name=煙火發射器
 tile.actuallyadditions.block_quartz_wall.name=焦黑石英圍牆
-tile.actuallyadditions.block_quartz_stair.name=焦黑石英樓梯
-tile.actuallyadditions.block_quartz_slab.name=焦黑石英台階
+tile.actuallyadditions.block_quartz_stair.name=焦黑石英階梯
+tile.actuallyadditions.block_quartz_slab.name=焦黑石英半磚
 tile.actuallyadditions.block_chiseled_quartz_wall.name=鏨制焦黑石英圍牆
-tile.actuallyadditions.block_chiseled_quartz_stair.name=鏨制焦黑石英樓梯
-tile.actuallyadditions.block_chiseled_quartz_slab.name=鏨制焦黑石英台階
+tile.actuallyadditions.block_chiseled_quartz_stair.name=鏨制焦黑石英階梯
+tile.actuallyadditions.block_chiseled_quartz_slab.name=鏨制焦黑石英半磚
 tile.actuallyadditions.block_pillar_quartz_wall.name=焦黑石英柱圍牆
 tile.actuallyadditions.block_pillar_quartz_stair.name=焦黑石英柱樓梯
 tile.actuallyadditions.block_pillar_quartz_slab.name=焦黑石英柱台階
-tile.actuallyadditions.block_laser_relay_item.name=物品激光中繼器
-tile.actuallyadditions.block_laser_relay_item_whitelist.name=高級物品激光中繼器
-tile.actuallyadditions.block_item_viewer.name=物品傳輸接口
-tile.actuallyadditions.block_item_viewer_hopping.name=漏斗型物品傳輸接口
+tile.actuallyadditions.block_laser_relay_item.name=物品雷射中繼器
+tile.actuallyadditions.block_laser_relay_item_whitelist.name=進階物品雷射中繼器
+tile.actuallyadditions.block_item_viewer.name=物品傳輸介面
+tile.actuallyadditions.block_item_viewer_hopping.name=漏斗型物品傳輸介面
 tile.actuallyadditions.block_impure_iron.name=不純淨鐵
 tile.actuallyadditions.block_booklet_stand.name=壁掛式手冊
 tile.actuallyadditions.block_display_stand.name=物品展示台
@@ -252,7 +252,7 @@ tile.actuallyadditions.block_crystal_cluster_iron.name=白色晶簇
 
 #ESD
 tile.actuallyadditions.block_inputter.name=ESD
-tile.actuallyadditions.block_inputter_advanced.name=高級ESD
+tile.actuallyadditions.block_inputter_advanced.name=進階ESD
 tile.actuallyadditions.block_inputter.add.1.name=Ellpeck's Slot Device
 tile.actuallyadditions.block_inputter.add.2.name=Ethereal System Dude
 tile.actuallyadditions.block_inputter.add.3.name=能量分配器
@@ -292,11 +292,11 @@ tile.actuallyadditions.block_atomic_reconstructor.info.2.4=調製器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.5=分子化器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.6=修改器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.7=更換器
-tile.actuallyadditions.block_atomic_reconstructor.info.2.8=霧化器
+tile.actuallyadditions.block_atomic_reconstructor.info.2.8=噴霧器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.9=製造器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.10=交換器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.11=轉換器
-tile.actuallyadditions.block_atomic_reconstructor.info.2.12=替換器
+tile.actuallyadditions.block_atomic_reconstructor.info.2.12=更換器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.13=微分器
 tile.actuallyadditions.block_atomic_reconstructor.info.2.14=接收器
 
@@ -304,8 +304,8 @@ tile.actuallyadditions.block_atomic_reconstructor.info.2.14=接收器
 item.actuallyadditions.item_drill.name=手鑽
 item.actuallyadditions.item_food_rice.name=稻米
 item.actuallyadditions.item_food_doughnut.name=甜甜圈
-item.actuallyadditions.item_misc_rice_dough.name=大米麵團
-item.actuallyadditions.item_food_rice_bread.name=大米麵包
+item.actuallyadditions.item_misc_rice_dough.name=米麵團
+item.actuallyadditions.item_food_rice_bread.name=米麵包
 item.actuallyadditions.item_rice_seed.name=水稻種子
 item.actuallyadditions.item_misc_tiny_coal.name=小塊煤炭
 item.actuallyadditions.item_misc_tiny_charcoal.name=小塊木炭
@@ -315,9 +315,9 @@ item.actuallyadditions.item_battery_double.name=二階電池
 item.actuallyadditions.item_battery_triple.name=三階電池
 item.actuallyadditions.item_battery_quadruple.name=四階電池
 item.actuallyadditions.item_battery_quintuple.name=五階電池
-item.actuallyadditions.item_growth_ring.name=生長指環
-item.actuallyadditions.item_water_removal_ring.name=除液指環
-item.actuallyadditions.item_suction_ring.name=磁力指環
+item.actuallyadditions.item_growth_ring.name=生長戒指
+item.actuallyadditions.item_water_removal_ring.name=除液戒指
+item.actuallyadditions.item_suction_ring.name=磁力戒指
 item.actuallyadditions.item_bucket_canola_oil.name=菜籽油桶
 item.actuallyadditions.item_bucket_oil.name=原油桶
 item.actuallyadditions.item_wings_of_the_bats.name=蝙蝠之翼
@@ -325,7 +325,7 @@ item.actuallyadditions.item_misc_bat_wing.name=蝙蝠之翼
 item.actuallyadditions.wooden_paxel.name=木製全能工具
 item.actuallyadditions.stone_paxel.name=石製全能工具
 item.actuallyadditions.iron_paxel.name=鐵製全能工具
-item.actuallyadditions.gold_paxel.name=金制全能工具
+item.actuallyadditions.gold_paxel.name=金製全能工具
 item.actuallyadditions.diamond_paxel.name=鑽石全能工具
 item.actuallyadditions.emerald_paxel.name=綠寶石全能工具
 item.actuallyadditions.obsidian_paxel.name=黑曜石全能工具
@@ -338,12 +338,12 @@ item.actuallyadditions.item_coffee_beans.name=咖啡豆
 item.actuallyadditions.item_canola_seed.name=油菜種子
 item.actuallyadditions.item_misc_canola.name=油菜
 item.actuallyadditions.item_resonant_rice.name=諧振稻米
-item.actuallyadditions.item_drill_upgrade_speed.name=鑽頭急迫升級I
-item.actuallyadditions.item_drill_upgrade_speed_ii.name=鑽頭急迫升級II
-item.actuallyadditions.item_drill_upgrade_speed_iii.name=鑽頭急迫升級III
+item.actuallyadditions.item_drill_upgrade_speed.name=鑽頭挖掘加速升級I
+item.actuallyadditions.item_drill_upgrade_speed_ii.name=鑽頭挖掘加速升級II
+item.actuallyadditions.item_drill_upgrade_speed_iii.name=鑽頭挖掘加速升級III
 item.actuallyadditions.item_drill_upgrade_silk_touch.name=鑽頭精準升級
-item.actuallyadditions.item_drill_upgrade_fortune.name=鑽頭時運升級I
-item.actuallyadditions.item_drill_upgrade_fortune_ii.name=鑽頭時運升級II（效果等同時運III）
+item.actuallyadditions.item_drill_upgrade_fortune.name=鑽頭幸運升級I
+item.actuallyadditions.item_drill_upgrade_fortune_ii.name=鑽頭幸運升級II（效果等同幸運III）
 item.actuallyadditions.item_drill_upgrade_block_placing.name=鑽頭方塊放置升級
 item.actuallyadditions.item_drill_upgrade_three_by_three.name=鑽頭範圍採掘升級I
 item.actuallyadditions.item_drill_upgrade_five_by_five.name=鑽頭範圍採掘升級II
@@ -354,8 +354,8 @@ item.actuallyadditions.item_misc_paper_cone.name=紙杯
 item.actuallyadditions.item_misc_knife_blade.name=刀刃
 item.actuallyadditions.item_misc_knife_handle.name=刀柄
 item.actuallyadditions.item_misc_black_quartz.name=焦黑石英
-item.actuallyadditions.item_misc_ring.name=普通指環
-item.actuallyadditions.item_misc_ring.storage=存儲烈焰量
+item.actuallyadditions.item_misc_ring.name=普通戒指
+item.actuallyadditions.item_misc_ring.storage=儲存烈焰量
 item.actuallyadditions.item_tele_staff.name=傳送權杖
 item.actuallyadditions.item_jam_cu_ba_ra.name=CuBaRa果醬
 item.actuallyadditions.item_jam_gra_ki_ba.name=GraKiBa果醬
@@ -366,11 +366,11 @@ item.actuallyadditions.item_jam_ho_me_co.name=HoMeCo果醬
 item.actuallyadditions.item_jam_pi_co.name=PiCo果醬
 item.actuallyadditions.item_hairy_ball.name=毛球
 item.actuallyadditions.item_leaf_blower.name=吹葉器
-item.actuallyadditions.item_leaf_blower_advanced.name=高級吹葉器
+item.actuallyadditions.item_leaf_blower_advanced.name=進階吹葉器
 item.actuallyadditions.item_knife.name=小刀
 item.actuallyadditions.item_pickaxe_emerald.name=綠寶石手斧
 item.actuallyadditions.item_axe_emerald.name=綠寶石斧
-item.actuallyadditions.item_shovel_emerald.name=綠寶石鍬
+item.actuallyadditions.item_shovel_emerald.name=綠寶石鏟
 item.actuallyadditions.item_hoe_emerald.name=綠寶石鋤
 item.actuallyadditions.item_sword_emerald.name=綠寶石劍
 item.actuallyadditions.item_pickaxe_quartz.name=焦黑石英手斧
@@ -380,31 +380,31 @@ item.actuallyadditions.item_hoe_quartz.name=焦黑石英鋤
 item.actuallyadditions.item_sword_quartz.name=焦黑石英劍
 item.actuallyadditions.item_pickaxe_obsidian.name=黑曜石手斧
 item.actuallyadditions.item_axe_obsidian.name=黑曜石斧
-item.actuallyadditions.item_shovel_obsidian.name=黑曜石鍬
+item.actuallyadditions.item_shovel_obsidian.name=黑曜石鏟
 item.actuallyadditions.item_hoe_obsidian.name=黑曜石鋤
 item.actuallyadditions.item_sword_obsidian.name=黑曜石劍
-item.actuallyadditions.item_crafter_on_a_stick.name=手持工作台
+item.actuallyadditions.item_crafter_on_a_stick.name=手持工作檯
 item.actuallyadditions.item_food_baguette.name=法國長麵包
-item.actuallyadditions.item_food_pizza.name=匹薩
-item.actuallyadditions.item_food_hamburger.name=漢堡包
-item.actuallyadditions.item_food_big_cookie.name=大塊曲奇
+item.actuallyadditions.item_food_pizza.name=披薩
+item.actuallyadditions.item_food_hamburger.name=漢堡
+item.actuallyadditions.item_food_big_cookie.name=大塊餅乾
 item.actuallyadditions.item_food_submarine_sandwich.name=海鮮三明治
-item.actuallyadditions.item_food_toast.name=吐司麵包
-item.actuallyadditions.item_food_chocolate_toast.name=巧克力吐司麵包
+item.actuallyadditions.item_food_toast.name=吐司
+item.actuallyadditions.item_food_chocolate_toast.name=巧克力吐司
 item.actuallyadditions.item_food_chocolate.name=巧克力
 item.actuallyadditions.item_food_chocolate_cake.name=巧克力蛋糕
 item.actuallyadditions.item_food_noodle.name=麵條
-item.actuallyadditions.item_food_spaghetti.name=意大利面
+item.actuallyadditions.item_food_spaghetti.name=義大利麵
 item.actuallyadditions.item_food_french_fry.name=炸薯條
 item.actuallyadditions.item_food_french_fries.name=大杯炸薯條
 item.actuallyadditions.item_food_fish_n_chips.name=海鮮炸薯條
 item.actuallyadditions.item_food_carrot_juice.name=蘿蔔汁
 item.actuallyadditions.item_food_pumpkin_stew.name=南瓜湯
-item.actuallyadditions.item_food_cheese.name=奶酪
+item.actuallyadditions.item_food_cheese.name=乳酪
 item.actuallyadditions.item_misc_coil.name=基礎線圈
-item.actuallyadditions.item_misc_coil_advanced.name=高級線圈
-item.actuallyadditions.item_potion_ring.name=藥水指環-
-item.actuallyadditions.item_potion_ring_advanced.name=高級藥水指環-
+item.actuallyadditions.item_misc_coil_advanced.name=進階線圈
+item.actuallyadditions.item_potion_ring.name=藥水戒指-
+item.actuallyadditions.item_potion_ring_advanced.name=進階藥水戒指-
 item.actuallyadditions.item_solidified_experience.name=固化經驗
 item.actuallyadditions.item_dust_iron.name=鐵粉
 item.actuallyadditions.item_dust_gold.name=金粉
@@ -427,8 +427,8 @@ item.actuallyadditions.item_helm_quartz.name=焦黑石英頭盔
 item.actuallyadditions.item_chest_quartz.name=焦黑石英胸甲
 item.actuallyadditions.item_pants_quartz.name=焦黑石英護腿
 item.actuallyadditions.item_boots_quartz.name=焦黑石英靴子
-item.actuallyadditions.item_booklet.name=實用拓展手冊
-item.actuallyadditions.item_rarmor_module_reconstructor.name=重組模塊
+item.actuallyadditions.item_booklet.name=實用擴展手冊
+item.actuallyadditions.item_rarmor_module_reconstructor.name=重組模組
 item.actuallyadditions.item_laser_wrench.name=中繼器扳手
 item.actuallyadditions.item_chest_to_crate_upgrade.name=板條箱升級徽章
 item.actuallyadditions.item_small_to_medium_crate_upgrade.name=擴容升級徽章（小轉中）
@@ -514,7 +514,7 @@ item.actuallyadditions.item_paxel_crystal_black.name=煤晶全能工具
 item.actuallyadditions.item_paxel_crystal_white.name=鐵晶全能工具
 item.actuallyadditions.item_paxel_crystal_green.name=綠寶石水晶全能工具
 item.actuallyadditions.item_food_bacon.name=培根
-item.actuallyadditions.item_misc_ender_star.name=末影之星
+item.actuallyadditions.item_misc_ender_star.name=終界之星
 item.actuallyadditions.item_spawner_changer.name=刷怪籠控制工具
 item.actuallyadditions.item_misc_spawner_shard.name=刷怪籠碎片
 item.actuallyadditions.item_minecart_firework_box.name=煙火箱車
@@ -532,60 +532,60 @@ item.actuallyadditions.item_misc_empowered_canola_seed.name=充能油菜種子
 item.actuallyadditions.item_mining_lens.name=礦工透鏡
 item.actuallyadditions.item_more_damage_lens.name=殺手透鏡
 item.actuallyadditions.item_filling_wand.name=填充手杖
-item.actuallyadditions.item_laser_upgrade_invisibility.name=激光中繼器：隱形
+item.actuallyadditions.item_laser_upgrade_invisibility.name=雷射中繼器：隱形
 item.actuallyadditions.item_engineer_goggles.name=工程師護目鏡
 item.actuallyadditions.item_engineer_goggles_advanced.name=工程師紅外眼鏡
-item.actuallyadditions.item_laser_upgrade_range.name=激光中繼器：範圍
+item.actuallyadditions.item_laser_upgrade_range.name=雷射中繼器：範圍
 item.actuallyadditions.item_crystal_shard_red.name=紅色水晶碎片
 item.actuallyadditions.item_crystal_shard_blue.name=藍色水晶碎片
-item.actuallyadditions.item_crystal_shard_light_blue.name=淡藍色水晶碎片
+item.actuallyadditions.item_crystal_shard_light_blue.name=淺藍色水晶碎片
 item.actuallyadditions.item_crystal_shard_black.name=黑色水晶碎片
 item.actuallyadditions.item_crystal_shard_green.name=綠色水晶碎片
 item.actuallyadditions.item_crystal_shard_white.name=白色水晶碎片
 
 #Tooltips 工具提示
 tooltip.actuallyadditions.onSuffix.desc=開啟
-tooltip.actuallyadditions.phantom.connected.desc=<連接成功！ >
-tooltip.actuallyadditions.phantom.stored.desc=<存儲開始！ >
+tooltip.actuallyadditions.phantom.connected.desc=<連線成功！ >
+tooltip.actuallyadditions.phantom.stored.desc=<儲存開始！ >
 tooltip.actuallyadditions.phantom.unbound.desc=連接已清除！
 tooltip.actuallyadditions.boundTo.desc=綁定於
-tooltip.actuallyadditions.clearStorage.desc=合成一次以清除存儲！
+tooltip.actuallyadditions.clearStorage.desc=合成一次以清除儲存！
 tooltip.actuallyadditions.phantom.connectedRange.desc=連接正常工作。
-tooltip.actuallyadditions.phantom.connectedNoRange.desc=連接受阻：超出範圍,連接方塊的區塊未加載或連接方塊的類型不正確。
+tooltip.actuallyadditions.phantom.connectedNoRange.desc=連接受阻：超出範圍，連接方塊的區塊未載入或連接方塊的類型不正確。
 tooltip.actuallyadditions.phantom.notConnected.desc=它沒有連接！
 tooltip.actuallyadditions.phantom.blockInfo.desc=連接的方塊%s在%s,%s,%s有%s個方塊遠.
 tooltip.actuallyadditions.factory.notPart.desc=控制器還不是正確的多方塊結構的一部分！好好看看控制器的介紹！
 tooltip.actuallyadditions.factory.works.desc=該岩漿工廠已成型，可以開始生產岩漿了！
 tooltip.actuallyadditions.oredictName.desc=礦物辭典條目：
 tooltip.actuallyadditions.noOredictNameAvail.desc=無
-tooltip.actuallyadditions.codeName.desc=代碼名字
+tooltip.actuallyadditions.codeName.desc=程式碼名字
 tooltip.actuallyadditions.baseUnlocName.desc=英文原名
 tooltip.actuallyadditions.meta.desc=Meta
-tooltip.actuallyadditions.nbt.desc=NBT數據
+tooltip.actuallyadditions.nbt.desc=NBT資料
 tooltip.actuallyadditions.unlocName.desc=Meta英文原名
 tooltip.actuallyadditions.pressShift.desc=按Shift
-tooltip.actuallyadditions.disablingInfo.desc=如果你不想看到這個信息,可在實用拓展的配置文件裡禁用它！
-tooltip.actuallyadditions.ctrlForMoreInfo.desc=按住Ctrl查看高級信息
-tooltip.actuallyadditions.extraInfo.desc=高級信息
+tooltip.actuallyadditions.disablingInfo.desc=如果你不想看到這個訊息，可在實用擴展的配置檔案裡禁用它！
+tooltip.actuallyadditions.ctrlForMoreInfo.desc=按住Ctrl查看更多資訊
+tooltip.actuallyadditions.extraInfo.desc=更多資訊
 tooltip.actuallyadditions.blockPhantomRange.desc=範圍
 tooltip.actuallyadditions.laser.stored.desc=<連接開始！ >
 tooltip.actuallyadditions.laser.connected.desc=<中繼器已連接！ >
-tooltip.actuallyadditions.laser.cantConnect.desc=無法連接：中繼器已是另一個網絡的一部分,或者存儲的中繼器不在了或距離太遠！
-tooltip.actuallyadditions.item_booklet.desc=查看"指導手冊",如果你願意
+tooltip.actuallyadditions.laser.cantConnect.desc=無法連接：中繼器已是另一個網路的一部分，或者儲存的中繼器不在了或距離太遠！
+tooltip.actuallyadditions.item_booklet.desc=查看「指導手冊」，如果你願意
 tooltip.actuallyadditions.item_booklet.sub.1=這本手冊指導你了解所有
 tooltip.actuallyadditions.item_booklet.sub.2=的Actually Additions所
 tooltip.actuallyadditions.item_booklet.sub.3=提供的特性。
 tooltip.actuallyadditions.item_booklet.sub.4=手持右鍵即可打開
-tooltip.actuallyadditions.playerProbe.disconnect.1=那位被探測的玩家在你試圖把他和玩家接口綁定之前中斷了連接！數據將會被清除！
-tooltip.actuallyadditions.playerProbe.disconnect.2=那位被探測的玩家在你試圖把他和玩家接口綁定之前中斷了連接！數據將會被清除！
+tooltip.actuallyadditions.playerProbe.disconnect.1=那位被探測的玩家在你試圖把他和玩家介面綁定之前中斷了連接！資料將會被清除！
+tooltip.actuallyadditions.playerProbe.disconnect.2=那位被探測的玩家在你試圖把他和玩家介面綁定之前中斷了連接！資料將會被清除！
 tooltip.actuallyadditions.playerProbe.probing=探測中
-tooltip.actuallyadditions.playerProbe.notice=注意！有人正在試圖探測你並且想把你和玩家接口綁定，但是失敗了！
+tooltip.actuallyadditions.playerProbe.notice=注意！有人正在試圖探測你並且想把你和玩家介面綁定，但是失敗了！
 tooltip.actuallyadditions.battery.discharge=會給物品欄中的其他物品充電
 tooltip.actuallyadditions.battery.noDischarge=不會給物品欄中的其他物品充電
 tooltip.actuallyadditions.battery.changeMode=Shift右鍵轉換兩種模式
-tooltip.actuallyadditions.previouslyDoubleFurnace=以前的“兩倉熔爐”
-tooltip.actuallyadditions.previouslyBag=以前的“袋子”
-tooltip.actuallyadditions.previouslyVoidBag=以前的“虛空袋子”
+tooltip.actuallyadditions.previouslyDoubleFurnace=以前的「兩倉熔爐」
+tooltip.actuallyadditions.previouslyBag=以前的「袋子」
+tooltip.actuallyadditions.previouslyVoidBag=以前的「虛空袋子」
 tooltip.actuallyadditions.item_filling_wand.selectedBlock=被選中的方塊
 tooltip.actuallyadditions.item_filling_wand.selectedBlock.none=無
 tooltip.actuallyadditions.coffeeCup.noEffect=無效果
@@ -607,14 +607,14 @@ info.actuallyadditions.gui.put=放入
 info.actuallyadditions.gui.pull=取出
 info.actuallyadditions.gui.whitelist=白名單
 info.actuallyadditions.gui.blacklist=黑名單
-info.actuallyadditions.gui.whitelistInfo=設置為空的黑名單可以使所有物品通過，設置為空的白名單可以禁止所有物品通過。通過放置想過濾的物品來自定義想要的功能。
+info.actuallyadditions.gui.whitelistInfo=設定為空的黑名單可以使所有物品通過，設定為空的白名單可以禁止所有物品通過。透過放置想過濾的物品來自訂想要的功能。
 info.actuallyadditions.gui.respectMeta=匹配 Metadata
 info.actuallyadditions.gui.ignoreMeta=忽略 Metadata
 info.actuallyadditions.gui.respectNBT=匹配 NBT
 info.actuallyadditions.gui.ignoreNBT=忽略 NBT
 info.actuallyadditions.gui.ignoreMod=忽略 Mod
 info.actuallyadditions.gui.respectMod=匹配 Mod
-info.actuallyadditions.gui.respectModInfo=如果開啟這個選項，過濾器將會匹配來自於§c特定模組的物品，而不是匹配物品本身§r。這對於按照mod進行物品存儲非常有用。也可以與其他選項並用，不過通常不太會起作用。
+info.actuallyadditions.gui.respectModInfo=如果開啟這個選項，過濾器將會匹配來自於§c特定模組的物品，而不是匹配物品本身§r。這對於按照mod進行物品儲存非常有用。也可以與其他選項並用，不過通常不太會起作用。
 info.actuallyadditions.gui.ignoreOredict=忽略礦物詞典
 info.actuallyadditions.gui.respectOredictSoft=軟匹配礦物詞典
 info.actuallyadditions.gui.respectOredictHard=硬匹配礦物詞典
@@ -627,13 +627,13 @@ info.actuallyadditions.gui.outbound=出站
 info.actuallyadditions.gui.coffee=咖啡
 info.actuallyadditions.gui.ok=Ok
 info.actuallyadditions.gui.the=
-info.actuallyadditions.gui.smart=智能白名單
-info.actuallyadditions.gui.smartInfo=當按下這個按鈕時候，所有來自毗鄰物品欄，並且通過中繼器的物品都會被添加到黑名單或者白名單中。之前添加的物品過濾也會被添加。
+info.actuallyadditions.gui.smart=智慧白名單
+info.actuallyadditions.gui.smartInfo=當按下這個按鈕時候，所有來自毗鄰物品欄，並且通過中繼器的物品都會被加入到黑名單或者白名單中。之前加入的物品過濾也會被加入。
 info.actuallyadditions.inputter.info.1=這是<p>的起始格。
 info.actuallyadditions.inputter.info.2=這是<p>的結束格（不含）。解釋：如果左邊填2，這裡填5，那麼2、3、4格將會執行<p>的動作。
 info.actuallyadditions.noLens=沒有透鏡
 info.actuallyadditions.noItem=緩衝區沒有物品
-info.actuallyadditions.booklet.manualName.1.1=實用拓展
+info.actuallyadditions.booklet.manualName.1.1=實用擴展
 info.actuallyadditions.booklet.manualName.1.2=Actual Additions
 info.actuallyadditions.booklet.manualName.1.3=Actually Addiction
 info.actuallyadditions.booklet.manualName.1.4=Actual Edition
@@ -642,22 +642,22 @@ info.actuallyadditions.booklet.manualName.1.6=Actually Addons
 info.actuallyadditions.booklet.manualName.1.7=Additional Addons
 info.actuallyadditions.booklet.manualName.2=手冊
 info.actuallyadditions.booklet.edition=編輯
-info.actuallyadditions.booklet.searchField=點擊搜索……
+info.actuallyadditions.booklet.searchField=點擊搜尋……
 info.actuallyadditions.booklet.hudDisplay.page=頁數
 info.actuallyadditions.booklet.hudDisplay.open=右擊打開……
-info.actuallyadditions.booklet.hudDisplay.noInfo=沒有可用的信息！抱歉 :(
-info.actuallyadditions.booklet.hudDisplay.noInfo.desc.1=按下Shift鍵時看著實用拓展
-info.actuallyadditions.booklet.hudDisplay.noInfo.desc.2=的方塊能夠查看更多信息！
-info.actuallyadditions.deathRecorded=你的死亡信息已被記錄，請使用DeathTracker來獲取死亡位置！
+info.actuallyadditions.booklet.hudDisplay.noInfo=沒有可用的訊息！抱歉 :(
+info.actuallyadditions.booklet.hudDisplay.noInfo.desc.1=按下Shift鍵時看著實用擴展
+info.actuallyadditions.booklet.hudDisplay.noInfo.desc.2=的方塊能夠查看更多資訊！
+info.actuallyadditions.deathRecorded=你的死亡訊息已被記錄，請使用DeathTracker來獲取死亡位置！
 info.actuallyadditions.placer.sides.1=放置方向
 info.actuallyadditions.placer.sides.2=通常玩家放置方塊時需要依附別的方塊才能放置，但是幻靈方塊放置器可以直接在懸空放置方塊。不過通常情況下你還是不要這麼做為好。
 info.actuallyadditions.machineBroke=這個方塊在你嘗試破壞時碎掉了。多半是它不夠堅固無法被完整破壞吧？
 info.actuallyadditions.redstoneMode.name=紅石模式
 info.actuallyadditions.redstoneMode.pulse=脈衝
-info.actuallyadditions.redstoneMode.deactivation=激活
+info.actuallyadditions.redstoneMode.deactivation=啟動
 info.actuallyadditions.redstoneMode.invalidItem=手持%s來切換！
 info.actuallyadditions.redstoneMode.validItem=右擊切換！
-info.actuallyadditions.laserRelay.item.extra=優先級
+info.actuallyadditions.laserRelay.item.extra=優先度
 info.actuallyadditions.laserRelay.item.display.1=右擊增加！
 info.actuallyadditions.laserRelay.item.display.2=Shift右擊減少！
 info.actuallyadditions.laserRelay.energy.extra=能量流
@@ -670,13 +670,13 @@ info.actuallyadditions.laserRelay.mode.noCompasss=手持%s來調節！
 
 #Container Names
 container.actuallyadditions.inputter.name=ESD
-container.actuallyadditions.inputterAdvanced.name=高級ESD
+container.actuallyadditions.inputterAdvanced.name=進階ESD
 container.actuallyadditions.grinder.name=磨粉機
 container.actuallyadditions.grinderDouble.name=兩倉磨粉機
 container.actuallyadditions.furnaceDouble.name=兩倉熔爐
 container.actuallyadditions.feeder.name=自動飼育機
 container.actuallyadditions.giantChest.name=小型板條箱
-container.actuallyadditions.giantChest.desc=“好小！”
+container.actuallyadditions.giantChest.desc=「好小！」
 container.actuallyadditions.giantChestMedium.name=中型板條箱
 container.actuallyadditions.giantChestLarge.name=大型板條箱
 container.actuallyadditions.giantChestLarge.desc=超立方
@@ -684,16 +684,16 @@ container.actuallyadditions.repairer.name=物品修理機
 container.actuallyadditions.placer.name=方塊放置器
 container.actuallyadditions.breaker.name=方塊破壞器
 container.actuallyadditions.dropper.name=精準自動投擲器
-container.actuallyadditions.crafting.name=手持工作台
+container.actuallyadditions.crafting.name=手持工作檯
 container.actuallyadditions.canolaPress.name=油菜壓榨機
 container.actuallyadditions.fermentingBarrel.name=發酵桶
 container.actuallyadditions.coalGenerator.name=煤炭發電機
 container.actuallyadditions.oilGenerator.name=原油發電機
 container.actuallyadditions.phantomPlacer.name=幻靈方塊放置器
 container.actuallyadditions.phantomBreaker.name=幻靈方塊破壞器
-container.actuallyadditions.phantomface.name=幻靈接口
-container.actuallyadditions.liquiface.name=幻靈流體接口
-container.actuallyadditions.energyface.name=幻靈能量接口
+container.actuallyadditions.phantomface.name=幻靈介面
+container.actuallyadditions.liquiface.name=幻靈流體介面
+container.actuallyadditions.energyface.name=幻靈能量介面
 container.actuallyadditions.fluidPlacer.name=流體成型器
 container.actuallyadditions.fluidCollector.name=流體吸收器
 container.actuallyadditions.coffeeMachine.name=咖啡製造機
@@ -705,7 +705,7 @@ container.actuallyadditions.cloud.name=微笑雲朵
 container.actuallyadditions.directionalBreaker.name=長距離方塊破壞器
 container.actuallyadditions.rangedCollector.name=物品吸收器
 container.actuallyadditions.miner.name=垂直挖礦機
-container.actuallyadditions.laserRelayItemWhitelist.name=激光中繼器
+container.actuallyadditions.laserRelayItemWhitelist.name=雷射中繼器
 container.actuallyadditions.filter.name=物品過濾器
 container.actuallyadditions.bag.name=麻袋
 container.actuallyadditions.voidBag.name=虛空麻袋
@@ -716,50 +716,50 @@ container.actuallyadditions.fishingNet.name=漁網
 container.actuallyadditions.solarPanel.name=太陽能板
 container.actuallyadditions.heatCollector.name=熱能發電機
 container.actuallyadditions.greenhouseGlass.name=溫室玻璃
-container.actuallyadditions.playerInterface.name=玩家接口
+container.actuallyadditions.playerInterface.name=玩家介面
 container.actuallyadditions.lavaFactory.name=岩漿工廠控制器
 container.actuallyadditions.phantomBooster.name=幻靈增幅器
 container.actuallyadditions.smileyCloud.name=微笑雲朵
 container.actuallyadditions.leafGenerator.name=這不是咀葉花
 container.actuallyadditions.reconstructor.name=原子再構機
-container.actuallyadditions.redstoneface.name=幻靈紅石接口
-container.actuallyadditions.laserRelayItem.name=物品激光中繼器
-container.actuallyadditions.laserRelay.name=激光中繼器
-container.actuallyadditions.laserRelayAdvanced.name=高級激光中繼器
-container.actuallyadditions.laserRelayExtreme.name=超級激光中繼器
-container.actuallyadditions.itemViewer.name=物品傳輸接口
+container.actuallyadditions.redstoneface.name=幻靈紅石介面
+container.actuallyadditions.laserRelayItem.name=物品雷射中繼器
+container.actuallyadditions.laserRelay.name=雷射中繼器
+container.actuallyadditions.laserRelayAdvanced.name=進階雷射中繼器
+container.actuallyadditions.laserRelayExtreme.name=超級雷射中繼器
+container.actuallyadditions.itemViewer.name=物品傳輸介面
 container.actuallyadditions.displayStand.name=物品展示台
 container.actuallyadditions.shockSuppressor.name=衝擊抑制器
 container.actuallyadditions.empowerer.name=充能台
-container.actuallyadditions.laserRelayFluids.name=流體激光中繼器
+container.actuallyadditions.laserRelayFluids.name=流體雷射中繼器
 container.actuallyadditions.distributorItem.name=物品分配器
-container.actuallyadditions.fireworkBox.name=煙花發射器
+container.actuallyadditions.fireworkBox.name=煙火發射器
 
 #Update Information
-info.actuallyadditions.update.generic=[{"text":"有新的"},{"text":"實用拓展","color":"dark_green"},{"text":"版本可用！" ,"color":"none"}]
-info.actuallyadditions.update.versionCompare=[{"text":"當前版本:"},{"text":"%s","color":"dark_red"},{"text":",最新版本: ","color":"none"},{"text":"%s","color":"dark_green"}]
+info.actuallyadditions.update.generic=[{"text":"有新的"},{"text":"實用擴展","color":"dark_green"},{"text":"版本可用！" ,"color":"none"}]
+info.actuallyadditions.update.versionCompare=[{"text":"目前版本:"},{"text":"%s","color":"dark_red"},{"text":",最新版本: ","color":"none"},{"text":"%s","color":"dark_green"}]
 info.actuallyadditions.update.buttons=[{"text":"["},{"text":"點擊以查看更新日誌","color":"green","clickEvent":{"action":" open_url","value":"%s"}},{"text":"][","color":"none"},{"text":"點擊以下載","color":"green ","clickEvent":{"action":"open_url","value":"%s"}},{"text":"]","color":"none"}]
 info.actuallyadditions.update.buttonOptions=單擊:更新日誌，按住Shift鍵單擊:下載！ (在瀏覽器中)
-info.actuallyadditions.update.failed=[{"text":"實用拓展","color":"dark_green"},{"text":"的更新檢查失敗！查看日誌文件以了解更多信息！", "color":"none"}]
+info.actuallyadditions.update.failed=[{"text":"實用擴展","color":"dark_green"},{"text":"的更新檢查失敗！查看日誌檔案以了解更多資訊！", "color":"none"}]
 
 #Achievements 成就
 achievement.actuallyadditions.openBooklet=知識的海洋
-achievement.actuallyadditions.openBooklet.desc=打開實用拓展指導手冊
+achievement.actuallyadditions.openBooklet.desc=打開實用擴展指導手冊
 
 achievement.actuallyadditions.nameSmileyCloud=你最好的朋友
 achievement.actuallyadditions.nameSmileyCloud.desc=命名一個微笑雲朵
 
 achievement.actuallyadditions.craftPhantomface=放大，再放大，是物品！
-achievement.actuallyadditions.craftPhantomface.desc=製造一個幻靈接口
+achievement.actuallyadditions.craftPhantomface.desc=製造一個幻靈介面
 
 achievement.actuallyadditions.openTreasureChest=水下地牢
 achievement.actuallyadditions.openTreasureChest.desc=打開一個藏寶箱
 
 achievement.actuallyadditions.craftLiquiface=放大，再放大，是流體！
-achievement.actuallyadditions.craftLiquiface.desc=製造一個幻靈流體接口
+achievement.actuallyadditions.craftLiquiface.desc=製造一個幻靈流體介面
 
 achievement.actuallyadditions.craftEnergyface=放大，再放大，是CF！
-achievement.actuallyadditions.craftEnergyface.desc=製造一個幻靈能量接口
+achievement.actuallyadditions.craftEnergyface.desc=製造一個幻靈能量介面
 
 achievement.actuallyadditions.craftCoalGen=發電機真是太棒了
 achievement.actuallyadditions.craftCoalGen.desc=製造一個煤炭發電機
@@ -770,31 +770,31 @@ achievement.actuallyadditions.craftLeafGen.desc=製造一個咀葉發電機
 achievement.actuallyadditions.craftReconstructor=滋滋滋
 achievement.actuallyadditions.craftReconstructor.desc=製造一台原子再構機
 
-achievement.actuallyadditions.craftEmpowerer=激活祭壇吧
+achievement.actuallyadditions.craftEmpowerer=啟動祭壇吧
 achievement.actuallyadditions.craftEmpowerer.desc=製造一個充能台
 
 achievement.actuallyadditions.makeCrystal=晶瑩剔透
 achievement.actuallyadditions.makeCrystal.desc=使用原子再構機製作一個水晶
 
-achievement.actuallyadditions.craftLaserRelay=是中繼,不是延遲
-achievement.actuallyadditions.craftLaserRelay.desc=製造一個鐳射中繼器
+achievement.actuallyadditions.craftLaserRelay=是中繼，不是延遲
+achievement.actuallyadditions.craftLaserRelay.desc=製造一個雷射中繼器
 
-achievement.actuallyadditions.craftLaserRelayItem=物流信息
+achievement.actuallyadditions.craftLaserRelayItem=物流訊息
 achievement.actuallyadditions.craftLaserRelayItem.desc=製作一個物品中繼器
 
 achievement.actuallyadditions.craftItemInterface=露出你的臉吧
-achievement.actuallyadditions.craftItemInterface.desc=製作一個物品傳輸接口
+achievement.actuallyadditions.craftItemInterface.desc=製作一個物品傳輸介面
 
 achievement.actuallyadditions.craftLaserRelayAdvanced=能量膨脹
-achievement.actuallyadditions.craftLaserRelayAdvanced.desc=製作一個高級能量激光中繼器
+achievement.actuallyadditions.craftLaserRelayAdvanced.desc=製作一個進階能量雷射中繼器
 
 achievement.actuallyadditions.craftLaserRelayExtreme=為能量而瘋狂吧
-achievement.actuallyadditions.craftLaserRelayExtreme.desc=製作一個超級能量激光中繼器
+achievement.actuallyadditions.craftLaserRelayExtreme.desc=製作一個超級能量雷射中繼器
 
-achievement.actuallyadditions.craftCrusher=雙倍走起！
+achievement.actuallyadditions.craftCrusher=雙倍出發！
 achievement.actuallyadditions.craftCrusher.desc=製造一台磨粉機
 
-achievement.actuallyadditions.craftDoubleCrusher=雙倍的雙倍走起!
+achievement.actuallyadditions.craftDoubleCrusher=雙倍的雙倍出發!
 achievement.actuallyadditions.craftDoubleCrusher.desc=製造一台兩倉磨粉機
 
 achievement.actuallyadditions.pickUpCoffee=讓你上癮！
@@ -804,7 +804,7 @@ achievement.actuallyadditions.craftCoffeeMachine=可不要貪杯哦
 achievement.actuallyadditions.craftCoffeeMachine.desc=製造一個咖啡製造機
 
 achievement.actuallyadditions.craftFireworkBox=砰！砰！砰！
-achievement.actuallyadditions.craftFireworkBox.desc=製作一個煙花發射器
+achievement.actuallyadditions.craftFireworkBox.desc=製作一個煙火發射器
 
 achievement.actuallyadditions.getCrystalsMilestone=原子再構大師
 achievement.actuallyadditions.getCrystalsMilestone.desc=製作水晶數量達到200個
@@ -831,16 +831,16 @@ booklet.actuallyadditions.reconstructorRecipe=原子再構機合成
 #Booklet Entries
 booklet.actuallyadditions.indexEntry.gettingStarted.name=如何開始
 booklet.actuallyadditions.indexEntry.misc.name=其他雜項
-booklet.actuallyadditions.indexEntry.crossover.name=模組兼容
+booklet.actuallyadditions.indexEntry.crossover.name=模組相容
 booklet.actuallyadditions.indexEntry.functionalNoRF.name=不耗能方塊
-booklet.actuallyadditions.indexEntry.allAndSearch.name=所有物品和搜索
+booklet.actuallyadditions.indexEntry.allAndSearch.name=所有物品和搜尋
 booklet.actuallyadditions.indexEntry.functionalRF.name=耗能方塊
 booklet.actuallyadditions.indexEntry.generatingRF.name=產能方塊
 booklet.actuallyadditions.indexEntry.itemsNoRF.name=不耗能物品
 booklet.actuallyadditions.indexEntry.itemsRF.name=耗能物品
 booklet.actuallyadditions.indexEntry.reconstruction.name=再構機的透鏡
-booklet.actuallyadditions.indexEntry.laserRelays.name=激光中繼器的傳輸
-booklet.actuallyadditions.indexEntry.updatesAndInfos.name=更新信息
+booklet.actuallyadditions.indexEntry.laserRelays.name=雷射中繼器的傳輸
+booklet.actuallyadditions.indexEntry.updatesAndInfos.name=更新訊息
 booklet.actuallyadditions.indexEntry.trials.name=挑戰
 
 #Booklet Font Size
@@ -850,413 +850,413 @@ booklet.actuallyadditions.fontSize.large=0.8
 
 #Booklet Buttons
 booklet.actuallyadditions.bookmarkButton.noBookmark.name=沒有書籤
-booklet.actuallyadditions.bookmarkButton.noBookmark.notPageDesc=打開某頁添加書籤
+booklet.actuallyadditions.bookmarkButton.noBookmark.notPageDesc=打開某頁加入書籤
 booklet.actuallyadditions.bookmarkButton.noBookmark.pageDesc=點擊書籤跳轉到那頁
 booklet.actuallyadditions.bookmarkButton.bookmark.openDesc=點擊打開
 booklet.actuallyadditions.bookmarkButton.bookmark.removeDesc=Shift點擊移除
-booklet.actuallyadditions.onlineButton.name=在線觀看
+booklet.actuallyadditions.onlineButton.name=線上觀看
 booklet.actuallyadditions.configButton.name=打開配置GUI
 booklet.actuallyadditions.configButton.desc=按下這個用以再遊戲內調節%s。 \n某些修改需要重啟遊戲！
-booklet.actuallyadditions.achievementButton.name=打開進度界面
-booklet.actuallyadditions.achievementButton.desc=點擊這個打開%s進度界面。
+booklet.actuallyadditions.achievementButton.name=打開進度介面
+booklet.actuallyadditions.achievementButton.desc=點擊這個打開%s進度介面。
 booklet.actuallyadditions.trialFinishButton.completed.name=完成
 booklet.actuallyadditions.trialFinishButton.uncompleted.name=未完成
 booklet.actuallyadditions.trialsButton.name=挑戰
 
 #Booklet Info
-booklet.actuallyadditions.recipeDisabled=這個物品的合成表在配置文件裡被禁用了！如過你是多人模式,要服主同意才能開啟它的配方。如過你是單人模式，點擊上面的"OpenConfig"按鈕開啟合成表！
+booklet.actuallyadditions.recipeDisabled=這個物品的合成表在配置檔案裡被禁用了！如過你是多人模式，要伺服器主人同意才能開啟它的配方。如過你是單人模式，點擊上面的"OpenConfig"按鈕開啟合成表！
 booklet.actuallyadditions.unavailable=1.8.9和1.9版本屬於未完成品，所以部分特性可能無法使用，所以請謹慎使用這個物品！
-booklet.actuallyadditions.clickToSeeRecipe=點擊查看更多信息
+booklet.actuallyadditions.clickToSeeRecipe=點擊查看更多資訊
 booklet.actuallyadditions.amountOfWordsAndChars=共計：%s詞，%s字。
 
 #Booklet Trials
 booklet.actuallyadditions.trials.crystalProduction.name=再構自動化
-booklet.actuallyadditions.trials.crystalProduction.text.1=頻繁的進行<item>原子再構<r>或許是無聊的，尤其是你需要大量相關物品的時候。 <n>使用一些設備自動投擲或者擺放物品，再用一些設備自動拾取或者破壞物品，再配合上紅石，你就能夠做出一個非常棒的<imp>再構<imp>原材料的系統。
+booklet.actuallyadditions.trials.crystalProduction.text.1=頻繁的進行<item>原子再構<r>或許是無聊的，尤其是你需要大量相關物品的時候。<n>使用一些裝置自動投擲或者擺放物品，再用一些裝置自動拾取或者破壞物品，再配合上紅石，你就能夠做出一個非常棒的<imp>再構<imp>原材料的系統。
 
 booklet.actuallyadditions.trials.leatherProduction.name=皮革生產
-booklet.actuallyadditions.trials.leatherProduction.text.1=自動化<item>原子再構機<r>或許是很不錯的主意，尤其是當你講一些<item>腐肉<r>轉換為<item>皮革< r>的時候。終於你不用再看見那些噁心而又無用的東西了。
+booklet.actuallyadditions.trials.leatherProduction.text.1=自動化<item>原子再構機<r>或許是很不錯的主意，尤其是當你講一些<item>腐肉<r>轉換為<item>皮革<r>的時候。終於你不用再看見那些噁心而又無用的東西了。
 
 booklet.actuallyadditions.trials.crystalOil.name=自動化晶化油
-booklet.actuallyadditions.trials.crystalOil.text.1=第一等級和第二等級的<item>油<r>很好製作，不過，尚若要產出<imp>更多能量<r>，將會變得<imp>更複雜<r>。 <n>製作<item>晶化油<r>需要一些自動化方法來轉換<item>油<r>，很明顯這需要一些<imp>更為高級<r>的操作。
+booklet.actuallyadditions.trials.crystalOil.text.1=第一等級和第二等級的<item>油<r>很好製作，不過，尚若要產出<imp>更多能量<r>，將會變得<imp>更複雜<r>。<n>製作<item>晶化油<r>需要一些自動化方法來轉換<item>油<r>，很明顯這需要一些<imp>更為進階<r>的操作。
 
 booklet.actuallyadditions.trials.autoDisenchanter.name=自動祛魔
-booklet.actuallyadditions.trials.autoDisenchanter.text.1=使用<item>祛魔透鏡<r>能夠讓你很容易將不想要的附魔祛除下去，尤其是那些<imp>魚柵<r>或者地牢中得到的工具，你很喜歡，可是上面佈滿了<imp>不幸的附魔<r>。 <n>自動化這個過程會使一切變得簡單。
+booklet.actuallyadditions.trials.autoDisenchanter.text.1=使用<item>祛魔透鏡<r>能夠讓你很容易將不想要的附魔祛除下去，尤其是那些<imp>魚柵<r>或者地牢中得到的工具，你很喜歡，可是上面佈滿了<imp>不幸的附魔<r>。<n>自動化這個過程會使一切變得簡單。
 
 booklet.actuallyadditions.trials.empoweredOil.name=自動充能油
-booklet.actuallyadditions.trials.empoweredOil.text.1=<imp>能量需求<r>越來越多，即使修建了<imp>很多農場<r>也不夠用？你應該<imp>升級<r>你的產<item>油<r>系統來製作<item>充能油<r>了。不過這東西需要更為<imp>高級<r>的操作，所以可能會很棘手。
+booklet.actuallyadditions.trials.empoweredOil.text.1=<imp>能量需求<r>越來越多，即使修建了<imp>很多農場<r>也不夠用？你應該<imp>升級<r>你的產<item>油<r>系統來製作<item>充能油<r>了。不過這東西需要更為<imp>進階<r>的操作，所以可能會很棘手。
 
 booklet.actuallyadditions.trials.mobFarm.name=怪物磨床
-booklet.actuallyadditions.trials.mobFarm.text.1=使用<item>刷怪籠控制工具<r>，或者一個巨大的充滿水流的刷怪塔是很不錯的<imp>刷怪方法<r>。使用<item>死亡透鏡<r>或者<item>殺手透鏡<r>能夠更有效率的獵殺怪物，甚至得到更多的<imp>特殊掉落物<r>，這可以讓你創建更高效的<imp>原子刷怪塔<r>。
+booklet.actuallyadditions.trials.mobFarm.text.1=使用<item>刷怪籠控制工具<r>，或者一個巨大的充滿水流的刷怪塔是很不錯的<imp>刷怪方法<r>。使用<item>死亡透鏡<r>或者<item>殺手透鏡<r>能夠更有效率的獵殺怪物，甚至得到更多的<imp>特殊掉落物<r>，這可以讓你建立更高效率的<imp>原子刷怪塔<r>。
 
 booklet.actuallyadditions.trials.empowererAutomation.name=充能自動化
-booklet.actuallyadditions.trials.empowererAutomation.text.1=<item>充能台<r>需要大量的資源來<imp>轉換東西<r>。 <imp>自動化<r>這個東西或許是非常容易的。用一些<item>物品激光中繼器<r>能夠很輕鬆的讓合適的物品進入合適的展示台。
+booklet.actuallyadditions.trials.empowererAutomation.text.1=<item>充能台<r>需要大量的資源來<imp>轉換東西<r>。 <imp>自動化<r>這個東西或許是非常容易的。用一些<item>物品雷射中繼器<r>能夠很輕鬆的讓合適的物品進入合適的展示台。
 
 #Booklet Chapters
-booklet.actuallyadditions.chapter.intro.name=實用拓展的介紹
-booklet.actuallyadditions.chapter.intro.text.1=<i>長久以來，那些Minecraft的玩家們都生活在那近乎原始的時代中，被“麻煩”奴役著。是的，有成千種麻煩折磨著玩家，強迫他們將幾小時，甚至數日的時間都浪費在諸如伐木、耕種、收穫這樣機械的工作上。他們又有多少時間能用來享受探索那無盡的未知的樂趣呢？
-booklet.actuallyadditions.chapter.intro.text.2=<i>但就算是這樣，仍然沒有改變世界的人出現。就在無數玩家心灰意冷的時候，一位名叫Ellepeck的實業家出現了。他立志於終結那些枯燥乏味的工作，在這樣的想法的激勵下，他為Minecraft世界帶來了各種“真正的擴展”，徹底解放了玩家們的雙手，允許玩家們將更多的時間投入到建築和探險上。
-booklet.actuallyadditions.chapter.intro.text.3=<i>那麼，謹由Ellpeck來為您呈現這部劃時代的著作——《實用拓展手冊》，這不僅僅是本MOD的說明書，還是將一切不可能化為可能的秘密武器。 <r><n><n>~由<imp>Tulkas<r>執筆作序
+booklet.actuallyadditions.chapter.intro.name=實用擴展的介紹
+booklet.actuallyadditions.chapter.intro.text.1=<i>長久以來，那些Minecraft的玩家們都生活在那近乎原始的時代中，被「麻煩」奴役著。是的，有成千種麻煩折磨著玩家，強迫他們將幾小時，甚至數日的時間都浪費在諸如伐木、耕種、收穫這樣機械的工作上。他們又有多少時間能用來享受探索那無盡的未知的樂趣呢？
+booklet.actuallyadditions.chapter.intro.text.2=<i>但就算是這樣，仍然沒有改變世界的人出現。就在無數玩家心灰意冷的時候，一位名叫Ellepeck的實業家出現了。他立志於終結那些枯燥乏味的工作，在這樣的想法的激勵下，他為Minecraft世界帶來了各種「真正的擴展」，徹底解放了玩家們的雙手，允許玩家們將更多的時間投入到建築和探險上。
+booklet.actuallyadditions.chapter.intro.text.3=<i>那麼，謹由Ellpeck來為您呈現這部劃時代的著作——《實用擴展手冊》，這不僅僅是本MOD的說明書，還是將一切不可能化為可能的秘密武器。 <r><n><n>~由<imp>Tulkas<r>執筆作序
 
 booklet.actuallyadditions.chapter.craftingIngs.name=合成原料
-booklet.actuallyadditions.chapter.craftingIngs.text.1=<imp>實用拓展<r>有許多利用<imp>基本合成物品<r>來合成的東西。這一章把所有的基本物品<imp>分組<r>以便您一下子就能找到它們。
+booklet.actuallyadditions.chapter.craftingIngs.text.1=<imp>實用擴展<r>有許多利用<imp>基本合成物品<r>來合成的東西。這一章把所有的基本物品<imp>分組<r>以便您一下子就能找到它們。
 
 booklet.actuallyadditions.chapter.quartz.name=焦黑石英
 booklet.actuallyadditions.chapter.quartz.text.1=<item>焦黑石英<r>是一種生成在<imp><lowest>和<highest><r>層之間的<imp>礦物<r>。當被開採後，它可以在<imp>在熔爐裡燒製<r>成焦黑石英或<imp>在磨粉機裡面磨<r>成<item>焦黑石英粉<r>.
-booklet.actuallyadditions.chapter.quartz.text.2=<item>焦黑石英<r>在<imp>實用拓展<r>的許多的<imp>合成配方<r>當中都有使用。它對於大多數物品的合成都非常重要，所以你在挖礦時候應該多挖掘一些這種礦石。它們可以被用來合成許多種不同的<imp>裝飾方塊<r>，這將會在後面幾面提到。 <n>每種裝飾方塊都可以用來合成<imp>樓梯，半磚和牆<r>，配方與原版相同。 <n><n><i>下界石英，但是更死氣沉沉。
+booklet.actuallyadditions.chapter.quartz.text.2=<item>焦黑石英<r>在<imp>實用擴展<r>的許多的<imp>合成配方<r>當中都有使用。它對於大多數物品的合成都非常重要，所以你在挖礦時候應該多挖掘一些這種礦石。它們可以被用來合成許多種不同的<imp>裝飾方塊<r>，這將會在後面幾面提到。<n>每種裝飾方塊都可以用來合成<imp>樓梯，半磚和牆<r>，配方與原版相同。<n><n><i>地獄石英，但是更死氣沉沉。
 
 booklet.actuallyadditions.chapter.cloud.name=微笑雲朵
-booklet.actuallyadditions.chapter.cloud.text.1=<item>微笑雲朵<r>是一種有魔力的浮動的雲朵，通過它體內的固態經驗獲得生命。它在它呆的位置上上下下、興高采烈地浮動著。當你<imp>右鍵點擊<r>它時，你可以<imp>給它命名<r>。 <n>在給它某些<imp>特殊的名字<r>時，比如說<imp>"Ellpeck"<r>或<imp>"Etho"<r>,它就會拿出它攜帶的某些特殊的東西！
-booklet.actuallyadditions.chapter.cloud.text.2=<n><n><n><i>巨型土豆
+booklet.actuallyadditions.chapter.cloud.text.1=<item>微笑雲朵<r>是一種有魔力的浮動的雲朵，透過它體內的固態經驗獲得生命。它在它呆的位置上上下下、興高采烈地浮動著。當你<imp>右鍵點擊<r>它時，你可以<imp>給它命名<r>。<n>在給它某些<imp>特殊的名字<r>時，比如說<imp>Ellpeck<r>或<imp>Etho<r>，它就會拿出它攜帶的某些特殊的東西！
+booklet.actuallyadditions.chapter.cloud.text.2=<n><n><n><i>巨型馬鈴薯
 
 booklet.actuallyadditions.chapter.coalStuff.name=煤炭相關
-booklet.actuallyadditions.chapter.coalStuff.text.1=有時你​​的<item>煤炭<r><imp>燃燒時間太長或太短了<r>，你知道我的意思嗎？ <n>為了解決那個問題，你現在可以合成<item>小塊煤炭<r>，<item>小塊木炭<r>以及<item>木炭塊<r>來在熔爐中使用。 <n><item>木炭塊<r>燃燒時間和<item>煤塊<r>一樣長，而<item>小塊煤炭<r>和<item>小塊木炭<r>燃燒時間是<imp >一塊煤的八分之一<r>，這意味著它在普通熔爐中恰好能<imp>燒製一個物品<r>。
+booklet.actuallyadditions.chapter.coalStuff.text.1=有時你​​的<item>煤炭<r><imp>燃燒時間太長或太短了<r>，你知道我的意思嗎？<n>為了解決那個問題，你現在可以合成<item>小塊煤炭<r>，<item>小塊木炭<r>以及<item>木炭磚<r>來在熔爐中使用。<n><item>木炭磚<r>燃燒時間和<item>煤炭磚<r>一樣長，而<item>小塊煤炭<r>和<item>小塊木炭<r>燃燒時間是<imp>一塊煤的八分之一<r>，這意味著它在普通熔爐中恰好能<imp>燒製一個物品<r>。
 
 booklet.actuallyadditions.chapter.lamps.name=燈具
-booklet.actuallyadditions.chapter.lamps.text.1=<item>燈具<r>是一種提供大量光的方塊，類似於螢石或火把，但是它們可以被<imp>染成Minecraft中的16種不同顏色<r>，可以<imp>直接合成它們<r>，或是把它們放在地上，<imp>手持染料右擊<r>染色。 <n>當空手<imp>右擊<r>它們時，它們將會<imp>切換光源的開關<r>。如果你想使用<item>紅石<r>信號來控制它，需要在它旁邊放個<item>燈具控制器<r>。
-booklet.actuallyadditions.chapter.lamps.text.2=有一種用<imp>紅石<r>來開關它們的方法，通常情況下，你放置的<item>燈具控制器<r> 被給予<imp>紅石信號後<r>能夠控制前方的燈具。 <n>這樣的放置方式還可以拓展。 <imp>緊貼這個燈具放置其他燈具<r>能夠使其也被控制。 <n>這意味著你能夠使用<imp>一個<r><item>燈具控制器<r>來控制大片的燈具。
+booklet.actuallyadditions.chapter.lamps.text.1=<item>燈具<r>是一種提供大量光的方塊，類似於螢石或火把，但是它們可以被<imp>染成Minecraft中的16種不同顏色<r>，可以<imp>直接合成它們<r>，或是把它們放在地上，<imp>手持染料右擊<r>染色。<n>當空手<imp>右擊<r>它們時，它們將會<imp>切換光源的開關<r>。如果你想使用<item>紅石<r>訊號來控制它，需要在它旁邊放個<item>燈具控制器<r>。
+booklet.actuallyadditions.chapter.lamps.text.2=有一種用<imp>紅石<r>來開關它們的方法，通常情況下，你放置的<item>燈具控制器<r> 被給予<imp>紅石訊號後<r>能夠控制前方的燈具。<n>這樣的放置方式還可以擴展。 <imp>緊貼這個燈具放置其他燈具<r>能夠使其也被控制。<n>這意味著你能夠使用<imp>一個<r><item>燈具控制器<r>來控制大片的燈具。
 
 booklet.actuallyadditions.chapter.treasureChest.name=藏寶箱
 booklet.actuallyadditions.chapter.treasureChest.text.1=一個發現於水下的<item>藏寶箱<r>。
-booklet.actuallyadditions.chapter.treasureChest.text.2=<item>藏寶箱<r>是<imp>海洋生物群系<r>中一種較為罕見的生成物。它們出現在海底，很可能是繞道的船隻扔下或丟失的壓艙貨物。如果你足夠幸運，這些箱子裡可能會有一些<imp>珍貴的物品<r>。你可以<imp>右擊<r>它們收穫這些令人驚異的戰利品，然而破壞它們不會得到任何東西。
+booklet.actuallyadditions.chapter.treasureChest.text.2=<item>藏寶箱<r>是<imp>海洋生態域<r>中一種較為罕見的生成物。它們出現在海底，很可能是繞道的船隻扔下或遺失的壓艙貨物。如果你足夠幸運，這些儲物箱裡可能會有一些<imp>珍貴的物品<r>。你可以<imp>右擊<r>它們收穫這些令人驚異的戰利品，然而破壞它們不會得到任何東西。
 
 booklet.actuallyadditions.chapter.breaker.name=破壞器和放置器
-booklet.actuallyadditions.chapter.breaker.text.1=<item>方塊破壞器<r>能夠破壞它前方的方塊。它可以朝任意方向擺放。 <n>當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石信號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
-booklet.actuallyadditions.chapter.breaker.text.2=<item>方塊放置器<r>能夠在它前方放置方塊。它可以朝向任意方向擺放。 <n>當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石信號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
-booklet.actuallyadditions.chapter.breaker.text.3=<item>流體成型器<r>放置你供應給它的液體。每消耗<imp>1000mB<r>的液體來放置一個液體方塊。當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石信號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間之間切換。
-booklet.actuallyadditions.chapter.breaker.text.4=<item>流體吸收器<r>從它前方收集<imp>1000mB<r>的液體，即一桶。當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石信號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
+booklet.actuallyadditions.chapter.breaker.text.1=<item>方塊破壞器<r>能夠破壞它前方的方塊。它可以朝任意方向擺放。<n>當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石訊號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
+booklet.actuallyadditions.chapter.breaker.text.2=<item>方塊放置器<r>能夠在它前方放置方塊。它可以朝向任意方向擺放。<n>當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石訊號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
+booklet.actuallyadditions.chapter.breaker.text.3=<item>流體成型器<r>放置你供應給它的液體。每消耗<imp>1000mB<r>的液體來放置一個液體方塊。當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石訊號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間之間切換。
+booklet.actuallyadditions.chapter.breaker.text.4=<item>流體吸收器<r>從它前方收集<imp>1000mB<r>的液體，即一桶。當手拿<item>紅石火把<r>右鍵單擊它時，它將在<imp>接受紅石訊號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
 
-booklet.actuallyadditions.chapter.phantomfaces.name=幻靈接口
-booklet.actuallyadditions.chapter.phantomfaces.text.1=<item>幻靈接口<r>是一種簡單的<imp>把物品容器鏈接到一起<r>的工具，它有個很大的優點：< item>幻靈接口<r>不只是把兩個容器連在一起，而且還能<imp>模擬它連接到的容器<r>,這意味著你可以通過把東西放入幻靈接口和從其中抽出來與物品容器交互。 <item>幻靈接口<r>的<imp>默認最大識別範圍為<range>個方塊<r>，你可以使用<item>幻靈增幅器<r>來增大這個範圍。要將<item>幻靈接口<r>鏈接到物品容器，只需要使用<item>幻靈連接器<r><imp>右鍵點擊<r>容器，再<imp>右鍵單擊<r>< item>幻靈接口<r>即可。
-booklet.actuallyadditions.chapter.phantomfaces.text.2=<imp>重要說明：<r><n>需要強調的是幻靈接口<imp>不應該<r>被當做<imp>無線傳輸<r>設備。 <n>舉個例子，當你沒有足夠的位置放置電纜時，或者你希望你的房間看起來美觀，而不是堆滿一堆方塊或者電纜時，這時候才推薦使用幻靈接口。 <n><n><i>它不應被當做短距傳輸的超立方體。
-booklet.actuallyadditions.chapter.phantomfaces.text.3=默認情況下<item>幻靈接口<r>可以傳輸物品，就像第一頁寫的那樣。
-booklet.actuallyadditions.chapter.phantomfaces.text.4=這個<item>幻靈流體接口<r>的行為很像普通的<item>幻靈接口<r>，但是<imp>僅對存儲流體的容器方塊有效<r>。當給予一個<imp>紅石信號<r>，它可以被設置為<imp>自動輸出<r>。但是需要小心這個過程，因為它<imp>在某種情況<r>下可能導致無限的循環和延遲。
-booklet.actuallyadditions.chapter.phantomfaces.text.5=這個<item>幻靈能量接口<r>的行為很像普通的<item>幻靈接口<r>，但是它<imp>僅能傳輸CF能量< r>，這意味著它不能連接發電機和打粉機。
-booklet.actuallyadditions.chapter.phantomfaces.text.7=這個<item>幻靈增幅器<r>，就像第一頁解釋的那樣，作用是增大<item>幻靈接口<r>的工作範圍，只需要放置在<imp>幻靈接口的上面就能工作<r>。 <item>幻靈接口<r>上方增幅器的最大的放置數量為<imp>3<r>.
+booklet.actuallyadditions.chapter.phantomfaces.name=幻靈介面
+booklet.actuallyadditions.chapter.phantomfaces.text.1=<item>幻靈介面<r>是一種簡單的<imp>把物品容器連結到一起<r>的工具，它有個很大的優點：<item>幻靈介面<r>不只是把兩個容器連在一起，而且還能<imp>模擬它連接到的容器<r>，這意味著你可以透過把東西放入幻靈介面和從其中抽出來與物品容器互動。 <item>幻靈介面<r>的<imp>預設最大識別範圍為<range>個方塊<r>，你可以使用<item>幻靈增幅器<r>來增大這個範圍。要將<item>幻靈介面<r>連結到物品容器，只需要使用<item>幻靈連接器<r><imp>右鍵點擊<r>容器，再<imp>右鍵單擊<r><item>幻靈介面<r>即可。
+booklet.actuallyadditions.chapter.phantomfaces.text.2=<imp>重要說明：<r><n>需要強調的是幻靈介面<imp>不應該<r>被當做<imp>無線傳輸<r>裝置。<n>舉個例子，當你沒有足夠的位置放置電纜時，或者你希望你的房間看起來美觀，而不是堆滿一堆方塊或者電纜時，這時候才推薦使用幻靈介面。<n><n><i>它不應被當做短距傳輸的超立方體。
+booklet.actuallyadditions.chapter.phantomfaces.text.3=預設情況下<item>幻靈介面<r>可以傳輸物品，就像第一頁寫的那樣。
+booklet.actuallyadditions.chapter.phantomfaces.text.4=這個<item>幻靈流體介面<r>的行為很像普通的<item>幻靈介面<r>，但是<imp>僅對儲存流體的容器方塊有效<r>。當給予一個<imp>紅石訊號<r>，它可以被設定為<imp>自動輸出<r>。但是需要小心這個過程，因為它<imp>在某種情況<r>下可能導致無限的循環和延遲。
+booklet.actuallyadditions.chapter.phantomfaces.text.5=這個<item>幻靈能量介面<r>的行為很像普通的<item>幻靈介面<r>，但是它<imp>僅能傳輸CF能量<r>，這意味著它不能連接發電機和打粉機。
+booklet.actuallyadditions.chapter.phantomfaces.text.7=這個<item>幻靈增幅器<r>，就像第一頁解釋的那樣，作用是增大<item>幻靈介面<r>的工作範圍，只需要放置在<imp>幻靈介面的上面就能工作<r>。 <item>幻靈介面<r>上方增幅器的最大的放置數量為<imp>3<r>.
 
 booklet.actuallyadditions.chapter.phantomBreaker.name=幻靈方塊破壞器與放置器
-booklet.actuallyadditions.chapter.phantomBreaker.text.1=<item>幻靈方塊破壞器<r>與<item>放置器<r>有著和<item>幻靈接口<r>相同的工作原理，不過它們的作用是<imp>遠距離的破壞以及放置方塊<r>。其默認最大識別範圍為<imp><range>格方塊<r>。欲使其連接並破壞一個方塊，你需要按照<imp>幻靈接口章節<r>中描述的方法去操作。當它前方是空氣方塊時，僅僅只會機械地放置方塊，然後又破壞掉方塊。 <n>當手拿<item>紅石火把<r>右鍵單擊它時，它會在<imp>接受紅石信號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
+booklet.actuallyadditions.chapter.phantomBreaker.text.1=<item>幻靈方塊破壞器<r>與<item>放置器<r>有著和<item>幻靈介面<r>相同的工作原理，不過它們的作用是<imp>遠距離的破壞以及放置方塊<r>。其預設最大識別範圍為<imp><range>格方塊<r>。欲使其連接並破壞一個方塊，你需要按照<imp>幻靈介面章節<r>中描述的方法去操作。當它前方是空氣方塊時，僅僅只會機械地放置方塊，然後又破壞掉方塊。<n>當手拿<item>紅石火把<r>右鍵單擊它時，它會在<imp>接受紅石訊號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
 
 booklet.actuallyadditions.chapter.esd.name=ESD
-booklet.actuallyadditions.chapter.esd.text.1=<item>ESD<r>是一種工作方式<imp>類似於漏斗<r>的方塊，但是<imp>它的功能比漏斗多的多<r >。 <n>你可以選擇從方塊的哪一面來輸入和輸出，而且還可以<imp>精確地配置<r>進行輸入輸出的格子的範圍！ <n>為了獲得關於<item>ESD<r>的更多準確信息，你可以<imp>將鼠標懸浮在它的GUI的元素上<r>！ <n><n>它們能夠判定一個物品欄最初的<imp>格子數量<r>，不過<tifisgrin>並不適合變化格子數的物品欄<r>。當相連的物品欄格子數量發生了變化，比如說<item>物品接口<r>時就無法識別多出的格子，所以你可以在ESD的GUI裡面把數值設大一些，來避免有格子被忽略了。
+booklet.actuallyadditions.chapter.esd.text.1=<item>ESD<r>是一種工作方式<imp>類似於漏斗<r>的方塊，但是<imp>它的功能比漏斗多的多<r>。<n>你可以選擇從方塊的哪一面來輸入和輸出，而且還可以<imp>精確地配置<r>進行輸入輸出的格子的範圍！<n>為了獲得關於<item>ESD<r>的更多準確訊息，你可以<imp>將滑鼠懸浮在它的GUI的元素上<r>！<n><n>它們能夠判定一個物品欄最初的<imp>格子數量<r>，不過<tifisgrin>並不適合變化格子數的物品欄<r>。當相連的物品欄格子數量發生了變化，比如說<item>物品介面<r>時就無法識別多出的格子，所以你可以在ESD的GUI裡面把數值設大一些，來避免有格子被忽略了。
 
 booklet.actuallyadditions.chapter.xpSolidifier.name=經驗固化器
-booklet.actuallyadditions.chapter.xpSolidifier.text.1=<item>經驗固化器<r>可以把玩家的經驗值轉變成<item>固態經驗<r>，而手拿固態經驗<imp>右鍵單擊< r>又可以讓存儲在裡面的經驗值回到玩家身上。 （Shift右擊可以使用一組！）<n>除此之外，你還可以把<item>經驗固化機<r>調節為固化模式，這樣它能夠<imp>拾起任何掉落在地面上的經驗球<r>，並將其轉換成<item>固態經驗<r>。 <n><item>固態經驗<r>有時也會從怪物身上掉落。
+booklet.actuallyadditions.chapter.xpSolidifier.text.1=<item>經驗固化器<r>可以把玩家的經驗值轉變成<item>固態經驗<r>，而手拿固態經驗<imp>右鍵單擊<r>又可以讓儲存在裡面的經驗值回到玩家身上。 （Shift右擊可以使用一組！）<n>除此之外，你還可以把<item>經驗固化機<r>調節為固化模式，這樣它能夠<imp>撿起任何掉落在地面上的經驗球<r>，並將其轉換成<item>固態經驗<r>。<n><item>固態經驗<r>有時也會從怪物身上掉落。
 
 booklet.actuallyadditions.chapter.greenhouseGlass.name=溫室玻璃
-booklet.actuallyadditions.chapter.greenhouseGlass.text.1=<item>溫室玻璃<r>是加快你的植物生長的一種<imp>非常有效的方式<r>！當它被放置在植物上方的任意位置，只要它與植物之間沒有方塊阻擋，而且玻璃可以接受到陽光，它就可以<imp>顯著地加快植物生長<r>！ <n>當然，一定要是白天才行。想想看，這是顯而易見的的。
+booklet.actuallyadditions.chapter.greenhouseGlass.text.1=<item>溫室玻璃<r>是加快你的植物生長的一種<imp>非常有效的方式<r>！當它被放置在植物上方的任意位置，只要它與植物之間沒有方塊阻擋，而且玻璃可以接受到陽光，它就可以<imp>顯著地加快植物生長<r>！<n>當然，一定要是白天才行。想想看，這是顯而易見的的。
 booklet.actuallyadditions.chapter.greenhouseGlass.text.2=<i>溫室氣體
 
 booklet.actuallyadditions.chapter.fishingNet.name=漁網
-booklet.actuallyadditions.chapter.fishingNet.text.1=<item>漁網<r>是一個方塊，它使釣魚變得容易得多！ <imp>把它放置在水的上方<r>，只要你給它一點時間，它就可以自動抓魚！如果要存儲魚，只需在<item>釣魚網<r>上方放個箱子，或是讓它把物品從頂部噴出，再手動收集他們。 <n><n><i>專供懶人使用
+booklet.actuallyadditions.chapter.fishingNet.text.1=<item>漁網<r>是一個方塊，它使釣魚變得容易得多！ <imp>把它放置在水的上方<r>，只要你給它一點時間，它就可以自動抓魚！如果要儲存魚，只需在<item>釣魚網<r>上方放個儲物箱，或是讓它把物品從頂部噴出，再手動收集他們。<n><n><i>專供懶人使用
 
 booklet.actuallyadditions.chapter.feeder.name=自動飼育機
-booklet.actuallyadditions.chapter.feeder.text.1=<item>自動飼育機<r>是人工飼餵動物的好幫手。把它放在畜欄中間，並且給它提供一些小麥，種子或胡蘿蔔（這取決於你想餵什麼動物），然後等著就行了。它將會<imp>自動飼餵動物<r>，如果周圍的動物太多，它也會<imp>自動關閉<r>以防止大量動物造成卡頓。 <n><n><i>綠色和平組織批准使用
+booklet.actuallyadditions.chapter.feeder.text.1=<item>自動飼育機<r>是人工飼餵動物的好幫手。把它放在畜欄中間，並且給它提供一些小麥，種子或胡蘿蔔（這取決於你想餵什麼動物），然後等著就行了。它將會<imp>自動飼餵動物<r>，如果周圍的動物太多，它也會<imp>自動關閉<r>以防止大量動物造成卡頓。<n><n><i>綠色和平組織批准使用
 
 booklet.actuallyadditions.chapter.compost.name=堆肥機和肥料
-booklet.actuallyadditions.chapter.compost.text.1=<item>堆肥機<r>被用於把<item>搗碎的食物<r>轉變成<item>肥料<r>.<item>肥料<r >用法與骨粉相同，但是合成方法比骨粉簡單得多。只需合成<item>搗碎的食物<r>然後把10個搗碎的食物放入<item>堆肥<r>然後稍加等待即可。當搗碎的食物發酵後，只需再次右鍵點擊即可拿出。 <n><n>當然，其他物品也是可以用來堆肥的，當被需要的時候都會給予介紹。
-booklet.actuallyadditions.chapter.compost.text.3=<item>搗碎的食物<r>可以通過<imp>任意食物或可種植的物品<r>與<item>小刀<r>直接合成得到。得到的<item>搗碎的食物<r>的數量<imp>取決於<r>食物的<imp>飽食度<r>和<imp>飽腹度<r>。
+booklet.actuallyadditions.chapter.compost.text.1=<item>堆肥機<r>被用於把<item>搗碎的食物<r>轉變成<item>肥料<r>.<item>肥料<r>用法與骨粉相同，但是合成方法比骨粉簡單得多。只需合成<item>搗碎的食物<r>然後把10個搗碎的食物放入<item>堆肥<r>然後稍加等待即可。當搗碎的食物發酵後，只需再次右鍵點擊即可拿出。<n><n>當然，其他物品也是可以用來堆肥的，當被需要的時候都會給予介紹。
+booklet.actuallyadditions.chapter.compost.text.3=<item>搗碎的食物<r>可以透過<imp>任意食物或可種植的物品<r>與<item>小刀<r>直接合成得到。得到的<item>搗碎的食物<r>的數量<imp>取決於<r>食物的<imp>飽食度<r>和<imp>飽腹度<r>。
 
 booklet.actuallyadditions.chapter.crate.name=板條箱
-booklet.actuallyadditions.chapter.crate.text.1=<item>板條箱<r>很大。 <imp>真的很大<r>。它們可以存儲成千上萬的物品，存儲量比四個箱子還要多。 <n>不僅如此，它們還能夠被<imp>擴容<r>！瀏覽以下頁面查看更多與板條箱相關的信息！
-booklet.actuallyadditions.chapter.crate.text.4=在破壞板條箱前把<item>板條箱守護徽章<r>放置在板條箱內，可以讓板條箱<imp>保留內部所有物品< r>，但是這個過程中守護徽章將會被銷毀。 <n>但是要注意可別用裝有物品的板條箱來合成哦，這樣可會丟失掉<imp>所有的物品信息哦<r>。
-booklet.actuallyadditions.chapter.crate.text.5=<item>板條箱升級徽章<r>允許你<imp>把任意箱子轉換成板條箱<r>，並保留其中物品！ <n>只需<imp>按住shift右鍵單擊<r>箱子即可使用。
-booklet.actuallyadditions.chapter.crate.text.6=和<item>板條箱升級徽章<r>一樣, 只需要手持<item>擴容升級徽章（小轉中）<r>Shift右擊任意一個<imp >小型板條箱<r>，都可以將其擴容為<imp>中型板條箱<r>，裡面的物品也會得到保留。
-booklet.actuallyadditions.chapter.crate.text.7=和<item>板條箱升級徽章<r>一樣, 只需要手持<item>擴容升級徽章（中轉大）<r>Shift右擊任意一個<imp>中型板條箱<r>，都可以將其擴容為<imp>大型板條箱<r>，裡面的物品也會得到保留。
+booklet.actuallyadditions.chapter.crate.text.1=<item>板條箱<r>很大。 <imp>真的很大<r>。它們可以儲存成千上萬的物品，儲存量比四個儲物箱還要多。<n>不僅如此，它們還能夠被<imp>擴容<r>！瀏覽以下頁面查看更多與板條箱相關的訊息！
+booklet.actuallyadditions.chapter.crate.text.4=在破壞板條箱前把<item>板條箱守護徽章<r>放置在板條箱內，可以讓板條箱<imp>保留內部所有物品<r>，但是這個過程中守護徽章將會被銷毀。<n>但是要注意可別用裝有物品的板條箱來合成哦，這樣可會遺失掉<imp>所有的物品訊息哦<r>。
+booklet.actuallyadditions.chapter.crate.text.5=<item>板條箱升級徽章<r>允許你<imp>把任意儲物箱轉換成板條箱<r>，並保留其中物品！<n>只需<imp>按住shift右鍵單擊<r>儲物箱即可使用。
+booklet.actuallyadditions.chapter.crate.text.6=和<item>板條箱升級徽章<r>一樣，只需要手持<item>擴容升級徽章（小轉中）<r>Shift右擊任意一個<imp>小型板條箱<r>，都可以將其擴容為<imp>中型板條箱<r>，裡面的物品也會得到保留。
+booklet.actuallyadditions.chapter.crate.text.7=和<item>板條箱升級徽章<r>一樣，只需要手持<item>擴容升級徽章（中轉大）<r>Shift右擊任意一個<imp>中型板條箱<r>，都可以將其擴容為<imp>大型板條箱<r>，裡面的物品也會得到保留。
 
 booklet.actuallyadditions.chapter.coffeeMachine.name=咖啡製造機
-booklet.actuallyadditions.chapter.coffeeMachine.text.1=<item>咖啡機<r>用於製造一種<imp>類似於藥水<r>，可以給予玩家幾種附加效果的<item>咖啡<r> 。 <n>為了使用它，你需要<item>空杯子<r>和<coffee><item>咖啡豆<r>。在野外可以發現咖啡豆，你可以<imp>在耕地上種植它<r>。咖啡機需要<rf>CF/t的能源供給，每製作一杯咖啡需要<water>mB的水。 <n>如果你想知道每種加入咖啡的物品都有什麼用，翻到後幾面的咖啡機配方，然後把鼠標懸停在物品的上方即可。
-booklet.actuallyadditions.chapter.coffeeMachine.text.2=為了能讓咖啡有實際的藥水效果<imp>接下來的幾頁給出了詳細說明<r>。 <n>加入的東西越多，那麼提供的<imp>藥水等級<r>也會越高。藥水的<imp>最高等級<r>取決於最多能放入的物品數量。 <n>放置順序說明：舉個例子，當你想要給你的咖啡加點<item>牛奶<r>（翻到最後一頁可以了解它詳細的的工作原理）你必須要按照一定的<imp >物品欄編號<r>順序放置物品，才能沖泡出你想要的咖啡。
-booklet.actuallyadditions.chapter.coffeeMachine.text.3=這是一個示例配方，製作一杯擁有<imp>抗火Ⅰ, 0:20<r>和<imp>速度Ⅰ, 2:30<r>效果的咖啡。
-booklet.actuallyadditions.chapter.coffeeMachine.text.6=<item>牛奶<r>對於咖啡來說也很重要：它能為所有的藥水效果<imp>提供2分鐘延時<r>，但會<imp >降低一個藥水等級<r>。如果原本的藥水等級就是1，那麼牛奶會移除這個效果。
-booklet.actuallyadditions.chapter.coffeeMachine.text.7=<i>如果你看到了這一頁，說明你要么安裝了<imp>HarvestCraft<r><i>，要么你在看lang文件。 <r><n>這些東西是為素食主義者準備的<item>牛奶<r>的替代品。
+booklet.actuallyadditions.chapter.coffeeMachine.text.1=<item>咖啡機<r>用於製造一種<imp>類似於藥水<r>，可以給予玩家幾種附加效果的<item>咖啡<r> 。<n>為了使用它，你需要<item>空杯子<r>和<coffee><item>咖啡豆<r>。在野外可以發現咖啡豆，你可以<imp>在耕地上種植它<r>。咖啡機需要<rf>CF/t的能源供給，每製作一杯咖啡需要<water>mB的水。<n>如果你想知道每種加入咖啡的物品都有什麼用，翻到後幾面的咖啡機配方，然後把滑鼠懸停在物品的上方即可。
+booklet.actuallyadditions.chapter.coffeeMachine.text.2=為了能讓咖啡有實際的藥水效果<imp>接下來的幾頁給出了詳細說明<r>。<n>加入的東西越多，那麼提供的<imp>藥水等級<r>也會越高。藥水的<imp>最高等級<r>取決於最多能放入的物品數量。<n>放置順序說明：舉個例子，當你想要給你的咖啡加點<item>牛奶<r>（翻到最後一頁可以了解它詳細的的工作原理）你必須要按照一定的<imp>物品欄編號<r>順序放置物品，才能沖泡出你想要的咖啡。
+booklet.actuallyadditions.chapter.coffeeMachine.text.3=這是一個範例配方，製作一杯擁有<imp>抗火Ⅰ, 0:20<r>和<imp>加速Ⅰ, 2:30<r>效果的咖啡。
+booklet.actuallyadditions.chapter.coffeeMachine.text.6=<item>牛奶<r>對於咖啡來說也很重要：它能為所有的藥水效果<imp>提供2分鐘延時<r>，但會<imp>降低一個藥水等級<r>。如果原本的藥水等級就是1，那麼牛奶會移除這個效果。
+booklet.actuallyadditions.chapter.coffeeMachine.text.7=<i>如果你看到了這一頁，說明你要嘛安裝了<imp>HarvestCraft<r><i>，要嘛你在看lang文件。 <r><n>這些東西是為素食主義者準備的<item>牛奶<r>的替代品。
 
 booklet.actuallyadditions.chapter.crusher.name=磨粉機與兩倉磨粉機
-booklet.actuallyadditions.chapter.crusher.text.1=<item>磨粉機<r>可把每種礦物，錠和寶石轉變成對應的<imp>粉末<r>，功率為<rf>CF/t 。 <n>當你把<imp>礦物<r>放入時，它們會被轉變成<imp>雙倍的粉末<r>。 <n><item>兩倉磨粉機<r>基本上也是如此，然而它能一次粉碎2個礦石。 <n>在接下來幾面，你將會看到一些使用到磨粉機的額外的實用配方。 <n><n><i>He's my crush
+booklet.actuallyadditions.chapter.crusher.text.1=<item>磨粉機<r>可把每種礦物，錠和寶石轉變成對應的<imp>粉末<r>，功率為<rf>CF/t 。<n>當你把<imp>礦物<r>放入時，它們會被轉變成<imp>雙倍的粉末<r>。<n><item>兩倉磨粉機<r>基本上也是如此，然而它能一次粉碎2個礦石。<n>在接下來幾面，你將會看到一些使用到磨粉機的額外的實用配方。<n><n><i>He's my crush
 
 booklet.actuallyadditions.chapter.furnaceDouble.name=兩倉熔爐
-booklet.actuallyadditions.chapter.furnaceDouble.text.1=<item>兩倉熔爐<r>工作方式和熔爐一樣，但是，它可以以<rf>CF/t的功率<imp>一次燒製2個物品< r>。
+booklet.actuallyadditions.chapter.furnaceDouble.text.1=<item>兩倉熔爐<r>工作方式和熔爐一樣，但是，它可以以<rf>CF/t的功率<imp>一次燒製2個物品<r>。
 
 booklet.actuallyadditions.chapter.lavaFactory.name=岩漿工廠
-booklet.actuallyadditions.chapter.lavaFactory.text.1=<item>岩漿工廠<r>可消耗CF來製造岩漿。每產生一個岩漿方塊需要消耗<imp><rf>CF<r>。 <n>岩漿工廠上方的空當四周必須被4個岩漿工廠外牆包圍，否則岩漿工廠不會工作。 <n>右擊<item>岩漿工廠<r>可以顯示當前環境下它是否能工作。 <n><n><i>Lava, for a fact. <n> ory
+booklet.actuallyadditions.chapter.lavaFactory.text.1=<item>岩漿工廠<r>可消耗CF來製造岩漿。每產生一個岩漿方塊需要消耗<imp><rf>CF<r>。<n>岩漿工廠上方的空檔四周必須被4個岩漿工廠外牆包圍，否則岩漿工廠不會工作。<n>右擊<item>岩漿工廠<r>可以顯示目前環境下它是否能工作。<n><n><i>Lava, for a fact.<n> ory
 
 booklet.actuallyadditions.chapter.energizer.name=充能站與釋能站
 booklet.actuallyadditions.chapter.energizer.text.1=<item>充能站<r>把它儲能槽中的能量<imp>充入使用CF的物品<r>之中。
-booklet.actuallyadditions.chapter.energizer.text.2=<item>釋能站<r>從<imp>存儲有CF的物品<r>中釋放出能量，並將能量儲存在它的儲能槽中。
+booklet.actuallyadditions.chapter.energizer.text.2=<item>釋能站<r>從<imp>儲存有CF的物品<r>中釋放出能量，並將能量儲存在它的儲能槽中。
 
 booklet.actuallyadditions.chapter.repairer.name=物品修理機
-booklet.actuallyadditions.chapter.repairer.text.1=<item>物品修理機<r>可使用<imp><rf>CF/t<r>的能量來修復可以在原版鐵砧中修復的物品，< imp>不需要消耗任何材料<r>！
+booklet.actuallyadditions.chapter.repairer.text.1=<item>物品修理機<r>可使用<imp><rf>CF/t<r>的能量來修復可以在原版鐵砧中修復的物品，<imp>不需要消耗任何材料<r>！
 
 booklet.actuallyadditions.chapter.coalGen.name=煤炭發電機
-booklet.actuallyadditions.chapter.coalGen.text.1=<item>煤炭發電機<r>利用任何可以作為原版熔爐燃料的物品產生功率為<imp><rf>CF/t<r>的CF能量。 <n>注意，它只會在產生的能量有處可去的時候消耗燃料。
+booklet.actuallyadditions.chapter.coalGen.text.1=<item>煤炭發電機<r>利用任何可以作為原版熔爐燃料的物品產生功率為<imp><rf>CF/t<r>的CF能<n>量。<n>注意，它只會在產生的能量有處可去的時候消耗燃料。
 
 booklet.actuallyadditions.chapter.solarPanel.name=太陽能板
-booklet.actuallyadditions.chapter.solarPanel.text.1=<item>太陽能板<r>在白天且陽光直射的情況下<imp>產生功率為<rf>CF/t<r>的CF能量。 <n><n><i>可以鑲在牆上
+booklet.actuallyadditions.chapter.solarPanel.text.1=<item>太陽能板<r>在白天且陽光直射的情況下<imp>產生功率為<rf>CF/t<r>的CF能量。<n><n><i>可以鑲在牆上
 
 booklet.actuallyadditions.chapter.heatCollector.name=熱能發電機
-booklet.actuallyadditions.chapter.heatCollector.text.1=<item>熱能發電機<r>是一個<imp>發電功率為<rf>CF/t<r>的機器。 <n>它需要<imp>與至少<min>個岩漿方塊直接接觸<r>才能產生能量。岩漿與頂部接觸視為無效。但是使用它的時候你要留個心眼，它有時會<imp>摧毀一些與它接觸的岩漿方塊<r>！
+booklet.actuallyadditions.chapter.heatCollector.text.1=<item>熱能發電機<r>是一個<imp>發電功率為<rf>CF/t<r>的機器。<n>它需要<imp>與至少<min>個岩漿方塊直接接觸<r>才能產生能量。岩漿與頂部接觸視為無效。但是使用它的時候你要留個心眼，它有時會<imp>摧毀一些與它接觸的岩漿方塊<r>！
 
 booklet.actuallyadditions.chapter.canola.name=油菜相關
-booklet.actuallyadditions.chapter.canola.text.1=那些在野外隨處可見的油菜可以製成各種各樣的東西！你可以油菜提煉<imp>菜籽油<r>或<imp>原油<r>並以此產出<imp>CF<r>。 <n>首先你需要用<item>油菜壓榨機<r>將一定量，<item>油菜<r>提煉為菜籽油。壓榨機本身的能耗是<pressRF>CF/t。然後，用<item>發酵桶<r>可將菜籽油轉化為<imp>原油<r>。最終產出的原油可在<item>原油發電機<r>中當作燃料。產出能量速率能夠在GUI中看到，不過，它還可以被<imp>升級<r>來產出<imp>更多能量<r>！
-booklet.actuallyadditions.chapter.canola.text.2=一開始，你可以使用<item>發酵桶<r>將<item>菜籽油<r>轉換為<item>精緻菜籽油<r>。 <n><n>如果你還不滿意它的產電量，<imp>把精緻菜籽油放置在地上<r>，然後丟進一個<item>晶化油菜籽<r>就能變成< item>晶化油<r>。 <n><n>如果這還不滿意，再丟進去一個<item>充能油菜籽<r>就能變成<item>充能油<r>！
-booklet.actuallyadditions.chapter.canola.text.4=<item>發酵桶<r>也能夠被<item>比較器<r>檢測，輸出的信號強弱取決於<imp>輸出槽<r>容積的<imp>百分比<r>。
-booklet.actuallyadditions.chapter.canola.text.5=如果你打掉了<item>原油發電機<r>，裡面的液體也會得到保留。 <n>如果你想清空它，只需要<imp>放置在合成欄合成一次<r>，所有的液體就會被清除。 <n>原油發電機收到<imp>紅石信號<r>也會<imp>停止工作<r>。
+booklet.actuallyadditions.chapter.canola.text.1=那些在野外隨處可見的油菜可以製成各式各樣的東西！你可以油菜提煉<imp>菜籽油<r>或<imp>原油<r>並以此產出<imp>CF<r>。<n>首先你需要用<item>油菜壓榨機<r>將一定量，<item>油菜<r>提煉為菜籽油。壓榨機本身的能耗是<pressRF>CF/t。然後，用<item>發酵桶<r>可將菜籽油轉化為<imp>原油<r>。最終產出的原油可在<item>原油發電機<r>中當作燃料。產出能量速率能夠在GUI中看到，不過，它還可以被<imp>升級<r>來產出<imp>更多能量<r>！
+booklet.actuallyadditions.chapter.canola.text.2=一開始，你可以使用<item>發酵桶<r>將<item>菜籽油<r>轉換為<item>精緻菜籽油<r>。<n><n>如果你還不滿意它的產電量，<imp>把精緻菜籽油放置在地上<r>，然後丟進一個<item>晶化油菜籽<r>就能變成<item>晶化油<r>。<n><n>如果這還不滿意，再丟進去一個<item>充能油菜籽<r>就能變成<item>充能油<r>！
+booklet.actuallyadditions.chapter.canola.text.4=<item>發酵桶<r>也能夠被<item>比較器<r>檢測，輸出的訊號強弱取決於<imp>輸出槽<r>容積的<imp>百分比<r>。
+booklet.actuallyadditions.chapter.canola.text.5=如果你打掉了<item>原油發電機<r>，裡面的液體也會得到保留。<n>如果你想清空它，只需要<imp>放置在合成欄合成一次<r>，所有的液體就會被清除。<n>原油發電機收到<imp>紅石訊號<r>也會<imp>停止工作<r>。
 
 booklet.actuallyadditions.chapter.wings.name=蝙蝠之翼
-booklet.actuallyadditions.chapter.wings.text.1=有的時候，蝙蝠會掉落<item>翅膀<r>。由於強度不足以載人，這些翅膀不能真正用於飛行。 <n>你可以把這些翅膀製作成<item>蝙蝠之翼<r>使它的強度達到能載人的水平。當你把它置於你的背包中時，它可以讓你<imp>像創造模式一樣懸停飛行<r>。 <n>然而，在<secs>秒之後，它不再<imp>支撐你的重量<r>，你會<imp>重重的摔在地上<r>。 <n>為了使你的翅膀獲得喘息，<imp>站在地面上<r>能夠<imp>緩慢的<r>使其恢復，或者像蝙蝠那樣緊緊抓在<imp>固體方塊的下方< r>。如果沒有耗盡恢復起來就<imp>很快<r>。 <imp>fast<r>.
+booklet.actuallyadditions.chapter.wings.text.1=有的時候，蝙蝠會掉落<item>翅膀<r>。由於強度不足以載人，這些翅膀不能真正用於飛行。<n>你可以把這些翅膀製作成<item>蝙蝠之翼<r>使它的強度達到能載人的水準。當你把它置於你的背包中時，它可以讓你<imp>像創造模式一樣懸停飛行<r>。<n>然而，在<secs>秒之後，它不再<imp>支撐你的重量<r>，你會<imp>重重的摔在地上<r>。<n>為了使你的翅膀獲得喘息，<imp>站在地面上<r>能夠<imp>緩慢的<r>使其恢復，或者像蝙蝠那樣緊緊抓在<imp>固體方塊的下方<r>。如果沒有耗盡恢復起來就<imp>很快<r>。 <imp>fast<r>.
 
 booklet.actuallyadditions.chapter.foods.name=食品
 
 booklet.actuallyadditions.chapter.leafBlower.name=吹葉器
-booklet.actuallyadditions.chapter.leafBlower.text.1=手持<item>吹葉器<r>並<imp>右擊<r>可以吹走周圍高草、花和其他類似的東西。它有一個進階版本，<item>高級吹葉器<r>。這種高級吹葉器和基礎的吹葉器基本相同，可以吹得<imp>更快<r>，還<imp>可以破壞樹葉<r>。
+booklet.actuallyadditions.chapter.leafBlower.text.1=手持<item>吹葉器<r>並<imp>右擊<r>可以吹走周圍高草、花和其他類似的東西。它有一個進階版本，<item>進階吹葉器<r>。這種進階吹葉器和基礎的吹葉器基本相同，可以吹得<imp>更快<r>，還<imp>可以破壞樹葉<r>。
 
 booklet.actuallyadditions.chapter.aiots.name=全能工具(AIOTs)
-booklet.actuallyadditions.chapter.aiots.text.1=<item>全能工具<r>是一種集<item>鎬<r>、<item>斧<r>、<item>鏟<r>、<item >劍<r>和<item>鋤<r>於一身的工具。它們可以用任何常見的材料製成。 <n>除此之外能夠採集石頭，木頭或者其他鬆軟的方塊，當<imp>沒有摁住Shift<r>右擊草方塊時，能夠直接做出<item>耕地<r>，當<imp >Shift<r>右擊時，會做出<item>草徑<r>。
+booklet.actuallyadditions.chapter.aiots.text.1=<item>全能工具<r>是一種集<item>鎬<r>、<item>斧<r>、<item>鏟<r>、<item>劍<r>和<item>鋤<r>於一身的工具。它們可以用任何常見的材料製成。<n>除此之外能夠採集石頭，木頭或者其他鬆軟的方塊，當<imp>沒有按住Shift<r>右擊草地時，能夠直接做出<item>耕地<r>，當<imp>Shift<r>右擊時，會做出<item>草徑<r>。
 
 booklet.actuallyadditions.chapter.jams.name=果醬
-booklet.actuallyadditions.chapter.jams.text.1=有一次，有一個<imp>Kitty<r>特別想要一些果醬。 <n>於是我做了一些<item>果醬<r>。 <n>說真的，這就是些普通果醬。你可以在村民家裡找到它，或者從<imp>果醬小販<r>那裡買到。 <n>每瓶果醬會給你兩種不同的<imp>藥水附加效果<r>！
+booklet.actuallyadditions.chapter.jams.text.1=有一次，有一個<imp>Kitty<r>特別想要一些果醬。<n>於是我做了一些<item>果醬<r>。<n>說真的，這就是些普通果醬。你可以在村民家裡找到它，或者從<imp>果醬小販<r>那裡買到。<n>每瓶果醬會給你兩種不同的<imp>藥水附加效果<r>！
 booklet.actuallyadditions.chapter.jams.text.2=一個<imp>果醬作坊<r>和<n>它的居民
-booklet.actuallyadditions.chapter.jams.text.3=所以，<n>你大概很想知道這個果醬的名字是什麼意思。 <n>現在，讓我告訴你：<n><n><i>-哈密瓜和獼猴桃<n>-哈密瓜和可可豆<n>-菠蘿和可可豆<n>-櫻桃、蘋果和肉桂<n >-李子、蘋果和檸檬<n>-葡萄、獼猴桃和香蕉<n>-醋栗、香蕉和覆盆子<n><n><r>現在，你可能會問，哪個是哪個？自己一邊兒想去吧。
+booklet.actuallyadditions.chapter.jams.text.3=所以，<n>你大概很想知道這個果醬的名字是什麼意思。<n>現在，讓我告訴你：<n><n><i>-哈密瓜和奇異果<n>-哈密瓜和可可豆<n>-鳳梨和可可豆<n>-櫻桃、蘋果和肉桂<n>-李子、蘋果和檸檬<n>-葡萄、奇異果和香蕉<n>-醋栗、香蕉和覆盆子<n><n><r>現在，你可能會問，哪個是哪個？自己一邊兒想去吧。
 
-booklet.actuallyadditions.chapter.potionRings.name=藥水指環
-booklet.actuallyadditions.chapter.potionRings.text.1=<item>藥水指環<r>能夠長時間的提供一系列藥水效果。 <item>藥水指環<r>有兩種版本：<imp>普通版<r>和<imp>高級版<r>。 <n>當你把普通版拿在手上，它會給予你<imp>一級的藥水附加效果<r>。高級版本放在背包中的任何位置都有效，並且提供二級的藥水附加效果。 <n>為了能夠使用<item>藥水指環<r>，你首先需要將其<imp>充滿<r><item>烈焰粉<r>。在<imp>合成台<r>中放入指環和<imp>一至多個<r>烈焰粉。 <n>隨著時間的流逝，指環中的烈焰粉會<imp>逐漸消耗<r>來給予你效果。
+booklet.actuallyadditions.chapter.potionRings.name=藥水戒指
+booklet.actuallyadditions.chapter.potionRings.text.1=<item>藥水戒指<r>能夠長時間的提供一系列藥水效果。 <item>藥水戒指<r>有兩種版本：<imp>普通版<r>和<imp>進階版<r>。<n>當你把普通版拿在手上，它會給予你<imp>一級的藥水附加效果<r>。進階版本放在背包中的任何位置都有效，並且提供二級的藥水附加效果。<n>為了能夠使用<item>藥水戒指<r>，你首先需要將其<imp>充滿<r><item>烈焰粉<r>。在<imp>合成台<r>中放入戒指和<imp>一至多個<r>烈焰粉。<n>隨著時間的流逝，戒指中的烈焰粉會<imp>逐漸消耗<r>來給予你效果。
 
 booklet.actuallyadditions.chapter.drill.name=鑽頭
-booklet.actuallyadditions.chapter.drill.text.1=<item>手鑽<r>用起來就像一把鎬或者鍬一樣。它使用<imp>CF<r>來破壞方塊。它可以<imp>在充能站中被充能<r>，你還可以通過把它拿在手上<imp>按住Shift右鍵單擊<r>來升級。有<imp>大量的升級<r>可用，這裡是其中一部分的解釋：<n><item>範圍採掘升級<r>增大手鑽開掘的範圍的大小。 <n><item>方塊放置升級<r>，在你手持它右鍵單擊後，它就會記錄下它所在的快捷欄格子。在將它放入手鑽後，你就可以通過拿著手鑽右鍵單擊<imp>把那個格子的方塊放置在地上<r>。
-booklet.actuallyadditions.chapter.drill.text.2=需要注意的是，<item>急迫<r>, <item>範圍採集<r>和<item>時運<r><imp>需要逐等級安裝<r >才能正常工作。 <n>這意味著你如果想要給你的手鑽急迫Ⅲ的效果，你需要先安裝急迫Ⅰ和急迫Ⅱ才可以。
-booklet.actuallyadditions.chapter.drill.text.4=<item>手鑽<r>也可以被<imp>染料<r>成Minecraft的16種顏色。 <n>但是，這只是裝飾性的，除了讓它看起來不同，對它不會有任何其他的效果。
+booklet.actuallyadditions.chapter.drill.text.1=<item>手鑽<r>用起來就像一把鎬或者鍬一樣。它使用<imp>CF<r>來破壞方塊。它可以<imp>在充能站中被充能<r>，你還可以透過把它拿在手上<imp>按住Shift右鍵單擊<r>來升級。有<imp>大量的升級<r>可用，這裡是其中一部分的解釋：<n><item>範圍採掘升級<r>增大手鑽開掘的範圍的大小。<n><item>方塊放置升級<r>，在你手持它右鍵單擊後，它就會記錄下它所在的快捷欄格子。在將它放入手鑽後，你就可以透過拿著手鑽右鍵單擊<imp>把那個格子的方塊放置在地上<r>。
+booklet.actuallyadditions.chapter.drill.text.2=需要注意的是，<item>挖掘加速<r>, <item>範圍採集<r>和<item>幸運<r><imp>需要逐等級安裝<r>才能正常工作。<n>這意味著你如果想要給你的手鑽挖掘加速Ⅲ的效果，你需要先安裝挖掘加速Ⅰ和挖掘加速Ⅱ才可以。
+booklet.actuallyadditions.chapter.drill.text.4=<item>手鑽<r>也可以被<imp>染料<r>成Minecraft的16種顏色。<n>但是，這只是裝飾性的，除了讓它看起來不同，對它不會有任何其他的效果。
 
 booklet.actuallyadditions.chapter.staff.name=法杖
-booklet.actuallyadditions.chapter.staff.text.1=<item>傳送法杖<r>，當在充能站中充能後，只需<imp>右擊<r>，就可以<imp>把你傳送到屏幕中央十字準星所指的地方<r>。當你的十字準星對著一個方塊時，它會把你傳送到那個方塊的位置，但是，如果你的十字準星沒有指著一個方塊，準星所對著的方向的仰角就不能超過<imp>5 °<r>，否則傳送將會失敗。
+booklet.actuallyadditions.chapter.staff.text.1=<item>傳送法杖<r>，當在充能站中充能後，只需<imp>右擊<r>，就可以<imp>把你傳送到螢幕中央十字準星所指的地方<r>。當你的十字準星對著一個方塊時，它會把你傳送到那個方塊的位置，但是，如果你的十字準星沒有指著一個方塊，準星所對著的方向的仰角就不能超過<imp>5度<r>，否則傳送將會失敗。
 
-booklet.actuallyadditions.chapter.magnetRing.name=磁力指環
-booklet.actuallyadditions.chapter.magnetRing.text.1=<item>磁力指環<r>，當它在充能站被充電後，只要它在你的背包裡，它就可以消耗<imp>CF<r>產生磁場，將大範圍的物品吸到你身上。 <n>你可以手持指環<imp>Shift右擊<r>啟用或者禁用它。
+booklet.actuallyadditions.chapter.magnetRing.name=磁力戒指
+booklet.actuallyadditions.chapter.magnetRing.text.1=<item>磁力戒指<r>，當它在充能站被充電後，只要它在你的背包裡，它就可以消耗<imp>CF<r>產生磁場，將大範圍的物品吸到你身上。<n>你可以手持戒指<imp>Shift右擊<r>啟用或者禁用它。
 
-booklet.actuallyadditions.chapter.growthRing.name=生長指環
-booklet.actuallyadditions.chapter.growthRing.text.1=<item>生長指環<r>，當在充能站充能後，只要拿在手上，就可以消耗<imp>CF<r>來讓你周圍的植物生長大大加快。
+booklet.actuallyadditions.chapter.growthRing.name=生長戒指
+booklet.actuallyadditions.chapter.growthRing.text.1=<item>生長戒指<r>，當在充能站充能後，只要拿在手上，就可以消耗<imp>CF<r>來讓你周圍的植物生長大大加快。
 
-booklet.actuallyadditions.chapter.waterRemovalRing.name=除液指環
-booklet.actuallyadditions.chapter.waterRemovalRing.text.1=<item>除液指環<r>，當在充能站中充能後，只要拿在手上，就可以使用<imp>CF<r>來移除<imp>岩漿<r>和<imp>水<r>。
+booklet.actuallyadditions.chapter.waterRemovalRing.name=除液戒指
+booklet.actuallyadditions.chapter.waterRemovalRing.text.1=<item>除液戒指<r>，當在充能站中充能後，只要拿在手上，就可以使用<imp>CF<r>來移除<imp>岩漿<r>和<imp>水<r>。
 
 booklet.actuallyadditions.chapter.batteries.name=電池
-booklet.actuallyadditions.chapter.batteries.text.1=<item>電池<r>是個儲存並攜帶CF能量的好方案。它們可以<imp>在充能站中充電<r>並<imp>在釋能站中放電<r>。 <n><n>當手持它時，可以通過<imp>Shift右擊<r>來轉換至<imp>釋能模式<r>。這一意味著它能夠被<imp>物品欄的其他東西<r><imp>充能<r>。
+booklet.actuallyadditions.chapter.batteries.text.1=<item>電池<r>是個儲存並攜帶CF能量的好方案。它們可以<imp>在充能站中充電<r>並<imp>在釋能站中放電<r>。<n><n>當手持它時，可以透過<imp>Shift右擊<r>來轉換至<imp>釋能模式<r>。這一意味著它能夠被<imp>物品欄的其他東西<r><imp>充能<r>。
 
 booklet.actuallyadditions.chapter.leafGen.name=咀葉發電機
-booklet.actuallyadditions.chapter.leafGen.text.1=<item>咀葉發電機<r>可以利用周圍放置的<item>樹葉<r>產生<imp>CF能量<r>。 <n>它會在發電過程中摧毀這些樹葉，<imp>每塊樹葉可以發出<rf>CF<r>。 <n>你可以右擊它以查看它已經儲存了多少CF能量。 <n>它可以作用於<imp>周圍<range>格方塊的範圍<r>。
+booklet.actuallyadditions.chapter.leafGen.text.1=<item>咀葉發電機<r>可以利用周圍放置的<item>樹葉<r>產生<imp>CF能量<r>。<n>它會在發電過程中摧毀這些樹葉，<imp>每塊樹葉可以發出<rf>CF<r>。<n>你可以右擊它以查看它已經儲存了多少CF能量。<n>它可以作用於<imp>周圍<range>格方塊的範圍<r>。
 booklet.actuallyadditions.chapter.leafGen.text.2=<i>嘎嘣脆
 
 booklet.actuallyadditions.chapter.longRangeBreaker.name=長距離方塊破壞器
-booklet.actuallyadditions.chapter.longRangeBreaker.text.1=<item>長距離方塊破壞器<r>工作起來就像一個普通的<item>方塊破壞器<r>，但是它可以破壞<imp>面前至多< range>格的方塊<r>。 <n>每破壞一個方塊它會消耗<imp><rf>CF<r>。 <n>當手拿<item>紅石火把<r>右鍵單擊它時，它會在<imp>接受紅石信號時停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。 <n><n><i>圖為正在破壞第<range>層牆壁
+booklet.actuallyadditions.chapter.longRangeBreaker.text.1=<item>長距離方塊破壞器<r>工作起來就像一個普通的<item>方塊破壞器<r>，但是它可以破壞<imp>面前至多< range>格的方塊<r>。<n>每破壞一個方塊它會消耗<imp><rf>CF<r>。<n>當手拿<item>紅石火把<r>右鍵單擊它時，它會在<imp>接受紅石訊號時停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。<n><n><i>圖為正在破壞第<range>層牆壁
 booklet.actuallyadditions.chapter.longRangeBreaker.text.2=<i>Sequence Breaking
 
 booklet.actuallyadditions.chapter.dropper.name=自動精準投擲器
-booklet.actuallyadditions.chapter.dropper.text.1=<item>自動精準投擲器<r>工作起來就像一個普通的投擲器，但是它<imp>不需要接收紅石信號脈衝<r>就可以自動地投擲物品。 <n>同樣，它也可以做到<imp>將物品精準地投擲到你所指的方向<r>而不是粗暴地把物品砸在地上。 <n>當你手持<item>紅石火把<r>右擊它的時候，它會在<imp>接收紅石信號時停止工作<r>和<imp>每接收一次紅石脈衝工作一次< r>這兩個模式之間切換。
+booklet.actuallyadditions.chapter.dropper.text.1=<item>自動精準投擲器<r>工作起來就像一個普通的投擲器，但是它<imp>不需要接收紅石訊號脈衝<r>就可以自動地投擲物品。<n>同樣，它也可以做到<imp>將物品精準地投擲到你所指的方向<r>而不是粗暴地把物品砸在地上。<n>當你手持<item>紅石火把<r>右擊它的時候，它會在<imp>接收紅石訊號時停止工作<r>和<imp>每接收一次紅石脈衝工作一次<r>這兩個模式之間切換。
 
 booklet.actuallyadditions.chapter.rangedCollector.name=物品收集器
-booklet.actuallyadditions.chapter.rangedCollector.text.1=<item>物品收集器<r>工作起來就像一個漏斗，但是它有<imp>收集周圍的掉落物<r>的能力，它能收集周圍<imp><range>格<r>範圍內的掉落物。 <n>它內置有<imp>物品過濾<r>功能，可以設置<imp>白名單或者黑名單<r>。 <n>但是它一個缺點：它不能自動輸出它收集的物品。
+booklet.actuallyadditions.chapter.rangedCollector.text.1=<item>物品收集器<r>工作起來就像一個漏斗，但是它有<imp>收集周圍的掉落物<r>的能力，它能收集周圍<imp><range>格<r>範圍內的掉落物。<n>它內建有<imp>物品過濾<r>功能，可以設定<imp>白名單或者黑名單<r>。<n>但是它一個缺點：它不能自動輸出它收集的物品。
 
 booklet.actuallyadditions.chapter.hairBalls.name=毛球
-booklet.actuallyadditions.chapter.hairBalls.text.1=<item>毛球<r>會從<imp>活<r>貓身上掉落。 <n>瀏覽下一頁以獲取更多信息。
-booklet.actuallyadditions.chapter.hairBalls.text.2=<item>毛球<r>是一件會從被玩家<imp>馴服<r>的<imp>貓<r>身上掉落的物品。 <n>貓是一種很古怪的的生物，因為它們<imp>會讓任何東西粘在自己的毛髮上<r>。 <item>毛球<r>或許長相令人不堪入目，但當你通過<imp>右擊<r>移除上面那些雜亂的貓毛後，說不定會找到一些<imp>有價值的物品<r>。 <n>或者只會收穫到一些線。 <n><n><n><i>FUURRRRRR！ ！
+booklet.actuallyadditions.chapter.hairBalls.text.1=<item>毛球<r>會從<imp>活<r>貓身上掉落。<n>瀏覽下一頁以獲取更多資訊。
+booklet.actuallyadditions.chapter.hairBalls.text.2=<item>毛球<r>是一件會從被玩家<imp>馴服<r>的<imp>貓<r>身上掉落的物品。<n>貓是一種很古怪的的生物，因為它們<imp>會讓任何東西黏在自己的毛髮上<r>。 <item>毛球<r>或許長相令人不堪入目，但當你透過<imp>右擊<r>移除上面那些雜亂的貓毛後，說不定會找到一些<imp>有價值的物品<r>。<n>或者只會收穫到一些線。<n><n><n><i>FUURRRRRR！ ！
 
-booklet.actuallyadditions.chapter.laserIntro.name=激光中繼器的介紹
-booklet.actuallyadditions.chapter.laserIntro.text.1=<item>激光中繼器<r>存在<imp>很多變種<r>，但是都擁有相似的功能。使用<item>中繼器扳手<r>能夠將<n>一個<item>激光中繼器<r>和其他中繼器相連。只需要<imp>右擊<r>第一個中繼器後再右擊另一個即可連接。連接<imp>沒有上限<r>，你可以稱呼它為<item>網絡<r>或者<item>系統<r>。這樣的網絡系統沒有預定的終點或者起點。
-booklet.actuallyadditions.chapter.laserIntro.text.2=每一個<item>激光中繼器<r>都能夠用多種方式<imp>和其他的中繼器交互<r>。 <n>但是連接兩個<item>激光中繼器<r>卻有一些限制條件。首先兩個相互連接的<item>激光中繼器<r><imp>至多只能相距<range>個方塊遠<r>。 <n>除此之外，兩個<item>激光中繼器<r>的類型<imp>必須相同<r>。 <n><n><i>繼續瀏覽這章的其他條目查看不同類型的激光中繼器！
-booklet.actuallyadditions.chapter.laserIntro.text.3=用中繼器扳手<imp>懸停<r>在中繼器上面能夠看到很多有用的信息，比如<imp>能量流配置<r>或者< imp>優先級<r>。 <n><n>除此之外，嘗試連接兩個<imp>已經連接<r>激光中繼器能夠使其<imp>斷開連接<r>。
+booklet.actuallyadditions.chapter.laserIntro.name=雷射中繼器的介紹
+booklet.actuallyadditions.chapter.laserIntro.text.1=<item>雷射中繼器<r>存在<imp>很多變種<r>，但是都擁有相似的功能。使用<item>中繼器扳手<r>能夠將<n>一個<item>雷射中繼器<r>和其他中繼器相連。只需要<imp>右擊<r>第一個中繼器後再右擊另一個即可連接。連接<imp>沒有上限<r>，你可以稱呼它為<item>網路<r>或者<item>系統<r>。這樣的網路系統沒有預定的終點或者起點。
+booklet.actuallyadditions.chapter.laserIntro.text.2=每一個<item>雷射中繼器<r>都能夠用多種方式<imp>和其他的中繼器互動<r>。<n>但是連接兩個<item>雷射中繼器<r>卻有一些限制條件。首先兩個相互連接的<item>雷射中繼器<r><imp>至多只能相距<range>個方塊遠<r>。<n>除此之外，兩個<item>雷射中繼器<r>的類型<imp>必須相同<r>。<n><n><i>繼續瀏覽這章的其他條目查看不同類型的雷射中繼器！
+booklet.actuallyadditions.chapter.laserIntro.text.3=用中繼器扳手<imp>懸停<r>在中繼器上面能夠看到很多有用的資訊，比如<imp>能量流配置<r>或者<imp>優先度<r>。<n><n>除此之外，嘗試連接兩個<imp>已經連接<r>雷射中繼器能夠使其<imp>斷開連接<r>。
 
-booklet.actuallyadditions.chapter.laserRelays.name=能量激光中繼器
-booklet.actuallyadditions.chapter.laserRelays.text.1=<item>能量激光中繼器<r>是一台能夠<imp>無線傳輸CF<r>的設備，這只需要把它用<item>中繼器扳手<r>右擊連接並生成網絡即可。 <n>把產能機器或接收能量的機器放置在中繼器旁，即可讓它從網絡中的<imp>其它中繼器<r>輸出或接收能量。 <n>在能量傳輸過程中會存在輕微的<imp>能量損失<r>，但是完全不用擔心。因為損失的計算是以<imp>每次傳輸<r>衡量的，所以不必擔心兩台機器間有多少個中繼器，損失<imp>始終都是一樣的<r>。
-booklet.actuallyadditions.chapter.laserRelays.text.2=這裡有<imp>三種<r>能量激光中繼器。它們每tick傳輸的最大能量各不相同。 <imp>能量上限<r>分別為<cap1>，<cap2>，和<cap3>CF。 <n>同樣的，不同的中繼器能量損失也不相同。 <n><imp>混合互聯<r>不同等級的中繼器是可行的，然而能量傳輸的<imp>最低上限<r>和<imp>最高上限<r>會受到兩個中繼器的影響。 <n>除此之外，<item>能量激光中繼器<r>不能夠被幻靈接口相連。
+booklet.actuallyadditions.chapter.laserRelays.name=能量雷射中繼器
+booklet.actuallyadditions.chapter.laserRelays.text.1=<item>能量雷射中繼器<r>是一台能夠<imp>無線傳輸CF<r>的裝置，這只需要把它用<item>中繼器扳手<r>右擊連接並生成網路即可。<n>把產能機器或接收能量的機器放置在中繼器旁，即可讓它從網路中的<imp>其它中繼器<r>輸出或接收能量。<n>在能量傳輸過程中會存在輕微的<imp>能量損失<r>，但是完全不用擔心。因為損失的計算是以<imp>每次傳輸<r>衡量的，所以不必擔心兩台機器間有多少個中繼器，損失<imp>始終都是一樣的<r>。
+booklet.actuallyadditions.chapter.laserRelays.text.2=這裡有<imp>三種<r>能量雷射中繼器。它們每tick傳輸的最大能量各不相同。 <imp>能量上限<r>分別為<cap1>，<cap2>，和<cap3>CF。<n>同樣的，不同的中繼器能量損失也不相同。<n><imp>混合互聯<r>不同等級的中繼器是可行的，然而能量傳輸的<imp>最低上限<r>和<imp>最高上限<r>會受到兩個中繼器的影響。<n>除此之外，<item>能量雷射中繼器<r>不能夠被幻靈介面相連。
 
 booklet.actuallyadditions.chapter.blackLotus.name=黑蓮花
-booklet.actuallyadditions.chapter.blackLotus.text.1=想一想：<n>你需要合成<imp>黑色羊毛<r>，<imp>黑色粘土<r>或者任何其他<imp>需要黑色染料<r >的東西，但你覺得殺死那麼多<imp>無辜的魷魚<r>讓你愧疚？ <n>唔，那麼<item>黑蓮花<r>正是你需要的東西！ <n>只要<imp>在野外<r>隨便找找，你就能找到一朵，然後就可以用它合成一些<item>黑色染料<r>，用來<imp>代替墨囊<r>這樣你就不再需要殺掉可憐的魷魚了。
+booklet.actuallyadditions.chapter.blackLotus.text.1=想一想：<n>你需要合成<imp>黑色羊毛<r>，<imp>黑色黏土<r>或者任何其他<imp>需要黑色染料<r>的東西，但你覺得殺死那麼多<imp>無辜的魷魚<r>讓你愧疚？<n>唔，那麼<item>黑蓮花<r>正是你需要的東西！<n>只要<imp>在野外<r>隨便找找，你就能找到一朵，然後就可以用它合成一些<item>黑色染料<r>，用來<imp>代替墨囊<r>這樣你就不再需要殺掉可憐的魷魚了。
 booklet.actuallyadditions.chapter.blackLotus.text.2=<i>不，不是那個，Vaz...
 
 booklet.actuallyadditions.chapter.crystals.name=水晶和再構機
-booklet.actuallyadditions.chapter.crystals.text.1=<item>原子再構機<r>常用製作<item>水晶<r>，而水晶則是<imp>實用拓展模組<r>最基礎的原料。 <n>當提供能量之後，它就能發出激光，<tifisgrin>當激光擊中一些方塊時<r>，它會把周圍能夠轉換的方塊都轉換了。 <n>每發射一束激光消耗<imp><rf>CF<r>，但是額外的消耗量取決於轉換的方塊。
-booklet.actuallyadditions.chapter.crystals.text.2=這裡有好幾種<item>透鏡<r>，它們都可以貼附在原子再構器上，但是並不是所有的透鏡的功能都那麼討人喜歡。 <n>查看<imp>“再構機的透鏡”<r>章節<imp>查詢更多重要信息<r>。 <n><n>當使用<item>紅石火把<r>右擊原子再構機，可以在<imp>接收紅石信號停止工作<r>和<imp>接收紅石脈衝工作<r>兩種模式之間之間切換。
-booklet.actuallyadditions.chapter.crystals.text.3=需要注意的是，下面列出的合成表都沒有透鏡相關的說明<imp>因為合成它們不需要任何透鏡<r>。 <n><i>我想這應該是顯而易見的吧。
-booklet.actuallyadditions.chapter.crystals.text.5=當你合成很多物品時，你也許會想找到一種方式來<imp>自動化這個過程<r>。 <n>這裡提供了一個非常簡單的方式：<n>在<item>原子再構機<r>的對面放置<item>精準自動投擲器<r>（可以在“<imp>所有物品和搜索<r>”條目找到它）<n>接下來，在合適的位置放置<item>物品吸收器<r>，並且設置好白名單。 <n>接下來你只需要在投擲器裡面丟進原料，就能在吸收器裡面得到你想要的東西。
+booklet.actuallyadditions.chapter.crystals.text.1=<item>原子再構機<r>常用製作<item>水晶<r>，而水晶則是<imp>實用擴展模組<r>最基礎的原料。<n>當提供能量之後，它就能發出雷射，<tifisgrin>當雷射擊中一些方塊時<r>，它會把周圍能夠轉換的方塊都轉換了。<n>每發射一束雷射消耗<imp><rf>CF<r>，但是額外<n>的消耗量取決於轉換的方塊。
+booklet.actuallyadditions.chapter.crystals.text.2=這裡有好幾種<item>透鏡<r>，它們都可以貼在原子再構器上，但是並不是所有的透鏡的功能都那麼討人喜歡。<n>查看<imp>「再構機的透鏡」<r>章節<imp>查詢更多重要資訊<r>。<n><n>當使用<item>紅石火把<r>右擊原子再構機，可以在<imp>接收紅石訊號停止工作<r>和<imp>接收紅石脈衝工作<r>兩種模式之間之間切換。
+booklet.actuallyadditions.chapter.crystals.text.3=需要注意的是，下面列出的合成表都沒有透鏡相關的說明<imp>因為合成它們不需要任何透鏡<r>。<n><i>我想這應該是顯而易見的吧。
+booklet.actuallyadditions.chapter.crystals.text.5=當你合成很多物品時，你也許會想找到一種方式來<imp>自動化這個過程<r>。<n>這裡提供了一個非常簡單的方式：<n>在<item>原子再構機<r>的對面放置<item>精準自動投擲器<r>（可以在「<imp>所有物品和搜尋<r>」條目找到它）<n>接下來，在合適的位置放置<item>物品吸收器<r>，並且設定好白名單。<n>接下來你只需要在投擲器裡面丟進原料，就能在吸收器裡面得到你想要的東西。
 booklet.actuallyadditions.chapter.crystals.text.6=<n><n><n><i>Molecular Transformilator
 
 booklet.actuallyadditions.chapter.bookTutorial.name=手冊簡介
-booklet.actuallyadditions.chapter.bookTutorial.text.1=這本<item>使用拓展手冊<r>，就你現在正在看的這本，囊括了<imp>所有物品的相關信息<r>。 <n>一旦你熟悉了它，導航查閱起來會非常便捷。這裡是簡單介紹：<n><n>當你處於<item>某個章節<r>時候，比如當前這個，你可以<imp>底部的白色按鈕<r>來進行翻頁。當然，<imp>滑動鼠標滾輪<r>也行。 <n>不過章節可不單單是這本書的唯一組成。
-booklet.actuallyadditions.chapter.bookTutorial.text.2=當你點擊左上角按鈕或者右擊<imp>返回<r>到了上一級，你會發現你現在處於<item>條目<r>篇章。條目包含了<imp>相關主題<r>的所有<item>篇章<r>，點擊即可進入相關章節。 <n><n>如果<imp>再次返回<r>上一級（同樣通過點擊左上角的返回或者右擊）你就會發現你處於<item>主頁<r>。 <n><n><i>右下角按鈕可以轉換頁面。
-booklet.actuallyadditions.chapter.bookTutorial.text.3=處於<item>主頁<r>的話，你可以看見（並且點擊）<imp>所有的條目<r>。書籤在在<imp>手冊底部<r>。當處於某一章時，你可以打上<item>書籤<r><imp>方便瀏覽<r>。 <n><n>除此之外手冊還有<imp>更多實用功能<r>，四處看看GUI探索更多功能吧。 <n><n><i>現在可以按下左上角返回按鈕離開這個章節。
+booklet.actuallyadditions.chapter.bookTutorial.text.1=這本<item>使用擴展手冊<r>，就你現在正在看的這本，囊括了<imp>所有物品的相關訊息<r>。<n>一旦你熟悉了它，導航查閱起來會非常容易。這裡是簡單介紹：<n><n>當你處於<item>某個章節<r>時候，比如目前這個，你可以<imp>點擊底部的白色按鈕<r>來進行翻頁。當然，<imp>滾動滑鼠滾輪<r>也行。<n>不過章節可不單單是這本書的唯一組成。
+booklet.actuallyadditions.chapter.bookTutorial.text.2=當你點擊左上角按鈕或者右擊<imp>返回<r>到了上一級，你會發現你現在處於<item>條目<r>篇章。條目包含了<imp>相關主題<r>的所有<item>篇章<r>，點擊即可進入相關章節。<n><n>如果<imp>再次返回<r>上一級（同樣透過點擊左上角的返回或者右擊）你就會發現你處於<item>首頁<r>。<n><n><i>右下角按鈕可以轉換頁面。
+booklet.actuallyadditions.chapter.bookTutorial.text.3=處於<item>首頁<r>的話，你可以看見（並且點擊）<imp>所有的條目<r>。書籤在<imp>手冊底部<r>。當處於某一章時，你可以加上<item>書籤<r><imp>方便瀏覽<r>。<n><n>除此之外手冊還有<imp>更多實用功能<r>，四處看看GUI探索更多功能吧。<n><n><i>現在可以按下左上角返回按鈕離開這個章節。
 
 booklet.actuallyadditions.chapter.reconstructorLenses.name=透鏡簡介
-booklet.actuallyadditions.chapter.reconstructorLenses.text.1=<item>原子再構機<r>默認功能僅僅是轉換一些方塊。 <n>當使用<item>透鏡<r>之後功能就有所改變。當你手持透鏡<imp>右擊<r>原子再構機就可以貼附上透鏡。空手右擊可以取下來。 <n>他們消耗的能量各不相同。 <n>不同的<item>透鏡<r>都擁有不同的功能和特性，你可以查看<imp>這一章<r>內容來獲取更多信息。 <n>除此之外，這些透鏡還有一些<imp>其他有用的合成<r>。
+booklet.actuallyadditions.chapter.reconstructorLenses.text.1=<item>原子再構機<r>預設功能僅僅是轉換一些方塊。<n>當使用<item>透鏡<r>之後功能就有所改變。當你手持透鏡<imp>右擊<r>原子再構機就可以貼上透鏡。空手右擊可以取下來。<n>他們消耗的能量各不相同。<n>不同的<item>透鏡<r>都擁有不同的功能和特性，你可以查看<imp>這一章<r>內容來獲取更多資訊。<n>除此之外，這些透鏡還有一些<imp>其他有用的合成<r>。
 
 booklet.actuallyadditions.chapter.additionalRecipes.name=附加合成
 
 booklet.actuallyadditions.chapter.bookSplitting.name=拆解附魔書
-booklet.actuallyadditions.chapter.bookSplitting.text.1=<item>原子再構機<r> 能夠將具有多個附魔的書拆分成更多的書，每本書只有一個附魔。 費用為 <imp>155000 CF<r>，因此您一次只能拆分一本書。 注意不要在再構機的路徑上留多本書，否則它可能只用附魔中一個，這會浪費<imp>155000 CF <r>！ 此副作用為此過程會憑空生成附魔書，以實現其目的。 是魔術，對吧？
+booklet.actuallyadditions.chapter.bookSplitting.text.1=<item>原子再構機<r> 能夠將具有多個附魔的書分割成更多的書，每本書只有一個附魔。 費用為<imp>155000 CF<r>，因此您一次只能分割一本書。 注意不要在再構機的路徑上留多本書，否則它可能只用附魔中一個，這會浪費<imp>155000 CF <r>！此副作用為此過程會憑空生成附魔書，以實現其目的。是魔術，對吧？
 
 booklet.actuallyadditions.chapter.lensColor.name=斑斕透鏡
-booklet.actuallyadditions.chapter.lensColor.text.1=裝有<item>斑斕透鏡<r>後，發射的激光束可以改變在其正前方所有的<imp>彩色玻璃和彩色玻璃板，染色粘土，地毯，染料，羊毛和本模組的燈具<r>的顏色。 <n>相反的，如果不使用透鏡，激光束也能<imp>穿過方塊<r>，但是只會轉換相接觸的方塊。
+booklet.actuallyadditions.chapter.lensColor.text.1=裝有<item>斑斕透鏡<r>後，發射的雷射可以改變在其正前方所有的<imp>彩色玻璃、彩色玻璃片、染色黏土、地毯、染料、羊毛和本模組燈具<r>的顏色。<n>相反的，如果不使用透鏡，雷射也能<imp>穿過方塊<r>，但是只會轉換相接觸的方塊。
 
 booklet.actuallyadditions.chapter.lensDeath.name=死亡透鏡
-booklet.actuallyadditions.chapter.lensDeath.text.1=裝有<item>死亡透鏡<r>後，發射的激光束能對其正前方任何的實體<imp>造成大量傷害<r>，而對於玩家來說，只需要<imp>輕輕碰一下<r>就能魂歸故里。
+booklet.actuallyadditions.chapter.lensDeath.text.1=裝有<item>死亡透鏡<r>後，發射的雷射能對其正前方任何的實體<imp>造成大量傷害<r>，而對於玩家來說，只需要<imp>輕輕碰一下<r>就會灰飛煙滅。
 
 booklet.actuallyadditions.chapter.lensDetonation.name=爆破透鏡
-booklet.actuallyadditions.chapter.lensDetonation.text.1=裝有<item>爆破透鏡<r>後發射的激光束，<imp>擊中方塊後<r>會起火併爆炸。 <n>所以請小心使用它。 <n>（使用這個透鏡後，激光束的發射距離是普通情況下的3倍）
+booklet.actuallyadditions.chapter.lensDetonation.text.1=裝有<item>爆破透鏡<r>後發射的雷射，<imp>擊中方塊後<r>會起火並爆炸。<n>所以請小心使用它。<n>（使用這個透鏡後，雷射的發射距離是普通情況下的3倍）
 
 booklet.actuallyadditions.chapter.lensDisenchanting.name=祛魔透鏡
-booklet.actuallyadditions.chapter.lensDisenchanting.text.1=裝有<item>祛魔透鏡<r>後發射的激光束可以把已經擁有附魔的工具上的單個<imp>附魔<r><imp>轉移到<r><item>書<r>或者<item>附魔書<r>上面。 <n>使用方式很簡單，在再構機前方丟出兩個物品<r>（需要注意兩個物品必須要丟在<imp>同一個格子裡面<r>）<n>當激光束擊中它們時，物品上的<imp>高等級附魔<r>將會被<imp>轉移<r>或者<imp>添加<r>到普通的書或者附魔書上面<r>。 <n><n>使用一次耗能為<imp><energy>CF<r>。
+booklet.actuallyadditions.chapter.lensDisenchanting.text.1=裝有<item>祛魔透鏡<r>後發射的雷射可以把已經擁有附魔的工具上的單個<imp>附魔<r><imp>轉移到<r><item>書<r>或者<item>附魔書<r>上面。<n>使用方式很簡單，在再構機前方丟出兩個物品<r>（需要注意兩個物品必須要丟在<imp>同一個格子裡面<r>）。<n>當雷射擊中它們時，物品上的<imp>高等級附魔<r>將會被<imp>轉移<r>或者<imp>加入<r>到普通的書或者附魔書上面<r>。<n><n>使用一次耗能為<imp><energy>CF<r>。
 
 booklet.actuallyadditions.chapter.lensMining.name=礦工透鏡
-booklet.actuallyadditions.chapter.lensMining.text.1=<item>礦工透鏡<r>能夠<imp>創造出礦物<r>。 <n>當激光擊中在<item>石頭<r>上面時，它能夠被轉化成<imp>隨機的主世界礦物<r>。同理<item>地獄岩<r>能夠被轉化為<imp>地獄的礦石<r>。 <n>每次操作消耗<imp><energy>CF<r>能量，除此之外還依據生成礦物的稀有程度，消耗一些<imp>額外的能量<r>。
+booklet.actuallyadditions.chapter.lensMining.text.1=<item>礦工透鏡<r>能夠<imp>創造出礦物<r>。<n>當雷射擊中<item>石頭<r>時，它能夠被轉化成<imp>隨機的主世界礦物<r>。同理<item>地獄岩<r>能夠被轉化為<imp>地獄的礦物<r>。<n>每次操作消耗<imp><energy>CF<r>能量，除此之外還依據生成礦物的稀有程度，消耗一些<imp>額外的能量<r>。
 
 booklet.actuallyadditions.chapter.miscDecorStuffsAndThings.name=一些裝飾品
-booklet.actuallyadditions.chapter.miscDecorStuffsAndThings.text.1=有時候，你在搞建築時，你會發現你<imp>根本沒有足夠多的裝飾方塊<r>。那好，我們接下來隆重推出：<item>裝飾用石英<r>！ <n>這些和石英相仿，但有著更好看的花紋的方塊還能合成為<imp>樓梯<r>、<imp>台階<r>和<imp>牆<r>，其合成也是一如既往的原版風格。
+booklet.actuallyadditions.chapter.miscDecorStuffsAndThings.text.1=有時候，你在搞建築時，你會發現你<imp>根本沒有足夠多的裝飾方塊<r>。那好，我們接下來隆重推出：<item>裝飾用石英<r>！<n>這些和石英相仿，但有著更好看的花紋的方塊還能合成為<imp>樓梯<r>、<imp>台階<r>和<imp>牆<r>，其合成也是一如既往的原版風格。
 
 booklet.actuallyadditions.chapter.miner.name=垂直挖礦機
-booklet.actuallyadditions.chapter.miner.text.1=<item>垂直挖礦機<r>可以用來自動<imp>挖掘方塊<r>。 <n>它有兩種模式：它可以選擇<imp>只挖掘礦石<r>或<imp>挖掘任何方塊<r>。每挖掘一個方塊，它都會消耗<rf>CF。 <n>挖掘的物品會被存儲到內部緩存中，右擊即可取出。 <n><n>默認挖掘半徑為<range>格，但是就像幻靈接口一樣，在其上方放置<item>幻靈增幅器<r>，最大可以擴大它的挖掘半徑到3格。
+booklet.actuallyadditions.chapter.miner.text.1=<item>垂直挖礦機<r>可以用來自動<imp>挖掘方塊<r>。<n>它有兩種模式：它可以選擇<imp>只挖掘礦石<r>或<imp>挖掘任何方塊<r>。每挖掘一個方塊，它都會消耗<rf>CF。<n>挖掘的物品會被儲存到內部快取中，右擊即可取出。<n><n>預設挖掘半徑為<range>格，但是就像幻靈介面一樣，在其上方放置<item>幻靈增幅器<r>，最大可以擴大它的挖掘半徑到3格。
 booklet.actuallyadditions.chapter.miner.text.2=（任意顏色手鑽都可以合成）<n><n><n><n><n><i>I dig it
 
-booklet.actuallyadditions.chapter.fireworkBox.name=煙花發射器
-booklet.actuallyadditions.chapter.fireworkBox.text.1=<item>煙花發射器<r>最適合新年佳節！在放置後供應一些<imp>CF<r>能量，它就會向附近射出一些<imp>隨機生成<r>的<item>煙花<r>。 <n>每次噴射都會消耗<rf>CF能量。你可以<imp>右擊<r>這個機器來<imp>精准設置<r><item>煙花<r>的類型或者<imp>頻率<r>。除此之外還有一大堆<imp>其它選項<r>以供選擇。只需要打開GUI就能查看到每個選項。 <n><n>這可是一個又酷又棒的煙火表演。
-booklet.actuallyadditions.chapter.fireworkBox.text.2=這是一條很少有人知道的東西，想要合成<item>煙花<r>，只需要將<item>火藥<r>和<item>紙<r >合成即可。
+booklet.actuallyadditions.chapter.fireworkBox.name=煙火發射器
+booklet.actuallyadditions.chapter.fireworkBox.text.1=<item>煙火發射器<r>最適合新年佳節！在放置後供應一些<imp>CF<r>能量，它就會向附近射出一些<imp>隨機生成<r>的<item>煙火<r>。<n>每次噴射都會消耗<rf>CF能量。你可以<imp>右擊<r>這個機器來<imp>精準設定<r><item>煙火<r>的類型或者<imp>頻率<r>。除此之外還有一大堆<imp>其它選項<r>以供選擇。只需要打開GUI就能查看到每個選項。<n><n>這可是一個又酷又棒的煙火表演。
+booklet.actuallyadditions.chapter.fireworkBox.text.2=這是一條很少有人知道的東西，想要合成<item>煙火<r>，只需要將<item>火藥<r>和<item>紙<r>合成即可。
 
 booklet.actuallyadditions.chapter.rf.name=CF——水晶通量（Crystal Flux）
-booklet.actuallyadditions.chapter.rf.text.1=隨著我們最近所熟知的紅石通量（Redstone Flux）勢力的衰退，一種新的能量單位開始崛起：<item>水晶通量（Crystal Flux） <r>。 <n>這種能量能夠被<imp>所有實用拓展的機器<r>產出，並且能夠和<imp>Tesla和Forge Units兼容<r>。所有使用<item>水晶通量<r>的機器<imp>不需要經過轉換<r>直接可與上述相關係統<imp>直接相連<r>。
-booklet.actuallyadditions.chapter.rf.text.2=為了<imp>傳輸<r><item>水晶通量<r>，只需要將<imp>發電機<r>或者<imp>傳輸設備<r> <imp>緊貼<r>著<imp>使用設備<r>或者存儲設備（只需要符合上述描述的均可）。你還可以用<item>充能站<r><imp>充能物品<r>。
+booklet.actuallyadditions.chapter.rf.text.1=隨著我們最近所熟知的紅石通量（Redstone Flux）勢力的衰退，一種新的能量單位開始崛起：<item>水晶通量（Crystal Flux） <r>。<n>這種能量能夠被<imp>所有實用擴展的機器<r>產出，並且能夠和<imp>Tesla和Forge Units相容<r>。所有使用<item>水晶通量<r>的機器<imp>不需要經過轉換<r>直接可與上述相關系統<imp>直接相連<r>。
+booklet.actuallyadditions.chapter.rf.text.2=為了<imp>傳輸<r><item>水晶通量<r>，只需要將<imp>發電機<r>或者<imp>傳輸裝置<r> <imp>緊貼<r>著<imp>使用裝置<r>或者儲存裝置（只需要符合上述描述的均可）。你還可以用<item>充能站<r><imp>充能物品<r>。
 
-booklet.actuallyadditions.chapter.enderStar.name=末影之星
-booklet.actuallyadditions.chapter.enderStar.text.1=<item>末影之星<r>要通過擊殺凋零和前往末地收集龍之吐息獲得。龍之吐息就是那些末影龍噴吐出的紫色顆粒，可以用瓶子來收集它們。 <n><item>末影之星<r>是<imp>許多合成所必需的材料<r>。
+booklet.actuallyadditions.chapter.enderStar.name=終界之星
+booklet.actuallyadditions.chapter.enderStar.text.1=<item>終界之星<r>要透過擊殺凋零和前往終界收集龍之吐息獲得。龍之吐息就是那些終界龍噴吐出的紫色顆粒，可以用瓶子來收集它們。<n><item>終界之星<r>是<imp>許多合成所必需的材料<r>。
 
-booklet.actuallyadditions.chapter.phantomRedstoneface.name=幻靈紅石接口
-booklet.actuallyadditions.chapter.phantomRedstoneface.text.1=<imp>如果你還不知道什麼是幻靈接口，請先閱讀幻靈接口條目。 <r><n><n><item>幻靈紅石接口<r>是用來傳輸紅石信號的幻靈接口。但和一般的幻靈接口<imp>不一樣<r>，它“只在一個方向上工作”。換句話說，它只對<imp>相連的方塊<r>提供紅石信號，它<imp>不會<r>對那些周圍的<imp>其他方塊<r>工作。
+booklet.actuallyadditions.chapter.phantomRedstoneface.name=幻靈紅石介面
+booklet.actuallyadditions.chapter.phantomRedstoneface.text.1=<imp>如果你還不知道什麼是幻靈介面，請先閱讀幻靈介面條目。 <r><n><n><item>幻靈紅石介面<r>是用來傳輸紅石訊號的幻靈介面。但和一般的幻靈介面<imp>不一樣<r>，它「只在一個方向上工作」。換句話說，它只對<imp>相連的方塊<r>提供紅石訊號，它<imp>不會<r>對那些周圍的<imp>其他方塊<r>工作。
 
 booklet.actuallyadditions.chapter.spawnerShard.name=刷怪籠碎片
 booklet.actuallyadditions.chapter.spawnerShard.text.1=<item>刷怪籠碎片<r>是<imp>破壞刷怪籠<r>後掉落的一種合成材料。每當刷怪籠被破壞後，總是會掉落<imp>一塊<r>碎片。
 
 booklet.actuallyadditions.chapter.spawnerChanger.name=刷怪籠控制工具
-booklet.actuallyadditions.chapter.spawnerChanger.text.1=<item>刷怪籠控制工具<r>是一件可以<imp>操控<r><imp>刷怪籠生成<r>的生物的物品。 <n>使用它也很簡單，首先先用刷怪籠控制工具<imp>“拾起”<r>你想要生成的生物，接下來用刷怪籠控制器<imp>右擊刷怪籠<r>可以改變生成的生物。 <n><n>注意，並不是每種生物都可這樣做。
+booklet.actuallyadditions.chapter.spawnerChanger.text.1=<item>刷怪籠控制工具<r>是一件可以<imp>操控<r><imp>刷怪籠生成<r>的生物的物品。<n>使用它也很簡單，首先先用刷怪籠控制工具<imp>「撿起」<r>你想要生成的生物，接下來用刷怪籠控制器<imp>右擊刷怪籠<r>可以改變生成的生物。<n><n>注意，並不是每種生物都可這樣做。
 
-booklet.actuallyadditions.chapter.itemRelays.name=物品激光中繼器
-booklet.actuallyadditions.chapter.itemRelays.text.1=在開始之前需要著重一點：<item>物品激光中繼器<r>比<item>能量激光中繼器<r>和<item>流體激光中繼器<r>要<imp>複雜得多<r>。不過這東西可是一個<imp>極具效率<r>的物品傳輸和管理工具。 <n>只需要將<item>物品激光中繼器<r>和<imp>能夠存儲或者操縱物品的方塊<r>相接，它就會智能的<imp>“知道”<r>每個格子需要什麼。 <n>單獨這麼一個功能沒啥用，不過<item>物品傳輸接口<r>能夠對這些物品進行交互。可以去產看<imp>相關章節<r>了解詳情。
+booklet.actuallyadditions.chapter.itemRelays.name=物品雷射中繼器
+booklet.actuallyadditions.chapter.itemRelays.text.1=在開始之前需要著重一點：<item>物品雷射中繼器<r>比<item>能量雷射中繼器<r>和<item>流體雷射中繼器<r>要<imp>複雜得多<r>。不過這東西可是一個<imp>極具效率<r>的物品傳輸和管理工具。<n>只需要將<item>物品雷射中繼器<r>和<imp>能夠儲存或者操縱物品的方塊<r>相接，它就會智慧的<imp>「知道」<r>每個格子需要什麼。<n>單獨這麼一個功能沒什麼用，不過<item>物品傳輸介面<r>能夠對這些物品進行互動。可以去產看<imp>相關章節<r>了解詳情。
 
-booklet.actuallyadditions.chapter.itemInterfaces.name=物品傳輸接口
-booklet.actuallyadditions.chapter.itemInterfaces.text.1=<item>物品傳輸接口<r>是一種能夠<imp>交互<r><item>物品激光中繼器<r>網絡的東西。一個網絡只<imp>“知道”<r>相連的容器的所有<imp>物品和格子<r>。 <n>而<item>物品傳輸接口<r>能夠直接<imp>交互<r>這些物品。 <item>物品傳輸接口<r>的工作原理差不多就是把自己<imp>偽裝<r>成包含<imp>每個相連容器<r>的格子的<imp>超大箱子<r>。
-booklet.actuallyadditions.chapter.itemInterfaces.text.2=這也意味著你可以<imp>使用漏斗<r>或者其他傳輸設備向物品傳輸接口傳輸東西，就像箱子那樣，能夠<imp>接收物品<r >或者從<imp>激光中繼器網絡<r>中<imp>抽出<r>物品。 <n><n>想要<imp>連接入網絡<r>中，只需要在<item>物品激光中繼器<r>旁邊<imp>擺一個<r>物品傳輸接口就行。
+booklet.actuallyadditions.chapter.itemInterfaces.name=物品傳輸介面
+booklet.actuallyadditions.chapter.itemInterfaces.text.1=<item>物品傳輸介面<r>是一種能夠<imp>互動<r><item>物品雷射中繼器<r>網路的東西。一個網路只<imp>「知道」<r>相連的容器的所有<imp>物品和格子<r>。<n>而<item>物品傳輸介面<r>能夠直接<imp>互動<r>這些物品。 <item>物品傳輸介面<r>的工作原理差不多就是把自己<imp>偽裝<r>成包含<imp>每個相連容器<r>的格子的<imp>超大儲物箱<r>。
+booklet.actuallyadditions.chapter.itemInterfaces.text.2=這也意味著你可以<imp>使用漏斗<r>或者其他傳輸裝置向物品傳輸介面傳輸東西，就像儲物箱那樣，能夠<imp>接收物品<r>或者從<imp>雷射中繼器網路<r>中<imp>抽出<r>物品。<n><n>想要<imp>連接入網路<r>中，只需要在<item>物品雷射中繼器<r>旁邊<imp>擺一個<r>物品傳輸介面就行。
 
-booklet.actuallyadditions.chapter.itemRelaysAdvanced.name=高級物品激光中繼器
-booklet.actuallyadditions.chapter.itemRelaysAdvanced.text.1=很快你就發現了，你需要<imp>白名單或者黑名單<r>相關物品。 <n><item>高級物品激光中繼器<r>就可以做到，當<imp>右擊<r>打開GUI的時候，可以配置<imp>白名單或者黑名單<r>。 <n>列表有兩側，<imp>進站<r>就是指“物品嚐試進入中繼器所連接的容器”。 <imp>出站<r>就是指“物品嚐試從中繼器所連接的容器中抽出”。
-booklet.actuallyadditions.chapter.itemRelaysAdvanced.text.2=這不單單作用於網絡中的<imp>存儲容器<r>，還能夠作用於<item>物品傳輸接口<r>，也意味著你能夠製作一個只允許抽出特殊物品的存儲系統。
+booklet.actuallyadditions.chapter.itemRelaysAdvanced.name=進階物品雷射中繼器
+booklet.actuallyadditions.chapter.itemRelaysAdvanced.text.1=很快你就發現了，你需要<imp>白名單或者黑名單<r>相關物品。<n><item>進階物品雷射中繼器<r>就可以做到，當<imp>右擊<r>打開GUI的時候，可以配置<imp>白名單或者黑名單<r>。<n>列表有兩側，<imp>進站<r>就是指「物品嚐試進入中繼器所連接的容器」。 <imp>出站<r>就是指「物品嚐試從中繼器所連接的容器中抽出」。
+booklet.actuallyadditions.chapter.itemRelaysAdvanced.text.2=這不單單作用於網路中的<imp>儲存容器<r>，還能夠作用於<item>物品傳輸介面<r>，也意味著你能夠製作一個只允許抽出特殊物品的儲存系統。
 
-booklet.actuallyadditions.chapter.itemInterfacesHopping.name=漏斗型物品傳輸接口
-booklet.actuallyadditions.chapter.itemInterfacesHopping.text.1=<item>漏斗型物品傳輸接口<r>很像普通的傳輸接口，這也意味著你能夠直接像普通的<item>傳輸接口<r>一樣< imp>緊貼<r><item>物品激光中繼器<r>就行。 <n>不過普通的<item>物品傳輸接口<r>需要主動<imp>抽入抽出<r>，<item>漏斗型物品傳輸接口<r>能夠<imp>主動<r>抽入抽出物品，就像<imp>普通的<r><item>漏斗<r>那樣，只不過是把物品存儲在<imp>網絡<r>當中了。
+booklet.actuallyadditions.chapter.itemInterfacesHopping.name=漏斗型物品傳輸介面
+booklet.actuallyadditions.chapter.itemInterfacesHopping.text.1=<item>漏斗型物品傳輸介面<r>很像普通的傳輸介面，這也意味著你能夠直接像普通的<item>傳輸介面<r>一樣<imp>緊貼<r><item>物品雷射中繼器<r>就行。<n>不過普通的<item>物品傳輸介面<r>需要主動<imp>抽入抽出<r>，<item>漏斗型物品傳輸介面<r>能夠<imp>主動<r>抽入抽出物品，就像<imp>普通的<r><item>漏斗<r>那樣，只不過是把物品儲存在<imp>網路<r>當中了。
 
-booklet.actuallyadditions.chapter.banners.name=實用拓展的旗幟
-booklet.actuallyadditions.chapter.banners.text.1=對於<imp>實用拓展<r>中的一些<imp>特殊的物品<r>，也有其對應的特殊<item>旗幟<r>圖案。旗幟的合成都很簡單，只需要<imp>在旗幟的下方擺上對應的物品<r>就能製作，同樣的，<imp>不同的顏色<r>也是可行的。你也可以把它們和<item>盾牌<r>相合成。 <n>可以製作特殊旗幟的物品有：<n><item>實用拓展手冊<r><n><item>幻靈連接器<r><n><item>吹葉機<r>（高級吹葉機不能做）<n><item>手鑽<r>（只有白色的可以）
+booklet.actuallyadditions.chapter.banners.name=實用擴展的旗幟
+booklet.actuallyadditions.chapter.banners.text.1=對於<imp>實用擴展<r>中的一些<imp>特殊的物品<r>，也有其對應的特殊<item>旗幟<r>圖案。旗幟的合成都很簡單，只需要<imp>在旗幟的下方擺上對應的物品<r>就能製作，同樣的，<imp>不同的顏色<r>也是可行的。你也可以把它們和<item>盾牌<r>相合成。<n>可以製作特殊旗幟的物品有：<n><item>實用擴展手冊<r><n><item>幻靈連接器<r><n><item>吹葉機<r>（進階吹葉機不能做）<n><item>手鑽<r>（只有白色的可以）
 
 booklet.actuallyadditions.chapter.lushCaves.name=鬱鬱蔥蔥的洞穴
-booklet.actuallyadditions.chapter.lushCaves.text.1=如果你曾經乾過一些<imp>洞穴探險<r>的事情，你可能注意到一些<imp>洞穴<r>裡面長滿了<imp>樹和草<r>。 <n>在主世界地下的任意高度都有可能生成，當你急需木頭來做火把或者工具，這些洞穴將會變得非常有用。有時候也許還會有一些<imp>藏在樹上的寶藏<r>！ <n><n>如果你還沒有見過這種東西，翻到<imp>下一頁<r>查看<imp>截圖<r>！
+booklet.actuallyadditions.chapter.lushCaves.text.1=如果你曾經做過一些<imp>洞穴探險<r>的事情，你可能注意到一些<imp>洞穴<r>裡面長滿了<imp>樹和草<r>。<n>在主世界地下的任意高度都有可能生成，當你急需木頭來做火把或者工具，這些洞穴將會變得非常有用。有時候也許還會有一些<imp>藏在樹上的寶藏<r>！<n><n>如果你還沒有見過這種東西，翻到<imp>下一頁<r>查看<imp>截圖<r>！
 
 booklet.actuallyadditions.chapter.waterBowl.name=裝水的碗
-booklet.actuallyadditions.chapter.waterBowl.text.1=<imp>用空碗右擊水<r>即可獲得<item>裝水的碗<r>。和<item>桶<r>一樣，再次右擊別的方塊可以將水倒出。對於前期的農場來說，這將會是一件實用的工具。 <n><n>如果你動作<imp>不夠仔細<r>，水有可能會<imp>灑出來<r>！
+booklet.actuallyadditions.chapter.waterBowl.text.1=<imp>用空碗右擊水<r>即可獲得<item>裝水的碗<r>。和<item>桶<r>一樣，再次右擊別的方塊可以將水倒出。對於前期的農場來說，這將會是一件實用的工具。<n><n>如果你動作<imp>不夠仔細<r>，水有可能會<imp>灑出來<r>！
 
-booklet.actuallyadditions.chapter.playerInterface.name=玩家接口
-booklet.actuallyadditions.chapter.playerInterface.text.1=<item>玩家接口<r>和<item>幻靈接口<r>工作方式相似，但玩家接口連接的是<imp>玩家<r>而非方塊，並且連接會在玩家<imp>放置<r>它之後建立。 <n>當向其<imp>輸入物品<r>時，物品會<imp>進入玩家的物品欄<r>。還有，當向其<imp>輸入CF能量<r>時，它會為玩家物品欄中的物品<imp>充能<r>。 <n>它具有<range>格方塊的效應範圍，以及，你可以通過在其頂部放置3個<item>幻靈增幅器<r>來擴大範圍。
+booklet.actuallyadditions.chapter.playerInterface.name=玩家介面
+booklet.actuallyadditions.chapter.playerInterface.text.1=<item>玩家介面<r>和<item>幻靈介面<r>工作方式相似，但玩家介面連接的是<imp>玩家<r>而非方塊，並且連接會在玩家<imp>放置<r>它之後建立。<n>當向其<imp>輸入物品<r>時，物品會<imp>進入玩家的物品欄<r>。還有，當向其<imp>輸入CF能量<r>時，它會為玩家物品欄中的物品<imp>充能<r>。<n>它具有<range>格方塊的效應範圍，以及，你可以透過在其頂部放置3個<item>幻靈增幅器<r>來擴大範圍。
 
 booklet.actuallyadditions.chapter.displayStand.name=物品展示台
-booklet.actuallyadditions.chapter.displayStand.text.1=<item>物品展示台<r>是一種可將各種物品或方塊展示出來的方塊。只需要將待展示方塊或物品右擊放上去，<imp>這個方塊或物品<r>就會懸浮在展示台上方。 <n>再次右擊可將其取下。 <n><n>除此以外，某些物品可令展示台<imp>發揮特殊效果<r>，但這個功能需要消耗CF，閱讀下一頁可獲得詳細信息。
-booklet.actuallyadditions.chapter.displayStand.text.2=<item>吹葉器<r>以及<item>高級吹葉器<r>在展示架上時可以緩慢清理掉附近的草叢和樹葉。 <n><n><item>藥水指環<r>在展示架上時也能發揮效果。普通版本只能將藥水效果給予附近的<imp>一個<r>生物，但高級版本可在<imp>大範圍內給予任何生物以指定藥水效果<r>，但需要消耗大量CF。
+booklet.actuallyadditions.chapter.displayStand.text.1=<item>物品展示台<r>是一種可將各種物品或方塊展示出來的方塊。只需要將待展示方塊或物品右擊放上去，<imp>這個方塊或物品<r>就會懸浮在展示台上方。<n>再次右擊可將其取下。<n><n>除此以外，某些物品可令展示台<imp>發揮特殊效果<r>，但這個功能需要消耗CF，閱讀下一頁可獲得詳細訊息。
+booklet.actuallyadditions.chapter.displayStand.text.2=<item>吹葉器<r>以及<item>進階吹葉器<r>在展示架上時可以緩慢清理掉附近的草叢和樹葉。<n><n><item>藥水戒指<r>在展示架上時也能發揮效果。普通版本只能將藥水效果給予附近的<imp>一個<r>生物，但進階版本可在<imp>大範圍內給予任何生物以指定藥水效果<r>，但需要消耗大量CF。
 
 booklet.actuallyadditions.chapter.itemFilter.name=物品過濾器
-booklet.actuallyadditions.chapter.itemFilter.text.1=<item>物品過濾器<r>可在<item>高級物品激光中繼器<r>，<item>ESD<r>和<item>物品吸收器<r>中使用，以<imp>擴充它們的白名單大小<r>。只需要右擊打開過濾器，放入想過濾的物品，這個過濾器就被標記好了。之後它就可以放置在任何需要過濾名單的機器裡面使用了。 <imp>鼠標懸停在GUI裡面的白名單按鈕上<r>！
+booklet.actuallyadditions.chapter.itemFilter.text.1=<item>物品過濾器<r>可在<item>進階物品雷射中繼器<r>，<item>ESD<r>和<item>物品吸收器<r>中使用，以<imp>擴充它們的白名單大小<r>。只需要右擊打開過濾器，放入想過濾的物品，這個過濾器就被標記好了。之後它就可以放置在任何需要過濾名單的機器裡面使用了。 <imp>滑鼠懸停在GUI裡面的白名單按鈕上<r>！
 
-booklet.actuallyadditions.chapter.videoGuide.name=視頻教程
-booklet.actuallyadditions.chapter.videoGuide.text.1=如果你還是不知道如何入門<imp>實用拓展模組<r>，或者只是想簡單了解下這個MOD，那麼恭喜你，這裡有我的一個朋友< item>BootyToast<r>製作的<imp>精彩視頻<r>(的確這個人的名字有點奇怪)。 <n>他的教程基本涵蓋了主要的內容，雖然<imp>有一點過期了<r>，很多新增內容沒有介紹，但是仍不失為<imp>一個很棒的入門視頻<r> 。
-booklet.actuallyadditions.chapter.videoGuide.button.1=BootyToast的視頻
-booklet.actuallyadditions.chapter.videoGuide.text.2=這裡還有第二個選擇，一個來自於<item>Direwolf20<r>的<imp>播放列表<r>。這是一個比較新的視頻，它要<imp>長得多<r>，而且講述了更多細節。所以你可以選擇：左側的快速入門視頻，或者下面的長但深入的視頻。
+booklet.actuallyadditions.chapter.videoGuide.name=影片教學
+booklet.actuallyadditions.chapter.videoGuide.text.1=如果你還是不知道如何入門<imp>實用擴展模組<r>，或者只是想簡單了解下這個MOD，那麼<n>恭喜你，這裡有我的一個朋友<item>BootyToast<r><n>製作的<imp>精彩影片<r>(的確這個人的名字有點奇怪)。<n>他的教學基本涵蓋了主要的內容，雖然<imp>有一點過期了<r>，很多新增內容沒有介紹，但是仍不失為<imp>一個很棒的入門影片<r> 。
+booklet.actuallyadditions.chapter.videoGuide.button.1=BootyToast的影片
+booklet.actuallyadditions.chapter.videoGuide.text.2=這裡還有第二個選擇，一個來自於<item>Direwolf20<r>的<imp>播放列表<r>。這是一個比較新的影片，它要<imp>長得多<r>，而且講述了更多細節。所以你可以選擇：左側的快速入門影片，或者下面的長但深入的影片。
 booklet.actuallyadditions.chapter.videoGuide.button.2=Direwolf20的播放列表
 
 booklet.actuallyadditions.chapter.shockSuppressor.name=震波吸收器
-booklet.actuallyadditions.chapter.shockSuppressor.text.1=<item>震波吸收器<r>在供應<imp>CF<r>能量後，能夠保護周圍<imp>至少<range>個方塊的區域<r>免受各類<imp>爆炸<r>的破壞，無論是惡魂，TNT還是爬行者發生的爆炸。 <n>保護一個方塊需要消耗<imp><rf>CF<r>。
-booklet.actuallyadditions.chapter.shockSuppressor.text.2=<i>鳴謝：<r><n><n>這個不錯的創意來自玩家<imp>praetoras<r>。感謝他的建議。 <n><n><i>What's a fourth wall..?
+booklet.actuallyadditions.chapter.shockSuppressor.text.1=<item>震波吸收器<r>在供應<imp>CF<r>能量後，能夠保護周圍<imp>至少<range>個方塊的區域<r>免受各類<imp>爆炸<r>的破壞，無論是地獄幽靈，TNT還是爬行者發生的爆炸。<n>保護一個方塊需要消耗<imp><rf>CF<r>。
+booklet.actuallyadditions.chapter.shockSuppressor.text.2=<i>鳴謝：<r><n><n>這個不錯的創意來自玩家<imp>praetoras<r>。感謝他的建議。<n><n><i>What's a fourth wall...?
 
 booklet.actuallyadditions.chapter.tinyTorch.name=微型火把
 booklet.actuallyadditions.chapter.tinyTorch.text.1=<i>真棒！
 
 booklet.actuallyadditions.chapter.playerProbe.name=玩家探測器
-booklet.actuallyadditions.chapter.playerProbe.text.1=<item>玩家探測器<r>被用於改變<item>玩家接口<r>所相連的玩家，如果你不知道<item>玩家接口<r>是什麼，請先看它的相關內容！ <n><n>玩家探測器的使用方式很簡單，只需要用它<imp>右擊玩家<r>，接下來<imp>右擊玩家接口<r>就可以建立連接。 <n>需要注意的是，連接時候會給予<imp>提示信息<r>，並且玩家可以通過摁住Shift鍵來<imp>取消連接<r>，同樣的，當玩家<imp>離開服務器< r>也會取消連接!<n><n><i>惡作劇的好東西
+booklet.actuallyadditions.chapter.playerProbe.text.1=<item>玩家探測器<r>被用於改變<item>玩家介面<r>所相連的玩家，如果你不知道<item>玩家介面<r>是什麼，請先看它的相關內容！<n><n>玩家探測器的使用方式很簡單，只需要用它<imp>右擊玩家<r>，接下來<imp>右擊玩家介面<r>就可以建立連接。<n>需要注意的是，連接時候會給予<imp>提示訊息<r>，並且玩家可以透過按住Shift鍵來<imp>取消連接<r>，同樣的，當玩家<imp>離開伺服器<r>也會取消連接!<n><n><i>惡作劇的好東西
 
 booklet.actuallyadditions.chapter.worms.name=蚯蚓
-booklet.actuallyadditions.chapter.worms.text.1=<item>蚯蚓<r>真是一個有用的物種。 <n>把它們<imp>放置在泥土或者草方塊上面<r>就可以自動<imp>耕種<r>周圍3×3的範圍，並且<imp>還能保持其濕潤<r>。 <n>除此之外，它還能促進作物<imp>更快的生長<r>。 <n><n><item>蚯蚓<r>可以在用鋤頭耕種<imp>草方塊<r>時隨機掉落。
+booklet.actuallyadditions.chapter.worms.text.1=<item>蚯蚓<r>真是一個有用的物種。<n>把它們<imp>放置在泥土或者草地上面<r>就可以自動<imp>耕種<r>周圍3×3的範圍，並且<imp>還能保持其濕潤<r>。<n>除此之外，它還能促進作物<imp>更快的生長<r>。<n><n><item>蚯蚓<r>可以在用鋤頭耕種<imp>草地<r>時隨機掉落。
 booklet.actuallyadditions.chapter.worms.text.2=<i>正在工作的蚯蚓
 
 booklet.actuallyadditions.chapter.bags.name=麻袋和虛空麻袋
-booklet.actuallyadditions.chapter.bags.text.1=<item>麻袋<r>是一種簡單的<imp>存儲物品<r>的工具，除此之外它還有一些附加功能。 <n>首先，手持麻袋<imp>右鍵<r>打開GUI，可以設置模式為自動<imp>吸取周圍掉落物<r>。其次，它還可以設置<imp>過濾名單<r>。 <n><n><item>虛空麻袋<r>和普通的用法類似，它主要是用來<imp>銷毀物品<r>的。
-booklet.actuallyadditions.chapter.bags.text.2=另外，當<item>麻袋<r>裡裝有很多物品時，你只需要手持麻袋<imp>右擊存儲的容器，<r>比如箱子或者< item>板條箱<r>，就可以快速的把麻袋中<imp>所有的物品<r>放進箱子裡面。
+booklet.actuallyadditions.chapter.bags.text.1=<item>麻袋<r>是一種簡單的<imp>儲存物品<r>的工具，除此之外它還有一些附加功能。<n>首先，手持麻袋<imp>右鍵<r>打開GUI，可以設定模式為自動<imp>吸取周圍掉落物<r>。其次，它還可以設定<imp>過濾名單<r>。<n><n><item>虛空麻袋<r>和普通的用法類似，它主要是用來<imp>銷毀物品<r>的。
+booklet.actuallyadditions.chapter.bags.text.2=另外，當<item>麻袋<r>裡裝有很多物品時，你只需要手持麻袋<imp>右擊儲存的容器，<r>比如儲物箱或者<item>板條箱<r>，就可以快速的把麻袋中<imp>所有的物品<r>放進儲物箱裡面。
 
 booklet.actuallyadditions.chapter.empowerer.name=充能台
-booklet.actuallyadditions.chapter.empowerer.text.1=<item>充能台<r>是一個用來<imp>充能<r>水晶和其他物品的東西。 <n>首先，把需要充能的物品<imp>右擊放置在充能台上面<r>，之後在充能台四個方向<imp>相距兩格的位置<r>擺放上物品展示台，最後再在物品展示台上擺放上四個焦黑石英。 <imp>下一頁給出了一張說明圖<r><n>要激活這個儀式，那麼<imp>每一個物品展示台都需要供應大量的CF能量<r>，之後它們才能正常運轉來給物品充能。
+booklet.actuallyadditions.chapter.empowerer.text.1=<item>充能台<r>是一個用來<imp>充能<r>水晶和其他物品的東西。<n>首先，把需要充能的物品<imp>右擊放置在充能台上面<r>，之後在充能台四個方向<imp>相距兩格的位置<r>擺放上物品展示台，最後在物品展示台上擺放四個焦黑石英。 <imp>下一頁是一張說明圖。<r><n>要啟動這個儀式，<imp>每一個物品展示台都需要供應大量的CF能量<r>，之後它們才能正常運轉來給物品充能。
 booklet.actuallyadditions.chapter.empowerer.text.2=<i><item>物品展示台<r><i>的佈局
 booklet.actuallyadditions.chapter.empowerer.text.3=<n><n><n><i>我想所有MOD都得來個注魔祭壇
-booklet.actuallyadditions.chapter.empowerer.text.4=<item>物品展示台<r>也可以用來做很多其他的事情！翻到<imp>耗能方塊<r>查詢更多信息！
+booklet.actuallyadditions.chapter.empowerer.text.4=<item>物品展示台<r>也可以用來做很多其他的事情！翻到<imp>耗能方塊<r>查詢更多資訊！
 
-booklet.actuallyadditions.chapter.fluidLaser.name=流體激光中繼器
-booklet.actuallyadditions.chapter.fluidLaser.text.1=<item>流體激光中繼器<r>工作方式頗有點像普通的<item>激光中繼器<r>，但是和<item>物品激光中繼器<r>和<item>能量激光中繼器<r>又有些不同，它只能把<imp>流體<r>從一個儲罐傳輸到另一個儲罐。 <n><n><item>流體激光中繼器<r>不能連接幻靈接口。 <n><n>注意當它們被調節為<imp>僅相鄰方塊模式<r>時，他們會<imp>主動抽取<r>相連容器的流體。
+booklet.actuallyadditions.chapter.fluidLaser.name=流體雷射中繼器
+booklet.actuallyadditions.chapter.fluidLaser.text.1=<item>流體雷射中繼器<r>工作方式頗有點像普通的<item>雷射中繼器<r>，但是和<item>物品雷射中繼器<r>和<item>能量雷射中繼器<r>又有些不同，它只能把<imp>流體<r>從一個儲罐傳輸到另一個儲罐。<n><n><item>流體雷射中繼器<r>不能連接幻靈介面。<n><n>注意當它們被調節為<imp>僅相鄰方塊模式<r>時，他們會<imp>主動抽取<r>相連容器的流體。
 
 booklet.actuallyadditions.chapter.distributorItem.name=物品分配器
-booklet.actuallyadditions.chapter.distributorItem.text.1=<item>物品分配器<r>是一種簡單的分流物品，並把它們導向<imp>不同方向<r>的工具。 <n><n>分配器能夠主動<imp>從頂部容器抽取物品<r>，然後把它們分流，並<imp>推送到<r>和它<imp>其他面<r>相貼的容器中。 <n>它能夠<imp>平均的<r>分派物品，尤其是在傳輸<imp>同一物品<r>的時候，它抽取物品是自動的。
+booklet.actuallyadditions.chapter.distributorItem.text.1=<item>物品分配器<r>是一種簡單的分流物品，並把它們導向<imp>不同方向<r>的工具。<n><n>分配器能夠主動<imp>從頂部容器抽取物品<r>，然後把它們分流，並<imp>推送到<r>和它<imp>其他面<r>相貼的容器中。<n>它能夠<imp>平均的<r>分派物品，尤其是在傳輸<imp>同一物品<r>的時候，它抽取物品是自動的。
 
 booklet.actuallyadditions.chapter.bioReactor.name=生物反應器
-booklet.actuallyadditions.chapter.bioReactor.text.1=<item>生物反應器<r>使用多種多樣的<imp>種子，食物或者作物<r>來<imp>產生CF<r>！ <n>使用方式很簡單，只需要在它的<imp>GUI<r>裡面放上<imp>這些東西<r>。不過你很快就會發現，這東西產能並不是很多。實際上是這樣的，你放置的種子，食物或者作物<imp>種類越多<r>，它的產能就越多。
+booklet.actuallyadditions.chapter.bioReactor.text.1=<item>生物反應器<r>使用多種多樣的<imp>種子，食物或者作物<r>來<imp>產生CF<r>！<n>使用方式很簡單，只需要在它的<imp>GUI<r>裡面放上<imp>這些東西<r>。不過你很快就會發現，這東西產能並不是很多。實際上是這樣的，你放置的種子，食物或者作物<imp>種類越多<r>，它的產能就越多。
 
 booklet.actuallyadditions.chapter.farmer.name=農場
-booklet.actuallyadditions.chapter.farmer.text.1=<item>農場<r>是一個能夠<imp>種植並收穫<r>諸如小麥，馬鈴薯，胡蘿蔔<imp>或者其他作物<r>的機器。 <n>它的GUI<imp>左側<r>的格子是用來放置<item>種子<r>的，而它<imp>右側<r>的格子則能夠存儲<imp>收穫的作物<r>。 <n>它能夠耕種機器前方<imp>9x9區域<r>的範圍。 <n>每次操作會消耗不同的能量。 <n><n><n><i>my fam
-booklet.actuallyadditions.chapter.farmer.text.2=能夠耕種基礎的<imp>作物<r>，比如<item>小麥<r>，<item>馬鈴薯<r>，<item>油菜<r>，< item>亞麻<r>或者其他東西。地面會被自動<imp>耕種<r>。
-booklet.actuallyadditions.chapter.farmer.text.3=如果要種植<item>仙人掌<r>，需要提前鋪好沙子。 <imp><item>仙人掌<r>高於兩格時候會被<imp>收割<r>進農場中。
-booklet.actuallyadditions.chapter.farmer.text.4=如果要種植<item>地獄疣<r>，需要提前鋪好靈魂沙。
-booklet.actuallyadditions.chapter.farmer.text.5=如果要種植<item>甘蔗<r>，沙子和水源需要提前佈設好。收割方式也和<item>仙人掌差不多<r>。
+booklet.actuallyadditions.chapter.farmer.text.1=<item>農場<r>是一個能夠<imp>種植並收穫<r>諸如小麥，馬鈴薯，胡蘿蔔<imp>或者其他作物<r>的機器。<n>它的GUI<imp>左側<r>的格子是用來放置<item>種子<r>的，而它<imp>右側<r>的格子則能夠儲存<imp>收穫的作物<r>。<n>它能夠耕種機器前方<imp>9x9區域<r>的範圍。<n>每次操作會消耗不同的能量。<n><n><n><i>my fam
+booklet.actuallyadditions.chapter.farmer.text.2=能夠耕種基礎的<imp>作物<r>，比如<item>小麥<r>，<item>馬鈴薯<r>，<item>油菜<r>，<item>亞麻<r>或者其他東西。地面會被自動<imp>耕種<r>。
+booklet.actuallyadditions.chapter.farmer.text.3=如果要種植<item>仙人掌<r>，需要提前鋪好沙。 <imp><item>仙人掌<r>高於兩格時候會被<imp>收割<r>進農場中。
+booklet.actuallyadditions.chapter.farmer.text.4=如果要種植<item>地獄疙瘩<r>，需要提前鋪好靈魂砂。
+booklet.actuallyadditions.chapter.farmer.text.5=如果要種植<item>甘蔗<r>，沙和水源需要提前佈設好。收割方式也和<item>仙人掌差不多<r>。
 booklet.actuallyadditions.chapter.farmer.text.6=如果要種植<item>西瓜<r>或者<item>南瓜<r>，最好有<imp>交錯式的空間佈局<r>，以便作物生長。
-booklet.actuallyadditions.chapter.farmer.text.7=如果要種植<imp>Extra Utilities 2<r>的<item>末影百合<r>。需要鋪好<imp>末地石<r>，<imp>草方塊<r>或者<imp>泥土<r>。
-booklet.actuallyadditions.chapter.farmer.text.8=如果要種植<imp>Extra Utilities 2<r>的<item>紅蘭花<r>，需要鋪好<imp>紅石礦石<r>。
+booklet.actuallyadditions.chapter.farmer.text.7=如果要種植<imp>Extra Utilities 2<r>的<item>終界百合<r>。需要鋪好<imp>終界石<r>，<imp>草地<r>或者<imp>泥土<r>。
+booklet.actuallyadditions.chapter.farmer.text.8=如果要種植<imp>Extra Utilities 2<r>的<item>紅蘭花<r>，需要鋪好<imp>紅石礦<r>。
 
 booklet.actuallyadditions.chapter.lensMoreDeath.name=殺手透鏡
-booklet.actuallyadditions.chapter.lensMoreDeath.text.1=<item>殺手透鏡<r>其實和<item>死亡透鏡<r>蠻像的，不過它殺死生物，不但能夠<imp>掉落經驗<r >，還能<imp>掉落那些通常玩家殺死，才能掉落的物品<r>。 <n>當然這也意味著它需要消耗<imp>很多的能量<r>。 <n><n>如果要收集掉落的經驗，我想<item>經驗固化機<r>是個不錯的選擇。
+booklet.actuallyadditions.chapter.lensMoreDeath.text.1=<item>殺手透鏡<r>其實和<item>死亡透鏡<r>蠻像的，不過它殺死生物，不但能夠<imp>掉落經驗<r>，還能<imp>掉落那些通常玩家殺死才會掉落的物品<r>。<n>當然這也意味著它需要消耗<imp>很多的能量<r>。<n><n>如果要收集掉落的經驗，我想<item>經驗固化機<r>是個不錯的選擇。
 
 booklet.actuallyadditions.chapter.fillingWand.name=填充手杖
-booklet.actuallyadditions.chapter.fillingWand.text.1=<item>填充手杖<r>是一種便捷的<imp>填充大面積區域<r>的工具。 <n>使用方式如下：首先你<imp>Shift右擊<r>你想要的<imp>填充物<r>。 <n><n>接下來，右擊你想填充區域的<imp>兩個頂點<r>。你就可以快速填充出平面或者立方體了<n>當然使用這個東西同樣需要<imp>一些CF能量<r>，而且你的物品欄裡面的填充物也必須<imp>足夠<r>。
+booklet.actuallyadditions.chapter.fillingWand.text.1=<item>填充手杖<r>是一種便捷的<imp>填充大面積區域<r>的工具。<n>使用方式如下：首先你<imp>Shift右擊<r>你想要的<imp>填充物<r>。<n><n>接下來，右擊你想填充區域的<imp>兩個頂點<r>。你就可以快速填充出平面或者立方體了<n>當然使用這個東西同樣需要<imp>一些CF能量<r>，而且你的物品欄裡面的填充物也必須<imp>足夠<r>。
 
 booklet.actuallyadditions.chapter.patreon.name=Patreon捐贈
-booklet.actuallyadditions.chapter.patreon.text.1=你是否<imp>非常喜歡<r> <item>Actually Additions<r>這個模組？如果是這樣的話，你可以通過如下方式<imp>支持<r>Ellpeck，也就是這個模組的作者哦！ <n>只需要輕輕點擊下面這個按鈕，就可以打開<item>Patreon<r>頁面！ <n>正如下一頁你所見的那樣,作為獎勵，你的頭上會出現一些<imp>懸浮的小玩意<r>。 <n><n>非常感謝<3
-booklet.actuallyadditions.chapter.patreon.button.1=打開Patreon界面
+booklet.actuallyadditions.chapter.patreon.text.1=你是否<imp>非常喜歡<r> <item>Actually Additions<r>這個模組？如果是這樣的話，你可以透過如下方式<imp>支援<r>Ellpeck，也就是這個模組的作者哦！<n>只需要輕輕點擊下面這個按鈕，就可以打開<item>Patreon<r>頁面！<n>正如下一頁你所見的那樣，作為獎勵，你的頭上會出現一些<imp>懸浮的小東西<r>。<n><n>非常感謝<3
+booklet.actuallyadditions.chapter.patreon.button.1=打開Patreon介面
 booklet.actuallyadditions.chapter.patreon.text.2=只有<item>3像素<r>的<imp>Patreon回報<r>。
 
 booklet.actuallyadditions.chapter.changelog.name=更新日誌
-booklet.actuallyadditions.chapter.changelog.text.1=你是否對<item>Actually Additions<r>曾經所有版本的<imp>變化<r>抱有興趣？ <n>如果是的話，只需要點擊下面的按鈕就可以看到所有<item>更新日誌<r>的細節，包括<imp>添加的記錄<r>，所有<imp>bug修復記錄<r> ，以及所有其他類型的<imp>變化<r>！
-booklet.actuallyadditions.chapter.changelog.button.1=打開更新日誌界面
+booklet.actuallyadditions.chapter.changelog.text.1=你是否對<item>Actually Additions<r>曾經所有版本的<imp>變化<r>抱有興趣？<n>如果是的話，只需要點擊下面的按鈕就可以看到所有<item>更新日誌<r>的細節，包括<imp>加入的紀錄<r>，所有<imp>bug修復記錄<r> ，以及所有其他類型的<imp>變化<r>！
+booklet.actuallyadditions.chapter.changelog.button.1=打開更新日誌介面
 
 booklet.actuallyadditions.chapter.curse.name=模組網站
-booklet.actuallyadditions.chapter.curse.text.1=你是否想要<imp>下載<r>這個模組的最新版本，查看有關這個模組的<imp>最新信息<r>，那我非常建議你點擊下這個<imp>CurseForge頁面<r>的按鈕。
+booklet.actuallyadditions.chapter.curse.text.1=你是否想要<imp>下載<r>這個模組的最新版本，查看有關這個模組的<imp>最新訊息<r>，那我非常建議你點擊下這個<imp>CurseForge頁面<r>的按鈕。
 booklet.actuallyadditions.chapter.curse.button.1=訪問CurseForge頁面
 
 booklet.actuallyadditions.chapter.website.name=作者的個人網頁
-booklet.actuallyadditions.chapter.website.text.1=這是一則自我推銷的廣告詞，如果你對任何有關於我，也就是這個模組的作者，<item>Ellpeck<r>感興趣的<imp >方面<r>，你可以點擊下面這個按鈕，瀏覽我的<imp>個人網頁<r>。 <n>在那裡，你能夠找到我所使用的社交媒體鏈接，以及一些問題和回答，還有所做的有關於Minecraft模組的一些東西！
-booklet.actuallyadditions.chapter.website.button.1=訪問個人主頁
+booklet.actuallyadditions.chapter.website.text.1=這是一則自我推銷的廣告詞，如果你對任何有關於我，也就是這個模組的作者，<item>Ellpeck<r>感興趣的<imp>方面<r>，你可以點擊下面這個按鈕，瀏覽我的<imp>個人網頁<r>。<n>在那裡，你能夠找到我所使用的社交媒體連結，以及一些問題和回答，還有所做的有關於Minecraft模組的一些東西！
+booklet.actuallyadditions.chapter.website.button.1=訪問個人首頁
 
 booklet.actuallyadditions.chapter.engineerHouse.name=對工程師的拜訪
-booklet.actuallyadditions.chapter.engineerHouse.text.1=如果你想要知道如何開始，你可以去拜訪一下<imp>工程師們<r>。 <n>他們是兩種友好的<imp>村民<r>，還會賣給你許多好東西：比如說<item>晶化大師<r>，他會交易<imp>綠寶石和各種晶化材料<r>，還有<item>工程師<r>也會交易<imp>很多機器<r>！ <n>在下一頁你能夠看到他們居住的<imp>房子<r>——那裡也值得搜刮！不過得小心，<imp>房子裡面的機器<r>可能會有些<imp>易損<r>，可能會在你嘗試破壞它們的時候壞掉。
+booklet.actuallyadditions.chapter.engineerHouse.text.1=如果你想要知道如何開始，你可以去拜訪一下<imp>工程師們<r>。<n>他們是兩種友好的<imp>村民<r>，還會賣給你許多好東西：比如說<item>晶化大師<r>，他會交易<imp>綠寶石和各種晶化材料<r>，還有<item>工程師<r>也會交易<imp>很多機器<r>！<n>在下一頁你能夠看到他們居住的<imp>房子<r>——那裡也值得搜刮！不過得小心，<imp>房子裡面的機器<r>可能會有些<imp>容易損壞<r>，可能會在你嘗試破壞它們的時候壞掉。
 booklet.actuallyadditions.chapter.engineerHouse.text.2=<i> Machines Primus
 
-booklet.actuallyadditions.chapter.batteryBox.name=電池盒``
-booklet.actuallyadditions.chapter.batteryBox.text.1=<item>電池盒<r>是一個<imp>存儲能量<r>的好東西。你首先需要<imp>右擊<r>一下<item>電池盒<r>來<imp>使用能量<r>。接下來它就能夠存儲能量。 <n><n>如果你將電池設置為了<imp>釋能模式<r>（通過<imp>shift右擊<r>或者<imp>紅石脈衝<r>），那麼它會嘗試將接受的能量平均分配到<imp>毗鄰的15個<r> <item>電池盒<r>中。
+booklet.actuallyadditions.chapter.batteryBox.name=電池盒
+booklet.actuallyadditions.chapter.batteryBox.text.1=<item>電池盒<r>是一個<imp>儲存能量<r>的好東西。你首先需要<imp>右擊<r>一下<item>電池盒<r>來<imp>使用能量<r>。接下來它就能夠儲存能量。<n><n>如果你將電池設定為了<imp>釋能模式<r>（通過<imp>shift右擊<r>或者<imp>紅石脈衝<r>），那麼它會嘗試將接受的能量平均分配到<imp>毗鄰的15個<r> <item>電池盒<r>中。
 
-booklet.actuallyadditions.chapter.laserUpgradeInvisibility.name=激光中繼器：隱形
-booklet.actuallyadditions.chapter.laserUpgradeInvisibility.text.1=<item>激光中繼器：隱形<r>能夠使<imp>兩個都安裝的中繼器<r>間連接<imp>完全隱形<r> 。對著中繼器<imp>右擊<r>可以安裝，<imp>Shift右擊<r>可以取下。 <n><n>穿戴上<item>工程師護目鏡<r>，可以<imp>使其顯形。
+booklet.actuallyadditions.chapter.laserUpgradeInvisibility.name=雷射中繼器：隱形
+booklet.actuallyadditions.chapter.laserUpgradeInvisibility.text.1=<item>雷射中繼器：隱形<r>能夠使<imp>兩個都安裝的中繼器<r>間連接<imp>完全隱形<r> 。對著中繼器<imp>右擊<r>可以安裝，<imp>Shift右擊<r>可以取下。<n><n>穿戴上<item>工程師護目鏡<r>，可以<imp>使其顯形。
 
-booklet.actuallyadditions.chapter.laserUpgradeRange.name=激光中繼器：範圍
-booklet.actuallyadditions.chapter.laserUpgradeRange.text.1=<item>激光中繼器：範圍<r>能夠讓兩個相距<imp>超過<def>方塊遠<r>的中繼器相連，最大可以< imp>拓展到<upgraded>方塊遠<r>。 <imp>兩個<r>激光中繼器都需要安裝。 <n>對著中繼器<imp>右擊<r>可以安裝，<imp>Shift右擊<r>可以取下。
+booklet.actuallyadditions.chapter.laserUpgradeRange.name=雷射中繼器：範圍
+booklet.actuallyadditions.chapter.laserUpgradeRange.text.1=<item>雷射中繼器：範圍<r>能夠讓兩個相距<imp>超過<def>方塊遠<r>的中繼器相連，最大可以<imp>擴展到<upgraded>方塊遠<r>。 <imp>兩個<r>雷射中繼器都需要安裝。<n>對著中繼器<imp>右擊<r>可以安裝，<imp>Shift右擊<r>可以取下。
 
 booklet.actuallyadditions.chapter.goggles.name=工程師護目鏡
-booklet.actuallyadditions.chapter.goggles.text.1=<item>工程師護目鏡<r>是一個很有用的物品，可以<imp>被裝備在<r><imp>玩家的頭部<r>。 <n>這允許你能夠<imp>看見更多<r>平時無法看見的信息，比如安裝激光中繼器：隱形後的光束。 <n><n><item>工程師護目鏡<r>還能夠使你看見小範圍內<imp>所有實體<r>，即使它們在方塊後面，也能夠讓它們<imp>發光顯形<r> 。
+booklet.actuallyadditions.chapter.goggles.text.1=<item>工程師護目鏡<r>是一個很有用的物品，可以<imp>被裝備在<r><imp>玩家的頭部<r>。<n>這允許你能夠<imp>看見更多<r>平時無法看見的訊息，比如安裝雷射中繼器：隱形後的光束。<n><n><item>工程師護目鏡<r>還能夠使你看見小範圍內<imp>所有實體<r>，即使它們在方塊後面，也能夠讓它們<imp>發光顯形<r> 。
 
 booklet.actuallyadditions.chapter.crystalClusters.name=晶簇
-booklet.actuallyadditions.chapter.crystalClusters.text.1=<item>晶簇<r>是一種能夠自然生成在<imp>地下鬱鬱蔥蔥洞穴<r>中的東西。 <n>當被破壞時，它們能夠<imp>掉落<r>一至多個<item>水晶碎片<r>，能夠拿來合成得到<item>水晶<r>。 <n><item>晶簇<r>能夠發出一點微光，更適合用來做<imp>裝飾物<r>。使用帶有<imp>精准採集<r>的工具能夠完整採集下來。
+booklet.actuallyadditions.chapter.crystalClusters.text.1=<item>晶簇<r>是一種能夠自然生成在<imp>地下鬱鬱蔥蔥洞穴<r>中的東西。<n>當被破壞時，它們能夠<imp>掉落<r>一至多個<item>水晶碎片<r>，能夠拿來合成得到<item>水晶<r>。<n><item>晶簇<r>能夠發出一點微光，更適合用來做<imp>裝飾物<r>。使用帶有<imp>精準採集<r>的工具能夠完整採集下來。
 
 booklet.actuallyadditions.chapter.trialsIntro.name=挑戰介紹
-booklet.actuallyadditions.chapter.trialsIntro.text.1=<item>挑戰<r>是一系列有趣的<imp>項目<r>，你可以從中得到<imp>靈感<r>來決定下一步應該修什麼。 <n>一旦你<imp>完成了<r>一項<item>挑戰<r>，你可以<imp>按下<r>右下角按鈕來標記已完成挑戰，這樣它的名字就會變成綠色。 <n>其實目前<imp>還沒有辦法<r>實際檢查一項挑戰是否被真正完成，<item>挑戰<r>只是一個<imp>個人目標<r>。 <n><n>想要<imp>訪問<r><item>挑戰<r>頁面，只需要點擊手冊<imp>右上角<r>的<imp>書籤<r>即可。
+booklet.actuallyadditions.chapter.trialsIntro.text.1=<item>挑戰<r>是一系列有趣的<imp>項目<r>，你可以從中得到<imp>靈感<r>來決定下一步應該修什麼。<n>一旦你<imp>完成了<r>一項<item>挑戰<r>，你可以<imp>按下<r>右下角按鈕來標記已完成挑戰，這樣它的名字就會變成綠色。<n>其實目前<imp>還沒有辦法<r>實際檢查一項挑戰是否被真正完成，<item>挑戰<r>只是一個<imp>個人目標<r>。<n><n>想要<imp>訪問<r><item>挑戰<r>頁面，只需要點擊手冊<imp>右上角<r>的<imp>書籤<r>即可。
 booklet.actuallyadditions.chapter.trialsIntro.text.2=記住<item>挑戰<r>的完成僅限於使用<imp>Minecraft<r>和<imp>Actually Additions<r>的東西。

@@ -1,0 +1,15 @@
+{
+    "modifier": "collecting",
+    "text": [
+        {
+            "text": "漏斗真的很適合收集東西，或許我可以將二者結合..."
+        }
+    ],
+    "effects": [
+        "溜溜球會收集掉落物",
+        "只能強化一次"
+    ],
+    "demoTool": [
+        "yoyos:yoyo"
+    ]
+}
