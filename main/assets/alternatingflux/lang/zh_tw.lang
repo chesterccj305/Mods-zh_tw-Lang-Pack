@@ -1,12 +1,12 @@
 ie.manual.entry.alternatingflux.name=交變電流
 ie.manual.entry.alternatingflux.subtext=不適用於動物
-ie.manual.entry.alternatingflux0=通過仔細調整電流，它可以以很小的線損傳輸到很遠的距離，我們把這種電流叫做§l交變電流§r。然而，由於所有的機器都只能在正常的直流下工作，所以交流電並不能直接用於機器。
+ie.manual.entry.alternatingflux0=透過仔細調整電流，它可以以很小的線損傳輸到很遠的距離，我們把這種電流叫做§l交變電流§r。然而，由於所有的機器都只能在正常的直流下工作，所以交流電並不能直接用於機器。
 ie.manual.entry.alternatingflux1=AF電線與其他電線相比功率損耗低得多，並且由於康銅的熱電特性，能夠處理大量電流而不會過熱。這些特性使AF成為長距離電源傳輸線的絕佳選擇。像其他電線一樣，隨著連接器接近其最大容量，損耗進一步降低。
-ie.manual.entry.alternatingflux2=只有幾個其他設備能正常使用交變電流。<br><link;eMeter;§o§n電流轉換器 §r> 可以用於監視AF電路上的電力使用情況。<br><link;breaker;§o§n紅石斷路器§r> (於斷路器開關不同) 足夠強大到可以處理AF，並且可以連接到AF線路中以方便斷開連接。
-ie.manual.entry.alternatingflux3=為幫助您計算損耗率和所需材料，以下是有關AF線的一些統計數據：<br>§o最大長度:§r <config;i;alternatingflux_afMaxLength>m<br>§o最大電流:§r <config;i;alternatingflux_afTransferRate> Flux/t<br>§o超過1024米的損耗:§r ~<config;d;alternatingflux_afkmLossMin>-<config;d;alternatingflux_afkmLossMax>%%
-ie.manual.entry.alternatingfluxRelay=§AF繼電器§r與HV繼電器類似，但是，由於交變電流不能為機器提供動力，所以無法制作AF連接器。
+ie.manual.entry.alternatingflux2=只有幾個其他裝置能正常使用交變電流。<br><link;eMeter;§o§n電流轉換器 §r> 可以用於監視AF電路上的電力使用情況。<br><link;breaker;§o§n紅石斷路器§r> (於斷路器開關不同) 足夠強大到可以處理AF，並且可以連接到AF線路中以方便中斷連線。
+ie.manual.entry.alternatingflux3=為幫助您計算損耗率和所需材料，以下是有關AF線的一些統計資料：<br>§o最大長度:§r <config;i;alternatingflux_afMaxLength>m<br>§o最大電流:§r <config;i;alternatingflux_afTransferRate> Flux/t<br>§o超過1024公尺的損耗:§r ~<config;d;alternatingflux_afkmLossMin>-<config;d;alternatingflux_afkmLossMax>%%
+ie.manual.entry.alternatingfluxRelay=§AF繼電器§r與HV繼電器類似，但是，由於交變電流不能為機器提供動力，所以無法製作AF連接器。
 ie.manual.entry.alternatingfluxTransformer=為了將電流調節為交變電流並返回，需要特殊的§lAF變壓器§r。 AF將以1：1的比率轉換電流。
-ie.manual.entry.alternatingfluxWire=通過沖壓 <link;alloys;§o§n康銅§r> 成線 覆蓋到<link;graphite;§o§n石墨§r>上，在交流電形成的磁場下，導線的電阻將大大降低。 
+ie.manual.entry.alternatingfluxWire=透過沖壓 <link;alloys;§o§n康銅§r> 成線 覆蓋到<link;graphite;§o§n石墨§r>上，在交流電形成的磁場下，導線的電阻將大大降低。
 item.alternatingflux.material.wire_constantan.name=康銅線
 item.alternatingflux.wirecoil.af.name=AF線圈
 itemGroup.alternatingflux=交變電流
