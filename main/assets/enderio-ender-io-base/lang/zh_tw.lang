@@ -23,7 +23,7 @@ item.item_alloy_ingot_pulsating_iron.name=脈沖鐵錠
 item.item_alloy_ingot_redstone_alloy.name=紅石合金錠
 item.item_alloy_ingot_soularium.name=魂金錠
 item.item_alloy_ingot_vibrant_alloy.name=脈沖合金錠
-item.item_alloy_ingot_end_steel.name=末影鋼錠
+item.item_alloy_ingot_end_steel.name=終界鋼錠
 item.item_alloy_ingot_construction_alloy.name=鐵合金錠
 
 item.item_alloy_ball_conductive_iron.name=導電鐵磨珠
@@ -34,7 +34,7 @@ item.item_alloy_ball_pulsating_iron.name=脈沖鐵磨珠
 item.item_alloy_ball_redstone_alloy.name=紅石合金磨珠
 item.item_alloy_ball_soularium.name=魂金磨珠
 item.item_alloy_ball_vibrant_alloy.name=脈沖合金磨珠
-item.item_alloy_ball_end_steel.name=末影鋼磨珠
+item.item_alloy_ball_end_steel.name=終界鋼磨珠
 item.item_alloy_ball_construction_alloy.name=鐵合金磨珠
 
 item.item_alloy_nugget_conductive_iron.name=導電鐵粒
@@ -45,7 +45,7 @@ item.item_alloy_nugget_pulsating_iron.name=脈沖鐵粒
 item.item_alloy_nugget_redstone_alloy.name=紅石合金粒
 item.item_alloy_nugget_soularium.name=魂金粒
 item.item_alloy_nugget_vibrant_alloy.name=脈沖合金粒
-item.item_alloy_nugget_end_steel.name=末影鋼粒
+item.item_alloy_nugget_end_steel.name=終界鋼粒
 item.item_alloy_nugget_construction_alloy.name=鐵合金粒
 
 item.item_basic_capacitor.activated.name=雙層電容
@@ -82,9 +82,9 @@ item.item_conduit_facade.transparent.hardened.tooltip.detailed.line2=硬化：�
 item.item_conduit_probe.name=導管探測器
 item.item_conduit_probe.tooltip.detailed.line1=探測模式下右擊導管
 item.item_conduit_probe.tooltip.detailed.line2=顯示其網絡的詳情
-item.item_conduit_probe.tooltip.detailed.line3=覆制/粘貼模式下 Shift 右擊
+item.item_conduit_probe.tooltip.detailed.line3=覆制/黏貼模式下 Shift 右擊
 item.item_conduit_probe.tooltip.detailed.line4=覆制導管的連接設置
-item.item_conduit_probe.tooltip.detailed.line5=右擊以粘貼
+item.item_conduit_probe.tooltip.detailed.line5=右擊以黏貼
 item.item_conduit_probe.tooltip.detailed.line6=使用 Shift 加鼠標滾輪或Y鍵切換模式
 
 item.item_coord_selector.name=坐標選擇儀
@@ -96,8 +96,8 @@ item.item_coord_selector.tooltip.detailed.line5=選取特定方塊。
 item.item_coord_selector.tooltip.detailed.line6=可以在遠處選取。
 
 item.item_dark_steel_sword.name=終結之劍
-item.item_dark_steel_sword.tooltip.detailed.line1=增加頭顱與末影珍珠的掉落
-item.item_dark_steel_sword.tooltip.detailed.line2=末影人一旦被充能後的此武器攻擊，就無法瞬移
+item.item_dark_steel_sword.tooltip.detailed.line1=增加頭顱與終界珍珠的掉落
+item.item_dark_steel_sword.tooltip.detailed.line2=終界人一旦被充能後的此武器攻擊，就無法瞬移
 
 item.item_dark_steel_pickaxe.name=玄鋼鎬
 item.item_dark_steel_pickaxe.tooltip.effPowered=充能後的效率：%s+%s
@@ -123,9 +123,9 @@ item.item_dark_steel_hand.tooltip.common.line1=僅用於種植站！
 item.item_dark_steel_hand.tooltip.detailed.line1=機械方面比鋤頭好用多了
 
 item.item_dark_steel_bow.name=玄鋼弓
-item.item_end_steel_bow.name=末影鋼弓
+item.item_end_steel_bow.name=終界鋼弓
 
-item.item_dark_steel_armor.tooltip.line1=%s充能時擁有鉆石級保護
+item.item_dark_steel_armor.tooltip.line1=%s充能時擁有鑽石級保護
 item.item_dark_steel_armor.tooltip.levelcost.line1=%s%s：
 item.item_dark_steel_armor.tooltip.levelcost.line2=%s%s  %s + %s 等級
 
@@ -138,23 +138,23 @@ item.item_dark_steel_helmet.name=玄鋼頭盔
 
 item.item_dark_steel_leggings.name=玄鋼護腿
 
-item.item_end_steel_boots.name=末影鋼靴子
+item.item_end_steel_boots.name=終界鋼靴子
 item.item_end_steel_boots.tooltip.line1=充能後免疫掉落傷害
 
-item.item_end_steel_chestplate.name=末影鋼胸甲
+item.item_end_steel_chestplate.name=終界鋼胸甲
 
-item.item_end_steel_helmet.name=末影鋼頭盔
+item.item_end_steel_helmet.name=終界鋼頭盔
 
-item.item_end_steel_leggings.name=末影鋼護腿
+item.item_end_steel_leggings.name=終界鋼護腿
 
 item.item_end_steel_sword.name=終結之劍Ⅱ型
-item.item_end_steel_pickaxe.name=末影鋼鎬
-item.item_end_steel_axe.name=末影鋼斧
+item.item_end_steel_pickaxe.name=終界鋼鎬
+item.item_end_steel_axe.name=終界鋼斧
 
-item.item_ender_food.enderios.name=“末影麥片”
+item.item_ender_food.enderios.name=“終界麥片”
 item.item_ender_food.enderios.tooltip.common.line1=均衡早餐的一部分！
-item.item_ender_food.enderios.tooltip.detailed.line1=不怎麽健康，包含 253g 糖，53g 脂肪，和 394g 末影珍珠粉。
-item.item_ender_food.enderios.tooltip.detailed.line2=末影珍珠粉的副作用包括：惡心，頭暈，混亂和隨機傳送。
+item.item_ender_food.enderios.tooltip.detailed.line1=不怎麽健康，包含 253g 糖，53g 脂肪，和 394g 終界珍珠粉。
+item.item_ender_food.enderios.tooltip.detailed.line2=終界珍珠粉的副作用包括：惡心，頭暈，混亂和隨機傳送。
 
 item.item_location_printout.name=坐標打印機
 item.item_location_printout.tooltip.detailed.line1=使用坐標選擇儀制作
@@ -177,12 +177,12 @@ item.item_magnet.enabled=Electromagnet Active
 item.item_magnet.disabled=Electromagnet Disabled
 
 item.item_material.attractor_crystal.name=誘引水晶
-item.item_material.binder_composite.name=粘合胚料
+item.item_material.binder_composite.name=黏合胚料
 item.item_material.chassi_parts.name=機器框架板
-item.item_material.conduit_binder.name=導管粘合劑
+item.item_material.conduit_binder.name=導管黏合劑
 item.item_material.dust_wheat.name=面粉
-item.item_material.ender_crystal.name=末影水晶
-item.item_material.ender_crystal_powder.name=末影水晶粉
+item.item_material.ender_crystal.name=終界水晶
+item.item_material.ender_crystal_powder.name=終界水晶粉
 item.item_material.gear_energized.name=充能合金齒輪
 item.item_material.gear_iron.name=鐵齒輪
 item.item_material.gear_stone.name=石齒輪
@@ -192,7 +192,7 @@ item.item_material.gear_darksteel.name=玄鋼齒輪
 item.item_material.glider_wing.name=滑翔機翼
 item.item_material.glider_wings.name=滑翔機
 item.item_material.glider_wings.tooltip.detailed.line1=玄鋼胸甲升級組件
-item.item_material.ingot_enderium_base.name=末影錠粗胚
+item.item_material.ingot_enderium_base.name=終界錠粗胚
 item.item_material.machine_chassi.name=機器框架
 item.item_material.nutritious_stick.name=營養精華棒
 item.item_material.plantbrown.name=松散枯草
@@ -201,9 +201,9 @@ item.item_material.powder_ardite.name=阿迪特粉
 item.item_material.powder_coal.name=煤粉
 item.item_material.powder_cobalt.name=鈷粉
 item.item_material.powder_copper.name=銅粉
-item.item_material.powder_ender.name=末影珍珠粉
+item.item_material.powder_ender.name=終界珍珠粉
 item.item_material.powder_gold.name=金粉
-item.item_material.powder_infinity.name=基巖粉
+item.item_material.powder_infinity.name=基岩粉
 item.item_material.powder_iron.name=鐵粉
 item.item_material.powder_obsidian.name=黑曜石粉
 item.item_material.powder_tin.name=錫粉
@@ -213,8 +213,8 @@ item.item_material.precient_powder.name=預知水晶粉
 item.item_material.pulsating_crystal.name=脈沖水晶
 item.item_material.pulsating_powder.name=脈沖水晶粉
 item.item_material.silicon.name=矽
-item.item_material.skull_ender_resonator.name=末影諧振器
-item.item_material.skull_sentient_ender.name=意識末影諧振器
+item.item_material.skull_ender_resonator.name=終界諧振器
+item.item_material.skull_sentient_ender.name=意識終界諧振器
 item.item_material.skull_skeletal_contractor.name=骷髏契約板
 item.item_material.skull_zombie_controller.name=Z-邏輯控制器
 item.item_material.skull_zombie_electrode.name=僵屍電極
@@ -254,25 +254,25 @@ item.item_material.enhanced_machine_chassi.tooltip.detailed.line1=用於建造�
 item.item_material.unsouled_machine_chassi.name=離魂機器框架
 item.item_material.unsouled_machine_chassi.tooltip.detailed.line1=一個先進的機械框架，但它似乎少了什麽……
 item.item_material.grinding_ball_signalum.name=信素磨珠
-item.item_material.grinding_ball_enderium.name=末影磨珠
+item.item_material.grinding_ball_enderium.name=終界磨珠
 item.item_material.grinding_ball_lumium.name=流明磨珠
 item.item_material.redstone_filter_base.name=基礎紅石過濾器
 item.item_material.confusing_dust.name=混亂粉末
-item.item_material.ender_fragment.name=末影碎片
+item.item_material.ender_fragment.name=終界碎片
 item.item_material.withering_dust.name=雕零塵
 item.item_material.remote_awareness_upgrade.name=遠程接入升級
 item.item_material.dish.name=無線能量傳輸蝶形集成元件
-item.item_material.end_steel_machine_chassi.name=末影鋼機器底盤
+item.item_material.end_steel_machine_chassi.name=終界鋼機器底盤
 item.item_material.enhanced_machine_dye.name=強化機器塗料
 item.item_material.enhanced_machine_dye.tooltip.detailed.line1=工業生產的含有魔法與無機成分的染料。
-item.item_material.enhanced_machine_dye.tooltip.detailed.line2=§7警告：可能含有微量鉆石，下咽前請仔細咀嚼。無麩質食物。
+item.item_material.enhanced_machine_dye.tooltip.detailed.line2=§7警告：可能含有微量鑽石，下咽前請仔細咀嚼。無麩質食物。
 item.item_material.simple_chassi_parts.name=機器框架模具架板
 item.item_material.enhanced_chassi_parts.name=強化機器架板
 item.item_material.cake_base.name=蛋糕底座
 item.item_material.infinity_rod.name=無盡之桿
 item.item_material.glazed_nether_brick.name=釉制地獄磚
 item.item_material.infinity_goop.name=無盡試劑
-item.item_material.infinity_goop.tooltip.detailed.line1=一種無盡的、粘稠的物質，用於傳導能量。
+item.item_material.infinity_goop.tooltip.detailed.line1=一種無盡的、黏稠的物質，用於傳導能量。
 item.item_material.infinity_goop.tooltip.detailed.line2=有一次，Randalf 得到了些這玩意，使他被困旅行權杖之上長達六個月……
 
 item.item_alloy_endergy_ingot_crude_steel.name=粗鋼錠
@@ -321,7 +321,7 @@ item.item_soul_vial.tooltip.color=顏色：%s
 item.item_soul_vial.tooltip.empty=空
 
 item.item_travel_staff.name=旅行權杖
-item.item_travel_staff.tooltip.detailed.line1=手持旅行錨與末影接口時
+item.item_travel_staff.tooltip.detailed.line1=手持旅行錨與終界接口時
 item.item_travel_staff.tooltip.detailed.line2=可以透視錨點,並通過
 item.item_travel_staff.tooltip.detailed.line3=<右擊>直接傳送
 item.item_travel_staff.tooltip.detailed.line4=Shift+右擊
@@ -347,19 +347,19 @@ item.item_yeta_wrench.tooltip.detailed.line5=可打開導管設置 GUI
 item.item_yeta_wrench.tooltip.detailed.line6=使用 Shift+鼠標滾輪 或者按“%s”鍵
 item.item_yeta_wrench.tooltip.detailed.line7=可渲染單種類型導管
 
-item.item_enderface.name=末影接口
+item.item_enderface.name=終界接口
 
-tile.block_infinity_fog.name=基巖塵
+tile.block_infinity_fog.name=基岩塵
 tile.block_infinity_fog.tooltip.common.line1=§4§o危險
-tile.block_infinity_fog.tooltip.detailed.line1=當基巖粉被磨成細小塵埃時，它開始展現出基巖的特性。
+tile.block_infinity_fog.tooltip.detailed.line1=當基岩粉被磨成細小塵埃時，它開始展現出基岩的特性。
 tile.block_infinity_fog.tooltip.detailed.line2=釋放到空氣中形成一個揮發性塵埃雲，觸碰它至少是不健康的。 當塵埃落定時，它可能會留下一些令人討厭的東西。
-tile.block_infinity_fog.tooltip.detailed.line3=§6有幾率生成 §l末影人§r§6 和其他怪物。
+tile.block_infinity_fog.tooltip.detailed.line3=§6有幾率生成 §l終界人§r§6 和其他怪物。
 
-tile.block_infinity_0.name=基巖粉塊
+tile.block_infinity_0.name=基岩粉塊
 tile.block_infinity_0.tooltip.common.line1=並不能算是固體
-tile.block_infinity_1.name=壓縮基巖粉塊
+tile.block_infinity_1.name=壓縮基岩粉塊
 tile.block_infinity_1.tooltip.common.line1=並不能算是固體
-tile.block_infinity_2.name=二重壓縮基巖粉塊
+tile.block_infinity_2.name=二重壓縮基岩粉塊
 tile.block_infinity_2.tooltip.common.line1=並不能算是固體
 
 tile.block_alloy.name=合金塊
@@ -371,10 +371,10 @@ tile.block_alloy.pulsating_iron.name=脈沖鐵塊
 tile.block_alloy.redstone_alloy.name=紅石合金塊
 tile.block_alloy.soularium.name=魂金塊
 tile.block_alloy.vibrant_alloy.name=脈沖合金塊
-tile.block_alloy.end_steel.name=末影鋼塊
+tile.block_alloy.end_steel.name=終界鋼塊
 tile.block_alloy.construction_alloy.name=鐵合金塊
 
-tile.block_alloy_endergy.name=末影合金塊
+tile.block_alloy_endergy.name=終界合金塊
 tile.block_alloy_endergy.crude_steel.name=粗鋼塊
 tile.block_alloy_endergy.crystalline_alloy.name=晶化合金塊
 tile.block_alloy_endergy.melodic_alloy.name=旋律合金塊
@@ -391,7 +391,7 @@ tile.block_dark_fused_quartz.name=黑暗石英玻璃
 
 tile.block_dark_iron_bars.name=玄鋼柵欄
 
-tile.block_end_iron_bars.name=末影鋼柵欄
+tile.block_end_iron_bars.name=終界鋼柵欄
 
 tile.block_dark_steel_anvil.name=玄鋼砧
 tile.block_dark_steel_anvil.tooltip.common.line1=經久耐用
@@ -465,11 +465,11 @@ tile.block_decoration3.type15.name=n/a 15（裝飾方塊）
 tile.block_detector_block.name=方塊檢測器
 tile.block_detector_block_silent.name=方塊檢測器（無聲）
 
-tile.block_enderman_skull.name=末影人頭顱
-tile.block_enderman_skull.base.name=末影人頭顱
-tile.block_enderman_skull.tormented.name=禁錮末影人頭顱
-tile.block_enderman_skull.reanimated.name=覆蘇末影人頭顱
-tile.block_enderman_skull.reanimated_tormented.name=覆蘇禁錮末影人頭顱
+tile.block_enderman_skull.name=終界人頭顱
+tile.block_enderman_skull.base.name=終界人頭顱
+tile.block_enderman_skull.tormented.name=禁錮終界人頭顱
+tile.block_enderman_skull.reanimated.name=覆蘇終界人頭顱
+tile.block_enderman_skull.reanimated_tormented.name=覆蘇禁錮終界人頭顱
 
 tile.block_enlightened_fused_glass.name=螢光純凈玻璃
 
@@ -633,7 +633,7 @@ enderio.config.wireless=無線充能器
 enderio.config.brokenspawner=破損的刷怪箱
 
 enderio.config.items=物品
-enderio.config.items.infinitypowder=基巖粉
+enderio.config.items.infinitypowder=基岩粉
 enderio.config.items.darksteel.coldfire=寒焰打火石
 enderio.config.items.darksteel=玄鋼裝備
 enderio.config.items.darksteel.tooltip=這不是一般的鋼鐵，這是§o玄§r§e鋼。
@@ -675,7 +675,7 @@ enderio.config.blocks=方塊
 enderio.config.blocks.charges=炸藥
 enderio.config.blocks.charges.confusion=混亂炸藥
 enderio.config.blocks.charges.concussion=震蕩炸藥
-enderio.config.blocks.charges.ender=末影炸藥
+enderio.config.blocks.charges.ender=終界炸藥
 
 
 enchantment.enderio.soulbound=靈魂綁定
@@ -1099,7 +1099,7 @@ enderio.loot.capacitor.level.45=史詩的 %s
 enderio.loot.capacitor.entry.count=9
 enderio.loot.capacitor.entry.0=上面貼了個紙條，寫著“%s”
 enderio.loot.capacitor.entry.1=你成功破譯了古代符文，意思大概是“%s”。啥鬼……
-enderio.loot.capacitor.entry.2=啊！感謝末影頭顱的力量！我終於擁有了%s！
+enderio.loot.capacitor.entry.2=啊！感謝終界頭顱的力量！我終於擁有了%s！
 enderio.loot.capacitor.entry.3=emmmmmmmm……“%s”，這名字不錯。
 enderio.loot.capacitor.entry.4=恕我直言，“%s”是個辣雞名字。
 enderio.loot.capacitor.entry.5=這個“%s”是 Randalf 工匠的財產。未經允許不準拿走！
@@ -1152,20 +1152,20 @@ key.category.darksteelarmor=玄鋼盔甲
 key.category.tools=工具
 
 enderio.gui.probe.copied=覆制導管設置
-enderio.gui.probe.pasted=粘貼導管設置
+enderio.gui.probe.pasted=黏貼導管設置
 
 # unless we want to copy the sound, it will always show this subtitle.
-subtitles.entity.enderman.teleport=末影人：傳送
+subtitles.entity.enderman.teleport=終界人：傳送
 # just because I feel that way...
 container.chestDouble=大型箱子
 
 # Achie...um...Advancements
 
 enderio.advancement.root.name=Ender IO 基礎
-enderio.advancement.root.desc=距基巖更進一步
+enderio.advancement.root.desc=距基岩更進一步
 
-enderio.advancement.start.1_infinity_powder_get.name=收集基巖
-enderio.advancement.start.1_infinity_powder_get.desc=點燃基巖獲得獎勵
+enderio.advancement.start.1_infinity_powder_get.name=收集基岩
+enderio.advancement.start.1_infinity_powder_get.desc=點燃基岩獲得獎勵
 
 enderio.advancement.start.2_simple_chassis_get.name=第三個“S”不發音
 enderio.advancement.start.2_simple_chassis_get.desc=制作一個機器框架（Machine Chassis）
@@ -1206,9 +1206,9 @@ enderio.gui.item_filter.whitelist=白名單
 enderio.gui.item_filter.blacklist=黑名單
 enderio.gui.item_filter.match_meta=匹配元數據
 enderio.gui.item_filter.ignore_meta=忽略元數據
-enderio.gui.item_filter.sticky_enabled=粘滯模式開啟
-enderio.gui.item_filter.sticky_enabled2=選定的物品只會被傳送到這個或別的粘滯輸出
-enderio.gui.item_filter.sticky_disabled=粘滯模式關閉
+enderio.gui.item_filter.sticky_enabled=黏滯模式開啟
+enderio.gui.item_filter.sticky_enabled2=選定的物品只會被傳送到這個或別的黏滯輸出
+enderio.gui.item_filter.sticky_disabled=黏滯模式關閉
 enderio.gui.item_filter.ore_dic_enabled=匹配礦物詞典
 enderio.gui.item_filter.ore_dic_disabled=忽略礦物詞典
 enderio.gui.item_filter.match_nbt=匹配 NBT
@@ -1297,10 +1297,10 @@ item.item_redstone_counting_filter.name=計次紅石過濾器
 item.item_redstone_timer_filter.name=計時紅石過濾器
 
 tile.block_confusion_charge.name=混亂炸藥
-tile.block_ender_charge.name=末影炸藥
+tile.block_ender_charge.name=終界炸藥
 tile.block_concussion_charge.name=震蕩炸藥
 
-enderio.owlegg.no_owl=找不到貓頭鷹（需要安裝末影動物園！）
+enderio.owlegg.no_owl=找不到貓頭鷹（需要安裝終界動物園！）
 item.item_owl_egg.name=貓頭鷹蛋
 
 entity.enderio.owl_egg.name=貓頭鷹蛋
