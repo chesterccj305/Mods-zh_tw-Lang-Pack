@@ -8,8 +8,8 @@ entity.entity_sprout.name=芽精靈
 entity.entity_endermini.name=迷你末影人
 entity.entity_owl.name=貓頭鷹
 entity.entity_silkworm.name=蠶
-entity.entity_lava_cat.name=巖漿豹貓
-entity.entity_obsidian_cat.name=黑曜石豹貓
+entity.entity_lava_cat.name=岩漿山貓
+entity.entity_obsidian_cat.name=黑曜石山貓
 
 item.carapace.name=甲殼
 item.pelt.name=毛皮
