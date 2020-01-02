@@ -15,7 +15,7 @@ material.pulsating_iron.name=脈沖鐵
 material.redstone_alloy.name=紅石合金
 material.soularium.name=魂金
 material.vibrant_alloy.name=脈沖合金
-material.end_steel.name=末影鋼
+material.end_steel.name=終界鋼
 material.construction_alloy.name=鐵合金
 
 material.dark_steel.prefix=玄鋼%s
@@ -26,7 +26,7 @@ material.pulsating_iron.prefix=脈沖鐵%s
 material.redstone_alloy.prefix=紅石合金%s
 material.soularium.prefix=魂金%s
 material.vibrant_alloy.prefix=脈沖合金%s
-material.end_steel.prefix=末影鋼%s
+material.end_steel.prefix=終界鋼%s
 material.construction_alloy.prefix=偽鐵%s
 
 modifier.enderport.name=傳送
@@ -51,17 +51,17 @@ fluid.dark_steel=熔融玄鋼
 tile.fluid.dark_steel.name=熔融玄鋼
 fluid.soularium=熔融魂金
 tile.fluid.soularium.name=熔融魂金
-fluid.end_steel=熔融末影鋼
-tile.fluid.end_steel.name=熔融末影鋼
+fluid.end_steel=熔融終界鋼
+tile.fluid.end_steel.name=熔融終界鋼
 fluid.construction_alloy=熔融鐵合金
 tile.fluid.construction_alloy.name=熔融鐵合金
 
-fluid.enderio.glowstone=熔融熒石
-tile.fluid.enderio.glowstone.name=熔融熒石
+fluid.enderio.glowstone=熔融螢石
+tile.fluid.enderio.glowstone.name=熔融螢石
 fluid.enderio.redstone=熔融紅石
 tile.fluid.enderio.redstone.name=熔融紅石
-fluid.enderio.ender=液態末影珍珠
-tile.fluid.enderio.ender.name=液態末影珍珠
+fluid.enderio.ender=液態終界珍珠
+tile.fluid.enderio.ender.name=液態終界珍珠
 
 fluid.crude_steel=熔融粗制鋼
 tile.fluid.crude_steel=熔融粗制鋼
