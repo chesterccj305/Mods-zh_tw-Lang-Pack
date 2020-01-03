@@ -1,4 +1,3 @@
-#模組版本：2.0.2
 yudodis.config.block.safezoneHeight=安全區（允許放置任意方塊）的高度
 yudodis.config.block.dimalwaysallowlist=總是允許放置任意方塊的維度
 yudodis.config.block.biomealwaysallowdlist=總是允許放置任意方塊的生物群系
@@ -29,3 +28,5 @@ yudodis.config.item.dimalwaysblocklist=總是阻止使用任意物品的維度
 yudodis.config.item.safezoneheight=安全區（允許使用任意物品）的高度
 yudodis.config.item.dimAlwaysAllowdlist=總是允許使用任意物品的維度
 yudodis.config.item.biomealwaysallowdlist=總是允許使用任意物品的生物群系
+
+#模組版本：2.0.2
