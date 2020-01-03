@@ -56,8 +56,8 @@ item.hwell.soulsteel_ingot.name=靈魂鋼錠
 item.hwell.asul_ingot.name=Asul合金錠
 item.hwell.asul_nugget.name=一小撮Asul合金粉
 item.hwell.soul_dust.name=靈魂粉
-item.hwell.raw_repairing_paste.name=未燒制的修覆膏
-item.hwell.repairing_paste.name=修覆膏
+item.hwell.raw_repairing_paste.name=未燒制的修複膏
+item.hwell.repairing_paste.name=修複膏
 item.hwell.seed_of_life.name=生命之種
 item.hwell.seed_of_the_nether.name=地獄之種
 item.hwell.seed_of_the_end.name=末地之種
@@ -95,7 +95,7 @@ item.hwell.loot_spider.name=蜘蛛戰利品球
 item.hwell.loot_skeleton.name=骷髏戰利品球
 item.hwell.loot_slime.name=史萊姆戰利品球
 item.hwell.loot_witch.name=女巫戰利品球
-item.hwell.loot_wither.name=雕零骷髏戰利品球
+item.hwell.loot_wither.name=凋零骷髏戰利品球
 item.hwell.loot_zombie.name=僵屍戰利品球
 item.hwell.loot_guardian.name=守衛者戰利品球
 
@@ -108,7 +108,7 @@ tile.hwell.mutation_paste_block.name=突變物質塊
 tile.hwell.producer.name=戰利品球生成機
 tile.hwell.nourisher.name=催生機
 tile.hwell.puller.name=神秘礦石抽取機
-tile.hwell.boxer.name=方塊覆制機
+tile.hwell.boxer.name=方塊複製機
 
 tile.hwell.quartz_ore.name=石英礦石
 tile.hwell.glowstone_ore.name=熒石礦石
@@ -171,7 +171,7 @@ tile.hwell.burst_seed_dirt.name=爆裂的泥土種子
 tile.hwell.burst_seed_stone.name=爆裂的石頭種子
 tile.hwell.burst_seed_sand.name=爆裂的沙種子
 tile.hwell.burst_seed_snow.name=爆裂的雪種子
-tile.hwell.burst_seed_netherrack.name=爆裂的地獄巖種子
+tile.hwell.burst_seed_netherrack.name=爆裂的地獄岩種子
 tile.hwell.burst_seed_quartz.name=爆裂的石英種子
 tile.hwell.burst_seed_prismarine.name=爆裂的海晶石種子
 tile.hwell.burst_seed_cobblestone.name=爆裂的圓石種子
@@ -187,7 +187,7 @@ tile.hwell.stabiliser_light.name=輕型核心穩定器
 tile.hwell.stabiliser.name=中型核心穩定器
 tile.hwell.stabiliser_heavy.name=重型核心穩定器
 
-tile.hwell.compressed_clay.name=壓縮粘土
+tile.hwell.compressed_clay.name=壓縮黏土
 tile.hwell.compressed_wool.name=壓縮羊毛
 tile.hwell.skin_block.name=皮革方塊
 tile.hwell.plumage_block.name=羽毛塊
@@ -195,7 +195,7 @@ tile.hwell.fertilizer_block.name=肥料塊
 tile.hwell.weeping_block.name=惡魂之淚塊
 tile.hwell.meat_block.name=肉塊
 tile.hwell.ink_block.name=墨囊塊
-tile.hwell.pearl_block.name=末影珍珠塊
+tile.hwell.pearl_block.name=終界珍珠塊
 
 tile.hwell.moonstone.name=月光石
 tile.hwell.onyx.name=黑瑪瑙塊
@@ -244,7 +244,7 @@ tile.hwell.core_heat.name=高溫轉化核心
 tile.hwell.core_green.name=翡翠轉化核心
 tile.hwell.core_sentient.name=洞察轉化核心
 
-tile.hwell.graft_stone.name=巖石連鎖核心
+tile.hwell.graft_stone.name=岩石連鎖核心
 tile.hwell.graft_anima.name=靈氣連鎖核心
 tile.hwell.graft_heat.name=高溫連鎖核心
 tile.hwell.graft_green.name=翡翠連鎖核心
@@ -265,10 +265,10 @@ tile.hwell.metaldiamond_block.name=鉆石金屬鋼錠
 
 tile.hwell.grit_vase.name=黑瑪瑙樹盆
 
-tile.hwell.totem_zombie.name=僵屍圖騰
+tile.hwell.totem_zombie.name=殭屍圖騰
 tile.hwell.totem_creeper.name=苦力怕圖騰
 tile.hwell.totem_skeleton.name=骷髏圖騰
-tile.hwell.totem_enderman.name=末影人圖騰
+tile.hwell.totem_enderman.name=終界使者圖騰
 
 tile.fluid_liquid_souls=液態靈魂
 tile.hwell.fluid_liquid_souls=液態靈魂
