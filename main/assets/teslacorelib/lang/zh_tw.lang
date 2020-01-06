@@ -1,109 +1,143 @@
-gui.teslacorelib.energy.buildcraft_mj=MJ
-gui.teslacorelib.energy.buildcraft_mj_format=%s MJ
-gui.teslacorelib.energy.redstone_flux=RF
-gui.teslacorelib.energy.redstone_flux_format=%s RF
-gui.teslacorelib.energy.statistic=%s (%s)
-gui.teslacorelib.energy.stored_energy=能量存儲
-gui.teslacorelib.energy.stored_line_1=%s 最大：
-gui.teslacorelib.energy.stored_line_2=%s
-gui.teslacorelib.energy.tesla=T
-gui.teslacorelib.energy.tesla_format=%s T
-gui.teslacorelib.fluid_tank.accepting_fluid=接受流體
-gui.teslacorelib.fluid_tank.can_fill_from_container=可從容器填充
-gui.teslacorelib.fluid_tank.fluid=流體： %s
-gui.teslacorelib.fluid_tank.fluid_amount=%s 最大：%s
-gui.teslacorelib.fluid_tank.fluid_amount_format=%s mb
-gui.teslacorelib.fluid_tank.fluid_empty=無
-gui.teslacorelib.fluid_tank.hovering_with=懸停於：%s
-gui.teslacorelib.fluid_tank.not_accepting_fluid=不接受流體
-gui.teslacorelib.lockable_inventory.lock_inventory=鎖定存儲槽
-gui.teslacorelib.lockable_inventory.unlock_inventory=解鎖存儲槽
-gui.teslacorelib.redstone.active_on_redstone_signal=有紅石信號時工作
-gui.teslacorelib.redstone.active_without_redstone_signal=沒有紅石信號時工作
-gui.teslacorelib.redstone.always_active=始終工作
-gui.teslacorelib.side_config.back=後面
-gui.teslacorelib.side_config.charge_pad=充電槽
-gui.teslacorelib.side_config.down=下面
-gui.teslacorelib.side_config.energy=能量
-gui.teslacorelib.side_config.energy_items=充能物品
-gui.teslacorelib.side_config.fluid_containers=流體容器交互槽
-gui.teslacorelib.side_config.front=前面
-gui.teslacorelib.side_config.left=左面
-gui.teslacorelib.side_config.right=右面
-gui.teslacorelib.side_config.up=上面
-gui.teslacorelib.work_energy.waiting_for_work=等待工作
-gui.teslacorelib.work_energy.work_energy_buffer=工作時間緩沖槽
-gui.teslacorelib.work_energy.work_energy_line_1=%s 最大：%s
-gui.teslacorelib.work_energy.work_energy_line_2=最高: %s / tick
-gui.teslacorelib.work_energy.work_energy_line_3=~單個 %s ticks
-item.teslacorelib.base_addon.name=基礎升級板
-item.teslacorelib.battery.name=Tesla電池
-item.teslacorelib.energy_tier1.name=能量升級I
-item.teslacorelib.energy_tier2.name=能量升級II
-item.teslacorelib.gear_diamond.name=鉆石齒輪
-item.teslacorelib.gear_emerald.name=綠寶石齒輪
-item.teslacorelib.gear_gold.name=金齒輪
-item.teslacorelib.gear_iron.name=鐵齒輪
-item.teslacorelib.gear_lapis.name=青金石齒輪
-item.teslacorelib.gear_redstone.name=紅石齒輪
-item.teslacorelib.gear_stone.name=石齒輪
+itemGroup.tesla_core_lib=特斯拉核心
+
 item.teslacorelib.gear_wood.name=木齒輪
-item.teslacorelib.machine_case.name=機械外殼
-item.teslacorelib.powder_adamantine.name=Adamantine粉
-item.teslacorelib.powder_aluminum.name=鋁粉
-item.teslacorelib.powder_aluminum_brass.name=鋁黃銅粉
+item.teslacorelib.gear_stone.name=石齒輪
+item.teslacorelib.gear_iron.name=鐵齒輪
+item.teslacorelib.gear_gold.name=金齒輪
+item.teslacorelib.gear_diamond.name=鑽石齒輪
+item.teslacorelib.gear_emerald.name=綠寶石齒輪
+item.teslacorelib.gear_redstone.name=紅石齒輪
+item.teslacorelib.gear_lapis.name=青金石齒輪
+
+item.teslacorelib.powder_coal.name=煤粉
+item.teslacorelib.powder_iron.name=鐵粉
+item.teslacorelib.powder_gold.name=金粉
+item.teslacorelib.powder_diamond.name=鑽石粉
+item.teslacorelib.powder_emerald.name=綠寶石粉
+
+#Base Metals Powders
+item.teslacorelib.powder_adamantine.name=精金粉
 item.teslacorelib.powder_antimony.name=銻粉
 item.teslacorelib.powder_aquarium.name=Aquarium粉
 item.teslacorelib.powder_bismuth.name=鉍粉
 item.teslacorelib.powder_brass.name=黃銅粉
 item.teslacorelib.powder_bronze.name=青銅粉
-item.teslacorelib.powder_cadmium.name=鎘粉
-item.teslacorelib.powder_chromium.name=鉻粉
-item.teslacorelib.powder_coal.name=煤粉
 item.teslacorelib.powder_coldiron.name=寒鐵粉
 item.teslacorelib.powder_copper.name=銅粉
 item.teslacorelib.powder_cupronickel.name=白銅粉
-item.teslacorelib.powder_diamond.name=鉆石粉
 item.teslacorelib.powder_electrum.name=琥珀金粉
-item.teslacorelib.powder_emerald.name=綠寶石粉
-item.teslacorelib.powder_galvanized_steel.name=鍍鋅鋼粉
-item.teslacorelib.powder_gold.name=金粉
 item.teslacorelib.powder_invar.name=殷鋼粉
-item.teslacorelib.powder_iridium.name=銥粉
-item.teslacorelib.powder_iron.name=鐵粉
 item.teslacorelib.powder_lead.name=鉛粉
-item.teslacorelib.powder_magnesium.name=鎂粉
-item.teslacorelib.powder_manganese.name=錳粉
 item.teslacorelib.powder_mercury.name=水銀粉
 item.teslacorelib.powder_mithril.name=秘銀粉
-item.teslacorelib.powder_nichrome.name=鎳鉻粉
 item.teslacorelib.powder_nickel.name=鎳粉
-item.teslacorelib.powder_osmium.name=鋨粉
 item.teslacorelib.powder_pewter.name=白蠟粉
 item.teslacorelib.powder_platinum.name=鉑粉
-item.teslacorelib.powder_plutonium.name=鈈粉
-item.teslacorelib.powder_rutile.name=金紅石粉
 item.teslacorelib.powder_silver.name=銀粉
-item.teslacorelib.powder_stainless_steel.name=不銹鋼粉
 item.teslacorelib.powder_starsteel.name=星鋼粉
 item.teslacorelib.powder_steel.name=鋼粉
-item.teslacorelib.powder_tantalum.name=鉭粉
 item.teslacorelib.powder_tin.name=錫粉
+item.teslacorelib.powder_zinc.name=鋅粉
+
+#Modern Metals Powders
+item.teslacorelib.powder_aluminum.name=鋁粉
+item.teslacorelib.powder_aluminum_brass.name=鋁黃銅粉
+item.teslacorelib.powder_cadmium.name=鎘粉
+item.teslacorelib.powder_chromium.name=鉻粉
+item.teslacorelib.powder_galvanized_steel.name=鍍鋅鋼粉
+item.teslacorelib.powder_iridium.name=銥粉
+item.teslacorelib.powder_magnesium.name=鎂粉
+item.teslacorelib.powder_manganese.name=錳粉
+item.teslacorelib.powder_nichrome.name=鎳鉻粉
+item.teslacorelib.powder_osmium.name=鋨粉
+item.teslacorelib.powder_plutonium.name=鈈粉
+item.teslacorelib.powder_rutile.name=金紅石粉
+item.teslacorelib.powder_stainless_steel.name=不銹鋼粉
+item.teslacorelib.powder_tantalum.name=鉭粉
 item.teslacorelib.powder_titanium.name=鈦粉
 item.teslacorelib.powder_tungsten.name=鎢粉
 item.teslacorelib.powder_uranium.name=鈾粉
-item.teslacorelib.powder_zinc.name=鋅粉
 item.teslacorelib.powder_zirconium.name=鋯粉
-item.teslacorelib.sheet_diamond.name=鉆石板
-item.teslacorelib.sheet_emerald.name=綠寶石板
-item.teslacorelib.sheet_gold.name=金板
+
+
 item.teslacorelib.sheet_iron.name=鐵板
-item.teslacorelib.sheet_lapis.name=青金石板
+item.teslacorelib.sheet_gold.name=金板
+item.teslacorelib.sheet_diamond.name=鑽石板
+item.teslacorelib.sheet_emerald.name=綠寶石板
 item.teslacorelib.sheet_redstone.name=紅石板
+item.teslacorelib.sheet_lapis.name=青金石板
+
+item.teslacorelib.energy_tier1.name=能量升級I
+item.teslacorelib.energy_tier2.name=能量升級II
 item.teslacorelib.speed_tier1.name=速度升級I
 item.teslacorelib.speed_tier2.name=速度升級II
-item.teslacorelib.wrench.name=Tesla扳手
-itemGroup.tesla_core_lib=Tesla Core Lib
-tile.teslacorelib.creative_generator.name=創造模式Tesla發電機
+
+item.teslacorelib.wrench.name=特斯拉扳手
+item.teslacorelib.battery.name=特斯拉電池
+item.teslacorelib.base_addon.name=基礎升級板
+item.teslacorelib.machine_case.name=機械外殼
+
 tile.teslacorelib.test_machine.name=一體化測試機械
 tile.teslacorelib.test_machine2.name=流體測試機械
+tile.teslacorelib.creative_generator.name=創造模式特斯拉發電機
+
+
+
+
+#*************
+#* GUI STUFF *
+#*************
+
+#core lib energy display
+gui.teslacorelib.energy.stored_energy=能量存儲
+gui.teslacorelib.energy.stored_line_1=%s 最大：
+gui.teslacorelib.energy.stored_line_2=%s
+gui.teslacorelib.energy.statistic=%s (%s)
+
+gui.teslacorelib.energy.tesla=T
+gui.teslacorelib.energy.redstone_flux=RF
+gui.teslacorelib.energy.buildcraft_mj=MJ
+gui.teslacorelib.energy.tesla_format=%s T
+gui.teslacorelib.energy.redstone_flux_format=%s RF
+gui.teslacorelib.energy.buildcraft_mj_format=%s MJ
+
+gui.teslacorelib.work_energy.work_energy_buffer=工作時間緩沖槽
+gui.teslacorelib.work_energy.work_energy_line_1=%s 最大：%s
+gui.teslacorelib.work_energy.work_energy_line_2=最高: %s / tick
+gui.teslacorelib.work_energy.work_energy_line_3=~單個 %s ticks
+gui.teslacorelib.work_energy.waiting_for_work=等待工作
+
+#core lib side config buttons
+gui.teslacorelib.side_config.energy=能量
+gui.teslacorelib.side_config.energy_items=充能物品
+gui.teslacorelib.side_config.charge_pad=充電槽
+gui.teslacorelib.side_config.fluid_containers=流體容器交互槽
+
+gui.teslacorelib.side_config.back=後面
+gui.teslacorelib.side_config.front=前面
+gui.teslacorelib.side_config.right=右面
+gui.teslacorelib.side_config.left=左面
+gui.teslacorelib.side_config.up=上面
+gui.teslacorelib.side_config.down=下面
+
+
+#redstone control piece
+gui.teslacorelib.redstone.always_active=始終工作
+gui.teslacorelib.redstone.active_on_redstone_signal=有紅石信號時工作
+gui.teslacorelib.redstone.active_without_redstone_signal=沒有紅石信號時工作
+
+
+#fluid tank display piece
+gui.teslacorelib.fluid_tank.fluid=流體： %s
+gui.teslacorelib.fluid_tank.fluid_empty=無
+gui.teslacorelib.fluid_tank.fluid_amount_format=%s mb
+gui.teslacorelib.fluid_tank.fluid_amount=%s 最大：%s
+gui.teslacorelib.fluid_tank.hovering_with=懸停於：%s
+gui.teslacorelib.fluid_tank.accepting_fluid=接受流體
+gui.teslacorelib.fluid_tank.not_accepting_fluid=不接受流體
+gui.teslacorelib.fluid_tank.can_fill_from_container=可從容器填充
+
+
+#lockable inventory lock piece
+gui.teslacorelib.lockable_inventory.unlock_inventory=解鎖存儲槽
+gui.teslacorelib.lockable_inventory.lock_inventory=鎖定存儲槽
