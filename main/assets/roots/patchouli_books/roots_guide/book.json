@@ -1,0 +1,19 @@
+{
+	"name": "德魯伊藝術",
+	"advancement_namespaces": [
+		"roots"
+	],
+	"creative_tab": "roots",
+	"advancements_tab": "roots",
+	"landing_text": "德魯伊主義的藝術有多種形式。 這本書是所有已知信息的彙編，這些信息涉及與自然世界互動的不同方式以及如何與自然世界建立互利關係。",
+	"book_texture": "roots:textures/gui/book.png",
+	"filler_texture": "roots:textures/gui/patchouli/book_filler.png",
+	"model": "roots:druid_handbook",
+	"version": 3,
+	"show_progress": false,
+	"macros": {
+		"$(info)": "$(thing)$(bold)$(t:Important Detail)[!]$()",
+		"$(warning)": "$(#f00)$(bold)$(t:Warning)[!]$()",
+		"$(standing_stones)": "$(#aa0)$(bold)$(t:Standing Stones Required!)[!]$()"
+	}
+}
