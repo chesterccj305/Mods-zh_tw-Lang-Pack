@@ -1,0 +1,15 @@
+{
+  "name": "冒煙機關",
+  "icon": "twilightforest:fire_jet:1",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/encased_smoker",
+  "sortnum": 5060,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "冒煙機關",
+      "item": "twilightforest:fire_jet:1",
+      "text": "冒煙的方塊會一直不停的冒煙, 這對我來說很不方便。$(br)經由接線改造冒煙方塊, 我可以製作出啟動時才會冒煙的裝置。$(br)現在我得想想這種裝置有什麼用途。"
+    }
+  ]
+}
