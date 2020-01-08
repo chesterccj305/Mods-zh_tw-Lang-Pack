@@ -1,0 +1,15 @@
+{
+  "name": "反建器",
+  "icon": "twilightforest:tower_device:9",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6240,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "反建器",
+      "item": "twilightforest:tower_device:9",
+      "text": "這個裝置會發射出奇特的力場, 似乎用來防護範圍內的所有東西。$(br)任何嘗試在力場中放置的方塊都會遭到破壞, 而破壞任何東西也都會被填補奇怪的紅綠色方塊。$(br)似乎沒有開關能將其關閉, 但應該還是有方法。"
+    }
+  ]
+}
