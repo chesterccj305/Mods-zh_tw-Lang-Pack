@@ -9,12 +9,12 @@
       "type": "entity",
       "advancement": "twilightforest:alt/entities/mini_ghast",
       "entity": "twilightforest:mini_ghast",
-      "text": "無資料"
+      "text": "迷你幽靈"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/tower_ghast",
       "entity": "twilightforest:tower_ghast",
-      "text": "無資料"
+      "text": "高塔幽靈"
     }
   ]
 }
