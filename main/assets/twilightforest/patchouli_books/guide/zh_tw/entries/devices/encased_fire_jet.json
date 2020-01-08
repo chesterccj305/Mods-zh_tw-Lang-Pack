@@ -1,0 +1,15 @@
+{
+  "name": "火焰噴射機關",
+  "icon": "twilightforest:fire_jet:6",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/encased_fire_jet",
+  "sortnum": 5060,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "火焰噴射機關",
+      "item": "twilightforest:fire_jet:6",
+      "text": "用點聰明的技術來改造火焰噴射口, 我可以做出用按鈕或一點紅石信號, 就能自我維持發射的火焰噴射機關。$(br)不過這個機關有個小缺陷, 它在發射前似乎需要預熱, 因此我得計算好信號發送的時機。"
+    }
+  ]
+}
