@@ -1,0 +1,15 @@
+{
+  "name": "砷鉛鐵結晶",
+  "icon": "twilightforest:carminite",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6110,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "砷鉛鐵結晶",
+      "item": "twilightforest:carminite",
+      "text": "無資料"
+    }
+  ]
+}
