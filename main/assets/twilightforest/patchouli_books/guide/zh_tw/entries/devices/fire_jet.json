@@ -1,0 +1,15 @@
+{
+  "name": "火焰噴口",
+  "icon": "twilightforest:fire_jet:3",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/fire_jet",
+  "sortnum": 5050,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "火焰噴口",
+      "item": "twilightforest:fire_jet:3",
+      "text": "火焰噴口會不定時噴出火焰串。$(br)由於它們似乎不經由任何東西來驅動, 我在它們附近時得格外小心。$(br)基於某種原因, 當它們的下方沒有岩漿時會停止噴發, 搞不好這就是它們的秘密？"
+    }
+  ]
+}
