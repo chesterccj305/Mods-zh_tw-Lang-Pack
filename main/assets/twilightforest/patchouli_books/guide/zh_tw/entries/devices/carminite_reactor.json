@@ -1,0 +1,18 @@
+{
+  "name": "砷鉛鐵反應器",
+  "icon": "twilightforest:tower_device:12",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6260,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "砷鉛鐵反應器",
+      "item": "twilightforest:tower_device:12",
+      "text": "我搞不清楚這個裝置的用途。$(br)它是一種反應堆, 所以我假設它會釋放能量, 但是它現在完全是停擺的狀態。$(br)也許它需要某種能量？"
+    }, {
+      "type": "text",
+      "text": "我不知道該感到訝異還是害怕？當我給予這個裝置足夠的紅石能量, 其周圍的區域都會變成黃金和鑽石。$(br)我不知道該如何形容, 但那些方塊都是假的, 而反應器就在我面前爆炸了, 還釋放出迷你幽靈。$(br)無論這次是否算是失敗的實驗, 我永遠也不會知道。"
+    }
+  ]
+}
