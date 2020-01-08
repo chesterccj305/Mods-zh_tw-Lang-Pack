@@ -1,0 +1,31 @@
+{
+  "name": "地圖",
+  "icon": "twilightforest:magic_map",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/maps",
+  "sortnum": 1100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "地圖資訊"
+    }, {
+      "type": "spotlight",
+      "title": "魔法地圖",
+      "item": "twilightforest:magic_map",
+      "advancement": "twilightforest:alt/treasures/treasures/magic_map",
+      "text": "魔法地圖可幫你尋找生態域和建築物。"
+    }, {
+      "type": "spotlight",
+      "title": "迷宮地圖",
+      "item": "twilightforest:maze_map",
+      "advancement": "twilightforest:alt/treasures/treasures/maze_map",
+      "text": "迷宮地圖可幫你查看迷宮的佈局。"
+    }, {
+      "type": "spotlight",
+      "title": "礦石地圖",
+      "item": "twilightforest:ore_map",
+      "advancement": "twilightforest:alt/treasures/treasures/ore_map",
+      "text": "礦石地圖可幫你查看地底下有什麼, 尤其是礦石。"
+    }
+  ]
+}
