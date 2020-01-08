@@ -9,12 +9,12 @@
       "type": "entity",
       "advancement": "twilightforest:alt/entities/redcap",
       "entity": "twilightforest:redcap",
-      "text": "無資料"
+      "text": "紅帽哥布林"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/redcap_sapper",
       "entity": "twilightforest:redcap_sapper",
-      "text": "無資料"
+      "text": "紅帽地精"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/goblin_knight",
@@ -24,7 +24,7 @@
       "type": "entity",
       "advancement": "twilightforest:alt/entities/goblin_knight",
       "entity": "twilightforest:goblin_knight_upper{hasArmor:1b}",
-      "text": "無資料"
+      "text": "哥布林騎士（上身）"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/blockchain_goblin",
