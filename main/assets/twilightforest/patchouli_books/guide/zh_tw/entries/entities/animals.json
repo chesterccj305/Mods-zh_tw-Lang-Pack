@@ -9,42 +9,42 @@
       "type": "entity",
       "advancement": "twilightforest:alt/entities/bighorn_sheep",
       "entity": "twilightforest:bighorn_sheep",
-      "text": "無資料"
+      "text": "大角山羊"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/bunny",
       "entity": "twilightforest:bunny",
-      "text": "無資料"
+      "text": "侏儒兔子"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/deer",
       "entity": "twilightforest:deer",
-      "text": "無資料"
+      "text": "野鹿"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/raven",
       "entity": "twilightforest:raven",
-      "text": "無資料"
+      "text": "森林烏鴉"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/squirrel",
       "entity": "twilightforest:squirrel",
-      "text": "無資料"
+      "text": "森林松鼠"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/wild_boar",
       "entity": "twilightforest:tiny_bird",
-      "text": "無資料"
+      "text": "小鳥"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/wild_boar",
       "entity": "twilightforest:tiny_bird",
-      "text": "無資料"
+      "text": "小鳥"
     }, {
       "type": "entity",
       "advancement": "twilightforest:alt/entities/penguin",
       "entity": "twilightforest:penguin",
-      "text": "無資料"
+      "text": "企鵝"
     }
   ]
 }
