@@ -1,119 +1,239 @@
 #PARSE_ESCAPES
-advancements.rftools.alltheitems.description=放置一個模塊化存儲器
-advancements.rftools.alltheitems.title=存儲物品！
-advancements.rftools.builder.description=建築工人鮑勃！
+
+# Achievements
 advancements.rftools.builder.title=建造機
-advancements.rftools.clearvision.description=放置一個模塊化屏幕
+advancements.rftools.builder.description=建築工人鮑勃！
+advancements.rftools.general.title=RF工具
+advancements.rftools.general.description=開啟RF工具！
+advancements.rftools.hardpower.title=高級能源！
+advancements.rftools.hardpower.description=合成一個終界發電機
 advancements.rftools.clearvision.title=視野清晰了！
+advancements.rftools.clearvision.description=放置一個模塊化屏幕
+advancements.rftools.specialores.title=異國礦工！
+advancements.rftools.specialores.description=挖到空間碎片
+advancements.rftools.goingup.title=上升！
+advancements.rftools.goingup.description=做一台電梯並往上走（或者往下？）
+advancements.rftools.storepower.title=存儲所有的能量！
+advancements.rftools.storepower.description=放置一個能量單元
+advancements.rftools.shieldsafety.title=現在感覺安全嗎？
+advancements.rftools.shieldsafety.description=激活護盾
+advancements.rftools.alltheitems.title=存儲物品！
+advancements.rftools.alltheitems.description=放置一個模塊化存儲器
+
+
 advancements.rftools.firstteleport.description=傳送到一個新的位置@todo
 advancements.rftools.firstteleport.title=世界移動了！@todo
-advancements.rftools.general.description=開啟RF工具！
-advancements.rftools.general.title=RF工具
-advancements.rftools.goingup.description=做一台電梯並往上走（或者往下？）
-advancements.rftools.goingup.title=上升！
-advancements.rftools.hardpower.description=合成一個末影發電機
-advancements.rftools.hardpower.title=高級能源！
-advancements.rftools.shieldsafety.description=激活護盾
-advancements.rftools.shieldsafety.title=現在感覺安全嗎？
-advancements.rftools.specialores.description=挖到空間碎片
-advancements.rftools.specialores.title=異國礦工！
-advancements.rftools.storepower.description=放置一個能量單元
-advancements.rftools.storepower.title=存儲所有的能量！
-item.advanced_charged_porter.name=高級充能傳送器
-item.blindness_module.name=失明模塊
-item.button_module.name=按鈕模塊
-item.charged_porter.name=充能傳送器
-item.clock_module.name=鐘模塊
-item.computer_module.name=計算機模塊
-item.counter_module.name=計數器模塊
-item.counterplus_module.name=計數器+模塊
-item.developers_delight.name=RF工具維度說明書
-item.dimensional_shard.name=空間碎片
-item.dump_module.name=清空模塊
-item.elevator_button_module.name=電梯按鈕模塊
-item.energy_module.name=能量模塊
-item.energyplus_module.name=能量+模塊
-item.featherfalling_module.name=摔落保護模塊
-item.featherfallingplus_module.name=摔落保護+模塊
-item.filter_module.name=存儲過濾模塊
-item.flight_module.name=飛行模塊
-item.fluid_module.name=流體模塊
-item.fluidplus_module.name=流體+模塊
-item.generic_module.name=泛型模塊
-item.glowing_module.name=發光模塊
-item.haste_module.name=急迫模塊
-item.hasteplus_module.name=急迫+模塊
-item.infused_diamond.name=充能鉆石
-item.infused_enderpearl.name=蘊魔末影珍珠
-item.inventory_module.name=存儲模塊
-item.inventoryplus_module.name=存儲+模塊
-item.luck_module.name=幸運模塊
-item.machineinformation_module.name=機器信息模塊
-item.modifier_module.name=改良模塊
+
+# Items
 item.network_monitor.name=RF網絡監視儀
-item.nightvision_module.name=夜視模塊
-item.noteleport_module.name=反瞬移模塊
-item.oredict_module.name=礦物詞典模塊
-item.orphaning_card.name=棄權卡
-item.peace_essence.name=和平要素
-item.peaceful_module.name=和平模塊
-item.poison_module.name=中毒模塊
-item.powercell_card.name=能量單元卡
-item.redstone_module.name=紅石模塊
-item.regeneration_module.name=再生模塊
-item.regenerationplus_module.name=再生+模塊
+item.teleport_probe.name=傳送調試儀
+item.charged_porter.name=充能傳送器
+item.advanced_charged_porter.name=高級充能傳送器
 item.rftools_manual.name=RF工具指南
 item.rftools_shape_manual.name=RF工具塑形說明書
-item.saturation_module.name=飽和模塊
-item.saturationplus_module.name=飽和+模塊
-item.security_card.name=安全卡
-item.shape_card.name=塑形卡片
-item.shape_card1.name=塑形卡片（清空）
-item.shape_card10.name=塑形卡片（放置流體）
-item.shape_card2.name=塑形卡片（采掘）
-item.shape_card3.name=塑形卡片（精準采掘）
-item.shape_card4.name=塑形卡片（時運采掘）
-item.shape_card5.name=塑形卡片（清理采掘）
-item.shape_card6.name=塑形卡片（清理精準采掘）
-item.shape_card7.name=塑形卡片（清理時運采掘）
-item.shape_card8.name=塑形卡片（泵）
-item.shape_card9.name=塑形卡片（清理泵）
+item.developers_delight.name=RF工具維度說明書
 item.shard_wand.name=空間碎片杖
-item.slowness_module.name=遲緩模塊
-item.smartwrench.name=智能扳手
-item.space_chamber_card.name=空間倉卡
-item.speed_module.name=速度模塊
-item.speedplus_module.name=速度+模塊
+item.orphaning_card.name=棄權卡
+item.security_card.name=安全卡
+item.infused_diamond.name=充能鑽石
+item.infused_enderpearl.name=蘊魔終界珍珠
+item.text_module.name=文本模塊
+item.energy_module.name=能量模塊
+item.energyplus_module.name=能量+模塊
 item.storage_control_module.name=存儲控制模塊
+item.dump_module.name=清空模塊
+item.inventory_module.name=存儲模塊
+item.inventoryplus_module.name=存儲+模塊
+item.clock_module.name=鐘模塊
+item.fluid_module.name=流體模塊
+item.fluidplus_module.name=流體+模塊
+item.counter_module.name=計數器模塊
+item.counterplus_module.name=計數器+模塊
+item.redstone_module.name=紅石模塊
+item.machineinformation_module.name=機器信息模塊
+item.computer_module.name=計算機模塊
+item.button_module.name=按鈕模塊
+item.elevator_button_module.name=電梯按鈕模塊
+item.smartwrench.name=智能扳手
 item.storage_module0.name=初級儲存艙
 item.storage_module1.name=高級儲存艙
 item.storage_module2.name=終級儲存艙
 item.storage_module6.name=遠程存儲模塊
 item.storage_module_tablet.name=手持式存儲模塊
-item.syringe.name=註射器
-item.teleport_probe.name=傳送調試儀
-item.text_module.name=文本模塊
+item.filter_module.name=存儲過濾模塊
+item.oredict_module.name=礦物辭典模塊
+item.generic_module.name=泛型模塊
+item.powercell_card.name=能量單元卡
+item.modifier_module.name=改良模塊
+item.space_chamber_card.name=空間倉卡
+item.shape_card.name=塑形卡片
+item.shape_card1.name=塑形卡片 （清空）
+item.shape_card2.name=塑形卡片 （採掘）
+item.shape_card3.name=塑形卡片 （精准採掘）
+item.shape_card4.name=塑形卡片 （時運採掘）
+item.shape_card5.name=塑形卡片 （清理採掘）
+item.shape_card6.name=塑形卡片 （清理精准採掘）
+item.shape_card7.name=塑形卡片 （清理時運採掘）
+item.shape_card8.name=塑形卡片 （泵）
+item.shape_card9.name=塑形卡片 （清理泵）
+item.shape_card10.name=塑形卡片 （放置流體）
+
+item.regeneration_module.name=再生模塊
+item.regenerationplus_module.name=再生+模塊
+item.speed_module.name=速度模塊
+item.speedplus_module.name=速度+模塊
+item.haste_module.name=急迫模塊
+item.hasteplus_module.name=急迫+模塊
+item.saturation_module.name=飽和模塊
+item.saturationplus_module.name=飽和+模塊
+item.featherfalling_module.name=摔落保護模塊
+item.featherfallingplus_module.name=摔落保護+模塊
+item.flight_module.name=飛行模塊
+item.peaceful_module.name=和平模塊
 item.waterbreathing_module.name=水下呼吸模塊
+item.nightvision_module.name=夜視模塊
+item.blindness_module.name=失明模塊
 item.weakness_module.name=虛弱模塊
+item.poison_module.name=中毒模塊
+item.slowness_module.name=緩速模塊
+item.glowing_module.name=發光模塊
+item.luck_module.name=幸運模塊
+item.noteleport_module.name=反瞬移模塊
+
+item.syringe.name=注射器
+item.peace_essence.name=和平元素
+item.dimensional_shard.name=空間碎片
+
+# Blocks
+tile.rftools.coalgenerator.name=燃煤發電機
+tile.rftools.crafter1.name=自動合成機<一級>
+tile.rftools.crafter2.name=自動合成機<二級>
+tile.rftools.crafter3.name=自動合成機<三級>
+tile.rftools.elevator.name=電梯
+tile.rftools.relay.name=能量中繼器
+tile.rftools.item_filter.name=物品過濾器
+tile.rftools.storage_scanner.name=儲存檢測器
+tile.rftools.storage_terminal.name=儲存終端
+tile.rftools.level_emitter.name=等級發射器
+tile.rftools.rf_monitor.name=RF顯示器
+tile.rftools.liquid_monitor.name=流體顯示器
+tile.rftools.machine_frame.name=機器框架
+tile.rftools.machine_base.name=機器基座
+tile.rftools.matter_transmitter.name=物質傳輸器
+tile.rftools.matter_receiver.name=物質接收器
+tile.rftools.dialing_device.name=傳送控制器
+tile.rftools.simple_dialer.name=簡易傳送控制器
+tile.rftools.booster.name=加成器
+tile.rftools.destination_analyzer.name=目標分析儀
+tile.rftools.matter_booster.name=物質助推器
+tile.rftools.endergenic.name=終界能發電機
+tile.rftools.pearl_injector.name=終界珍珠填充器
+tile.rftools.sequencer_block.name=音序器
+tile.rftools.wire_block.name=線纜
+tile.rftools.analog_block.name=模擬器
+tile.rftools.digit_block.name=數碼器
+tile.rftools.counter_block.name=計數器
+tile.rftools.invchecker_block.name=物品檢查器
+tile.rftools.sensor_block.name=傳感器
+tile.rftools.timer_block.name=定時器
+tile.rftools.logic_block.name=邏輯門
+tile.rftools.redstone_transmitter_block.name=紅石信號發信器
+tile.rftools.redstone_receiver_block.name=紅石信號接收器
+tile.rftools.ender_monitor.name=終界顯示器
+tile.rftools.machine_infuser.name=機器注能機
+tile.rftools.screen.name=屏幕
+tile.rftools.creative_screen.name=創造模式屏幕
+tile.rftools.screen_hitblock.name=屏幕
+tile.rftools.screen_controller.name=屏幕控制器
+tile.rftools.environmental_controller.name=環境控制器
+tile.rftools.spawner.name=生怪箱
+tile.rftools.matter_beamer.name=物質投影儀
+tile.rftools.block_protector.name=方塊保護器
+tile.rftools.modular_storage.name=模塊化存儲器
+tile.rftools.remote_storage.name=遠程存儲器
+tile.rftools.security_manager.name=權限管理器
+tile.rftools.dimensional_shard_ore.name=空間碎片礦石
+tile.rftools.builder.name=建造機
+tile.rftools.composer.name=構建器
+tile.rftools.projector.name=映射儀
+tile.rftools.scanner.name=掃描器
+tile.rftools.remote_scanner.name=遠程掃描器
+tile.rftools.locator.name=定位器
+tile.rftools.support_block.name=支撐塊
+tile.rftools.space_chamber.name=空間角落方塊
+tile.rftools.space_chamber_controller.name=空間控制方塊
+tile.rftools.powercell.name=能量單元
+tile.rftools.powercell_simple.name=簡單能量單元
+tile.rftools.powercell_advanced.name=高級能量單元
+tile.rftools.powercell_creative.name=創造模式能量單元
+tile.rftools.shield_template_block.name=護盾支架
+tile.rftools.shield_block1.name=護盾投射儀<一層>
+tile.rftools.shield_block2.name=護盾投射儀<二層>
+tile.rftools.shield_block3.name=護盾投射儀<三層>
+tile.rftools.shield_block4.name=護盾投射儀<四層>
+tile.rftools.invisible_shield_block.name=隱形護盾方塊
+tile.rftools.notick_invisible_shield_block.name=隱形護盾方塊
+tile.rftools.solid_shield_block.name=護盾方塊
+tile.rftools.notick_solid_shield_block.name=護盾方塊
+tile.rftools.camo_shield_block.name=迷彩護盾方塊
+tile.rftools.notick_camo_shield_block.name=迷彩護盾方塊
+
+# Creative Tabs
 itemGroup.RfTools=RF工具
+
+# Keys
 key.categories.rftools=RF工具
-key.debugDumpNBTBlock=導出被選擇方塊的NBT
-key.debugDumpNBTItem=導出手持物品的NBT
 key.porterNextDestination=下一個傳送終點
 key.porterPrevDestination=上一個傳送終點
+key.debugDumpNBTItem=導出手持物品的NBT
+key.debugDumpNBTBlock=導出被選擇方塊的NBT
+
+# Messages
+message.rftools.shiftmessage=<按住Shift>
+message.rftools.coalgenerator=\
+    @f這台發電機產生的 RF (%s RF/t)\n\
+    @f來自於 煤炭 或 木炭\n\
+    @e注入加成：更高的發電量\n\
+    @e且使單次燃料的發電時間更長
+message.rftools.booster=\
+    @f這個方塊會直接給\n\
+    @f方塊上的實體一個臨時效果\n\
+    @e注入加成：降低功耗
+message.rftools.infuser=\
+    @f用這台機器，可以以各種方式改進大多數RF工具中的\n\
+    @f其他機器。該操作需要消耗需要維度碎片。\n\
+    @fshards.\n\
+    @e注入加成：降低功耗
+message.rftools.itemfilter=\
+    @a內容：%s組物品\n\
+    @f這個方塊可以讓你從任意方向傳輸物品\n\
+    @f到其他方向。它能把物品從採石場、\n\
+    @f林場、生怪塔等等中過濾出來。
+message.rftools.security_manager=\
+    @a內容：%s堆疊\n\
+    @f這個方塊能管理你的安全卡
+message.rftools.builder=\
+    @f這個方塊能實現區域挖掘、泵送液體、\n\
+    @f收集物品和經驗、移動實體、建築結構\n\
+    @f移動、複製或更換結構等等功能。\n\
+    @e注入加成：降低功耗\n\
+    @e和提升速度。
+message.rftools.elevator=\
+    @f這台機器需要被放置在移動平台\n\
+    @f所指向的移動方向水平上的某處。\n\
+    @f只有最低層的電梯需要電力\n\
+    @e注入加成：降低功耗
+
 message.rftools.analog=@f這個邏輯方塊能通過\n@f模擬紅石信號來進行計算
-message.rftools.booster=@f這個方塊方塊會直接給\n@f方塊上的實體一個臨時效果\n@e註入加成：降低功耗
-message.rftools.builder=@f這個方塊能實現區域挖掘，泵送液體，\n@f收集物品和經驗，移動實體，建築結構\n@f，移動、覆制或更換結構等等功能。\n@e註入加成：降低功耗和提升速度。
-message.rftools.coalgenerator=@f這台發電機產生的 RF (%s RF/t)\n@f來自於 煤炭 或 木炭\n@e註入加成：更高的發電量\n@e且使單次燃料的發電時間更長
+message.rftools.builder=@f\n@f\n@f\n@e注入加成：降低功耗和提升速度。
+message.rftools.coalgenerator=@f這台發電機產生的 RF (%s RF/t)\n@f來自於 煤炭 或 木炭\n@e注入加成：更高的發電量\n@e且使單次燃料的發電時間更長
 message.rftools.composer=@f這個方塊可以通過組合其他塑形卡片\n@f來構造更覆雜的\n@f建造機或護盾的塑形卡片
 message.rftools.counter=@a計數: %s\n@a當前值: %s\n@f這個邏輯方塊對紅石信號進行計數\n@f並當達到固定數值時輸出紅石信號
 message.rftools.digit=@f這個邏輯方塊是個簡單的\n@f顯示紅石輸入強度的數位顯示器
-message.rftools.elevator=@f這台機器需要被放置在移動平台\n@f所指向的移動方向水平上的某處。\n@f只有最低層的電梯需要電力\n@e註入加成：降低功耗
-message.rftools.endergenic=@f用末影珍珠來發電。你至少需要兩\n@f台發電機用於工作，並且它的設置\n@f是比較覆雜的。時機至關重要。\n@e註入升級：增量發電\n@e和減少損耗
-message.rftools.environmental_controller=@a區域：半徑 %s（介於 %s 和 %s 之間）\n@f用不同的模塊控制你周圍的環境。\n@f有再生模塊、速度模塊等等\n@e註入升級：降低功耗
-message.rftools.infuser=@f用這台機器，你可以以多種方式用它來改進大多數 RFTools 的其他機器\n@f該操作需要消耗需要維度碎片。\n@e註入加成：降低功耗。
+message.rftools.endergenic=@f用末影珍珠來發電。你至少需要兩\n@f台發電機用於工作，並且它的設置\n@f是比較覆雜的。時機至關重要。\n@e注入升級：增量發電\n@e和減少損耗
+message.rftools.environmental_controller=@a區域：半徑 %s（介於 %s 和 %s 之間）\n@f用不同的模塊控制你周圍的環境。\n@f有再生模塊、速度模塊等等\n@e注入升級：降低功耗
+message.rftools.infuser=@f用這台機器，你可以以多種方式用它來改進大多數 RFTools 的其他機器\n@f該操作需要消耗需要維度碎片。\n@e注入加成：降低功耗。
 message.rftools.invchecker=@f如果在儲物格中的物品數量超過一個固定\n@f的數值，這個邏輯方塊就會給予一個紅石信號。
-message.rftools.itemfilter=@a內容： %s 組物品\n@f這個方塊可以讓你從任意方向傳輸物品\n@f到其他方向。它能把物品從采石場、\n@f林場、怪物農場等等中過濾出來。
 message.rftools.liquid_monitor=@f這台設備能監視相鄰機器的流體\n@f總量情況（在 GUI 內選擇）。\n@f它會發出紅石信號如果流體超過\n@f或小於一定值時。
 message.rftools.locator=@f在掃描儀的頂部放置這個方塊\n@f能夠擴展它的功能，使它能夠\n@f消耗能量來定位實體和機器
 message.rftools.pearl_injector=@a內容: %s 堆\n@f在收到紅石信號時\n@f會輸入一個末影珍珠到臨近的\n@f末影能發電機。
@@ -122,83 +242,10 @@ message.rftools.relay=@f這台設備可以（基於紅石信號）\n@f限制能�
 message.rftools.remote_scanner=@2掃描 id: %s\n@f這個方塊能夠掃描一個區域並將其鏈接\n@f到塑性卡片以供建造機或護盾使用。\n@f所得塑性卡也能夠用\n@f在組合機中。\n@6在這個版本它能夠通過\n@6一個在它上面的測量過的物質傳送機\n@6來掃描
 message.rftools.rf_monitor=@f這台設備能監視相鄰機器的 RF \n@f總量情況（在 GUI 內選擇）。\n@f它會發出紅石信號如果能量超過\n@f或小於一定值時。
 message.rftools.scanner=@2掃描 ID：%s\n@f這個方塊可以為建造機或護盾的\n@f塑形卡掃描一個區域以及鏈接\n@f掃描結果也可以在構建器中使用
-message.rftools.security_manager=@a內容： %s 堆疊\n@f這個方塊能管理你的安全卡
 message.rftools.sensor=@f這個邏輯方塊會依據它前方不同的\n@f情況來給予紅石信號。\n@f例如方塊放置、作物生長階段\n@f實體數目……
 message.rftools.sequencer=@a延時: %s\n@a模式: %s\n@a數位: %s\n@f這個邏輯方塊通過在 GUI 中設定\n@f的模式來輸出一系列信號
-message.rftools.shiftmessage=<按住Shift>
-message.rftools.spawner=@f這個塊可以生產生物。它需要\n@f合適類型的註射器，RF 能量\n@f以及有能量的物質束。\n@e註入升級：降低功耗
+message.rftools.spawner=@f這個塊可以生產生物。它需要\n@f合適類型的註射器，RF 能量\n@f以及有能量的物質束。\n@e注入升級：降低功耗
 message.rftools.threelogic=@f這個邏輯方塊能用它三個輸入\n@f來進行各種各樣的邏輯操作
 message.rftools.timer=@a延時: %s\n@f這個邏輯方塊在接受到紅石脈沖之前\n@f會在一段時間後發射一個紅石脈沖。
 message.rftools.wire=@f這個邏輯方塊是一個簡單的\n@f無延遲紅石線路
-tile.rftools.analog_block.name=模擬器
-tile.rftools.block_protector.name=方塊保護器
-tile.rftools.booster.name=加成器
-tile.rftools.builder.name=建造機
-tile.rftools.camo_shield_block.name=迷彩護盾方塊
-tile.rftools.coalgenerator.name=燃煤發電機
-tile.rftools.composer.name=構建器
-tile.rftools.counter_block.name=計數器
-tile.rftools.crafter1.name=自動合成機（一階）
-tile.rftools.crafter2.name=自動合成機（二階）
-tile.rftools.crafter3.name=自動合成機（三階）
-tile.rftools.creative_screen.name=創造模式屏幕
-tile.rftools.destination_analyzer.name=目標分析儀
-tile.rftools.dialing_device.name=傳送控制器
-tile.rftools.digit_block.name=數碼器
-tile.rftools.dimensional_shard_ore.name=空間碎片礦石
-tile.rftools.elevator.name=電梯
-tile.rftools.ender_monitor.name=末影顯示器
-tile.rftools.endergenic.name=末影能發電機
-tile.rftools.environmental_controller.name=環境控制器
-tile.rftools.invchecker_block.name=物品檢查器
-tile.rftools.invisible_shield_block.name=隱形護盾方塊
-tile.rftools.item_filter.name=物品過濾器
-tile.rftools.level_emitter.name=等級發射器
-tile.rftools.liquid_monitor.name=流體顯示器
-tile.rftools.locator.name=定位器
-tile.rftools.logic_block.name=邏輯門
-tile.rftools.machine_base.name=機器基座
-tile.rftools.machine_frame.name=機器框架
-tile.rftools.machine_infuser.name=機器註能機
-tile.rftools.matter_beamer.name=物質投影儀
-tile.rftools.matter_booster.name=物質助推器
-tile.rftools.matter_receiver.name=物質接收器
-tile.rftools.matter_transmitter.name=物質傳輸器
-tile.rftools.modular_storage.name=模塊化存儲器
-tile.rftools.notick_camo_shield_block.name=迷彩護盾方塊
-tile.rftools.notick_invisible_shield_block.name=隱形護盾方塊
-tile.rftools.notick_solid_shield_block.name=護盾方塊
-tile.rftools.pearl_injector.name=末影珍珠填充器
-tile.rftools.powercell.name=能量單元
-tile.rftools.powercell_advanced.name=高級能量單元
-tile.rftools.powercell_creative.name=創造模式能量單元
-tile.rftools.powercell_simple.name=簡單能量單元
-tile.rftools.projector.name=映射儀
-tile.rftools.redstone_receiver_block.name=紅石信號接收器
-tile.rftools.redstone_transmitter_block.name=紅石信號發信器
-tile.rftools.relay.name=能量中繼器
-tile.rftools.remote_scanner.name=遠程掃描器
-tile.rftools.remote_storage.name=遠程存儲器
-tile.rftools.rf_monitor.name=RF顯示器
-tile.rftools.scanner.name=掃描器
-tile.rftools.screen.name=屏幕
-tile.rftools.screen_controller.name=屏幕控制器
-tile.rftools.screen_hitblock.name=屏幕
-tile.rftools.security_manager.name=權限管理器
-tile.rftools.sensor_block.name=傳感器
-tile.rftools.sequencer_block.name=音序器
-tile.rftools.shield_block1.name=護盾投射儀（一階）
-tile.rftools.shield_block2.name=護盾投射儀（二階）
-tile.rftools.shield_block3.name=護盾投射儀（三階）
-tile.rftools.shield_block4.name=護盾投射儀（四階）
-tile.rftools.shield_template_block.name=護盾支架
-tile.rftools.simple_dialer.name=簡易傳送控制器
-tile.rftools.solid_shield_block.name=護盾方塊
-tile.rftools.space_chamber.name=空間角落方塊
-tile.rftools.space_chamber_controller.name=空間控制方塊
-tile.rftools.spawner.name=刷怪籠
-tile.rftools.storage_scanner.name=存儲檢測器
-tile.rftools.storage_terminal.name=存儲終端
-tile.rftools.support_block.name=支撐塊
-tile.rftools.timer_block.name=定時器
-tile.rftools.wire_block.name=線纜
+
