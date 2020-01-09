@@ -7,6 +7,6 @@ tile.rftoolspower.cell2.name=能量單元（中）
 tile.rftoolspower.cell3.name=能量單元（高）
 tile.rftoolspower.information_screen.name=信息畫面
 
-itemGroup.RFToolsPower=RFTools 能量
+itemGroup.RFToolsPower=RF工具 能量
 
 message.shiftMessage=按住 Shift
