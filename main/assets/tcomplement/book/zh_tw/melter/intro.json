@@ -1,0 +1,11 @@
+{
+  "title": "冶煉爐",
+  "image": {
+    "file": "tcomplement:textures/gui/book/melter.png"
+  },
+  "text": [
+    {
+      "text": "冶煉爐是熔煉廠的較小版本，一次只能熔煉一種液體，並且無法製造合金。"
+    }
+  ]
+}
