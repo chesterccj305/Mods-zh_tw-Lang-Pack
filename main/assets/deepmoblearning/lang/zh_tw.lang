@@ -19,16 +19,18 @@ item.deepmoblearning.trial_key.name=§b測試密鑰§r
 item.deepmoblearning.glitch_heart.name=§b損壞的故障心臟§r
 item.deepmoblearning.glitch_fragment.name=§b不穩定故障碎片§r
 item.deepmoblearning.glitch_infused_ingot.name=§b故障灌註錠§r
+
 item.deepmoblearning.glitch_infused_helmet.name=§b故障灌註頭盔§r
 item.deepmoblearning.glitch_infused_chestplate.name=§b故障灌註胸甲§r
 item.deepmoblearning.glitch_infused_leggings.name=§b故障灌註護腿§r
 item.deepmoblearning.glitch_infused_boots.name=§b故障灌註靴子§r
 item.deepmoblearning.glitch_infused_sword.name=§b故障灌註劍§r
+
 #
 # Data models
 #
 item.deepmoblearning.data_model_blank.name=空白數據模型
-item.deepmoblearning.data_model_zombie.name=§b僵屍數據模型§r
+item.deepmoblearning.data_model_zombie.name=§b殭屍數據模型§r
 item.deepmoblearning.data_model_skeleton.name=§b骷髏數據模型§r
 item.deepmoblearning.data_model_blaze.name=§b烈焰使者數據模型§r
 item.deepmoblearning.data_model_enderman.name=§b終界使者數據模模型§r
@@ -56,10 +58,11 @@ item.deepmoblearning.living_matter_overworldian.name=主世界物質
 item.deepmoblearning.living_matter_hellish.name=地獄物質
 item.deepmoblearning.living_matter_extraterrestrial.name=終界物質
 item.deepmoblearning.living_matter_twilight.name=暮光物質
+
 #
 # Pristine
 #
-item.deepmoblearning.pristine_matter_zombie.name=原始僵屍物質
+item.deepmoblearning.pristine_matter_zombie.name=原始殭屍物質
 item.deepmoblearning.pristine_matter_skeleton.name=原始骷髏物質
 item.deepmoblearning.pristine_matter_blaze.name=原始烈焰使者物質
 item.deepmoblearning.pristine_matter_enderman.name=原始終界使者物質
@@ -80,10 +83,12 @@ item.deepmoblearning.pristine_matter_twilight_darkwood.name=原始暮光黑木�
 item.deepmoblearning.pristine_matter_twilight_glacier.name=原始暮光冰川物質
 item.deepmoblearning.pristine_matter_tinker_slime.name=原始藍色史萊姆物質
 item.deepmoblearning.pristine_matter_mo_android.name=原始 Rogue Android 物質
+
 #
 # Creative tab
 #
 itemGroup.deepmoblearning=深度怪物知識
+
 #
 # Tooltips etc
 #
@@ -99,17 +104,22 @@ deepmoblearning.trial_key.attuned_type=§r鑰匙調諧到：§7%s§r
 deepmoblearning.trial_key.tier=§r鑰匙等級：§7%s§r
 deepmoblearning.trial_key.affixes=§r詞綴：§7%s§r
 deepmoblearning.trial_key.affix_go_to_jei=§7閱讀更多關於指南中每個詞綴的信息§r
+
 deepmoblearning.trial_key.jei.type=§r鑰匙類型：§7%s§r
 deepmoblearning.trial_key.jei.tier=§r鑰匙等級：§7%s§r
+
 #
 # JEI
 #
 deepmoblearning.jei.category.trial_keystone.type=§b%s§r
 deepmoblearning.jei.category.trial_keystone.tier=§r%s§r
+
+
 #
 # GUI
 #
 deepmoblearning.holdshift=§7按下 §r§oShift§r§7 了解更多信息§r
+
 #
 # Entity
 #
@@ -118,5 +128,6 @@ entity.deepmoblearning.glitch_orb.name=苦難AI之珠
 entity.deepmoblearning.trial_enderman.name=測試型終界使者
 entity.deepmoblearning.trial_spider.name=測試型蜘蛛
 entity.deepmoblearning.trial_cave_spider.name=測試型洞穴蜘蛛
+
 # Dev only strings
 deepmoblearning.devonly.holdcontrol=§7按下 §r§oCtrl§r§7 查看開發數據§r
