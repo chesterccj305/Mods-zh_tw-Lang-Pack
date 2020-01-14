@@ -1,4 +1,4 @@
-#zh_CN
+#zh_tw
 
 info.thermalinnovation.drill.a.0=使用 RF 能源來挖掘礦物。
 info.thermalinnovation.drill.b.0=§e按下（%s）鍵來調整挖掘區域。 §r
@@ -45,7 +45,7 @@ info.thermalinnovation.saw.c.4=區域：5x5
 item.thermalinnovation.drill.creative.name=通量電鑽（創造）
 item.thermalinnovation.drill.standard0.name=通量電鑽（基礎）
 item.thermalinnovation.drill.standard1.name=通量電鑽（硬化）
-item.thermalinnovation.drill.standard2.name=通量電鑽 （強化）
+item.thermalinnovation.drill.standard2.name=通量電鑽（強化）
 item.thermalinnovation.drill.standard3.name=通量電鑽（信素）
 item.thermalinnovation.drill.standard4.name=通量電鑽（諧振）
 
@@ -81,11 +81,11 @@ item.thermalinnovation.quiver.standard4.name=煉金箭袋 (諧振)
 item.thermalinnovation.saw.creative.name=通量電鋸（創造）
 item.thermalinnovation.saw.standard0.name=通量電鋸（基礎）
 item.thermalinnovation.saw.standard1.name=通量電鋸（硬化）
-item.thermalinnovation.saw.standard2.name=通量電鋸 （強化）
+item.thermalinnovation.saw.standard2.name=通量電鋸（強化）
 item.thermalinnovation.saw.standard3.name=通量電鋸（信素）
 item.thermalinnovation.saw.standard4.name=通量電鋸（諧振）
 
-itemGroup.thermalinnovation.creativeTab=熱力改革
+itemGroup.thermalinnovation.creativeTab=熱力革新
 
-tab.thermalinnovation.magnet.filter.0=設置什麼物品可以被充能磁鐵吸引.
+tab.thermalinnovation.magnet.filter.0=設置什麼物品可以被充能磁鐵吸引
 tab.thermalinnovation.magnet.filter.1=很聰明啊?

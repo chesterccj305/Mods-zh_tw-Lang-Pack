@@ -62,20 +62,20 @@ item.magneticraft.chunks_galena.name=細塊方鉛礦
 item.magneticraft.chunks_osmium.name=細塊鋨礦
 item.magneticraft.chunks_nickel.name=細塊鎳礦
 
-item.magneticraft.rocky_chunks_iron.name=鐵礫巖
-item.magneticraft.rocky_chunks_gold.name=金礫巖
-item.magneticraft.rocky_chunks_copper.name=銅礫巖
-item.magneticraft.rocky_chunks_lead.name=鉛礫巖
-item.magneticraft.rocky_chunks_cobalt.name=鈷礫巖
-item.magneticraft.rocky_chunks_tungsten.name=鎢礫巖
-item.magneticraft.rocky_chunks_aluminium.name=鋁礫巖
-item.magneticraft.rocky_chunks_silver.name=銀礫巖
-item.magneticraft.rocky_chunks_mithril.name=秘銀礫巖
-item.magneticraft.rocky_chunks_tin.name=錫礫巖
-item.magneticraft.rocky_chunks_zinc.name=鋅礫巖
-item.magneticraft.rocky_chunks_galena.name=方鉛礫巖
-item.magneticraft.rocky_chunks_osmium.name=鋨礫巖
-item.magneticraft.rocky_chunks_nickel.name=鎳礫巖
+item.magneticraft.rocky_chunks_iron.name=鐵礫岩
+item.magneticraft.rocky_chunks_gold.name=金礫岩
+item.magneticraft.rocky_chunks_copper.name=銅礫岩
+item.magneticraft.rocky_chunks_lead.name=鉛礫岩
+item.magneticraft.rocky_chunks_cobalt.name=鈷礫岩
+item.magneticraft.rocky_chunks_tungsten.name=鎢礫岩
+item.magneticraft.rocky_chunks_aluminium.name=鋁礫岩
+item.magneticraft.rocky_chunks_silver.name=銀礫岩
+item.magneticraft.rocky_chunks_mithril.name=秘銀礫岩
+item.magneticraft.rocky_chunks_tin.name=錫礫岩
+item.magneticraft.rocky_chunks_zinc.name=鋅礫岩
+item.magneticraft.rocky_chunks_galena.name=方鉛礫岩
+item.magneticraft.rocky_chunks_osmium.name=鋨礫岩
+item.magneticraft.rocky_chunks_nickel.name=鎳礫岩
 
 item.magneticraft.dusts_iron.name=鐵粉
 item.magneticraft.dusts_gold.name=金粉
@@ -122,7 +122,31 @@ item.magneticraft.broken_gear_normal.name=壞掉的齒輪
 item.magneticraft.inserter_upgrade_speed.name=插入器升級：速度
 item.magneticraft.inserter_upgrade_stack.name=插入器升級：堆疊
 
-item.magneticraft.electric_drill_normal.name=電鉆
+gui.magneticraft.inserter.btn0=白名單
+gui.magneticraft.inserter.btn1=礦石詞典
+gui.magneticraft.inserter.btn2=元數據
+gui.magneticraft.inserter.btn3=NBT
+gui.magneticraft.inserter.btn4=在世界上掉落物品
+gui.magneticraft.inserter.btn5=在世界上搶奪物品
+
+gui.magneticraft.inserter.btn0_off=黑名單
+gui.magneticraft.inserter.btn1_off=礦石字典
+gui.magneticraft.inserter.btn2_off=元數據
+gui.magneticraft.inserter.btn3_off=NBT
+gui.magneticraft.inserter.btn4_off=在世界上掉落物品
+gui.magneticraft.inserter.btn5_off=在世界上搶奪物品
+
+gui.magneticraft.hydraulic_press.opt0=輕
+gui.magneticraft.hydraulic_press.opt1=中等
+gui.magneticraft.hydraulic_press.opt2=重
+
+gui.magneticraft.shelving_unit.opt0=頂級
+gui.magneticraft.shelving_unit.opt1=中級
+gui.magneticraft.shelving_unit.opt2=低級
+
+gui.magneticraft.config_gui.title=磁場工藝配置
+
+item.magneticraft.electric_drill_normal.name=電鑽
 item.magneticraft.electric_chainsaw_normal.name=電鋸
 item.magneticraft.electric_piston_normal.name=電動活塞
 
@@ -185,11 +209,11 @@ tile.magneticraft.airlock_normal.name=氣鎖
 tile.magneticraft.air_bubble_on.name=氣泡
 tile.magneticraft.air_bubble_off.name=氣泡
 tile.magneticraft.computer_north.name=電腦
-tile.magneticraft.mining_robot_north.name=采礦機器人
+tile.magneticraft.mining_robot_north.name=採礦機器人
 tile.magneticraft.moving_robot_normal.name=機器人
 tile.magneticraft.small_tank_normal.name=小型儲罐
 tile.magneticraft.thermopile_normal.name=溫差電堆
-tile.magneticraft.iron_pipe_normal.name=鐵制管道
+tile.magneticraft.iron_pipe_normal.name=鐵製制管道
 tile.magneticraft.wind_turbine_north.name=風力渦輪機
 tile.magneticraft.wind_turbine_gap.name=風力渦輪機
 tile.magneticraft.heat_sink_down.name=散熱片
@@ -213,7 +237,7 @@ tile.magneticraft.steam_engine_inactive_north.name=蒸汽機
 tile.magneticraft.solar_tower_inactive_north.name=太陽能塔
 tile.magneticraft.solar_mirror_inactive_north.name=太陽能反光鏡
 tile.magneticraft.container_inactive_north.name=集裝箱
-tile.magneticraft.pumpjack_inactive_north.name=石油鉆井
+tile.magneticraft.pumpjack_inactive_north.name=石油鑽井
 tile.magneticraft.hydraulic_press_inactive_north.name=液壓機
 tile.magneticraft.oil_heater_inactive_north.name=原油加熱器
 tile.magneticraft.refinery_inactive_north.name=煉油廠
@@ -279,7 +303,7 @@ text.magneticraft.jei.mining_level.-1=挖掘等級：全部
 text.magneticraft.jei.mining_level.0=挖掘等級：木頭
 text.magneticraft.jei.mining_level.1=挖掘等級：石頭
 text.magneticraft.jei.mining_level.2=挖掘等級：鐵
-text.magneticraft.jei.mining_level.3=挖掘等級：鉆石
+text.magneticraft.jei.mining_level.3=挖掘等級：鑽石
 text.magneticraft.jei.mining_level.4=挖掘等級：阿迪特
 text.magneticraft.jei.mining_level.other=挖掘等級：%s
 
@@ -302,6 +326,8 @@ text.magneticraft.shelving_unit_add_chests=增加箱子來擴大存儲空間
 # Item tooltips
 tooltip.magneticraft.item_storage.energy=%f/%fJ
 tooltip.magneticraft.multiblock.blueprint=放下這個藍圖，以便您查看多方塊結構的構成。
+
+tooltip.magneticraft.small_tank.line_0=持有%d mB的%s
 
 # Fluids
 fluid.magneticraft.steam=蒸汽

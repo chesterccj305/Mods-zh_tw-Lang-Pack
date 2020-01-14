@@ -150,7 +150,7 @@ item.FluxConfigurator.name=通量網絡控制器
 item.AdminConfigurator.name=OP通量網絡控制器
 
 //tool tips
-flux.item.flux.tooltip=通過把紅石丟火裏或巖漿裏得到
+flux.item.flux.tooltip=通過把紅石丟火裏或岩漿裏得到
 flux.item.fluxcontroller.tooltip=管理通量網絡
 flux.item.fluxplug.tooltip=向通量網絡中加入通量
 flux.item.fluxpoint.tooltip=從通量網絡中輸出通量

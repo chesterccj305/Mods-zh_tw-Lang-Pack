@@ -1,12 +1,14 @@
 # Item Group
-itemGroup.xencraft=Xencraft
+itemGroup.xencraft=霓虹工藝
+
 xencraft=XenCraft基礎
 xencraft.general=基本配置
 xencraft.general.ores_per_chunk=每個區塊的礦石生成
 xencraft.general.ores_size=礦石簇大小
 xencraft.general.ores_min_y=礦石生成最小 Y
 xencraft.general.ores_max_y=礦石生成最大 Y
-xencraft_client=XenCraft客戶端
+
+xencraft_client=霓虹工藝客戶端
 xencraft.general.xen_light_value=亮度值
 xencraft.colors=顏色
 xencraft.colors.white=白色
@@ -16,15 +18,16 @@ xencraft.colors.brown=棕色
 xencraft.colors.red=紅色
 xencraft.colors.orange=橙色
 xencraft.colors.yellow=黃色
-xencraft.colors.lime=綠黃色
+xencraft.colors.lime=淺綠色
 xencraft.colors.green=綠色
-xencraft.colors.teal=鴨綠色
+xencraft.colors.teal=藍綠色
 xencraft.colors.cyan=青色
-xencraft.colors.sky=天空
+xencraft.colors.sky=天藍色
 xencraft.colors.blue=藍色
 xencraft.colors.purple=紫色
-xencraft.colors.magenta=品紅色
-xencraft.colors.pink=粉色
+xencraft.colors.magenta=洋紅色
+xencraft.colors.pink=粉紅色
+
 # Blocks
 tile.xencraft.xen_ore.name=霓虹礦石
 tile.xencraft.xen_sapling.name=霓虹樹苗
@@ -32,6 +35,7 @@ tile.xencraft.xen_log.name=霓虹木頭
 tile.xencraft.xen_leaves.name=霓虹樹葉
 tile.xencraft.table.name=霓虹工作台
 tile.xencraft.xen_gem_block.name=霓虹寶石塊
+
 tile.xencraft.xenstone.name=霓虹石頭
 tile.xencraft.xen_block.name=霓虹方塊
 tile.xencraft.xen_bricks.name=霓虹磚塊
@@ -39,8 +43,11 @@ tile.xencraft.xen_small_bricks.name=霓虹小型磚塊
 tile.xencraft.xen_plate.name=霓虹板
 tile.xencraft.xen_tiles.name=霓虹瓷磚
 tile.xencraft.xen_small_tiles.name=霓虹小塊瓷磚
+tile.xencraft.xen_hex.name=霓虹網絡
+
 # Items
 item.xencraft.xen_gem.name=霓虹寶石
 item.xencraft.xen_ingot.name=霓虹錠
 item.xencraft.tablet.name=霓虹合成器
-tile.xencraft.xen_hex.name=霓虹網絡
+
+

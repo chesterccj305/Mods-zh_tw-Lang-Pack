@@ -1,3 +1,4 @@
-walljump.key.categories.walljump=蹬墻跳！
-walljump.key.walljump=蹬墻跳 / 攀墻
-walljump.message.remoteConfig=§c蹬墻跳由服務器管理員管理設置。
+walljump.key.categories.walljump=壁面跳！
+walljump.key.walljump=壁面跳 / 攀墻
+
+walljump.message.remoteConfig=§c壁面跳由服務器管理員管理設置。

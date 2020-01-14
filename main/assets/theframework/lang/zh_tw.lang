@@ -1,11 +1,17 @@
-#Config Lang
+#Key Bindings
+
 theframework.keybindings.category=集體框架
 theframework.keybindings.timeBack=時間快退
 theframework.keybindings.timeForward=時間快進
+
+#Config Lang
+theframework.lang.config.Development=開發
+theframework.lang.config.Development.tooltip=開發中的特性
 theframework.lang.config.Development.debugTooltips=Debug提示
 theframework.lang.config.Development.keyOverlay=按鍵疊加
-theframework.lang.config.Development.tooltip=開發中的特性
-theframework.lang.config.Development=開發
+
+theframework.lang.config.Misc=雜項
+theframework.lang.config.Misc.tooltip=雜項特性
 theframework.lang.config.Misc.applyColorPatch=顏色補丁
 theframework.lang.config.Misc.clickOnMainMenuOpen=主菜單點擊聲
 theframework.lang.config.Misc.disableRenderTextEvents=禁用文本呈現
@@ -13,13 +19,13 @@ theframework.lang.config.Misc.enableButtonTimeChanging=改變時間按鈕
 theframework.lang.config.Misc.enableCloudToButt=雲對接
 theframework.lang.config.Misc.restrictThreadUsage=限制線程
 theframework.lang.config.Misc.timeChangeRate=時間改變倍率
-theframework.lang.config.Misc.tooltip=雜項特性
-theframework.lang.config.Misc=雜項
+
+theframework.lang.config.Translation=翻譯
 theframework.lang.config.Translation.tooltip=翻譯選項
 theframework.lang.config.Translation.translateChat=翻譯聊天文字
 theframework.lang.config.Translation.translateItems=翻譯物品
 theframework.lang.config.Translation.yandexApiKey=Yandex API 密鑰
-theframework.lang.config.Translation=翻譯
-theframework.lang.config.Tweaks.commandBroadcastRelay=命令廣播中繼
-theframework.lang.config.Tweaks.tooltip=各種調整
+
 theframework.lang.config.Tweaks=調整
+theframework.lang.config.Tweaks.tooltip=各種調整
+theframework.lang.config.Tweaks.commandBroadcastRelay=命令廣播中繼

@@ -1,0 +1,57 @@
+{
+  "name": "戰利品",
+  "icon": "twilightforest:trophy_pedestal",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/trophies",
+  "sortnum": 2310,
+  "pages": [
+    {
+      "type": "text",
+      "text": "戰利品資訊"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_trophy_pedestal",
+      "text": "無資料"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:quest_ram",
+      "text": "這頭羊 — 感恩於這場餐宴 — 將贈予...牠的頭的複製品作為禮物。$(br)有時最好別太追究這種事。$(br)這個戰利品可擺設來展現你對於羊毛饗宴的欣賞, 甚至還能當成頭盔戴上, 這對於順利完成的任務來說, 真的是令人滿意的獎勵...大概吧。"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_naga",
+      "text": "無資料"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_lich",
+      "text": "無資料"
+    }, {
+      "type": "spotlight",
+      "title": "米諾菇戰利品",
+      "item": "twilightforest:trophy:6",
+      "advancement": "twilightforest:progress_labyrinth",
+      "text": "米諾菇的戰利品, 授予那些戰勝迷宮怪獸的人。$(br)雖然是鍍鐵的, 但這場用肌肉或腦力來對抗肌肉的激烈戰鬥仍然值得, 至少擊敗了哞菇牛頭人王。"
+    }, {
+      "type": "spotlight",
+      "title": "九頭蛇戰利品",
+      "item": "twilightforest:trophy:2",
+      "advancement": "twilightforest:progress_hydra",
+      "text": "九頭蛇其中一個頭造型的戰利品。$(br)就算砍下一顆頭只會長出更多的頭來, 但激烈的戰鬥所帶來的回報也證明了, 頭會再生的怪獸還是能被殺死的。$(br)當戰利品的下面懸空時, 似乎嘴巴還會張開。"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_knights",
+      "text": "無資料"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_ur_ghast",
+      "text": "無資料"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_yeti",
+      "text": "無資料"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_glacier",
+      "text": "無資料"
+    }
+  ]
+}

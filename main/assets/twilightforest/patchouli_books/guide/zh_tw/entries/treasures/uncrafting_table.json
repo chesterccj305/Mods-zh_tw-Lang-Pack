@@ -1,0 +1,15 @@
+{
+  "name": "暮光工作台",
+  "icon": "twilightforest:uncrafting_table",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/uncrafting_table",
+  "sortnum": 2100,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "暮光工作台",
+      "item": "twilightforest:uncrafting_table",
+      "text": "反合成"
+    }
+  ]
+}

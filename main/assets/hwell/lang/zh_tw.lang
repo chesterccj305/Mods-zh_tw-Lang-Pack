@@ -25,7 +25,7 @@ item.hwell.obsidian_displacer.name=黑曜石破壞器
 item.hwell.empowered_displacer.name=加強破壞器
 item.hwell.grinding_wheel_flint.name=燧石砂輪
 item.hwell.grinding_wheel_iron.name=鐵砂輪
-item.hwell.grinding_wheel_diamond.name=鉆石砂輪
+item.hwell.grinding_wheel_diamond.name=鑽石砂輪
 item.hwell.grinding_wheel_crystal.name=神秘水晶砂輪
 item.hwell.grinding_wheel_crystal_nether.name=地獄水晶砂輪
 item.hwell.myst_dust_picker_fe.name=水晶碎片篩選杖
@@ -50,18 +50,18 @@ item.hwell.hamburger.name=漢堡肉
 item.hwell.hamburger_cooked.name=熟漢堡肉
 item.hwell.branch.name=破壞之樹樹枝
 
-item.hwell.metaldiamond.name=鉆石金屬鋼錠
+item.hwell.metaldiamond.name=鑽石金屬鋼錠
 item.hwell.raw_soulsteel.name=未燒制的靈魂鋼錠
 item.hwell.soulsteel_ingot.name=靈魂鋼錠
 item.hwell.asul_ingot.name=Asul合金錠
 item.hwell.asul_nugget.name=一小撮Asul合金粉
 item.hwell.soul_dust.name=靈魂粉
-item.hwell.raw_repairing_paste.name=未燒制的修覆膏
-item.hwell.repairing_paste.name=修覆膏
+item.hwell.raw_repairing_paste.name=未燒制的修複膏
+item.hwell.repairing_paste.name=修複膏
 item.hwell.seed_of_life.name=生命之種
 item.hwell.seed_of_the_nether.name=地獄之種
-item.hwell.seed_of_the_end.name=末地之種
-item.hwell.wheat_flour.name=面粉
+item.hwell.seed_of_the_end.name=終界之種
+item.hwell.wheat_flour.name=麵粉
 
 item.hwell.raw_mystic_iron.name=未燒制的神秘鐵錠
 item.hwell.mystic_iron_ingot.name=神秘鐵錠
@@ -86,32 +86,32 @@ item.hwell.soulsteel_legs.name=靈魂鋼護腿
 item.hwell.soulsteel_boots.name=靈魂鋼靴
 
 item.hwell.loot_base.name=基礎戰利品球
-item.hwell.loot_blaze.name=烈焰人戰利品球
+item.hwell.loot_blaze.name=烈焰使者戰利品球
 item.hwell.loot_creeper.name=苦力怕戰利品球
-item.hwell.loot_enderman.name=末影人戰利品球
-item.hwell.loot_ghast.name=惡魂戰利品球
-item.hwell.loot_shulker.name=潛影貝戰利品球
+item.hwell.loot_enderman.name=終界使者戰利品球
+item.hwell.loot_ghast.name=地獄幽靈戰利品球
+item.hwell.loot_shulker.name=界伏蚌戰利品球
 item.hwell.loot_spider.name=蜘蛛戰利品球
 item.hwell.loot_skeleton.name=骷髏戰利品球
 item.hwell.loot_slime.name=史萊姆戰利品球
 item.hwell.loot_witch.name=女巫戰利品球
-item.hwell.loot_wither.name=雕零骷髏戰利品球
-item.hwell.loot_zombie.name=僵屍戰利品球
-item.hwell.loot_guardian.name=守衛者戰利品球
+item.hwell.loot_wither.name=凋零骷髏戰利品球
+item.hwell.loot_zombie.name=殭屍戰利品球
+item.hwell.loot_guardian.name=深海守衛戰利品球
 
 item.hwell.mutation_paste.name=突變物質
 
-item.hwell.empty.name=Nothing
+item.hwell.empty.name=無
 
 tile.hwell.mutation_paste_block.name=突變物質塊
 
 tile.hwell.producer.name=戰利品球生成機
 tile.hwell.nourisher.name=催生機
 tile.hwell.puller.name=神秘礦石抽取機
-tile.hwell.boxer.name=方塊覆制機
+tile.hwell.boxer.name=方塊複製機
 
 tile.hwell.quartz_ore.name=石英礦石
-tile.hwell.glowstone_ore.name=熒石礦石
+tile.hwell.glowstone_ore.name=螢石礦石
 
 tile.hwell.heavy_block.name=混合金屬塊
 tile.hwell.crystal_block.name=水晶塊
@@ -124,24 +124,24 @@ tile.hwell.dust_block.name=石粉塊
 tile.hwell.myst_log.name=神秘樹原木
 tile.hwell.myst_planks.name=神秘木板
 tile.hwell.myst_leaves.name=神秘樹樹葉
-tile.hwell.myst_planks_slab.name=神秘木板台階
+tile.hwell.myst_planks_slab.name=神秘木板半磚
 tile.hwell.myst_planks_stairs.name=神秘木樓梯
 
 tile.hwell.asul_machine_case.name=Asul機器框架
 
-tile.hwell.moonstone_slab.name=月光石台階
+tile.hwell.moonstone_slab.name=月光石半磚
 tile.hwell.moonstone_stairs.name=月光石樓梯
-tile.hwell.onyx_slab.name=黑瑪瑙石台階
+tile.hwell.onyx_slab.name=黑瑪瑙石半磚
 tile.hwell.onyx_stairs.name=黑瑪瑙石樓梯
-tile.hwell.smooth_onyx_slab.name=平滑黑瑪瑙石台階
+tile.hwell.smooth_onyx_slab.name=平滑黑瑪瑙石半磚
 tile.hwell.smooth_onyx_stairs.name=平滑黑瑪瑙石樓梯
-tile.hwell.azurite_slab.name=風化的石青台階
+tile.hwell.azurite_slab.name=風化的石青半磚
 tile.hwell.azurite_stairs.name=風化的石青樓梯
-tile.hwell.smooth_azurite_slab.name=平滑石青台階
-tile.hwell.smooth_azurite_stairs.name=平滑石青台階
-tile.hwell.citrinic_stone_slab.name=微鹹石台階
+tile.hwell.smooth_azurite_slab.name=平滑石青半磚
+tile.hwell.smooth_azurite_stairs.name=平滑石青半磚
+tile.hwell.citrinic_stone_slab.name=微鹹石半磚
 tile.hwell.citrinic_stone_stairs.name=微鹹石樓梯
-tile.hwell.citrinic_sand_slab.name=白色微鹹石台階
+tile.hwell.citrinic_sand_slab.name=白色微鹹石半磚
 tile.hwell.citrinic_sand_stairs.name=白色微鹹石樓梯
 
 tile.hwell.moonstone_bricks.name=月光石磚
@@ -152,30 +152,30 @@ tile.hwell.citrinic_stone_bricks.name=微鹹石磚
 tile.hwell.citrinic_sand_bricks.name=白色微鹹石磚
 tile.hwell.smooth_azurite_bricks.name=平滑石青磚
 
-tile.hwell.moonstone_bricks_slab.name=月光石磚台階
+tile.hwell.moonstone_bricks_slab.name=月光石磚半磚
 tile.hwell.moonstone_bricks_stairs.name=月光石磚樓梯
-tile.hwell.onyx_bricks_slab.name=黑瑪瑙石磚台階
+tile.hwell.onyx_bricks_slab.name=黑瑪瑙石磚半磚
 tile.hwell.onyx_bricks_stairs.name=黑瑪瑙石磚樓梯
-tile.hwell.smooth_onyx_bricks_slab.name=平滑黑瑪瑙石磚台階
+tile.hwell.smooth_onyx_bricks_slab.name=平滑黑瑪瑙石磚半磚
 tile.hwell.smooth_onyx_bricks_stairs.name=平滑黑瑪瑙石磚樓梯
-tile.hwell.azurite_bricks_slab.name=風化的石青磚台階
+tile.hwell.azurite_bricks_slab.name=風化的石青磚半磚
 tile.hwell.azurite_bricks_stairs.name=風化的石青磚樓梯
-tile.hwell.smooth_azurite_bricks_slab.name=平滑石青磚台階
+tile.hwell.smooth_azurite_bricks_slab.name=平滑石青磚半磚
 tile.hwell.smooth_azurite_bricks_stairs.name=平滑石青磚樓梯
-tile.hwell.citrinic_stone_bricks_slab.name=微鹹石磚台階
+tile.hwell.citrinic_stone_bricks_slab.name=微鹹石磚半磚
 tile.hwell.citrinic_stone_bricks_stairs.name=微鹹石磚樓梯
-tile.hwell.citrinic_sand_bricks_slab.name=白色微鹹石磚台階
+tile.hwell.citrinic_sand_bricks_slab.name=白色微鹹石磚半磚
 tile.hwell.citrinic_sand_bricks_stairs.name=白色微鹹石磚樓梯
 
 tile.hwell.burst_seed_dirt.name=爆裂的泥土種子
 tile.hwell.burst_seed_stone.name=爆裂的石頭種子
 tile.hwell.burst_seed_sand.name=爆裂的沙種子
 tile.hwell.burst_seed_snow.name=爆裂的雪種子
-tile.hwell.burst_seed_netherrack.name=爆裂的地獄巖種子
+tile.hwell.burst_seed_netherrack.name=爆裂的地獄岩種子
 tile.hwell.burst_seed_quartz.name=爆裂的石英種子
 tile.hwell.burst_seed_prismarine.name=爆裂的海晶石種子
-tile.hwell.burst_seed_cobblestone.name=爆裂的圓石種子
-tile.hwell.burst_seed_endstone.name=爆裂的末地石種子
+tile.hwell.burst_seed_cobblestone.name=爆裂的鵝卵石種子
+tile.hwell.burst_seed_endstone.name=爆裂的終界石種子
 tile.hwell.burst_seed_gravel.name=爆裂的砂礫種子
 tile.hwell.burst_seed_crystal.name=爆裂的神秘水晶種子
 
@@ -187,15 +187,15 @@ tile.hwell.stabiliser_light.name=輕型核心穩定器
 tile.hwell.stabiliser.name=中型核心穩定器
 tile.hwell.stabiliser_heavy.name=重型核心穩定器
 
-tile.hwell.compressed_clay.name=壓縮粘土
+tile.hwell.compressed_clay.name=壓縮黏土
 tile.hwell.compressed_wool.name=壓縮羊毛
 tile.hwell.skin_block.name=皮革方塊
 tile.hwell.plumage_block.name=羽毛塊
 tile.hwell.fertilizer_block.name=肥料塊
-tile.hwell.weeping_block.name=惡魂之淚塊
+tile.hwell.weeping_block.name=幽靈之淚塊
 tile.hwell.meat_block.name=肉塊
 tile.hwell.ink_block.name=墨囊塊
-tile.hwell.pearl_block.name=末影珍珠塊
+tile.hwell.pearl_block.name=終界珍珠塊
 
 tile.hwell.moonstone.name=月光石
 tile.hwell.onyx.name=黑瑪瑙塊
@@ -219,7 +219,7 @@ tile.hwell.furnace_tube.name=聚焦管
 tile.hwell.heat_furnace.name=高溫熔爐
 tile.hwell.precision_grinder_flint.name=精密磨床 (燧石砂輪)
 tile.hwell.precision_grinder_iron.name=精密磨床 (鐵砂輪)
-tile.hwell.precision_grinder_diamond.name=精密磨床 (鉆石砂輪)
+tile.hwell.precision_grinder_diamond.name=精密磨床 (鑽石砂輪)
 tile.hwell.precision_grinder_crystal.name=精密磨床 (神秘水晶砂輪)
 tile.hwell.precision_grinder_crystal_nether.name=精密磨床 (地獄水晶砂輪)
 tile.hwell.precision_grinder_empty.name=精密磨床
@@ -238,16 +238,16 @@ tile.hwell.mutator.name=突變物質機
 
 tile.hwell.inert_seed.name=惰性種子
 
-tile.hwell.core_stone.name=圓石轉化核心
+tile.hwell.core_stone.name=鵝卵石轉化核心
 tile.hwell.core_anima.name=靈氣轉化核心
 tile.hwell.core_heat.name=高溫轉化核心
-tile.hwell.core_green.name=翡翠轉化核心
+tile.hwell.core_green.name=綠寶石轉化核心
 tile.hwell.core_sentient.name=洞察轉化核心
 
-tile.hwell.graft_stone.name=巖石連鎖核心
+tile.hwell.graft_stone.name=岩石連鎖核心
 tile.hwell.graft_anima.name=靈氣連鎖核心
 tile.hwell.graft_heat.name=高溫連鎖核心
-tile.hwell.graft_green.name=翡翠連鎖核心
+tile.hwell.graft_green.name=綠寶石連鎖核心
 tile.hwell.graft_sentient.name=洞察連鎖核心
 
 tile.hwell.branch.name=破壞之樹樹枝
@@ -261,14 +261,14 @@ tile.hwell.scorch_glass.name=焦化玻璃
 tile.hwell.gaseous_glass.name=氣態玻璃
 tile.hwell.gaseous_sand.name=氣態沙子
 tile.hwell.gaseous_frame.name=氣態框架
-tile.hwell.metaldiamond_block.name=鉆石金屬鋼錠
+tile.hwell.metaldiamond_block.name=鑽石金屬鋼錠
 
 tile.hwell.grit_vase.name=黑瑪瑙樹盆
 
-tile.hwell.totem_zombie.name=僵屍圖騰
+tile.hwell.totem_zombie.name=殭屍圖騰
 tile.hwell.totem_creeper.name=苦力怕圖騰
 tile.hwell.totem_skeleton.name=骷髏圖騰
-tile.hwell.totem_enderman.name=末影人圖騰
+tile.hwell.totem_enderman.name=終界使者圖騰
 
 tile.fluid_liquid_souls=液態靈魂
 tile.hwell.fluid_liquid_souls=液態靈魂
@@ -282,4 +282,4 @@ fluid.hwell.liquid_souls.name=液態靈魂
 Liquid Souls.name=液態靈魂
 hwell.Liquid Souls.name=液態靈魂
 
-itemGroup.hwell=Hearth Well
+itemGroup.hwell=安土重遷

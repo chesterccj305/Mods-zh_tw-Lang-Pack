@@ -1,0 +1,7 @@
+{
+  "parent": "twilightforest:world",
+  "name": "生態域",
+  "description": "遠在天邊的地方！",
+  "icon": "twilightforest:magic_map",
+  "sortnum": 0
+}

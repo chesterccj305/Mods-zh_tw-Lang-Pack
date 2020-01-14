@@ -1,0 +1,18 @@
+{
+  "name": "鎖定的消失方塊",
+  "icon": "twilightforest:tower_device:4",
+  "category": "devices",
+  "advancement": "twilightforest:alt/treasures/carminite",
+  "sortnum": 6220,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "鎖定的消失方塊",
+      "item": "twilightforest:tower_device:4",
+      "text": "這個東西有點不對勁。$(br)不管我怎麼做, 它都完全沒反應, 就連旁邊連接的消失方塊也一樣。$(br)我注意到這個方塊的中間有個奇怪的形狀, 或許這個需要某種鑰匙？"
+    }, {
+      "type": "text",
+      "text": "原來這些方塊就像門鎖一樣, 要用塔鑰匙才能將其解鎖。解鎖後就能使旁邊的消失方塊在互動後消失, 同時連帶讓這個方塊也一併消失。"
+    }
+  ]
+}
