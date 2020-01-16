@@ -1,58 +1,115 @@
-item.thaumictinkerer:black_quartz.name=煙黑石英
-item.thaumictinkerer:cleaning_talisman.0=妙壽安的禮物
-item.thaumictinkerer:cleaning_talisman.name=防身護身符
-item.thaumictinkerer:connector.name=矢量變換綁定器
-item.thaumictinkerer:energetic_nitor.name=超能閃耀之光
-item.thaumictinkerer:form_revealer.name=多方塊結構映射器
-item.thaumictinkerer:share_book.0=金魚的日記
-item.thaumictinkerer:share_book.name=知識共享之書
-itemGroup.thaumictinkerer=神秘工匠
-tc.research_category.THAUMIC_TINKERER=工匠學
-thaumictinkerer.config.talisman=啟用防身護身符
-thaumictinkerer.config.title=神秘工匠配置
-thaumictinkerer.research.black_quartz.0=煙黑石英肖似普通的石英，但性狀相反。石英為材料的方塊都能用煙黑石英做，但是看起來是黑色的。<BR><BR>煙黑使用可以用煤炭或者木炭以及普通下界石英制成。
-thaumictinkerer.research.black_quartz.lore=暗影之日
-thaumictinkerer.research.black_quartz.title=煙黑石英
-thaumictinkerer.research.cleaning_talisman.0=在研究生命以及肉體時，你發現可以利用魔力轉移來自外界的傷害效果。這個護身符將為佩戴者抵擋大多數類型的傷害，但這會消耗它的耐久。<BR><BR>按住Shift右擊啟用/禁用護符效果。另外，只有護符裝備在飾品欄並啟用時才起效。
-thaumictinkerer.research.cleaning_talisman.lore=妙壽安的禮物
-thaumictinkerer.research.cleaning_talisman.title=防身護身符
-thaumictinkerer.research.funnel.0=你對用安瓿來倒騰罐子裏的要素煩透了，因此你最終制造出一種新設備，能夠將罐子裏的源質轉移到其他罐子中。<BR><BR>將此方塊置於漏鬥上方，用含有要素的罐子右擊，如果漏鬥對接的是一個空罐子或者裝有相同要素的未滿罐子，那麽你手持罐子中的要素會向其轉移。
-thaumictinkerer.research.funnel.lore=縱已轉移
-thaumictinkerer.research.funnel.title=源質漏鬥
-thaumictinkerer.research.share_tome.0=假如有朝一日，你想要將你所研究的知識分享給其他人，那麽這本書將正合你用。<BR><BR>通過右擊本書，並交給其他人閱讀,他們便能學會迄今為止你所研究出的一切知識。<BR><BR>（註意：如若右側未曾顯示合成表，則說明當前合成方法禁用，此時該物品僅在創造模式下有效。）
-thaumictinkerer.research.share_tome.lore=金魚的日記
-thaumictinkerer.research.share_tome.title=知識共享之書
-thaumictinkerer.research.transvector_interface.0=“事實就是，1個方塊只有6個面…”——Direwolf20如是說。<BR><BR>神秘等於化不可能為可能！你最新制作的這台設備能夠與附近的方塊綁定，之後它的面會變成你選中的方塊的面的樣子，並且你能夠用這個面與選中的方塊互動。它能夠作為能量（BuildCraft（建築）與IC2（工業時代2）的能量）輸入接口以及物品，源質，流體的輸入輸出接口。<BR>為了將接口與其他方塊綁定，你需要制作一個被稱作矢量變換接口綁定器的特殊工具。<BR><BR>右擊目標方塊之後右擊接口就能完成綁定操作（註意：建築模組的管道需要在綁定後拆掉再裝才能有效），也可以手持另一個方塊右擊將其偽裝成那個方塊。要移除偽裝，只需要再次用空手右擊即可。
-thaumictinkerer.research.transvector_interface.title=矢量變換接口
-tile.thaumictinkerer:black_quartz_block.name=煙黑石英塊
-tile.thaumictinkerer:dissimulation.name=偽裝方塊
-tile.thaumictinkerer:enchantment_pillar.name=蘊魔柱
-tile.thaumictinkerer:example.name=鏡像方塊
-tile.thaumictinkerer:funnel.0=縱已轉移
-tile.thaumictinkerer:funnel.name=源質漏鬥
-tile.thaumictinkerer:magnet.name=奧術磁鐵
-tile.thaumictinkerer:mob_magnet.name=奧術生物磁鐵
-tile.thaumictinkerer:osmotic_enchanter.name=滲透附魔台
-tile.thaumictinkerer:repairer.name=奧法修覆台
-tile.thaumictinkerer:transvector_interface.name=矢量變換接口
-ttmisc.cleaning_talisman.active=啟用護身符
-ttmisc.cleaning_talisman.inactive=禁用護身符
-ttmisc.connector.clear=你已解除對原矢量變換接口的綁定。
-ttmisc.connector.complete=綁定完成！
-ttmisc.connector.dislfail=無法將矢量變換接口綁定到另一個上去。
-ttmisc.connector.interffail=不能將矢量變換接口綁定到矢量變換接口上去。
-ttmisc.connector.notinterf=並非矢量變換接口。
-ttmisc.connector.notpresent=該矢量變換接口已經不存在了。
-ttmisc.connector.set=位置已設置！
-ttmisc.connector.toofar=原來的矢量變換接口太遠了。
-ttmisc.mobmagnet.adult=成年
-ttmisc.mobmagnet.all=全部
-ttmisc.mobmagnet.child=幼年
-ttmisc.mobmagnet.none=無
-ttmisc.shareTome.clear=研究已清除。
-ttmisc.shareTome.noAssign=未分配
-ttmisc.shareTome.playerName=綁定到%s的研究上。
-ttmisc.shareTome.sync=已獲得研究。
-ttmisc.shareTome.write=研究已寫入！
-ttmisc.soulMould.nonAssigned=無模板
-ttmisc.soulMould.pattern=目前模板：%s
+tile.darkQuartzBlock.name=煙晶方塊
+tile.darkQuartzPatterned.pillar.name=柱狀煙晶
+tile.darkQuartzPatterned.chisel.name=浮雕煙晶方塊
+tile.funnel.name=源質漏斗
+tile.funnel.name=源質漏斗
+tile.boundJar.name=綁定罐
+tile.unstableIce.name=冰
+tile.summoner.name=死靈碑
+
+
+
+tc.research_category.TT_CATEGORY=秘術擴充
+
+itemGroup.ThaumicTinkerer=秘術工匠
+# WAILA
+ttwaila.boundJar.network=網路：%s
+ttwaila.boundJar.colour=顏色：%s
+
+
+# ITEM NAMES
+item.darkQuartzItem.name=煙晶
+item.jarSeal.name=封罐印
+item.stabilizerBelt.name=穩定腰帶
+item.enderDisruption.name=終界干擾器
+item.foodTalisman.name=營養護符
+item.mobAspect.name=生物要素
+item.mobAspect.condensed.name=凝結生物要素
+item.mobAspect.infused.name=灌注生物要素
+item.bootsComet.name=彗星之靴
+item.bloodSword.name=咒魂之刃
+item.cleansingTalisman.name=替身護符
+
+##Item Details
+ttitems.boundJar.networkInfo=網路ID：%s
+ttitems.boundJar.noNetworkInfo=無網路
+ttitems.boundJar.nonEmptyJar=Essentia Jar must be empty.
+ttitems.foodTalisman.tooltip=目前分配%s食物點和%s飽食度
+ttitems.mobAspects.aspect.info=要素：%s
+ttitems.mobaspects.condensed=凝結
+ttitems.mobaspects.infused=灌注
+ttitems.cleansingTalisman.enabled=啟用
+ttitems.cleansingTalisman.disabled=關閉
+ttitems.bloodsword.activated=在怪物精華模式下
+ttitems.bloodsword.deactivated=在普通模式下
+ttitems.bloodsword.sneakhelp=按下sneak +右鍵單擊以更改模式
+
+
+#CONFIG COMMENTS
+ttconfig.general=通用設定
+ttconfig.back=返回
+ttconfig.tooltip.name=使用工具提醒指示
+ttconfig.tooltip.comment=設為false以停用魔導手冊中的[秘術工匠]工具提醒
+
+
+
+#RESEARCH
+ttresearch.prefix=[秘術工匠]
+
+#STABILIZER BELT
+ttresearch.name.STABILIZER_BELT=穩定腰帶
+ttresearch.lore.STABILIZER_BELT=擊退？但我喜歡這裡
+ttresearch.page.STABILIZER_BELT.0=基於類似奧術腰帶的技術，你製作出了一條可以抵銷擊退的特殊腰帶。<BR><BR>當你受到傷害時會留在原地，而不會被擊退。你發現這項裝備不只在飛行時，就連夜遊時也非常實用。
+
+#ENDER_DISRUPTER
+ttresearch.name.ENDER_DISRUPTER=終界干擾器
+ttresearch.lore.ENDER_DISRUPTER=別在打鬥時跳來跳去！
+ttresearch.page.ENDER_DISRUPTER.0=在小心地研究中介珍珠後，你發現了終界使者的傳送原理，以及更重要的是如何阻止它。<BR><BR>當你對一個終界珍珠注入污染，污染會干涉終界使者用以傳送的世界維度邊緣，使之關閉。 你推斷當你穿上這個護符便能阻止它們在你周圍傳送。<BR><BR>控制污染並將之散播至世界維度邊緣對你身上的護符造成相當大的壓力，它終將分崩離析。
+
+#COMET_BOOTS
+ttresearch.name.COMET_BOOTS=彗星之靴
+ttresearch.lore.COMET_BOOTS=Ice Ice Baby
+ttresearch.page.COMET_BOOTS.0=旅人之靴非常迅速，但你認為依然有改進的空間。透過在旅人之靴中注入Aqua和Gelum，你造出一雙神速的跑靴。<BR><BR>這雙跑靴能使其使用者疾如彗星，橫越大地只需數秒。川湖與汪洋絲毫無法阻撓你的腳步。當你穿著彗星之靴，你腳下的水面會暫時被凍成冰塊。
+
+#FOOD_TALISMAN
+ttresearch.name.FOOD_TALISMAN=營養護符
+ttresearch.lore.FOOD_TALISMAN=恆久滿腹
+ttresearch.page.FOOD_TALISMAN.0=你發現你經常需要在馬拉松式的研究會議中停下來滿足你的空腹。最後你找到了一個方法能克服你對食物的需求。<BR><BR>透過在鑽石中注入飢餓要素，你做出了可吸收快捷欄中食物，並儲存成能量的物件。當你飽食度耗盡時將能自動為你補充。<BR><BR>這項裝置只有普通食物的效果，所以當物品欄中有金蘋果或腐肉時也會很普通地被消耗掉。
+
+#BLOOD_SWORD
+ttresearch.name.BLOOD_SWORD=咒魂之刃
+ttresearch.lore.BLOOD_SWORD=不愉快啊。
+ttresearch.page.BLOOD_SWORD.0=你造出了一把威力拔群的劍。然而這是有條件的，這把劍吞噬使用者的血液。<BR><BR>無論擊中任何目標，攻擊者都會損失一格心的生命。而無論原本會承受多少傷害，以這把劍格擋都只會被扣1.5格生命。<BR><BR>此外，只要手持這把劍就會受一股靈氣壟罩，加快其行動速度。
+# METEOR_BOOTS
+--Boots of the Meteor
+ttresearch.name.METEOR_BOOTS=流星之靴
+ttresearch.lore.METEOR_BOOTS=快來大滿貫
+ttresearch.page.METEOR_BOOTS.0=你的旅人之靴向來實用，但有時你需要的是更高的靈活度。透過在旅人之靴中注入純粹的Ignis和Potentia能量，你造出一雙神速的跑靴。<BR><BR>這雙靴子在衝向地面時賦予你流星降下的強大推力。在半空中按下潛行鍵你將以難以置信的速度落下，並破壞周圍的一切。
+
+# CLEANSING_TALISMAN
+ttresearch.name.CLEANSING_TALISMAN=替身護符
+ttresearch.lore.CLEANSING_TALISMAN=三越的禮物
+ttresearch.page.CLEANSING_TALISMAN.0=居於在你在生命與肉體的研究，你找到能夠將身上受到的負面影響轉由結構來承受的術式。這顆護符能消除使用者身上的負面狀態，透過將其影響轉為對自身的傷害。它會透過消耗大量耐久度來移除扭曲造成的效果。<BR><BR>以「shift右鍵」來啟用或關閉它的效果。當然，只有啟用時會有作用。必須穿在護符欄位才會發揮其效果。
+
+
+# DARK_QUARTZ
+ttresearch.name.DARK_QUARTZ=煙晶
+ttresearch.lore.DARK_QUARTZ=一天的影子
+ttresearch.page.DARK_QUARTZ.0=煙晶相當於石英，但性質偏陰。所有石英方塊都能以煙晶製造，但其做出的煙晶方塊是黑的。<BR><BR>煙晶能透過利用煤炭或木炭染黑地獄石英來製成。
+
+
+# JAR_SEAL
+ttresearch.name.JAR_SEAL=封罐綁定印
+ttresearch.lore.JAR_SEAL=源質，到處都是源質
+ttresearch.page.JAR_SEAL.0=透過以源質浸泡肉脂來調整其魔法結構，你找到讓源質容器互相綁定的方法，單純針對封罐。封罐印可以染色，並能創建出無限的網路。<BR><BR>以封罐綁定印右鍵封罐能創造一個新網路，而右鍵一個綁定罐可以將之連上該網路。
+ttresearch.page.JAR_SEAL.1=以綁定的封罐印右鍵一個未綁定的罐子可將之加入該網路。注意：只有空罐能被綁定，你無法綁定虛空罐或是貼了標籤的罐子。<BR><BR>綁定罐的吸力高於普通封罐，但低於貼了標籤的罐子。
+ttresearch.page.JAR_SEAL.2=你能以染料將封罐印染成任意顏色。你也能透過以鐵砧命名它來為網路命名。
+
+# MOB_SUMMON
+ttresearch.name.MOB_SUMMON=怪物召喚
+ttresearch.lore.MOB_SUMMON=幾乎是巫術
+ttresearch.page.MOB_SUMMON.0=您可以使用從詛咒之靈戰刃中獲得的靈魂來召喚生物。 將三塊基座放在一堆死靈板上。 在基座上，放置三個靈魂方面。 不同類型的靈魂方面會產生不同類型的生物。 每個怪物都有不同的組成。
+ttresearch.page.MOB_SUMMON.1=通過創建“融合靈魂方面”，您無需消耗靈魂方面即可召喚生物。 使用“注入的靈魂方面”進行召喚要比正常情況下慢得多。
+
+#版本3.0-1.8.9-170未出現
+item.bootsMeteor.name=流星之靴
