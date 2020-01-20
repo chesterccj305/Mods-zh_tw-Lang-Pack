@@ -10,6 +10,16 @@ item.tcomplement.materials.stone_bucket.tooltip=並不能像鐵桶一樣使用�
 item.tcomplement.cast.bucket.name=桶鑄模
 item.tcomplement.cast_clay.bucket.name=桶黏土鑄模
 
+item.tcomplement.edibles.milk_chocolate_ingot.name=巧克力牛奶錠
+item.tcomplement.edibles.milk_chocolate_nugget.name=巧克力牛奶粒
+item.tcomplement.edibles.dark_chocolate_ingot.name=黑巧克力錠
+item.tcomplement.edibles.dark_chocolate_nugget.name=黑巧克力粒
+item.tcomplement.edibles.cocoa_butter.name=可可脂
+
+fluid.tcomplement.chocolate_liquor=液狀巧克力
+fluid.tcomplement.milk_chocolate=巧克力牛奶
+fluid.tcomplement.dark_chocolate=黑巧克力
+
 
 ################
 #    Melter    #
