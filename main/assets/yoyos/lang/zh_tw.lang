@@ -7,7 +7,7 @@ item.yoyos.diamond_yoyo.name=鑽石質溜溜球
 item.yoyos.gold_yoyo.name=金質溜溜球
 item.yoyos.shear_yoyo.name=裁剪溜溜球
 item.yoyos.hoe_yoyo.name=農作溜溜球
-item.yoyos.sticky_yoyo.name=粘性溜溜球
+item.yoyos.sticky_yoyo.name=黏性溜溜球
 item.yoyos.creative_yoyo.name=彩虹溜溜球
 
 item.yoyos.mana_cord.name=蘊魔絲線捆繩
@@ -24,7 +24,7 @@ entity.yoyo.chase.subtitle=溜溜球：口哨
 enchantment.yoyos.collecting=收集
 enchantment.yoyos.collecting.desc=此效果允許讓溜溜球吸收周圍物品。
 
-yoyos.config.vanilla=原版溜溜球
+yoyos.config.vanilla=溜溜球
 yoyos.config.enable=啟用
 yoyos.config.tinkers=匠魂溜溜球
 yoyos.config.swing=溜溜球擺動
