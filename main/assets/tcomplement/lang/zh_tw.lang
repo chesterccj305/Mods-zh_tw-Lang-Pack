@@ -15,12 +15,12 @@ item.tcomplement.cast_clay.bucket.name=桶黏土鑄模
 #    Melter    #
 ################
 
-tile.tcomplement.melter.melter.name=微縮焦黑熔爐
+tile.tcomplement.melter.melter.name=微縮黑焦熔爐
 tile.tcomplement.melter.melter.tooltip=微縮版本的匠魂冶煉爐。 \n能夠熔化金屬，但是沒辦法給礦石翻倍和製作合金。
-tile.tcomplement.melter.heater.name=焦黑熔爐加熱器
+tile.tcomplement.melter.heater.name=黑焦熔爐加熱器
 tile.tcomplement.melter.heater.tooltip=可以使用固體燃料的加熱器，但溫度較為有限。
 tile.tcomplement.alloy_tank.name=合金儲罐
-tile.tcomplement.alloy_tank.tooltip=混合來自臨近焦黑儲罐和冶煉爐的流體。 \n放置在焦黑加熱器或焦黑儲罐之上來供能。
+tile.tcomplement.alloy_tank.tooltip=混合來自臨近黑焦儲罐和冶煉爐的流體。 \n放置在黑焦加熱器或黑焦儲罐之上來供能。
 
 gui.tcomplement.melter.name=微縮冶煉爐
 gui.tcomplement.melter.progress.no_space=熔爐中沒有足夠的可用空間
@@ -30,7 +30,7 @@ gui.tcomplement.melter.solid_fuel.amount=%s單位
 
 gui.tcomplement.heater.name=加熱器
 
-gui.jei.melter.title=微縮焦黑冶煉爐
+gui.jei.melter.title=微縮黑焦冶煉爐
 
 
 ################
