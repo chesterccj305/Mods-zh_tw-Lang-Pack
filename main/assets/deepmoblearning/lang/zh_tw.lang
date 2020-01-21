@@ -5,7 +5,7 @@ tile.deepmoblearning.simulation_chamber.name=模擬室
 tile.deepmoblearning.extraction_chamber.name=戰利品制造器
 tile.deepmoblearning.trial_keystone.name=測試楔石
 tile.deepmoblearning.machine_casing.name=炭灰板材機械外殼
-tile.deepmoblearning.infused_ingot_block.name=故障灌註塊
+tile.deepmoblearning.infused_ingot_block.name=故障灌注磚
 #
 # Single items
 #
@@ -21,10 +21,10 @@ item.deepmoblearning.glitch_fragment.name=§b不穩定故障碎片§r
 item.deepmoblearning.glitch_infused_ingot.name=§b故障灌註錠§r
 
 item.deepmoblearning.glitch_infused_helmet.name=§b故障灌註頭盔§r
-item.deepmoblearning.glitch_infused_chestplate.name=§b故障灌註胸甲§r
-item.deepmoblearning.glitch_infused_leggings.name=§b故障灌註護腿§r
-item.deepmoblearning.glitch_infused_boots.name=§b故障灌註靴子§r
-item.deepmoblearning.glitch_infused_sword.name=§b故障灌註劍§r
+item.deepmoblearning.glitch_infused_chestplate.name=§b故障灌注胸甲§r
+item.deepmoblearning.glitch_infused_leggings.name=§b故障灌注護腿§r
+item.deepmoblearning.glitch_infused_boots.name=§b故障灌注靴子§r
+item.deepmoblearning.glitch_infused_sword.name=§b故障灌注劍§r
 
 #
 # Data models
@@ -87,7 +87,7 @@ item.deepmoblearning.pristine_matter_mo_android.name=原始 Rogue Android 物質
 #
 # Creative tab
 #
-itemGroup.deepmoblearning=深度怪物知識
+itemGroup.deepmoblearning=深度怪物學習
 
 #
 # Tooltips etc
