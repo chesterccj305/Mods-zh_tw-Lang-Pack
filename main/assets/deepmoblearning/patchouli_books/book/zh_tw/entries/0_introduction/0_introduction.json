@@ -11,7 +11,7 @@
     {
       "type": "spotlight",
       "item": "deepmoblearning:soot_covered_redstone",
-      "title": "Sooting Redstone",
+      "title": "炭灰紅石",
       "anchor": "sooted_redstone",
       "text": "$(item)炭灰紅石$() 可通過將一些$(item)紅石$()壓在$(item)煤炭磚$()上來製作。$(br2)炭灰紅石在 $(item)模組$()的大多數合成中都用的上。"
     },
