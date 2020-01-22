@@ -1,6 +1,6 @@
 {
   "name": "楔石",
-  "description": "本章將教您有關$(br) $(dml)中的測試楔石的所有知識。",
+  "description": "本章將教您有關$(dml)中的測試楔石的所有知識。",
   "icon": "deepmoblearning:trial_keystone",
   "sortnum": 2
 }
