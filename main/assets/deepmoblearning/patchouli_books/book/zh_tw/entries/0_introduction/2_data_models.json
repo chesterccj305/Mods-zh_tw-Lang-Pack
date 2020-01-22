@@ -71,7 +71,7 @@
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:data_model_thermal_elemental",
-      "title": "熱力月膨脹",
+      "title": "熱力膨脹",
       "flag": "mod:thermalfoundation"
     },
     {
