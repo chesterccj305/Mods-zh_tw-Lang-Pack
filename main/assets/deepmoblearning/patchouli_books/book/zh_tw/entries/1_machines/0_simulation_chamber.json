@@ -1,0 +1,24 @@
+{
+  "name": "模擬室",
+  "icon": "deepmoblearning:simulation_chamber",
+  "category": "1_machines",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)模擬室$()是一台機器，可以讀取存儲在$(l:0_introduction/2_data_models)數據模型$() 中的信息，並從該$(l:0_introduction/1_data)數據$()創建$(l:1_machines/1_matter)物質$()。$(br2)此過程將向當前使用的$(l:0_introduction/2_data_models)數據模型$()中添加更多$(l:0_introduction/1_data)數據$()。$(br2)此過程還需要$(a)基本$() (or higher)層$(br)$(l:0_introduction/2_data_models)數據模型$()，$(l:1_machines/3_energy)能源$()和$(br)$(item)聚合物黏土$()。"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:simulation_chamber",
+      "anchor": "simulation_chamber",
+      "text": "$(item)模擬室$()採用$(l:0_introduction/0_introduction#plates_and_casings)炭灰板材機械外殼$().$(br2) $(item)能量$()的使用取決於$(l:0_introduction/2_data_models)數據模型$()使用次數。"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:polymer_clay",
+      "anchor": "simulation_chamber",
+      "text": "$(item)聚合黏土$()是一種非常柔軟的黏土，可以呈現大多數形狀。$(br2)在$(item)模擬室$() 它用作創建$(l:1_machines/1_matter)物質$()的黏合劑"
+    }
+  ]
+}
