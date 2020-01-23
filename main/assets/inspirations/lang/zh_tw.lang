@@ -117,10 +117,10 @@ gui.inspirations.pipe.name=管道
 
 item.inspirations.cactus_seeds.name=仙人掌種子
 item.inspirations.carrot_seeds.name=胡蘿蔔種子
-item.inspirations.potato_seeds.name=土豆種子
+item.inspirations.potato_seeds.name=馬鈴薯種子
 item.inspirations.sugar_cane_seeds.name=甘蔗種子
 
-item.inspirations.materials.splash_bottle.name=噴濺型藥水瓶
+item.inspirations.materials.splash_bottle.name=飛濺型藥水瓶
 item.inspirations.materials.lingering_bottle.name=滯留型藥水瓶
 item.inspirations.materials.mushrooms.name=蘑菇煲原料
 item.inspirations.materials.mushrooms.tooltip=用於烹製蘑菇煲
