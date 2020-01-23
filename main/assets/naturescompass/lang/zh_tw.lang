@@ -1,8 +1,8 @@
-item.naturescompass.NaturesCompass.name=生物群系指南針
+item.naturescompass.NaturesCompass.name=生物域指南針
 string.naturescompass.average=平均
 string.naturescompass.back=返回
 string.naturescompass.baseHeight=基礎高度
-string.naturescompass.biome=生物群系
+string.naturescompass.biome=生物域
 string.naturescompass.climate=氣候
 string.naturescompass.cold=冷
 string.naturescompass.coordinates=坐標
