@@ -6,7 +6,7 @@ enchantment.somanyenchantments.rune_piercingcapabilities.desc=符文之一。 �
 enchantment.AtomicDeconstructor=瞬殺
 enchantment.somanyenchantments.atomicdeconstructor.desc=你的攻擊有低機率，可以保證一個瞬殺。
 
-enchantment.Defusion=苦力怕掰掰
+enchantment.Defusion=苦力怕剋星
 enchantment.somanyenchantments.defusion.dsec=對苦力怕造成額外傷害。
 
 enchantment.Inefficent=低效率
@@ -122,7 +122,7 @@ enchantment.Strafe=掃射
 enchantment.somanyenchantments.strafe.desc=提高弓箭牽引速度。
 
 enchantment.AdvancedPower=超級強力
-enchantment.somanyenchantments.advancedpower.desc=更高級的強力。(弓)
+enchantment.somanyenchantments.advancedpower.desc=更高級的強力。
 
 enchantment.CriticalStrike=暴擊
 enchantment.somanyenchantments.criticalstrike.desc=獨立於原版暴擊，攻擊有一定機會暴擊。暴擊傷害的倍數取決於附魔等級。確定機率時，使用偽隨機分佈而不是真正的隨機分佈。（主要適用於劍。）
@@ -157,7 +157,7 @@ enchantment.somanyenchantments.magicprotection.desc=減少來自魔法攻擊的�
 
 enchantment.Levitator=懸浮劑
 enchantment.somanyenchantments.levitator.desc=攻擊現在會施加懸浮效果。
-enchantment.Powerless=無能為力
+enchantment.Powerless=無力
 enchantment.somanyenchantments.powerless.desc=減少箭矢來自弓的射擊傷害。
 
 enchantment.Rune_Revival=符文：翻新
@@ -233,19 +233,19 @@ enchantment.somanyenchantments.advancedrespiration.desc=水中呼吸的高級版
 enchantment.LesserSharpness=稍微鋒利
 enchantment.somanyenchantments.lessersharpness.desc=較爛的鋒利。
 
-enchantment.LesserBaneOfArthropods=有點節肢剋星
+enchantment.LesserBaneOfArthropods=低級節肢剋星
 enchantment.somanyenchantments.lesserbaneofarthropods.desc=較爛的節肢剋星。
 
-enchantment.LesserSmite=有點不死剋星
+enchantment.LesserSmite=低級不死剋星
 enchantment.somanyenchantments.lessersmite.desc=較爛的不死剋星。
 
 enchantment.SupremeSharpness=征服宇宙鋒利
-enchantment.somanyenchantments.supremesharpness.desc=真的很利。
+enchantment.somanyenchantments.supremesharpness.desc=鋒利最終加強版，真的很利。
 enchantment.SupremeBaneOfArthropods=節肢大大大剋星
-enchantment.somanyenchantments.supremebaneofarthropods.desc=節肢剋星的極致。
+enchantment.somanyenchantments.supremebaneofarthropods.desc=節肢剋星的最終加強版。
 
 enchantment.SupremeSmite=不死大大大剋星
-enchantment.somanyenchantments.supremesmite.desc=不死剋星的極致。
+enchantment.somanyenchantments.supremesmite.desc=不死剋星的最終加強版。
 
 enchantment.CurseofPossession=超級綁定詛咒
 enchantment.somanyenchantments.curseofpossession.desc=物品無法離開玩家的背包。
@@ -265,14 +265,14 @@ enchantment.somanyenchantments.amplifiedsharpness=大幅增加斧頭的傷害，
 enchantment.adjuster=調整器
 enchantment.somanyenchantments.adjuster.desc=使用錯誤的工具時提高挖掘速度。
 
-enchantment.lfa=有點燙
+enchantment.lfa=低級燃燒
 enchantment.somanyenchantments.lfa.desc=較爛的燃燒。
 
 enchantment.afa=超級燃燒
 enchantment.somanyenchantments.afa.desc=燃燒的高級版。
 
-enchantment.sfa=燃燒燒燒燒
-enchantment.somanyenchantments.sfa.desc=燃燒的極致。
+enchantment.sfa=燃燒燒燒
+enchantment.somanyenchantments.sfa.desc=燃燒的最終加強版。
 
 enchantment.Swiper=弧斬
 enchantment.somanyenchantments.swiper.desc=不需攻擊冷卻時間就能進行弧斬（近戰範圍攻擊）。
@@ -283,14 +283,14 @@ enchantment.somanyenchantments.freezing.desc=對命中目標施加緩慢和挖�
 enchantment.advancedmending=超級修補
 enchantment.somanyenchantments.advancedmending.desc=修補的高級版。
 
-enchantment.lfl=小火焰
+enchantment.lfl=低級火焰
 enchantment.somanyenchantments.lfl.desc=較爛的火焰。
 
 enchantment.afl=超級火焰
 enchantment.somanyenchantments.afl.desc=火焰的高級版。
 
-enchantment.sfl=火焰焰焰焰
-enchantment.somanyenchantments.sfl.desc=火焰的極致，全家燒光光。
+enchantment.sfl=火焰焰焰
+enchantment.somanyenchantments.sfl.desc=火焰的最終加強版，全家燒光光。
 
 enchantment.rune_starfall=符文：星空降臨
 enchantment.somanyenchantments.rune_starfall.desc=射向天空的箭矢會產生箭雨。
@@ -392,10 +392,10 @@ enchantment.Instability=不穩定
 enchantment.somanyenchantments.instability.desc=一種詛咒形式，其耐用性越低，會增加工具的損壞程度。工具受到的傷害與它造成的傷害成比例。
 
 enchantment.Pulling=拖動
-enchantment.somanyenchantments.pulling.desc=反向版本的衝擊。用外行的話來說，與衝擊相反。
+enchantment.somanyenchantments.pulling.desc=反向版本的衝擊，與衝擊相反。
 
 enchantment.Pushing=推動
-enchantment.somanyenchantments.pushing.desc=祝福弓箭，在充電時能夠擊退附近的實體。
+enchantment.somanyenchantments.pushing.desc=用於弓箭，在蓄能時能夠推開附近的實體。
 
 enchantment.Unsheathing=劍拔
 enchantment.somanyenchantments.unsheathing.desc=受到傷害（必須有攻擊者）時，劍將自動切換到使用者當前的手上。如果劍不在主快捷欄中則不起作用。
