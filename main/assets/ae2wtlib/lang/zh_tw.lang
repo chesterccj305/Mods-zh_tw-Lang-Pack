@@ -1,41 +1,39 @@
-# // Items
-item.ae2wtlib:infinity_booster_card.name=無線範圍卡
+// Items
+item.ae2wtlib:infinity_booster_card.name=無限增幅卡
 item.ae2wtlib:wut.name=終極無線終端
-item.ae2wtlib:wut_creative.name=創新終極無線終端
+item.ae2wtlib:wut_creative.name=創造模式終極無線終端
 
-# // Creative Tab
+// Creative Tab
 itemGroup.ae2wtlib=AE2無線終端庫
 
-# // Tooltips
+// Tooltips
 tooltip.infinite_range.desc=無線範圍
 tooltip.infinity_energy.desc=無線能量
 tooltip.installed.desc=已安裝
 tooltip.in_wap_range.desc=(在無線範圍內)
 tooltip.out_of.desc=由於
-tooltip.infinity_energy_low.desc=無線能量太少了!
+tooltip.infinity_energy_low.desc=無線能量過低!
 tooltip.creative.desc=創造
 tooltip.infinite.desc=無線
 tooltip.press_shift.desc=<按下 Shift>
 tooltip.or_press.desc=或者按下
 tooltip.press.desc=按下
-tooltip.active.desc=活動的
-tooltip.inactive.desc=非活動的
-tooltip.not.desc=不是
+tooltip.active.desc=啟用
+tooltip.inactive.desc=未啟用
+tooltip.not.desc=未
 tooltip.units.desc=單位
 tooltip.link_status=連結狀態
 
-# // GUI
-gui.emptytrash=清空垃圾桶
+// GUI
+gui.emptytrash=清空垃圾
 gui.emptytrash.desc=刪除垃圾槽裡的物品
 gui.consumeboosters=自動消耗增幅卡
 gui.dontconsumeboosters.desc=不消耗無限增幅卡
 gui.consumeboosters.desc=自動消耗無限增幅卡
 gui.consumeboosters.desc2=當卡片被撿起或在物品欄內時
 
-# // JEI
+// JEI
 jei.wt_bauble.desc=可做飾品使用
-jei.wt_booster_old.desc=在無線終端裡提供無線增幅卡，為其提供無線能量。
-jei.wt_booster.desc=在其中加入21.4億4的無線增幅卡，使其在任何維度以及在無線範圍外工作（卡仍然會消耗）。
-jei.wut.desc=通過組合其他終端然後獲得所添加的終端的功能的終端。
-
-
+jei.wt_booster_old.desc=將無限增幅卡插入終極無線終端GUI中的相應插槽，以為終極無線終端提供無限範圍。
+jei.wt_booster.desc=將多達21.4億張卡插入終極無線終端的相應插槽中，以添加內置無限能量，從而使終極無線終端可以在無線範圍之外和跨維度使用。
+jei.wut.desc=一台通過組合其他終端然後獲得所添加的終端的功能的終端。
