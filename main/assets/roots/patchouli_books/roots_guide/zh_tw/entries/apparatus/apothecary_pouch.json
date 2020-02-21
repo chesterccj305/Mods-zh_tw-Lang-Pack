@@ -1,0 +1,27 @@
+{
+    "name": "藥劑袋",
+    "icon": "roots:apothecary_pouch",
+    "category": "apparatus",
+    "advancement": "roots:spirit_herb",
+    "secret": true,
+    "pages": [
+      {
+        "type": "spotlight",
+        "item": "roots:apothecary_pouch",
+        "text": "該袋本身可以容納更多物品，大大改善了容量和實用性。$(br2)草藥存放在小玻璃瓶中，以使它們彼此分離，同時增加了 可以存儲的數量。"
+      },
+      {
+        "type": "fey_crafting_template",
+        "recipe": "apothecary_pouch"
+      },
+      {
+        "type": "relations",
+        "entries": [
+          "apparatus/component_pouch",
+          "basics/spells",
+          "herbs/spirit_herb",
+          "resources/wildwood"
+        ]
+      }
+    ]
+  }
