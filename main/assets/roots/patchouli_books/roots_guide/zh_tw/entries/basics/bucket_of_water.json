@@ -1,0 +1,21 @@
+{
+  "name": "一桶水",
+  "icon": "minecraft:water_bucket",
+  "category": "basics",
+  "advancement": "roots:pyre",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "minecraft:water_bucket",
+      "link_recipe": true,
+      "text": "一個多功能的工具，用桶裝水可取消進行中的任何 $(l:basics/pyre)篝火儀式$()，熄滅火焰並立即釋放魔法能量。$(br2)$(info)它仍消耗該儀式所用的成分。$(br2)$(info)任何裝有冷卻液體的容器都適用。"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "basics/pyre"
+      ]
+    }
+  ]
+}
