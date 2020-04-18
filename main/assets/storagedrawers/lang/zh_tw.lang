@@ -77,11 +77,11 @@ tile.storagedrawers.controllerSlave.name=管理器傳動方塊
 tile.storagedrawers.framingTable.name=成型台
 
 tile.storagedrawers.trim.oak.name=橡木橋接方塊
-tile.storagedrawers.trim.spruce.name=雲杉木橋接方塊
-tile.storagedrawers.trim.birch.name=白樺木橋接方塊
+tile.storagedrawers.trim.spruce.name=杉木橋接方塊
+tile.storagedrawers.trim.birch.name=樺木橋接方塊
 tile.storagedrawers.trim.jungle.name=叢林木橋接方塊
-tile.storagedrawers.trim.acacia.name=金合歡木橋接方塊
-tile.storagedrawers.trim.big_oak.name=深色橡木橋接方塊
+tile.storagedrawers.trim.acacia.name=相思木橋接方塊
+tile.storagedrawers.trim.big_oak.name=黑橡木橋接方塊
 
 tile.storagedrawers.keyButton.drawer.name=綁定鑰匙按鈕
 tile.storagedrawers.keyButton.concealment.name=屏蔽鑰匙按鈕
@@ -97,11 +97,11 @@ storagedrawers.controllerSlave.description=為抽屜管理器擴展存儲連接�
 # Material
 storagedrawers.material=材料：%s
 storagedrawers.material.oak=橡木
-storagedrawers.material.spruce=雲山木
-storagedrawers.material.birch=白樺木
+storagedrawers.material.spruce=杉木
+storagedrawers.material.birch=樺木
 storagedrawers.material.jungle=叢林木
-storagedrawers.material.acacia=金合歡木
-storagedrawers.material.dark_oak=Dark Oak
+storagedrawers.material.acacia=相思木
+storagedrawers.material.dark_oak=黑橡木
 
 # Integration
 storagedrawers.waila.empty=<空>
