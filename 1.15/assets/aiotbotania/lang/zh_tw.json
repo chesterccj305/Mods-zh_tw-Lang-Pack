@@ -1,0 +1,60 @@
+{
+  "itemGroup.aiotbotania": "植物魔法全能工具",
+  "aiotbotania.toggleMode": "\u00A76全能工具模式已更改:",
+  "aiotbotania.hoeMode": "\u00A73耕種模式",
+  "aiotbotania.hoeModePath": "\u00A73開墾土地與草徑",
+  "aiotbotania.utilityMode": "\u00A7e放置火把與樹苗",
+
+  "item.aiotbotania.livingwood_shears": "活木剪",
+  "item.aiotbotania.livingwood_sword": "活木劍",
+  "item.aiotbotania.livingwood_axe": "活木斧",
+  "item.aiotbotania.livingwood_pickaxe": "活木鎬",
+  "item.aiotbotania.livingwood_shovel": "活木鏟",
+  "item.aiotbotania.livingwood_hoe": "活木鋤",
+  "item.aiotbotania.livingwood_aiot": "活木全能工具",
+
+  "item.aiotbotania.livingrock_shears": "活石剪",
+  "item.aiotbotania.livingrock_sword": "活石劍",
+  "item.aiotbotania.livingrock_axe": "活石斧",
+  "item.aiotbotania.livingrock_pickaxe": "活石鎬",
+  "item.aiotbotania.livingrock_shovel": "活石鏟",
+  "item.aiotbotania.livingrock_hoe": "活石鋤",
+  "item.aiotbotania.livingrock_aiot": "活石全能工具",
+
+  "item.aiotbotania.manasteel_hoe": "魔鋼鋤",
+  "item.aiotbotania.manasteel_aiot": "魔鋼全能工具",
+
+  "item.aiotbotania.elementium_hoe": "源質鋼鋤",
+  "item.aiotbotania.elementium_aiot": "源質鋼全能工具",
+
+  "botania.entry.livingwoodTools": "活木工具",
+  "botania.entry.livingrockTools": "活石工具",
+
+  "botania.page.livingwoodTools0": "$(1)活木$(0)可由「植物魔法全能工具」製成工具。<br>這些工具用起來就跟$(1)木質$(0)工具一樣，但在操作性和耐用性上有些優勢。當$(1)活木$(0)工具受損時，假如庫存中有$(4)魔力$(0) (例如 $(1)魔力石板$(0))可修復工具。<br>除此之外，它們就像一般的木質工具。",
+  "botania.page.livingwoodTools1": " $(1)活木劍$(0)",
+  "botania.page.livingwoodTools2": " $(1)活木斧$(0)",
+  "botania.page.livingwoodTools3": " $(1)活木鎬$(0)",
+  "botania.page.livingwoodTools4": " $(1)活木鏟$(0)",
+  "botania.page.livingwoodTools5": " $(1)活木剪$(0)",
+  "botania.page.livingwoodTools6": " $(1)活木鋤$(0)",
+  "botania.page.livingwoodTools7": " $(1)活木全能工具$(0)",
+
+  "botania.page.livingrockTools0": "$(1)活石$(0)可由「植物魔法全能工具」製成工具。<br>這些工具用起來就跟$(1)石製$(0)工具一樣，但在操作性、耐用性和一些調整方面稍勝一籌。當$(1)活石$(0)工具受損時， 假如庫存中有$(4)魔力$(0) (例如 $(1)魔力石板$(0))可修復工具。<br>這些工具就像改良的石製工具。",
+  "botania.page.livingrockTools1": "$(1)活石劍$(0)",
+  "botania.page.livingrockTools2": "$(1)活石斧$(0)",
+  "botania.page.livingrockTools3": "$(1)活石鎬$(0)",
+  "botania.page.livingrockTools4": "$(1)活石鏟$(0)",
+  "botania.page.livingrockTools5": "$(1)活石剪$(0)",
+  "botania.page.livingrockTools6": "$(1)活石鋤$(0)",
+  "botania.page.livingrockTools7": "$(1)活石全能工具$(0)",
+
+  "botania.page.manaGear11": "若安裝$(2)植物魔法全能工具$(0)模組還增加了兩樣工具。$(1)鋤$(0)用法類似於原版的鋤頭，但與其他魔鋼工具一樣其也能消耗$(4)魔力$(0)。<br>而$(1)全能工具$(0)則融合了魔鋼$(1)劍$(0)，$(1)斧$(0)，$(1)鎬$(0)，$(1)鏟$(0)與$(1)鋤$(0)的所有功能。",
+  "botania.page.manaGear12": "$(1)魔鋼鋤$(0)",
+  "botania.page.manaGear13": "$(1)魔鋼全能工具$(0)",
+
+  "botania.page.elfGear10": "$(1)源質鋼劍$(0)會增加攻擊時生成$(4)小精靈$(0)的概率（當未穿戴$(1)源質鋼裝備$(0)時也會生成），並強化$(4)小精靈$(0)的能力。",
+  "botania.page.elfGear16": "$(1)源質鋼鋤$(0)耕種的土地不會因跳躍而被破壞，也不用擔心水源問題。另外，再次右擊耕地可轉化為泥土。" ,
+  "botania.page.elfGear17": "$(1)源質鋼鋤$(0)",
+  "botania.page.elfGear18": "同時，$(1)源質鋼全能工具$(0)融合了全部$(1)源質鋼$(0)工具的功能。<br>由於它繼承了斧和鎬右擊放置$(4)樹苗$(0)與$(4)火把$(0)，所以你需要使用$(4)Shift右擊$(0)切換模式來進行耕種。",
+  "botania.page.elfGear19": "$(1)源質鋼全能工具$(0)
+}
