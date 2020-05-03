@@ -427,7 +427,11 @@
   "advancement.botania:odinRing.desc": "獲得戰利品:奧丁之戒",
   "advancement.botania:lokiRing": "算術",
   "advancement.botania:lokiRing.desc": "獲得戰利品:洛基之戒",
-
+  "advancement.botania:lokiRingMany": "手拉手",
+  "advancement.botania:lokiRingMany.desc": "使用洛基之戒放置超過255格額外方塊",
+  "advancement.botania:alfPortalBread": "這就是我烤麵包的原因",
+  "advancement.botania:alfPortalBread.desc": "送精靈麵包",
+  
   "advancement.botania:desuGun": "雙面戀人",
   "advancement.botania:desuGun.desc": "ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN ASADA-SAN",
 
