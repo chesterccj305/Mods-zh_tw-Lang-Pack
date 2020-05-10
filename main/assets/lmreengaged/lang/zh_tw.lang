@@ -137,3 +137,10 @@ littleMaidMob.chat.text.timedeath=你的 %s 再也不用承受來自 %s 的痛�
 
 system.lmmnx.chat.text.newversion=有新版本可用
 system.lmmnx.chat.text.checkversion=前往： http://el-blacklab.net/
+
+littleMaidMob.mode.TorchLayer=照明模式
+littleMaidMob.mode.F-TorchLayer=照明模式(自由)
+littleMaidMob.mode.T-TorchLayer=照明模式(巡邏)
+littleMaidMob.mode.Shearer=修剪模式
+littleMaidMob.mode.F-Shearer=修剪模式(自由)
+littleMaidMob.mode.T-Shearer=修剪模式(巡邏)
