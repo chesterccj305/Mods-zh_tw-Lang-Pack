@@ -1,6 +1,0 @@
-{
-  "name": "機器",
-  "description": "本章將教你有關$(dml)中的機器 需要了解的所有知識。$(br2)所有 $(item)機器$() 從頂部接入 $(item)輸入端$()。另一側用於管道 $(item)輸出端$()。",
-  "icon": "deepmoblearning:simulation_chamber",
-  "sortnum": 1
-}

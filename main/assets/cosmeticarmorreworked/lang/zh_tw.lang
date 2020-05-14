@@ -1,5 +1,0 @@
-cos.key.opencosarmorinventory=開啟時裝物品欄
-cos.gui.buttoncos=時裝
-cos.gui.buttonnormal=一般
-cos.command.clearcosarmor=/clearcosarmor [玩家]
-cos.command.clearcosarmor.success=已清空 %s 的時裝物品欄

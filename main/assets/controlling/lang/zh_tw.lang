@@ -1,9 +1,0 @@
-options.availableKeys=可用的鍵
-options.category=分類
-options.key=鍵
-options.search=搜索
-options.showAll=顯示全部
-options.showConflicts=顯示沖突部分
-options.showNone=顯示未綁定部分
-options.sort=排序
-options.toggleFree=顯示未使用快捷鍵

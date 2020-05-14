@@ -1,8 +1,0 @@
-tile.animalcrops.crops.name=動物作物
-tile.animalcrops.bush.name=動物灌木
-tile.animalcrops.lily.name=動物荷葉
-
-item.animalcrops.seeds.name=%s種子
-item.animalcrops.seeds.default.name=動物種子
-item.animalcrops.lily.name=%s荷葉
-item.animalcrops.lily.default.name=動物荷葉

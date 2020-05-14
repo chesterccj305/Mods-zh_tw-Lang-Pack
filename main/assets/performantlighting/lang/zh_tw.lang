@@ -1,7 +1,0 @@
-PLS.shift=按下 <§6§oShift§r> 獲取相關信息。
-tile.illuminant_slab.name=發光台階
-tile.illuminant_panel.name=發光面板
-tile.illuminant_block.name=發光塊
-tile.illuminant_block.info=由紅石激活。
-tile.illuminant_block_on.name=發光塊（倒置）
-tile.illuminant_block_on.info=由紅石停用。

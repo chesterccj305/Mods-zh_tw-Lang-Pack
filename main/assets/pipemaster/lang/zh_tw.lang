@@ -1,8 +1,0 @@
-itemGroup.pipemaster=管道專家 2000
-item.pipemaster.pipe_goggles.name=管道護目鏡
-pipemaster.pipegoggles.gui.range=選擇範圍
-commands.pipemaster.available=可用的子命令：
-commands.pipemaster.denied=你沒有權限使用此指令。
-commands.pipemaster.reload-blockgroups.description=通過 blockgroups json 文件重載模組兼容相關內容
-commands.pipemaster.reload-blockgroups.usage=/pipemaster reload-blockgroups
-commands.pipemaster.reload-blockgroups.blockgroups_reloaded=Block groups 重載成功！

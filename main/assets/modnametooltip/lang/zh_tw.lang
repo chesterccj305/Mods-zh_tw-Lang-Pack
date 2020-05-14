@@ -1,2 +1,0 @@
-config.modnametooltip.formatting.modNameFormat.comment=如何在工具提示中格式化 mod 名稱。留空以禁用。有效的修飾符：%s
-config.modnametooltip.formatting.modNameFormat=Mod 名稱格式

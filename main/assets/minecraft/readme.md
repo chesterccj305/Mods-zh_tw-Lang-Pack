@@ -1,3 +1,0 @@
-- 原作者：3TUSK
-- 原貼文網址：http://blog.tritusk.info/index.php/archives/8/
-- Github：https://github.com/Team-AbCiv/FullwidthPunctuationFix

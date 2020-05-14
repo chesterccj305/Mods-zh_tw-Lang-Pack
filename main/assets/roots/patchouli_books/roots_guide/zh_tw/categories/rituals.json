@@ -1,6 +1,0 @@
-{
-  "name": "儀式",
-  "sortnum" : 3,
-  "description": "儀式是使用$(l:basics/pyre)虛榮的篝火$()進行的，通常需要一些時間才能完成。大多數都是便攜式的，但是有些需要$(l:rituals/standing_stones)站立的石頭或樹木$(). $(info) $(l:rituals/automation)幾乎所有儀式都可以自動化。$().",
-  "icon": "roots:bonfire"
-}

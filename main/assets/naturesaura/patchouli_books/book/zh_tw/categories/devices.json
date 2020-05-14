@@ -1,6 +1,0 @@
-{
-    "name": "機械裝置",
-    "description": "有些裝置不直接利用$(#419600)靈氣$()，而是利用其創造的物品來實現其他設備做不到的功能。這一節存放這些裝置和儀器。",
-    "icon": "naturesaura:textures/gui/patchouli/categories/devices.png",
-    "sortnum": 30
-}

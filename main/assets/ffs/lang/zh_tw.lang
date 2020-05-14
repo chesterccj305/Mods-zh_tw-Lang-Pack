@@ -1,8 +1,0 @@
-item.ffs.item_tit.name=T.I.T. - 儲罐交互接口
-item.ffs.item_tit_egg.name=T.I.T. Egg
-itemGroup.ffs=花式流體存儲
-tile.ffs.block_fluid_valve.name=儲罐閥門
-tile.ffs.block_tank_computer.name=儲罐總控計算機
-chat.ffs.valve_other_tank=一個或多個方塊已經屬於另一個坦克了！
-chat.ffs.valve_too_much_air=氣阻太多了！限制: %s
-chat.ffs.valve_different_fluids=一個或多個閥門含有不同的流體！無法建立坦克！

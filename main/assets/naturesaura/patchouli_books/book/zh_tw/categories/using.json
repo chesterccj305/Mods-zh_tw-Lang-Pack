@@ -1,6 +1,0 @@
-{
-    "name": "使用靈氣",
-    "description": "當從世界中收集$(#419600)靈氣$()時，任何人都會出自本能地發問：$(italic)“我怎麽利用它呢？”$()本類條目正是回答這個問題的。",
-    "icon": "naturesaura:textures/gui/patchouli/categories/using.png",
-    "sortnum": 15
-}
