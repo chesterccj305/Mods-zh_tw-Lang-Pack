@@ -1,0 +1,25 @@
+{
+  "name": "簡介",
+  "icon": "deepmoblearning:soot_covered_redstone",
+  "category": "0_introduction",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "此 $(item)模組$() 的設計原理是一種簡單且$(br)無停滯的替代方式，可以通過傳統方式來收集怪物資源。.$(br2)模組機制鼓勵玩家探索和參與戰鬥並從中受益。$(br2)要開始使用，您將需要一些專門的$(item)製作組件$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "deepmoblearning:soot_covered_redstone",
+      "title": "炭灰紅石",
+      "anchor": "sooted_redstone",
+      "text": "$(item)炭灰紅石$() 可通過將一些$(item)紅石$()壓在$(item)煤炭磚$()上來製作。$(br2)炭灰紅石在 $(item)模組$()的大多數合成中都用的上。"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:soot_covered_plate",
+      "recipe2": "deepmoblearning:machine_casing",
+      "title2": "機械外殼"
+    }
+  ]
+}

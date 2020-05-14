@@ -1,0 +1,17 @@
+{
+    "name": "紅磚熔爐",
+    "icon": "tinkersforging:forge",
+    "category": "temperature",
+    "pages": [
+        {
+            "type": "text",
+            "text": "紅磚熔爐是升級版加熱物品的方法。消耗固體燃料，加熱頂部三個格子的物品。使用時在底部放置一些燃料，而後使用任意打火設備進行點燃。熔爐就會開始燃燒，並消耗燃料。隨著燃燒溫度也會隨之上升，加熱熔爐頂部格子的物品。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "tinkersforging:brick_forge",
+            "text": "專為久富經驗的匠師設計",
+            "link_recipe": true
+        }
+    ]
+}

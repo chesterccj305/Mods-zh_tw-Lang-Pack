@@ -1,0 +1,4 @@
+item.compassEnd.name=終界傳送門指針
+endercompass.configgui.title=終界傳送門指針設定
+endercompass.configgui.checkInventory=檢查庫存
+endercompass.configgui.checkInventory.tooltip=如果玩家想在庫存中使用終界傳送門指針，請將其設置為tr

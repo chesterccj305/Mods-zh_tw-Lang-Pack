@@ -1,0 +1,15 @@
+{
+  "name": "召喚女巫",
+  "category": "rituals",
+  "icon": "minecraft:apple",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "召喚一位巫術同行，但是，他們不一定會喜歡你這麽做……"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:conjure_witch"
+	}
+  ]
+}

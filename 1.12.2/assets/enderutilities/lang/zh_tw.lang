@@ -1,0 +1,573 @@
+language.name=Traditional Chinese
+language.region=tw
+language.code=zh_tw
+
+category.enderutilities=終界道具
+enderutilities.key.activate_unselected=激活未選中的
+enderutilities.key.togglemode=切換模式
+
+
+############################
+# Container/inventory names:
+############################
+
+enderutilities.container.asu=可調儲物箱
+enderutilities.container.barrel=儲物桶
+enderutilities.container.creation_station=創造台
+enderutilities.container.draw_bridge=吊橋
+enderutilities.container.draw_bridge_advanced=高級吊橋
+enderutilities.container.ender_furnace=終界爐
+enderutilities.container.ender_infuser=終界註入器
+enderutilities.container.inserter_filtered=過濾插入器
+enderutilities.container.inserter_normal=插入器
+enderutilities.container.handybag=手提包
+enderutilities.container.handy_chest=便捷箱子
+enderutilities.container.inventoryswapper=物品交換器
+enderutilities.container.jsu=雜物箱
+enderutilities.container.memory_chest=記憶箱
+enderutilities.container.msu.0=大存儲單元
+enderutilities.container.msu.1=大集裝箱
+enderutilities.container.nullifier=清空器
+enderutilities.container.pickupmanager=拾取管理器
+enderutilities.container.portal_panel=傳送控制板
+enderutilities.container.quickstacker=快速存放器
+enderutilities.container.quick_stacker_advanced=高級快速存放器
+enderutilities.container.sound_block=放音機
+enderutilities.container.tool_workstation=工具工作台
+
+
+##############
+# Block names:
+##############
+
+tile.enderutilities.asu.name=可調儲物箱
+tile.enderutilities.barrel.name=儲物桶
+tile.enderutilities.creation_station.name=創造台
+tile.enderutilities.draw_bridge.name=吊橋
+tile.enderutilities.draw_bridge_advanced.name=高級吊橋
+tile.enderutilities.ender_elevator.name=終界電梯 ({COLOR})
+tile.enderutilities.ender_elevator_layer.name=終界電梯層 ({COLOR})
+tile.enderutilities.ender_elevator_slab.name=終界電梯台階 ({COLOR})
+tile.enderutilities.ender_furnace.name=終界爐
+tile.enderutilities.ender_infuser.name=終界註入器
+tile.enderutilities.energy_bridge_transmitter.name=能量橋發送器
+tile.enderutilities.energy_bridge_receiver.name=能量橋接收器
+tile.enderutilities.energy_bridge_resonator.name=能量橋諧振器
+tile.enderutilities.inserter_filtered.name=過濾插入器
+tile.enderutilities.inserter_normal.name=插入器
+tile.enderutilities.floor.name=地板
+tile.enderutilities.floor_cracked.name=劣質地板
+tile.enderutilities.frame.name=傳送門框架
+tile.enderutilities.jsu.name=雜物箱
+tile.enderutilities.msu_0.name=大存儲單元
+tile.enderutilities.msu_1.name=大集裝箱
+tile.enderutilities.handy_chest_0.name=便捷箱子 (小)
+tile.enderutilities.handy_chest_1.name=便捷箱子 (正常)
+tile.enderutilities.handy_chest_2.name=便捷箱子 (大)
+tile.enderutilities.handy_chest_3.name=便捷箱子 (超大)
+tile.enderutilities.memory_chest_0.name=小記憶箱
+tile.enderutilities.memory_chest_1.name=記憶箱
+tile.enderutilities.memory_chest_2.name=大記憶箱
+tile.enderutilities.molecular_exciter.name=方塊掉落器
+tile.enderutilities.phasing.name=變相方塊
+tile.enderutilities.phasing_inverted.name=變相方塊 (已轉換)
+tile.enderutilities.portal.name=傳送門
+tile.enderutilities.portal_panel.name=傳送門控制板
+tile.enderutilities.quick_stacker_advanced.name=高級快速存放器
+tile.enderutilities.sound_block.name=放音機
+tile.enderutilities.tool_workstation.name=工具工作台
+
+
+#############
+# Entities:
+#############
+
+entity.enderutilities.chair.name=椅子
+entity.enderutilities.enderarrow.name=終界箭
+entity.enderutilities.endermanfighter.name=終界戰士
+entity.enderutilities.enderpearlreusable.name=可再用終界珍珠
+
+
+#############
+# Item names:
+#############
+
+item.enderutilities.builderswand.name=懶人建築杖
+item.enderutilities.chairwand.name=椅子杖
+item.enderutilities.dolly.name=手推車
+item.enderutilities.enderarrow.name=終界箭
+item.enderutilities.enderbag.name=終界包
+item.enderutilities.enderbow.name=終界弓
+item.enderutilities.enderbucket.name=終界水桶
+item.enderutilities.endercapacitor_0.name=終界電容 (基礎)
+item.enderutilities.endercapacitor_1.name=終界電容 (增強)
+item.enderutilities.endercapacitor_2.name=終界電容 (高級)
+item.enderutilities.endercapacitor_3.name=終界電容 (創造)
+item.enderutilities.enderlasso.name=終界套索
+item.enderutilities.enderpart_barrel_upgrade_0.name=儲物桶標簽
+item.enderutilities.enderpart_barrel_upgrade_1.name=儲物桶結構升級
+item.enderutilities.enderpart_barrel_upgrade_2.name=儲物桶容量升級
+item.enderutilities.enderpart_barrel_upgrade_3.name=Barrel Void Upgrade
+item.enderutilities.enderpart_creative_breaking.name=創造破壞模塊
+item.enderutilities.enderpart_enderalloy_0.name=終界合金 (基礎)
+item.enderutilities.enderpart_enderalloy_1.name=終界合金 (增強)
+item.enderutilities.enderpart_enderalloy_2.name=終界合金 (高級)
+item.enderutilities.enderpart_endercore_0_active.name=終界核心 (基礎)
+item.enderutilities.enderpart_endercore_1_active.name=終界核心 (增強)
+item.enderutilities.enderpart_endercore_2_active.name=終界核心 (高級)
+item.enderutilities.enderpart_endercore_0_inactive.name=未激活終界核心 (基礎)
+item.enderutilities.enderpart_endercore_1_inactive.name=未激活終界核心 (增強)
+item.enderutilities.enderpart_endercore_2_inactive.name=未激活終界核心 (高級)
+item.enderutilities.enderpart_enderrelic.name=終界遺物
+item.enderutilities.enderpart_enderrope.name=終界繩索
+item.enderutilities.enderpart_enderstick.name=終界註入棍
+item.enderutilities.enderpart_memorycard_misc.name=存儲卡 (misc)
+item.enderutilities.enderpart_memorycard_items_0.name=存儲卡 (物品) 6 位
+item.enderutilities.enderpart_memorycard_items_1.name=存儲卡 (物品) 8 位
+item.enderutilities.enderpart_memorycard_items_2.name=存儲卡 (物品) 10 位
+item.enderutilities.enderpart_memorycard_items_3.name=存儲卡 (物品) 12 位
+item.enderutilities.enderpart_jailer.name=看守模塊
+item.enderutilities.enderpart_storage_key.name=存儲鑰匙
+item.enderutilities.enderpart_storage_key_creative.name=創造存儲鑰匙
+item.enderutilities.enderpearlreusable.name=終界珍珠 (可再用)
+item.enderutilities.enderpearlreusable_elite.name=精華終界珍珠 (可再用)
+item.enderutilities.enderporter.name=終界傳送門
+item.enderutilities.enderporter_advanced.name=高級終界傳送門
+item.enderutilities.endertool_enderpickaxe.name=終界鎬
+item.enderutilities.endertool_enderaxe.name=終界斧
+item.enderutilities.endertool_endershovel.name=終界鏟
+item.enderutilities.endertool_enderhoe.name=終界鋤
+item.enderutilities.endersword.name=終界劍
+item.enderutilities.handybag_0.name=便攜包
+item.enderutilities.handybag_1.name=便攜包 (大)
+item.enderutilities.icemelter_basic.name=水魔杖
+item.enderutilities.icemelter_super.name=超級水魔杖
+item.enderutilities.inventoryswapper.name=物品交換器
+item.enderutilities.linkcrystal_0.name=鏈接水晶 (位置)
+item.enderutilities.linkcrystal_1.name=鏈接水晶 (方塊)
+item.enderutilities.linkcrystal_2.name=鏈接水晶 (入口)
+item.enderutilities.livingmanipulator.name=生命物質操縱器
+item.enderutilities.mobharness.name=生物軛具
+item.enderutilities.nullifier.name=清空器
+item.enderutilities.pet_contract_blank.name=Pet Contract (Blank)
+item.enderutilities.pet_contract_signed.name=Pet Contract (Signed)
+item.enderutilities.pickupmanager.name=物品收集管理器
+item.enderutilities.quickstacker.name=快速轉存器
+item.enderutilities.portalscaler.name=傳送計數器
+item.enderutilities.ruler.name=尺子
+item.enderutilities.syringe_empty.name=註射器 (空)
+item.enderutilities.syringe_paralyzer.name=阻滯劑註射器
+item.enderutilities.syringe_passifier.name=鎮靜劑註射器
+item.enderutilities.syringe_stimulant.name=興奮劑註射器
+item.enderutilities.void_pickaxe.name=虛空鎬
+
+
+##########################################################################
+# Tips displayed on many location-bindable 'fresh' items without NBT data:
+##########################################################################
+
+enderutilities.tooltips.itemlocationboundmodular=- 潛行右擊綁定|lf- Alt + Shift + 轉換鍵: 儲存玩家的|lf 當前位置，包括x，z軸轉向|lf- Ctrl (+ Shift) + 轉換鍵/scroll: 改變選擇的鏈接水晶|lf- Alt + 切換鍵: 在鏈接水晶上切換私人模式
+
+###################################################
+# Tips displayed on 'fresh' items without NBT data:
+###################################################
+
+item.enderutilities.builderswand.tooltips=- 可以從玩家身上或者一個鏈接過的外部容器取出方塊用來建築|lf- Ctrl + scroll: 改變模式|lf- Alt + scroll: 改變選定的方塊類型或選定的模板/區域|lf- Left click: 設置/取消設置初始位置|lf- 雙角模式: 右擊選定第二個位置或者望向一個方向，潛行按下scroll|lf- 潛行 + 右擊 設定方塊內的位置 (只適用於沒有方塊綁定的位置)|lf- 潛行 + 左鍵單擊: 儲存方塊類型(在可用位置)|lf- Shift + scroll: 改變視線方向的區域長度 (必須為此設置起始點！)|lf- Shift + 切換鍵 (建築模式): 切換 "建築後移動位置"|lf- Alt + 切換鍵 (一些建築模式): 切換替代打開/關閉|lf- Shift + 切換鍵 (區域模式): 設置區域鏡像|lf- Shift + 切換鍵 (替代3D): 切換方塊類型綁定模式|lf- Ctrl + Alt + 切換鍵 (連續擴展): 切換 "允許對角線"|lf- Ctrl + Alt + 切換鍵 (粘貼): 切換替代方塊|lf- Ctrl + Alt + 切換鍵 (刪除): 切換到殺死/移除實體|lf- Alt + Shift + Toggle: 切換到幽靈方塊渲染|lf- 切換鍵: 翻轉以視線為軸的區域|lf- 切換鍵 (覆制模式): (重新)命名當前模板|lf- 切換鍵 (粘貼/刪除模式): 設定區域旋轉到當前設置的方向 |lf- 切換鍵 (取代模式): 在單體/區域模式間轉換|lf- Ctrl + Alt + Shift + Scroll: 在已經選擇的鏈接水晶間循環|lf- Ctrl + Alt + Shift + 切換鍵 (覆制): 切換Chisels & Bits跨世界保存開關 |lf  (除非你要用模板將建築傳送到異世界，否則請關閉它！)|lf- Alt + Shift + Scroll (Stack):改變疊加網格尺寸|lf- Alt + Shift + Scroll (替代3D):改變替代的方塊類型選擇|lf- 在物品欄裏潛行右擊以綁定|lf- Ctrl + 對空右擊放置一個輔助方塊|lf- 保存，模板將會以每把法杖生成的一個特定ID命名。
+item.enderutilities.chairwand.tooltips=- 可以生成隱形的 "椅子實體" 來讓你坐在上面|lf- 比如允許你坐在假想的 C&B 椅子上|lf- Shift + scroll: 改變生成實體寬度|lf- Alt + scroll: 改變生成實體高度|lf- 右擊方塊產生新的椅子實體|lf- 左擊打掉椅子實體
+item.enderutilities.dolly.tooltips=- 可以搬起移動裝有物品的方塊（箱子等）
+item.enderutilities.enderarrow.tooltips=- 用箭射死怪物取樂！|lf  (Chicken tennis maybe?)
+item.enderutilities.enderbag.tooltips=- 潛行右擊綁定原版終界箱|lf- Ctrl (+ Shift) + Scroll: 改變選擇的鏈接水晶|lf- 無法工作於其他的箱子上|lf  因為在1.10，這個袋子以前需要的時間被移除|lf  (新的功能正在計劃)
+item.enderutilities.enderbow.tooltips=- 切換模式鍵以切換目標/自己 |lf- Shift + 切換鍵: 切換綁定鎖|lf  (阻止意外綁定)|lf- 添加生物保留模塊|lf  阻止一些生物無法生成|lf- 在鐵砧中用增強終界合金修覆|lf- 需要鏈接水晶存儲位置|lf- 需要終界電容供能
+item.enderutilities.enderbucket.tooltips=- 切換鍵: 循環切換操作模式|lf- 潛行右擊: 綁定到水槽 (在綁定模式)|lf- Shift + 切換鍵: 在一般操作和水槽間切換|lf- 水槽模式區塊加載30秒|lf- 正常模式: 右擊一個水槽從其中獲取液體|lf  tank, 潛行右擊將液體放回水槽|lf- 潛行右擊綁定|lf- Ctrl (+ Shift) + 切換鍵/scroll: 改變選擇的鏈接水晶
+item.enderutilities.endercapacitor_0.tooltips=-右鍵終界水晶充能 (需在末地)|lf- 或者使用終界加工台|lf- 或者建立能量橋
+item.enderutilities.endercapacitor_1.tooltips=-右鍵終界水晶充能 (需在末地)|lf- 或者使用終界加工台|lf- 或者建立能量橋
+item.enderutilities.endercapacitor_2.tooltips=-右鍵終界水晶充能 (需在末地)|lf- 或者使用終界加工台|lf- 或者建立能量橋
+item.enderutilities.enderlasso.tooltips=- Shift + 切換鍵: 切換綁定鎖|lf  (阻止意外綁定)|lf- 右擊傳送生物|lf- 添加獄卒模塊阻止生物不生成 |lf- 需要鏈接水晶以存儲位置|lf- 需要終界電容器供能
+item.enderutilities.enderpart_creative_breaking.tooltips=- 可以安裝到終界鎬/斧/鏟|lf- 允許 "創造一般的" 方塊破壞，|lf 意味著方塊被立刻破壞，但之後會有一個小小的延遲，|lf- 這樣你就不用擔心|lf  挖掉一個方塊的時候挖掉半個家
+item.enderutilities.enderpart_endercore_0_active.tooltips=- To obtain this item:|lf  用未激活的核心右擊終界水晶
+item.enderutilities.enderpart_endercore_1_active.tooltips=- To obtain this item:|lf  用未激活的核心右擊終界水晶
+item.enderutilities.enderpart_endercore_2_active.tooltips=- To obtain this item:|lf  用未激活的核心右擊終界水晶
+item.enderutilities.enderpart_endercore_0_inactive.tooltips=- 右鍵終界水晶激活 (需在末地)
+item.enderutilities.enderpart_endercore_1_inactive.tooltips=- 右鍵終界水晶激活 (需在末地)
+item.enderutilities.enderpart_endercore_2_inactive.tooltips=- 右鍵終界水晶激活 (需在末地)
+item.enderutilities.enderpart_enderrelic.tooltips=- 生成一個終界水晶|lf- 需在末地黑曜石柱頂端的|lf 黑曜石上使用|lf- 在末地使用它需要至少一個3x3x6的黑曜石基座|lf- 這可能會危機你的生命...|lf- 也可以在其它維度(無特殊需求)生成|lf  裝飾性的終界水晶
+item.enderutilities.enderpart_jailer.tooltips=- 右擊一個怪物阻止其消失|lf- 可以被安裝在一些模塊化的物品中|lf來賦予它們相同的能力|lf- 當安裝在模塊化的物品上時，它不會像|lf在右擊怪物時那樣被消耗掉
+item.enderutilities.enderpart_memorycard_items_0.tooltips=- 可以存儲 2^(字節數) = 一組64物品|lf- 右鍵轉換公有/私有 |lf- 潛行右擊清除主人數據
+item.enderutilities.enderpart_memorycard_items_1.tooltips=- 可以存儲 2^(字節數) = 一組256物品|lf- 右鍵轉換公有/私有 |lf- 潛行右擊清除主人數據
+item.enderutilities.enderpart_memorycard_items_2.tooltips=- 可以存儲 2^(字節數) = 一組1024物品|lf- 右鍵轉換公有/私有 |lf- 潛行右擊清除主人數據
+item.enderutilities.enderpart_memorycard_items_3.tooltips=- 可以存儲 2^(字節數) = 一組4096物品|lf- 右鍵轉換公有/私有 |lf- 潛行右擊清除主人數據
+item.enderutilities.enderpart_mobpersistence.tooltips=- 右擊怪物可以阻止它消失|lf- 將其組裝進一些模塊化工具中使用可以實現同樣的作用|lf- 直接使用會使其被消耗,使用組裝後的模塊化工具則不會
+item.enderutilities.enderpart_storage_key.tooltips=- 右擊 (一些) 存儲方塊以鎖定格子
+item.enderutilities.enderpart_storage_key_creative.tooltips=- 右擊 (一些) 存儲方塊以|lf  簡單地轉換到創造模式
+item.enderutilities.enderpearlreusable_elite.tooltips=飛吧！哦——！
+item.enderutilities.enderporter.tooltips=- Shift + 切換鍵: 切換綁定鎖|lf  (阻止意外綁定)|可以傳送同一維度的玩家|lf  或者其它實體|lf- 可重覆使用!|lf- TP自己: 按住右鍵直到"完成充能", 然後放開|lf- TP其他人: 潛行+左擊目標|lf  (如果目標是玩家, 必須保證他們也處在潛行狀態)|lf- 需要鏈接水晶存儲位置|lf- 需要終界電容器供能
+item.enderutilities.enderporter_advanced.tooltips=- Shift + 切換鍵: 切換綁定鎖|lf  (阻止意外綁定)|lf- 可以傳送跨維度傳送玩家|lf  或者其它實體|lf- 可重覆使用!|lf- TP自己: 按住右鍵直到"完成充能", 然後放開|lf- TP其他人: 潛行+左擊目標|lf  (如果目標是玩家, 必須保證他們也處在潛行狀態)|lf- 需要鏈接水晶存儲位置|lf- 需要終界電容器供能
+item.enderutilities.endertool_enderpickaxe.tooltips=- 在快速模式下增加效率V附魔效果|lf  提高挖掘普通方塊的速度|lf- 但這使它每挖掘一個方塊會消耗原來兩倍的耐久|lf- 不過工具本身不會完全損壞|lf- 你可以在鐵砧中消耗一塊高級終界合金和15級的經驗修覆它|lf- 右擊從鎬子的鄰近物品欄放置方塊|lf- 切換鍵: 在普通/快速模式間來回切換|lf- Shift +切換鍵: 循環切換掉落物操作模式|lf  - 正常: 挖掘物正常掉落|lf  - 玩家: 如有可能挖掘物將直接進入|lf    玩家的背包. 否則它們將正常掉落.|lf  - 遠程: 挖掘物將傳送到|lf    選定連接水晶的目標位置.|lf- 在玩家模式下使用需要一顆激活的基礎終界核心|lf- 在遠程模式下使用需要一顆激活的強化終界核心|lf  (可在同維度遠程傳送) 或一顆激活的|lf  高級終界核心 (可在不同維度間遠程傳送)
+item.enderutilities.endertool_enderaxe.tooltips=- 在快速模式下增加效率V附魔效果|lf  提高挖掘普通方塊的速度|lf- 但這使它每挖掘一個方塊會消耗原來兩倍的耐久|lf- 不過工具本身不會完全損壞|lf- 你可以在鐵砧中消耗一塊高級終界合金和15級的經驗修覆它|lf- 右擊從鎬子的鄰近物品欄放置方塊|lf- 切換鍵: 在普通/快速模式間來回切換|lf- Shift +切換鍵: 循環切換掉落物操作模式|lf  - 正常: 挖掘物正常掉落|lf  - 玩家: 如有可能挖掘物將直接進入|lf    玩家的背包. 否則它們將正常掉落.|lf  - 遠程: 挖掘物將傳送到|lf    選定連接水晶的目標位置.|lf- 在玩家模式下使用需要一顆激活的基礎終界核心|lf- 在遠程模式下使用需要一顆激活的強化終界核心|lf  (可在同維度遠程傳送) 或一顆激活的|lf  高級終界核心 (可在不同維度間遠程傳送)
+item.enderutilities.endertool_endershovel.tooltips=- 在快速模式下增加效率V附魔效果|lf  提高挖掘普通方塊的速度|lf- 但這使它每挖掘一個方塊會消耗原來兩倍的耐久|lf- 不過工具本身不會完全損壞|lf- 你可以在鐵砧中消耗一塊高級終界合金和15級的經驗修覆它|lf- 右擊從鎬子的鄰近物品欄放置方塊|lf- 切換鍵: 在普通/快速模式間來回切換|lf- Shift +切換鍵: 循環切換掉落物操作模式|lf  - 正常: 挖掘物正常掉落|lf  - 玩家: 如有可能挖掘物將直接進入|lf    玩家的背包. 否則它們將正常掉落.|lf  - 遠程: 挖掘物將傳送到|lf    選定連接水晶的目標位置.|lf- 在玩家模式下使用需要一顆激活的基礎終界核心|lf- 在遠程模式下使用需要一顆激活的強化終界核心|lf  (可在同維度遠程傳送) 或一顆激活的|lf  高級終界核心 (可在不同維度間遠程傳送)
+item.enderutilities.endertool_enderhoe.tooltips=-在快速模式下可以讓耕地範圍擴大至3x3|lf- 並能直接在上面種植玩家背包或連接容器中的作物|lf  (右鍵耕地|lf  你需要在背包或連接的容器中|lf  存放一些作物)|lf- 工具不會完全損壞|lf- 你可以在鐵砧中消耗一塊高級終界合金和15級的經驗修覆它|lf- 切換鍵: 在1x1和3x3的耕地範圍間來回切換|lf- Shift+切換鍵: 循環內部容器模式|lf  - 正常: 無特殊作用|lf  - 玩家: 如有可能物品將直接進入|lf    玩家背包或從中取出. 否則它們將正常掉落.|lf  - 遠程: 物品將傳送到選定連接水晶|lf    的目標位置或從中傳送過來.|lf- 在玩家模式下使用需要一顆激活的基礎終界核心|lf- 在遠程模式下使用需要一顆激活的強化終界核心|lf  (可在同維度遠程傳送) 或一顆激活的|lf  高級終界核心 (可在不同維度間遠程傳送)
+item.enderutilities.endersword.tooltips=- 這把劍不會完全損壞|lf- 你可以在鐵砧中消耗一塊高級終界合金和15級的經驗修覆它|lf- Shift+切換鍵: 循環選定模式|lf  - 正常: 無特殊作用|lf  - 玩家: 如有可能怪物掉落物將直接進入|lf    玩家的背包.|lf  - 遠程: 如有可能掉落物將傳送到|lf    選定連接水晶的目標位置.|lf  - 召喚模式: 直接攻擊造成的傷害將被降到最低, 但會生成至少3個|lf    終界戰士來攻擊目標.|lf- 如果在召喚模式下32格範圍內|lf  沒有手持終界劍的玩家|lf  這些終界戰士就會發怒並開始攻擊玩家.|lf- 空閑的終界戰士會在10秒後消失.|lf- 你可以在他們身上使用命名牌來讓他們安靜下來|lf- 在玩家模式下使用需要一顆激活的基礎終界核心|lf- 在Remote模式下使用需要一顆激活的強化終界核心|lf  (可在同緯度遠程傳送) 或一顆激活的|lf  高級終界核心 (可在不同緯度間遠程傳送)
+item.enderutilities.handybag.tooltips=- 打開物品欄時這個背包會被打開|lf  物品欄裏可以看到手提包|lf- The first bag found (= hotbar first,|lf  then top-left-most first) will be used.|lf- Sneak while opening the inventory to|lf  open the regular inventory instead.|lf- 模式鍵: 切換拾取模式|lf- Shift+模式鍵: 切換鎖定狀態|lf  (鎖定的背包不會隨著物品欄打開)|lf- Alt+Shift+模式鍵: 切換重裝模式|lf- Alt+模式鍵: 切換公共/私有屬性|lf  (註意: 它的存儲單元是每個內存卡!)|lf- Uses item type Memory Cards|lf- 最高堆疊數取決於使用的內存卡的等級|lf- 一般的背包有27格空間, 大型背包有55格|lf- 提示: 中鍵可互換兩格中的物品
+item.enderutilities.icemelter_basic.tooltips=- 將冰熔化成水源方塊|lf- Make Ice great again!
+item.enderutilities.icemelter_super.tooltips=- 將冰熔化成水源方塊|lf  不會引發方塊更新！|lf- Water curtains Ahoy!
+item.enderutilities.inventoryswapper.tooltips=- 可以將玩家的物品欄物品|lf 與當前選擇的存儲卡物品互換|lf- 也可以潛行右擊與方塊容器交換|lf- 試試看只有6 B的存儲卡！|lf- 右擊打開界面|lf- 即使在物品根本沒有被選擇或者在快捷欄時，熱鍵依然奇效|lf- 只按轉換鍵: 執行交換操作|lf- Ctrl (+ Shift) + 切換鍵/scroll: 改變選中的存儲卡|lf 或者在循環模式下執行循環操作|lf- Alt + 切換: 更換卡片/循環後退|lf  (和Ctrl + Shift + 切換鍵 一樣，但是對你的手指更友好些)|lf- Shift + 切換鍵/scroll: 格子設置安排循環|lf- Ctrl + Alt + Shift + 切換鍵: 循環模式開關|lf- Alt + Shift + 切換: 鎖定/解鎖
+item.enderutilities.linkcrystal_0.tooltips=- - 潛行+右鍵綁定一個位置|lf- Alt+Shift +模式鍵: 綁定玩家所在的|lf  位置, 包括偏航角/俯仰角的角度|lf- Alt+模式鍵切換公共/私有屬性|lf- 提示: 可在鐵砧中命名; 名稱通常會在|lf  綁定的容器名後顯示
+item.enderutilities.linkcrystal_1.tooltips=- 潛行+右鍵綁定一個方塊|lf- Alt+模式鍵切換公共/私有屬性|lf- 提示: 可在鐵砧中命名; 名稱通常會在|lf  綁定的容器名後顯示
+item.enderutilities.linkcrystal_2.tooltips=*WIP*
+item.enderutilities.livingmanipulator.tooltips=- 可以抓捕/釋放生物|lf- Ctrl+ (Shift+) 模式鍵/滾輪: 循環選擇|lf- Shift+模式鍵/滾動: 循環選擇生物|lf- 模式鍵: 更改模式 (普通/僅抓捕/僅釋放)
+item.enderutilities.mobharness.tooltips=- 右擊生物騎乘它|lf- 潛行右擊“存儲”一個生物|lf  然後潛行右擊一個生物騎上去|lf  第一個會壓在第二個的頭上|lf- 在同一只生物上潛行右擊兩次|lf  把它放在你頭頂|lf- 潛行右擊一只騎著|lf  別的東西的生物把它放下來|lf- 向下看並潛行右擊|lf  清除一個“綁定”|lf- 向上看並潛行右擊|lf  釋放那只騎著你的生物
+item.enderutilities.nullifier.tooltips=- 9個格子, 每個格子可以存儲1024物品|lf- 自動拾取與之匹配的物品|lf- 已經存在於清空器內的物品如果不能被繼續|lf  吸入格子, 將會被刪除|lf- 切換鍵: 打開界面|lf- Shift + 切換鍵: 切換禁用狀態|lf- Ctrl + 切換 or Scroll: 切換已經選擇的格子
+item.enderutilities.pet_contract_blank.tooltips=- 允許轉移被馴服怪物的所有權|lf- 所有者必須右擊怪物以“簽訂合約”|lf- 另一個玩家可以用“已簽訂的合約”|lf- 右擊怪物來聲明所有權
+item.enderutilities.pickupmanager.tooltips=- 控制什麽樣的物品可以被撿起|lf- 可以將撿起來的物品傳送到遠程容器|lf  也可以從“發送槽”手動發送物品|lf- 切換鍵: 切換鎖定/解鎖模式|lf- Shift + 切換鍵/scroll: 循環切換過濾器預設|lf- Ctrl (+ Shift) + 切換鍵/scroll: 切換選擇的鏈接水晶|lf- Alt + 切換鍵: 在已選擇的鏈接水晶上切換私人模式|lf- 潛行右擊: 綁定到一個容器|lf- 需要鏈接水晶存儲目標位置|lf- 註意：遠程發送物品時需要終界電容器供能！
+item.enderutilities.portalscaler.tooltips=- 如果你站在傳送門裏拿著這玩意右擊|lf 會改變地獄傳送門的比例|lf- 改變比例|lf  - 首先在你的快捷欄裏選擇這東西|lf  - 看著你要改變的 (x/y/z)軸的方向|lf  - 然後按住 Alt + Shift 並使用鼠標滾輪|lf  - 或者按下 Alt + Shift (+ Ctrl) + 切換鍵|lf- 也可以點亮/熄滅傳送門|lf  (右擊傳送門方塊/黑曜石框架|lf  當不站在傳送門裏時)
+item.enderutilities.quickstacker.tooltips=- 從玩家的物品欄裏快速整理|lf 物品到附近的容器中|lf- 最大範圍是水平4個方塊，垂直3個方塊|lf- 按下切換鍵以激活|lf- 不在手上時也可以起效|lf- 正常情況下只移動匹配的物品|lf- 激活時潛行也可以移動不匹配的物品|lf- 也可以在容器上潛行右擊|lf 將物品快速轉移到這個容器中
+item.enderutilities.ruler.tooltips=測量與設定位置間的距離|lf- 左鍵/右鍵單擊以設定開始/目的位置|lf- 潛行以標記方塊，不要對著空中|lf- Shift + scroll: 循環切換被選擇點|lf- Ctrl + scroll:循環切換選擇的存儲卡|lf- Alt + 切換鍵:未被選擇時切換渲染|lf- Ctrl + Alt + 切換鍵:切換距離模式|lf- Alt + Shift + 切換鍵: 切換渲染所有點|lf- 只切換: 對選擇的點切換 "渲染所有" 
+item.enderutilities.syringe_paralyzer.tooltips=癱瘓生物 (設定NoAI標簽)
+item.enderutilities.syringe_passifier.tooltips=通過移除它們的目標AI任務馴化生物
+item.enderutilities.syringe_stimulant.tooltips=解除癱瘓生物 (移除NoAI標簽)
+item.enderutilities.void_pickaxe.tooltips=- 摧毀方塊時什麽都不會掉落|lf- 創造模式下也有效|lf- 添加了效率5附魔|lf  以應對快速模式下大多數方塊的挖掘|lf- 切換鍵: 在正常和快速模式下切換
+
+
+############################################
+# Tooltips displayed on blocks (ItemBlocks):
+############################################
+
+tile.enderutilities.asu.tooltips=- 可調節格子的數量，從1到27|lf- 每格最大堆疊數量也可調，從1到1024.
+tile.enderutilities.barrel.tooltips=- 潛行右鍵來打開界面|lf- 當主手為空|lf- 且副手持有方塊時用鼠標中鍵點擊來添加迷彩|lf- 潛行重覆以上過程來刪除迷彩
+tile.enderutilities.creation_station.tooltips=- 把兩個合成台 (新增合成表保存,|lf快速填充等功能)，兩個熔爐與一些模塊化存儲裝置結合在一起|lf- 有合成存儲，快速填滿合成格等功能
+tile.enderutilities.draw_bridge.tooltips=- 擴大或縮小一條直線上的方塊|lf- 正常的最大64，高級的32|lf- 高級版本可以對每個位置使用不同的方塊|lf- 副手拿著偽裝方塊時|lf  可以通過主手空手右擊來偽裝吊橋|lf- 空手潛行右擊移除偽裝方塊
+tile.enderutilities.ender_furnace.tooltips=-- 比原版熔爐更快|lf  (普通模式下3秒產出一件物品, )|lf- 可以用終界珍珠, 終界之眼和烈焰粉末當作燃料|lf- 也可以用從流體容器中輸出的巖漿作為燃料|lf  例如終界桶或TE4中的Portable Tanks|lf- 它也可以在無燃料的情況下工作 (每60秒產出一件物品)|lf- 緩慢模式下每個燃料的持續時間比在原版熔爐中|lf  高出1.5倍|lf- 快速模式下燃料的消耗速度比在緩慢模式中高出6倍|lf  (等於0.75倍於原版熔爐)|lf- 終界熔爐可以直接將成品輸出到所有者的原版終界箱子|lf- 它本身就擁有一個可提供緩存1024件成品的輸出槽位
+tile.enderutilities.ender_infuser.tooltips=- 可充能終界電容|lf- 使用終界珍珠或終界之眼作為"燃料"|lf- 三個充能選項選其一
+tile.enderutilities.ender_elevator.tooltips=-  讓實體於最近的, 顏色相同的兩個電梯間上下傳送|lf- 最大傳送範圍是垂直256格的高度, 水平64格的長度|lf- 跳躍向上, 潛行向下|lf- 也可被紅石信號所激活 (rising edge)|lf- 信號強度小於8則向上|lf  大於或等於8時則向下|lf- 用染料右擊一個電梯就可對其覆蓋染色|lf- 副手拿著偽裝方塊時|lf  可以通過主手空手右擊來偽裝電梯|lf- 空手潛行右擊移除偽裝方塊
+tile.enderutilities.energy_bridge_transmitter.tooltips=-  開啟的能量橋可自動的給|lf  組裝在模塊化工具上的|lf  終界電容充能|lf  模塊化工具須在玩家背包中|lf- 你需要在末地放置一台發送器|lf- 當然它並不需要加載區塊就能工作|lf  (事實上它什麽都不做)|lf- 將發送器放置在終界水晶附近|lf  (即在末地的黑曜石柱頂部)|lf- 在水晶上保留兩格的空氣方塊|lf  然後放置一台發送器|lf- 將四台諧振器放置在和終界水晶同一高度|lf  且距離它兩格空氣方塊的位置上|lf- 每台諧振器必須面向水晶|lf  (建議在你背對水晶時放置它們)|lf- 發送器的上方直到天空|lf  只可存在透明方塊|lf- 諧振器和它們的中心|lf 之間不能有任何方塊
+tile.enderutilities.energy_bridge_receiver.tooltips=- 開啟的能量橋可自動給|lf  組裝在模塊化工具上的|lf  終界電容充能|lf  模塊化工具須在玩家背包中|lf- 你需要在身處的維度中安置一台接收器|lf  才能使其工作|lf- 當然它並不需要加載區塊就能工作|lf  (事實上它們什麽都不做)|lf- 將接收器放置在四台|lf- 同一高度的諧振器的中央|lf  並與每台諧振器保持兩格的空氣方塊|lf- 每台諧振器必須面向接收器|lf  (建議在背對接收器時放置它們)|lf- 接收器的上方直到天空|lf  與下方直到基巖|lf  只可存在透明方塊
+tile.enderutilities.energy_bridge_resonator.tooltips=- 查看發送器與接收器的描述|lf- 諧振器之間必須不存在任何阻攔物|lf  (因為在諧振器之間, 以及諧振器和接收器之間|lf  會產生對角射線)
+tile.enderutilities.inserter_filtered.tooltips=- 像是管道，但不是真正的管道|lf- 首先會嘗試將物品插入允許的面|lf- 然後將轉而將物品插入它的前面|lf- 如果多個面可以傳輸，將在它們之間循環|lf  (就是均勻分配物品)|lf- 空手潛行右擊轉換輸出面|lf-有過濾器可以控制輸出面允許輸出什麽東西|lf- 過濾器不允許的物品將被送往前面|lf- 過濾器對所有面通用（至少現在）
+tile.enderutilities.inserter_normal.tooltips=- 像是管道，但不是真正的管道|lf- 首先會嘗試將物品插入允許的面|lf- 然後將轉而將物品插入它的前面|lf- 如果多個面可以傳輸，將在它們之間循環|lf-  如果多個面可以傳輸，將在它們之間循環|lf  (就是均勻分配物品)|lf- 空手潛行右擊轉換輸出面
+tile.enderutilities.floor_cracked.tooltips=- 劣質的地板……|lf- 物品和經驗球會從裂縫中漏過去
+tile.enderutilities.frame.tooltips=- 傳送門可以是任何尺寸|lf  (合理範圍內可以配置尺寸限制)|lf- 只需要用框架搭建一個封閉環|lf- 副手拿著偽裝方塊時|lf-  可以通過主手空手右擊來偽裝|lf- 空手潛行右擊移除偽裝方塊
+tile.enderutilities.handy_chest.tooltips=- 更簡單的物品管理 |lf 以及很大的存儲空間|lf- 中鍵（滾輪）點擊切換兩個大物品堆|lf- Shift + 單擊一個物品移動按鈕|lf  將其設置為快捷操作|lf- 雙擊箱子以|lf  執行設定的快捷操作|lf- 存儲卡的主人可以|lf  右擊某個卡片選擇按鈕將|lf  這個卡片鎖定在格子裏，這樣就沒有人可以|lf 將這張卡片拿出箱子了|lf- 帶有被鎖定卡片的箱子是不可破壞的
+tile.enderutilities.jsu.tooltips=- 只能存儲正常情況下不可堆疊的物品|lf- 存儲空間270格，每格最多堆疊256物品
+tile.enderutilities.msu_0.tooltips=- 一個格子，可以存儲極大量的物品|lf- 創造模式下中鍵（滾輪）點擊某個格子以填滿它|lf  - 鼠標指針帶著一個物品 => 物品堆疊數乘10|lf  - 鼠標指針帶著超過一個物品 => 填滿/清空這一格子
+tile.enderutilities.msu_1.tooltips=- 9個格子，可以存儲極大量的物品|lf- 創造模式下中鍵（滾輪）點擊某個格子以填滿它|lf  - 鼠標指針帶著一個物品 => 物品堆疊數乘10|lf  - 鼠標指針帶著超過一個物品 => 填滿/清空這一格子
+tile.enderutilities.memory_chest.tooltips=每個格子都可以鎖定成一個物品類型
+tile.enderutilities.portal_panel.tooltips=- 激活由傳送門框架搭建成的傳送門|lf- 控制板必須放在傳送門框架上|lf- 放置控制板的框架必須在傳送門環裏或者可以|lf  通過一個_連續的_ 由傳送門框架組成的"路徑"連接到這個環 |lf  (內部不允許對角線縫隙)|lf- 但是傳送門框架環本身可以用"對角角落"
+tile.enderutilities.molecular_exciter.tooltips=- 將其前方的方塊變成掉落狀態|lf  blocks on redstone pulse or block update|lf- 需要紅石信號激活
+tile.enderutilities.phasing.tooltips=- 基於紅石信號將方塊在固態和非固態之間轉換
+tile.enderutilities.phasing_inverted.tooltips=- 基於紅石信號將方塊在固態和非固態之間轉換
+tile.enderutilities.quick_stacker_advanced.tooltips=- 快速存放器的可配置性更強，固定化版本
+tile.enderutilities.sound_block.tooltips=- 是的，它會放出聲音……|lf- 從已經註冊的聲音裏任意選擇|lf- 可調整音高和音量
+tile.enderutilities.tool_workstation.tooltips=- 用來調取/改變模塊化工具裏的模塊|lf- 可以無代價重命名任何物品
+
+
+###################################
+# Placement Properties HUD:
+###################################
+enderutilities.placement_properties.title=放置屬性
+enderutilities.placement_properties.asu.slots=格子數量
+enderutilities.placement_properties.asu.stack_limit=堆疊數限制
+enderutilities.placement_properties.drawbridge.delay=延遲
+enderutilities.placement_properties.drawbridge.length=長度
+enderutilities.placement_properties.drawbridge.redstone_mode=紅石模式
+enderutilities.placement_properties.inserter.delay=延遲
+enderutilities.placement_properties.inserter.redstone_mode=紅石模式
+enderutilities.placement_properties.inserter.stack_limit=堆疊數限制
+enderutilities.placement_properties.valuenames.drawbridge.redstone_mode.extend=擴展
+enderutilities.placement_properties.valuenames.drawbridge.redstone_mode.retract=縮回
+enderutilities.placement_properties.valuenames.drawbridge.redstone_mode.toggle=切換
+enderutilities.placement_properties.valuenames.inserter.redstone_mode.high=高
+enderutilities.placement_properties.valuenames.inserter.redstone_mode.ignored=忽略
+enderutilities.placement_properties.valuenames.inserter.redstone_mode.low=低
+
+enderutilities.tooltip.placementproperties.tooltips= |lf§f*** 放置屬性 ***§r|lf- (Shift +) 轉換鍵以改變屬性選擇|lf- Shift/Ctrl/Alt + scroll改變相應數值
+
+
+###################################
+# GUI InfoAreas
+###################################
+
+enderutilities.gui.infoarea.asu=- 堆疊數在這裏設置，代表著你的容器裏一組物品最大的堆疊數量|lf- (Ctrl/Shift +) 單擊/右擊/滾輪點擊或者scroll改變這一數值|lf- 滾輪點擊 (鼠標指針拿著的物品或者格子): 鎖定格子只能存儲該物品|lf- Alt + 滾輪點擊: 交換兩個物品堆|lf- Shift + 滾輪點擊 (創造模式下): 填滿這個格子 (鼠標指針帶著大於一個物品)|lf  或者以10倍率循環改變堆疊數 (鼠標指針帶著一個物品)
+enderutilities.gui.infoarea.barrel=- 用桶標簽右擊一個桶將標簽加到對應面上|lf- 添加桶結構升級可以在打掉桶子之後保留內容物|lf- 每個桶容量升級添加 %d 組的容量|lf- 滾輪點擊 (鼠標指針拿著的物品或者格子): 鎖定格子只能存儲該物品|lf- Alt + 滾輪點擊: 交換兩個物品堆|lf- Shift + 滾輪點擊 (創造模式下): 填滿這個格子 (鼠標指針帶著大於一個物品)|lf  或者以10倍率循環改變堆疊數 (鼠標指針帶著一個物品)|lf- 桶子也可以用存儲鑰匙解鎖
+enderutilities.gui.infoarea.creation_station=合成預設：|lf- 單擊 (第一個): 加載合成|lf- 單擊 (第二個): 向格子裏添加一個物品|lf- 單擊 (第三個): 最大堆疊數量填滿格子|lf- Shift + 單擊: 存儲合成|lf- 右擊: 清除格子 (和'x'一樣)|lf- 格子空時再次清除以隱藏合成|lf- 滾輪點擊: 移除已存儲的合成|lf- Shift + 點擊快速移動按鈕以設置快捷|lf  操作，當雙擊方塊時執行|lf- 你最近交互過的合成格|lf (高亮) 用於JEI合成填充
+enderutilities.gui.infoarea.drawbridge=- 擴展或收回一條線上的方塊|lf- 線的最大長度可調節|lf- 操作之間的延遲可以調節|lf- 使用一系列方向明確的方塊 或者|lf  保存有實體數據值的方塊，將它們|lf  搭建在世界中並點擊 "從世界中獲取方塊狀態"|lf- 對於正常的吊橋，方塊狀態從|lf  吊橋前面第一個方塊獲取|lf- 副手拿著偽裝方塊時|lf  可以通過主手空手右擊來偽裝吊橋|lf- 空手潛行右擊移除偽裝方塊
+enderutilities.gui.infoarea.inserter_filtered=- 首先會嘗試將物品插入 "輸出面" |lf- 如果操作失敗，或者這些物品被過濾器阻擋|lf  這些物品將轉而進入“正常輸出”|lf- 空手潛行右擊將轉換輸出面|lf- 堆疊數限制了一次移動多少物品|lf- (Shift 或 Ctrl) 單擊/右擊/滾輪點擊 or scroll over|lf 改變數值的 +/-按鈕
+enderutilities.gui.infoarea.inserter_normal=- 首先會嘗試將物品插入 "輸出面" |lf- 如果操作失敗|lf  這些物品將轉而進入“正常輸出”|lf- 空手潛行右擊將轉換輸出面|lf- 堆疊數限制了一次移動多少物品|lf- (Shift 或 Ctrl) 單擊/右擊/滾輪點擊 or scroll over|lf 改變數值的 +/-按鈕
+enderutilities.gui.infoarea.inventoryswapper=- 用當前選擇的存儲卡|lf 交換玩家的物品欄|lf- 玩家物品欄格子被標記成藍色|lf  可以進行交換操作|lf- 滾輪點擊切換成獨立格子|lf- 在循環模式下切換選擇的存儲卡|lf 有效地做到了'交換 + 換卡片 + 交換'|lf  允許你快速地在多個|lf 物品設置間切換
+enderutilities.gui.infoarea.memory_chest=- 滾輪點擊以鎖定格子裏當前的物品|lf- 你也可以用鼠標指針帶著物品，滾輪點擊直接放置|lf- 這樣就只會有對應類型的方塊可以進入那個格子|lf- 私人箱子不能被他人打開|lf  也不能被破壞
+enderutilities.gui.infoarea.msu=- lf- 滾輪點擊 (鼠標指針拿著的物品或者格子): 鎖定格子只能存儲該物品|lf- Alt + 滾輪點擊: 交換兩個物品堆|lf- Shift + 滾輪點擊 (創造模式下): 填滿這個格子 (鼠標指針帶著大於一個物品)|lf  或者以10倍率循環改變堆疊數 (鼠標指針帶著一個物品)
+enderutilities.gui.infoarea.nullifier=- 只是個清空器，但是有9個大格子……|lf- 會自動撿起任何與已經存儲在裏面相匹配的物品|lf- 任何內部的存儲都會被先填滿，無法吸入的將被刪除|lf- 右擊將放置內部存儲的方塊|lf- Ctrl + 切換鍵/Scroll: 改變已選擇的格子|lf- Ctrl + 滾輪點擊清除格子的內容物
+enderutilities.gui.infoarea.pickupmanager=- 可以控制玩家能撿起什麽樣的物品|lf- 能夠直接將物品傳送到遠程容器中|lf- 首先檢查傳輸過濾器|lf- 如果它們被禁用，或者物品不被允許|lf  接著將檢查物品欄過濾器|lf- 傳輸過濾器決定了撿起來的物品中哪些可以被傳輸|lf- 物品欄過濾器決定了哪些物品會被玩家撿起|lf  假設物品不會被傳輸|lf- 註意: 需要電容器傳輸物品！ (在工具工作台中傳輸物品)
+enderutilities.gui.infoarea.portalpanel=- 你可以在染料槽裏為每個目的點添加顏色|lf- 染料會改變創造出來的傳送門的顏色 (僅用於裝飾！)|lf- 當傳送門被激活，目標地點來自於鏈接水晶|lf- 傳送門控制板必須放在傳送門框架上|lf 經由一個有傳送門方塊的 "連續路徑"  |lf 連接到一個有效的傳送門 "框架環" |lf  (對角線連接是不夠的)|lf- 傳送門框架環本身是可以有“對角角落”的|lf- 傳送門最大尺寸的算法是可以配置的|lf  (在配置文件或者遊戲內配置菜單內調節)
+enderutilities.gui.infoarea.quickstacker=- 默認情況下只移動|lf  已經存在於目標容器中的物品|lf- 潛行可以從可用的格子裏移動所有物品|lf  (甚至是一開始目標容器裏沒用的物品)|lf- 使用切換鍵激活|lf- 可以潛行右擊容器|lf  以快速將物品整理到該容器中|lf- 玩家物品欄被標記為藍色|lf  允許用來進行快速整理|lf- 滾輪點擊可以切換成獨立的格子|lf- 不需要拿著使用|lf  (但需要是物品欄中第一個被找到的|lf  "未選擇綁定熱鍵可操作物品" )
+enderutilities.gui.infoarea.quick_stacker_advanced=- 玩家物品欄被標記成藍色|lf  用來快速整理|lf-滾輪點擊切換成獨立格子|lf- 雙擊該方塊以激活|lf- 默認只移動已經|lf存在於目標容器的物品|lf- 潛行時從允許的格子|lf  移動所有物品|lf- 點擊模塊選擇按鈕以選擇|lf 存儲卡/過濾器進行配置|lf- 右擊按鈕以啟用/禁用|lf  目標容器|lf- 區域模式下最大範圍16方塊|lf- 綁定模式下最大範圍是32方塊
+enderutilities.gui.infoarea.sound_block=- 音量從1到最大|lf- 範圍為音量值*16方塊
+
+
+###################################
+# GUI and item labels/tooltips etc:
+###################################
+
+enderutilities.gui.label.bag.disabled=包被禁用
+enderutilities.gui.label.bag.enabled=包被啟用
+enderutilities.gui.label.blacklist=黑名單
+enderutilities.gui.label.blockquickactions.disabled=方塊快捷操作：禁用
+enderutilities.gui.label.blockquickactions.enabled=方塊快捷操作：啟用
+enderutilities.gui.label.builderswand.template=模板名
+enderutilities.gui.label.clearcraftinggrid=清除格子
+enderutilities.gui.label.cyclemode.disabled=循環模式：禁用
+enderutilities.gui.label.cyclemode.enabled=循環模式：啟用
+enderutilities.gui.label.delay.inserter=操作間延遲
+enderutilities.gui.label.drawbridge.block_count=長度 (方塊數量)
+enderutilities.gui.label.drawbridge.delay=操作間延遲
+enderutilities.gui.label.drawbridge.delay_num=延遲: %d
+enderutilities.gui.label.drawbridge.length_num=長度: %d
+enderutilities.gui.label.drawbridge.take_blocks=從世界中獲取方塊狀態
+enderutilities.gui.label.drawbridge.redstone_mode.extend_when_powered=充能時擴大
+enderutilities.gui.label.drawbridge.redstone_mode.retract_when_powered=充能時縮回
+enderutilities.gui.label.drawbridge.redstone_mode.toggle_on_pulse=紅石脈沖切換 (上升沿)
+enderutilities.gui.label.enderinfuser.input=終界珍珠或者終界眼
+enderutilities.gui.label.enderinfuser.chargeableinput=可充能物品
+enderutilities.gui.label.fillstacks=填滿所有存在的物品欄
+enderutilities.gui.label.filterpresets=過濾器預設
+enderutilities.gui.label.filters.disabled=忽略過濾器
+enderutilities.gui.label.filters.enabled=使用過濾器
+enderutilities.gui.label.furnace.fast=快速模式
+enderutilities.gui.label.furnace.slow=慢速/回聲模式
+enderutilities.gui.label.handybag.shiftclick.doubletapshift=Shift-單擊行為:|lf連按兩下shift切換
+enderutilities.gui.label.handybag.shiftclick.invhotbar=Shift-單擊行為:|lf在物品欄和快捷欄間移動
+enderutilities.gui.label.handybag.shiftclick.tobag=Shift-單擊行為:|lf移動到包
+enderutilities.gui.label.holdshifttoincludehotbar=(按下shift包括了快捷欄)
+enderutilities.gui.label.inserter.filter.input=過濾器用於輸入
+enderutilities.gui.label.inserter.filter.output=過濾器用於輸出
+enderutilities.gui.label.inventoryfilters=物品欄過濾器
+enderutilities.gui.label.item.disabled=物品被禁止
+enderutilities.gui.label.item.enabled=物品被允許
+enderutilities.gui.label.leaveonefilledstack=每個類型的物品都留下一整組
+enderutilities.gui.label.leaveoneitemongrid.disabled=留下一個物品：禁止
+enderutilities.gui.label.leaveoneitemongrid.enabled=留下一個物品：開啟
+enderutilities.gui.label.memorycards=存儲卡
+enderutilities.gui.label.meta.ignore=忽略耐久損耗/metadata
+enderutilities.gui.label.meta.match=匹配耐久損耗/metadata
+enderutilities.gui.label.modulestorage=模塊存儲
+enderutilities.gui.label.moveallitems=移動所有物品
+enderutilities.gui.label.moveallitemsexcepthotbar=移動所有物品 (除快捷欄)
+enderutilities.gui.label.movematchingitems=移動匹配的物品
+enderutilities.gui.label.movematchingitemsexcepthotbar=移動匹配的物品 (除快捷欄)
+enderutilities.gui.label.msu.creative.enabled=創造模式: 開啟
+enderutilities.gui.label.msu.creative.disabled=創造模式: 關閉
+enderutilities.gui.label.nbt.ignore=忽略NBT
+enderutilities.gui.label.nbt.match=匹配NBT
+enderutilities.gui.label.outputtoenderchest.disabled=輸出到終界箱:禁用
+enderutilities.gui.label.outputtoenderchest.enabled=輸出到終界箱：啟用
+enderutilities.gui.label.pickup_manager.functionality.disabled=禁用該功能
+enderutilities.gui.label.pickup_manager.functionality.enabled=使用該功能
+enderutilities.gui.label.pickupmode.all=拾取模式：所有
+enderutilities.gui.label.pickupmode.disabled=拾取模式：禁用
+enderutilities.gui.label.pickupmode.matching=拾取模式：匹配
+enderutilities.gui.label.portalpanel.dyeslot=把染料放在這裏為按鈕|lft 和已創建的傳送門添加顏色
+enderutilities.gui.label.private=私有
+enderutilities.gui.label.public=公有
+enderutilities.gui.label.quickstack=快速整理
+enderutilities.gui.label.quicktoggle=快速切換
+enderutilities.gui.label.redstone.high=紅石模式：高
+enderutilities.gui.label.redstone.ignored=紅石模式：忽略
+enderutilities.gui.label.redstone.low=紅石模式：低
+enderutilities.gui.label.renameitems=重命名物品
+enderutilities.gui.label.restockmode.all=再儲存模式: 所有
+enderutilities.gui.label.restockmode.disabled=再儲存模式: 禁止
+enderutilities.gui.label.restockmode.hotbar=再儲存模式: 僅快捷欄
+enderutilities.gui.label.setname=設置名字
+enderutilities.gui.label.settargetname=設置目標名字
+enderutilities.gui.label.slot.amount=格子數量
+enderutilities.gui.label.slot.amount.num=格子數: %d
+enderutilities.gui.label.slotpresets=格子預設
+enderutilities.gui.label.slowfasttoggle=切換慢速/快速模式
+enderutilities.gui.label.sortitems=分類物品
+enderutilities.gui.label.sortitems.player=分類玩家物品欄
+enderutilities.gui.label.sound_block.clear=清除 (或者右擊區域)
+enderutilities.gui.label.sound_block.pause=暫停
+enderutilities.gui.label.sound_block.play=播放
+enderutilities.gui.label.sound_block.stop=停止
+enderutilities.gui.label.sound_block.repeat.disabled=重放：禁用
+enderutilities.gui.label.sound_block.repeat.enabled=重放：啟用
+enderutilities.gui.label.sound_block.pitch=音高
+enderutilities.gui.label.sound_block.volume=音量
+enderutilities.gui.label.stacklimit=堆疊數限制
+enderutilities.gui.label.stack.limit.num=最大堆疊數: %d
+enderutilities.gui.label.tool_workstation.tool=需要調整的工具和物品
+enderutilities.gui.label.tool_workstation.itemtorename=需要重命名的物品
+enderutilities.gui.label.tool_workstation.useemptynametoreset=使用空名字以重置為默認
+enderutilities.gui.label.transportfilters=傳輸過濾器
+enderutilities.gui.label.transportitemsslot=把物品傳輸到遠程容器中
+enderutilities.gui.label.updateitems.disabled=更新物品：禁用
+enderutilities.gui.label.updateitems.enabled=更新物品：啟用
+enderutilities.gui.label.use.areablock=使用方塊周圍區域
+enderutilities.gui.label.use.areaplayer=使用玩家周圍區域
+enderutilities.gui.label.use.linkcrystaltargets=使用鏈接水晶目標
+enderutilities.gui.label.useitemsfrominventory.disabled=從容器中取出物品：禁用
+enderutilities.gui.label.useitemsfrominventory.enabled=從容器中取出物品：啟用
+enderutilities.gui.label.useoredictionary.disabled=使用礦物詞典：禁用
+enderutilities.gui.label.useoredictionary.enabled=使用礦物詞典：啟用
+enderutilities.gui.label.whitelist=白名單
+
+enderutilities.tooltip.dimension=維度
+enderutilities.tooltip.dimension.compact=DIM
+enderutilities.tooltip.durability=耐久
+enderutilities.tooltip.item.1x1=1x1
+enderutilities.tooltip.item.3x3=3x3
+enderutilities.tooltip.item.advanced=高級
+enderutilities.tooltip.item.all=所有
+enderutilities.tooltip.item.amount=數量
+enderutilities.tooltip.item.and=和
+enderutilities.tooltip.item.andmorestacksnotlisted=  ... 還有 %s%d%s 組物品未整理
+enderutilities.tooltip.item.area=區域
+enderutilities.tooltip.item.area.flipped=區域翻轉
+enderutilities.tooltip.item.bag.enabled=包被啟用
+enderutilities.tooltip.item.basic=基本
+enderutilities.tooltip.item.bindlocked=綁定鎖定
+enderutilities.tooltip.item.block=方塊
+enderutilities.tooltip.item.blocktype.adjacent=鄰近
+enderutilities.tooltip.item.blocktype.targeted=目標
+enderutilities.tooltip.item.bucket.mode.bind=綁定到水槽
+enderutilities.tooltip.item.bucket.mode.fill=填滿水桶
+enderutilities.tooltip.item.bucket.mode.drain=吸取水桶
+enderutilities.tooltip.item.bucket.mode.normal=正常
+enderutilities.tooltip.item.build.bindmode=綁定模式
+enderutilities.tooltip.item.build.chiselsandbits.crossworld=C&B 跨世界
+enderutilities.tooltip.item.build.circle=Circle (INCOMPLETE - doesn't do anything atm)
+enderutilities.tooltip.item.build.column=隊列
+enderutilities.tooltip.item.build.copy=覆制
+enderutilities.tooltip.item.build.cube=立方體（實心）
+enderutilities.tooltip.item.build.delete=刪除
+enderutilities.tooltip.item.build.extend.area=擴大區域
+enderutilities.tooltip.item.build.extend.continuous=擴大連續
+enderutilities.tooltip.item.build.line=線
+enderutilities.tooltip.item.build.move.source=移動從
+enderutilities.tooltip.item.build.move.destination=移動到
+enderutilities.tooltip.item.build.paste=粘貼
+enderutilities.tooltip.item.build.plane=平面
+enderutilities.tooltip.item.build.replace=替換
+enderutilities.tooltip.item.build.replace.3d=替換3D
+enderutilities.tooltip.item.build.replacement=替換
+enderutilities.tooltip.item.build.stack=堆疊
+enderutilities.tooltip.item.build.target=目標
+enderutilities.tooltip.item.build.walls=墻
+enderutilities.tooltip.item.builderswand.allowdiagonals=允許對角線
+enderutilities.tooltip.item.builderswand.renderghostblocks=渲染幽靈方塊
+enderutilities.tooltip.item.cached.amount=上一次看到的數量
+enderutilities.tooltip.item.cached.fluid=上一次看到的流體
+enderutilities.tooltip.item.cached.fluid.compact=上一次
+enderutilities.tooltip.item.capture=捕獲
+enderutilities.tooltip.item.carrying=攜帶著: %s
+enderutilities.tooltip.item.charge=充能
+enderutilities.tooltip.item.continuethrough=繼續通過
+enderutilities.tooltip.item.craftingingredient=合成要素
+enderutilities.tooltip.item.creative_breaking_enabled=類創造破壞速度開啟: %s
+enderutilities.tooltip.item.creative_breaking_installed=類創造破壞速度模塊: %s
+enderutilities.tooltip.item.cyclemode=循環模式
+enderutilities.tooltip.item.disabled=禁用
+enderutilities.tooltip.item.durability=耐久
+enderutilities.tooltip.item.enabled=啟用
+enderutilities.tooltip.item.end=末地
+enderutilities.tooltip.item.endercore=終界核心
+enderutilities.tooltip.item.endersword.summon=召喚
+enderutilities.tooltip.item.entities=實體
+enderutilities.tooltip.item.endertool.digmode=挖掘模式
+enderutilities.tooltip.item.endertool.dropsmode=掉落
+enderutilities.tooltip.item.endertool.playerinv=玩家
+enderutilities.tooltip.item.endertool.remote=遠程
+enderutilities.tooltip.item.enhanced=增強
+enderutilities.tooltip.item.empty=空
+enderutilities.tooltip.item.fast=快速
+enderutilities.tooltip.item.flipaxis=翻轉軸
+enderutilities.tooltip.item.fluid=流體
+enderutilities.tooltip.item.holdshift=按下 §e§oShift§7 查看更多
+enderutilities.tooltip.item.holdshiftfordescription=按下 §e§oShift§7 查看描述
+enderutilities.tooltip.item.hotbar=快捷欄
+enderutilities.tooltip.item.items=物品
+enderutilities.tooltip.item.jailer=獄卒
+enderutilities.tooltip.item.linked=已鏈接
+enderutilities.tooltip.item.linkedto=已鏈接到
+enderutilities.tooltip.item.matching=匹配
+enderutilities.tooltip.item.memorycard.datatypecount=存儲 %d 數據類型:
+enderutilities.tooltip.item.memorycard.items.stackcount=一共存儲 %d 組 / %s 物品
+enderutilities.tooltip.item.memorycard.nodata=沒有數據
+enderutilities.tooltip.item.memorycard.noitems=沒有物品
+enderutilities.tooltip.item.memorycard.unknowndata=不明數據
+enderutilities.tooltip.item.mirror=鏡像
+enderutilities.tooltip.item.mode=模式
+enderutilities.tooltip.item.morestacksnotlisted=更多物品堆未被羅列
+enderutilities.tooltip.item.move=移動
+enderutilities.tooltip.item.no=無
+enderutilities.tooltip.item.nodata=無數據
+enderutilities.tooltip.item.nolinkcrystals=未安裝鏈接水晶
+enderutilities.tooltip.item.nomemorycards=未安裝存儲卡
+enderutilities.tooltip.item.none=無
+enderutilities.tooltip.item.normal=正常
+enderutilities.tooltip.item.notargetset=未設置目標
+enderutilities.tooltip.item.notlinked=未鏈接
+enderutilities.tooltip.item.owner=主人
+enderutilities.tooltip.item.pickupmode=拾取模式
+enderutilities.tooltip.item.pickupmode.short=PUM
+enderutilities.tooltip.item.preset=預設
+enderutilities.tooltip.item.private=私有
+enderutilities.tooltip.item.public=公有
+enderutilities.tooltip.item.release=正式版
+enderutilities.tooltip.item.renderall=渲染所有
+enderutilities.tooltip.item.rendercurrentwithall=渲染當前所有
+enderutilities.tooltip.item.renderwhenunselected=未選中時渲染
+enderutilities.tooltip.item.replace=取代
+enderutilities.tooltip.item.restockmode=再存儲模式
+enderutilities.tooltip.item.restockmode.short=RM
+enderutilities.tooltip.item.rotation=旋轉
+enderutilities.tooltip.item.ruler.difference=不同
+enderutilities.tooltip.item.ruler.dimensions=長度
+enderutilities.tooltip.item.selected=被選擇的
+enderutilities.tooltip.item.selectedblock=被選擇的方塊
+enderutilities.tooltip.item.selectedlinkcrystal=被選擇的鏈接水晶:
+enderutilities.tooltip.item.selectedlinkcrystal.short=LC:
+enderutilities.tooltip.item.selectedmemorycard=被選擇的存儲卡:
+enderutilities.tooltip.item.selectedmemorycard.notinstalled=未選擇卡
+enderutilities.tooltip.item.selectedmemorycard.short=MC:
+enderutilities.tooltip.item.selectedtemplate=被選擇的模板
+enderutilities.tooltip.item.single=單一
+enderutilities.tooltip.item.slots=格子
+enderutilities.tooltip.item.stacks=物品堆
+enderutilities.tooltip.item.start=開始
+enderutilities.tooltip.item.target=目標
+enderutilities.tooltip.item.template=模板
+enderutilities.tooltip.item.tier=等級
+enderutilities.tooltip.item.tpself=傳送自己
+enderutilities.tooltip.item.tptarget=傳送目標
+enderutilities.tooltip.item.usetoolworkstation=使用工具工作台添加/移除模塊
+enderutilities.tooltip.item.yes=是
+
+
+# Chat messages:
+
+enderutilities.chat.message.areasavedtotemplate=區域被保存到模板 %d 中
+enderutilities.chat.message.areatoofar=區域太遠了
+enderutilities.chat.message.areatoolargeortoofar=區域太大或太遠了
+enderutilities.chat.message.areatoolarge=區域太大，最大長度是 %d
+enderutilities.chat.message.builderswand.areasarethesame=區域完全一樣--中止中
+enderutilities.chat.message.creativeonly=該特性只可用於創造模式
+enderutilities.chat.message.bound.block.changed=綁定之後目標方塊發生變動，正在移除綁定
+enderutilities.chat.message.enderbag.blocknotwhitelisted=目標方塊沒有白名單:
+enderutilities.chat.message.enderbag.outofrange=目標在客戶端範圍之外
+enderutilities.chat.message.failedtosaveareatotemplate=無法將區域保存到模板中
+enderutilities.chat.message.featuredisabled=該特性無法用於服務端
+enderutilities.chat.message.featuredisabledinsurvivalmode=本服務器生存模式下該特性被禁用
+enderutilities.chat.message.itembindlocked=該物品當前被綁定鎖定
+enderutilities.chat.message.itemboundtolocation=綁定到該位置
+enderutilities.chat.message.killedentitieswithcount=殺死 %d 實體
+enderutilities.chat.message.memorycard.full=存儲卡是空的
+enderutilities.chat.message.mobharness.targetnotfoundoroutofrange=找不到目標實體或超出範圍 (最大64方塊)
+enderutilities.chat.message.notenoughendercharge=終界充能不足
+enderutilities.chat.message.positionoutsideworld=位置或區域超出世界限制
+enderutilities.chat.message.private.owned.by=設定為私人，由 %s擁有
+
+##################
+#   Subtitles    #
+##################
+enderutilities.subtitle.jailer=獄卒模塊 screeks
+enderutilities.subtitle.molecular_exciter=分子激發輻射

@@ -1,0 +1,44 @@
+{
+    "name": "充能",
+    "icon": "hwell:charger",
+    "category": "multiblocks",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "text",
+            "text": "你的能源水晶的能源有時候會耗盡. 如果你想要給水晶充能的話,你需要一個充能器以及用來充能的一個多方塊結構.$(br2)當你要給水晶充電時, 你的拿著水晶右鍵放它入充能器. 然後將含有能量的物品扔在地面上. 這些物品將會被充能器吸入,並在充能器內部消耗,以此為能源水晶充能."
+        },
+        {
+            "type": "multiblock",
+            "name": "充能器的多方塊結構",
+            "multiblock": {
+                "pattern": [
+					[ "     ", "  G  ", " GTG ", "  G  ", "     "],
+					[ "     ", "     ", "     ", "     ", "     "],
+					[ "COOOC", "OMMMO", "OM0MO", "OMMMO", "COOOC"]
+                ],
+                "mapping": {
+                    "0": "hwell:moonstone",
+                    "M": "hwell:moonstone",
+                    "C": "hwell:crystal_block",
+                    "O": "hwell:smooth_onyx",
+                    "T": "hwell:charger",
+                    "G": "hwell:gravity_block_mini"					
+                }
+            }
+        
+        },
+		{
+            "type": "text",
+            "text": "這是一些內部含有能源的物品:$(li)桶裝的液態靈魂$(li)神秘粉塵$(li)神秘樹葉$(li)神秘水晶棒$(li)水晶催化劑$(li)被囚禁的光$(li)螢石粉$(li)TNT$(li)煤炭$(li)經驗瓶$(br2)如果這些扔入的物品會產生副產品, 這些副產品將會從充能器頂部產出."
+        },
+        { 	"type": "crafting",
+	        "name": "Precision Grinding",
+            "recipe": "hwell:charger"
+        },
+		{
+			"type": "text",
+			"text": "多方塊結構所需材料:$(br)$(li)1 充能器$(li)4 水晶塊$(li)12 平滑的黑瑪瑙塊$(li)9 月光石$(li)4 迷你重力方塊"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+item.resin.name=樹脂
+item.rubber.name=橡膠
+item.rubber_boots.name=橡膠靴
+item.tree_tap.name=木龍頭
+itemGroup.Electrostatics=靜電學
+tile.electrostatic_generator.name=靜電發生器

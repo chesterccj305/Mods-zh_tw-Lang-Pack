@@ -1,0 +1,6 @@
+{
+  "name": "生物",
+  "description": "所有的好傢伙與壞傢伙！",
+  "icon": "minecraft:spawn_egg:0{EntityTag:{id:\"twilightforest:wild_boar\"}}",
+  "sortnum": 2000
+}

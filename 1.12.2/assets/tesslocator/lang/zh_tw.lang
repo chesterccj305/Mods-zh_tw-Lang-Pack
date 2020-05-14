@@ -1,0 +1,27 @@
+# Items
+item.tesslocator.tooltip=轉運器與超立方體的綜合體
+item.tesslocator.basic_item_tesslocator.name=基礎物品超轉運體
+item.tesslocator.basic_fluid_tesslocator.name=基礎流體超轉運體
+item.tesslocator.basic_energy_tesslocator.name=基礎能量超轉運體
+item.tesslocator.advanced_item_tesslocator.name=進階物品超轉運體
+item.tesslocator.advanced_fluid_tesslocator.name=進階流體超轉運體
+item.tesslocator.advanced_energy_tesslocator.name=進階能量超轉運體
+
+# Config
+tesslocator=超轉運體
+tesslocator.general.render_particles=渲染粒子
+tesslocator.general.particles=顆粒效果
+tesslocator.basic_item.speed_boost_max=最大速度提升
+tesslocator.basic_item.speed_boost_multiplier=速度提升乘數
+tesslocator.basic_item.speed_boost_starting=起始速度提升
+tesslocator.basic_item.stack_boost_max=最大堆疊提升
+
+tesslocator.gui.speed_boost=速度提升（螢石粉）
+tesslocator.gui.stack_boost=堆疊提升（鑽石）
+tesslocator.gui.input_filter=輸入過濾器
+tesslocator.gui.output_filter=輸出過濾器
+tesslocator.gui.change_mode=轉換模式
+tesslocator.gui.mode=模式：%s
+tesslocator.gui.mode.input=輸入
+tesslocator.gui.mode.output=輸出
+tesslocator.gui.mode.io=輸入/輸出

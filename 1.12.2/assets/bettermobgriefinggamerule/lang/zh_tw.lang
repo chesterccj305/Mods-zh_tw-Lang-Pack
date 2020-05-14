@@ -1,0 +1,5 @@
+# Categories
+bettermobgriefinggamerule.config.defaultGlobalRule=默認全局規則
+bettermobgriefinggamerule.config.defaultGlobalRule.tooltip=默認全局 mobGriefing 值, 將在首次安裝此 mod 後, 創建新世界或打開現有世界時使用。
+bettermobgriefinggamerule.config.defaultEntityRules=默認實體規則
+bettermobgriefinggamerule.config.defaultEntityRules.tooltip=對特定 mobGriefing 實體的默認規則，將在首次安裝此 mod 後, 創建新世界或打開現有世界時使用。

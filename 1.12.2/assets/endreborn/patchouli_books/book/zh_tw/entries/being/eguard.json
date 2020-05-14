@@ -1,0 +1,17 @@
+{
+    "name": "終界守衛",
+    "icon": "endreborn:item_end_shard",
+    "category": "being",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "它們就像傀儡一樣，只是保護著自己的末地維度。唯一的問題是先有烈焰人還是先有末地守衛的呢。"
+        },
+	{
+            "type": "spotlight",
+            "item": "endreborn:item_end_shard",
+            "link_recipe": true
+        }
+    ]
+}

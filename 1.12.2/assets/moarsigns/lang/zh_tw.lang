@@ -1,0 +1,55 @@
+integration.moarsigns:waila.show_material=顯示材料名稱
+# -Gui
+gui.moarsigns:button.title.cut=剪切
+gui.moarsigns:button.title.copy=覆制
+gui.moarsigns:button.title.paste=粘貼
+gui.moarsigns:button.title.copysign=覆制告示牌內容
+gui.moarsigns:button.title.pastesign=粘貼到告示牌
+gui.moarsigns:button.title.reset=重置
+gui.moarsigns:button.title.textstyle=文字樣式
+gui.moarsigns:button.title.lock=鎖定行
+#General names
+itemGroup.moarSigns=更多告示牌
+item.moarsigns.debug.name=調試模式
+item.moarsigns.sign.error.name=告示牌 §4錯誤§r
+tile.moarsign.sign.name=告示牌 §4錯誤§r
+crafting.moarsigns.sign.crafting=更多告示牌合成
+# -Integration
+integration.moarsigns:waila.show_origin=顯示材料原始名稱
+gui.moarsigns:button.title.cutsign=剪切告示牌內容
+gui.moarsigns:button.title.colorselector=調色板
+#  The [%2->Increase|Decrease] in the following get decided what to pick in the code
+gui.moarsigns:button.title.text.size=[%1][%2->Increase|Decrease] 字體大小
+gui.moarsigns:button.title.text.position=移動行 [%1->up|down]
+gui.moarsigns:button.title.text.showhide=[%1->Show|Hide] 顯示行
+gui.moarsigns:button.title.text.shadow=[%1->Enable|Disable] 文字陰影
+#  For the descriptions of the first, [%1] = linebreak
+gui.moarsigns:button.description.cut=剪切選中的文本[%1]到粘貼板
+gui.moarsigns:button.description.copy=覆制選中的文本[%1]到粘貼板
+gui.moarsigns:button.description.paste=從粘貼板中粘貼文本
+gui.moarsigns:button.description.cutsign=把這個告示牌剪切到[%1]粘貼板, 用來準備[%1]粘貼到另一個告示牌上[%2]如果有些東西隱藏了不顯示的話，Shift+左鍵來獲取[%2]告示牌的大小、位置和陰影
+gui.moarsigns:button.description.copysign=把這個告示牌覆制到[%1]粘貼板, 用來準備[%1]粘貼到另一個告示牌上[%2]如果有些東西隱藏了不顯示的話，[%2]Shift+左鍵來獲取[%2]告示牌的大小、位置和陰影
+gui.moarsigns:button.description.pastesign=粘貼在粘貼板中[%1]的一個告示牌的所有文本.
+gui.moarsigns:button.description.reset=擦除告示牌中的所有文本[%1]以及重置所有被隱藏的行[%1]和文字的位置
+#Factorization
+item.moarsigns.sign.factorization.silver_sign.name=銀制牌子
+crafting.moarsigns.sign.shaped=更多告示牌有序合成
+crafting.moarsigns.sign.shapeless=更多告示牌無序合成
+#  Colors
+gui.moarsigns:color.black=黑色
+gui.moarsigns:color.blue=藍色
+gui.moarsigns:color.green=綠色
+gui.moarsigns:color.red=紅色
+gui.moarsigns:color.purple=紫色
+gui.moarsigns:color.orange=橙色
+gui.moarsigns:color.pink=粉色
+gui.moarsigns:color.yellow=黃色
+gui.moarsigns:color.white=白色
+#  Textstyles
+gui.moarsigns:textstyle.example_text=示例文字AaBbCc
+gui.moarsigns:textstyle.random=隨機
+gui.moarsigns:textstyle.bold=加粗
+gui.moarsigns:textstyle.strikethrough=刪除線
+gui.moarsigns:textstyle.underline=下劃線
+gui.moarsigns:textstyle.italic=斜體
+gui.moarsigns:textstyle.reset=重置[%1]取消所有顏色和樣式

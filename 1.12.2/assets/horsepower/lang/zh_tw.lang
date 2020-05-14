@@ -1,0 +1,95 @@
+# Items
+item.flour.name=麵粉
+item.dough.name=生麵團
+
+# Item description
+item.horsepower:grindstone.description.size=磨石的工作區域需要[%1]7x7[%2]範圍大小，並且需要[%1]2個方塊[%2]高
+item.horsepower:grindstone.description.location=磨石需要放置在正中間[%1]一格高[%2]的方塊上
+item.horsepower:grindstone.description.use=需要用拴繩連接馬和磨石
+item.horsepower:chopping.description.size=砧板的工作區域需要[%1]7x7[%2]範圍大小，並且需要[%1]2個方塊[%2]高
+item.horsepower:chopping.description.location=砧板需要放置在正中間
+item.horsepower:chopping.description.use=需要用拴繩連接馬和砧板
+item.horsepower:press.description.size=馬槽的工作區域需要[%1]7x7[%2]範圍大小，並且需要[%1]2個方塊[%2]高
+item.horsepower:press.description.location=馬槽需要放置在正中間
+item.horsepower:press.description.use=需要要拴繩連接馬和馬槽
+
+item.horsepower:hand_grindstone.description.info=用物品右擊方塊放入磨石[%1]Shift右擊移除物品[%1]用物品右擊方塊內部開始磨製
+
+# Blocks
+tile.hand_grindstone.name=磨石
+tile.grindstone.name=馬磨石
+tile.chopping_block.name=砧板
+tile.chopper.name=馬砧板
+tile.press.name=馬槽
+
+# Info
+info.horsepower:chopping.invalid=非法的 7x7x2 區域
+info.horsepower:grindstone.invalid=非法的 7x7x2 區域
+info.horsepower:press.invalid=INVALID 7x7x2 AREA
+info.horsepower:item.reveal=手持栓繩，顯示所需要的區域
+info.horsepower:grindstone.info1=磨石能夠將物品磨製成它們的基本成分。當擺好磨石之後，確認你擁有 7x7x2 的空間。磨石下面 7x7 範圍需要固體方塊作為地面。
+info.horsepower:grindstone.info2=在 7x7 範圍的正中間擺上一個方塊，接著把磨石擺在上面。如果沒有合適的空間，指向磨石時會有提示。接下來，使用拴繩將磨石和馬/驢/騾/駱駝相連即可。
+info.horsepower:grindstone.info3=用拴繩栓著動物以後，右擊磨石，動物即可連接上去。接下來只需要用可以被磨製的工具右擊磨石就能夠開始工作。當然，亦可以通過自動化裝置從頂部裝入/底部抽出物品。
+
+# Command
+commands.horsepower.usage=/horsepower entity
+commands.horsepower.entity.invalid=只能在玩家狀態下使用這個指令
+commands.horsepower.entity.no=未指向實體
+commands.horsepower.entity.has=實體已經被複製到剪貼板：%s
+commands.horsepower.reload=不必使用這個指令，所有東西都會自動重載
+commands.horsepower.reload.error=重新載入錯誤
+commands.horsepower.reload.noerror=重新載入完成
+
+# Gui
+gui.horsepower.jei.category.hand.grinding=馬磨石
+gui.horsepower.jei.category.grinding=磨石
+gui.horsepower.jei.category.chopping=砧板
+gui.horsepower.jei.category.manual.chopping=馬砧板
+gui.horsepower.jei.category.manual.chopping=馬砧板
+gui.horsepower.jei.category.press.item=壓（磨碎）
+gui.horsepower.jei.category.press.fluid=壓（榨汁）
+gui.horsepower.jei.tooltip.chopping=切碎的時間: [%1] [%2->lap|laps]
+gui.horsepower.jei.tooltip.grinding=研磨的時間: [%1] [%2->lap|laps]
+gui.horsepower.jei.tooltip.pressing=壓榨的時間: [%1] [%2->lap|laps]
+gui.horsepower.jei.tooltip.grinding.chance=概率: [%1]%
+gui.horsepower.jei.tooltip.manual.chopping=切碎數量: [%1]
+gui.horsepower.jei.tooltip.manual.chopping.desc.1=返還數量 (四捨五入): [%1]%
+gui.horsepower.jei.tooltip.manual.chopping.desc.2= +1機率: [%1]%
+gui.horsepower.jei.tooltip.manual.chopping.desc.3=返還數量以 [%1]%[%2] 在輸出槽中表示
+config.gui.general=基礎
+config.gui.client=客戶端
+config.gui.recipes=合成配方
+config.gui.misc=雜項
+config.gui.recipes.grindstone=磨石配方
+config.gui.recipes.hand_grindstone=馬磨石配方
+config.gui.recipes.chopping=砧板配方
+config.gui.recipes.manual_chopping=馬砧板配方
+config.gui.mobs=可用於驅動機器的生物列表
+config.gui.chopping_axes=可用於砧板的斧頭列表
+config.gui.harvest=收獲進度
+itemGroup.horsepower=馬的力量
+
+# Waila
+gui.horsepower.waila.grindstone.progress=磨製進度：[%1]
+gui.horsepower.waila.windup.progress=進度：[%1]
+gui.horsepower.waila.chopping.progress=砧板進度：[%1]
+gui.horsepower.waila.press.progress=Pressing: [%1]
+gui.horsepower.waila.show.items=顯示產物
+
+# TOP
+gui.horsepower.top.grindstone.progress=磨製進度：
+gui.horsepower.top.windup.progress=進度：
+gui.horsepower.top.chopping.progress=砧板進度：
+gui.horsepower.top.press.progress=馬槽進度：
+
+#Advancements
+advancements.horsepower.root.title=勞動力
+advancements.horsepower.root.description=自動化的開端
+advancements.horsepower.flour.title=搗碎
+advancements.horsepower.flour.description=研磨一些小麥
+advancements.horsepower.grindstone.title=磨石工
+advancements.horsepower.grindstone.description=讓馬代替你使用磨石進行工作
+advancements.horsepower.chopping.title=砧板工
+advancements.horsepower.chopping.description=讓馬代替你使用砧板進行工作
+advancements.horsepower.press.title=馬槽工
+advancements.horsepower.press.description=讓馬代替你使用馬槽進行工作

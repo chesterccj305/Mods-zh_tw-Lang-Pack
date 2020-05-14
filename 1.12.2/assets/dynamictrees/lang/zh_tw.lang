@@ -1,0 +1,44 @@
+itemGroup.dynamictrees=動態樹
+
+tile.dynamictrees:rootydirt.name=多根泥土
+tile.dynamictrees:rootysand.name=多根沙
+
+tile.dynamictrees:leaves0.name=動態樹葉
+tile.dynamictrees:leaves1.name=動態樹葉
+
+tile.dynamictrees:oakbranch.name=動態橡木
+tile.dynamictrees:sprucebranch.name=動態杉木
+tile.dynamictrees:birchbranch.name=動態樺木
+tile.dynamictrees:junglebranch.name=動態叢林木
+tile.dynamictrees:darkoakbranch.name=動態黑橡木
+tile.dynamictrees:acaciabranch.name=動態相思木
+tile.dynamictrees:cactusbranch.name=動態仙人掌
+
+item.dynamictrees:oakseed.name=橡子
+item.dynamictrees:spruceseed.name=杉木果
+item.dynamictrees:birchseed.name=樺木柳絮
+item.dynamictrees:jungleseed.name=叢林豆莢
+item.dynamictrees:darkoakseed.name=黑橡子
+item.dynamictrees:acaciaseed.name=相思木種子
+item.dynamictrees:appleseed.name=蘋果仁
+item.dynamictrees:cactusseed.name=仙人掌種子
+
+item.dynamictrees:dendropotion.biochar.name=生物炭基礎藥水
+item.dynamictrees:dendropotion.depletion.name=枯竭藥水
+item.dynamictrees:dendropotion.defoliance.name=落葉藥水
+item.dynamictrees:dendropotion.burgeoning.name=發芽藥水
+item.dynamictrees:dendropotion.fertility.name=肥沃藥水
+item.dynamictrees:dendropotion.persistance.name=持久藥水
+item.dynamictrees:dendropotion.transform.name=轉化藥水
+
+item.dynamictrees:dirtbucket.name=泥桶
+item.dynamictrees:staff.name=森林之杖
+tile.dynamictrees:bonsaipot.name=盆栽罐
+
+commands.dynamictrees.usage=/dt <settree|repop> [args]
+commands.dynamictrees.setree.usage=/dt settree <x> <y> <z> <species> [joCode]
+commands.dynamictrees.setree.specieserror=Couldn't find species %s!
+commands.dynamictrees.repop.usage=/dt repop
+commands.dynamictrees.repop.run=Repopulating worldgen database
+
+death.attack.fallingtree=%1$s 被倒下的大樹壓死了

@@ -1,0 +1,52 @@
+chat.command.clear.success=%s 清空了 %s 殼體的進度
+chat.command.clear.usage=/Sync clear <玩家> | 清除玩家殼體的構建進度，僅在玩家被困與“邊境之地”時適用！
+chat.command.sync.usage=/Sync <clear>
+death.attack.shellConstruct=%1$s死於抽血
+death.attack.syncFail=%1$s同步到了死亡的殼體中
+item.Sync_ShellConstructor.name=殼體培育倉
+item.Sync_ShellStorage.name=殼體存放倉
+item.Sync_SyncCore.name=同步核心
+item.Sync_Treadmill.name=跑步機
+itemGroup.sync=Sync
+sync.breakShellUnit=%1$s摧毀了%2$s的一具殼體
+sync.config.cat.clientOnly.comment=這些設置僅限客戶端。
+sync.config.cat.clientOnly.name=僅客戶端
+sync.config.cat.gameplay.comment=這些選項影響使用這個模塊時的遊戲內容。
+sync.config.cat.gameplay.name=遊戲內容
+sync.config.prop.allowChunkLoading.comment=依需求添加，模組可以對區塊加載殼體。未測試，不支持。\n可造成嚴重的世界崩潰。\n自負風險禁用。
+sync.config.prop.allowChunkLoading.name=允許區塊加載
+sync.config.prop.allowCrossDimensional.comment=允許跨維度殼體同步？\n警告：目前出入末路之地有個問題，你需要在同步後重新登入，因為區塊尚未加載。\n如允許末路之地，請自行承擔風險。\n0 = 不\n1 = 是，但不包括末路之地\n2 = 是，包括末路之地
+sync.config.prop.allowCrossDimensional.name=允許跨世界
+sync.config.prop.crossDimensionalSyncingOnDeath.comment=在玩家死亡和重新同步時允許跨維度同步？
+sync.config.prop.crossDimensionalSyncingOnDeath.name=死亡時跨維度同步
+sync.config.prop.damageGivenOnShellConstruction.comment=在新殼體建立時對玩家給予半心傷害數值。
+sync.config.prop.damageGivenOnShellConstruction.name=在殼體建立時給予的傷害值
+sync.config.prop.hardcoreMode.comment=允許極限模式配方?\n0 = 不\n1 = 是\n2 = 是，但僅限極限模式。
+sync.config.prop.hardcoreMode.name=極限模式
+sync.config.prop.overrideDeathIfThereAreAvailableShells.comment=如玩家有其他殼體，允許覆蓋玩家的死亡？\n0 = 不\n1 = 對，但只對收藏單位\n2 = 對，對收藏和建築單位
+sync.config.prop.overrideDeathIfThereAreAvailableShells.name=在有殼體的情況下覆蓋死亡
+sync.config.prop.prioritizeHomeShellOnDeath.comment=在玩家死亡和重新同步時有線“家園”殼體？
+sync.config.prop.prioritizeHomeShellOnDeath.name=在死亡時優先使用家園殼體？
+sync.config.prop.ratioRF.comment=Redstone Flux : Piggawatt的比列。\n1RF = <配置>PG\n默認為 1 RF 制造 2 PG
+sync.config.prop.ratioRF.name=RF:PG比列
+sync.config.prop.reduceHealthOnDeathSync.comment=在死亡同步時減少血量（可疊加）？\n（2 = 1心）
+sync.config.prop.reduceHealthOnDeathSync.name=死亡時同步減少健康
+sync.config.prop.shellConstructionPowerRequirement.comment=殼體建立需要的能量需求
+sync.config.prop.shellConstructionPowerRequirement.name=殼體構建功率需求
+sync.config.prop.shellStoragePowerRequirement.comment=以piggawatt為單位，每tick維持殼體收藏的能量需求。\n0 = 無需求
+sync.config.prop.shellStoragePowerRequirement.name=殼體存儲能源需求
+sync.config.prop.showAllShellInfoInGui.comment=在GUI裏顯示所有殼體的信息？\n0 = 不\n1 = 只有名字就好了\n2 = 對，全部都給我顯示！
+sync.config.prop.showAllShellInfoInGui.name=在GUI顯示所有殼體信息
+sync.isMorphed=無法使用! 你現在正處於變形狀態.
+sync.waila.active=激活
+sync.waila.entity=實體名
+sync.waila.owner=殼體擁有者
+sync.waila.powerout=正在生成
+sync.waila.progress=構建進度
+sync.waila.showactive=顯示激活
+sync.waila.showentity=顯示實體名
+sync.waila.showowner=顯示殼體擁有者
+sync.waila.showpower.output=顯示能量輸出
+sync.waila.showprogress=顯示構建進度
+sync.config.prop.transferPersistentItems.name=嘗試持續傳輸物品
+sync.config.prop.transferPersistentItems.comment=運送所有一直有效的物品（例如從匠魂的靈魂綁定）。\n可能會導致所有覆制玩家物品欄的 mod 出問題

@@ -1,0 +1,119 @@
+itemGroup.reforged=武器模組_重鑄
+
+item.firerod.name=火棍
+
+item.arrow_bundle.name=箭矢捆
+
+item.nest_of_bees.name=蜂炮桶
+item.nestofbees.arrows=箭矢數
+
+item.wooden_battleaxe.name=木製戰斧
+item.stone_battleaxe.name=石製戰斧
+item.iron_battleaxe.name=鐵製戰斧
+item.golden_battleaxe.name=黃金戰斧
+item.diamond_battleaxe.name=鑽石戰斧
+
+item.wooden_boomerang.name=木製迴力鏢
+item.stone_boomerang.name=石製迴力鏢
+item.golden_boomerang.name=黃金迴力鏢
+item.iron_boomerang.name=鐵製迴力鏢
+item.diamond_boomerang.name=鑽石迴力鏢
+item.boomerang.langBreak=%1$s 打中了你的手。
+
+item.wooden_saber.name=木製軍刀
+item.stone_saber.name=石製軍刀
+item.golden_saber.name=黃金軍刀
+item.iron_saber.name=鐵製軍刀
+item.diamond_saber.name=鑽石軍刀
+
+item.wooden_musket.name=木製刺刀火槍
+item.stone_musket.name=石製刺刀火槍
+item.golden_musket.name=黃金刺刀火槍
+item.iron_musket.name=鐵製刺刀火槍
+item.diamond_musket.name=鑽石刺刀火槍
+
+item.wooden_knife.name=木製小刀
+item.stone_knife.name=石製小刀
+item.golden_knife.name=黃金小刀
+item.iron_knife.name=鐵製小刀
+item.diamond_knife.name=鑽石小刀
+
+item.wooden_katana.name=木製武士刀
+item.stone_katana.name=石製武士刀
+item.golden_katana.name=黃金武士刀
+item.iron_katana.name=鐵製武士刀
+item.diamond_katana.name=鑽石武士刀
+
+item.dart_normal.name=吹箭鏢
+item.dart_poison.name=淬毒吹箭鏢
+item.dart_poison_strong.name=劇毒吹箭鏢
+item.dart_slowness.name=緩慢吹箭鏢
+item.dart_hunger.name=飢餓吹箭鏢
+item.dart_wither.name=凋零吹箭鏢
+item.blowgun.name=吹箭管
+
+item.musket_barrel.name=火槍槍管
+item.gun_stock.name=槍托
+item.blunderbuss_barrel.name=火銃槍管
+item.blunderbuss_bullet.name=火銃子彈
+item.blunderbuss.name=火銃
+item.javelin.name=標槍
+item.musket_bullet.name=火槍子彈
+item.musket.name=火槍
+item.musket.loadstate=上膛狀態
+item.musket.loadstate.empty=未上膛
+item.musket.loadstate.loading=上膛中
+item.musket.loadstate.loaded=已上膛
+
+item.keris.name=克里斯匕首
+
+tile.caltrop.name=三角釘
+
+item.dynamite.name=手拋炸藥
+
+item.crossbow.name=弩
+item.crossbow_bolt.name=弩箭
+
+item.wooden_pike.name=木製長槍
+item.stone_pike.name=石製長槍
+item.golden_pike.name=黃金長槍
+item.iron_pike.name=鐵製長槍
+item.diamond_pike.name=鑽石長槍
+
+item.wooden_mace.name=木製戰槌
+item.stone_mace.name=石製戰槌
+item.golden_mace.name=黃金戰槌
+item.iron_mace.name=鐵製戰槌
+item.diamond_mace.name=鑽石戰槌
+
+item.wooden_dirk.name=木製短劍
+item.stone_dirk.name=石製短劍
+item.golden_dirk.name=黃金短劍
+item.iron_dirk.name=鐵製短劍
+item.diamond_dirk.name=鑽石短劍
+
+death.attack.boomerang=%1$s 被迴力鏢打得腦袋開花。
+death.attack.boomerang.player=%1$s 在與 %2$s 戰鬥時被迴力鏢打得腦袋開花。
+death.attack.javelin=%1$s 被標槍刺穿了。
+death.attack.javelin.player=%1$s 在與 %2$s 戰鬥時被標槍刺穿了。
+death.attack.musket=%1$s 被火槍爆頭了。
+death.attack.musket.player=%1$s 在與 %2$s 戰鬥時被火槍爆頭了。
+death.attack.blunderbuss=%1$s 被火銃射成蜂窩了。
+death.attack.blunderbuss.player=%1$s 在與 %2$s 戰鬥時被火銃射成蜂窩了。
+death.attack.dart=%1$s 被吹箭當成目標射死。
+death.attack.dart.player=%1$s 在與 %2$s 戰鬥時被吹箭當成目標射死。
+death.attack.caltrop=%1$s 顯然沒注意到腳下有三角釘。
+death.attack.caltrop.player=%1$s 在與 %2$s 戰鬥時顯然沒注意到腳下有三角釘。
+death.attack.crossbow=%1$s 被弩箭射穿了。
+death.attack.crossbow.player=%1$s 在與 %2$s 戰鬥時被弩箭射穿了。
+
+enchantment.goalseeker=追跡者
+
+reforged.subtitle.boomerang_break=迴力鏢斷裂
+reforged.subtitle.boomerang_hit=迴力鏢命中
+reforged.subtitle.boomerang_throw=投擲迴力鏢
+reforged.subtitle.crossbow_reload=填裝弩
+reforged.subtitle.crossbow_shoot=弩發射
+reforged.subtitle.musket_shoot=開槍
+reforged.subtitle.shotgun_reload=槍裝彈
+reforged.subtitle.shotgun_shoot=開槍

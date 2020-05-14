@@ -1,0 +1,21 @@
+{
+    "name": "陰影之杖",
+    "icon": "naturesaura:cave_finder",
+    "category": "items",
+    "advancement": "naturesaura:offering",
+    "pages": [
+        {
+            "type": "text",
+            "text": "有時在建造刷怪塔時，附近的洞穴和$(thing)黑暗點$()需要被高亮。然而這些位置經常難以定位，找到它們的嘗試導致了許多不必要的挖掘工程。$(br)$(item)陰影之杖$()讓這個過程大為高效：激活時，它會$(thing)高亮$()附近30格內的所有低亮度的地方，"
+        },
+        {
+            "type": "text",
+            "text": "時間長達30秒，讓任何人有足夠時間向這些點挖掘並照亮這些區域。$(br)高亮的區域是任何人工或天然的低亮度到足以刷怪的區域。$(p)自然，尋找並指出這些區域需要$(l:items/aura_cache)靈氣緩存$()中堅實的$(#419600)靈氣$()存儲。"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)陰影之杖$()",
+            "recipe": "naturesaura:cave_finder"
+        }
+    ]
+}

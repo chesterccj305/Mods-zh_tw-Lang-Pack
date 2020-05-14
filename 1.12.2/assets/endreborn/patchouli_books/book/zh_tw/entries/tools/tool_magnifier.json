@@ -1,0 +1,17 @@
+{
+    "name": "馬尼蒂斯",
+    "icon": "endreborn:tool_magnifier",
+    "category": "tools",
+    "advancement": "endreborn:endreborn/tool_magnifier",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "I have an wolframium, I have an endorium……咳咳好吧，我只是註意到了它們之間互相作用的效果很奇怪。是時候去做點實驗了。"
+        },
+	{
+            "type": "crafting",
+            "recipe": "endreborn:tools/tool_magnifier"
+        }
+    ]
+}

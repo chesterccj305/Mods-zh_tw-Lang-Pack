@@ -1,0 +1,53 @@
+// Items
+item.wct:wct.name=無線合成終端
+item.wct:wct_creative.name=創造模式無線合成終端
+item.wct:magnet_card.name=磁鐵卡
+
+// Blocks
+tile.advanced_charger.name=高級充電器(WIP)
+
+// Tooltips
+tooltip.magnet.desc=可以自動將物品輸入AE網絡的磁鐵。
+tooltip.magnet_set_filter.desc=點擊右鍵來設定過濾器
+tooltip.magnet_mode_keybind.desc=磁鐵模式按鍵綁定
+tooltip.status.desc=狀態
+tooltip.to_switch.desc=來切換模式
+tooltip.magnet_active_1.desc=額外的物品將添加到物品欄
+tooltip.magnet_active_2.desc=額外的物品將留在地上
+tooltip.magnet_whitelisting.desc=白名單
+tooltip.magnet_blacklisting.desc=黑名單
+tooltip.filter_mode.desc=過濾模式
+tooltip.ignoring.desc=忽略
+tooltip.nbt.desc=NBT
+tooltip.meta.desc=MetaData
+tooltip.oredict.desc=礦物詞典
+tooltip.using.desc=使用
+tooltip.filtered_items.desc=過濾的物品
+tooltip.only_works.desc=僅在無限合成終端的插槽中有效！
+tooltip.shiftcraft.title=Shift-點擊 輸出
+tooltip.shiftcraft.desc_pre=按住Shift鍵並點擊合成欄的輸出格，\n會將物品輸出到
+tooltip.shiftcraft.to_network=連結的ME網路
+tooltip.shiftcraft.to_inventory=你的物品欄
+tooltip.active.desc=啟用
+tooltip.inactive.desc=停用
+
+// Chat Messages
+chatmessages.magnet_deactivated.desc=磁鐵卡停用
+chatmessages.magnet_activated.desc=磁鐵卡啟用
+chatmessages.magnet_init.desc=在使用按鍵綁定之前，你必須先用手持磁鐵卡點擊右鍵！
+
+// Keybindings
+key.open_wct.desc=開啟無線合成終端
+key.open_magnet.desc=開啟磁鐵卡過濾器介面
+key.cycle_magnet_mode.desc=啟用/停用磁鐵卡(最近的終端)
+
+// GUI
+gui.title.magnet_filter=磁鐵過濾器
+gui.openmagnetgui=開啟磁鐵過濾器介面
+gui.openmagnetgui.desc=開啟磁鐵卡過濾器
+gui.openmagnetgui.desc2=介面來設定要過濾的物品
+gui.magnetmode=磁鐵模式
+
+// JEI
+jei.wct.desc=AE2合成終端的無線版本。要使用它，需要先將它通過安全終端鏈接到ME網絡。可以在選項... ->按鍵設定... 中設置綁定按鍵來打開介面。
+jei.magnet_card.desc=可以自動將物品輸入連接的ME網絡的磁鐵。蹲下+右鍵來更改模式(也可以通過綁定的按鍵來切換模式)。右鍵以打開過濾器介面(也可以使用按鍵綁定)。

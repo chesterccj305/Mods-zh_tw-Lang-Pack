@@ -1,0 +1,15 @@
+{
+    "name": "液態靈魂",
+    "icon": "forge:bucketfilled{FluidName: \"liquid_souls\", Amount: 1000}",
+    "category": "other",
+    "sortnum": 10,
+    "pages": [
+    	{	
+        	"type": "spotlight",
+            "title": "液態靈魂",
+            "item": "forge:bucketfilled{FluidName: \"liquid_souls\", Amount: 1000}",
+            "link_recipe": true,
+            "text": "液態靈魂是通過在聚焦管下方放置神秘粉塵塊而產生的液體,液態靈魂可以向上提高玩家高度,但玩家可以隨時移動."
+        }
+    ]
+}

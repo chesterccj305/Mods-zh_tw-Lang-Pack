@@ -1,0 +1,49 @@
+{
+  "name": "活性化合物列表",
+  "icon": "alchemistry:compound:54",
+  "category": "compounds_category",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:54",
+      "title": "氰化鉀",
+      "text": "含有劇毒，不要食用！"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:21",
+      "title": "裸頭草堿",
+      "text": "給予食用者夜視，緩慢和發光的效果，並且視野會緩慢聚焦。"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:58",
+      "title": "青黴素",
+      "text": "清除食用者所有的藥水效果並給予少量的治療。"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:55",
+      "title": "腎上腺素 ",
+      "text": "給予食用者速度，夜視和急迫效果。"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:59",
+      "title": "咖啡因",
+      "text": "與腎上腺素相同，給予食用者速度，夜視和急迫效果。"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:56",
+      "title": "可卡因",
+      "text": "劇烈的快感使食用者動作更加敏捷，眼神更加敏銳。"
+    },
+    {
+      "type": "spotlight",
+      "item": "alchemistry:compound:57",
+      "title": "乙酰水楊酸",
+      "text": "治療食用者2.5顆心。"
+    }
+  ]
+}

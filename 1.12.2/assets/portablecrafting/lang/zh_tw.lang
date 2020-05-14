@@ -1,0 +1,12 @@
+#項目本地化
+item.portablecrafting：portable_crafter.name=攜帶式工匠
+item.portablecrafting：crafting_core.name=製作核心
+
+#廣告素材標籤本地化
+itemGroup.portablecrafting=攜帶式合成台
+
+#雜物
+crafting.portablecrafting=攜帶式合成台
+
+#鍵綁定
+key.open_portable_crafter.desc=打開合成

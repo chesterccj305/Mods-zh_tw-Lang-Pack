@@ -1,0 +1,28 @@
+itemGroup.adhooks=高級鉤爪發射器
+
+item.spear_hook.name=矛鉤爪
+item.pudge_hook.name=屠夫鉤爪
+item.web_hook.name=黏性網鉤爪
+
+item.prototype_launcher.name=發射器原型
+item.spear_launcher.name=矛鉤爪發射器
+item.pudge_launcher.name=屠夫鉤爪發射器
+item.web_launcher.name=黏性網鉤爪發射器
+
+entity.adhooks.hookshot.name=鉤爪
+
+key.unhook=收回鉤子
+
+tooltip.launcher.hook_strength=鉤爪強度
+tooltip.launcher.rope_elasticity=繩索彈性
+tooltip.launcher.rope_max_length=繩索最大長度
+tooltip.launcher.reeling_speed=收線速度
+tooltip.launcher.boostup_strength=上推強度
+tooltip.launcher.launch=%1$s發射：%2$s
+tooltip.launcher.reel_unhook=%1$s收線／收回鉤子：按下 %2$s 或者 %3$s
+tooltip.launcher.pull=%1$s拉：%2$s（按下）
+tooltip.launcher.loosen=%1$s鬆開：%2$s（按下）
+tooltip.launcher.boost_up=%1$s上推：當拉的時候，按下 %2$s 或者 %3$s
+tooltip.launcher.release=%1$s釋放：當按住 %3$s 時按 %2$s
+tooltip.launcher.more_info=按下 %1$s 查看更多資訊
+tooltip.launcher.controls=按下 %1$s 查看控制說明

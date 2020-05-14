@@ -1,0 +1,15 @@
+{
+  "name": "魔導書",
+  "category": "gear",
+  "icon": "bewitchment:grimoire_magia",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "盡管事實上你的身體本身就儲存了魔力，但你的靈魂卻阻止它離開身體，同樣阻止著它被你使用。作為替代，魔導書可以用於激活魔法。它需要放在祭壇上來充能"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:grimoire_magia"
+	}
+  ]
+}

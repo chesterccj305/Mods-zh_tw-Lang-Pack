@@ -1,0 +1,62 @@
+material.gravitite.name=重力晶
+material.zanite.name=紫晶石
+material.skyroot.name=天根木
+material.holystone.name=聖石
+material.golden_amber.name=金琥珀
+material.valkyrie.name=女武神
+material.swet.name=史維特
+material.candy_cane.name=柺杖糖
+material.aercloud_blue.name=天藍境雲
+material.aercloud_cold.name=寒風境雲
+material.aercloud_gold.name=金黃境雲
+material.icestone.name=冰石
+
+material.skyroot_leaf.name=綠天根樹葉
+material.golden_oak_leaf.name=金琥珀樹葉
+material.crystal_leaf.name=水晶樹葉
+material.holiday_leaf.name=假日樹葉
+material.golden_feather.name=金翎羽
+
+fluid.gravitite.name=熔融重力晶
+fluid.valkyrie.name=熔融女武神金屬
+
+item.dart_shooter.name=吹箭筒
+item.dart_shooter.desc=吹箭筒能夠讓你精準的發射出毒鏢。 \n用的時候可千萬別吸氣
+item.dart.name=毒鏢
+item.dart.desc=毒鏢是吹箭筒的彈藥，一個能夠使用多次，能夠像其他工具一樣被強化。 \n不受重力影響，但傷害較低。
+
+item.tube.name=吹管
+item.mouthpiece.name=吹嘴
+item.dart_tip.name=鏢尖
+
+item.swet_crystal.name=史維特水晶
+
+item.valkyrie_nugget.name=女武神金屬粒
+item.valkyrie_ingot.name=女武神金屬錠
+tile.valkyrie_block.name=女武神金屬塊
+
+modifier.antigrav.name=反重力
+modifier.antigrav.desc=§o螺旋上天！ §r\n當 Shift 右擊方塊時候，能使特定的方塊飄浮，消耗 4 點耐久。
+modifier.launching.name=發射
+modifier.launching.desc=§o上鉤拳！ §r\n將擊中的生物拋向天空。
+modifier.enlightened.name=開明
+modifier.enlightened.desc=§o神最喜愛的零食。 §r\n有 5% 的機率掉落神能晶片
+modifier.skyrooted.name=天根
+modifier.skyrooted.desc=§o先來個兩倍吧。 §r\n天境自然生成的方塊會額外掉落。
+modifier.zany.name=古怪
+modifier.zany.desc=§o由熵提供的速度。 §r\n在磨損的時候，工具的挖掘速度會大大加快。
+modifier.zany.extra=古怪速度：x%s
+modifier.gilded.name=鍍金
+modifier.gilded.desc=§o閃亮的樹液！ §r\n你能從金琥珀原木採集得到金琥珀。
+modifier.reach.name=延伸
+modifier.reach.desc=§o天使之臂！ §r\n當持有這個工具，你可以觸碰的更遠。
+modifier.swetty.name=史維特
+modifier.swetty.desc=§o呃，粘乎乎的§r\n會洗掉的！
+modifier.festive.name=假日
+modifier.festive.desc=§o拐杖糖！ §r\n用拐杖舔舐他們，從而殺死你的敵人。
+modifier.cushy.name=輕飄
+modifier.cushy.desc=§o像個墊子！ §r\n如絲般順滑，但不會造成傷害。
+modifier.refrigeration.desc=§o工具形式的製冷器。 §r\n採集的方塊會被凍住。
+modifier.refrigeration.name=製冷
+
+tinkersaether.config.title=Tinker's Aether 配置

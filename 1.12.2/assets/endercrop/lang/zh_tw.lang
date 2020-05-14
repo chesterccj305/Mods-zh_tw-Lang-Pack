@@ -1,0 +1,19 @@
+# Item names
+item.ender_seeds.name=終界種子
+
+# Block names
+tile.ender_crop.name=終界作物
+tile.tilled_end_stone.name=耕過的終界石
+
+# Alerts
+endercrop.alert.hoe=這個方塊只能通過附有耐久I以上的鋤頭才能進行耕地
+
+# Tooltips and WAILA/TOP
+endercrop.tip.seed=種植在耕地方塊或者耕過的終界石上
+endercrop.wailatop.nogrowth=無法生長
+endercrop.wailatop.moist=潮濕
+endercrop.wailatop.dry=乾燥
+endercrop.wailatop.light=光照
+endercrop.waila.hoeable=可以耕地
+endercrop.waila.nothoeable=無法耕地
+endercrop.top.hoe=鋤頭

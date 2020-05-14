@@ -1,0 +1,37 @@
+{
+  "name": "權杖",
+  "icon": "twilightforest:twilight_scepter",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/scepters",
+  "sortnum": 4030,
+  "pages": [
+    {
+      "type": "text",
+      "text": "我之前所面對的巫妖王, 似乎使用了幾種不同的權杖, 當他被殺死時會掉落其中一種, 也許我得多殺幾個巫妖王才能獲得各種權杖。"
+    }, {
+      "type": "spotlight",
+      "title": "黃昏權杖",
+      "item": "twilightforest:twilight_scepter",
+      "advancement": "twilightforest:alt/treasures/twilight_scepter",
+      "text": "發射寶珠。"
+    }, {
+      "type": "spotlight",
+      "title": "吸血權杖",
+      "item": "twilightforest:lifedrain_scepter",
+      "advancement": "twilightforest:alt/treasures/lifedrain_scepter",
+      "text": "吸取生命。"
+    }, {
+      "type": "spotlight",
+      "title": "殭屍權杖",
+      "item": "twilightforest:zombie_scepter",
+      "advancement": "twilightforest:alt/treasures/zombie_scepter",
+      "text": "從墳墓裡召喚怪物來幫助你戰鬥。"
+    }, {
+      "type": "spotlight",
+      "title": "護盾權杖",
+      "item": "twilightforest:shield_scepter",
+      "advancement": "twilightforest:alt/treasures/shield_scepter",
+      "text": "產生暫時性的防護罩。"
+    }
+  ]
+}

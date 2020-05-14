@@ -1,0 +1,17 @@
+config.energysynergy.CoFHAPI=RF API
+config.energysynergy.IC2=IC2
+config.energysynergy.core.tooltip=核心設置
+config.energysynergy.core=核心設置
+config.energysynergy.general.analytics=發送匿名分析
+config.energysynergy.general.crashOnInvalidRecipe=無效配方崩潰
+config.energysynergy.general.crashOnModCompatCrash=兼容性問題崩潰
+config.energysynergy.general.debug=開發模式
+config.energysynergy.general.euToTeslaRate=EU轉特斯拉轉換比例
+config.energysynergy.general.tooltip=常規設置
+config.energysynergy.general.version=版本
+config.energysynergy.general.versionChecker=版本檢查
+config.energysynergy.general=常規設置
+config.energysynergy.modcompat.tooltip=Mod兼容設置
+config.energysynergy.modcompat=Mod兼容設置
+config.energysynergy.tesla=特斯拉
+config.energysynergy=%s配置文件

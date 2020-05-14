@@ -1,0 +1,35 @@
+{
+    "name": "世界軌道",
+    "icon": "naturesaura:dimension_rail_nether",
+    "category": "using",
+    "advancement": "naturesaura:sky_ingot",
+    "pages": [
+        {
+            "type": "text",
+            "text": "雖然$(item)礦車$()能有限地通過任意類型的$(thing)傳送門$()跨維度旅行，但是創建這一結構的步驟絕對覆雜。$(item)世界軌道$()很容易地解決了這個問題：有三種軌道，每種方法對應一個已知的維度。當一輛礦車經過其中一輛時，它將直接被傳輸到指定的世界，同時在這個過程中使用一些$(#419600)靈氣$()。"
+        },
+        {
+            "type": "text",
+            "text": "礦車會穿送到目標維度的哪個$(thing)位置$()取決於涉及的維度：$(br)在主世界和下界間傳送會將座標乘除八倍，類似於常規傳送門。$(br)在主世界和末地之間傳送會使礦車到達$(thing)黑曜石平台$()，回主世界則會回到出生點。"
+        },
+        {
+            "type": "text",
+            "text": "對鐵軌使用$(l:items/range_visualizer)神秘放大鏡$()會使目標地點在其維度高亮顯示，而且該效果會$(thing)穿墻$()，使得更容易找到目標。$(p)對於軌道使用的唯一警告是這些軌道似乎不足以傳輸載有$(thing)生物$()的礦車。"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)主世界鐵軌$()",
+            "recipe": "naturesaura:dimension_rail_overworld"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)下界鐵軌$()",
+            "recipe": "naturesaura:dimension_rail_nether"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)末地鐵軌$()",
+            "recipe": "naturesaura:dimension_rail_end"
+        }
+    ]
+}

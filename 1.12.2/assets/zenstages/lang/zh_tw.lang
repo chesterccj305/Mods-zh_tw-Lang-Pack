@@ -1,0 +1,3 @@
+commands.zenstages.stages.success=註冊的階段：%s.
+commands.zenstages.giveAll.success=成功地將%s階段賦予了%s。
+commands.zenstages.removeAll.success=已成功將%s階段刪除到%s。

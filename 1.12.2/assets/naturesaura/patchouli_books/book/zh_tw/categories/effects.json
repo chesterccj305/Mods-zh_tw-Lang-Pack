@@ -1,0 +1,6 @@
+{
+    "name": "靈氣失衡",
+    "description": "將世界內的$(#419600)靈氣$()使用枯竭或釋放過多的$(#419600)靈氣$()被稱為$(thing)靈氣失衡$()——它是把雙刃劍。其中的利弊都被列舉在此類別中。",
+    "icon": "naturesaura:textures/gui/patchouli/categories/effects.png",
+    "sortnum": 20
+}

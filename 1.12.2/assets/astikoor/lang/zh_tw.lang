@@ -1,0 +1,10 @@
+entity.cargocart.name=馬車
+entity.chariot.name=戰車
+entity.plowcart.name=犁
+item.astikoor:cargocart.name=馬車
+item.astikoor:chariot.name=戰車
+item.astikoor:plowcart.name=犁
+item.astikoor:wheel.name=車輪
+itemGroup.astikoor=馬拉車具
+key.astikoor.desc=將動物栓上車
+key.categories.astikoor=馬拉車具

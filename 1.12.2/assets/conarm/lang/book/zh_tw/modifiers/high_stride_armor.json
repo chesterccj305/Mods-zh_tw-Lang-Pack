@@ -1,0 +1,17 @@
+﻿{
+  "armormodifier": "high_stride_armor",
+  "text": [
+    {
+      "text": "將活塞裝配在靴子上或許能使你跳得更高？"
+    }
+  ],
+  "effects": [
+    "增加上坡高度",
+    "無需按空格鍵跳躍",
+    "僅適用於靴子",
+    "多個等級"
+  ],
+  "demoArmor": [
+    "conarm:boots"
+  ]
+}

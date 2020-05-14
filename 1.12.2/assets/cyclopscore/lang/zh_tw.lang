@@ -1,0 +1,87 @@
+# General
+itemGroup.cyclopscore=Cyclops核心
+general.cyclopscore.dev_world=開發世界
+general.cyclopscore.tooltip.info=<按下Shift以查看信息>
+general.cyclopscore.info.enabled=§a開啟
+general.cyclopscore.info.disabled=關閉
+general.cyclopscore.version.updateAvailable=有可用的更新
+general.cyclopscore.version.download=下載
+general.cyclopscore.version.clickToDownload=點擊以下載
+gui.waila.cyclopscore.logConfig=日誌
+
+# Infobook
+infobook.cyclopscore.next_page=下一頁
+infobook.cyclopscore.previous_page=上一頁
+infobook.cyclopscore.parent_section=上級目錄
+infobook.cyclopscore.last_page=最後瀏覽頁
+infobook.cyclopscore.keybindings=鍵位綁定
+infobook.cyclopscore.keybinding=鍵位綁定
+
+# Chat messages
+chat.cyclopscore.command.invalidArguments=無效的參數
+chat.cyclopscore.command.invalidSubcommand=無效的子命令
+chat.cyclopscore.command.onlyOneValue=請定義一個新的數值
+chat.cyclopscore.command.invalidNewValue=無效的新數值
+chat.cyclopscore.command.updatedValue=更新%s到: %s
+chat.cyclopscore.command.invalidPlayer=玩家“%s”未找到
+chat.cyclopscore.command.ignitedPlayer=玩家“%s”在火中燃燒了%s秒
+chat.cyclopscore.command.noConfigsFound=沒有可設置的配置數值
+
+# Multiblock
+multiblock.cyclopscore.error.invalidBlock=%s包含無效的方塊%s。
+multiblock.cyclopscore.error.size.cube=%s的形狀不是立方體，棱長不相等。
+multiblock.cyclopscore.error.size.exact=找到尺寸%s，而需求尺寸為%s。
+multiblock.cyclopscore.error.size.max=找到尺寸%s，而最大尺寸為%s。
+multiblock.cyclopscore.error.size.min=找到尺寸%s，而最小尺寸為%s。
+multiblock.cyclopscore.error.blockCount.exact=需求%s的%s，但只找到了%s。
+multiblock.cyclopscore.error.blockCount.max=最多%s的%s，但只找到了%s。
+multiblock.cyclopscore.error.blockCount.min=至少%s的%s，但只找到了%s。
+multiblock.cyclopscore.error.hollow.air=位置%s必須是空的。
+
+# Vanilla additions
+tile.air.name=空氣
+
+# Config Screens
+config.cyclopscore=%s組態
+
+## Config categories
+config.cyclopscore.item=物品設置
+config.cyclopscore.item.tooltip=物品設置
+config.cyclopscore.block=方塊設置
+config.cyclopscore.block.tooltip=方塊設置
+config.cyclopscore.fluid=液體設置
+config.cyclopscore.fluid.tooltip=液體設置
+config.cyclopscore.entity=實體設置
+config.cyclopscore.entity.tooltip=實體設置
+config.cyclopscore.general=常規設置
+config.cyclopscore.general.tooltip=常規設置
+config.cyclopscore.worldgeneration=世界生成設置
+config.cyclopscore.worldgeneration.tooltip=世界生成設置
+config.cyclopscore.enchantment=附魔設置
+config.cyclopscore.enchantment.tooltip=附魔設置
+config.cyclopscore.mob=怪物設置
+config.cyclopscore.mob.tooltip=怪物設置
+config.cyclopscore.biome=生物群系生成設置
+config.cyclopscore.biome.tooltip=生物群系生成設置
+config.cyclopscore.machine=機器設置
+config.cyclopscore.machine.tooltip=機器設置
+config.cyclopscore.potion=藥水設置
+config.cyclopscore.potion.tooltip=藥水設置
+config.cyclopscore.core=核心設置
+config.cyclopscore.core.tooltip=核心設置
+config.cyclopscore.modcompat=Mod兼容設置
+config.cyclopscore.modcompat.tooltip=Mod兼容設置
+
+## General settings
+config.cyclopscore.general.analytics=發送匿名分析
+config.cyclopscore.general.anonymousAnalyticsID=匿名ID
+config.cyclopscore.general.crashOnInvalidRecipe=無效合成崩潰
+config.cyclopscore.general.crashOnModCompatCrash=兼容性問題崩潰
+config.cyclopscore.general.debug=開發模式
+config.cyclopscore.general.devWorldButton=開發世界按鈕
+config.cyclopscore.general.minimumPotionTypesArraySize=藥水組最小大小
+config.cyclopscore.general.version=版本
+config.cyclopscore.general.versionChecker=版本檢查
+
+## Mod compatibility settings
+config.cyclopscore.Waila=Waila

@@ -1,0 +1,106 @@
+{
+  "name": "數據模型",
+  "icon": "deepmoblearning:data_model_guardian",
+  "category": "0_introduction",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_blank",
+      "text": "要製作一個 $(item)空白數據模型$() 你需要一些$(br)$(l:0_introduction/0_introduction#sooted_redstone)炭灰紅石$()。"
+    },
+    {
+      "type": "spotlight",
+      "item": "deepmoblearning:data_model_guardian",
+      "anchor": "data_models",
+      "text": "所有的 $(item)數據模型$() 都始於 \"$(8)Faulty$()\" 層，隨著 $(item)數據模型$() 收集更多的$(item)數據$().$(br2)當你的 $(item)層$() 上升時，你可以從擊敗的怪物中獲得更多 $(item)數據$()。$(br2)$(item)數據模型$() 可以放在 $(l:1_machines/0_simulation_chamber)模擬室$()中。"
+    },
+    {
+      "type": "text",
+      "text": "$(item)數據模型$() 根據其$(item)棲息地$() 分為不同的$(item)類型$()。$(br2) $(item)棲息地$() 基本分為： $(a)主世界$()、 $(c)地獄$() 和 $(d)終界$().$(br2) $(item)數據模型$() 的類型將決定哪種 $(l:1_machines/1_matter#living)世界物質$() 和 $(l:1_machines/1_matter#pristine)原始物質$() 將於 $(l:1_machines/0_simulation_chamber)模擬室$()中產生。"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_zombie",
+      "recipe2": "deepmoblearning:data_model_skeleton",
+      "title": "殭屍",
+      "title2": "骷髏"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_creeper",
+      "recipe2": "deepmoblearning:data_model_spider",
+      "title": "苦力怕",
+      "title2": "蜘蛛"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_slime",
+      "recipe2": "deepmoblearning:data_model_witch",
+      "title": "史萊姆",
+      "title2": "女巫"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_blaze",
+      "recipe2": "deepmoblearning:data_model_ghast",
+      "title": "烈焰使者",
+      "title2": "地獄幽靈"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_wither_skeleton",
+      "recipe2": "deepmoblearning:data_model_enderman",
+      "title": "凋零骷髏",
+      "title2": "終界使者"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_wither",
+      "recipe2": "deepmoblearning:data_model_dragon",
+      "title": "凋零",
+      "title2": "終界龍"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_shulker",
+      "recipe2": "deepmoblearning:data_model_guardian",
+      "title": "界伏蚌",
+      "title2": "深海守衛"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_thermal_elemental",
+      "title": "熱力膨脹",
+      "flag": "mod:thermalfoundation"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_twilight_forest",
+      "recipe2": "deepmoblearning:data_model_twilight_swamp",
+      "title": "暮光森林",
+      "title2": "暮光沼澤",
+      "flag": "mod:twilightforest"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_twilight_darkwood",
+      "recipe2": "deepmoblearning:data_model_twilight_glacier",
+      "title": "暮光黑木",
+      "title2": "暮光冰川",
+      "flag": "mod:twilightforest"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_mo_android",
+      "title": "Rogue Android",
+      "flag": "mod:matteroverdrive"
+    },
+    {
+      "type": "recipelookup",
+      "recipe": "deepmoblearning:data_model_tinker_slime",
+      "title": "藍色史萊姆",
+      "flag": "mod:tconstruct"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "地獄方磚",
+  "category": "demonic_gear",
+  "icon": "bewitchment:nethersteel",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "除了可穿戴的衣服，還有許多方塊和其他與惡魔有關的物品。"
+	},
+	{
+	  "type": "empty",
+	  "draw_filler": false
+	},
+	{
+	  "type": "text",
+	  "title": "下界鋼",
+	  "text": "一種奇怪的半金屬材料。它摸起來很暖和，幾乎像活的一樣……這種材料用來做工具的話顯得太過於變化無常，但往往可以被塑造成裝飾性的方塊和雕像。它在創造許多惡魔飾品中也很重要。這種可疑的物質是這樣產生的:"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:nethersteel"
+	},
+	{
+	  "type": "text",
+	  "title": "鄙夷方磚",
+	  "text": "無論氣候如何，這種紅色的石板總是像黑夜一樣寒冷。如果你把耳朵貼近它，你可以發誓你聽到了哭泣和尖叫……這種材料被認為是惡魔用來建造他們隱藏在時間之外的巨大宮殿的材料，可以用地獄世界藥劑在憎惡方磚創造，如下:"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:scorned_bricks"
+	},
+	{
+	  "type": "text",
+	  "title": "雕像",
+	  "text": "雕像是高階惡魔的小而粗糙的形象。它們可以被放置在祭壇上，既可以作為五角星，也可以吸引他們所描繪的惡魔的正面關註(一種罕見的益處)。到目前為止，只有一種方法可以創造出倫納德大師的雕像，方法如下:"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Stone",
+	  "recipe": "bewitchment:stone_leonard_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Gold",
+	  "recipe": "bewitchment:gold_leonard_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Terracotta",
+	  "recipe": "bewitchment:terracotta_leonard_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Nether Brick",
+	  "recipe": "bewitchment:nether_brick_leonard_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Nethersteel",
+	  "recipe": "bewitchment:nethersteel_leonard_idol"
+	},
+	{
+	  "type": "crafting",
+	  "title": "Scorned Brick",
+	  "recipe": "bewitchment:scorned_brick_leonard_idol"
+	}
+  ]
+}

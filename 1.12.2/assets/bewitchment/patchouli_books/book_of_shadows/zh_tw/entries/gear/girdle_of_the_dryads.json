@@ -1,0 +1,15 @@
+{
+  "name": "森林女神的腰帶",
+  "category": "gear",
+  "icon": "bewitchment:girdle_of_the_dryads",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "一條特殊的腰帶，穿戴者會渾身覆滿魔力木頭，可以保護他們完全不受傷害，只要傷害來源不是火焰或者魔法。然而穿戴者必須站在草地上來長出木頭"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:equipment/bauble/girdle_of_the_dryads"
+	}
+  ]
+}

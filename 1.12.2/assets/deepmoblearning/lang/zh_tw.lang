@@ -1,0 +1,133 @@
+#
+# Blocks
+#
+tile.deepmoblearning.simulation_chamber.name=模擬室
+tile.deepmoblearning.extraction_chamber.name=戰利品制造器
+tile.deepmoblearning.trial_keystone.name=測試楔石
+tile.deepmoblearning.machine_casing.name=炭灰板材機械外殼
+tile.deepmoblearning.infused_ingot_block.name=故障灌注磚
+#
+# Single items
+#
+item.deepmoblearning.book.name=占位符指南（需安裝 Patchouli 模組）
+item.deepmoblearning.polymer_clay.name=聚合黏土
+item.deepmoblearning.soot_covered_redstone.name=炭灰紅石
+item.deepmoblearning.soot_covered_plate.name=炭灰板材
+item.deepmoblearning.deep_learner.name=§b深度學習器§r
+item.deepmoblearning.creative_model_learner.name=創造模式模型學習器
+item.deepmoblearning.trial_key.name=§b測試密鑰§r
+item.deepmoblearning.glitch_heart.name=§b損壞的故障心臟§r
+item.deepmoblearning.glitch_fragment.name=§b不穩定故障碎片§r
+item.deepmoblearning.glitch_infused_ingot.name=§b故障灌注錠§r
+
+item.deepmoblearning.glitch_infused_helmet.name=§b故障灌注頭盔§r
+item.deepmoblearning.glitch_infused_chestplate.name=§b故障灌注胸甲§r
+item.deepmoblearning.glitch_infused_leggings.name=§b故障灌注護腿§r
+item.deepmoblearning.glitch_infused_boots.name=§b故障灌注靴子§r
+item.deepmoblearning.glitch_infused_sword.name=§b故障灌注劍§r
+
+#
+# Data models
+#
+item.deepmoblearning.data_model_blank.name=空白數據模型
+item.deepmoblearning.data_model_zombie.name=§b殭屍數據模型§r
+item.deepmoblearning.data_model_skeleton.name=§b骷髏數據模型§r
+item.deepmoblearning.data_model_blaze.name=§b烈焰使者數據模型§r
+item.deepmoblearning.data_model_enderman.name=§b終界使者數據模模型§r
+item.deepmoblearning.data_model_wither.name=§b凋零數據模型§r
+item.deepmoblearning.data_model_witch.name=§b女巫數據模型§r
+item.deepmoblearning.data_model_spider.name=§b蜘蛛數據模型§r
+item.deepmoblearning.data_model_creeper.name=§b苦力怕數據模型§r
+item.deepmoblearning.data_model_guardian.name=§b守衛者數據模型§r
+item.deepmoblearning.data_model_ghast.name=§b地獄幽靈數據模型§r
+item.deepmoblearning.data_model_wither_skeleton.name=§b凋零骷髏數據模型§r
+item.deepmoblearning.data_model_slime.name=§b史萊姆數據模型§r
+item.deepmoblearning.data_model_dragon.name=§b終界龍數據模型§r
+item.deepmoblearning.data_model_shulker.name=§b界伏蚌數據模型§r
+item.deepmoblearning.data_model_thermal_elemental.name=§b熱力膨脹數據模型§r
+item.deepmoblearning.data_model_twilight_forest.name=§b暮光森林數據模型§r
+item.deepmoblearning.data_model_twilight_swamp.name=§b暮光沼澤數據模型§r
+item.deepmoblearning.data_model_twilight_darkwood.name=§b暮光黑木數據模型§r
+item.deepmoblearning.data_model_twilight_glacier.name=§b暮光冰川數據模型§r
+item.deepmoblearning.data_model_tinker_slime.name=§b藍色史萊姆數據模型§r
+item.deepmoblearning.data_model_mo_android.name=§bRogue Android 數據模型§r
+#
+# Living matter
+#
+item.deepmoblearning.living_matter_overworldian.name=主世界物質
+item.deepmoblearning.living_matter_hellish.name=地獄物質
+item.deepmoblearning.living_matter_extraterrestrial.name=終界物質
+item.deepmoblearning.living_matter_twilight.name=暮光物質
+
+#
+# Pristine
+#
+item.deepmoblearning.pristine_matter_zombie.name=原始殭屍物質
+item.deepmoblearning.pristine_matter_skeleton.name=原始骷髏物質
+item.deepmoblearning.pristine_matter_blaze.name=原始烈焰使者物質
+item.deepmoblearning.pristine_matter_enderman.name=原始終界使者物質
+item.deepmoblearning.pristine_matter_wither.name=原始凋零物質
+item.deepmoblearning.pristine_matter_witch.name=原始女巫物質
+item.deepmoblearning.pristine_matter_spider.name=原始蜘蛛物質
+item.deepmoblearning.pristine_matter_creeper.name=原始苦力怕物質
+item.deepmoblearning.pristine_matter_ghast.name=原始地獄幽靈物質
+item.deepmoblearning.pristine_matter_wither_skeleton.name=原始凋靈骷髏物質
+item.deepmoblearning.pristine_matter_slime.name=原始史萊姆物質
+item.deepmoblearning.pristine_matter_dragon.name=原始終界龍物質
+item.deepmoblearning.pristine_matter_shulker.name=原始界伏蚌物質
+item.deepmoblearning.pristine_matter_guardian.name=原始守衛者物質
+item.deepmoblearning.pristine_matter_thermal_elemental.name=原始熱力膨脹物質
+item.deepmoblearning.pristine_matter_twilight_forest.name=原始暮光森林物質
+item.deepmoblearning.pristine_matter_twilight_swamp.name=原始暮光沼澤物質
+item.deepmoblearning.pristine_matter_twilight_darkwood.name=原始暮光黑木物質
+item.deepmoblearning.pristine_matter_twilight_glacier.name=原始暮光冰川物質
+item.deepmoblearning.pristine_matter_tinker_slime.name=原始藍色史萊姆物質
+item.deepmoblearning.pristine_matter_mo_android.name=原始 Rogue Android 物質
+
+#
+# Creative tab
+#
+itemGroup.deepmoblearning=深度怪物學習
+
+#
+# Tooltips etc
+#
+deepmoblearning.data_model.type=§r類型：%s§r
+deepmoblearning.data_model.tier=§r等級：%s§r
+deepmoblearning.data_model.data.collected=§r收集的數據：§7%s/%s§r
+deepmoblearning.data_model.data.killmultiplier=§r每次殺死數據：§7%s§r
+deepmoblearning.data_model.rfcost=§r模擬成本：§7%s RF/t§r
+deepmoblearning.living_matter.exp=§7每個物品的經驗：§a%s§r
+deepmoblearning.trial_key.notattuned=§7該鑰匙當前未調諧§r
+deepmoblearning.trial_key.attunement_go_to_jei=§7在指南中了解關於調諧的更多信息§r
+deepmoblearning.trial_key.attuned_type=§r鑰匙調諧到：§7%s§r
+deepmoblearning.trial_key.tier=§r鑰匙等級：§7%s§r
+deepmoblearning.trial_key.affixes=§r詞綴：§7%s§r
+deepmoblearning.trial_key.affix_go_to_jei=§7閱讀更多關於指南中每個詞綴的信息§r
+
+deepmoblearning.trial_key.jei.type=§r鑰匙類型：§7%s§r
+deepmoblearning.trial_key.jei.tier=§r鑰匙等級：§7%s§r
+
+#
+# JEI
+#
+deepmoblearning.jei.category.trial_keystone.type=§b%s§r
+deepmoblearning.jei.category.trial_keystone.tier=§r%s§r
+
+
+#
+# GUI
+#
+deepmoblearning.holdshift=§7按下 §r§oShift§r§7 了解更多信息§r
+
+#
+# Entity
+#
+entity.deepmoblearning.glitch.name=系統故障
+entity.deepmoblearning.glitch_orb.name=苦難AI之珠
+entity.deepmoblearning.trial_enderman.name=測試型終界使者
+entity.deepmoblearning.trial_spider.name=測試型蜘蛛
+entity.deepmoblearning.trial_cave_spider.name=測試型洞穴蜘蛛
+
+# Dev only strings
+deepmoblearning.devonly.holdcontrol=§7按下 §r§oCtrl§r§7 查看開發數據§r

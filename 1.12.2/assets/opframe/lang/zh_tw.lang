@@ -1,0 +1,11 @@
+tile.opFrame.name=網絡相框
+tile.littleOpFrame.name=網絡小相框
+config.opframe.limitations=限制
+config.opframe.sizeLimit=最大尺寸
+config.opframe.onlyOpped=限制操作員
+config.opframe.enableWhitelist=啟用網址白名單
+config.opframe.whitelist=網址白名單
+label.opframe.not_whitelisted.name=網址沒有白名單，無法保存
+label.opframe.whitelist_warning.name=警告：未啟用網址白名單
+config.opframe.maxRenderdistance=最大渲染距離
+config.opframe.onlyCreative=僅創造模式

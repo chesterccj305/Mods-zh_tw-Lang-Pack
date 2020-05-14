@@ -1,0 +1,218 @@
+################
+#    Common    #
+################
+
+itemGroup.TCompGeneral=匠魂補充 物品
+
+item.tcomplement.materials.stone_bucket.name=石桶
+item.tcomplement.materials.stone_bucket.tooltip=並不能像鐵桶一樣使用，倒是可以用來製作鑄模。
+
+item.tcomplement.cast.bucket.name=桶鑄模
+item.tcomplement.cast_clay.bucket.name=桶黏土鑄模
+
+item.tcomplement.edibles.milk_chocolate_ingot.name=巧克力牛奶錠
+item.tcomplement.edibles.milk_chocolate_nugget.name=巧克力牛奶粒
+item.tcomplement.edibles.dark_chocolate_ingot.name=黑巧克力錠
+item.tcomplement.edibles.dark_chocolate_nugget.name=黑巧克力粒
+item.tcomplement.edibles.cocoa_butter.name=可可脂
+
+fluid.tcomplement.chocolate_liquor=液狀巧克力
+fluid.tcomplement.milk_chocolate=巧克力牛奶
+fluid.tcomplement.dark_chocolate=黑巧克力
+
+
+################
+#    Melter    #
+################
+
+tile.tcomplement.melter.melter.name=微縮黑焦熔爐
+tile.tcomplement.melter.melter.tooltip=微縮版本的匠魂冶煉爐。 \n能夠熔化金屬，但是沒辦法給礦石翻倍和製作合金。
+tile.tcomplement.melter.heater.name=黑焦熔爐加熱器
+tile.tcomplement.melter.heater.tooltip=可以使用固體燃料的加熱器，但溫度較為有限。
+tile.tcomplement.alloy_tank.name=合金儲罐
+tile.tcomplement.alloy_tank.tooltip=混合來自臨近黑焦儲罐和冶煉爐的流體。 \n放置在黑焦加熱器或黑焦儲罐之上來供能。
+
+gui.tcomplement.melter.name=微縮冶煉爐
+gui.tcomplement.melter.progress.no_space=熔爐中沒有足夠的可用空間
+gui.tcomplement.melter.progress.wrong_fluid=所得流體與熔爐中的流體不同
+gui.tcomplement.melter.solid_fuel=冶煉爐加熱器
+gui.tcomplement.melter.solid_fuel.amount=%s單位
+
+gui.tcomplement.heater.name=加熱器
+
+gui.jei.melter.title=微縮黑焦冶煉爐
+
+
+################
+#    Armor     #
+################
+
+item.tcomplement.manyullyn_helmet.name=瑪玉靈頭盔
+item.tcomplement.manyullyn_chestplate.name=瑪玉靈胸甲
+item.tcomplement.manyullyn_leggings.name=瑪玉靈護腿
+item.tcomplement.manyullyn_boots.name=瑪玉靈靴子
+
+item.tcomplement.knightslime_helmet.name=騎士史萊姆頭盔
+item.tcomplement.knightslime_chestplate.name=騎士史萊姆胸甲
+item.tcomplement.knightslime_leggings.name=騎士史萊姆護腿
+item.tcomplement.knightslime_boots.name=騎士史萊姆靴子
+
+item.tcomplement.steel_helmet.name=鋼頭盔
+item.tcomplement.steel_chestplate.name=鋼胸甲
+item.tcomplement.steel_leggings.name=鋼護腿
+item.tcomplement.steel_boots.name=鋼靴子
+
+
+################
+#  Steelworks  #
+################
+
+item.tcomplement.materials.steel_ingot.name=鋼錠
+item.tcomplement.materials.steel_nugget.name=鋼粒
+
+tile.tcomplement.storage.charcoal.name=木碳塊
+tile.tcomplement.storage.steel.name=鋼塊
+
+fluid.tcomplement.steam=蒸汽
+
+# High Oven Blocks
+tile.tcomplement.high_oven_controller.name=高爐控制器
+tile.tcomplement.high_oven_io.drain.name=高爐排液口
+tile.tcomplement.high_oven_io.drain.tooltip=可以向高爐輸入或輸出液體
+tile.tcomplement.high_oven_io.chute.name=高爐金屬輸入口
+tile.tcomplement.high_oven_io.chute.tooltip=可以將可冶煉金屬輸入高爐
+tile.tcomplement.high_oven_io.duct.name=高爐材料輸入口
+tile.tcomplement.high_oven_io.duct.tooltip=可以將氧化劑，還原劑，淨化劑輸入高爐
+tile.tcomplement.scorched_casting.table.name=高爐澆築台
+tile.tcomplement.scorched_casting.basin.name=高爐澆築盆
+tile.tcomplement.scorched_casting.tooltip=使用高爐中的熔融金屬來鑄造物品
+tile.tcomplement.scorched_faucet.name=高爐澆注口
+tile.tcomplement.scorched_faucet.tooltip=讓高爐中的內容物流出來
+tile.tcomplement.scorched_channel.name=高爐澆注道
+tile.tcomplement.scorched_channel.tooltip=用於運輸從澆注口輸出的液體進行鑄造
+
+# Scorched
+item.tcomplement.materials.scorched_brick.name=高爐磚
+tile.tcomplement.scorched_block.stone.name=高爐石頭
+tile.tcomplement.scorched_block.cobble.name=高爐圓石
+tile.tcomplement.scorched_block.paver.name=高爐蓋板石
+tile.tcomplement.scorched_block.brick.name=高爐石磚
+tile.tcomplement.scorched_block.brick_cracked.name=裂紋高爐石磚
+tile.tcomplement.scorched_block.brick_fancy.name=平滑高爐石磚
+tile.tcomplement.scorched_block.brick_square.name=鏨制高爐石磚
+tile.tcomplement.scorched_block.brick_triangle.name=三角紋高爐石磚
+tile.tcomplement.scorched_block.brick_small.name=細紋高爐石磚
+tile.tcomplement.scorched_block.road.name=高爐鋪路石
+tile.tcomplement.scorched_block.tile.name=高爐瓷磚
+tile.tcomplement.scorched_block.creeper.name=高爐雕琢石磚塊
+tile.tcomplement.scorched_block.tooltip=高爐的一部分，安全的裝飾方塊
+
+# Scorched Slabs
+tile.tcomplement.scorched_slab.stone.name=高爐石頭半磚
+tile.tcomplement.scorched_slab.cobble.name=高爐圓石半磚
+tile.tcomplement.scorched_slab.paver.name=高爐蓋板石半磚
+tile.tcomplement.scorched_slab.brick.name=高爐石磚半磚
+tile.tcomplement.scorched_slab.brick_cracked.name=裂紋高爐石磚半磚
+tile.tcomplement.scorched_slab.brick_fancy.name=平滑高爐石磚半磚
+tile.tcomplement.scorched_slab.brick_square.name=鏨制高爐石磚半磚
+tile.tcomplement.scorched_slab.road.name=高爐鋪路石半磚
+tile.tcomplement.scorched_slab2.creeper.name=高爐雕琢石磚半磚
+tile.tcomplement.scorched_slab2.brick_triangle.name=三角紋高爐石磚半磚
+tile.tcomplement.scorched_slab2.brick_small.name=細紋高爐石磚半磚
+tile.tcomplement.scorched_slab2.tile.name=高爐瓷磚半磚
+
+# Scorched Stairs
+tile.tcomplement.scorched_stairs_stone.name=高爐石頭樓梯
+tile.tcomplement.scorched_stairs_cobble.name=高爐圓石樓梯
+tile.tcomplement.scorched_stairs_paver.name=高爐蓋板石樓梯
+tile.tcomplement.scorched_stairs_brick.name=高爐石磚樓梯
+tile.tcomplement.scorched_stairs_brick_cracked.name=裂紋高爐石磚樓梯
+tile.tcomplement.scorched_stairs_brick_fancy.name=平滑高爐石磚樓梯
+tile.tcomplement.scorched_stairs_brick_square.name=鏨制高爐石磚樓梯
+tile.tcomplement.scorched_stairs_brick_triangle.name=三角紋高爐石磚樓梯
+tile.tcomplement.scorched_stairs_brick_small.name=細紋高爐石磚樓梯
+tile.tcomplement.scorched_stairs_road.name=高爐鋪路石樓梯
+tile.tcomplement.scorched_stairs_tile.name=高爐瓷磚樓梯
+tile.tcomplement.scorched_stairs_creeper.name=高爐雕琢石磚樓梯
+
+# GUI
+gui.tcomplement.high_oven.name=高爐
+gui.tcomplement.high_oven.progress.no_space=沒有足夠的空間
+gui.tcomplement.high_oven.progress.wrong_fluid=熔煉出的流體與儲存的流體不相同
+
+gui.jei.high_oven.melting.title=高爐熔煉
+gui.jei.high_oven.mix.title=高爐合金
+gui.jei.high_oven.mix.consume=%s%%的機率會被消耗
+gui.jei.high_oven.mix.represenative=可合金為%s
+gui.jei.high_oven.heat.title=高爐加熱
+gui.jei.high_oven.heat.rate=%s mb/s
+gui.jei.high_oven.fuel.title=高爐燃料
+gui.jei.high_oven.fuel.rate=+%s°c/s
+gui.jei.high_oven.fuel.time=燃燒時間: %ss
+
+
+################
+#    Tools     #
+################
+
+itemGroup.TCompTools=匠魂補充 工具
+
+item.tcomplement.sledge_head.name=碎礦錘鎚頭
+item.tcomplement.sledge_hammer.name=碎礦錘
+item.tcomplement.sledge_hammer.desc=碎礦錘能夠將礦石碎塊粉碎得更小。
+
+item.tcomplement.chisel.name=鑿子
+item.tcomplement.chisel.desc=鑿子用來雕鑿方塊。 \n安裝範圍升級器能有效提高雕鑿範圍。
+item.tcomplement.chisel_head.name=鑿頭
+
+item.tcomplement.materials.imodifier.name=iChisel附加板
+item.tcomplement.materials.imodifier.tooltip=將鑿子的GUI升級為iChisel的GUI
+
+modifier.hitech.name=iChisel升級
+modifier.hitech.desc=§oFuturistic§r\n升級鑿子的GUI，使其與iChisel的GUI相同
+gui.tcomplement.error.has_chisel_target=添加iChisel之前必須刪除鑿子目標堆棧
+
+
+################
+#   Ceramics   #
+################
+
+tile.tcomplement.porcelain_casting.basin.name=陶瓷澆築盆
+tile.tcomplement.porcelain_casting.table.name=陶瓷澆築台
+tile.tcomplement.porcelain_casting.tooltip=通過熔爐中的熔融金屬來鑄造物品。
+
+tile.tcomplement.porcelain_melter.melter.name=微縮陶瓷熔爐
+tile.tcomplement.porcelain_melter.melter.tooltip=微縮版本的冶煉爐。 \n放置在陶瓷加熱器或者儲罐上方供能。
+tile.tcomplement.porcelain_melter.heater.name=陶瓷熔爐加熱器
+tile.tcomplement.porcelain_melter.heater.tooltip=使用固體燃料熔化金屬和合金。
+tile.tcomplement.porcelain_alloy_tank.name=陶瓷合金儲罐
+tile.tcomplement.porcelain_alloy_tank.tooltip=混合來自臨近陶瓷儲罐和冶煉爐的流體。 \n放置在陶瓷加熱器或者儲罐上方供能。
+
+tile.tcomplement.porcelain_tank.tank.name=陶瓷儲罐
+tile.tcomplement.porcelain_tank.gauge.name=陶瓷容器
+tile.tcomplement.porcelain_tank.window.name=陶瓷視窗
+tile.tcomplement.porcelain_tank.tooltip=熔爐的心臟\n敲掉時也能保留其中的流體。
+
+
+################
+#    Config    #
+################
+
+tcomplement.config.general=常規設置
+tcomplement.config.general.bucketCast=桶鑄模
+tcomplement.config.oreToIngotRatio=礦物轉換成錠比率
+
+tcomplement.config.melter=冶煉爐
+tcomplement.config.melter.blacklistStone=黑名單石頭
+tcomplement.config.melter.heaterTemp=加熱器溫度
+
+tcomplement.config.highOven=高爐
+tcomplement.config.highOven.steamRate=高爐速率
+tcomplement.config.highOven.steamFuel=高爐燃料
+
+tcomplement.config.jei=JEI 集成功能
+tcomplement.config.jei.separateMelterTab=分離冶煉爐標籤頁
+tcomplement.config.jei.separateHighOvenTab=單獨高爐標籤
+tcomplement.config.jei.showHighOvenFuel=顯示高爐燃料
+
+

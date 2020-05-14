@@ -1,0 +1,15 @@
+{
+  "name": "心靈裂縫",
+  "category": "rituals",
+  "icon": "bewitchment:spectral_dust",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "在屏障上暫時撕裂一個開口,讓靈魂屬性的事物再次在行走於大地上。只在夜間有效"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:spiritual_rift"
+	}
+  ]
+}

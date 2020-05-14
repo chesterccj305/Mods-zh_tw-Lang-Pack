@@ -1,0 +1,6 @@
+googlyeyes.config.prop.acidTripEyes.comment=讓鼓鼓眼搞怪
+googlyeyes.config.prop.acidTripEyes.name=迷幻遊
+googlyeyes.config.prop.disabledGoogly.comment=如果要針對特定實體禁用鼓鼓眼，請把它們的註冊名寫在這裏。\n例如：“Pig”，“Skeleton”\n對玩家的話，請寫“player”
+googlyeyes.config.prop.disabledGoogly.name=鼓鼓眼已被禁用
+googlyeyes.config.prop.googlyEyeChance.comment=鼓鼓眼幾率（%）
+googlyeyes.config.prop.googlyEyeChance.name=鼓鼓眼幾率

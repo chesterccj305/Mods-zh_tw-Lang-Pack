@@ -1,0 +1,6 @@
+{
+  "name": "關於模組",
+  "description": "關相連接:$(br)$(l:https://minecraft.curseforge.com/projects/deep-mob-learning)模組頁面$()$(br)$(l:https://github.com/xt9/DeepMobLearning/issues)相關問題$()$(br)$(l:https://github.com/xt9/DeepMobLearning)資源$()$(br)$(l:https://discordapp.com/invite/gj9kVup)Discord連接$()$(br2)如果您想支持我的工作，我確實有一個 $(l:https://www.patreon.com/iterationfunk)Patreon 頁面$().$(br2)我也碰巧有一個 $(l:https://www.youtube.com/user/Niklas939393/videos)Youtube頻道$()，可以查看是否有喜歡Minecraft影片內容。",
+  "icon": "minecraft:skull:3{SkullOwner:'IterationFunk'}",
+  "sortnum": 5
+}

@@ -1,0 +1,29 @@
+# commands
+# gui - config - categories
+# gui - config - general
+tracer.command.clear=清除了 %d 個追蹤的實體。
+tracer.command.register.usage=/tracer register <entity-name>
+tracer.command.register=已註冊“%s”。
+tracer.command.unregister.usage=/tracer unregister <entity-name>
+tracer.command.unregister=未註冊“%s”。
+tracer.command.usage=/tracer <register|unregister|clear>
+tracer.config.category.general.tooltip=常用設置。
+tracer.config.category.general=基本配置
+tracer.config.category.registry.tooltip=實體特定設置。
+tracer.config.category.registry=註冊
+tracer.config.colorAlpha.tooltip=Alpha 顏色分量。
+tracer.config.colorAlpha=Alpha
+tracer.config.colorBlue.tooltip=藍色的顏色分量。
+tracer.config.colorBlue=藍色
+tracer.config.colorGreen.tooltip=綠色的顏色分量。
+tracer.config.colorGreen=綠色
+tracer.config.colorRed.tooltip=紅色的顏色分量。
+tracer.config.colorRed=紅色
+tracer.config.name.tooltip=內部實體名稱。
+tracer.config.name=名稱
+tracer.config.offsetY.tooltip=足跡的 Y 偏移量。
+tracer.config.offsetY=Y 偏移量
+tracer.config.thickness.tooltip=足跡的厚度。
+tracer.config.thickness=厚度
+tracer.config.ttl.tooltip=足跡在世界上顯示的秒數。
+tracer.config.ttl=顯示時間

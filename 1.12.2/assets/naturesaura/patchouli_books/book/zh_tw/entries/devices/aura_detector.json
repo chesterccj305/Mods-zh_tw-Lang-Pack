@@ -1,0 +1,17 @@
+{
+    "name": "靈氣探測器",
+    "icon": "naturesaura:aura_detector",
+    "category": "devices",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "運用$(#419600)靈氣$()時，不需要親自檢查就知道當前區域靈氣含量是非常有用的。$(item)靈氣探測器$()會根據附近區域的$(#419600)靈氣$()數量在緊貼的$(item)紅石比較器$()中輸出$(thing)紅石$()信號。其探測靈氣含量的範圍與$(l:items/eye)環境之眼$()相似。"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)靈氣探測器$()",
+            "recipe": "naturesaura:aura_detector"
+        }
+    ]
+}

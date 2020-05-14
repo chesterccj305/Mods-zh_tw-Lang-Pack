@@ -1,0 +1,5 @@
+entity.bd_ducky.name=野生鴨子
+entity.ducky_spawn_egg.name=生成 鴨子
+entity.tamed_bd_ducky.name=鴨子
+entity.tamed_giant_bd_ducky.name=巨型鴨子
+item.ducky_spawn_egg.name=生成 鴨子

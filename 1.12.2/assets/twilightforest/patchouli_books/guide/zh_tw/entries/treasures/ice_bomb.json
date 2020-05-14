@@ -1,0 +1,15 @@
+{
+  "name": "冰霜炸彈",
+  "icon": "twilightforest:ice_bomb",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/ice_bomb",
+  "sortnum": 7120,
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "冰霜炸彈",
+      "item": "twilightforest:ice_bomb",
+      "text": "冰霜炸彈是有史以來最棒的東西了。$(br)它超冰又超酷！$(br)從字面上來看就是炸彈啦！"
+    }
+  ]
+}

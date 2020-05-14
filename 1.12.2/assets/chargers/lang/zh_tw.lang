@@ -1,0 +1,17 @@
+tile.chargers.charger.tier_1.name=一級充電器
+tile.chargers.charger.tier_2.name=二級充電器
+tile.chargers.charger.tier_3.name=三級充電器
+tile.chargers.wireless_charger.name=無線充電器
+
+chat.chargers.wireless_charger.info=狀態： %s， 能量： %s/%s FE
+chat.chargers.enabled=開啟
+chat.chargers.disabled=關閉
+
+tooltip.chargers.wireless_charger=可用紅石信號關閉
+chat.chargers.stored.info=功率: %s/%s FE
+
+gui.chargers.energy=%s/%s FE
+gui.chargers.max_in=最大輸入： %s FE/t
+gui.chargers.max_out=最大輸出： %s FE/t
+gui.chargers.io=I/O: %s FE/t
+

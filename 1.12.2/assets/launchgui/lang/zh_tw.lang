@@ -1,0 +1,4 @@
+gui.launchgui.update.avail.info=點擊下面的信息按鈕了解更多！
+gui.launchgui.update.avail.version=版本 %s
+gui.launchgui.update.avail=有新的包可用！
+gui.launchgui.update.title=%s 更新檢查器

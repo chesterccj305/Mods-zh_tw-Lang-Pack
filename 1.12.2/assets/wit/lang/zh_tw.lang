@@ -1,0 +1,22 @@
+// Items
+item.wit:wit.name=無線接口終端
+item.wit:wit_creative.name=創造無線接口終端
+// Keybindings
+key.open_wit.desc=打開無線接口終端
+// JEI
+jei.wit.desc=無線版的接口終端。需要通過安全終端鏈接到ME網絡。可以在控制中設置按鍵綁定以打開GUI。
+wit:HarvestWith=挖掘：%s
+wit:HarvestLevel=(等級 %d)
+wit:Harvestable=可挖掘
+wit:NotHarvestable=不可挖掘
+wit:Tool.pickaxe=鎬
+wit:Tool.shovel=鏟
+wit:Tool.axe=斧頭
+wit:Tool.scoop=捕蟲網
+wit:ToolSpeed=基礎挖掘速度：%s
+wit:ToolMaxDamage=最大傷害：%s
+wit:Food=食物：%s
+wit:OmittedInventoryItems=再加上 %d ...
+wit:RFStorage=%,d / %,d RF
+wit:TankStorage=&,d / &,d mB
+wit:EntityHealth=HP: %s / %s

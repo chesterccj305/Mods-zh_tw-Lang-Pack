@@ -1,0 +1,29 @@
+#方塊名
+tile.huntingdim.frame.name=狩獵維度傳送門框架
+tile.huntingdim.portal.name=狩獵維度傳送門
+
+#道具名
+item.huntingdim.biome.changer.name=爬行青苔
+
+#雜項
+itemGroup.huntingdim=狩獵維度
+tooltip.huntingdim.biome.invalid=無效的生態域，沒有找到生態域ID。
+
+#聊天資訊
+chat.huntingdim.changer.invalid.dim=此道具只能改變狩獵維度中的生態域。
+chat.huntingdim.changer.biome.exists=這個生態域已經成為你想要改變它的類型了。
+chat.huntingdim.changer.set.self=爬行青苔已經將生態域設置為%s。
+chat.huntingdim.changer.set.world=區塊內的生態域已經設置為%s。
+chat.huntingdim.changer.set.invalid=選擇了無效的生態域。請通過潛行點擊來改變青苔生態域。
+chat.huntingdim.teleporter.canceled=另一個模組防止訪問狩獵維度。
+chat.huntingdim.teleporter.mounted=騎著的實體不能前往狩獵維度。
+chat.huntingdim.teleporter.invalid.player=你是一個無效的實體，不能進入維度裡！
+
+#JEI說明
+jei.tile.huntingdim.frame=用於創建狩獵維度傳送門的框架方塊。建築和形狀要求與地獄傳送門框架相同。用劍，弓，打火石右擊它可啟動框架。要通過傳送門，你需要潛行。 
+jei.tile.huntingdim.portal=狩獵維度的入口，要進入狩獵維度，你需要潛行。 
+jei.item.huntingdim.biome.changer=這個青苔允許改變狩獵維度的區塊內的生態域。潛行並右擊爬行青苔將設置你目前所在的生態域為青苔所附屬的生態域。通過正確的右擊青苔，在狩獵維度中當前的區塊內的生態域將改變為爬行青苔所附屬的生態域為代表的生態域。這只會在狩獵維度中起作用。
+
+#調試工具
+debug.huntingdim.pack=打包 %d 個物品到 %s。
+debug.huntingdim.unpack= 從 %s 解包 %d 個物品。

@@ -1,0 +1,533 @@
+#Localisation for Spartan Weaponry version beta 1.3.x
+
+#Items
+item.spartanweaponry:handle.name=柄
+item.spartanweaponry:pole.name=長柄
+item.spartanweaponry:explosive_charge.name=爆炸藥
+
+item.spartanweaponry:caestus.name=手套
+item.spartanweaponry:caestus_studded.name=鑲嵌手套
+
+item.spartanweaponry:club_wood.name=木棒
+item.spartanweaponry:club_studded.name=鑲嵌木棒
+
+item.spartanweaponry:longbow_wood.name=木長弓
+item.spartanweaponry:longbow_leather.name=皮革強化長弓
+item.spartanweaponry:longbow_iron.name=鐵強化的長弓
+item.spartanweaponry:longbow_diamond.name=鑽石強化的長弓
+
+#Arrows 箭
+item.spartanweaponry:arrow_wood.name=木箭
+item.spartanweaponry:arrow_flint.name=燧石箭
+item.spartanweaponry:arrow_iron.name=鐵箭
+item.spartanweaponry:arrow_diamond.name=鑽石箭
+item.spartanweaponry:arrow_explosive.name=爆炸箭
+
+item.spartanweaponry:quiver_arrow.name=小箭袋
+item.spartanweaponry:quiver_arrow_moderate.name=中箭袋
+item.spartanweaponry:quiver_arrow_heavy.name=大箭袋
+
+#Bolts
+item.spartanweaponry:bolt.name=短箭
+item.spartanweaponry:bolt_spectral.name=追蹤短箭
+item.spartanweaponry:bolt_diamond.name=鑽石短箭
+item.spartanweaponry:quiver_bolt.name=小短箭袋
+item.spartanweaponry:quiver_bolt_moderate.name=中短箭袋
+item.spartanweaponry:quiver_bolt_heavy.name=大短箭袋
+
+#Weapon Oils
+item.spartanweaponry:weapon_oil.name=兵器油
+
+#Vanilla Tipped Projectiles
+item.spartanweaponry:proj_tipped.name=提示 %s
+item.spartanweaponry:proj_tipped.empty=無法製作 提示 %s
+item.spartanweaponry:proj_tipped.mundane=提示 %s
+item.spartanweaponry:proj_tipped.thick=提示 %s
+item.spartanweaponry:proj_tipped.awkward=提示 %s
+item.spartanweaponry:proj_tipped.night_vision=夜視之%s
+item.spartanweaponry:proj_tipped.invisibility=隱形之%s 
+item.spartanweaponry:proj_tipped.leaping=跳躍之%s 
+item.spartanweaponry:proj_tipped.fire_resistance=抗火之%s 
+item.spartanweaponry:proj_tipped.swiftness=迅捷之%s 
+item.spartanweaponry:proj_tipped.slowness=緩速之%s 
+item.spartanweaponry:proj_tipped.water=滯留之%s 
+item.spartanweaponry:proj_tipped.water_breathing=水下呼吸之%s
+item.spartanweaponry:proj_tipped.healing=治療之%s
+item.spartanweaponry:proj_tipped.harming=傷害之%s
+item.spartanweaponry:proj_tipped.poison=劇毒之%s
+item.spartanweaponry:proj_tipped.regeneration=回復之%s
+item.spartanweaponry:proj_tipped.strength=力量之%s
+item.spartanweaponry:proj_tipped.weakness=虛弱之%s
+item.spartanweaponry:proj_tipped.levitation=懸浮之%s
+item.spartanweaponry:proj_tipped.luck=幸運之%s
+
+#Extra Utilities 2 Tipped Projectiles
+item.spartanweaponry:proj_tipped.xu2.doom=厄運之%s
+item.spartanweaponry:proj_tipped.xu2.gravity=重力之%s
+item.spartanweaponry:proj_tipped.xu2.gravity.long=重力之%s
+item.spartanweaponry:proj_tipped.xu2.second.chance=%s of Second Chance
+item.spartanweaponry:proj_tipped.xu2.greek.fire=%s of Greek Fire
+item.spartanweaponry:proj_tipped.oily=油污之%s
+item.spartanweaponry:proj_tipped.xu2.fizzy.lifting=%s of Fizzy Lifting
+item.spartanweaponry:proj_tipped.xu2.relapse=%s of Relapse
+item.spartanweaponry:proj_tipped.xu2.love=%s of Love
+item.spartanweaponry:proj_tipped.xu2.purging=%s of Purging
+
+#Extra Alchemy Tipped Projectiles
+item.spartanweaponry:proj_tipped.fuse=%s of Fuse
+item.spartanweaponry:proj_tipped.recall=%s of Recall
+item.spartanweaponry:proj_tipped.sinking=%s of Sinking
+item.spartanweaponry:proj_tipped.freezing=%s of Freezing
+item.spartanweaponry:proj_tipped.dislocation=%s of Dislocation
+item.spartanweaponry:proj_tipped.magnetism=%s of Magnetism
+item.spartanweaponry:proj_tipped.piper=%s of the Piper
+item.spartanweaponry:proj_tipped.pacifism=%s of Pacifism
+item.spartanweaponry:proj_tipped.crumbling=%s of Crumbling
+item.spartanweaponry:proj_tipped.concentration=%s of Concentration
+item.spartanweaponry:proj_tipped.return=%s of Return
+item.spartanweaponry:proj_tipped.photosynthesis=%s of Photosynthesis
+item.spartanweaponry:proj_tipped.hurry=%s of Hurry
+item.spartanweaponry:proj_tipped.cheatDeath_quiescent=%s of Delay Death
+item.spartanweaponry:proj_tipped.charged=Lesser Charged %s
+item.spartanweaponry:proj_tipped.charged2=Greater Charged %s
+item.spartanweaponry:proj_tipped.reincarnation=%s of Reincarnation
+item.spartanweaponry:proj_tipped.combustion=%s of Combustion
+item.spartanweaponry:proj_tipped.detection=%s of Detection
+item.spartanweaponry:proj_tipped.learning=%s of Learning
+item.spartanweaponry:proj_tipped.gravity=%s of Gravity
+item.spartanweaponry:proj_tipped.leech=%s of the Leech
+item.spartanweaponry:proj_tipped.sails=%s of the 7 Seas
+item.spartanweaponry:proj_tipped.beheading=%s of Beheading
+item.spartanweaponry:proj_tipped.dispel=%s of Dispel Enchantment
+item.spartanweaponry:proj_tipped.pain=%s of Pain
+item.spartanweaponry:proj_tipped.push=%s of Pushing
+item.spartanweaponry:proj_tipped.pull=%s of Pulling
+
+#PotionCore Tipped Projectiles
+item.spartanweaponry:proj_tipped.saturation=%s of Saturation
+item.spartanweaponry:proj_tipped.hunger=%s of Starvation
+item.spartanweaponry:proj_tipped.blindness=%s of Blindness
+item.spartanweaponry:proj_tipped.nausea=%s of Confusion
+item.spartanweaponry:proj_tipped.glowing=%s of Gleaming
+item.spartanweaponry:proj_tipped.health_boost=%s of Health Boost
+item.spartanweaponry:proj_tipped.unluck=%s of Bad Luck
+item.spartanweaponry:proj_tipped.love=Love %s
+item.spartanweaponry:proj_tipped.repair=%s of Mending
+item.spartanweaponry:proj_tipped.flight=%s of Wings
+item.spartanweaponry:proj_tipped.extension=%s of Extension
+item.spartanweaponry:proj_tipped.recoil=%s of Spines
+item.spartanweaponry:proj_tipped.iron_skin=%s of Guarding
+item.spartanweaponry:proj_tipped.purity=%s of Wither Purity
+item.spartanweaponry:proj_tipped.reach=%s of Long Arms
+item.spartanweaponry:proj_tipped.diamond_skin=%s of Diamond Skin
+item.spartanweaponry:proj_tipped.teleport=%s of Scattering
+item.spartanweaponry:proj_tipped.teleport_surface=%s of Escape
+item.spartanweaponry:proj_tipped.magic_focus=%s of Magical Focus
+item.spartanweaponry:proj_tipped.cure=%s of Curing
+item.spartanweaponry:proj_tipped.step_up=%s of High Step
+item.spartanweaponry:proj_tipped.drown=%s of Gills
+item.spartanweaponry:proj_tipped.teleport_spawn=%s of Return
+item.spartanweaponry:proj_tipped.disorganization=%s of Disorganization
+item.spartanweaponry:proj_tipped.slimb=%s of Spiders
+item.spartanweaponry:proj_tipped.perplexity=%s of Perplexity
+item.spartanweaponry:proj_tipped.rust=%s of Rust
+item.spartanweaponry:proj_tipped.vulnerable=%s of Vulnerability
+item.spartanweaponry:proj_tipped.explode=%s of Detonation
+item.spartanweaponry:proj_tipped.solid_core=%s of Immovability
+item.spartanweaponry:proj_tipped.fire=%s of Spontaneous Combustion
+item.spartanweaponry:proj_tipped.lightning=%s of Thundering
+item.spartanweaponry:proj_tipped.magic_inhibition=%s of Magical Inhibition
+item.spartanweaponry:proj_tipped.chance=%s of Chance
+item.spartanweaponry:proj_tipped.invert=%s of Inversion
+item.spartanweaponry:proj_tipped.weight=%s of Heaviness
+item.spartanweaponry:proj_tipped.launch=%s of Knock-up
+item.spartanweaponry:proj_tipped.revival=%s of 1-Up
+item.spartanweaponry:proj_tipped.klutz=%s of Fumbling
+item.spartanweaponry:proj_tipped.bless=%s of Blessing
+item.spartanweaponry:proj_tipped.broken_armor=%s of Penetration
+item.spartanweaponry:proj_tipped.magic_shield=%s of Magic Shielding
+item.spartanweaponry:proj_tipped.slow_fall=%s of Feather Falling
+item.spartanweaponry:proj_tipped.antidote=%s of Poison Antidote
+item.spartanweaponry:proj_tipped.curse=%s of Cursing
+item.spartanweaponry:proj_tipped.burst=%s of Concussion
+item.spartanweaponry:proj_tipped.archery=%s of Archery
+item.spartanweaponry:proj_tipped.climb=%s of Spiders
+
+#Cyclic Tipped Projectiles
+item.spartanweaponry:proj_tipped.slowfall=%s of Slowfall
+item.spartanweaponry:proj_tipped.waterwalk=%s of Waterwalk
+item.spartanweaponry:proj_tipped.snow=%s of Snow
+item.spartanweaponry:proj_tipped.swim=%s of Swim Speed
+item.spartanweaponry:proj_tipped.swim2=%s of Swim Speed II
+item.spartanweaponry:proj_tipped.bounce=%s of Bounce
+item.spartanweaponry:proj_tipped.frostwalker=%s of Frost Walker
+item.spartanweaponry:proj_tipped.magnet=%s of Magnet
+item.spartanweaponry:proj_tipped.haste2=%s of Haste
+item.spartanweaponry:proj_tipped.resistance2=%s of Resistance
+item.spartanweaponry:proj_tipped.healthboost=%s of Health Boost
+item.spartanweaponry:proj_tipped.ender=%s of Ender
+item.spartanweaponry:proj_tipped.butter=%s of Butterfingers
+item.spartanweaponry:proj_tipped.butter2=%s of Butterfingers II
+#Blindness and Saturation is already added by PotionCore and has the same localization key so none is needed here.
+
+#NetherEx Tipped Projectiles
+item.spartanweaponry:proj_tipped.nex:normalFreeze=%s of Freezing
+item.spartanweaponry:proj_tipped.nex:normalFrostbite=%s of Frostbite
+item.spartanweaponry:proj_tipped.nex:normalSpore=%s of Dispersal
+item.spartanweaponry:proj_tipped.nex:normalLost=%s of The Lost
+
+#Quark Tipped Projectiles
+item.spartanweaponry:proj_tipped.haste=%s of Haste
+item.spartanweaponry:proj_tipped.mining_fatigue=%s of Lagging
+item.spartanweaponry:proj_tipped.resistance=%s of Fortitude
+item.spartanweaponry:proj_tipped.danger_sight=%s of Danger Sight
+
+#CoFH Core Tipped Projectiles
+item.spartanweaponry:proj_tipped.absorption=%s of Absorption
+item.spartanweaponry:proj_tipped.wither=%s of Decay
+
+#Ender IO Tipped Projectiles
+item.spartanweaponry:proj_tipped.enderio.withering=%s of Decay
+item.spartanweaponry:proj_tipped.enderio.confusion=%s of Confusion
+item.spartanweaponry:proj_tipped.enderio.floating=%s of Rising
+
+item.spartanweaponry:crossbow_wood.name=木弩
+item.spartanweaponry:crossbow_leather.name=皮革強化弩
+item.spartanweaponry:crossbow_iron.name=鐵強化弩
+item.spartanweaponry:crossbow_diamond.name=鑽石強化弩
+
+item.spartanweaponry:dynamite.name=炸藥
+
+item.spartanweaponry:ingot_custom.name=%s錠
+item.spartanweaponry:dagger_custom.name=%s匕首
+item.spartanweaponry:parrying_dagger_custom.name=%s格檔匕首
+item.spartanweaponry:longsword_custom.name=%s長劍
+item.spartanweaponry:katana_custom.name=%s武士刀
+item.spartanweaponry:saber_custom.name=%s軍刀
+item.spartanweaponry:rapier_custom.name=%s護手刺劍
+item.spartanweaponry:greatsword_custom.name=%s大劍
+item.spartanweaponry:hammer_custom.name=%s錘
+item.spartanweaponry:warhammer_custom.name=%s戰鎚
+item.spartanweaponry:spear_custom.name=%s長矛
+item.spartanweaponry:halberd_custom.name=%s戟
+item.spartanweaponry:pike_custom.name=%s長柄槍
+item.spartanweaponry:lance_custom.name=%s騎士長槍
+item.spartanweaponry:longbow_custom.name=%s強化長弓
+item.spartanweaponry:crossbow_custom.name=%s強化弩
+item.spartanweaponry:throwing_knife_custom.name=%s投擲刀
+item.spartanweaponry:throwing_axe_custom.name=%s投擲斧
+item.spartanweaponry:javelin_custom.name=%s標槍
+item.spartanweaponry:boomerang_custom.name=%s迴旋鏢
+item.spartanweaponry:battleaxe_custom.name=%s戰斧
+item.spartanweaponry:mace_custom.name=%s狼牙棒
+item.spartanweaponry:glaive_custom.name=%s長柄刀
+item.spartanweaponry:quarterstaff_custom.name=%s長棍
+
+#Materials
+material.spartanweaponry:wood=木
+material.spartanweaponry:stone=石
+material.spartanweaponry:leather=皮革
+material.spartanweaponry:iron=鐵
+material.spartanweaponry:gold=金
+material.spartanweaponry:diamond=鑽石
+
+material.spartanweaponry:copper=銅
+material.spartanweaponry:tin=錫
+material.spartanweaponry:bronze=青銅
+material.spartanweaponry:steel=鋼
+material.spartanweaponry:silver=銀
+material.spartanweaponry:invar=因瓦
+material.spartanweaponry:platinum=鉑
+material.spartanweaponry:electrum=琥珀金
+material.spartanweaponry:nickel=鎳
+material.spartanweaponry:lead=鉛
+material.spartanweaponry:titanium=鈦
+
+#OreDicts
+material.spartanweaponry:ingotCopper=銅錠
+material.spartanweaponry:ingotTin=錫錠
+material.spartanweaponry:ingotBronze=青銅錠
+material.spartanweaponry:ingotSteel=鋼錠
+material.spartanweaponry:ingotSilver=銀錠
+material.spartanweaponry:ingotInvar=因瓦錠
+material.spartanweaponry:ingotPlatinum=鉑錠
+material.spartanweaponry:ingotElectrum=琥珀金錠
+material.spartanweaponry:ingotNickel=鎳錠
+material.spartanweaponry:ingotLead=鉛錠
+material.spartanweaponry:ingotTitanium=鈦錠
+
+#Creative Tabs
+itemGroup.spartanweaponry:tabBasic.name=斯巴達武器
+itemGroup.spartanweaponry:tabModded.name=斯巴達武器擴增
+itemGroup.spartanweaponry:tabArrowsAndBolts.name=斯巴達武器 箭與鏢
+
+#Enchantments
+enchantment.spartanweaponry:throwing_range=輕巧
+enchantment.spartanweaponry.throwing_range.desc=擴大了該武器的射程
+enchantment.spartanweaponry:throwing_damage=銳化
+enchantment.spartanweaponry.throwing_damage.desc=增加投擲武器的傷害
+enchantment.spartanweaponry:throwing_fire=燃燒
+enchantment.spartanweaponry.throwing_fire.desc=設置被這種投擲武器擊中的敵人著火
+enchantment.spartanweaponry:throwing_luck=幸運打擊
+enchantment.spartanweaponry.throwing_luck.desc=就像財富/搶劫一樣投擲武器
+
+#Tooltips
+tooltip.spartanweaponry:showDetails=[按 %s 顯示武器詳細信息]
+tooltip.spartanweaponry:throwable=可投擲
+tooltip.spartanweaponry:throwable.desc=該武器可以向敵人投擲
+tooltip.spartanweaponry:blocking=格檔
+tooltip.spartanweaponry:blocking.desc=可以阻止近戰攻擊
+tooltip.spartanweaponry:two_handed=雙手 %s
+tooltip.spartanweaponry:two_handed.desc=副手插槽中的任何物品都會降低攻擊速度
+tooltip.spartanweaponry:extra_damage=傷害加成
+tooltip.spartanweaponry:extra_damage.desc=%fx 額外傷害 %s
+tooltip.spartanweaponry:extra_damage_chest=胸部傷害加成
+tooltip.spartanweaponry:extra_damage_chest.desc=+%f%% 當敵人沒有護胸時
+tooltip.spartanweaponry:extra_damage_unarmoured=未裝甲的傷害加成
+tooltip.spartanweaponry:extra_damage_unarmoured.desc=+%f%% 當敵人沒有護甲時
+tooltip.spartanweaponry:extra_damage_riding=騎行傷害加成
+tooltip.spartanweaponry:extra_damage_riding.desc=+%f%% 騎乘坐騎或車輛時
+tooltip.spartanweaponry:extra_damage_thrown=投擲傷害加成
+tooltip.spartanweaponry:extra_damage_thrown.desc=+%f%% 投擲此武器時會造成額外的傷害
+tooltip.spartanweaponry:extra_damage_undead=不死傷害加成
+tooltip.spartanweaponry:extra_damage_undead.desc=+%f%% 不死生物的傷害
+tooltip.spartanweaponry:damage_absorb=傷害吸收
+tooltip.spartanweaponry:damage_absorb.desc=此武器的耐用性造成的傷害的 %d%%
+tooltip.spartanweaponry:reach=達到 %s
+tooltip.spartanweaponry:reach.desc=增加近戰傷害範圍。到達率越高，範圍越廣
+tooltip.spartanweaponry:sweep_damage=廣泛攻擊 %s
+tooltip.spartanweaponry:sweep_damage.desc==掃射範圍內的所有目標受到標準傷害的%d%%
+tooltip.spartanweaponry:knockback=加強擊退
+tooltip.spartanweaponry:knockback.desc=敵人被擊倒在更遠的地方。
+tooltip.spartanweaponry:nausea=令人討厭的打擊
+tooltip.spartanweaponry:nausea.desc=除非命中者戴著頭盔，否則會造成噁心II（%ds）
+tooltip.spartanweaponry:armour_piercing=穿透
+tooltip.spartanweaponry:armour_piercing.desc=造成的傷害的%d%%。忽略盔甲值
+tooltip.spartanweaponry:shield_breach=盾牌突破
+tooltip.spartanweaponry:shield_breach.desc=有機會突破敵人的盾牌
+tooltip.spartanweaponry:versatile=通用
+tooltip.spartanweaponry:versatile.desc=可以用作%s
+tooltip.spartanweaponry:versatile.axe=一把斧
+tooltip.spartanweaponry:versatile.pickaxe=一支鎬
+tooltip.spartanweaponry:versatile.shovel=一支鏟
+tooltip.spartanweaponry:quick_strike=快速打擊
+tooltip.spartanweaponry:quick_strike.desc=此武器可以在很短的傷害抵抗時間內快速進行快速打擊。
+
+tooltip.spartanweaponry:longbow=標準弓的遠程版本。
+tooltip.spartanweaponry:longbow.desc=需要更長的時間才能完整製作
+tooltip.spartanweaponry:crossbow=高傷害且遠程。發射前需要加載。使用短箭
+tooltip.spartanweaponry:crossbow.desc=射擊後快速射擊會影響準確性。
+tooltip.spartanweaponry:crossbow.desc2=握住瞄準點。
+tooltip.spartanweaponry:crossbow.loaded_bolt=加載方式：%s
+
+tooltip.spartanweaponry:throwable_stack_status=%d/%d
+
+tooltip.spartanweaponry:projectile_base_damage=基礎傷害： %f
+tooltip.spartanweaponry:projectile_range_multiplier=範圍： x%f
+
+tooltip.spartanweaponry:quiver_arrow.desc=被動提供用於弓或長弓的箭矢
+tooltip.spartanweaponry:quiver_bolt.desc=被動提供用於弩的短箭
+tooltip.spartanweaponry:quiver_capacity=最大容量： %d 個
+tooltip.spartanweaponry:quiver_show_contents=[按%s顯示更多內容]
+tooltip.spartanweaponry:quiver_show_description=[按%s顯示描述]
+tooltip.spartanweaponry:quiver_contains=當前包含：
+tooltip.spartanweaponry:quiver_ammo=- %dx %s
+tooltip.spartanweaponry:quiver_none=- 無!
+tooltip.spartanweaponry:quiver_collect_status=Ammo Collect: %s
+
+tooltip.spartanweaponry:cantCraftMissingMaterial=無法製作。缺少材料%s
+tooltip.spartanweaponry:invalidEnchantments=This weapon has invalid enchantments. Put into a crafting grid alone to correct the enchantments.
+
+tooltip.spartanweaponry:enabled=已啟用
+tooltip.spartanweaponry:disabled=禁用
+
+message.spartanweaponry:ammoCollectToggle=Ammo Collection: %s
+
+#Item modifier tooltips
+tooltip.spartanweaponry:modifiers.thrown=拋出時：
+tooltip.spartanweaponry:attribute.damage=%s傷害
+attribute.name.spartanweaponry:generic.throwing_damage=投擲傷害
+
+#Dev tooltips
+dev.spartanweaponry:wip=前正在進行中s (WIP)
+
+#Advancements
+advancement.spartanweaponry：root.title=斯巴達武器
+advancement.spartanweaponry：root.desc=武器豐盛！
+advancement.spartanweaponry：melee=戰士的武器庫
+advancement.spartanweaponry：melee.desc=近戰武器！
+advancement.spartanweaponry：archery=阿徹的阿森納
+advancement.spartanweaponry：archery.desc=遠程武器！
+advancement.spartanweaponry：thrownWeapons=刺客的武器庫
+advancement.spartanweaponry：thrownWeapons.desc=投擲武器！
+advancement.spartanweaponry：craftDagger=盜賊的最好朋友
+advancement.spartanweaponry：craftDagger.desc=製作匕首
+advancement.spartanweaponry：craftLongsword=更大的劍
+advancement.spartanweaponry：craftLongsword.desc=製作長劍
+advancement.spartanweaponry：craftKatana=武士之刃
+advancement.spartanweaponry：craftKatana.desc=製作武士刀
+advancement.spartanweaponry：craftSaber=貪食者
+advancement.spartanweaponry：craftSaber.desc=製作軍刀
+advancement.spartanweaponry：craftRapier=恩加德！
+advancement.spartanweaponry：craftRapier.desc=製作長劍
+advancement.spartanweaponry：craftGreatsword=超越其他
+advancement.spartanweaponry：craftGreatsword.desc=製作大劍
+advancement.spartanweaponry：craftCaestus=暴虐
+advancement.spartanweaponry：craftCaestus.desc =製作一個手套
+advancement.spartanweaponry：craftClub=要去棍棒
+advancement.spartanweaponry：craftClub.desc=製作棒
+advancement.spartanweaponry：craftHammer=錘時間！
+advancement.spartanweaponry：craftHammer.desc=製作錘子
+advancement.spartanweaponry：craftWarhammer=鈍器創傷
+advancement.spartanweaponry：craftWarhammer.desc=製作戰鎚
+advancement.spartanweaponry：craftSpear=矛尖
+advancement.spartanweaponry：craftSpear.desc=製作長矛
+progress.spartanweaponry：craftHalberd=長戟手
+advancement.spartanweaponry：craftHalberd.desc =製作戟
+advancement.spartanweaponry：craftPike =矛！
+advancement.spartanweaponry：craftPike.desc =製作長柄槍
+advancement.spartanweaponry：craftLance=第四騎士
+advancement.spartanweaponry：craftLance.desc=製作騎士長槍
+advancement.spartanweaponry：craftLongbow=長距離射箭
+advancement.spartanweaponry：craftLongbow.desc=製作長弓
+advancement.spartanweaponry：craftCrossbow=鎖定並加載！
+advancement.spartanweaponry：craftCrossbow.desc=製作弩
+advancement.spartanweaponry：craftThrowingKnife=刺客的需要
+advancement.spartanweaponry：craftThrowingKnife.desc=製作一把投擲刀
+progress.spartanweaponry：craftThrowingAxe=戰斧
+advancement.spartanweaponry：craftThrowingAxe.desc=製作投擲斧
+advancement.spartanweaponry：craftJavelin=非奧林匹克類型
+advancement.spartanweaponry：craftJavelin.desc=製作標槍
+advancement.spartanweaponry：craftBoomerang=回來了嗎？
+advancement.spartanweaponry：craftBoomerang.desc=製作迴旋鏢
+advancement.spartanweaponry：craftBattleaxe= ...還有我的斧頭！
+advancement.spartanweaponry：craftBattleaxe.desc=製作戰斧
+advancement.spartanweaponry：craftMace=粉碎並重擊！
+advancement.spartanweaponry：craftMace.desc=製作狼牙棒
+advancement.spartanweaponry：craftGlaive=拉直鐮刀
+advancement.spartanweaponry：craftGlaive.desc=製作長柄刀
+advancement.spartanweaponry：craftQuarterstaff=一根不太尖的棍子！
+advancement.spartanweaponry：craftQuarterstaff.desc =製作長棍
+advancement.spartanweaponry：explode_creeper=業力
+advancement.spartanweaponry：explode_creeper.desc=讓苦力怕嚐嚐自己的藥！
+
+#Subtitles
+subtitle.spartanweaponry:crossbow_load=Crossbow Loaded
+subtitle.spartanweaponry:crossbow_fire=Crossbow Fires Bolt
+subtitle.spartanweaponry:throwing_weapon_throw=Throwing Weapon Thrown
+subtitle.spartanweaponry:throwing_weapon_hit=Throwing Weapon Hit
+subtitle.spartanweaponry:boomerang_throw=Boomerang Thrown
+subtitle.spartanweaponry:boomerang_flight=Boomerang Flies
+
+#Configs
+config.spartanweaponry:category.materials=材料
+
+config.spartanweaponry:damageBaseCopper=銅的基礎傷害
+config.spartanweaponry:damageBaseTin=錫的基礎傷害
+config.spartanweaponry:damageBaseBronze=青銅的基礎傷害
+config.spartanweaponry:damageBaseSteel=鋼的基礎傷害
+config.spartanweaponry:damageBaseSilver=銀的基礎傷害
+config.spartanweaponry:damageBaseInvar=因瓦的基礎傷害
+config.spartanweaponry:damageBasePlatinum=鉑的基礎傷害
+config.spartanweaponry:damageBaseElectrum=琥珀金的基礎傷害
+config.spartanweaponry:damageBaseNickel=鎳的基礎傷害
+config.spartanweaponry:damageBaseLead=鉛的基礎傷害
+
+config.spartanweaponry:durabilityBaseCopper=銅製耐久度
+config.spartanweaponry:durabilityBaseTin=錫製耐久度
+config.spartanweaponry:durabilityBaseBronze=青銅製耐久度
+config.spartanweaponry:durabilityBaseSteel=鋼製耐久度
+config.spartanweaponry:durabilityBaseSilver=銀製耐久度
+config.spartanweaponry:durabilityBaseInvar=因瓦製耐久度
+config.spartanweaponry:durabilityBasePlatinum=鉑製耐久度
+config.spartanweaponry:durabilityBaseElectrum=琥珀金製耐久度
+config.spartanweaponry:durabilityBaseNickel=鎳製耐久度
+config.spartanweaponry:durabilityBaseLead=鉛製耐久度
+
+config.spartanweaponry:disableCopper=禁用銅製武器
+config.spartanweaponry:disableTin=禁用錫製武器
+config.spartanweaponry:disableBronze=禁用青銅製武器
+config.spartanweaponry:disableSteel=禁用鋼製武器
+config.spartanweaponry:disableSilver=禁用銀製武器
+config.spartanweaponry:disableInvar=禁用因瓦製武器
+config.spartanweaponry:disablePlatinum=禁用鉑製武器
+config.spartanweaponry:disableElectrum=禁用琥珀金製武器
+config.spartanweaponry:disableNickel=禁用鎳製武器
+config.spartanweaponry:disableLead=禁用鉛製武器
+
+config.spartanweaponry:disableWeapon=禁用武器類型
+config.spartanweaponry:damageMultiplier=武器傷害倍增
+config.spartanweaponry:damageBase=武器傷害基礎值
+
+config.spartanweaponry:category.dagger=匕首
+config.spartanweaponry:category.parrying_dagger=格檔匕首
+config.spartanweaponry:category.longsword=長劍
+config.spartanweaponry:category.katana=武士刀
+config.spartanweaponry:category.saber=軍刀
+config.spartanweaponry:category.rapier=護手刺劍
+config.spartanweaponry:category.greatsword=大劍
+config.spartanweaponry:category.caestus=手套
+config.spartanweaponry:category.club=棒
+config.spartanweaponry:category.hammer=錘
+config.spartanweaponry:category.warhammer=戰鎚
+config.spartanweaponry:category.spear=長矛
+config.spartanweaponry:category.halberd=戟
+config.spartanweaponry:category.pike=長柄槍
+config.spartanweaponry:category.lance=騎士長槍
+
+config.spartanweaponry:category.longbow=強化長弓
+config.spartanweaponry:woodenLongbowOnly=僅木長弓
+config.spartanweaponry:multiplierLongbow=長弓乘數
+
+config.spartanweaponry:category.crossbow=Crossbow
+config.spartanweaponry:woodenCrossbowOnly=Wooden Crossbows Only
+config.spartanweaponry:crossbowInaccuracyMax=Maximum Bolt Spread
+config.spartanweaponry:crossbowTicksToLoad=Crossbow Loading Ticks
+config.spartanweaponry:crossbowTicksCooldown=Crossbow Load Cooldown
+config.spartanweaponry:boltDamage=Bolt Base Damage
+config.spartanweaponry:boltDiamondDamage=Diamond Bolt Base Damage
+
+config.spartanweaponry:category.throwing_knife=Throwing Knife
+
+config.spartanweaponry:category.throwing_axe=Throwing Axe
+
+config.spartanweaponry:category.javelin=Javelin
+
+config.spartanweaponry:category.boomerang=Boomerang
+config.spartanweaponry:woodenBoomerangOnly=Wooden Boomerangs Only
+
+config.spartanweaponry:category.battleaxe=Battleaxe
+
+config.spartanweaponry:category.mace=Mace
+
+config.spartanweaponry:category.glaive=Glaive
+
+config.spartanweaponry:category.quarterstaff=Quarterstaff
+
+config.spartanweaponry:category.arrows=Arrows & Quivers
+config.spartanweaponry:disableNewArrows=Disable Arrows
+config.spartanweaponry:disableDiamondArrowsAndBolts=Disable Diamond Arrows & Bolts
+config.spartanweaponry:disableQuivers=Disable Quivers
+config.spartanweaponry:quiverBowBlacklist=Bow Blacklist for Arrow Quiver
+config.spartanweaponry:baseDamageArrowWood=Wooden Arrow Base Damage
+config.spartanweaponry:baseDamageArrowIron=Iron Arrow Base Damage
+config.spartanweaponry:baseDamageArrowDiamond=Diamond Arrow Base Damage
+
+config.spartanweaponry:category.explosives=Explosives
+config.spartanweaponry:disableExplosives=Disable Explosives
+config.spartanweaponry:enableTerrainDamage=Explosives Cause Terrain Damage
+
+config.spartanweaponry:category.weapon_properties=Weapon Properties
+config.spartanweaponry:quickStrikeHurtResistTicks=Quick Strike: Hurt Resistance Ticks
+
+config.spartanweaponry:category.general=General Options
+config.spartanweaponry:enableExperimentalWeapons=Enable Experimental Weapons
+config.spartanweaponry:enableModdedMaterialWeapons=Enable Modded-Material Weapons
+config.spartanweaponry:forceDisableUncraftableTooltips=Force Disable Uncraftable Weapon Tooltips
+
+config.spartanweaponry:category.client=Client Options
+config.spartanweaponry:quiverHudAlignment=Quiver HUD Alignment
+config.spartanweaponry:quiverHudOffsetX=Quiver HUD X-offset
+config.spartanweaponry:quiverHudOffsetY=Quiver HUD Y-offset
+config.spartanweaponry:disableNewCrosshairCrossbow=Disable New Crossbow Crosshair
+config.spartanweaponry:disableNewCrosshairThrowingWeapon=Disable New Throwing Weapon Crosshair

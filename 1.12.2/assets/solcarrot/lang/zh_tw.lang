@@ -1,0 +1,113 @@
+# Tooltips
+tooltip.solcarrot.hearty.not_eaten=還沒吃！嘗起來怎麽樣？
+tooltip.solcarrot.hearty.eaten=吃下後：幫助你回覆生命值
+tooltip.solcarrot.cheap.eaten=食用後：沒有明顯的效果
+tooltip.solcarrot.cheap=這種食物營養不足,無法提升你的血量。
+tooltip.solcarrot.disabled.blacklist=這種食物被列入黑名單,因此不能提升你的血量。
+tooltip.solcarrot.disabled.whitelist=這種食物不在白名單中,因此不能提升你的血量。
+tooltip.solcarrot.disabled.eaten=食用後:無明顯效果
+
+# Commands
+command.solcarrot.foodlist.size.usage=/foodlist size [玩家]
+command.solcarrot.foodlist.clear.usage=/foodlist clear [玩家]
+command.solcarrot.foodlist.sync.usage=/foodlist sync [玩家]
+command.solcarrot.foodlist.no_permissions=您沒有將此命令應用於其他玩家所需的權限！
+
+command.solcarrot.foodlist.size.desc.foods_eaten.singular=你還沒有吃過食物！
+command.solcarrot.foodlist.size.desc.foods_eaten.plural=你已經吃過%s種不同食物了！
+command.solcarrot.foodlist.size.desc.milestone.max=很遺憾，你目前無法通過吃下新食物增加生命值了。
+command.solcarrot.foodlist.size.desc.milestone.more=你還需要 %s 才能添加到你的最大生命值。
+
+command.solcarrot.foodlist.clear.success=食物清單重置！
+
+command.solcarrot.foodlist.sync.success=食物清單同步！
+
+# Messages
+message.solcarrot.chat_wrapper=[SoL: Carrot] %s
+message.solcarrot.hearts.singular=一顆心
+message.solcarrot.hearts.plural=%s 顆心
+message.solcarrot.milestone_achieved=多獨特的味道啊！你已獲得 %s！
+message.solcarrot.finished.chat=你對獨特食物的渴望最終得到滿足。
+message.solcarrot.finished.hotbar=你獲得了 %s。你對獨特食物的渴望最終得到滿足。
+
+# Items
+item.solcarrot.food_book.name=食物書
+
+# GUIs
+gui.solcarrot.food_book.stats=概述
+gui.solcarrot.food_book.eaten_foods=已經嘗過了：%s
+gui.solcarrot.food_book.uneaten_foods=尚未品嘗：%s
+gui.solcarrot.food_book.config=配置
+
+gui.solcarrot.food_book.fraction=%1$s/%2$s
+
+gui.solcarrot.food_book.stats.foods_tasted=食品品嘗
+gui.solcarrot.food_book.stats.hearts_gained=增加心
+gui.solcarrot.food_book.stats.tooltip.progress=%s 直至下一個裏程碑
+gui.solcarrot.food_book.stats.tooltip.progress.max=里程碑達到最高！
+gui.solcarrot.food_book.stats.tooltip.previous_milestone=上一個里程碑： %s
+gui.solcarrot.food_book.stats.tooltip.next_milestone=下一個里程碑：%s
+gui.solcarrot.food_book.stats.tooltip.total_foods=%s 全食品
+gui.solcarrot.food_book.stats.tooltip.foods_tasted=食物嘗起來： %s
+gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.singular=每一個里程碑有一顆心
+gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.plural=每個里程碑有 %s 生命值
+
+gui.solcarrot.food_book.config.minimum_food_value=最低飢餓值
+gui.solcarrot.food_book.config.tooltip.minimum_food_value=需要到達所需的最低饑餓值，以進入下一裏程碑。
+gui.solcarrot.food_book.config.hearty_fraction=營養的食物
+gui.solcarrot.food_book.config.tooltip.hearty_fraction=在 %s1$s 食物中，%2$s 營養充足，可以提升你的血量。
+gui.solcarrot.food_book.config.eaten_cheap_foods=乏味的食物味道
+gui.solcarrot.food_book.config.tooltip.eaten_cheap_foods=%1$s 食物沒有足夠的營養來提升你的血量，你應該吃 %2$s 。
+gui.solcarrot.food_book.config.blacklist=被列入黑名單的食品
+gui.solcarrot.food_book.config.whitelist=被列入白名單的食物
+gui.solcarrot.food_book.config.tooltip.blacklist=有多少食物被列入黑名單。
+gui.solcarrot.food_book.config.tooltip.whitelist=白名單上允許多少種食物。
+
+# Config GUI
+config.solcarrot.base_hearts=基礎的心
+config.solcarrot.hearts_per_milestone=每個里程碑的紅心
+config.solcarrot.milestones=里程碑
+config.solcarrot.is_food_tooltip_enabled=啟用食物文本提示
+config.solcarrot.should_show_progress_above_hotbar=在熱鍵上方顯示進度
+config.solcarrot.should_show_uneaten_foods=展示未食用的食物
+config.solcarrot.should_play_milestone_sounds=啟用里程碑提示音
+config.solcarrot.should_spawn_intermediate_particles=啟用中間粒子
+config.solcarrot.should_spawn_milestone_particles=啟用里程碑粒子
+config.solcarrot.food_blacklist=黑名單
+config.solcarrot.food_whitelist=白名單(禁用黑名單)
+config.solcarrot.minimum_food_value=最低饑餓值
+config.solcarrot.reset_on_death=死亡時重置
+
+##以下為舊版條目
+solcarrot.command.clearfoodarray.desc=食物列表已重置！
+solcarrot.command.sizefoodarray.desc.foodsEatenPlural=你已經吃過%s種不同食物了！
+solcarrot.command.sizefoodarray.desc.foodsEatenSingular=你還沒有吃過食物！
+solcarrot.command.sizefoodarray.desc.milestoneMax=很遺憾，你目前無法通過吃下新食物增加生命值了。
+solcarrot.command.sizefoodarray.desc.milestoneMore=你還需要%s種食物來增加最大生命值！
+solcarrot.message.desire=再吃下%s種食物就能獲得額外的%s！
+solcarrot.message.desire.lost=你遍嘗各種食物的夢想最終實現了。
+solcarrot.message.foodeaten=多麽獨特的味道！你獲得了%s！
+solcarrot.message.foodeaten.multipleheart=顆心
+solcarrot.message.foodeaten.singleheart=一顆心
+solcarrot.tooltip.hpeaten=吃下後幫助你回覆生命值
+solcarrot.tooltip.noteaten1=還未吃過！
+solcarrot.tooltip.noteaten2=它的味道如何？
+
+# Tooltips
+tooltip.solcarrot.not_eaten_1=還未吃過！
+tooltip.solcarrot.not_eaten_2=它的味道如何？
+tooltip.solcarrot.eaten=吃下後幫助你回覆生命值
+
+command.solcarrot.foodlist.usage=/foodlist <size|clear|sync>
+
+message.solcarrot.prefix=[SoL: Carrot] 
+message.solcarrot.milestone_achieved.hearts.singular=一顆心
+message.solcarrot.milestone_achieved.hearts.plural=%s 顆心
+message.solcarrot.desire.continues=再吃下%s種食物就能獲得額外的%s！
+message.solcarrot.desire.finished=你遍嘗各種食物的夢想最終實現了。
+
+# GUIs
+gui.solcarrot.food_book.title=我的食物日志
+gui.solcarrot.food_book.header=吃的食物: %s
+gui.solcarrot.food_book.stats.fraction=%1$s/%2$s
+gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone=每個里程碑的紅心

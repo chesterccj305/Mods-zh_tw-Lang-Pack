@@ -1,0 +1,21 @@
+{
+    "name": "樹冠減光器",
+    "icon": "naturesaura:oak_generator",
+    "category": "creating",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "當然，在生活中，任何人處理樹木時都會面臨著這著名的問題: 一顆$(item)橡樹樹苗$()長成了一株看不到頭的$(thing)參天大樹$()，而你要去砍伐它。$(br)$(item)樹冠減光器$()是一個有著雙重用途的方塊：$(br)將它放置在樹苗附近大約10方塊遠，"
+        },
+        {
+            "type": "text",
+            "text": "樹苗只會長成中型大小。$(br)同時，樹苗中用於生長的額外的自然能量將會轉化為巨量的$(#419600)靈氣$()並返回到環境中。$(p)顯而易見，樹冠減光器將會在$(thing)木頭農場$()中大顯身手。"
+        },
+        {
+            "type": "crafting",
+            "recipe": "naturesaura:oak_generator",
+            "text": "合成$(item)樹冠減光器$()"
+        }
+    ]
+}

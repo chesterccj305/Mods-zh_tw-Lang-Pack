@@ -1,0 +1,21 @@
+{
+  "modifier": "paleontologist",
+  "text": [
+    {
+      "text": "將活體化石安裝在你的工具上，增加你的工具採掘化石礦時挖到骨頭、頭骨、活體化石的機率"
+    },
+    {
+      "text": "\n"
+    }
+  ],
+  "effects": [
+    "增加你的工具採掘化石礦時挖到骨頭、頭骨、活體化石的機率",
+    "此能力升級只占用一格強化空間",
+    "無法同時與考古學升級安裝"
+  ],
+  "demoTool": [
+    "tconstruct:pickaxe",
+    "tconstruct:hammer"
+  ]
+}
+

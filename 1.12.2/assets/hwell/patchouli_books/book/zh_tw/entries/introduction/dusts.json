@@ -1,0 +1,40 @@
+{
+    "name": "神秘粉",
+    "icon": "hwell:myst_dust",
+    "category": "introduction",
+    "sortnum": 20,
+    "pages": [
+        	{	
+        	"type": "spotlight",
+            "title": "神秘粉",
+            "item": "hwell:myst_dust",
+            "link_recipe": true,
+            "text": "你可以通過用神秘粉填充空棒, 然後再將神秘水晶棒粉碎, 這樣你將可以獲得更多的神秘粉. $(br2)或者, 你可以對著一個草方塊使用神秘粉, 然後等待它長出神秘灌木叢, 以此獲得更多神秘粉."
+        },
+		{
+            "type": "crafting",
+			"title": "神秘粉塊",
+			"text": "神秘粉可以制造成塊狀粉, 以此可以用於進一步的制作.",
+			"recipe": "hwell:myst_dust_block"		
+        },
+	    {
+            "type": "crafting",
+			"title": "石粉",
+			"recipe": "hwell:dust"
+		},
+	    {
+            "type": "crush",
+			"name": "石粉",
+			"recipe": "hwell:dust",
+			"input1": "hwell:crushing_block",
+			"input2": "minecraft:cobblestone",
+			"output": "hwell:dust",
+			"text": "將你需要粉碎的物品扔在地上, 然後將粉碎器放在他的上方. 它將會像沙子一樣落下, 粉碎其下方的物品."
+		},
+	    {
+            "type": "smelting",
+			"text": "將石頭粉碎成石粉. 然後將石粉制造成石粉塊, 你就可以在熔爐中將它燒制成玻璃.",
+			"recipe2": "hwell:dust_block"
+			}
+    ]
+}

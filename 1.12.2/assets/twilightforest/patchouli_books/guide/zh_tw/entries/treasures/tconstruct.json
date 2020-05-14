@@ -1,0 +1,14 @@
+{
+  "name": "[匠魂]工具",
+  "icon": "tconstruct:large_plate{Material:\"fierymetal\"}",
+  "category": "treasures",
+  "flag": "mod:tconstruct",
+  "advancement": "twilightforest:alt/compat/tconstruct",
+  "sortnum": 1200,
+  "pages": [
+    {
+      "type": "text",
+      "text": "關於暮光森林工具用於匠魂模組的資訊"
+    }
+  ]
+}

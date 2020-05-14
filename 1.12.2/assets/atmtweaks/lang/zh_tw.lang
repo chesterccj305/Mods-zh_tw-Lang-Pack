@@ -1,0 +1,13 @@
+item.item_material.anima_mundi.name=宇宙靈魂
+item.item_material.atm_star.name=ATM之星
+item.item_material.dragon_essence.name=龍之精華
+item.item_material.forged_industrium.name=精鍛工業元素合金
+item.item_material.growth_essence.name=生長精華
+item.item_material.industrium_alloy.name=工業元素合金
+item.item_material.invalid_item.name=非法物品[你不應該得到這個的！]
+item.item_material.orb_of_transcendence.name=卓越之球
+item.item_material.paradoxically_dense_component.name=致密型矛盾組件
+item.item_material.schwarzschild_sphere.name=史瓦希球
+item.item_material.unified_field_core.name=統一場核心
+item.item_material.wither_essence.name=雕零精華
+itemGroup.atmtweaks=ATM Tweaks

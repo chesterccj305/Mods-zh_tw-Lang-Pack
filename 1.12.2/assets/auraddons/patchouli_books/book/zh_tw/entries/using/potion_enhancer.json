@@ -1,0 +1,25 @@
+{
+  "name": "藥水增強器",
+  "icon": "auraddons:block_potion_enhancer",
+  "category": "naturesaura:using",
+  "advancement": "naturesaura:sky_ingot",
+  "pages": [
+    {
+      "type": "text",
+      "text": "作為植物學家，你肯定很熟悉釀造$(item)藥水$()。然而藥水的持續時間不夠長，使得藥水不能真正有用，解決辦法是一個叫$(item)藥水增強器$()的設備。每當$(item)藥水$()在站在設備上的$(item)釀造台$()被釀造時，這個$(item)藥水$()會被增強。為了做到這點，$(item)藥水增強器$()會消耗$(aura)。"
+    },
+    {
+      "type": "text",
+      "text": "設備消耗$(aura)的多少取決於$(item)藥水$()的等級。$(item)藥水增強器$()還提供了額外的對其上的$(item)釀造台$()的交互方式。一個$(item)漏鬥$()與$(item)藥水增強器$()的連接會像直接和$(item)釀造台連接$()一樣。"
+    },
+    {
+      "type":"naturesaura:offering",
+      "text":"合成$(item)天空之瓶$()，有著神聖透明塗層的瓶子。",
+      "recipe":"auraddons:recipe_sky_bottle"
+    }, {
+      "type": "crafting",
+      "text": "合成$(item)藥水增強器$()。",
+      "recipe": "auraddons:potion_enhancer"
+    }
+  ]
+}

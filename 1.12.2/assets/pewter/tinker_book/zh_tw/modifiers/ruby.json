@@ -1,0 +1,18 @@
+﻿{
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:broadsword",
+        "tconstruct:arrow"
+    ],
+    "effects": [
+        "大大提高了工具的耐久",
+        "攻擊傷害略有增加",
+        "攻擊速度略有下降"
+    ],
+    "modifier": "ruby",
+    "text": [
+        {
+            "text": "這顆寶石非常堅硬而且非常鋒利。它是一種剛玉，而且幾乎總是有缺陷的。 Ruby的名字來源於拉丁文名稱“red”。\n"
+        }
+    ]
+}

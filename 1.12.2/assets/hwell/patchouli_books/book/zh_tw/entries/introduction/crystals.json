@@ -1,0 +1,33 @@
+{
+    "name": "制造水晶",
+    "icon": "hwell:crystal",
+    "category": "introduction",
+    "sortnum": 40,
+    "pages": [
+        	{	
+        	"type": "spotlight",
+            "title": "水晶",
+            "item": "hwell:crystal",
+            "link_recipe": true,
+            "text": "這些水晶神秘而脆弱. 他們閃耀著無數絢麗的光彩. $(br2)這些水晶可以被粉碎器粉碎, 並可以獲得隨機的水晶碎片. 這些水晶也可以扔入地獄傳送門中變為地獄水晶."
+        },
+		{
+            "type": "smelting",
+			"title": "熔煉水晶",
+			"text": "為了獲取這些水晶, 你需要制造一些神秘混合物, 然後將他們燒制以此獲得水晶塊. 水晶塊可以分解成水晶.",
+			"recipe": "hwell:leaf_mesh"		
+        },
+	    {
+            "type": "crafting",
+			"title": "水晶",
+			"recipe": "hwell:crystal",
+			"recipe2": "hwell:crystal_block"
+		},
+		{
+            "type": "crafting",
+			"title": "水晶的實用合成",
+			"recipe": "hwell:crystal_bowl",
+			"recipe2": "hwell:crystal_catalyst"
+		}
+    ]
+}

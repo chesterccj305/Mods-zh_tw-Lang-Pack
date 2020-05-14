@@ -1,0 +1,34 @@
+# TODO Fix smoke! Look for the Smoke to see where that is and try again.
+#Achievements
+#Blocks
+#Item Groups
+#Messages
+_#Items 
+achievement.buildBridge.desc=使用橋梁建築槍建造一座索橋
+achievement.buildBridge=索橋
+achievement.grapplingGun.desc=用橋梁建築槍鉤，槍管以及槍托來制作橋梁建築槍
+achievement.grapplingGun=橋梁建築槍
+chat.ropebridge.info.bad_side=你不能在方塊的 %f 建造繩梯。試試邊上！
+chat.ropebridge.info.greatslope=對不起，你的橋的坡度太大了。請移步再試一次。
+chat.ropebridge.info.not_solid=方塊的這一面不支持放繩梯。
+chat.ropebridge.info.notcardinal=對不起，你只能在基本的方向上造橋，不能斜著造。請再試一次。
+chat.ropebridge.info.notonground=你必須站在什麽東西上才可以造橋！
+chat.ropebridge.info.obstruction=哎呀！看來有什麽東西擋住了梯級擱板。
+chat.ropebridge.info.underfunded_bridge=你需要至少 %f 台階和 %f 繩索來造橋。
+chat.ropebridge.info.underfunded_ladder=你需要至少 %f 台階和 %f 繩索來造繩梯。
+chat.ropebridge.params.bottom=底部
+chat.ropebridge.params.top=頂部
+chat.ropebridge.warning.breaking=警告！整座橋將被破壞！
+item.ropebridge.bridge.builder.material.barrel.name=槍管
+item.ropebridge.bridge.builder.material.handle.name=槍托
+item.ropebridge.bridge.builder.material.hook.name=橋梁建築槍鉤
+item.ropebridge.bridge.builder.name=橋梁建築槍
+item.ropebridge.ladder.builder.name=梯子槍
+item.ropebridge.ladder.hook.name=梯子槍鉤
+item.ropebridge.rope.name=繩索
+itemGroup.RopeBridgeTab=索橋
+tile.ropebridge.bridge.block.1.name=梯級擱板
+tile.ropebridge.bridge.block.2.name=梯級擱板
+tile.ropebridge.bridge.block.3.name=梯級擱板
+tile.ropebridge.bridge.block.4.name=梯級擱板
+tile.ropebridge.rope.ladder.name=繩梯

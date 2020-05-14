@@ -1,0 +1,19 @@
+﻿{
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:broadsword",
+        "tconstruct:arrow"
+    ],
+    "effects": [
+        "基於等級的額外傷害",
+        "必須在空曠的天空下",
+        "多個等級",
+        "激活時會閃光"
+    ],
+    "modifier": "celestial",
+    "text": [
+        {
+            "text": "嵌入工具中的海藍寶石似乎在開闊的夜空下給它一種閃光效果，增加它的攻擊傷害。似乎在高海拔地區更有效。"
+        }
+    ]
+}

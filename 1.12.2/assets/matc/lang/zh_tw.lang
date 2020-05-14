@@ -1,0 +1,13 @@
+item.inferiumcrystal.name=§e下級註魔水晶
+item.prudentiumcrystal.name=§2初級註魔水晶
+item.intermediumcrystal.name=§6中級註魔水晶
+item.superiumcrystal.name=§9高級註魔水晶
+item.supremiumcrystal.name=§c終極註魔水晶
+itemGroup.tab_matc=神秘農業各級水晶
+matc.config.infusiondurabilities=註魔水晶耐久
+matc.config.infusiondurabilities.inferiumDurability=下級耐久
+matc.config.infusiondurabilities.prudentiumDurability=初級耐久
+matc.config.infusiondurabilities.intermediumDurability=中級耐久
+matc.config.infusiondurabilities.superiumDurability=高級耐久
+matc.config.infusiondurabilities.supremiumDurability=終極耐久
+matc.config.infusiondurabilities.enabled=啟用耐久

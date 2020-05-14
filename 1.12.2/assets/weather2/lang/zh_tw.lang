@@ -1,0 +1,13 @@
+item.weather2.pocket_sand.name=便攜式沙子!
+item.weather2.sand_layer_placeable.name=可放置的沙子框架
+item.weather2.weather_item.name=天氣物品
+itemGroup.Weather2=weather2丨物品
+tile.weather2.anemometer.name=風速表
+tile.weather2.sand_layer.name=可放置的沙子框架
+tile.weather2.tornado_sensor.name=龍卷風傳感器
+tile.weather2.tornado_siren.name=天氣警報器
+tile.weather2.tornado_siren_manual.name=手動紅石警報器
+tile.weather2.weather_deflector.name=天氣導流板
+tile.weather2.weather_forecast.name=天氣雷達
+tile.weather2.weather_machine.name=天氣機器（右擊循環）
+tile.weather2.wind_vane.name=風向標

@@ -1,0 +1,14 @@
+{
+  "name": "雪怪首領",
+  "icon": "twilightforest:yeti_helmet",
+  "category": "bosses",
+  "advancement": "twilightforest:alt/entities/yeti_alpha",
+  "sortnum": 7030,
+  "pages": [
+    {
+      "type": "entity",
+      "entity": "twilightforest:yeti_alpha",
+      "text": "他算是敵人但沒那麼壞, 擊殺他還沒戰利品獎杯"
+    }
+  ]
+}

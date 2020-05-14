@@ -1,0 +1,17 @@
+{
+    "name": "憤怒護身符",
+    "icon": "naturesaura:shockwave_creator",
+    "category": "items",
+    "advancement": "naturesaura:infused_tools",
+    "pages": [
+        {
+            "type": "text",
+            "text": "當$(item)憤怒護身符$()被放置在背包的任何位置，穿戴者可以集中自身能量，在$(thing)跳躍$()中按下$(thing)潛行$()鍵，砸在地上並產生$(item)沖擊波$()，沖擊波可以傷害附近的所有生物。$(br)這當然會消耗一些儲存在$(l:items/aura_cache)靈氣緩存$()中的$(#419600)靈氣$()。"
+        },
+        {
+            "type": "crafting",
+            "text": "合成$(item)憤怒護身符$()",
+            "recipe": "naturesaura:shockwave_creator"
+        }
+    ]
+}

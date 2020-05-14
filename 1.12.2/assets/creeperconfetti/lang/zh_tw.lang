@@ -1,0 +1,5 @@
+creeperconfetti.config.title=Creeper Confetti 配置
+creeperconfetti.general.confettichance=五彩紙屑幾率
+creeperconfetti.general.confettichance.tooltip=苦力怕爆炸成五彩紙屑的百分比幾率。
+creeperconfetti.general.damagesplayers=傷害玩家
+creeperconfetti.general.damagesplayers.tooltip=如果你仍想讓苦力怕傷害玩家，則設置為true。

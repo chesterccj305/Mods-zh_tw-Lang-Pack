@@ -1,0 +1,22 @@
+{
+    "name": "末地島嶼",
+    "icon": "endreborn:block_entropy_end_stone",
+    "category": "world",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "這裏有一架飛機……額不是，這是個人……好吧其實是一座在天上看起來像是微型末地的小島，由一些末地石組合而成，有一部分因為年代久遠的原因已經壞掉了……而且還有一些植物，真是奇怪……"
+        },
+		{
+            "type": "spotlight",
+            "item": "endreborn:block_entropy_end_stone",
+            "link_recipe": true
+        },
+		{
+            "type": "spotlight",
+            "item": "endreborn:crop_ender_flower",
+            "link_recipe": true
+        }
+    ]
+}

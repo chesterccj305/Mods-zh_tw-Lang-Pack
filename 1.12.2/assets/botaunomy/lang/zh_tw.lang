@@ -1,0 +1,9 @@
+# -- DREAMWOOD AVATAR
+botaunomy.entry.elven_avatar=夢之木化身
+botaunomy.page.avatar0=雕刻一些&1夢之木&0並結合&1龍石&0心臟創建一個稱為&1夢之木化身&0的升級的頭像。它的法力存儲比&1活木化身&0增加了許多，並且增加了它的能力使用法杖。 它可以使用任何&1活木化身&1可以使用的法杖及專門的精靈棒。
+botaunomy.page.avatar1=&1夢之木化身&0的主要目的是使用&1操控法杖&0。這根法杖可以讓化身從亞爾夫海姆施加精靈的意志，並與任何方塊進行互動，就好像它是一個人一樣。該法杖可以與其他物品同步以便能夠與任何工具/物品交互。消耗品可以從鄰近的箱子中提取。
+botaunomy.page.avatar2=一定要給這個小家夥取個名字。他差不多是個玩家啊！
+botaunomy.tagline.avatar=高級拉桿處理!
+item.botaunomy.rod_will.name=操控法杖
+item.botaunomy.rod_work.name=勞役法杖
+tile.botaunomy.elven_avatar.name=夢之木化身

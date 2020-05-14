@@ -1,0 +1,90 @@
+# Creative Tabs
+itemGroup.yabba=亞巴物品
+
+# Items
+item.yabba.upgrade.desc=儲物桶升級
+item.yabba.upgrade_blank.name=儲物桶升級材料
+item.yabba.upgrade_iron_tier.name=容量升級(鐵)
+item.yabba.upgrade_gold_tier.name=容量升級(金)
+item.yabba.upgrade_diamond_tier.name=容量升級(鑽石)
+item.yabba.upgrade_star_tier.name=無限容量升級
+item.yabba.upgrade_creative.name=創造模式升級
+item.yabba.upgrade_obsidian_shell.name=黑曜石外殼升級
+item.yabba.upgrade_redstone_out.name=紅石輸出升級
+item.yabba.upgrade_hopper.name=漏斗升級
+item.yabba.upgrade_void.name=虛空升級
+item.yabba.upgrade_pickup.name=拾取升級
+item.yabba.upgrade_smelting.name=熔煉升級
+
+item.yabba.painter.name=儲物桶油漆刷
+item.yabba.hammer.name=儲物桶槌子
+item.yabba.wrench.name=儲物桶扳手
+
+lang.yabba.model=形狀:%s
+lang.yabba.skin=外觀:%s
+lang.yabba.item=內容物:%s
+lang.yabba.upgrades=升級:
+lang.yabba.item_count=%d / %d個物品
+lang.yabba.item_count_inf=%d個物品
+lang.yabba.item_count_max=最多%d組
+
+lang.fluid.still=靜止 %s
+lang.fluid.flowing=流動 %s
+tile.yabba.machine.name=機器
+
+# Blocks
+tile.yabba.item_barrel.name=儲物桶
+tile.yabba.item_barrel_connector.name=儲物桶連接方塊
+tile.yabba.item_barrel_connector.connected=連接儲物桶:%d
+tile.yabba.fluid_barrel.name=儲液桶
+tile.yabba.energy_barrel.name=儲能桶
+tile.yabba.decorative_block.name=裝飾方塊
+tile.yabba.antibarrel.name=反儲物桶
+tile.yabba.antibarrel.tooltip=儲存很多無法堆疊的物品
+tile.yabba.antibarrel.items=%d個物品 %d/%d種物品
+tile.yabba.antibarrel.items_only=%d個物品
+tile.yabba.antibarrel.types=%d個種類
+tile.yabba.antibarrel.pick_up=Pick Up
+tile.yabba.quartz_chest.name=石英箱子
+
+# Config
+yabba.general.sneak_left_click_extracts_stack=shift+左鍵拿整組物品
+yabba.general.antibarrel_capacity=反儲物桶容量
+yabba.general.antibarrel_items_per_type=反儲物桶每種多少個物品
+yabba.general.transform_star_to_creative=Full Infinite Cap Barrel to Creative
+yabba.general.barrel_input_blacklist=儲物桶輸入黑名單
+yabba.general.barrel_creative_blacklist=儲物桶創造升級黑名單
+
+yabba_client.general.always_display_data=總是是顯示資料
+yabba_client.general.display_bar=容量條
+
+yabba_client.bar_color=容量條顏色
+yabba_client.bar_color.border=邊緣
+yabba_client.bar_color.free=已填滿
+yabba_client.bar_color.filled=未填滿
+yabba_client.bar_color.alpha=不透明度
+
+yabba.tier=階級
+yabba.tier.wood=木
+yabba.tier.iron=鐵
+yabba.tier.gold=金
+yabba.tier.diamond=鑽石
+yabba.tier.star=無限
+yabba.tier.max_item_stacks=最大物品組數
+
+barrel_config.locked=鎖定
+barrel_config.redstone.mode=判定標準
+barrel_config.redstone.count=數量
+barrel_config.hopper.up=上方
+barrel_config.hopper.down=下方
+barrel_config.hopper.collect=吸取物品
+
+# Models
+yabba.yabba_model.barrel=儲物桶
+yabba.yabba_model.cover=片
+yabba.yabba_model.panel=板
+yabba.yabba_model.slab=半磚
+yabba.yabba_model.block=方塊
+yabba.yabba_model.block_window=有窗口的方塊
+yabba.yabba_model.block_borders=有窗口的有框方塊
+yabba.yabba_model.crate=板條箱

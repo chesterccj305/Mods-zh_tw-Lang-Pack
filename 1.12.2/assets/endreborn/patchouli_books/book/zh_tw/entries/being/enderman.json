@@ -1,0 +1,17 @@
+{
+    "name": "末影人",
+    "icon": "minecraft:ender_pearl",
+    "category": "being",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "標準的末地生物，但是有時候它們也會掉進其他的世界裏。根據我的觀察，它們因為某些未知的原因相當厭恨人的目光。在他們身邊呆了很長的時間後我開始感覺到某種特殊的聯系……真是些奇怪的生物。"
+        },
+	{
+            "type": "spotlight",
+            "item": "minecraft:ender_pearl",
+            "link_recipe": true
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "啟示",
+  "category": "rituals",
+  "icon": "bewitchment:white_lantern",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "用魔法光芒充滿附近放置的燈籠，從而允許一個巫師耗費一些魔力來放置亮光，這亮光對於那些未持有燈籠的人來說是看不見的。"
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:revealing"
+	}
+  ]
+}

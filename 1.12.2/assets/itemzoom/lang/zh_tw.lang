@@ -1,0 +1,17 @@
+config.itemzoom.jei.only=僅 JEI 列表
+config.itemzoom.jei.only.comment=僅縮放 JEI 列表中的物品。
+config.itemzoom.show.damage.bar=顯示損耗條
+config.itemzoom.show.damage.bar.comment=縮放時顯示物品的損耗條。
+config.itemzoom.show.help.text=顯示幫助文本
+config.itemzoom.show.help.text.comment=在縮放圖下方顯示 "Item Zoom" 和禁用熱鍵。
+config.itemzoom.show.stack.size=顯示堆疊數
+config.itemzoom.show.stack.size.comment=縮放時顯示物品的堆疊數。
+config.itemzoom.title=%MODNAME 配置
+config.itemzoom.toggle.enabled=是否啟用
+config.itemzoom.toggle.enabled.comment=若為 True，Item Zoom 將開啟。
+config.itemzoom.zoom.amount=縮放大小
+config.itemzoom.zoom.amount.comment=值越小，縮放就越小。
+key.itemzoom.hold=保持啟用
+key.itemzoom.toggle=切換開關
+key.itemzoom.zoom.in=放大
+key.itemzoom.zoom.out=縮小

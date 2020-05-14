@@ -1,0 +1,31 @@
+tooltip.level=等級
+tooltip.xp=經驗
+
+tooltip.level.0=新手
+tooltip.level.1=笨拙
+tooltip.level.2=自在
+tooltip.level.3=習慣
+tooltip.level.4=拿手
+tooltip.level.5=專家
+tooltip.level.6=大師
+tooltip.level.7=宗師
+tooltip.level.8=英雄
+tooltip.level.9=傳奇
+tooltip.level.10=非凡
+tooltip.level.11=出色
+tooltip.level.19=MoxieGrrl
+tooltip.level.42=boni
+tooltip.level.66=Jadedcat
+tooltip.level.99=駭客
+
+message.levelup.2=你開始覺得自在地使用 %s
+message.levelup.3=你開始習慣 %s 的重量。
+message.levelup.4=你已經能熟練得使用 %s！
+message.levelup.5=你成為使用 %s 的專家了！
+message.levelup.6=你成為使用 %s 的大師了！
+message.levelup.7=你成為使用 %s 的宗師了！
+message.levelup.8=你覺得你能夠使用 %s 做出一番偉大事蹟！
+message.levelup.9=你和你的 %s 是活生生的傳奇！
+message.levelup.10=連神也無法阻檔你的 %s！
+message.levelup.11=你的 %s 真的很出色。
+message.levelup.generic=你的 %s 已達到 %s 的等級。

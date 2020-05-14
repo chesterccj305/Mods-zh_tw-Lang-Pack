@@ -1,0 +1,98 @@
+{
+  "name": "女巫烤箱",
+  "category": "devices",
+  "icon": "bewitchment:witches_oven",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "通常情況下是一個有志女巫所獲得的第一個機器，女巫烤箱可以將一些特定試劑燒煉成特殊的煙霧，並產出一系列副產物。如果女巫烤箱內放有粘土罐子，它將會收集這些產出的煙霧"
+	},
+	{
+	  "type": "crafting",
+	  "recipe": "bewitchment:witches_oven"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:oak_spirit",
+	  "text": "一種至關重要的提取物，由任何種類的橡樹樹苗做成"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:oak_spirit_alt"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:spruce_heart",
+	  "text": "雲杉樹的精華，是制作紡車的重要材料"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:birch_soul",
+	  "text": "從樺樹苗中提取的清淡煙霧"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil",
+	  "text": "一種常見的從肉類和一些草本植物中提取的油狀產物，通常作為生產高級煙霧的基礎溶劑"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil_alt0"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil_alt1"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:cloudy_oil_alt2"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:acacia_resin",
+	  "text": "一種很難獲取的強力治療煙霧"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ebb_of_death",
+	  "text": "一種汙濁的油膏，散發著死亡和腐爛的氣息，從柏樹中提取"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:droplet_of_wisdom",
+	  "text": "一種接骨木樹的提取物，據說可以給使用者灌輸知識"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:liquid_witchcraft",
+	  "text": "從杜松樹苗中提取，充滿了魔力"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:essence_of_vitality",
+	  "text": "燃燒紫杉樹苗剩下的殘留物，蘊含些許生命力量"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ectoplasm",
+	  "text": "你要溝通誰？"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:ectoplasm_alt"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand",
+	  "text": "一種藍綠色的材料，可以從中感受到以太能量與之共鳴，並與末地有著強有力的聯系"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand_alt0"
+	},
+	{
+	  "type": "bewitchment:oven_recipe",
+	  "recipe": "bewitchment:dimensional_sand_alt1"
+	}
+  ]
+}

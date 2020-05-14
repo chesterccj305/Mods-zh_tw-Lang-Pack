@@ -1,0 +1,14 @@
+
+# Tabs
+itemGroup.SimpleBlocks=更多礦物_建築方塊
+itemGroup.SimpleDecorations=更多礦物_裝飾方塊
+itemGroup.SimpleMaterials=更多礦物_金屬材料
+itemGroup.SimpleTools=更多礦物_工具
+itemGroup.SimpleCombat=更多礦物_戰鬥
+itemGroup.SimpleMachines=更多礦物_裝置
+
+# Blocks
+tile.test_furnace.name=測試熔爐
+tile.lit_test_furnace.name=測試熔爐(燃燒中)
+
+container.test_furnace=測試熔爐

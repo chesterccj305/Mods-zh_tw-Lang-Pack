@@ -1,0 +1,57 @@
+{
+    "name": "能源水晶",
+    "icon": "hwell:power_crystal",
+    "category": "core_mechanics",
+    "sortnum": 40,
+    "pages": [
+        {
+            "type": "text",
+            "text": "能源水晶具有變化合成的特性. 這就意味著, 對於能源水晶的每一部分, 都可以放入不同的物品. 這些部分分別是:$(li)能源核心, 在合成表最中心的位置$(li)能源接口,位於合成表的頂部和底部$(li)能源具像物, 在合成表的周圍部分$(br2)你可以不斷測試這些水晶的合成,看看哪一種水晶最符合你的味口.."
+        },
+		{ 	"type": "image",
+	        "title": "能源水晶",
+	        "border": false,
+            "images": [ "hwell:textures/gui/power_recipe.png" ],
+            "text": "能源水晶的配方布局."
+        },
+		{
+            "type": "text",
+            "text": "能源水晶有三個品質特點:$(li)能量: 指的是水晶中含有的能量. 這些能量可以在充能器中獲得.$(li)範圍: 指的是此能源水晶最大可以充能的範圍（以塊為單位）.$(li)水晶純度: 純度將決定著水晶在給機器供電時,在空氣中傳輸電量所產生的.$(br)用於你合成所使用的物品將會對水晶的品質產生不同的影響."
+        },
+		{ 	"type": "image",
+	        "title": "能源核心",
+	        "border": false,
+            "images": [ "hwell:textures/gui/power_nuclei.png" ],
+            "text": "可以選擇的能源核心"
+        },
+		{ 	"type": "image",
+	        "title": "能源接口",
+	        "border": false,
+            "images": [ "hwell:textures/gui/power_relays.png" ],
+            "text": "可以選擇的能源接口"
+        },
+		{ 	"type": "image",
+	        "title": "能源具像物",
+	        "border": false,
+            "images": [ "hwell:textures/gui/power_screens.png" ],
+            "text": "可以選擇的能源具像物"
+        },
+		{
+            "type": "text",
+            "text": "這邊是可以選擇的物品清單:$(li)核心: 雪球, 鉆石, 神秘水晶棒, 烈焰棒, 被囚禁的光 和 水晶催化劑.$(li)接口: 石頭, 石英塊, 紅石塊, 末地石 , 月光石, 青金石塊, 平滑石青塊, 神秘鐵塊, 靈魂鋼塊$(li)具象化物: 玻璃, 氣態玻璃, 神秘水晶塊, 地獄水晶塊 和 浮冰.$()$(br2)你只需要拿著能源水晶右鍵就可以將能源水晶放置了."
+        },
+		{ 	"type": "image",
+	        "title": "能源水晶",
+	        "border": true,
+            "images": [ "hwell:textures/gui/power_crystal.png" ],
+            "text": "一個放置在世界中的能源水晶",
+			"when_type_is_entity" : {
+				"type": "entity",
+				"entity": "hwell:entity_power",
+				"name": "能源水晶",
+				"text": "一個放置在世界中的能源水晶"
+			}
+        }
+		
+    ]
+}

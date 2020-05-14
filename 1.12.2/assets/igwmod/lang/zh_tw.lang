@@ -1,0 +1,15 @@
+igwmod.gui.crafting.shaped=有序合成
+igwmod.gui.crafting.shapeless=無序合成
+igwmod.keys.category=IGW-MOD 按鍵
+igwmod.keys.wiki=顯示 IGW-MOD 百科
+igwmod.tooltip.tabPageBrowse.next=左鍵單擊可翻到下一頁
+igwmod.tooltip.tabPageBrowse.previous=右鍵單擊可翻到上一頁
+igwmod.wikitab.blocksAndItems.name=方塊和物品
+igwmod.wikitab.entities.name=實體
+igwmod.wikitab.igwmod.name=IGW-MOD
+igwtab.entry.devformodders=開發: 對於MOD開發者
+igwtab.entry.devintro=開發：簡介
+igwtab.entry.devitemandblock=開發：物品和方塊頁面
+igwtab.entry.devpagecommands=開發：命令頁面
+igwtab.entry.forservers=對於服務器
+igwtab.entry.intro=介紹

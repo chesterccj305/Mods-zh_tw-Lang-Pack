@@ -1,0 +1,5 @@
+container.upper=上吸漏斗
+itemGroup.uppers=只是個顛倒的漏斗
+tile.uppers.upper.name=上吸漏斗
+tooltip.upper_1=像漏斗一樣工作，但上下顛倒。
+tooltip.upper_2=從下方的方塊吸收物品。

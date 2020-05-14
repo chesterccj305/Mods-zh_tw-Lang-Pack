@@ -1,0 +1,37 @@
+{
+  "name": "食物",
+  "icon": "twilightforest:experiment_115:2",
+  "category": "treasures",
+  "advancement": "twilightforest:alt/treasures/foods/any",
+  "sortnum": 1100,
+  "pages": [
+    {
+      "type": "text",
+      "text": "食物, 好棒的食物！"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/foods/hydra_chop",
+      "text": "九頭蛇肉排"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/foods/maze_wafer",
+      "text": "迷宮薄餅"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/foods/meef",
+      "text": "牛頭人肉排"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/foods/vension",
+      "text": "鹿肉"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:progress_labyrinth",
+      "text": "牛頭人肉醬"
+    }, {
+      "type": "text",
+      "advancement": "twilightforest:alt/treasures/foods/experiment_115",
+      "text": "實驗品115"
+    }
+  ]
+}

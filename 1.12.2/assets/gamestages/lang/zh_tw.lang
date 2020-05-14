@@ -1,0 +1,18 @@
+#Commands
+
+commands.gamestage.add.sender=%2$s 的遊戲階段 %1$s 已經解鎖！
+commands.gamestage.add.target=你解鎖了遊戲階段 %s！
+
+commands.gamestage.remove.sender=%2$s 的遊戲階段 %1$s 已經移除！
+commands.gamestage.remove.target=你將不再處於遊戲階段%s !
+
+commands.gamestage.check.failure=%s不處於遊戲階段%s
+commands.gamestage.check.success=%s處於遊戲階段%s
+
+commands.gamestage.info.empty=你沒有已解鎖的遊戲階段！
+commands.gamestage.info.noplayer=沒有找到玩家！
+
+commands.gamestage.clear.sender=%s已被清除 %d 個遊戲階段
+commands.gamestage.clear.target=你失去了%d個遊戲階段
+
+commands.gamestage.playeronly=抱歉，僅限玩家！

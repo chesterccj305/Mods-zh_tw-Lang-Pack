@@ -1,0 +1,295 @@
+//Spawner Module
+enchantment.spw.capturing=捕捉
+
+enchantment.apotheosis.capturing.desc=使生物有機會掉落它們的刷怪蛋.
+info.spw.entity=實體: %s
+
+waila.spw.mindelay=最小延遲: %s
+waila.spw.maxdelay=最大延遲: %s
+waila.spw.spawncount=刷怪數量: %s
+waila.spw.maxnearby=附近最大實體數量: %s
+waila.spw.playerrange=玩家激活範圍: %s
+waila.spw.spawnrange=刷怪範圍: %s
+waila.spw.ignoreplayers=忽略附近玩家
+waila.spw.ignoreconditions=忽略生成條件
+waila.spw.ignorecap=忽略區域刷怪限制
+waila.spw.redstone=紅石控制已啟用
+waila.spw.sneak=偷看消息
+
+jei.spw.title=生怪磚修改
+jei.spw.invert=反轉調節器的行為
+jei.spw.invert2=必須用一隻手拿著
+jei.spw.editmindelay=減小最小刷怪延遲
+jei.spw.editmaxdelay=減小最大刷怪延遲
+jei.spw.editspawncount=增加刷怪數量
+jei.spw.editnearby=增加附近最大實體數
+jei.spw.editplayer=增加玩家激活生怪磚的範圍
+jei.spw.editspawn=增加刷怪範圍
+jei.spw.ignoreconditions=忽略刷怪條件
+jei.spw.ignoreplayers=忽略附近玩家
+jei.spw.changeentity=更改生成的實體
+jei.spw.ignorecap=忽略區域刷怪限制
+jei.spw.redstone=啟用紅石控制
+jei.spw.instructions=手持各種物品右擊生怪磚可以調節生怪磚.\\n某個物品可以反轉此行為, 導致反方向調節生怪磚的數據.\\n使用精准採集可以獲得生怪磚%s.
+jei.spw.capturing=捕捉附魔有機會讓怪物掉落它們的刷怪蛋.\\n每個附魔等級增加+0.4% 的機率.
+
+//Enchantment Module
+tile.apotheosis.hellshelf.name=地獄書架
+info.apotheosis.hellshelf=為附魔台提供 %s 的附魔能力.
+info.apotheosis.cobweb=可以用來去除所有附魔屬性.
+info.apotheosis.masterwork=極品
+info.apotheosis.twisted=扭曲
+info.apotheosis.corrupted=腐化
+info.apotheosis.enchanting=附魔台現在可以超過30級. 一些附魔只會出現在30級以上.
+info.apotheosis.altar=海之祭壇專注於轉換附魔物品.\\n\\n首先，先在每根柱子上放置一個附魔物品，一旦提供了足夠的物品，祭壇將吸取附近玩家的經驗.\ \n如果經驗不足，將會產生紫色顆粒.\\n\\n一旦完成，海之祭壇上的物品會被消耗，並生成一本附魔書，有可能獲得寶藏級附魔.
+
+enchantment.apotheosis.hell_infusion=煉獄灌注
+enchantment.apotheosis.hell_infusion.desc=在地獄可以造成額外的魔法傷害.
+
+enchantment.apotheosis.mounted_strike=騎砍
+enchantment.apotheosis.mounted_strike.desc=騎馬時造成額外傷害.
+
+enchantment.apotheosis.depth_miner=礦工的熱情
+enchantment.apotheosis.depth_miner.desc=根據等級調整Y的挖掘速度.
+
+enchantment.apotheosis.stable_footing=穩住腳步
+enchantment.apotheosis.stable_footing.desc=取消飛行時的採礦速度懲罰.
+
+enchantment.apotheosis.scavenger=拾荒者
+enchantment.apotheosis.scavenger.desc=生物被殺死後它們的戰利品有可能會翻2倍.
+
+enchantment.apotheosis.life_mending=生命修補
+enchantment.apotheosis.life_mending.desc=將生命轉化為耐久.
+
+enchantment.apotheosis.icy_thorns=冰刺
+enchantment.apotheosis.icy_thorns.desc=使攻擊者受到緩慢效果.
+
+death.apotheosis.corrupted=%1$s 的生命被腐化附魔耗盡了.
+
+item.apotheosis.prismatic_web.name=棱柱形蜘蛛網
+info.apotheosis.prismatic_cobweb=可以用來消除一件裝備中的所有腐化附魔.
+
+item.apotheosis.null_book.name=其他寶典
+item.apotheosis.armor_head_book.name=頭盔寶典
+item.apotheosis.armor_chest_book.name=胸甲寶典
+item.apotheosis.armor_legs_book.name=護腿寶典
+item.apotheosis.armor_feet_book.name=靴子寶典
+item.apotheosis.weapon_book.name=武器寶典
+item.apotheosis.digger_book.name=礦工寶典
+item.apotheosis.fishing_rod_book.name=漁夫寶典
+item.apotheosis.bow_book.name=弓寶典
+item.apotheosis.scrap_tome.name=分解寶典
+info.apotheosis.null_book=接受其他附魔.
+info.apotheosis.armor_head_book=接受頭盔附魔.
+info.apotheosis.armor_chest_book=接受胸甲附魔.
+info.apotheosis.armor_legs_book=接受護腿附魔.
+info.apotheosis.armor_feet_book=接受靴子附魔
+info.apotheosis.weapon_book=接受武器附魔.
+info.apotheosis.digger_book=接受礦工附魔.
+info.apotheosis.fishing_rod_book=接受漁夫附魔.
+info.apotheosis.bow_book=接受弓附魔.
+info.apotheosis.scrap_tome=可以將一些附魔轉移到分解寶典上，之後使用方法與附魔書相同.
+info.apotheosis.scrap_tome2=使用後將會被消耗.
+
+enchantment.apotheosis.tempting=引誘
+enchantment.apotheosis.tempting.desc=引誘附近的動物.
+
+enchantment.apotheosis.shield_bash=盾擊
+enchantment.apotheosis.shield_bash.desc=增加盾牌造成的傷害.
+
+enchantment.apotheosis.reflective=反甲
+enchantment.apotheosis.reflective.desc=格擋有可能會對攻擊者造成傷害.
+
+enchantment.apotheosis.berserk=狂戰士
+enchantment.apotheosis.berserk.desc=受到傷害時會變得憤怒.
+
+enchantment.apotheosis.knowledge=閱歷
+enchantment.apotheosis.knowledge.desc=敵人的掉落物將會被轉化為經驗.
+
+enchantment.apotheosis.splitting=拆分
+enchantment.apotheosis.splitting.desc=允許當鐵砧砸中有多種附魔的附魔書時能將它們依次拆分.
+
+enchantment.apotheosis.natures_blessing=大自然的祝福
+enchantment.apotheosis.natures_blessing.desc=鋤頭右鍵可以對作物施加骨粉.
+
+enchantment.apotheosis.rebounding=反彈
+enchantment.apotheosis.rebounding.desc=近戰攻擊者有可能會被彈飛.
+
+enchantment.apotheosis.magic_protection=神秘的厭惡
+enchantment.apotheosis.magic_protection.desc=減少對玩家造成的魔法傷害.
+
+tile.apotheosis.prismatic_altar.name=海之祭壇
+
+//Vanilla
+tile.reeds.name=甘蔗
+potion.potency.3=IV
+enchantment.level.11=XI
+enchantment.level.12=XII
+enchantment.level.13=XIII
+enchantment.level.14=XIV
+enchantment.level.15=XV
+enchantment.level.16=XVI
+enchantment.level.17=XVII
+enchantment.level.18=XVIII
+enchantment.level.19=XIX
+enchantment.level.20=XX
+enchantment.level.21=XXI
+enchantment.level.22=XXII
+enchantment.level.23=XXIII
+enchantment.level.24=XXIV
+enchantment.level.25=XXV
+enchantment.level.26=XXVI
+enchantment.level.27=XXVII
+enchantment.level.28=XXVIII
+enchantment.level.29=XXIX
+enchantment.level.30=XXX
+enchantment.level.31=XXXI
+enchantment.level.32=XXXII
+enchantment.level.33=XXXIII
+enchantment.level.34=XXXIV
+enchantment.level.35=XXXV
+enchantment.level.36=XXXVI
+enchantment.level.37=XXXVII
+enchantment.level.38=XXXVIII
+enchantment.level.39=XXXIX
+enchantment.level.40=XL
+enchantment.level.41=XLI
+enchantment.level.42=XLII
+enchantment.level.43=XLIII
+enchantment.level.44=XLIV
+enchantment.level.45=XLV
+enchantment.level.46=XLVI
+enchantment.level.47=XLVII
+enchantment.level.48=XLVIII
+enchantment.level.49=XLIX
+enchantment.level.50=L
+enchantment.level.51=LI
+enchantment.level.52=LII
+enchantment.level.53=LIII
+enchantment.level.54=LIV
+enchantment.level.55=LV
+enchantment.level.56=LVI
+enchantment.level.57=LVII
+enchantment.level.58=LVIII
+enchantment.level.59=LIX
+enchantment.level.60=LX
+enchantment.level.61=LXI
+enchantment.level.62=LXII
+enchantment.level.63=LXIII
+enchantment.level.64=LXIV
+enchantment.level.65=LXV
+enchantment.level.66=LXVI
+enchantment.level.67=LXVII
+enchantment.level.68=LXVIII
+enchantment.level.69=LXIX
+enchantment.level.70=LXX
+enchantment.level.71=LXXI
+enchantment.level.72=LXXII
+enchantment.level.73=LXXIII
+enchantment.level.74=LXXIV
+enchantment.level.75=LXXV
+enchantment.level.76=LXXVI
+enchantment.level.77=LXXVII
+enchantment.level.78=LXXVIII
+enchantment.level.79=LXXIX
+enchantment.level.80=LXXX
+enchantment.level.81=LXXXI
+enchantment.level.82=LXXXII
+enchantment.level.83=LXXXIII
+enchantment.level.84=LXXXIV
+enchantment.level.85=LXXXV
+enchantment.level.86=LXXXVI
+enchantment.level.87=LXXXVII
+enchantment.level.88=LXXXVIII
+enchantment.level.89=LXXXIX
+enchantment.level.90=XC
+enchantment.level.91=XCI
+enchantment.level.92=XCII
+enchantment.level.93=XCIII
+enchantment.level.94=XCIV
+enchantment.level.95=XCV
+enchantment.level.96=XCVI
+enchantment.level.97=XCVII
+enchantment.level.98=XCVIII
+enchantment.level.99=XCIX
+enchantment.level.100=C
+enchantment.level.101=CI
+enchantment.level.102=CII
+enchantment.level.103=CIII
+enchantment.level.104=CIV
+enchantment.level.105=CV
+enchantment.level.106=CVI
+enchantment.level.107=CVII
+enchantment.level.108=CVIII
+enchantment.level.109=CIX
+enchantment.level.110=CX
+enchantment.level.111=CXI
+enchantment.level.112=CXII
+enchantment.level.113=CXIII
+enchantment.level.114=CXIV
+enchantment.level.115=CXV
+enchantment.level.116=CXVI
+enchantment.level.117=CXVII
+enchantment.level.118=CXVIII
+enchantment.level.119=CXIX
+enchantment.level.120=CXX
+enchantment.level.121=CXXI
+enchantment.level.122=CXXII
+enchantment.level.123=CXXIII
+enchantment.level.124=CXXIV
+enchantment.level.125=CXXV
+enchantment.level.126=CXXVI
+enchantment.level.127=CXXVII
+
+//Potion Module
+enchantment.apotheosis.true_infinity=無限箭袋
+enchantment.apotheosis.true_infinity.desc=使所有的箭無限(附魔在弓上,無需箭).
+
+potion.effect.resistance=抗性藥水
+splash_potion.effect.resistance=飛濺 抗性藥水
+lingering_potion.effect.resistance=滯留 抗性藥水
+tipped_arrow.effect.resistance=抗性之箭
+
+potion.effect.absorption=傷害吸收藥水
+splash_potion.effect.absorption=飛濺 傷害吸收藥水
+lingering_potion.effect.absorption=滯留 傷害吸收藥水
+tipped_arrow.effect.absorption=傷害吸收之箭
+
+potion.effect.haste=急迫藥水
+splash_potion.effect.haste=飛濺 急迫藥水
+lingering_potion.effect.haste=滯留 急迫藥水
+tipped_arrow.effect.haste=急迫之箭
+
+potion.effect.fatigue=挖掘疲勞藥水
+splash_potion.effect.fatigue=飛濺 挖掘疲勞藥水
+lingering_potion.effect.fatigue=滯留 挖掘疲勞藥水
+tipped_arrow.effect.fatigue=挖掘疲勞之箭
+
+potion.effect.wither=凋零藥水
+splash_potion.effect.wither=飛濺 凋零藥水
+lingering_potion.effect.wither=滯留 凋零藥水
+tipped_arrow.effect.wither=凋零之箭
+
+effect.apotheosis.sundering=破甲
+potion.effect.sundering=破甲藥水
+splash_potion.effect.sundering=飛濺 破甲藥水
+lingering_potion.effect.sundering=滯留 破甲藥水
+tipped_arrow.effect.sundering=破甲之箭
+
+effect.apotheosis.knowledge=閱歷
+potion.effect.knowledge=古代知識藥水
+splash_potion.effect.knowledge=飛濺 古代知識藥水
+lingering_potion.effect.knowledge=滯留 古代知識藥水
+tipped_arrow.effect.knowledge=古代知識之箭
+
+item.apotheosis.lucky_foot.name=幸運的兔子腳
+info.apotheosis.lucky=一個罕見的發現
+
+//Anvil Module
+info.apotheosis.anvil=可以被附魔.
+
+//Garden Module
+item.apotheosis.farmers_leash.name=終界栓繩
+info.apotheosis.noentity=持有實體: 沒有
+info.apotheosis.containedentity=持有實體: %s
+info.apotheosis.farmleash=終界栓繩是一種可以用來移動動物的物品. 鼠標左鍵捕​​捉動物, 鼠標右鍵釋放動物. 這種捕捉僅適用於動物.

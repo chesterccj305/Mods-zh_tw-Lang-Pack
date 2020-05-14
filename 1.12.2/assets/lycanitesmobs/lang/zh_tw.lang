@@ -1,0 +1,1957 @@
+lycanitesmobs.name=恐怖生物
+#
+# ========== Entites ==========
+entity.level=等級
+entity.lycanitesmobs.summoningportal.name=召喚傳送門
+entity.lycanitesmobs.fear.name=恐懼
+#
+#
+#
+# ========== Spawners ==========
+spawner.darkness.level1=一片漆黑，前方就像一片未知…
+spawner.darkness.level2=你可以從黑暗中聽出從遠方傳來的某些聲音…快，投入光明的懷抱中去！
+spawner.darkness.level3=一個影影綽綽的生物在漆黑中消失了！
+spawner.darkness.level1.back=那聲音好像消失了…至少現在是…
+spawner.chaos.level1=你正在破壞大自然的平衡，請慎重行事！
+spawner.chaos.level2=你對自然的破壞加劇了混沌元素的產生！
+spawner.chaos.level3=混沌元素已經出現，請小心防範！
+spawner.chaos.level1.back=生態平衡似乎已經得以恢複…至少現在是…
+#
+#
+#
+# ========== Subspecies ==========
+# Uncommon:
+subspecies.ashen.name=灰白
+subspecies.dark.name=黑暗
+subspecies.lux.name=光明
+subspecies.verdant.name=翠綠
+subspecies.scarlet.name=緋紅
+subspecies.azure.name=深藍
+subspecies.golden.name=金黃
+subspecies.violet.name=深紫
+subspecies.keppel.name=凱波
+subspecies.russet.name=赤褐
+#
+# Rare:
+subspecies.lunar.name=月光
+subspecies.ebon.name=烏木
+subspecies.sacred.name=神聖
+subspecies.phosphorescent.name=磷光
+subspecies.crimson.name=深紅
+subspecies.royal.name=高貴
+subspecies.solar.name=太陽
+subspecies.mottled.name=斑駁
+subspecies.celestial.name=天空
+subspecies.umber.name=棕土
+#
+# Skins:
+subspecies.moloch.name=摩洛
+subspecies.void.name=虛空
+#
+#
+#
+# ========== Items ==========
+item.horsearmormetal.name=鐵寵物盔甲
+item.horsearmorgold.name=金寵物盔甲
+item.horsearmordiamond.name=鑽石寵物盔甲
+#
+#
+#
+# ========== GUI ==========
+# Creative Tab names:
+itemGroup.lycanitesmobs.items=恐怖生物：物品
+itemGroup.lycanitesmobs.blocks=恐怖生物：方塊
+itemGroup.lycanitesmobs.creatures=恐怖生物：生物
+itemGroup.lycanitesmobs.equipmentparts=恐怖生物：裝備
+#
+# Beastiary:
+gui.beastiary.name=生物圖鑑
+gui.beastiary.player.spirit=召喚力
+gui.beastiary.player.focus=召喚力點數
+#
+# Index:
+gui.beastiary.index.title=索引
+gui.beastiary.index.description=歡迎使用恐怖生物生物圖鑑！你可以在此查看並管理你所了解到的生物，以更好地適應這個模組的玩法！
+gui.beastiary.index.version=模組版本
+gui.beastiary.index.version.newer=有新版本可用
+gui.beastiary.index.changes=最近修改
+gui.beastiary.index.changes.name=名稱
+gui.beastiary.index.changes.new=新特性
+gui.beastiary.index.changes.config=配置更改
+gui.beastiary.index.changes.major=主要修複
+gui.beastiary.index.changes.gameplay=遊戲
+gui.beastiary.index.changes.balancing=平衡
+gui.beastiary.index.changes.minor=次要
+#
+# Creatures:
+gui.beastiary.creatures=生物圖鑑
+gui.beastiary.creatures.empty.title=沒有生物
+gui.beastiary.creatures.empty.info=你當前沒有添加任何生物到你的生物圖鑑裡。想發現新的生物你就必須制作靈魂凝視者然後在你找到的任何生物上使用它。
+gui.beastiary.creatures.descovered=生物介紹
+gui.beastiary.creatures.select=請先選擇一個對應的群系然後再進一步查看生物。
+gui.beastiary.website=訪問網站
+gui.beastiary.diet=飲食
+gui.beastiary.summary=摘要
+gui.beastiary.habitat=棲息地
+gui.beastiary.combat=戰鬥
+gui.beastiary.unlockedat=解鎖時間：
+gui.beastiary.tameable=這種生物可以被馴服
+gui.beastiary.summonable=這個生物可以被召喚為一個僕從
+#
+# Pets:
+gui.beastiary.pets=寵物管理
+gui.beastiary.mounts=坐騎
+gui.beastiary.familiars=妖精
+gui.beastiary.pets.select=選擇一隻生物以進行召喚
+gui.beastiary.pets.empty.title=沒有綁定寵物
+gui.beastiary.pets.empty.info=一些寵物可以被馴服為寵物或者坐騎。你可以做對應的款待去馴服它們。你可以用靈魂石將你的寵物與你靈魂綁定。一次靈魂綁定，你可以按照你的意願召喚或解綁寵物，它們也會在死亡時複活！
+#
+# Summoning:
+gui.beastiary.summoning=召喚物
+gui.beastiary.summoning.select=從左邊的菜單選擇一隻生物來管理它。
+gui.beastiary.summoning.empty.title=沒有可以召喚的生物
+gui.beastiary.summoning.empty.info=你的生物圖鑑沒有任何可以召喚的生物。請繼續探索，並不是每一個生物都可以被召喚。
+#
+# Elements:
+gui.beastiary.elements=元素
+gui.beastiary.elements.about=一種被稱為魔力的魔法力量在整個宇宙中激增，這種力量可以分為多個魔法元素。每個元素對現實和對其他元素的反應都有自己的影響。生物自然進化來利用這些元素中的一個或多個，元素生物是這些元素活生生的表現形式。
+gui.beastiary.elements.buffs=有益效果
+gui.beastiary.elements.debuffs=有害效果
+#
+# Summoning Pedestal:
+gui.summoningpedestal.name=召喚基座
+#
+# Pet/Minion:
+gui.pet.actions=活動
+gui.pet.stance=站立
+gui.pet.movement=移動
+gui.pet.active=啟用
+gui.pet.summon=召喚
+gui.pet.dismiss=禁用
+gui.pet.teleport=瞬移
+gui.pet.pvp=PVP
+gui.pet.release=放生
+gui.pet.release.confirm=你確定要放生這種寵物？一旦放生將會消失，它身上所持有的物品也將掉落。
+gui.pet.passive=被動
+gui.pet.defensive=防守
+gui.pet.assist=協作
+gui.pet.aggressive=主動
+gui.pet.follow=跟隨
+gui.pet.wander=遊蕩
+gui.pet.sit=坐下
+#
+# Mounts:
+gui.mount.controls=按下 %control% 使用坐騎能力
+#%control% will be replaced with the Mount Ability key, don't translate this!
+#
+# Equipment Forge:
+gui.equipmentforge.text.name=裝備名稱：
+gui.equipmentforge.button.construct=構建
+gui.equipmentforge.button.deconstruct=解構
+gui.equipmentforge.info.empty=放入基礎裝備部件或裝備碎片以開始。
+gui.equipmentforge.warning.construct=警告！使用的一些裝備部件等級比這個鍛造台高，並將被降級，繼續嗎？
+gui.equipmentforge.warning.deconstruct=警告！你正在解構的裝備中有比這個鍛造台更高的部件，並將被降級，繼續嗎？
+gui.equipmentforge.error.construct=所用的某些裝備部件的最低級別高於此鍛造台，因此無法使用。
+gui.equipmentforge.error.deconstruct=你正在解構的裝備部件最低級別高於此鍛造台，因此無法解構。
+gui.equipmentforge.error.name=你必須為你的裝備命名！
+#
+# Diets:
+diet.carnivore=食肉動物
+diet.piscivore=食魚動物
+diet.insectivore=食蟲動物
+diet.herbivore=食草動物
+diet.frugivore=食果動物
+diet.fungivore=食真菌動物
+diet.exudativore=食汁液動物
+diet.detritivore=食碎屑動物
+diet.geovore=食土動物
+#
+#
+#
+# ========== Messages ==========
+# Beastiary:
+message.beastiary.new=你獲得了 %rank% 點 %creature% 的知識點數！請查看生物圖鑑！
+message.beastiary.summonable=你現在能夠召喚 %creature% 了！不過，在此之前你還需要準備好召喚的物品。
+message.beastiary.summonable.colors=你現在可以召喚%creature%的亞種(顏色變化)了！
+message.beastiary.summonable.skins=你現在可以召喚%creature%的亞種(皮膚變化)了！
+message.beastiary.known=你已經擁有了%rank% 點 %creature% 的知識點數。
+message.beastiary.unknown=你已經習得這種生物的全部知識。
+#
+# Soulstone:
+message.soulstone.untamed=靈魂石只能用在已被馴服的生物上。
+message.soulstone.invalid=靈魂石不能綁定這隻生物。
+message.soulstone.exists=這隻生物已經被綁定過了。
+message.soulstone.pet.added=你的%creature%已經被綁定，你可以在你的寵物管理欄裡找到它。
+message.soulstone.mount.added=你的%creature%已經被綁定，你可以在你的坐騎管理欄中找到它。
+#
+# Soulkey:
+message.soulkey.disabled=無效的祭壇結構。
+message.soulkey.none=靈魂鑰匙不能定他這個祭壇中心。
+message.soulkey.invalid=靈魂鑰匙正在嘗試激活這個祭壇，但是這個祭壇的擺法不是正確的！
+message.soulkey.badlocation=靈魂鑰匙差一點就能激活祭壇了，但是失敗了，看來有地方不對…
+message.soulkey.active=靈魂鑰匙激活了祭壇！
+#
+# Pet:
+# %creature% will be replaced with the name of the tamed creature, don't translate this!
+message.pet.tamed=%creature%和你的關系似乎變親近了！
+message.pet.tamefail=%creature%想要更多！
+message.pet.mount.baby=這隻%creature% 太年輕了，不能背動你！
+#
+#
+#
+# ========== Commands ==========
+lyc.command.invalid=無效參數。
+lyc.command.playeronly=這個指令只能由玩家觸發。
+lyc.command.debug.invalid=無效參數，正確用法： /lycanitesmobs debug debugKey debugValue
+lyc.command.debug.set=更新 %debug%.
+#
+# Spawners:
+lyc.command.spawners.invalid=無效參數，正確用法： /lycanitesmobs spawners [reload]
+lyc.command.spawners.reload=JSON生成已被重新加載。
+lyc.command.spawners.creative=創造模式玩家切換生物事件觸發為 %value%.
+#
+# Equipment:
+lyc.command.equipment.invalid=無效參數，正確用法：/lycanitesmobs equipment [reload]
+lyc.command.equipment.reload=裝備部件已重新加載
+#
+# Dungeons:
+lyc.command.dungeon.invalid=無效參數，正確用法： /lycanitesmobs spawners [reload]
+lyc.command.dungeon.reload=JSON生成已被重新加載。
+lyc.command.dungeon.enable=恐怖生物地牢已被啟用，它們會自然生成在區塊中。
+lyc.command.dungeon.disable=恐怖生物地牢已被禁用，它們不會自然生成在區塊中。
+#
+# Creatures:
+lyc.command.creatures.invalid=無效參數，正確用法： /lycanitesmobs creatures [reload]
+lyc.command.creatures.reload=生物設置已經重載
+#
+# Beastiary:
+lyc.command.beastiary.invalid=無效參數，正確用法：/lycanitesmobs beastiary [add <creature name>, complete]> ，例如 /lycanitesmobs beastiary add quillbeast
+lyc.command.beastiary.complete=將所有生物都加入生物圖鑑。
+lyc.command.beastiary.add.invalid=無效參數，正確用法： beastiary add <creature name> ，例如 /lycanitesmobs beastiary add quillbeast
+lyc.command.beastiary.add.unknown=未知生物。確保名稱全部都是小寫字母，並且沒有空格。
+lyc.command.beastiary.clear=已從生物圖鑑中清除所有生物。
+#
+# Mob Events:
+lyc.command.mobevent.invalid=無效參數，正確用法：/lycanitesmobs mobevent [start <event name>, stop, list, enable, disable]> ，例如 /lycanitesmobs mobevent start hellsfury
+lyc.command.mobevent.start.invalid=無效參數，正確用法：mobevent start <event name> ，例如 mobevent start hellsfury
+lyc.command.mobevent.start.unknown=無效生物事件，使用 /lycanitesmobs mobevent list 來查看所有生物事件名稱列表。
+lyc.command.mobevent.start.noworld=指令沒有找到目標維度ID，請輸入有效的維度ID
+lyc.command.mobevent.start=生物事件正在發生。
+lyc.command.mobevent.random=隨機生物事件正在發生。
+lyc.command.mobevent.stop=停止所有生物事件。
+lyc.command.mobevent.list=生物事件：
+lyc.command.mobevent.enable=所有生物事件已被啟用。
+lyc.command.mobevent.disable=所有生物事件已被禁用。
+lyc.command.mobevent.enable.random=隨機生物事件已被啟用。
+lyc.command.mobevent.disable.random=隨機生物事件已被禁用。
+lyc.command.mobevent.reload=JSON生物事件已被重新加載
+lyc.command.mobevent.creative=創造模式玩家切換生物事件觸發為 %value%.
+#
+#
+#
+# ========== System ==========
+lyc.version.newer=你目前正在使用的恐怖生物版本為 {current} 但現在有新版本 {latest} ，建議你通過更新來獲得更好的體驗！
+#
+#
+#
+# ========== Common ==========
+common.yes=是
+common.no=否
+common.ok=好的
+common.none=無
+common.holdshift=按住SHIFT獲取更多信息
+#
+#
+#
+# ========== Generic ==========
+generic.defense=防禦
+generic.rangedSpeed=遠程攻擊速度
+#
+#
+#
+# ========== Stats ==========
+stat.spirit.name=召喚力
+stat.spirit.description=用召喚力召喚你的寵物和坐騎。每個寵物都消耗不同的量的召喚力，而你可以在寵物或坐騎列。
+stat.portal.name=最大召喚數量
+stat.portal.description=召喚傳送門只能維持一定量的生物並且無法加喚更多生物直到現存生物消失或死亡為止。
+#
+#
+#
+# ========== Potion Effects ==========
+# Debuff:
+effect.burning=燃燒
+effect.paralysis=麻痹
+effect.penetration=滲透
+effect.recklessness=魯莽
+effect.rage=憤怒
+effect.weight=沉重
+effect.fear=恐懼
+effect.decay=腐朽
+effect.insomnia=失眠
+effect.instability=不穩定
+effect.bleed=流血
+effect.lifeleak=生命流失
+effect.plague=瘟疫
+effect.aphagia=厭惡
+effect.smited=亡靈殺手
+effect.smouldering=陰燃
+#
+# Buffs:
+effect.leech=水蛭
+effect.swiftswimming=深海探索者
+effect.fallresist=摔落保護
+effect.rejuvenation=沐浴回春
+effect.immunization=免疫
+effect.cleansed=淨化
+effect.heataura=熾熱光環
+effect.staticaura=靜態光環
+effect.freezeaura=冰凍光環
+effect.envenom=劇毒
+#
+#
+#
+# ========== Key Bindings ==========
+key.mount.ability=坐騎能力
+key.mount.inventory=坐騎物品欄
+key.index=生物索引
+key.beastiary=生物圖鑑
+key.pets=寵物
+key.summoning=召喚物
+key.minions=召喚物管理
+#
+#
+#
+# ========== Equipment ==========
+equipment.slottype=格子類型：
+equipment.level=等級：
+equipment.feature.slot=增加格子：
+equipment.feature.damage=傷害：
+equipment.feature.damage.cooldown=冷卻時間：
+equipment.feature.damage.knockback=擊退：
+equipment.feature.damage.range=範圍：
+equipment.feature.damage.sweep=橫掃：
+equipment.feature.effect=效果：
+equipment.feature.effect.duration=持續時間：
+equipment.feature.effect.strength=強度：
+equipment.feature.harvest=收獲：
+equipment.feature.harvest.shape=形態：
+equipment.feature.harvest.range=範圍：
+equipment.feature.summon=召喚：
+equipment.feature.summon.chance=機率：
+equipment.feature.summon.count=數量：
+equipment.feature.projectile=彈射物：
+equipment.feature.projectile.trigger=觸發器：
+equipment.feature.projectile.trigger.hit=擊中
+equipment.feature.projectile.trigger.primary=主要用途
+equipment.feature.projectile.trigger.secondary=次要用途
+equipment.feature.projectile.pattern=圖形：
+equipment.feature.projectile.pattern.spread=分散
+equipment.feature.projectile.pattern.ring=環形
+item.woodenrod.name=木棒
+item.woodenhilt.name木劍柄
+item.woodenpaxel.name=木斧鎬
+item.equipment.name=合成的裝備
+#
+#
+#
+# ========== Creatures ==========
+creature.stat.element=元素
+creature.stat.subspecies=亞種
+creature.stat.cost=召喚消耗
+creature.stat.spirit=召喚靈魂消耗
+creature.stat.focus=召喚指數消耗
+creature.stat.respawning=重生
+creature.stat.knowledge=知識點數
+creature.stat.base=基礎屬性
+creature.stat.health=生命
+creature.stat.defense=防禦
+creature.stat.speed=速度
+creature.stat.damage=近戰傷害
+creature.stat.pierce=近戰穿透
+creature.stat.effect=近戰效果
+# ========================================================================
+tile.summoningpedestal.name=召喚基座
+tile.summoningpedestal.description=該基座能夠創建一個恆定的召喚門，將召喚選定為寵物。 有些基座可以被玩家使用，有些則不能。
+#
+#
+# ========== Equipment Forges ==========
+tile.equipmentforge_lesser.name=初級鍛造台 (1階)
+tile.equipmentforge_lesser.description=該鍛造台可用於1級的生物身體部位來打造裝備 (如果使用更高級的物件可能被降級).
+#
+tile.equipmentforge_greater.name=高級鍛造台 (2階)
+tile.equipmentforge_greater.description=該鍛造台可用於2級或2級以下的生物身體部位來打造裝備 (如果使用更高級的物件可能被降級).
+#
+tile.equipmentforge_master.name=大師級鍛造台 (3階)
+tile.equipmentforge_master.description=該鍛造台可用於3級或3級以下的生物身體部位來打造裝備
+#
+#
+# ========== Special ==========
+tile.frostweb.name=霜網
+tile.frostweb.description=一種由冰絲制成的網，它只會短暫的存在一段時間
+#
+tile.quickweb.name=薄絲網
+tile.quickweb.description=一個在很短時間內就會散掉的綠網
+#
+tile.poisoncloud.name=毒霧
+tile.poisoncloud.description=一種附帶毒性的雲，冒然觸碰會中毒
+#
+tile.poopcloud.name=翔雲
+tile.poopcloud.description=會造成緩速和反胃的雲！
+#
+#
+# ========== Fire ==========
+tile.scorchfire.name=熾焰
+tile.scorchfire.description=一種附帶魔法的火焰，它不像正常火焰那麼熾熱，但會穿透，增加了受到的傷害。
+#
+tile.doomfire.name=死焰
+tile.doomfire.description=一種邪惡般火焰纏繞著惡魔的憤怒。 燃燒和蔓延的速度比正常火焰快。
+#
+tile.hellfire.name=地獄火
+tile.hellfire.description=一種附著邪惡能量的邪惡火焰。 比正常火焰燃燒時間更長，傳播速度更慢，造成的傷害。
+#
+tile.icefire.name=冰火
+tile.icefire.description=一種冰魔法創造而成的火焰，會造成傷害及緩慢。
+#.
+tile.shadowfire.name=影火
+tile.shadowfire.description=一種黑暗的火焰，會造成傷害及失明。
+#
+tile.frostcloud.name=霜雲
+tile.frostcloud.description=一種小型冰雪雲朵，會造成緩速及飢餓。
+#
+tile.frostfire.name=霜火
+tile.frostfire.description=霜火為冰火的增強版，在原本造成傷害以及緩速的基礎上，霜火還能生成雪元素。
+#
+#
+# ========== Fluids ==========
+tile.purelava.name=純熔岩
+tile.purelava.description=比普通的熔岩更清澈，並且沒有生物生存其中。流動速度和水一樣。
+#
+tile.ooze.name=膠狀水
+tile.ooze.description=冰冷的凝膠物質，會導致緩速及飢餓，隨時間推移造成的傷害較小。
+#
+#
+# ========== Vespid ==========
+tile.veswax.name=蜂蠟
+tile.veswax.description=一種用來黏糊巢穴的主要材料，質地與陶瓦有的一拼。
+#
+tile.propolis.name=蜂膠
+tile.propolis.description=一種用來搭建蜂巢地基的主要材料，它像陶瓦一樣堅硬。
+# ========================================================================
+tile.demonstonebrick_stairs.name=惡魔磚樓梯
+tile.demonstonebrick_stairs.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
+#
+tile.demoncrystal.name=惡魔水晶
+tile.demoncrystal.description=當被捕獲的惡魔能量在內部發出邪惡的光線時所產生的結晶。
+#
+tile.demonstonechiseled.name=浮雕惡魔石磚
+tile.demonstonechiseled.description=為什麼強大的惡魔會為他們的神殿要求如此的細節，也許它們是地位的象徵？
+#
+tile.demonstonebrick_wall.name=惡魔磚牆
+tile.demonstonebrick_wall.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
+#
+tile.demonstone.name=惡魔石
+tile.demonstone.description=注入了大惡魔邪惡本質的石頭。
+#
+tile.demonstonebrick_slab.name=惡魔磚半磚
+tile.demonstonebrick_slab.description=注入了大惡魔邪惡本質的石頭。
+#
+tile.demonstone_stairs.name=惡魔石樓梯
+tile.demonstone_stairs.description=注入了大惡魔邪惡本質的石頭。
+#
+tile.demonstone_slab.name=惡魔石半磚
+tile.demonstone_slab.description=注入了大惡魔邪惡本質的石頭。
+#
+tile.demonstonebrick_fence.name=惡魔磚柵欄
+tile.demonstonebrick_fence.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
+#
+tile.demonstonepillar.name=惡魔石柱
+tile.demonstonepillar.description=惡魔的神殿一般造的十分宏偉，在加上它更顯輝煌
+#
+tile.demonstonetile_slab.name=惡魔瓷磚半磚
+tile.demonstonetile_slab.description=如此邪惡的東西怎麼會這麼美麗呢？
+#
+tile.demonstonetile.name=惡魔瓷磚
+tile.demonstonetile.description=如此邪惡的東西怎麼會這麼美麗呢？
+#
+tile.demonstone_slab_double.name=雙層惡魔石半磚
+tile.demonstone_slab_double.description=注入了大惡魔邪惡本質的半磚。
+#
+tile.demonstonebrick.name=惡魔磚
+tile.demonstonebrick.description=有人說，強大的惡魔會號召較弱的惡魔作為奴隸來建造邪惡的神殿。
+#
+tile.demonstonepolished.name=平滑惡魔石
+tile.demonstonepolished.description=經過拋光之後，猶如注入新鮮血液般。
+#
+tile.demonstonetile_stairs.name=惡魔瓷磚樓梯
+tile.demonstonetile_stairs.description=如此邪惡的東西怎麼會這麼美麗呢？
+#
+tile.soulcubedemonic.name=惡魔靈魂立方
+tile.soulcubedemonic.description=一個完美的惡魔能量源正在被釋放，可以吸引到一直強大的惡魔...
+# ================================================= =======================
+tile.desertstonebrick_stairs.name=沙漠石磚樓梯
+tile.desertstonebrick_stairs.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertcrystal.name=沙漠水晶
+tile.desertcrystal.description=用光魔法附魔的奇怪玻璃。
+#
+tile.desertstonechiseled.name=浮雕沙漠石
+tile.desertstonechiseled.description=精雕細刻的沙漠石。
+#
+tile.desertstonebrick_wall.name=沙漠石磚牆
+tile.desertstonebrick_wall.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstone.name=沙漠石
+tile.desertstone.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstonebrick_slab.name=沙漠石磚半磚
+tile.desertstonebrick_slab.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstone_stairs.name=沙漠石樓梯
+tile.desertstone_stairs.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstone_slab.name=沙漠石半磚
+tile.desertstone_slab.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstonebrick_fence.name=沙漠石磚柵欄
+tile.desertstonebrick_fence.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstonepillar.name=沙漠石柱
+tile.desertstonepillar.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstonetile_slab.name=沙漠瓷瓦半磚
+tile.desertstonetile_slab.description=裝飾沙漠石曾經鋪砌了偉大古蹟的地面。
+#
+tile.desertstonetile.name=沙漠瓷瓦
+tile.desertstonetile.description=裝飾沙漠石曾經鋪砌了偉大古蹟的地面。
+#
+tile.desertstone_slab_double.name=雙層沙漠石半磚
+tile.desertstone_slab_double.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstonebrick.name=沙漠石磚
+tile.desertstonebrick.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstonepolished.name=平滑沙漠石
+tile.desertstonepolished.description=精緻的砂岩，用於建造偉大的沙漠古蹟。
+#
+tile.desertstonetile_stairs.name=沙漠瓷瓦樓梯
+tile.desertstonetile_stairs.description=裝飾沙漠石曾經鋪砌了偉大古蹟的地面。
+#
+tile.soulcubedesertic.name=沙漠靈魂立方
+tile.soulcubedesertic.description=一種充滿複雜光，重力和大地魔法的奇怪裝置。
+# ========================================================================
+tile.lushstonebrick_stairs.name=蔥鬱石磚樓梯
+tile.lushstonebrick_stairs.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushcrystal.name=蔥鬱水晶
+tile.lushcrystal.description=這個符號就像一個守衛，被困的蔥鬱能量在釋放邪惡的光中肆虐。
+#
+tile.lushstonechiseled.name=浮雕蔥鬱石
+tile.lushstonechiseled.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonebrick_wall.name=蔥鬱石磚牆
+tile.lushstonebrick_wall.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstone.name=蔥鬱石
+tile.lushstone.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonebrick_slab.name=蔥鬱石磚半磚
+tile.lushstonebrick_slab.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstone_stairs.name=蔥鬱石樓梯
+tile.lushstone_stairs.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstone_slab.name=蔥鬱石半磚
+tile.lushstone_slab.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonebrick_fence.name=蔥鬱石磚柵欄
+tile.lushstonebrick_fence.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonepillar.name=蔥鬱石柱
+tile.lushstonepillar.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonetile_slab.name=蔥鬱石瓷瓦半磚
+tile.lushstonetile_slab.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonetile.name=蔥鬱石瓷瓦
+tile.lushstonetile.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstone_slab_double.name=雙層蔥鬱石半磚
+tile.lushstone_slab_double.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonebrick.name=蔥鬱石磚
+tile.lushstonebrick.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonepolished.name=平滑蔥鬱石
+tile.lushstonepolished.description=大自然的本質貫穿於這塊石頭。
+#
+tile.lushstonetile_stairs.name=蔥鬱石瓷瓦樓梯
+tile.lushstonetile_stairs.description=大自然的本質貫穿於這塊石頭。
+#
+tile.soulcubelushic.name=蔥鬱靈魂立方
+tile.soulcubelushic.description=附魔的水晶玻璃，如月光般閃耀。
+# ========================================================================
+#
+tile.shadowstonebrick_stairs.name=陰影石磚樓梯
+tile.shadowstonebrick_stairs.description=磚塊之間的縫隙似乎能吸收可見光。
+#
+tile.shadowstonetile_stairs.name=陰影石瓷瓦樓梯
+tile.shadowstonetile_stairs.description=走在黑暗與光明之間，你已經取得了偉大的成就。
+#
+tile.shadowstonebrick_fence.name=陰影石磚柵欄
+tile.shadowstonebrick_fence.description=磚塊之間的縫隙似乎能吸收可見光。
+#
+tile.shadowcrystal.name=陰影水晶
+tile.shadowcrystal.description=隨著符文能量的匯聚，它變得黑暗以至於光明。
+#
+tile.shadowstone_slab_double.name=雙層陰影石半磚
+tile.shadowstone_slab_double.description=石頭是用陰影製作而成的。
+#
+tile.shadowstonechiseled.name=浮雕陰影石
+tile.shadowstonechiseled.description=想要雕刻陰影石，最好的方法就是用那些作為你的受害者的骨頭雕刻。
+#
+tile.shadowstone.name=陰影石
+tile.shadowstone.description=石頭是用陰影製作而成的。
+#
+tile.shadowstone_stairs.name=陰影石樓梯
+tile.shadowstone_stairs.description=石頭是用陰影製作而成的。
+#
+tile.shadowstone_slab.name=陰影石半磚
+tile.shadowstone_slab.description=石頭是用陰影製作而成的。
+#
+tile.shadowstonetile.name=陰影石瓷瓦
+tile.shadowstonetile.description=走在黑暗與光明之間，你已經取得了偉大的成就。
+#
+tile.shadowstonebrick_slab.name=陰影石磚半磚
+tile.shadowstonebrick_slab.description=磚塊之間的縫隙似乎能吸收可見光。
+#
+tile.shadowstonepolished.name=平滑陰影石
+tile.shadowstonepolished.description=將陰影和恐懼連接在一起，不失柔和，又帶有些安慰…
+#
+tile.shadowstonebrick.name=陰影石磚
+tile.shadowstonebrick.description=磚塊之間的縫隙似乎能吸收可見光。
+#
+tile.shadowstonepillar.name=陰影石柱
+tile.shadowstonepillar.description=給予人一種黑暗中延伸出威嚴之感。
+#
+tile.shadowstonetile_slab.name=陰影石瓷瓦半磚
+tile.shadowstonetile_slab.description=走在黑暗與光明之間，你已經取得了偉大的成就。
+#
+tile.shadowstonebrick_wall.name=陰影石磚牆
+tile.shadowstonebrick_wall.description=磚塊之間的縫隙似乎能吸收可見光。
+# ========================================================================
+entity.freshwatermobs.abaia.name=電鰻
+entity.freshwatermobs.abaia.description=一種渾身包裹著電的魚類，能對試圖靠近者造成威脅以至令人聞風喪膽。
+entity.lycanitesmobs.abaia.habitat=這些魚類是降海產卵的，意味著它們出生在鹹水海洋，然後在淡水河流中遷移和成熟，然後再次返回鹹水，有些最終被困在湖泊中，並在那裡建立了一個群體，因此它們可以在大多數地方找到。
+entity.lycanitesmobs.abaia.combat=當電鰻用它們的電流電擊它們附近的任何東西時，它們也會進行討厭的撕咬。
+# ========================================================================
+entity.saltwatermobs.abtu.name=食人魚
+entity.saltwatermobs.abtu.description=長著大牙的兇猛魚類！成年食人魚是很稀少的非常難被找到，但如果你找到了，你最好趕快遊走因為它們會和成群的幼年魚包圍你！
+entity.lycanitesmobs.abtu.habitat=這些魚普遍存在於鹹水海洋和海灘。
+entity.lycanitesmobs.abtu.combat=一旦一隻食人魚察覺到它的獵物，它會不顧一切地吞食它，它們甚至會跳到陸地上追逐獵物！成年的食人魚比較保守，但也很罕見，它們會叫附近的幼年魚來驅散它們的獵物。
+# ========================================================================
+entity.lycanitesmobs.aegis.name=宙斯盾
+entity.lycanitesmobs.aegis.description=執法秩序元素，眾所周知，宙斯盾是在村莊周圍執法的，即使是小偷也會被無情地追捕。
+entity.lycanitesmobs.aegis.habitat=作為秩序元素，宙斯盾出現在秩序元素豐富的地區，因此村莊通常會創造這些生物。
+entity.lycanitesmobs.aegis.combat=宙斯盾有兩種模式可以轉換，一種是防禦盾模式，兩個大旋轉盾可以阻擋大部分的傷害，另一種是進攻劍模式，用四個旋轉刀刃撕碎目標。
+# ========================================================================
+entity.lycanitesmobs.afrit.name=伊夫利特
+entity.lycanitesmobs.afrit.description=邪惡的烈火小鬼，它們決心毀滅，它們會猛烈地燒毀周圍的世界。
+entity.lycanitesmobs.afrit.habitat=這些小鬼通常會在熔岩池裡洗澡。
+entity.lycanitesmobs.afrit.combat=伊夫利特通常從遠處攻擊，投擲烈火球，烈火和強酸的致命組合，削弱任何被擊中的東西的防禦。
+# ========================================================================
+entity.lycanitesmobs.aglebemu.name=箭毒蛙
+entity.lycanitesmobs.aglebemu.description=一種十分擅長游泳的青蛙，擁有驚人的跳躍能力以及致命的長舌！
+entity.lycanitesmobs.aglebemu.habitat=這些兩棲動物通常生活在沼澤地。
+entity.lycanitesmobs.aglebemu.combat=箭毒蛙用它們強有力的、非常長的、鋒利的舌頭刺穿受害者，並註射一種由傳染性細菌構成的致命混合物。
+# ========================================================================
+entity.lycanitesmobs.argus.name=阿格斯
+entity.lycanitesmobs.argus.description=破壞性的混沌元素，阿格斯在它們身後傳播浩劫。
+entity.lycanitesmobs.argus.habitat=作為混沌元素，阿格斯是當區域內存在大量混沌時形成的，這可能是由多種因素造成的，但通常破壞其他元素會導致高濃度的混沌。
+entity.lycanitesmobs.argus.combat=這些元素通過發射一個具有集中混沌能量的球體進行攻擊，這些球體的軌跡可能無法預測，並且在受到衝擊時，這些球體破壞了其真實的結構，導致不穩定。
+# ========================================================================
+entity.lycanitesmobs.arisaur.name=阿里蛇頸龍
+entity.lycanitesmobs.arisaur.description=阿里蛇頸龍是一種大型的覆蓋著植物的蜥腳類動物，它們是和平的，通常從樹上或從自己的背上吃草，共享一種共生關係。
+entity.lycanitesmobs.arisaur.habitat=阿里蛇頸龍通常在茂密的森林中發現，但也可以看到它們在平原遷移。
+entity.lycanitesmobs.arisaur.combat=阿里蛇頸龍通常是和平的。
+# ========================================================================
+entity.lycanitesmobs.arix.name=雪精靈
+entity.lycanitesmobs.arix.description=不斷尋找食物的頑皮冰小鬼。
+entity.lycanitesmobs.arix.habitat=雪精靈在寒冷的溫度下茁壯成長，經常在寒冷的生物群係以及在冰冷的膠狀冰中沐浴。
+entity.lycanitesmobs.arix.combat=這些小鬼們揮舞著冰火，這是一種冰霜魔法，看起來和行為就像是火，但效果卻是凍結而不是燒傷。
+# ========================================================================
+entity.lycanitesmobs.asmodeus.name=阿斯摩蒂爾斯
+entity.lycanitesmobs.asmodeus.description=阿斯摩蒂爾斯被認為是惡魔入侵的幕後主導，有時甚至可以和拉赫凡特相提並論。
+entity.lycanitesmobs.asmodeus.habitat=據說阿斯摩蒂爾斯起源於無盡肉體的巨大地獄層面，稱為煉獄，它們原本是強大的阿斯塔羅特，意思是一旦它們存在，它們只是陳腐的！
+entity.lycanitesmobs.asmodeus.combat=這個巨大的惡魔，或者說魔鬼，有著廣泛的攻擊，並且能夠用它的惡魔機械跳到很高的高度。它會周期性地使用巨大的加特林機槍對目標進行火力攻擊，同時也會大量攜帶護衛它的小武器。第一階段：阿斯摩蒂爾斯將向外釋放砲彈環。第二階段：阿斯摩蒂爾斯將召喚大型阿斯塔羅斯，它們將在他周圍投射一個盾牌，直到它們被摧毀。第三階段：阿斯塔羅特將代替治療阿斯摩蒂爾斯，以及巨腦魔也被召喚。
+# ========================================================================
+entity.lycanitesmobs.aspid.name=阿斯匹徳
+entity.lycanitesmobs.aspid.description=安靜的爬行動物背上長著奇怪的東西。阿斯匹徳喜歡蘑菇，可以和它們一起繁殖。但是要小心，因為它們不斷地釋放出一團毒雲，通常會在它們身後留下一道毒雲。
+entity.lycanitesmobs.aspid.habitat=這些生物通常被發現在沼澤地，黑森林和蘑菇島，因為它們對菇類的愛！
+entity.lycanitesmobs.aspid.combat=阿斯匹徳通常是和平的，但它們散發出的毒雲是相當危險的，但這些並不能阻止熱情的農民！
+# ========================================================================
+entity.lycanitesmobs.astaroth.name=阿斯塔羅特
+entity.lycanitesmobs.astaroth.description=一種由大腦以及紅石技術組成的統治者。如果你想快速躲過火焰的襲擊並殺死它，那麼腦內的蛆蟲會爬出來攻擊你！
+entity.lycanitesmobs.astaroth.habitat=據說這些惡魔起源於被稱為煉獄的無窮無盡的肉體地獄層，它們曾經只是陳腐的陳詞濫調，經常被發現在下界之中。
+entity.lycanitesmobs.astaroth.combat=阿斯塔羅特使用強大的快速武器，將它們的惡魔能量提取成強大的彈射物，稱為惡魔之星，在碰到這些時可以導致凋零。如果阿斯塔羅特被擊殺，一小隊蛆蟲將從它們的屍體中出來，然後開始攻擊！
+# ========================================================================
+entity.lycanitesmobs.banshee.name=女妖
+entity.lycanitesmobs.banshee.description=女妖是可怕的相位元素，它們可以通過現實本身來相位，它們經常被聽到“歌唱”。據說元素其實是一雙眼睛，而不是它“目的”的屍體。地魔和幻靈元素也可以融合成強大的女妖。
+entity.lycanitesmobs.banshee.habitat=這些元素常出沒於怪誕和廢棄的地方，通常在廢棄礦井周圍，以及黑暗的森林和其他體現不安的地方。
+entity.lycanitesmobs.banshee.combat=與女妖接觸後，受害者的靈魂會被相位魔法震驚，這通常會引發恐懼和恐慌。
+# ========================================================================
+entity.lycanitesmobs.barghest.name=犬鬼
+entity.lycanitesmobs.barghest.description=致命的山間掠食者，能跳得很高。犬鬼也是非常能幹的登山者，使它們成為山脈的特殊坐騎。
+entity.lycanitesmobs.barghest.habitat=這些動物通常出現在山區和熱帶草原。
+entity.lycanitesmobs.barghest.combat=眾所周知，犬鬼會撲向獵物並將其撕碎，造成流血。
+# ========================================================================
+entity.lycanitesmobs.behemoth.name=比蒙巨獸
+entity.lycanitesmobs.behemoth.description=高大的惡魔怪物，比蒙巨獸都是決心毀滅的強大惡魔。
+entity.lycanitesmobs.behemoth.habitat=比蒙巨獸可以在下界中找到，如果它們足夠大，也會通過未受保護的傳送門入侵。
+entity.lycanitesmobs.behemoth.combat=這些惡魔投擲地獄火球，一種撕裂靈魂而產生的綠色火焰，不僅火焰會燃燒，而且它們也會凋零。
+# ========================================================================
+entity.lycanitesmobs.beholder.name=觀察者
+entity.lycanitesmobs.beholder.description=大量充滿敵意的眼睛和触角，永遠渴望魔法能量！
+entity.lycanitesmobs.beholder.habitat=觀察者喜歡高高的地方，住在大洞穴和廢墟中，晚上出來，可以在山上找到它們。
+entity.lycanitesmobs.beholder.combat=這些畸變會彎曲重力並使魔法無效，從而產生強大的神秘風暴，它們會從口中爆炸，然後這些攻擊會向各個方向釋放致命的激光，並在撞擊中爆炸。
+# ========================================================================
+entity.lycanitesmobs.belph.name=貝爾菲
+entity.lycanitesmobs.belph.description=小而危險的惡魔，一心只想殺戮和進食。
+entity.lycanitesmobs.belph.habitat=這些惡魔可以在下界中找到，並且會通過傳送門入侵。
+entity.lycanitesmobs.belph.combat=貝爾菲投擲毀滅之火的球，這是一種由下界魔法製造的火焰，燃燒著一種不自然的紅色。
+# ========================================================================
+entity.lycanitesmobs.cacodemon.name=巨腦魔
+entity.lycanitesmobs.cacodemon.description=一種大型浮游敵對生物，它們會釋放出致命的惡魔電光從而發生爆炸。另外，巨腦魔還喜歡攻擊惡魂以獲取它們可口的眼淚。
+entity.lycanitesmobs.cacodemon.habitat=這些惡魔在下界熾熱天空中飛來飛去。
+entity.lycanitesmobs.cacodemon.combat=巨腦魔吐出巨大的惡魔閃電球，雖然實際上不是電的，但它們是爆炸性的下界能量球，在擊中時會凋零，並向四面八方釋放較小的惡魔火花。
+# ========================================================================
+entity.lycanitesmobs.calpod.name=樹蟻
+entity.lycanitesmobs.calpod.description=像白蟻一樣的昆蟲，它們成群地捕食！
+entity.lycanitesmobs.calpod.habitat=這些昆蟲可以在森林的灌木叢中找到，晚上出來活動。
+entity.lycanitesmobs.calpod.combat=樹蟻有一個討厭的撕咬，但必須盡快被殺死，因為它們會迅速呼叫更多的樹蟻加入它們。
+# ========================================================================
+entity.lycanitesmobs.cephignis.name=岩漿魚
+entity.lycanitesmobs.cephignis.description=適應極端溫度生活的大型和平魚類，其身體像熔岩一樣熱。岩漿魚可以用煤炭或木炭繁殖！
+entity.lycanitesmobs.cephignis.habitat=這些魚可以在熔岩中游泳，不能在熔岩外長期生存。
+entity.lycanitesmobs.cephignis.combat=岩漿魚通常是被動的，依靠它們的環境來保護它們免受大多數掠食者的傷害。
+# ========================================================================
+entity.lycanitesmobs.chupacabra.name=卓柏卡布拉
+entity.lycanitesmobs.chupacabra.description=可怕的生物，它們對肉體的永不滿足的渴望，可以用來操縱和耕種它們。
+entity.lycanitesmobs.chupacabra.habitat=卓柏卡布拉通常生活在黑暗洞穴的地下。
+entity.lycanitesmobs.chupacabra.combat=這些野獸以致命的撕咬和鋒利的利爪具有難以置信的攻擊性，但是它們的貪婪可以用來對付它們，因為它們會優先考慮大型獵物。它們的攻擊也會治愈它們。
+# ========================================================================
+entity.lycanitesmobs.cinder.name=火元素
+entity.lycanitesmobs.cinder.description=暴力的火元素，只尋求燃燒周圍的其他生物。
+entity.lycanitesmobs.cinder.habitat=作為火的元素，火元素是從純火中顯現出來的，因此它們會在有大量火的地方頻繁生成。然而，它們不會出現在不潔的火焰周圍，如熾焰或死焰。
+entity.lycanitesmobs.cinder.combat=火元素釋放出一種強大的痛風，可以燃燒敵人，但是這些火焰太弱，無法傳播更多的火。
+# ========================================================================
+entity.lycanitesmobs.clink.name=劈楔
+entity.lycanitesmobs.clink.description=奇怪的小鬼，在它們的手臂上迅速長出金屬刀片，然後很容易被分離。
+entity.lycanitesmobs.clink.habitat=這些小鬼經常在沙漠中被發現，因為它們以消耗礦物質生，就像肉一樣，它們沒有翅膀，所以在山區沒有。
+entity.lycanitesmobs.clink.combat=劈楔分離它們生長的刀刃並向敵人投擲。
+# ========================================================================
+entity.lycanitesmobs.cockatrice.name=雞蛇
+entity.lycanitesmobs.cockatrice.description=像雙足飛龍一樣的致命巨型雞，非常危險，離我遠點！
+entity.lycanitesmobs.cockatrice.habitat=這些雙足飛龍通常出現在熱帶地區，比如叢林，因為它們喜歡吃水果和吞食大型昆蟲，當然，任何移動的東西都在菜單上！
+entity.lycanitesmobs.cockatrice.combat=雞蛇用喙啄食，嘴上滴著麻痺和厭惡的毒素，據說這些毒素會讓受害者感覺自己變成石頭。
+# ========================================================================
+entity.lycanitesmobs.conba.name=棕毛獸
+entity.lycanitesmobs.conba.description=頑皮的猿類，對翔充滿了熱情！
+entity.lycanitesmobs.conba.habitat=這些猿類可以在熱帶生物群落中找到，如叢林。
+entity.lycanitesmobs.conba.combat=喜歡把它們粘粘的翔扔到人身上，造成緩慢和反胃，同時製造翔雲以擴大這些效果。這些野獸也會努力保持距離。
+entity.lycanitesmobs.conba.infected=感染的棕毛獸
+# ========================================================================
+entity.lycanitesmobs.concapede.name=貝狀百足蟲
+entity.lycanitesmobs.concapede.description=互相連接的奇怪甲蟲。頭在前面，從後面長出額外的分節，如果餵食蔬菜就會全神貫注，讓它們的分節受到攻擊，這種技術被農民使用。
+entity.lycanitesmobs.concapede.habitat=這些昆蟲可以在熱帶地區如叢林中找到。
+entity.lycanitesmobs.concapede.combat=貝狀百足蟲有毒，但只在夜間有敵意。
+# ========================================================================
+entity.lycanitesmobs.concapedesegment.name=貝狀百足蟲分節
+entity.lycanitesmobs.concapedesegment.description=互相連接的奇怪甲蟲。分節通常與頭部相連並由頭部生長。如果與前面的頭部或其他分節分離，它將成長為頭部。只有部分是無法防禦的。
+entity.lycanitesmobs.concapedesegment.habitat=分節生長的部分，可在熱帶地區如叢林中找到。
+entity.lycanitesmobs.concapedesegment.combat=分節沒有防禦能力，但將由頭部保護，除非這些頭部忙於進食。
+# ========================================================================
+entity.lycanitesmobs.crusk.name=死亡之蟲
+entity.lycanitesmobs.crusk.description=大型沙蠕蟲，有厚厚的外骨骼保護它們。較小的幼崽可以被馴服，但是它們需要很長的時間才能成長，但卻可以成為很好地保護寵物。
+entity.lycanitesmobs.crusk.habitat=這些生物可以在沙漠沙丘中找到。
+entity.lycanitesmobs.crusk.combat=死亡之蟲撕咬得很厲害，可以潛入柔軟地形，如沙子、草方塊或泥土。
+# ========================================================================
+entity.lycanitesmobs.cryptkeeper.name=地穴守護者
+entity.lycanitesmobs.cryptkeeper.description=木乃伊化的屍體，不像通常的亡靈，它們不會在陽光下燃燒。
+entity.lycanitesmobs.cryptkeeper.habitat=這些亡靈經常在夜間的沙漠出沒。
+entity.lycanitesmobs.cryptkeeper.combat=地穴守護者使用近戰攻擊並傳播造成厭惡的有害細菌。
+# ========================================================================
+entity.lycanitesmobs.darkling.name=嗜血蝨蟲
+entity.lycanitesmobs.darkling.description=骯髒的小陰影昆蟲喜歡抓住它們的受害者，慢慢地吸乾它們的血液！你最好快點把這些害蟲趕走！
+entity.lycanitesmobs.darkling.habitat=這些昆蟲可以在黑暗的地下區域找到。
+entity.lycanitesmobs.darkling.combat=嗜血蝨蟲會跳到受害者身上，抓住它們開始快速吸血的地方，這將治愈它們，快速殺死它們至關重要。
+# ========================================================================
+entity.lycanitesmobs.dawon.name=水晶貓
+entity.lycanitesmobs.dawon.description=貓科動物的結晶體，有時在它們的身體上能發現罕見的晶體。
+entity.lycanitesmobs.dawon.habitat=這些野獸可以在叢林中找到。
+entity.lycanitesmobs.dawon.combat=水晶貓會攻擊目標，使獵物殘廢，降低移動速度。
+# ========================================================================
+entity.lycanitesmobs.djinn.name=幻靈
+entity.lycanitesmobs.djinn.description=驕傲的風元素，保護天空遠離那些它們認為不應該出現在那裡的人！
+entity.lycanitesmobs.djinn.habitat=作為風元素，這些生物通常出現在高空。
+entity.lycanitesmobs.djinn.combat=幻靈釋放致命的旋風環，在命中時造成飄浮的負面效果。
+# ========================================================================
+entity.lycanitesmobs.dweller.name=居住者
+entity.lycanitesmobs.dweller.description=水陸兩棲動物可以在陸地上生活一段時間，它們必須在太乾的時候回到水里，因為如果在陸地上生活太久，它們可能會死去。它們在水中快速而致命，在雨中能在陸地上生存。
+entity.lycanitesmobs.dweller.habitat=這些生物可以在沼澤、黑暗森林和叢林中找到。
+entity.lycanitesmobs.dweller.combat=居住者使用一種有毒的爪子劃傷目標，並且在水里十分擅長，而在陸地上它們卻很容易被打敗，除非下雨。
+# ========================================================================
+entity.lycanitesmobs.eechetik.name=毒元素
+entity.lycanitesmobs.eechetik.description=充滿致命瘟疫的危險有毒元素會感染周圍的人。它們喜歡蘑菇！水元素和阿格斯元素也可以融合成一個強大的毒元素。
+entity.lycanitesmobs.eechetik.habitat=作為有毒元素，毒元素在有毒和寄生生長的區域出現，蘑菇似乎經常導致它們在黑暗中出現。
+entity.lycanitesmobs.eechetik.combat=這些元素的外觀和攻擊會像檢查一樣，它們的許多細臂，它們的攻擊會迅速傳播瘟疫，因此需要準備治療物品。
+# ========================================================================
+entity.lycanitesmobs.ent.name=樹人
+entity.lycanitesmobs.ent.description=森林保護者，它們會攻擊任何它們認為對森林構成威脅的東西。
+entity.lycanitesmobs.ent.habitat=樹人可以在夜間發現遊蕩的森林，但也會合併到樹中，所以砍樹時要小心！
+entity.lycanitesmobs.ent.combat=樹人使用毒害攻擊，在水中恢復生命，攻擊時也會消耗生命。斧和類似的工具非常有效。
+# ========================================================================
+entity.lycanitesmobs.epion.name=厄匹恩
+entity.lycanitesmobs.epion.description=巨大的陰影吸血蝙蝠。當與陽光直接接觸時，厄匹恩會掉到地上並在撞擊中爆炸！
+entity.lycanitesmobs.epion.habitat=這些蝙蝠在滿月的夜晚出來。
+entity.lycanitesmobs.epion.combat=厄匹恩向受害者吐吸血螞蟥，在被擊中時消耗生命。
+# ========================================================================
+entity.lycanitesmobs.erepede.name=艾勒派德
+entity.lycanitesmobs.erepede.description=一種近似昆蟲的岩石類生物，它們喜歡打獵，也會在視線中攻擊死亡之蟲。
+entity.lycanitesmobs.erepede.habitat=這些昆蟲可以在沙漠和平頂山等炎熱乾燥的地形上游盪。
+entity.lycanitesmobs.erepede.combat=艾勒派德發出危險的泥漿彈，虛弱目標。
+# ========================================================================
+entity.lycanitesmobs.ettin.name=食人魔
+entity.lycanitesmobs.ettin.description=巨大的雙頭怪物。這些狂獸因為它們的破壞能力而受到威脅。
+entity.lycanitesmobs.ettin.habitat=這些狂獸經常生活在沼澤地。
+entity.lycanitesmobs.ettin.combat=食人魔動作緩慢，但會受到嚴重打擊。如果你在戰鬥中離得太近，它們會驚慌並摧毀附近的柔軟方塊，如木頭或泥土。
+# ========================================================================
+entity.lycanitesmobs.eyewig.name=毒眼
+entity.lycanitesmobs.eyewig.description=在黑暗中，眼睛是敵對的，可以爬過水面也可以滑過水面。
+entity.lycanitesmobs.eyewig.habitat=這些昆蟲經常在沼澤、黑暗森林和叢林中發現。
+entity.lycanitesmobs.eyewig.combat=毒眼可以從它們的巨眼發射有毒激光！它們的撕咬也會導致失明！
+# ========================================================================
+entity.lycanitesmobs.fear.name=恐懼
+entity.lycanitesmobs.fear.description=這是一個用於恐懼效果的虛擬實體，如果它在生物圖鑑內或有刷怪蛋，那麼這是一個漏洞，請報告它！
+entity.lycanitesmobs.fear.habitat=虛擬實體。
+entity.lycanitesmobs.fear.combat=虛擬實體。
+# ========================================================================
+entity.lycanitesmobs.feradon.name=費雷德
+entity.lycanitesmobs.feradon.description=像獅子一樣的掠食者是優秀的獵手。
+entity.lycanitesmobs.feradon.habitat=這些野獸在平原和草原上茁壯成長。
+entity.lycanitesmobs.feradon.combat=費雷德用強力的撕咬攻擊以攻破受害者防禦。
+# ========================================================================
+entity.lycanitesmobs.frostweaver.name=霜語者
+entity.lycanitesmobs.frostweaver.description=在寒冷的環境中茁壯成長的吐冰蜘蛛。
+entity.lycanitesmobs.frostweaver.habitat=這些蜘蛛可以在針葉林或冰原等寒冷地區找到。
+entity.lycanitesmobs.frostweaver.combat=霜語者會吐出一種存在時間短暫的霜網，這種網會導致速度變慢。
+# ========================================================================
+entity.lycanitesmobs.geist.name=感知
+entity.lycanitesmobs.geist.description=感知是機會主義的亡靈生物，它們變形並爬進其他亡靈生物的生命體或屍體，並以宿主能夠殺死的任何東西為食。當它們的主人死了，感知就會跳出來，然後發起突襲！
+entity.lycanitesmobs.geist.habitat=感知通常來自其他亡靈生物，但也可以發現它們潛伏在黑暗森林和末地中。
+entity.lycanitesmobs.geist.combat=感知使用簡單的近戰攻擊，但在死亡時釋放影火，雖然不會燃燒，但會造成傷害和失明。
+# ========================================================================
+entity.lycanitesmobs.geken.name=哥肯
+entity.lycanitesmobs.geken.description=有著卓越跳躍能力的劇毒爬蟲。
+entity.lycanitesmobs.geken.habitat=這些生物喜歡在熱帶地區，如叢林，但也可以在沼澤中找到。
+entity.lycanitesmobs.geken.combat=哥肯不斷地跳躍，使它們更難被擊中，它們的爪子很鋒利，會導致流血。
+# ========================================================================
+entity.lycanitesmobs.geonach.name=地魔
+entity.lycanitesmobs.geonach.description=地魔由殘酷的大地元素生物幻化而成，一般它們都會待在地下，有些不知情的礦工將會驚醒它們。
+entity.lycanitesmobs.geonach.habitat=作為大地元素，地魔表現為大地很強大，通常藏在礦石中，破壞這些礦石會激怒它們。
+entity.lycanitesmobs.geonach.combat=地魔會用它們的長矛臂快速攻擊，偶爾也會用它們更重的拳頭攻擊以獲得更多的傷害。它們的攻擊會獲得沉重負面效果，這通常會困住受害者。鎬和類似工具非常有效。
+# ========================================================================
+entity.lycanitesmobs.ghoul.name=食屍鬼
+entity.lycanitesmobs.ghoul.description=惡毒的亡靈生物，食屍鬼比一般的殭屍小，允許它們爬到較小的地方。
+entity.lycanitesmobs.ghoul.habitat=夜間可以發現潛伏在沼澤、暗森林和叢林周圍的食屍鬼。
+entity.lycanitesmobs.ghoul.combat=食屍鬼近戰攻擊並造成中毒。
+# ========================================================================
+entity.lycanitesmobs.gorger.name=熔岩蟲
+entity.lycanitesmobs.gorger.description=巨大的岩漿蠕蟲在熔岩中游動，它們也能在陸地上生存，像泥土一樣鑽入柔軟地面中。
+entity.lycanitesmobs.gorger.habitat=這些生物可以在大片熔岩中找到。
+entity.lycanitesmobs.gorger.combat=熔岩蟲通過在各處釋放幾個熔岩球進行攻擊，雖然這些攻擊很強大，但它們不能準確擊中目標。
+# ========================================================================
+entity.lycanitesmobs.gorgomite.name=魔鬼蟎
+entity.lycanitesmobs.gorgomite.description=小型岩石甲蟲，它們是眾所周知的非常好鬥，但害怕獅蠍。
+entity.lycanitesmobs.gorgomite.habitat=魔鬼蟎通常出現在沙漠中，它們在夜間出沒。
+entity.lycanitesmobs.gorgomite.combat=這些甲蟲一開始只是一個簡單輕微叮咬的討厭鬼，但它們會迅速召喚其他的甲蟲，並開始成群結隊，因此快速消滅它們至關重要。
+# ========================================================================
+entity.lycanitesmobs.grue.name=蠐螬
+entity.lycanitesmobs.grue.description=當一片漆黑之時，你要小心被蠐螬吃掉！在完全黑暗中看不到這些影子元素。火元素和阿格斯元素可以融合在一起形成強大的蠐螬。
+entity.lycanitesmobs.grue.habitat=作為陰影元素，在黑暗的地下深處生成。
+entity.lycanitesmobs.grue.combat=蠐螬使用危險的近戰攻擊，還會造成失明，除此之外，它們還會偶爾在傳送到受害者身後。而且，如果它們的受害者有任何正面效果，蠐螬會吞食這些效果並治愈！
+# ========================================================================
+entity.lycanitesmobs.herma.name=巨鉗蟹
+entity.lycanitesmobs.herma.description=巨蟹！它們通常十分保守，除非有東西離得太近了！
+entity.lycanitesmobs.herma.habitat=這些生物在鹹水海洋和海灘上發現。
+entity.lycanitesmobs.herma.combat=巨鉗蟹用它們強有力的爪子攻擊。
+# ========================================================================
+entity.lycanitesmobs.ignibus.name=赤炎飛龍
+entity.lycanitesmobs.ignibus.description=火熱的巨龍，暴躁的脾氣，灼熱的爪子，熾熱的呼吸，燃燒的渴望融化你的臉！
+entity.lycanitesmobs.ignibus.habitat=赤炎飛龍可以在非常大的湖泊中找到，它們很罕見，但卻非常強大。
+entity.lycanitesmobs.ignibus.combat=這些巨龍釋放出一股強大的烈火和熱餘燼，可以點燃地面和任何物體。熾焰還將造成滲透削弱防禦。
+# ========================================================================
+entity.lycanitesmobs.ika.name=伊卡
+entity.lycanitesmobs.ika.description=緩慢的蝸牛龜貝類！伊卡可以用蔬菜來引誘和繁殖，然而它們在陸地上只能活一小會兒。要細心養殖！
+entity.lycanitesmobs.ika.habitat=伊卡可以在海水和海灘上的水池中找到。
+entity.lycanitesmobs.ika.combat=伊卡通常是被動的。
+# ========================================================================
+entity.lycanitesmobs.ioray.name=魔鬼魚
+entity.lycanitesmobs.ioray.description=美麗的生物以極快的速度優雅地游泳，它們的背上有大量珍貴的寶石，但是它們很有攻擊性。
+entity.lycanitesmobs.ioray.habitat=這些生物可以在海水中找到。
+entity.lycanitesmobs.ioray.combat=魔鬼魚使用致命的水噴射攻擊，將摧毀任何攻擊的防禦。
+# ========================================================================
+entity.lycanitesmobs.jabberwock.name=囉嗦怪
+entity.lycanitesmobs.jabberwock.description=像鹿一樣兇殘的動物，把獵物撕成碎片。
+entity.lycanitesmobs.jabberwock.habitat=晚上可以在山上發現囉嗦怪。
+entity.lycanitesmobs.jabberwock.combat=囉嗦怪有鉤爪，會造成沉重效果，將受害者拉下來，這可以防止任何跳躍，增加墜落傷害，使囉嗦怪在山上是致命的。
+# ========================================================================
+entity.lycanitesmobs.jengu.name=水元素
+entity.lycanitesmobs.jengu.description=水元素被稱為純淨水的保護者，它們會攻擊任何它們認為對它們的水純度構成威脅的東西。
+entity.lycanitesmobs.jengu.habitat=作為水的元素，水元素在黑暗中從大型水體中顯現。
+entity.lycanitesmobs.jengu.combat=水元素通過投擲大量的水攻擊，碰到這些水會形成一個臨時的水池。
+# ========================================================================
+entity.lycanitesmobs.joust.name=騎鬥士
+entity.lycanitesmobs.joust.description=兇猛的節肢動物，它們可以被繁殖，喜歡仙人掌綠！
+entity.lycanitesmobs.joust.habitat=這些生物可以在沙漠和平頂山中找到。
+entity.lycanitesmobs.joust.combat=騎鬥士通常是和平的，但如果被攻擊，會被咬回去，並遵循攻擊性初代騎鬥士的命令。
+# ========================================================================
+entity.lycanitesmobs.joustalpha.name=初代騎鬥士
+entity.lycanitesmobs.joustalpha.description=更大的騎鬥士和首領，它們會攻擊視野裡其它的初代同時會命令除了初代之外的騎鬥士，它們非常敵對。
+entity.lycanitesmobs.joustalpha.habitat=這些生物可以在沙漠和平頂山中找到。
+entity.lycanitesmobs.joustalpha.combat=騎鬥士速度快，攻擊速度也快，它們還將召集其他非初代騎鬥士與它們一起攻擊。
+# ========================================================================
+entity.lycanitesmobs.khalk.name=熔岩鱷龜
+entity.lycanitesmobs.khalk.description=大型岩漿動物以其難以置信的防禦和致命的進攻而聞名。死後，它們的身體會分解成熔岩！
+entity.lycanitesmobs.khalk.habitat=這些野獸可以在地下熔岩湖深處找到。
+entity.lycanitesmobs.khalk.combat=熔岩鱷龜使用非常強大的近戰攻擊，可以造成燃燒，但是速度非常慢。當它們變成一個臨時的熔岩小池子時，一定要在它們死去的時候留下來。
+# ========================================================================
+entity.lycanitesmobs.kobold.name=地精
+entity.lycanitesmobs.kobold.description=小型囓齒動物總忍不住會偷東西，包括火把！殺死它們會掉落它們偷的物品。
+entity.lycanitesmobs.kobold.habitat=這些囓齒動物通常在夜間在平原上發現。
+entity.lycanitesmobs.kobold.combat=地精通常逃離其他生物，但已知會攻擊低生命值的人。
+# ========================================================================
+entity.lycanitesmobs.lacedon.name=水鬼
+entity.lycanitesmobs.lacedon.description=奇怪的類人水生生物，它們能夠在一小段時間內登陸，如果下雨的話，也可以無限期地登陸。
+entity.lycanitesmobs.lacedon.habitat=水鬼可以在鹹水海洋中找到。
+entity.lycanitesmobs.lacedon.combat=水鬼在攻擊時造成沉重效果，通常以受害者被拖到海底結束。
+# ========================================================================
+entity.lycanitesmobs.lobber.name=熔岩巨魔
+entity.lycanitesmobs.lobber.description=巨大的熔岩狂獸，大裂片是非常強大的生物。
+entity.lycanitesmobs.lobber.habitat=這些狂獸在熔岩湖中發現。
+entity.lycanitesmobs.lobber.combat=熔岩巨魔因其攻擊而得名，在攻擊中它們向受害者投擲大量岩漿球，這很快就開始向該地區注入臨時熔岩。
+# ========================================================================
+entity.lycanitesmobs.lurker.name=潛伏者
+entity.lycanitesmobs.lurker.description=潛伏者非常適合隱藏在它們的環境之中。一旦得手，它們就會躲避起來，等待毒液慢慢生效。同時它也可以被馴服為不錯的寵物，以防止爬行者。
+entity.lycanitesmobs.lurker.habitat=這些生物可以在森林和沼澤中找到，但會避開寒冷地區。
+entity.lycanitesmobs.lurker.combat=潛伏者的撕咬會導致中毒和失明，咬傷後潛伏者會逃跑並試圖躲避起來，讓毒素發揮作用，如果毒素消失，它們會再次發起攻擊。
+# ========================================================================
+entity.lycanitesmobs.maka.name=克萊
+entity.lycanitesmobs.maka.description=一種巨型的草食性生物，它們可以用蔬菜進行繁殖，以獲取肉和皮革。請小心初代克萊。
+entity.lycanitesmobs.maka.habitat=克萊可在草原和熱帶草原中找到。
+entity.lycanitesmobs.maka.combat=克萊通常是和平的。
+# ========================================================================
+entity.lycanitesmobs.makaalpha.name=初代克萊
+entity.lycanitesmobs.makaalpha.description=更大的克萊變體，初代克萊通常是和平的，但有時會攻擊，它們也會彼此爭吵很多。初代克萊將保護其餘的克萊，因此它們有時使繁殖克萊變得棘手。
+entity.lycanitesmobs.makaalpha.habitat=初代克萊可在草原和熱帶草原中找到。
+entity.lycanitesmobs.makaalpha.combat=當被激怒時，初代克萊使用強大的撕咬和尖刺的尾巴以造成很高的近戰傷害。
+# ========================================================================
+entity.lycanitesmobs.manticore.name=獅蠍
+entity.lycanitesmobs.manticore.description=像蝙蝠一樣兇惡的野獸，尾巴像蝎子。它們喜歡捕殺魔鬼蟎和其他小獵物。
+entity.lycanitesmobs.manticore.habitat=在夜間，獅蠍在沙漠上空飛行。
+entity.lycanitesmobs.manticore.combat=獅蠍的刺會讓你感到非常虛弱和飢餓！
+# ========================================================================
+entity.lycanitesmobs.maug.name=冰河熊
+entity.lycanitesmobs.maug.description=一種體型巨大的酷似狼的北極熊。
+entity.lycanitesmobs.maug.habitat=這些動物可以在寒冷地區找到，如雪山或針葉林。
+entity.lycanitesmobs.maug.combat=冰河熊使用強大的猛烈攻擊，它會使人殘廢，導致行動緩慢。
+# ========================================================================
+entity.lycanitesmobs.morock.name=雙足飛龍
+entity.lycanitesmobs.morock.description=兇猛的雙足飛龍，雖然它們不能吐出火焰，但它們仍然會使用毀滅性的撕咬！
+entity.lycanitesmobs.morock.habitat=雙足飛龍被發現在開闊的天空中，有許多美味的獵物，如草原，幸運的是它們相當罕見。
+entity.lycanitesmobs.morock.combat=雙足飛龍速度快，撕咬有力，最好用它們的大塊頭來對付它們。
+# ========================================================================
+entity.lycanitesmobs.nymph.name=精靈
+entity.lycanitesmobs.nymph.description=異想天開的仙靈元素充滿了治愈它們周圍一切的能量。它們喜歡花！雖然直接無害，但當它們害怕時會造成傷害。水元素和宙斯盾元素可以融合，創造出強大的仙女。
+entity.lycanitesmobs.nymph.habitat=作為仙靈元素，精靈在生命源周圍出現，因此在陽光下的花朵周圍出現。
+entity.lycanitesmobs.nymph.combat=精靈是和平的，會治愈它們周圍的一切，這對亡靈生物是有害的。如果被擊中，精靈們會逃跑，用鋒利的荊棘燒掉花，造成流血。
+# ========================================================================
+entity.lycanitesmobs.pinky.name=牛鬼
+entity.lycanitesmobs.pinky.description=特別喜歡吃活動物的貪吃的動物。可以用活的大型動物飼養和繁殖。幼年的牛鬼可以被馴服，成熟後可以作為戰鬥坐騎。
+entity.lycanitesmobs.pinky.habitat=牛鬼在下界中游盪，尋找食物。
+entity.lycanitesmobs.pinky.combat=這些惡魔具有難以置信的攻擊性，但會優先考慮更多汁的獵物，而這些獵物可以用來淨化它們。
+# ========================================================================
+entity.lycanitesmobs.quetzodracl.name=風神翼龍
+entity.lycanitesmobs.quetzodracl.description=強大的雙足飛龍，仍然與它們的龍祖先翼龍有著強烈的相似之處。
+entity.lycanitesmobs.quetzodracl.habitat=這些飛龍可以在海上飛行。
+entity.lycanitesmobs.quetzodracl.combat=風神翼龍是不可思議的力量，它會抓住獵物，最好用它們的大塊頭來對付它們。
+# ========================================================================
+entity.lycanitesmobs.quillbeast.name=毛羽獸
+entity.lycanitesmobs.quillbeast.description=一種大型囓齒類動物，它們很容易受到驚嚇，會從遠處發射這些棘刺。
+entity.lycanitesmobs.quillbeast.habitat=這些動物可以在草原、熱帶草原和森林中找到。
+entity.lycanitesmobs.quillbeast.combat=毛羽獸用致命的棘刺攻擊，同時割穿長草。
+# ========================================================================
+entity.lycanitesmobs.rahovart.name=拉赫凡特
+entity.lycanitesmobs.rahovart.description=作為地下世界的領主，拉赫凡特的名字本身就給最邪惡的人帶來了恐懼和害怕。
+entity.lycanitesmobs.rahovart.habitat=據說拉赫凡特是一個非常古老和強大的龐然大物，起源於一個巨大的地獄。
+entity.lycanitesmobs.rahovart.combat=拉赫凡特是一個強大的惡魔，用強大的地獄火大砲攻擊。第一階段：拉赫凡特召喚貝爾菲，超時時間，這些貝爾菲變得強大，並最終爆炸給拉赫凡特一個地獄火球。有了5個球體，拉赫凡特將釋放出一個巨大的地獄火波，造成巨大的傷害並燒掉任何好的效果，殺死貝爾菲是很重要的，以減少這種情況的發生。第二階段：拉赫凡特繼續召喚貝爾菲，但不再賦予它們力量，相反，他也召喚了獲得力量的巨獸，這些巨獸將給予他球體，在5個球體處，拉赫凡特將創造一個巨大的地獄之火牆，圍繞他旋轉，這會造成傷害並消除效果，像波浪一樣，但持續的時間更長，所以盡可能快地殺死比蒙巨獸。第三階段：拉赫凡特現在將自己創造球體，並將創造地獄之火屏障，這些不會移動，但最終將接管拉赫凡特周圍的區域，但是殺死他的部下將移除這些屏障，因此如果有太多，殺死貝爾菲和比蒙巨獸以降低屏障。
+# ========================================================================
+entity.lycanitesmobs.raiko.name=鵜鶘
+entity.lycanitesmobs.raiko.description=眾所周知，大型海鳥會潛入海洋並抓住獵物。
+entity.lycanitesmobs.raiko.habitat=這些鳥可以在海洋上空找到。
+entity.lycanitesmobs.raiko.combat=鵜鶘會抓住獵物，在它們把你抬得太高之前殺死它們是很重要的。最終，鵜鶘會釋放它們的獵物，並獲得沉重效果，這會造成巨大的墜落傷害，但通常會將它們的受害者丟到深海中。
+# ========================================================================
+entity.lycanitesmobs.reaper.name=收割者
+entity.lycanitesmobs.reaper.description=扭曲的靈魂以死亡為食，收割者會被死亡所吸引，有時會誤以為睡著的人已經死了！
+entity.lycanitesmobs.reaper.habitat=這些靈魂有時出現在生物死亡時，有時出現在某人試圖睡覺時。
+entity.lycanitesmobs.reaper.combat=收割者遠程攻擊會使它們的受害者在恐懼中奔跑！
+# ========================================================================
+entity.lycanitesmobs.reiver.name=雪元素
+entity.lycanitesmobs.reiver.description=冰霜元素，雪元素試圖凍結它們周圍的一切。水元素和幻靈元素可以融合，創造強大的雪元素。
+entity.lycanitesmobs.reiver.habitat=雪元素有時在寒冷地區的夜空中漫遊，也會從其他生物傳播的霜火中顯現出來。
+entity.lycanitesmobs.reiver.combat=這些元素會發射冰凍的冰霜閃電，使受害者的攻擊速度減慢。
+# ========================================================================
+entity.lycanitesmobs.remobra.name=蛇龍
+entity.lycanitesmobs.remobra.description=一種可以飛在天空進行噴射毒液的蛇，如果它們噴吐的落在地面上，那麼它會爆出一團毒霧。
+entity.lycanitesmobs.remobra.habitat=這些龍可以在沼澤和黑暗森林中找到。
+entity.lycanitesmobs.remobra.combat=蛇龍通過噴射毒液進行遠程攻擊，如果它們吐出的毒液擊中受害者，就會造成瘟疫，如果它們吐出的毒液擊中地面，就會形成一團毒霧。
+# ========================================================================
+entity.lycanitesmobs.roa.name=龍捲鯊
+entity.lycanitesmobs.roa.description=統治海洋的兇猛鯊魚！把它們馴服成坐騎是勇敢或愚蠢的嘗試。
+entity.lycanitesmobs.roa.habitat=這些鯊魚可以在鹹水海洋中找到。
+entity.lycanitesmobs.roa.combat=龍捲鯊在它們周圍製造致命的漩渦，將獵物拉向它們致命的下顎！它們也能把陸地生物拉入水中，潛入水中有助於阻止它們把你拉離懸崖邊緣。
+# ========================================================================
+entity.lycanitesmobs.roc.name=大鵬
+entity.lycanitesmobs.roc.description=大鵬在夜空中飛翔，尋找獵物。
+entity.lycanitesmobs.roc.habitat=這些鳥通常飛越草原和熱帶草原。
+entity.lycanitesmobs.roc.combat=大鵬長有奇怪的尾巴，充當巨大的爪子，它們用這些來來抓住受害者。然而，大鵬只在夜間或黑暗中有敵意。
+# ========================================================================
+entity.lycanitesmobs.salamander.name=蠑螈
+entity.lycanitesmobs.salamander.description=適應了難以置信的溫度的致命兩棲動物。馴服的蠑螈可以成為巨大的坐騎，甚至可以保護它們的騎手不受火的傷害！
+entity.lycanitesmobs.salamander.habitat=這些生物生活在熔岩湖中。
+entity.lycanitesmobs.salamander.combat=蠑螈使用烈火撕咬，導致燃燒。
+# ========================================================================
+entity.lycanitesmobs.serpix.name=瑟皮克斯
+entity.lycanitesmobs.serpix.description=臭名昭著的冰蟲在冰凍的土地上挖洞。
+entity.lycanitesmobs.serpix.habitat=這些蠕蟲可以在大型的膠狀冰池和冰原等寒冷地區找到。
+entity.lycanitesmobs.serpix.combat=瑟皮克斯通過咆哮產生一場致命的暴風雪，在地面上投下霜火，造成傷害和減速。
+# ========================================================================
+entity.lycanitesmobs.shade.name=陰暗
+entity.lycanitesmobs.shade.description=巨大的陳舊的蛇形畸變是由陰影本身產生的。有四個強大的蛇騎士騎這些野獸進入戰鬥的傳說：D'sparil、Korax、Eidelon 和 Lycanite。
+entity.lycanitesmobs.shade.habitat=這些畸變可以在最黑暗的地下深處發現。
+entity.lycanitesmobs.shade.combat=陰暗在攻擊時會消耗一點生命，它們會發出可怕的嚎叫，讓所有反對它們的人都在恐懼中奔跑！
+# ========================================================================
+entity.lycanitesmobs.shambler.name=蹣跚者
+entity.lycanitesmobs.shambler.description=過度生長的灌木生物。可以被馴服，是一個很好的方式來活躍你的花園！
+entity.lycanitesmobs.shambler.habitat=蹣跚者在密林和叢林中生成。
+entity.lycanitesmobs.shambler.combat=蹣跚者從水中再生，可以造成麻痺，它們很危險，但速度很慢。
+# ========================================================================
+entity.lycanitesmobs.silex.name=青金石魚
+entity.lycanitesmobs.silex.description=美麗的魚，鱗片上鑲嵌著青金石。眾所周知，青金石魚會吃掉彼此鱗片上的青金石以及岩石形成的天然岩層。
+entity.lycanitesmobs.silex.habitat=這些魚經常在淡水湖泊和河流中發現。
+entity.lycanitesmobs.silex.combat=青金石魚是和平的生物。
+# ========================================================================
+entity.lycanitesmobs.skylus.name=盾鬥魚
+entity.lycanitesmobs.skylus.description=一種類似魷魚一樣的生物，有著堅硬的外殼。如果傷害足夠，就可以破壞它們的殼。
+entity.lycanitesmobs.skylus.habitat=這些生物可以在海水中找到。
+entity.lycanitesmobs.skylus.combat=盾鬥魚抓住獵物並把它們拖到水下深處，它們會用帶有失明效果的墨汁攻擊。當它們的外殼被摧毀時，它們會變得更快，但也更容易受到傷害。
+# ========================================================================
+entity.lycanitesmobs.spectre.name=通靈
+entity.lycanitesmobs.spectre.description=神秘的虛空元素，它們試圖將現實本身分解為虛無。宙斯盾和阿格斯元素可以融合在一起形成一個強大的幽靈。
+entity.lycanitesmobs.spectre.habitat=作為虛空元素，通靈顯現在靠近虛空的地下深處和末地的天空中。
+entity.lycanitesmobs.spectre.combat=通靈會試圖吸食獵物並近距離攻擊。
+# ========================================================================
+entity.lycanitesmobs.spriggan.name=保衛者
+entity.lycanitesmobs.spriggan.description=神秘的植物元素，保衛者保護自然免受威脅。水元素和地魔元素可以融合，創造出強大的枝條。
+entity.lycanitesmobs.spriggan.habitat=作為植物元素，保衛者可以偶爾在森林中游盪，並迅速出現在植物生命的防禦中，因此在收穫植物時要小心。
+entity.lycanitesmobs.spriggan.combat=保衛者發射有毒的強大激光並消耗生命來治療保衛者。
+# ========================================================================
+entity.lycanitesmobs.strider.name=斯特賴德
+entity.lycanitesmobs.strider.description=這些巨大的兩棲動物有點像蝦，它們害怕它們可怕的觸鬚爪，從中捕捉和消費它們的受害者。
+entity.lycanitesmobs.strider.habitat=這些生物通常在大型湖泊或河流中發現。
+entity.lycanitesmobs.strider.combat=斯特賴德會把它們的受害者帶走，慢慢地將它們的生命抽取出來，它們在水中或下雨時也很快。
+# ========================================================================
+entity.lycanitesmobs.sutiramu.name=毒蠍
+entity.lycanitesmobs.sutiramu.description=好鬥的大蝎子。
+entity.lycanitesmobs.sutiramu.habitat=這些生物可以在沙漠和平頂山中找到。
+entity.lycanitesmobs.sutiramu.combat=毒蠍用毒液攻擊，導致飢餓。
+# ========================================================================
+entity.lycanitesmobs.sylph.name=西爾芙
+entity.lycanitesmobs.sylph.description=神聖的以太元素，詛咒那些侵入聖地的人。幻靈和宙斯盾可以融合，創造出強大的西爾芙。
+entity.lycanitesmobs.sylph.habitat=作為以太元素，西爾芙在金字塔或寺廟等崇拜區域顯現。
+entity.lycanitesmobs.sylph.combat=西爾芙將釋放一個巨大的以太魔法波，打擊那些在陽光下燃燒的目標！
+# ========================================================================
+entity.lycanitesmobs.tarantula.name=狼蛛
+entity.lycanitesmobs.tarantula.description=一種會在途徑暫時留下綠色織網物的劇毒跳珠。
+entity.lycanitesmobs.tarantula.habitat=狼蛛可以在叢林和沼澤中找到。
+entity.lycanitesmobs.tarantula.combat=這些蜘蛛經常會毒咬和跳躍，注意它們粘乎乎的綠色織網物很重要。
+# ========================================================================
+entity.lycanitesmobs.thresher.name=蛇頸龍
+entity.lycanitesmobs.thresher.description=巨大而雄偉的水生物，有著巨大的胃口和強有力的鰭，能夠製造巨大的漩渦來吸引獵物！非常危險！
+entity.lycanitesmobs.thresher.habitat==這些水生生物既可在淡水湖、大型河流中找到，也可在鹹水海洋中找到。
+entity.lycanitesmobs.thresher.combat=蛇頸龍製造大型漩渦，從周圍拉入獵物，在陸地上甚至不安全，因為它們也會把獵物拉向空中。
+# ========================================================================
+entity.lycanitesmobs.treant.name=高樹人
+entity.lycanitesmobs.treant.description=巨型森林的守護者，比起樹人它們更加高大而強壯。
+entity.lycanitesmobs.treant.habitat=雖然很罕見，但在密林中也能發現高樹人。
+entity.lycanitesmobs.treant.combat=高樹人會造成麻痺，攻擊時消耗生命並從水中再生。斧和類似的工具對其非常有效。
+# ========================================================================
+entity.lycanitesmobs.tremor.name=地元素
+entity.lycanitesmobs.tremor.description=爆炸性震動元素，地元素具有難以置信的破壞性。地魔和阿格斯元素可以融合產生強烈的震動。
+entity.lycanitesmobs.tremor.habitat=作為震動元素，地元素表現為燃燒和響亮的聲音，因此偶爾表現為大爆炸。
+entity.lycanitesmobs.tremor.combat=地元素通過在周圍製造小爆炸進行攻擊，它們相當弱，但具有相當大的破壞性，應該迅速消滅。
+# ========================================================================
+entity.lycanitesmobs.triffid.name=巨型三裂植物
+entity.lycanitesmobs.triffid.description=大型食肉植物，緩慢但極其有毒和致命！
+entity.lycanitesmobs.triffid.habitat==這些植物生物經常潛伏在沼澤中，因為沼澤潮濕，不太冷，而且充滿獵物，它們無法吞食。
+entity.lycanitesmobs.triffid.combat=這些生物速度非常慢，但應該小心對付，因為它們的攻擊非常強大，並且傳播瘟疫。斧頭對它們是非常有效的，但要注意它們會在水中進行自我再生！
+# ========================================================================
+entity.lycanitesmobs.trite.name=蛆蟲
+entity.lycanitesmobs.trite.description=小而快的惡魔生物，看起來像一個有蜘蛛般腿的大腦。
+entity.lycanitesmobs.trite.habitat=蛆蟲在下界裡游盪，據說它們來自煉獄，是一個無盡肉體的地獄。
+entity.lycanitesmobs.trite.combat=蛆蟲非常弱小，但由於速度和體積小，很難被擊中，被它咬到的人會中凋零效果。
+# ========================================================================
+entity.lycanitesmobs.troll.name=巨怪
+entity.lycanitesmobs.troll.description=在陽光下，巨怪的皮膚像石頭一樣堅硬，在黑暗中，則是一個可怕的綠色肉體。巨怪是破壞性的。
+entity.lycanitesmobs.troll.habitat=這些狂獸通常生活在山上。
+entity.lycanitesmobs.troll.combat=巨怪使用強大的近戰攻擊，並將摧毀它們周圍的軟地形。在陽光下，它們變得像石頭一樣堅硬，防禦能力更強，但容易受到鎬的攻擊，在陽光下，它們會失去防禦能力，很容易受到攻擊。
+# ========================================================================
+entity.lycanitesmobs.uvaraptor.name=烏瓦食肉鳥
+entity.lycanitesmobs.uvaraptor.description=色彩斑斕的猛禽，有極強的跳躍和滑翔能力。可以馴服為有用的跳高坐騎，幾乎可以維持飛行。
+entity.lycanitesmobs.uvaraptor.habitat=這些猛禽通常出現在叢林中。
+entity.lycanitesmobs.uvaraptor.combat=烏瓦食肉鳥跳到空中攻擊獵物，使它們更難以受到攻擊，但也容易受到遠程攻擊。
+# ========================================================================
+entity.lycanitesmobs.vapula.name=瓦布拉
+entity.lycanitesmobs.vapula.description=強大的重力元素，體現了結構本身的本質。地魔和宙斯盾元素可以融合形成強大的瓦布拉。
+entity.lycanitesmobs.vapula.habitat=作為重力元素，瓦布拉從壓縮源和結構中顯現出來，它們通常被鑲嵌在寶石中，如鑽石。
+entity.lycanitesmobs.vapula.combat=瓦布拉從它們的背部快速發射一團鋒利的水晶彈，一旦子彈被發射，它們必須重新充能，使它們變得脆弱。鎬和類似工具非常有效。
+# ========================================================================
+entity.lycanitesmobs.ventoraptor.name=風猛禽
+entity.lycanitesmobs.ventoraptor.description=快速的猛禽以難以置信的速度滑翔，可以馴服為已知最快的坐騎之一。
+entity.lycanitesmobs.ventoraptor.habitat=這些猛禽喜歡在草原上狩獵。
+entity.lycanitesmobs.ventoraptor.combat=風猛禽速度非常快，會向獵物跳躍並攻擊。
+# ========================================================================
+entity.lycanitesmobs.vespid.name=胡蜂
+entity.lycanitesmobs.vespid.description=帶有毒刺的入侵性大黃蜂。單獨的胡蜂不是什麼問題，但要是有一群或者有女王蜂存在，它們可能是非常危險的。人們知道它們在女王附近築巢。
+entity.lycanitesmobs.vespid.habitat=這些昆蟲生活在熱帶地區，如叢林。
+entity.lycanitesmobs.vespid.combat=胡蜂快但很弱，它們的刺有毒。它們經常成群結隊，在蜂巢裡會有危險的數量。
+# ================================================= =======================
+entity.lycanitesmobs.vespidqueen.name=女王蜂
+entity.lycanitesmobs.vespidqueen.description=由標準胡蜂群保護的大型胡蜂。女王蜂將由附近的標準胡蜂為它們建造一個蜂巢。眾所周知，女王蜂會將卵注入棕毛獸，把它們變成受感染的移動巢穴，等待孵化！
+entity.lycanitesmobs.vespidqueen.habitat=這些昆蟲生活在熱帶地區，如叢林。
+entity.lycanitesmobs.vespidqueen.combat=女王蜂比常規的帶有更強大毒刺的胡蜂更堅硬。它們通常被常規的胡蜂包圍，這些胡蜂將優先保護它們的女王。
+# ========================================================================
+entity.lycanitesmobs.volcan.name=火巨人
+entity.lycanitesmobs.volcan.description=一種炙熱的熔岩元素，火巨人將融化它們所經過的一切！火元素和地魔元素可以融合，形成強大的火巨人。
+entity.lycanitesmobs.volcan.habitat=作為熔岩元素，火巨人在地下大量的熔岩周圍出現，非常罕見。
+entity.lycanitesmobs.volcan.combat=火巨人會將周圍的任何石頭熔化成熔岩，因此必須快速消滅。火巨人在近戰中攻擊並應用燃燒效果，但它們也有一個熾熱光環燃燒任何接近它們的東西。
+# ========================================================================
+entity.lycanitesmobs.warg.name=座狼
+entity.lycanitesmobs.warg.description=像狼一樣兇猛的大型野獸！眾所周知，它們成群結隊地狩獵。馴服後，它們會成為理想的坐騎！
+entity.lycanitesmobs.warg.habitat=這些野獸經常在森林裡游盪。
+entity.lycanitesmobs.warg.combat=座狼使用致命的跳躍，它會使任何靠近它們著陸位置的東西暫時麻痺。
+# ========================================================================
+entity.lycanitesmobs.wendigo.name=溫迪戈
+entity.lycanitesmobs.wendigo.description=以在它們身後留下一道霜火而聞名的大型冰雪野獸！
+entity.lycanitesmobs.wendigo.habitat=這些狂獸可以在寒冷地區找到，比如冰原以及一大片的膠狀冰池。
+entity.lycanitesmobs.wendigo.combat=溫迪戈速度很慢，但會投擲苔原爆炸，在撞擊時形成一灘膠狀冰。它們也會在它們行走的地方留下霜火，如果不加以控制，這就是眾所周知的雪元素顯現。
+# ========================================================================
+entity.lycanitesmobs.wildkin.name=梟獸
+entity.lycanitesmobs.wildkin.description=一種熊與貓頭鷹的結合，行動敏捷而迅猛。
+entity.lycanitesmobs.wildkin.habitat=已知這些野獸生活在高山和寒冷地區，如冰原。
+entity.lycanitesmobs.wildkin.combat=梟獸使用強大的襲擊，造成沉重效果。
+# ========================================================================
+entity.lycanitesmobs.wisp.name=妖精
+entity.lycanitesmobs.wisp.description=明亮的光元素，有時可以看到一束小樹枝在相互追逐，投擲致命的輻射球。雖然它們很友好，但激怒一隻妖精是不明智的。火元素和宙斯盾元素可以融合在一起形成強大的妖精。
+entity.lycanitesmobs.wisp.habitat=作為光元素，妖精在陽光直射下顯現。
+entity.lycanitesmobs.wisp.combat=妖精將向受害者投擲一個光輻射球，受到影響後，會使它們發光，向附近潛在的捕食者暴露。妖精也有一個光之光環，可以使它們附近的任何東西發光，但也可以提供夜視能力，它們也會燃燒附近的亡靈生物。
+# ========================================================================
+entity.lycanitesmobs.wraamon.name=雷阿蒙
+entity.lycanitesmobs.wraamon.description=充滿混沌能量的致命囓齒動物，通過背部的刺發出這種能量來攻擊獵物。很少有生物敢攻擊這些危險的囓齒動物。
+entity.lycanitesmobs.wraamon.habitat=這些囓齒動物生活在地下深處，據說它們通過微小的隨機混沌的傳送門，偶爾會出現在世界各地，它們傳送門所指向的地方是一個謎。
+entity.lycanitesmobs.wraamon.combat=雷阿蒙可以說是一個巨大的威脅，它們的撕咬會造成不穩定，一個強大的混沌詛咒會導致受苦者在這個地方隨意搖晃。它們相當弱小，但又小又快。
+# ========================================================================
+entity.lycanitesmobs.wraith.name=地獄遊魂
+entity.lycanitesmobs.wraith.description=邪惡的下界元素，是痛苦和苦難的象徵。幻靈和阿格斯元素可以融合，創造出一個強大的幽靈。
+entity.lycanitesmobs.wraith.habitat=作為下界元素，地獄遊魂顯現在集中的邪惡區域，如下界的天空。
+entity.lycanitesmobs.wraith.combat=地獄遊魂速度很快，會不顧一切地飛到它們的受害者身上，並在受到衝擊時攻擊，它們相當虛弱，但在被摧毀後會爆炸。
+# ========================================================================
+entity.lycanitesmobs.xaphan.name=薩凡
+entity.lycanitesmobs.xaphan.description=腐蝕性酸元素，體現分解和溶解的方面。火元素和水元素可以融合，創造出強大的薩凡。
+entity.lycanitesmobs.xaphan.habitat=作為酸性元素，薩凡從混合物中顯現，例如水遇到熔岩時。
+entity.lycanitesmobs.xaphan.combat=薩凡不斷地在其下方滴酸，攻擊時會在其周圍釋放一圈酸液。它們的酸性物質具有破壞性，會造成穿透力，增加任何進入的傷害。
+# ========================================================================
+entity.lycanitesmobs.yale.name=耶魯
+entity.lycanitesmobs.yale.description=奇怪的、毛絨絨的、像公羊一樣的野獸，然而在羊毛的外衣下，卻不是它們看起來的樣子。耶魯提供羊毛，羊毛可以用剪刀獲得，也可以用蔬菜繁殖。它們的角實際上是奇怪的四肢，它們有著細小的鉤狀手臂，用來在草地上篩。
+entity.lycanitesmobs.yale.habitat=這些野獸可以在山上漫步。
+entity.lycanitesmobs.yale.combat=耶魯通常是被動的。
+# ========================================================================
+entity.lycanitesmobs.yeti.name=雪怪
+entity.lycanitesmobs.yeti.description=一種大型哺乳動物，喜好是吃冰雪覆蓋下的植被。它們可以用蔬菜繁殖，但要注意它們的霜雲。雪怪奶是一種美味的佳餚！
+entity.lycanitesmobs.yeti.habitat=這些動物經常在寒冷和下雪的地區漫步，如針葉林。
+entity.lycanitesmobs.yeti.combat=雪怪通常是被動的。
+# ========================================================================
+entity.lycanitesmobs.zephyr.name=微風之靈
+entity.lycanitesmobs.zephyr.description=兇猛的閃電元素，周圍有強大的電場。火元素和幻靈元素可以融合，創造出強大的微風之靈。
+entity.lycanitesmobs.zephyr.habitat=作為閃電元素，微風之靈從雷暴等電性天氣中顯現出來，它們也很少在常規暴雨中出現。
+entity.lycanitesmobs.zephyr.combat=微風之靈將電擊靠近它們的任何敵人並直接攻擊它們導致麻痺。
+# ========================================================================
+entity.lycanitesmobs.zoataur.name=半獸馬
+entity.lycanitesmobs.zoataur.description=有厚鱗的大型爬行動物。
+entity.lycanitesmobs.zoataur.habitat=可以在平原上找到這些野獸。
+entity.lycanitesmobs.zoataur.combat=半獸馬速度慢但打擊力大，有時它們也會彎曲成防禦姿勢，這時它們可以阻擋大部分傷害，但是它們能移動或攻擊。
+# ========================================================================
+creaturetype.spawn=生成
+creaturetype.beast.name=野獸
+creaturetype.avian.name=禽類
+creaturetype.arthropod.name=節肢動物
+creaturetype.plant.name=植物
+creaturetype.aquatic.name=水生生物
+creaturetype.aberration.name=畸變
+creaturetype.undead.name=亡靈生物
+creaturetype.brute.name=狂獸
+creaturetype.imp.name=小鬼
+creaturetype.demon.name=惡魔
+creaturetype.angel.name=天使
+creaturetype.elemental.name=元素生物
+creaturetype.dragon.name=龍
+creaturetype.worm.name=蟲
+# ========================================================================
+death.attack.ooze=%1$s被凍死於膠狀冰中！
+# ========================================================================
+# 現在，效果名稱也必須包含在基礎的 zh_TW.lang 中。
+# 負面效果
+effect.poison.description=隨著時間的推移會造成傷害，但不會致死。
+#
+effect.levitation.description=使目標慢慢地向上飄浮，當它結束時，它們將掉下來。
+#
+effect.glowing.description=使目標發光，任何附近的敵對生物都會被它們吸引，並且總是能看到它們在哪裡。
+#
+effect.wither.description=隨著時間的推移會造成傷害並可能導致死亡。
+#
+effect.weakness.description=減少目標造成的傷害。
+#
+effect.hunger.description=提升飢餓感。
+#
+effect.blindness.description=削弱視野，禁止疾跑。
+#
+effect.mining_fatigue=挖掘疲勞
+effect.mining_fatigue.description=減緩挖掘與攻擊速度。
+#
+effect.slowness=緩速
+effect.slowness.description=減緩行走速度。
+#
+effect.burning=燃燒
+effect.burning.description=隨著時間的推移會造成傷害，並可能導致死亡，但可以用水熄滅。有些生物攻擊時會燃燒。
+#
+effect.paralysis=麻痺
+effect.paralysis.description=大幅降低移動速度，防止跳躍。
+#
+effect.penetration=滲透
+effect.penetration.description=削弱防禦，提升受到的傷害。
+#
+effect.recklessness=魯莽
+effect.recklessness.description=大幅度削弱防禦，但也提升了造成的傷害。
+#
+effect.rage=憤怒
+effect.rage.description=使目標失去理智，攻擊附近的任何東西。
+#
+effect.weight=沉重
+effect.weight.description=產生恆定的向下拉力，提升下落速度，防止跳躍或游泳/向上飛行。
+#
+effect.fear=恐懼
+effect.fear.description=使目標失去理智，無法控制地四處亂跑。
+#
+effect.decay=腐朽
+effect.decay.description=減少所有受到的治療效果。
+#
+effect.insomnia=失眠
+effect.insomnia.description=防止睡覺。
+#
+effect.instability=不穩定
+effect.instability.description=隨機向四面八方推擠目標。
+#
+effect.lifeleak=生命洩漏
+effect.lifeleak.description=使目標造成的傷害恢復。
+#
+effect.bleed=流血
+effect.bleed.description=如果目標移動，會隨著時間迅速造成傷害。
+#
+effect.plague=瘟疫
+effect.plague.description=立即毒害目標，然後將瘟疫降低一級或毒害到附近的生物。
+#
+effect.aphagia=厭惡
+effect.aphagia.description=防止進食和使用各種物品。
+#
+effect.smited=亡靈殺手
+effect.smited.description=使目標在陽光下燃燒。
+#
+effect.smouldering=陰燃
+effect.smouldering.description=不斷地對目標施以燃燒，停留在水中可以抑制但不能移除這個效果。
+#
+#
+# 正面效果
+effect.resistance.description=減少受到的傷害。
+#
+effect.saturation.description=減少飢餓感。
+#
+effect.regeneration.description=隨時間恢復生命。
+#
+effect.absorption.description=提供一個類似額外生命的護盾。
+#
+effect.invisibility.description=獲得隱形效果，減少敵人看到它們的程度。
+#
+effect.water_breathing=水下呼吸
+effect.water_breathing.description=允許在水下呼吸。
+#
+effect.jump_boost=跳躍提升
+effect.jump_boost.description=提升跳躍高度，但不能防止摔落傷害。
+#
+effect.speed=速度
+effect.speed.description=提升行走速度。
+#
+effect.strength=力量
+effect.strength.description=提升造成的傷害。
+#
+effect.haste=急迫
+effect.haste.description=提升挖掘與攻擊速度。
+#
+effect.fire_resistance=防火
+effect.fire_resistance.description=防止燃燒。
+#
+effect.night_vision=夜視
+effect.night_vision.description=提升黑暗處的能見度。
+#
+effect.leech=水蛭
+effect.leech.description=造成傷害時會消耗生命。
+#
+effect.swiftswimming=深海探索者
+effect.swiftswimming.description=提升游泳速度。
+#
+effect.fallresist=摔落保護
+effect.fallresist.description=防止摔落傷害。
+#
+effect.rejuvenation=沐浴回春
+effect.rejuvenation.description=提升所有受到的治療效果。
+#
+effect.immunization=免疫
+effect.immunization.description=消除並免疫中毒、飢餓、虛弱、反胃和麻痺。
+#
+effect.cleansed=淨化
+effect.cleansed.description=消除並免疫凋零、霉運、恐懼和失眠。
+#
+effect.heataura=熾熱光環
+effect.heataura.description=燃燒目標周圍的敵人。
+#
+effect.staticaura=靜態光環
+effect.staticaura.description=麻痺目標周圍的敵人。
+#
+effect.freezeaura=霜凍光環
+effect.freezeaura.description=減緩目標周圍的敵人。
+#
+effect.envenom=劇毒
+effect.envenom.description=為任何攻擊添加中毒效果。
+# ========================================================================
+element.fire.name=火
+element.fire.description=一種代表等離子體和原始能量的基本元素，它可以從酸、熔岩、閃電、光和陰影中提取。
+#
+element.water.name=水
+element.water.description=一種代表流體的基本元素，主要是水本身。水可以從復合元素中提取：酸、植物、凜冰、仙靈和劇毒。
+#
+element.earth.name=大地
+element.earth.description=一種代表固體形態的基本元素，從泥土到岩石、晶體甚至金屬或骨頭。它可以從復合元素中提取：熔岩、植物、相位、重力和震動。
+#
+element.air.name=空氣
+element.air.description=一種代表氣體的基本元素，但通常只因其控制氣流的能力而為人所知。它可以從閃電、凜冰、相位、以太和地獄等複合元素中提取。
+#
+element.order.name=秩序
+element.order.description=一種代表序列和平衡的基本元素，雖然這些都是非常假設的概念，但秩序在魔法宇宙中有著非常物理的存在，其基本形式是原始力。秩序可以從復合元素中提取：光、仙靈、重力、以太和虛空。
+#
+element.chaos.name=混沌
+element.chaos.description=一種代表熵、增長和破壞的基本元素。它可以從復合元素中提取：陰影、劇毒、震動、地獄和虛空。
+#
+element.acid.name=酸
+element.acid.description=一種代表腐蝕和物理消耗的複合元素，但可以擴展為廣泛的化學性質，而且儘管名稱為酸，它也涵蓋了基本物質。酸可以由基本元素火和水融合而成，因為它既體現了火的能量特性，又體現了水的流體物質特性。
+#
+element.lava.name=熔岩
+element.lava.description=一種代表具體熱量的複合元素，而火更多的是等離子體和能量，而熔岩則是能量儲存和熱量的影響。熔岩可以從基本元素火和大地融合，因為它體現了火的能量方面和大地的緻密質量方面。
+#
+element.lightning.name=閃電
+element.lightning.description=一種代表電流和能量的複合元素。閃電可以從基本元素火和風中融合，因為它體現了火的能量和等離子體方面以及風的流動和不接地方面。
+#
+element.light.name=光
+element.light.description=一種代表輻射的複合元素，使其成為一種非常危險的力，因為它的範圍從以該元素命名的可見光譜到可能造成嚴重損害的更致命的輻射範圍。光可以從基本元素火和秩序融合，因為它體現了火的能量方面和秩序的精緻。
+#
+element.shadow.name=陰影
+element.shadow.description=一種代表將黑暗為阻止輻射或能量產生的力量的複合元素。陰影可以從火和混沌中融合，因為它體現了火的能量方面，然後被混沌顛倒成一種對抗能量創造的力量，將其消除。
+#
+element.arbour.name=植物
+element.arbour.description=一種代表生長和自然的複合元素，它緊緊圍繞著大量利用這種元素的植物。植物可以從水和大地融合，因為它體現了水的流動形式和大地的固體存在。
+#
+element.frost.name=凜冰
+element.frost.description=一種代表寒冷的複合元素，它能有效地排斥任何形式的熱。凜冰可以從水和風中融合，因為它體現了水的流體冷卻性質和風的冷卻流動。
+#
+element.fae.name=仙靈
+element.fae.description=一種代表生命和適應的複合元素。仙靈可以從水和秩序中融合，因為它體現了水的流動性和秩序的結構。
+#
+element.poison.name=劇毒
+element.poison.description=一種代表化學物質的複合元素，通常是有毒或毒液以及麻醉劑和藥物，但也可以有許多其他形式，如油。劇毒可以從水和混沌中融合出來，在混沌中，水體現出一種可以被改變的流動形式，這種形式被混沌操縱成各種奇怪的化學物質。
+#
+element.phase.name=相位
+element.phase.description=一種代表移相或精神實相的複合元素，一個分層在物質世界之上的空間，它是精神的構成和使用。相位可以從基礎元素大地和風中融合，因為它體現了大地的固體形態和風的流動性非固體性。
+#
+element.gravity.name=重力
+element.gravity.description=一種代表萬有引力、磁性、鍵合、壓縮和人造結構的複合元素。重力可以從大地和秩序中融合，在那裡它體現了大地的固體物理存在以及秩序的結構和規律。
+#
+element.quake.name=震動
+element.quake.description=一種代表震動、聲音、燃燒和破壞的複合元素。地震可以從大地和混沌中融合，在那里大地呈現出固體形態，然後被混沌分裂。
+#
+element.aether.name=以太
+element.aether.description=一種代表純潔、神性、信仰和崇拜的複合元素。以太可以從風和秩序中融合，因為它用秩序的結構和規律來體現風的流動。
+#
+element.nether.name=地獄
+element.nether.description=一種代表腐敗、惡魔、慾望和反叛的複合元素。地獄可以從風和混沌中融合，在那里風體現流動，混沌將其扭曲成腐敗。
+#
+element.void.name=虛空
+element.void.description=一種代表虛無和刪除的複合元素。秩序體現了結構和一致性，秩序體現了熵和隨機性，混沌抵消了秩序和混沌的融合。
+f:\projects\lycanites mobs 1.12.2\src\main\resources\assets\lycanitesmobs\lang\en_us\extract.txt
+# ========================================================================
+[Error] - File could not be written...
+# ========================================================================
+item.whirlwindcharge.name=旋風球
+item.whirlwindcharge.description=用於發射旋風球，也可從發射器發射。
+#
+item.demoniclightningcharge.name=惡魔電光球
+item.demoniclightningcharge.description=用於發射惡魔電光，也可從發射器發射。
+#
+item.magmacharge.name=熔岩球
+item.magmacharge.description=用於投擲熔岩球，也可從發射器發射。
+#
+item.frostboltcharge.name=凜冰球
+item.frostboltcharge.description=用於發射一束冰，也可從發射器發射。
+#
+item.spectralboltcharge.name=波狀閃電球
+item.spectralboltcharge.description=用於發射波狀閃電，也可用發射器發射。
+#
+item.throwingscythe.name=投擲鐮刀
+item.throwingscythe.description=彎曲的金屬刀片，可直接投擲或者使用發射器發射。
+#
+item.boulderblastcharge.name=爆石球
+item.boulderblastcharge.description=用於投擲石頭，也可用發射器發射。
+#
+item.acidsplashcharge.name=濃酸球
+item.acidsplashcharge.description=用於發射濃酸，也可從發射器發射。
+#
+item.faeboltcharge.name=仙域球
+item.faeboltcharge.description=用於發射一道螺旋，不會造成傷害但會使目標受到凋零效果，從而將凋零效果裝換為再生效果治愈玩家，也可從發射器發射。
+#
+item.embercharge.name=餘燼球
+item.embercharge.description=用於釋放火苗，也可從發射器發射。
+#
+item.venomshotscepter.name=毒蠍權杖
+item.venomshotscepter.description=低等傷害，速射，中等效果，釋放毒霧
+#
+item.poopcharge.name=翔球
+item.poopcharge.description=非常臭，請扔了它！它可以像骨粉一樣催熟作物。
+#
+item.lifedraincharge.name=嗜血球
+item.lifedraincharge.description=用於發射一束吸血射線，也可從發射器發射。
+#
+item.aquapulsecharge.name=脈沖水球
+item.aquapulsecharge.description=用於發射魔法水球，也可從發射器發射。
+#
+item.arcanelaserstormcharge.name=神秘激光風暴球
+item.arcanelaserstormcharge.description=釋放出伴隨著爆炸激光的魔法能量，也可用發射器發射。
+#
+item.lightball.name=熒光球
+item.lightball.description=用於發射光球，也可從發射器發射。
+#
+item.doomfirecharge.name=死焰球
+item.doomfirecharge.description=用於釋放死焰，也可從發射器發射。
+#
+item.aetherwavecharge.name=以太球
+item.aetherwavecharge.description=用於發射以太能量，也可從發射器發射。
+#
+item.mudshotcharge.name=泥漿球
+item.mudshotcharge.description=一種泥漿搓成的球體，可直接投擲或者使用發射器發射。造成虛弱效果。
+#
+item.hellfirecharge.name=地獄火球
+item.hellfirecharge.description=用於釋放地獄火，也可從發射器發射。
+#
+item.tundracharge.name=凍原球
+item.tundracharge.description=用於發射膠狀冰球，也可從發射器發射。
+#
+item.quill.name=翎羽
+item.quill.description=用於投擲鐮刀，也可用發射器發射。
+#
+item.crystalshard.name=水晶球
+item.crystalshard.description=用於投射水晶，也可從發射器發射。
+#
+item.scorchfirecharge.name=熾焰球
+item.scorchfirecharge.description=用於投擲熾焰火球，也可從發射器發射。
+#
+item.bloodleechcharge.name=吸血螞蟥球
+item.bloodleechcharge.description=用於投擲吸血螞蟥，也可用發射器發射。
+#
+item.frostwebcharge.name=霜網球
+item.frostwebcharge.description=用於發射霜網，也可從發射器發射。
+#
+item.chaosorbcharge.name=混沌球
+item.chaosorbcharge.description=用來釋放一團混沌，也可從發射器發射。
+#
+item.icefirecharge.name=冰火球
+item.icefirecharge.description=用於發射冰火球，也可從發射器發射。
+#
+item.blizzardcharge.name=暴雪球
+item.blizzardcharge.description=用於發射一種小型的冰火球，也可從發射器發射。
+#
+item.waterjetcharge.name=高壓水球
+item.waterjetcharge.description=用於從發射器中發射高壓水流（可以進行滅火）。
+#
+item.devilstarcharge.name=惡魔之心球
+item.devilstarcharge.description=用於發射一種小型的惡魔之心，也可從發射器發射。
+#
+# ========================================================================
+item.equipment.name=合成的裝備
+item.equipment.description=
+item.equipmentpart.description=這個物品可用於使用裝備鍛造台創造功能強大的裝備，也可將其製作為有用的資源。
+#
+item.woodenrod.name=木棒
+item.woodenhilt.name=木劍柄
+item.woodenpaxel.name=木斧鎬
+item.ironrod.name=鐵棒
+item.ironhilt.name=鐵劍柄
+item.ironpaxel.name=鐵斧鎬
+item.ironpikejoint.name=鐵矛頭
+item.ironaxehead.name=鐵斧頭
+item.bansheeeye.name=女妖之眼
+item.sylphwing.name=西爾芙之翼
+item.grueclaw.name=蠐螬之爪
+item.geonachspear.name=地魔之矛
+item.remobrawing.name=蛇龍之翼
+item.astarothclaw.name=阿斯塔羅特之爪
+item.zephyrblade.name=微風之靈之刃
+item.sutiramustinger.name=毒蠍毒刺
+item.wendigoantler.name=溫迪戈之角
+item.clinkscythe.name=劈楔鐮刀
+item.vespidstinger.name=胡蜂毒刺
+item.argustail.name=阿格斯之尾
+item.wargskull.name=座狼頭顱
+item.djinncloud.name=幻靈之雲
+item.ventoraptorskull.name=風猛禽頭顱
+item.darklingskull.name=嗜血蝨蟲頭顱
+item.entarm.name=樹人之臂
+item.wraithskull.name=地獄遊魂頭顱
+item.sprigganroot.name=保衛者之根
+item.xaphanspine.name=薩凡之脊柱
+item.cinderblade.name=火元素之刃
+item.geonachfist.name=地魔之拳
+item.spectretendril.name=通靈蔓須
+item.vapulacrystal.name=瓦布拉水晶
+item.reiverhorns.name=雪元素之角
+item.eechetikarm.name=毒元素之臂
+# ========================================================================
+item.arisaurmeatraw.name=生阿里蛇頸龍肉
+item.arisaurmeatraw.description=這真的是肉嗎？生吃非常好吃！
+#
+item.joustmeatcooked.name=熟騎鬥士肉
+item.joustmeatcooked.description=吃起來像辛辣脆皮雞！
+#
+item.ambercake.name=琥珀蛋糕
+item.ambercake.description=一種添加了糖的辛辣蛋糕，會給予食用者速度效果！
+#
+item.silexmeatraw.name=生青金魚肉
+item.silexmeatraw.description=摻雜著刺和骨頭！
+#
+item.devillasagna.name=惡魔麵條
+item.devillasagna.description=湧動著惡魔能量的可口摻雜著肉末的意大利面。
+#
+item.pinkymeatraw.name=生牛鬼肉
+item.pinkymeatraw.description=可以明顯感覺到令人生畏的惡魔能量脈衝貫穿著整塊肉排，必須用火烤一烤才行。
+#
+item.yalemeatraw.name=生耶魯肉
+item.yalemeatraw.description=味道有點像羊肉。生的時候非常難嚼，會造成挖掘疲勞。
+#
+item.cephignismeatcooked.name=烤岩漿魚肉
+item.cephignismeatcooked.description=非常火辣！
+#
+item.battleburrito.name=戰鬥捲餅
+item.battleburrito.description=一種混合了許多風味的捲餅，將給予食用者力量、抗性提示、傷害吸收、生命提升以及治療效果！
+#
+item.concapedemeatraw.name=生貝狀百足蟲肉
+item.concapedemeatraw.description=閉上你的眼睛告訴自己這是雞肉！
+#
+item.yalemeatcooked.name=熟耶魯肉
+item.yalemeatcooked.description=嘗起來像薄荷烤羊肉。
+#
+item.peakskebab.name=山峰羊肉串
+item.peakskebab.description=來自大自然最天然的塑造，給予食用者急迫效果。
+#
+item.lapisfishandchips.name=炸魚薯條
+item.lapisfishandchips.description=這些來自青金石魚的恩惠，會給予食用者水下快速潛行的效果。
+#
+item.pinkymeatcooked.name=熟牛鬼肉
+item.pinkymeatcooked.description=味道十分濃郁，有點類似醃牛肉。
+#
+item.bulwarkburger.name=堡壘漢堡
+item.bulwarkburger.description=賦予你同克萊一樣強大的抗性，給予食用者傷害吸收效果。
+#
+item.explorersrisotto.name=探險家燴飯
+item.explorersrisotto.description=一股暗流從其中湧出，將給予食用者速度提升、急迫、水下呼吸以及跳躍提升效果！
+#
+item.paleosalad.name=遠古沙拉
+item.paleosalad.description=你吃到過的最健康的食物，給予食用者治療效果。
+#
+item.bloodchili.name=鮮血辣椒湯
+item.bloodchili.description=這碗濃稠的辣椒湯將給予食用者力量以及治療效果。
+#
+item.ikameatraw.name=生伊卡肉
+item.ikameatraw.description=腥臭的海鮮！十分沉重。
+#
+item.seashellmaki.name=貝殼卷
+item.seashellmaki.description=深藍大海浸漬過的美味，給予食用者水下呼吸效果。
+#
+item.chupacabrameatcooked.name=熟卓帕卡布拉肉
+item.chupacabrameatcooked.description=雖然長得令人難以吞嚥，但煮熟之後卻散發出對食材的憧憬！
+#
+item.searingtaco.name=熾熱捲餅
+item.searingtaco.description=辣到使你產生對火焰的免疫效果！
+#
+item.mosspie.name=苔蘚餡餅
+item.mosspie.description=一個綠色、美味的餡餅！給予食用者生命恢復效果。
+#
+item.aspidmeatcooked.name=熟阿斯匹德肉
+item.aspidmeatcooked.description=撕一點放嘴裡，美味！有點像文火牛肉…
+#
+item.yetimeatcooked.name=熟雪怪肉
+item.yetimeatcooked.description=味道有些像豬肉。
+#
+item.chupacabrameatraw.name=生卓帕卡布拉肉
+item.chupacabrameatraw.description=滲出血的附著著鱗的肉，生吃它可能會出現幻覺！
+#
+item.makameatraw.name=生剋萊肉
+item.makameatraw.description=像豬肉而且很難嚼，生吃可能會引起虛弱。
+#
+item.aspidmeatraw.name=生阿斯匹徳肉
+item.aspidmeatraw.description=聞起來像加了孜然的老牛肉，看起來有毒。
+#
+item.silexmeatcooked.name=熟青金魚肉
+item.silexmeatcooked.description=十分提神！
+#
+item.yetimeatraw.name=生雪怪肉
+item.yetimeatraw.description=它摸起來給人的感覺十分冰冷…
+#
+item.concapedemeatcooked.name=熟貝狀百足蟲肉
+item.concapedemeatcooked.description=吃起來像雞肉，雖然它看起來不像！
+#
+item.arisaurmeatcooked.name=熟阿里蛇頸龍肉
+item.arisaurmeatcooked.description=大自然恩賜所鑄，給予食用者治療效果。
+#
+item.joustmeatraw.name=生騎鬥士肉
+item.joustmeatraw.description=看起來難以咬磨，但聞起來卻猶如豬肉，會使行動緩慢，最後烤熟它。
+#
+item.palesoup.name=蒼汁湯
+item.palesoup.description=乳白色的湯，賦予了飲用者抗性提升效果。
+#
+item.makameatcooked.name=熟克萊肉
+item.makameatcooked.description=吃起來有點像培根。
+#
+item.tropicalcurry.name=熱帶咖哩
+item.tropicalcurry.description=充滿了極具特色的異國風味！
+#
+item.ikameatcooked.name=熟伊卡肉
+item.ikameatcooked.description=乾脆的海鮮！熟透後輕盈很多。
+#
+# ========================================================================
+item.soulgazer.name=靈魂凝視者
+item.soulgazer.description=對著生物使用將其添加到生物圖鑑中。打開你的生物圖鑑的方法：點擊生存模式物品欄的圖標或者按生物圖鑑的快捷鍵（在控制設置裡修改）。
+#
+item.mobtoken.name=怪物標記
+item.mobtoken.description=一個裝飾用道具，用於展示怪物完整形象，等等。
+#
+#
+# ========== 消耗品 ==========
+item.immunizer.name=抗生素
+item.immunizer.description=飲用後將清除身上的中毒、飢餓、虛弱、反胃以及麻痺效果。
+#
+item.cleansingcrystal.name=聖潔水晶
+item.cleansingcrystal.description=由精神凝結而成的無暇水晶，將給予免疫凋零、運氣不佳、恐懼和失眠效果。
+#
+item.geistliver.name=感知的肝
+item.geistliver.description=這東西非常有嚼勁非常濃郁…可以擠出一團影火。
+#
+item.frostyfur.name=極寒毛皮
+item.frostyfur.description=冰若似霜，用於製造霜雲。
+#
+item.poisongland.name=毒腺
+item.poisongland.description=用於釋放毒霧。
+#
+item.bucketooze.name=膠狀冰桶
+item.bucketooze.description=膠狀冰是一種膠狀流體，流動十分緩慢，觸碰者會受到由冰冷帶來的傷害以及飢餓效果。
+#
+item.bucketpurelava.name=純粹的熔岩桶
+item.bucketpurelava.description=一種純淨的熔岩，它不會生成火海生物並且會像水一樣流動。
+#
+#
+# ========== Seasonal ==========
+item.halloweentreat.name=萬聖節的款待
+item.halloweentreat.description=搗蛋還是款待？ ！
+item.halloweentreat.good=這是款待！你真幸運！
+item.halloweentreat.bad=搗蛋！蹦哈哈哈哈！
+#
+item.wintergift.name=聖誕禮物
+item.wintergift.description=好東西，聖誕快樂！打開它！
+item.wintergift.good=你打開了禮物，這是驚喜！
+item.wintergift.bad=噢不！這是讓人痛苦的禮物！
+#
+item.wintergiftlarge.name=巨大的聖誕禮物
+item.wintergiftlarge.description=現在是12月25號！是時候打開你的大禮物了！別在乎這箱子發出的尖叫聲，也許是別處傳來的噪音…
+item.wintergiftlarge.bad=啊啊啊啊啊啊 哈啊啊 哈啊啊 哈啊啊 哈 哈 哈！蹦哈哈哈哈！聖誕快樂！
+#
+#
+# ========== Keys ==========
+item.soulkey.name=靈魂鑰匙
+item.soulkey.description=用來激活一個召喚祭壇去召喚稀有種生物或者觸發一個特殊事件。
+#
+item.soulkeydiamond.name=鑽石靈魂鑰匙
+item.soulkeydiamond.description=更好的靈魂鑰匙能召喚更強大的BOSS！
+#
+item.soulkeyemerald.name=綠寶石靈魂鑰匙
+item.soulkeyemerald.description=更好的靈魂鑰匙能召喚更強大的BOSS！
+#
+#
+# ========== Soulstones ==========
+item.soulstone.name=靈魂石
+item.soulstone.description=用來將馴服的寵物與你的精神連接允許你在任何地方召喚它或者解除它的綁定。綁定的坐騎或寵物都將在死後重生。
+#
+item.soulstoneinferno.name=火海靈魂石
+item.soulstoneinferno.description=一個灼熱的靈魂被禁錮於此！你可以打開看看裡面到底有什麼…
+#
+item.soulstonefreshwater.name=水之靈魂石
+item.soulstonefreshwater.description=這個靈魂石看起來就像一個水球，裡面卻蘊含著生命本質。釋放它，將創造屬於你的生命體！
+#
+item.soulstonedemonic.name=惡魔靈魂石
+item.soulstonedemonic.description=一個惡魔的靈魂被禁錮於此！你可以窺視其中的奧秘…或者用它製造惡魔立方體以召喚一些服侍你的惡魔們！
+#
+item.soulstoneshadow.name=陰影靈魂石
+item.soulstoneshadow.description=一個幽深的靈魂被禁錮於此！你可以打開看看裡面到底有什麼…
+#
+item.soulstonemountain.name=山脈靈魂石
+item.soulstonemountain.description=一個山脈的靈魂被禁錮於此！你可以打開看看裡面能施放出什麼！
+#
+#
+# ========== Spawns ==========
+item.forestspawn.name=生成
+item.swampspawn.name=生成
+item.arcticspawn.name=生成
+item.mountainspawn.name=生成
+item.elementalspawn.name=生成
+item.plainsspawn.name=生成
+item.saltwaterspawn.name=生成
+item.desertspawn.name=生成
+item.junglespawn.name=生成
+item.shadowspawn.name=生成
+item.infernospawn.name=生成
+item.demonspawn.name=生成
+item.freshwaterspawn.name=生成
+# ========================================================================
+item.aquapulsescepter.name=脈沖水權杖
+item.aquapulsescepter.description=低等傷害，蓄能，滲透效果，釋放水
+#
+item.scorchfirescepter.name=熾焰權杖
+item.scorchfirescepter.description=低等傷害，速射，著火，釋放熾焰
+#
+item.devilstarscepter.name=惡魔之心權杖
+item.devilstarscepter.description=低等傷害，高速射
+#
+item.whirlwindscepter.name=旋風權杖
+item.whirlwindscepter.description=中等傷害，蓄能，飄浮效果，釋放火苗
+#
+item.quillscepter.name=翎羽權杖
+item.quillscepter.description=低等傷害，速射
+#
+item.mudshotscepter.name=泥漿權杖
+item.mudshotscepter.description=中等傷害，速射，造成虛弱
+#
+item.venomshotscepter.name=毒蠍權杖
+item.venomshotscepter.description=低等傷害，速射，中等效果，釋放毒霧
+#
+item.blizzardscepter.name=暴雪權杖
+item.blizzardscepter.description=中等傷害，速射，釋放冰火
+#
+item.bloodleechscepter.name=吸血螞蟥權杖
+item.bloodleechscepter.description=低等傷害，速射，吸血
+#
+item.waterjetscepter.name=高壓水流權杖
+item.waterjetscepter.description=中等傷害，激光，穿透
+#
+item.doomfirescepter.name=死焰權杖
+item.doomfirescepter.description=中等傷害，速射，著火，釋放死焰
+#
+item.frostboltscepter.name=凜冰權杖
+item.frostboltscepter.description=中等傷害，速射，減緩移動
+#
+item.poopscepter.name=翔球權杖
+item.poopscepter.description=低等傷害，速射，緩慢和反胃效果，釋放翔雲
+#
+item.scythescepter.name=鐮刀權杖
+item.scythescepter.description=中等傷害，三倍間歇發射
+#
+item.tundrascepter.name=凍原權杖
+item.tundrascepter.description=高等傷害，蓄能，釋放膠狀冰
+#
+item.magmascepter.name=熔岩權杖
+item.magmascepter.description=高等傷害，蓄能，著火，釋放熔岩
+#
+item.hellfirescepter.name=地獄火權杖
+item.hellfirescepter.description=高等傷害，蓄能，著火，釋放地獄火
+#
+item.emberscepter.name=餘燼權杖
+item.emberscepter.description=中等傷害，著火，釋放火苗
+#
+item.icefirescepter.name=冰火權杖
+item.icefirescepter.description=低等傷害，速射，釋放冰火
+#
+item.poisonrayscepter.name=毒腺權杖
+item.poisonrayscepter.description=中等傷害，遠程射線，釋放毒霧
+#
+item.arcanelaserstormscepter.name=神秘激光風暴權杖
+item.arcanelaserstormscepter.description=高等傷害，蓄能，釋放激光
+#
+item.demoniclightningscepter.name=惡魔電光權杖
+item.demoniclightningscepter.description=高等傷害，蓄能，凋零效果，火花四濺
+#
+item.spectralboltscepter.name=波狀閃電權杖
+item.spectralboltscepter.description=中等傷害，速射，引發恐懼
+#
+item.lifedrainscepter.name=嗜血權杖
+item.lifedrainscepter.description=中等傷害，激光，生命汲取
+#
+item.frostwebscepter.name=霜網權杖
+item.frostwebscepter.description=低等傷害，速射，減緩移動，釋放霜網
+#
+item.boulderblastscepter.name=爆石權杖
+item.boulderblastscepter.description=高等傷害，蓄能，挖掘疲勞效果
+#
+# ========================================================================
+# ========== Summoning Staves ==========
+item.summoningstaff.name=召喚之杖
+item.summoningstaff.description=召喚聽命於你的寵物！創建傳送門後，隨著時間的推移傳送門將耗盡你的召喚力（在生存模式的飽食度條上方）。
+#
+item.stablesummoningstaff.name=穩定的召喚之杖
+item.stablesummoningstaff.description=召喚的野獸持續時間更長但消耗更多的精力。
+#
+item.bloodsummoningstaff.name=流血的召喚之杖
+item.bloodsummoningstaff.description=通過獻祭你的生命，只消耗一半的召喚力來召喚。
+#
+item.savagesummoningstaff.name=野蠻的召喚之杖
+item.savagesummoningstaff.description=召喚兩隻生物，每次消耗一半生命。
+#
+item.sturdysummoningstaff.name=堅挺的召喚之杖
+item.sturdysummoningstaff.description=召喚物持續時間更長但消耗更多的精力。
+#
+#
+# ========== Weapons ==========
+item.cinderfallsword.name=落灰之劍
+item.cinderfallsword.description=受到火元素浸染的劍，會給予目標著火效果並且會小概率召喚火元素眷屬。
+#
+item.azurecinderfallsword.name=湛藍·落灰之劍
+item.azurecinderfallsword.description=改良的落灰之劍可以召喚深藍火元素時間更長而且傷害更多。
+#
+item.verdantcinderfallsword.name=翠綠·落灰之劍
+item.verdantcinderfallsword.description=改良的落灰之劍可以召喚翠綠火元素機率更大而且傷害更多。
+#
+item.venomaxeblade.name=毒蠍斧刃
+item.venomaxeblade.description=受到蛇龍的靈魂浸染的斧刃，可以當做劍以及斧使用。會給予目標中毒效果並且會小概率召喚蛇龍眷屬，並使持有者獲得對中毒的免疫。
+#
+item.goldenvenomaxeblade.name=黃金·毒蠍斧刃
+item.goldenvenomaxeblade.description=改良的毒蠍斧刃可以召喚黃金蛇龍時間更長而且傷害更大。
+#
+item.verdantvenomaxeblade.name=翠綠·毒蠍斧刃
+item.verdantvenomaxeblade.description=改良的毒蠍斧刃可以召喚翠綠蛇龍機率更大而且傷害更大。
+# ========================================================================
+item.aberrationtreat.name=畸變的款待
+item.aberrationtreat.description=一個黑暗的雕像，作為對一個神秘生物的敬意，但你能贏得它嗎？
+#
+item.angeltreat.name=天使的款待
+item.angeltreat.description=目前還沒有添加天使生物。
+#
+item.aquatictreat.name=水生生物的款待
+item.aquatictreat.description=由嫩魚製成，可以用來馴服一些水生生物。
+#
+item.arthropodtreat.name=節肢動物的款待
+item.arthropodtreat.description=由新鮮水果製成，各種節肢動物都想狼吞虎咽。
+#
+item.aviantreat.name=禽類的款待
+item.aviantreat.description=由清淡肉類製成，你可以用它馴服一些鳥類。
+#
+item.beasttreat.name=野獸的款待
+item.beasttreat.description=由多汁的肉製成，你可以用這個馴服一些野獸。
+#
+item.brutetreat.name=大野獸的款待
+item.brutetreat.description=由肥肉製成，大野獸的思想很簡單，會不會有人受此影響？
+#
+item.demontreat.name=惡魔的款待
+item.demontreat.description=所有的惡魔似乎都喜歡在它們的肉食之間吃下地獄疣。
+#
+item.dragontreat.name=龍的款待
+item.dragontreat.description=寶藏裝飾著精美的珠寶，龍喜愛寶藏。
+#
+item.elementaltreat.name=元素生物的款待
+item.elementaltreat.description=只有創造模式，元素生物才能被召喚，但不能被馴服。
+#
+item.imptreat.name=小鬼的款待
+item.imptreat.description=小鬼是不守規矩的惡魔，但它們無法抗拒富人的誘惑。
+#
+item.planttreat.name=植物的款待
+item.planttreat.description=由新鮮蔬菜和甘蔗製成，一些植物生物可以用它來馴服。
+#
+item.undeadtreat.name=亡靈生物的款待
+item.undeadtreat.description=由最好的腐肉製成，但任何亡靈生物都能被它動搖嗎？
+#
+item.lycanitesmobs.wormtreat=蠕蟲的熱情好客
+item.lycanitesmobs.wormtreat.description=豐富的肉，蠕蟲歡它。
+# ========================================================================
+# %event% will be replaced with the name of the event, don't translate this!
+event.started=%event%正在發生！
+event.extended=%event%被延長！
+event.finished=%event%已經結束了！
+event.boss.started=%event%被召喚了！
+event.boss.extended=%event%正在降臨！
+event.boss.finished=%event%解除了！
+event.boss.phase=階段
+#
+# ========== Event Names ==========
+mobevent.arachnophobia.name=蜘蛛恐懼症
+mobevent.asmodeus.name=惡魔降臨
+mobevent.bamstorm.name=惡作劇風暴
+mobevent.blackplague.name=黑死病
+mobevent.bladeflurry.name=劍刃亂舞
+mobevent.boulderdash.name=原石沖擊
+mobevent.cinderfall.name=熔渣隕落
+mobevent.dragonsroar.name=龍之怒吼
+mobevent.eruption.name=火山爆發
+mobevent.halloween.name=萬聖節快樂
+mobevent.hellsfury.name=地獄之怒
+mobevent.marchofthegorgomites.name=魔鬼蟎的進軍
+mobevent.poopparty.name=“投翔”派對
+mobevent.primalfury.name=原始之怒
+mobevent.rahovart.name=拉赫凡特
+mobevent.raptorrampage.name=猛禽暴怒
+mobevent.reptileruckus.name=爬行生物騷動
+mobevent.roasting.name=烈火洗禮
+mobevent.rootriot.name=樹根暴動
+mobevent.rudolph.name=魯道夫血漬的低語
+mobevent.saltytree.name=諷刺的樹
+mobevent.satanclaws.name=魔王之爪
+mobevent.seastorm.name=海上暴風
+mobevent.shadowgames.name=暗影遊戲
+mobevent.sharknado.name=龍捲鯊
+mobevent.subzero.name=絕對零度
+mobevent.theswarm.name=殺人蜂群
+mobevent.tsunami.name=震風陵雨
+mobevent.windstorm.name=平原暴風
+mobevent.wingedvenom.name=翼毒蠍
+mobevent.wintersgrasp.name=凜冬將至
+# ========================================================================
+entity.lycanitesmobs.ember.name=灰燼
+entity.lycanitesmobs.venomshot.name=毒液彈

@@ -1,0 +1,6 @@
+{
+    "name": "物品",
+    "description": "我會從一些簡單的……物品開始嘗試。我只知道使用什麽來得到物品的幾種方法，但是如果你想要利用這些資源來獲取力量該怎麽辦……",
+    "icon": "endreborn:textures/gui/patchouli/categories/tools.png",
+    "sortnum": 25
+}

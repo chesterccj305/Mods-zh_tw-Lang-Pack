@@ -1,0 +1,40 @@
+{
+    "name": "植物學家工具",
+    "icon": "naturesaura:infused_iron_pickaxe",
+    "category": "items",
+    "advancement": "naturesaura:infused_materials",
+    "pages": [
+        {
+            "type": "text",
+            "text": "使用包含自然力量的$(l:using/altar)灌註鐵錠$()，你可以制造出屬性與用$(item)鐵$()制造相似的工具。但它們包含著你難以預料的特殊功能。$(br)接下來將會介紹如何制造這些工具與如何使用它們的特性。"
+        },
+        {
+            "type": "text",
+            "text": "首先，當攜帶$(l:naturesaura:items/aura_cache)靈氣緩存$()時，工具可以使用其中儲存的$(#419600)靈氣$()來實現特殊效果，顯著恢覆它們的耐久。你只需手持工具潛行，手中的工具將會恢覆耐久。"
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)植物學家之鎬$()，當與方塊交互時，會將其轉化為$(thing)青苔$()形態，前提是這個方塊有此形態。",
+            "recipe": "naturesaura:infused_pickaxe"
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)植物學家之斧$()在移除$(thing)樹葉$()上有很大優勢，比常規工具快很多。",
+            "recipe": "naturesaura:infused_axe"
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)植物學家之鍬$()可在交互時讓$(thing)草$()在泥土上, 同時可在草地上制造更大範圍的$(thing)草徑$()",
+            "recipe": "naturesaura:infused_shovel"
+        },
+        {
+            "type": "crafting",
+            "text": "$(item)植物學家之鋤$()在草地或泥土上被使用時，會幫助種植者獲得各類$(thing)種子$()。",
+            "recipe": "naturesaura:infused_hoe"
+        }, {
+            "type": "crafting",
+            "text": "$(item)植物學家之劍$()是對付怪物的極佳方式：它會向你擊中的生物附加數秒的$(thing)減速效果$()，使它們更容易被擊中。",
+            "recipe": "naturesaura:infused_sword"
+        }
+    ]
+}

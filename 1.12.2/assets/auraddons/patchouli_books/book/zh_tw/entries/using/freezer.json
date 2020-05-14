@@ -1,0 +1,19 @@
+{
+  "name": "冷凍器",
+  "icon": "auraddons:block_freezer",
+  "category": "naturesaura:using",
+  "advancement": "naturesaura:furnace_heater",
+  "pages": [
+    {
+      "type": "text",
+      "text": "雖然植物學家通常更喜歡溫暖的氣候，但氣溫寒冷的空間仍然有一些方面是有用的。比如水會結冰，允許收集$(item)冰$()和$(item)雪球$()。$(item)冷凍器$()使用$(aura)為溫暖的地方帶來寒冷，給周圍的方塊降溫。這會使水變成$(item)冰$()並在周圍地面留下$(item)雪$()。"
+    }, {
+      "type": "text",
+      "text": "$(item)冷凍器$()會在提供$(thing)紅石信號$()時更快地工作，使得生成的$(item)冰$()有足夠的硬度，能被更粗暴地采集。這會帶來更多的$(aura)消耗。"
+    },{
+      "type": "crafting",
+      "text": "合成$(item)冷凍器$()。",
+      "recipe": "auraddons:freezer"
+    }
+  ]
+}

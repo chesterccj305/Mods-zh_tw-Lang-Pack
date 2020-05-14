@@ -1,0 +1,7 @@
+{
+  "parent": "twilightforest:world",
+  "name": "次要地標",
+  "description": "小屋、水井、廢墟！",
+  "icon": "twilightforest:magic_map",
+  "sortnum": 1000
+}

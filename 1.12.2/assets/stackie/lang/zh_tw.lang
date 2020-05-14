@@ -1,0 +1,24 @@
+# gui - config
+stackie.general.stacklimit=堆疊限制
+stackie.general.interval=時間間隔
+stackie.general.distance=距離
+stackie.general.stackitems=堆疊物品
+stackie.general.stackexperience=堆疊經驗
+stackie.general.stacksizes=堆疊大小
+stackie.general.maximumstacksize=最大堆疊大小
+stackie.general.maximumexperience=最大經驗
+stackie.general.stacklimit.tooltip=如果實體超過一定數量，堆疊將被禁用（單個維度）。
+stackie.general.interval.tooltip=每次嘗試堆疊經過的刻度間隔（20個刻度 = > 1秒）。
+stackie.general.distance.tooltip=物品，經驗球可以堆疊的最大距離（和方塊材質有關）。
+stackie.general.stackitems.tooltip=是否堆疊物品？
+stackie.general.stackexperience.tooltip=是否堆疊經驗球？
+stackie.general.stacksizes.tooltip=特殊名稱堆疊數量映射表。這些參數會覆蓋默認的堆疊數量。
+stackie.general.maximumstacksize.tooltip=物品將會被堆疊至這個數量。
+stackie.general.maximumexperience.tooltip=經驗將會被堆疊至這個數量。
+commands.stackie.stacklimit=設置堆疊數量至：%d
+commands.stackie.interval=設置堆疊間隔至：%d (%.1f 秒)
+commands.stackie.distance=設置堆疊距離至：%.2f
+commands.stackie.stackitems=堆疊物品設置為：%s
+commands.stackie.stackexperience=堆疊經驗設置為：%s
+# commands
+commands.stackie.usage=/stackie <setinterval|setdistance|stackitems|stackexperience> <number|true|false>

@@ -1,0 +1,34 @@
+item.vulcanite:vulcanite.name=硬橡膠模組
+item.vulcanite:vulcanite_pickaxe.name=紅色消防鎬
+item.vulcanite:vulcanite_axe.name=紅色消防斧
+item.vulcanite:vulcanite_shovel.name=紅色消防鏟
+item.vulcanite:vulcanite_hoe.name=紅色消防鋤
+item.vulcanite:vulcanite_sword.name=紅色消防劍
+
+item.vulcanite:flint_and_vulcanite.name=紅色打火石
+
+item.vulcanite:vulcanite_helmet.name=防火頭盔
+item.vulcanite:vulcanite_chestplate.name=防火胸甲
+item.vulcanite:vulcanite_leggings.name=防火護腿
+item.vulcanite:vulcanite_boots.name=防火靴
+
+tile.vulcanite:vulcanite_block.name=硬橡膠
+tile.vulcanite:vulcanite_ore.name=硬橡膠礦石
+
+tooltip.general.shift_for_more=§7按住 SHIFT 以獲得更多資訊
+
+tooltip.weapon.base_info.more_damage=§6對火焰免疫生物的傷害提高
+tooltip.weapon.adv_info.more_damage=§6造成 §c%f%%§6 額外傷害
+
+tooltip.tool.base_info.more_efficient=§6在地獄時，該工具效率更高
+tooltip.tool.adv_info.more_efficient=§6在地獄中時，該工具開採方塊 §c%f%%§6 更快!
+
+tooltip.armor.base_info.damage_reduction=§6減少熱源造成的傷害
+tooltip.armor.adv_info.damage_reduction=§6完整護甲所減少的傷害: §c%f%%§6. 一件裝甲可以根據製作材料的數量來減少傷害。
+
+tooltip.flint_and_vulcanite.base_info.set_on_fire=§6按下右鍵以點燃怪物
+tooltip.flint_and_vulcanite.adv_info.set_on_fire=§6對怪物按右鍵以附加 §c%d§6 秒的火焰效果
+tooltip.flint_and_vulcanite.adv_info.damage_on_use=§6用在怪物身上時會造成的傷害 §c%d
+
+tooltip.vulcanite_block.base_info.set_on_fire=§6怪物站在上面時會燃燒
+tooltip.vulcanite_block.adv_info.set_on_fire=§6怪物站在上面時會燃燒 §c%d§6 秒

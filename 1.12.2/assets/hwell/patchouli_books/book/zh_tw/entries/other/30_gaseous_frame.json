@@ -1,0 +1,19 @@
+{
+    "name": "氣態框架",
+    "icon": "hwell:gaseous_frame",
+    "category": "other",
+    "sortnum": 30,
+    "pages": [
+    	{	
+            "type": "spotlight",
+            "title": "氣態框架",
+			"item": "hwell:gaseous_frame",
+			"text": "氣態框架在未被右鍵時是一個固體方塊, 但當它被右鍵時就會變成氣態,此時你可以隨意從他中間穿過. 當然它也可以連接附近的其他氣態框架, 並且也能使附近的氣體框架進行一鍵轉換. 當然你再次右鍵可以讓他恢覆為固體方塊."
+        },
+		{	
+            "type": "crafting",
+            "title": "Gaseous Frame",
+			"recipe": "hwell:gaseous_frame"
+        }
+    ]
+}

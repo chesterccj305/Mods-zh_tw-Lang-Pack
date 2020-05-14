@@ -1,0 +1,14 @@
+// Sections
+welcome=介紹
+materials=護甲材料
+armory=護甲
+modifiers=強化
+accessories=配件
+
+armor.title=護甲
+armor.properties=屬性：
+
+material.craft_partbuilder=在部件加工台製作
+material.craft_casting=可以用%s鑄造
+
+modifier.effect=效果：

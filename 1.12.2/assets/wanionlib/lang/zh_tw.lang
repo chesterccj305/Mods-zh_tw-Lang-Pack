@@ -1,0 +1,22 @@
+wanionlib.redstone.control=紅石控制
+wanionlib.redstone.control.state.ignored=忽略
+wanionlib.redstone.control.state.ignored.desc=它將忽略紅石信號
+wanionlib.redstone.control.state.off=關閉
+wanionlib.redstone.control.state.off.desc=它只有在沒有收到紅石信號時，才會運行
+wanionlib.redstone.control.state.on=開啟
+wanionlib.redstone.control.state.on.desc=它只有在接收紅石信號時，才會運行
+# // Matching
+wanionlib.matching.control=匹配控制
+wanionlib.matching.desc=右鍵切換模式
+wanionlib.matching.matcher.item_stack=物品棧
+wanionlib.matching.matcher.any_damage=任意損害值
+wanionlib.matching.matcher.nbt=NBT
+wanionlib.matching.matcher.ore_dict=礦物詞典：
+# // Misc
+wanionlib.how-to-use=如何使用：
+wanionlib.problem.singular=問題
+wanionlib.problem.plural=問題
+wanionlib.found.singular=發現
+wanionlib.found.plural=發現
+wanionlib.success=成功！
+wanionlib.failure=失敗

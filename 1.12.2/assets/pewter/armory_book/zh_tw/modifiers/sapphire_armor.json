@@ -1,0 +1,18 @@
+﻿{
+    "armormodifier": "sapphire_armor",
+    "demoArmor": [
+        "conarm:helmet",
+        "conarm:chestplate",
+        "conarm:leggings",
+        "conarm:boots"
+    ],
+    "effects": [
+        "大大提升了裝甲的耐久和防禦能力",
+        "藍！"
+    ],
+    "text": [
+        {
+            "text": "這種寶石大多是深藍色外觀。因為它的硬度，藍寶石也被用於某些電子產品或其他有利可圖的地方。\n"
+        }
+    ]
+}

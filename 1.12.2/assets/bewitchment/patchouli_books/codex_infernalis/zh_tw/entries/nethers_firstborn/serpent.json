@@ -1,0 +1,16 @@
+{
+  "name": "巨蛇",
+  "category": "nethers_firstborn",
+  "icon": "bewitchment:adders_fork",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "巨蛇是與蛇相似的較小的惡魔。盡管與其他惡魔相比，它們的地位較低，但眾所周知，它們的咬傷令人作嘔，充滿仇恨，會吞噬被咬者的生命。一些瘋子已經能夠從這些惡毒的野獸身上提取一種骯臟的液體，這種液體充滿了痛苦和仇恨。"
+	},
+	{
+	  "type": "entity",
+	  "entity": "bewitchment:serpent",
+	  "scale": 0.275
+	}
+  ]
+}

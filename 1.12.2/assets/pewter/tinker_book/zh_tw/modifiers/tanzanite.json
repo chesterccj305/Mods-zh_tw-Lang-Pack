@@ -1,0 +1,18 @@
+﻿{
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:broadsword",
+        "tconstruct:arrow"
+    ],
+    "effects": [
+        "大大提高了工具挖掘速度",
+        "適度提升工具耐久",
+        "以坦桑尼亞命名"
+    ],
+    "modifier": "tanzanite",
+    "text": [
+        {
+            "text": "這種有點硬的寶石非常罕見，深紫色調。它大大提高了採掘速度並被認為具有許多特殊屬性。\n"
+        }
+    ]
+}

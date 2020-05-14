@@ -1,0 +1,5 @@
+tile.extrarails:locking_rail.name=鎖定鐵軌
+tile.extrarails:direction_rail.name=定向鐵軌
+tile.extrarails:teleporting_rail.name=傳送鐵軌
+tile.extrarails:comparator_rail.name=比較鐵軌
+tile.extrarails:wooden_rail.name=木軌

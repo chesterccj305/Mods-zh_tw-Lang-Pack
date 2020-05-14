@@ -1,0 +1,17 @@
+{
+    "name": "靈氣存儲",
+    "icon": "naturesaura:aura_cache",
+    "category": "effects",
+    "advancement": "naturesaura:positive_imbalance",
+    "pages": [
+        {
+            "type": "text",
+            "text": "如果環境中出現足夠多的$(#419600)靈氣$()，多到$(l:items/eye)環境之眼$()的指示條被充滿到超過常規值的一半，$(item)靈氣存儲$()現象會開始發生：在飽和區域的玩家如果身上帶著$(l:items/aura_cache)靈氣緩存$()，緩存會被慢慢地$(thing)充滿$()，並從過飽和區域中吸取$(#419600)靈氣$()。"
+        },
+        {
+            "type": "naturesaura:tree_ritual",
+            "recipe": "naturesaura:cache_powder",
+            "text": "該效應可以被$(l:effects/effect_powder)無儲之粉$()抑制。"
+        }
+    ]
+}

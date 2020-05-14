@@ -1,0 +1,18 @@
+{
+    "name": "末地精華",
+    "icon": "endreborn:item_end_essence",
+    "category": "world",
+	"advancement": "endreborn:endreborn/mine_essence",
+    "priority": true,
+    "pages": [
+        {
+            "type": "text",
+            "text": "我最近註意到一個發著光的奇怪黑曜石方塊，看起來這個黑曜石不單單是非常堅硬這麽簡單……我需要帶走一些這樣的材料。雖然這材料不是必要的，但是它在我的世界裏卻相當稀少。"
+        },
+	{
+            "type": "spotlight",
+            "item": "endreborn:block_essence_ore",
+            "link_recipe": true
+        }
+    ]
+}

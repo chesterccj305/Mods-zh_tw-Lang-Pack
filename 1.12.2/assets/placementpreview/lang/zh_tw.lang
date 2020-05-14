@@ -1,0 +1,7 @@
+category.placementpreview=放置預覽
+language.code=zh_tw
+language.name=繁體中文
+language.region=CN
+placementpreview.key.toggle.enabled=啟用切換
+placementpreview.key.toggle.ghost=切換隱形方塊
+placementpreview.key.toggle.wire=切換線框

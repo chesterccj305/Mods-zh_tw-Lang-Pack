@@ -1,0 +1,8 @@
+tile.sky_orchards.ore_log.name=%s原木
+tile.sky_orchards.ore_leaves.name=%s樹葉
+tile.sky_orchards.ore_sapling.name=%s樹苗
+item.sky_orchards.ore_acorn.name=%s橡果
+item.sky_orchards.ore_acorn_roasted.name=烤過的%s橡果
+item.sky_orchards.ore_resin.name=%s樹脂
+tile.sky_orchards.ore_amber.name=%s琥珀
+itemGroup.sky_orchards=天空果園

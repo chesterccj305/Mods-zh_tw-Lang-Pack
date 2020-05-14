@@ -1,0 +1,14 @@
+entity.nether_creeper.name=地獄苦力怕
+entity.nether_spider.name=地獄蜘蛛
+entity.nether_zombie.name=地獄僵屍
+entity.netheroverload.NetherCreeper.name=地獄苦力怕
+entity.netheroverload.NetherSpider.name=地獄蜘蛛
+entity.netheroverload.NetherZombie.name=地獄僵屍
+item.glowstone_berry.name=熒石漿果
+item.glowstone_seed.name=熒石種子
+item.tab_icon.name=增強地獄
+netheroverload.config.title=增強地獄配置
+tile.dark_nether_brick.name=暗黑地獄磚
+tile.netherbrick.name=牢不可破
+tile.quick_soul_sand.name=靈魂沙
+itemGroup.netheroverload=增強地獄
