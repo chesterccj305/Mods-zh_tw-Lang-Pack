@@ -1,0 +1,12 @@
+﻿{
+  "image": {
+    "file": "conarm:textures/gui/book/armorgui.png",
+    "width": 154,
+    "height": 70
+  },
+  "text": [
+    {
+      "text": "無論是組裝台還是裝配台它們都具有內置預覽功能，以便使玩家能更加清晰查看盔甲穿戴在身上的樣子。"
+    }
+  ]
+}
