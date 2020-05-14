@@ -1,0 +1,26 @@
+{
+  "armormodifier": "blast_resistant_armor",
+  "text": [
+    {
+      "text": "用一塊堅硬的磚塊包囊你的護甲一定能讓你獲得更好的抗爆效果。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "這樣便省去了水泥的消耗。"
+    }
+  ],
+  "effects": [
+    "提供爆炸保護",
+    "只需要一個強化槽",
+    "與其他保護衝突",
+    "多個等級"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}

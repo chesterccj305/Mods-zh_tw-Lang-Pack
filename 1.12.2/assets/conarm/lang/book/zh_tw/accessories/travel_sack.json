@@ -1,0 +1,16 @@
+﻿{
+  "armormodifier": "travel_sack_armor",
+  "text": [
+    {
+      "text": "沒有背包出門探險是不完整的，或者它正好能填補這點空缺！"
+    }
+  ],
+  "effects": [
+    "提供27格存儲空間",
+    "通過快捷鍵使用",
+    "每件護甲只能裝配一個部件"
+  ],
+  "demoArmor": [
+    "conarm:chestplate"
+  ]
+}

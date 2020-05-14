@@ -1,0 +1,25 @@
+﻿{
+  "armormodifier": "shulkerweight_armor",
+  "text": [
+    {
+      "text": "在護甲上塗抹一些爆裂紫頌果應該會顯著增強跳躍能力。"
+    },
+    {
+      "text": "\n"
+    },
+    {
+      "text": "請小心著陸！"
+    }
+  ],
+  "effects": [
+    "不同部位護甲跳躍屬性可疊加",
+    "不能防止摔落傷害",
+    "單個等級"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}

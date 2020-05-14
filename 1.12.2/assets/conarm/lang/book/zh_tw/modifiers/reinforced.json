@@ -1,0 +1,19 @@
+﻿{
+  "armormodifier": "reinforced_armor",
+  "text": [
+    {
+      "text": "在護甲上加裝一個耐久強化大板有助於提高耐久，使其更加堅固耐用。"
+    }
+  ],
+  "effects": [
+    "增加不消耗耐久的概率",
+    "強化等級可以堆疊",
+    "多個等級"
+  ],
+  "demoArmor": [
+    "conarm:helmet",
+    "conarm:chestplate",
+    "conarm:leggings",
+    "conarm:boots"
+  ]
+}

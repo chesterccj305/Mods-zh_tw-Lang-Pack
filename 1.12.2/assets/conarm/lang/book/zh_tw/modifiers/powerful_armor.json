@@ -1,0 +1,17 @@
+﻿{
+  "armormodifier": "powerful_armor",
+  "text": [
+    {
+      "text": "佩戴力量護手的胸甲將顯著提高攻擊傷害。"
+    }
+  ],
+  "effects": [
+    "提高攻擊傷害",
+    "僅適用於胸甲",
+    "與其他護手強化衝突",
+    "只能强化一次"
+  ],
+  "demoArmor": [
+    "conarm:chestplate"
+  ]
+}
