@@ -1,6 +1,0 @@
-#Entity
-entity.strawgolem.name=稻草傀儡
-
-#Config
-strawgolem.general.replantenabled=自動播種
-strawgolem.general.lifespan=壽命

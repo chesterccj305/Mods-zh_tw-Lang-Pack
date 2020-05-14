@@ -1,7 +1,0 @@
-{
-  "parent": "twilightforest:entities",
-  "name": "魔王們",
-  "description": "都是超級壞的傢伙!",
-  "icon": "twilightforest:boss_spawner",
-  "sortnum": 0
-}

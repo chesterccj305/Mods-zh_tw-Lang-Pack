@@ -1,8 +1,0 @@
-tile.disenchanter:disenchantmenttable.name=祛魔台
-container.disenchant=祛魔台
-msg.automatic.txt=自動化祛魔
-msg.bulk.txt=一次性祛魔
-msg.voiding.txt=清空
-msg.outdated.txt=你的祛魔台模組版本過舊。點擊此處訪問官方網址！
-msg.currentversion.txt=當前版本：
-msg.latestversion.txt=最新版本：

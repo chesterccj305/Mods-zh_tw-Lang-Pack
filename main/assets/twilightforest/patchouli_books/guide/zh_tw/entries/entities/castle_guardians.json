@@ -1,8 +1,0 @@
-{
-  "name": "城堡守衛",
-  "icon": "minecraft:spawn_egg",
-  "category": "entities",
-  "advancement": "twilightforest:alt/major_landmarks/final_castle",
-  "sortnum": 9010,
-  "pages": []
-}

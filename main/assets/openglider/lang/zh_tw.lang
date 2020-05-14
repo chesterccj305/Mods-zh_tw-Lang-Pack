@@ -1,8 +1,0 @@
-item.openglider:hang_glider_advanced.name=高級滑翔翼
-item.openglider:hang_glider_basic.name=懸掛式滑翔翼
-item.openglider:hang_glider_part.scaffolding.name=支架
-item.openglider:hang_glider_part.wing_left.name=機翼（左）
-item.openglider:hang_glider_part.wing_right.name=機翼（右）
-itemGroup.openglider=滑翔翼
-openglider.elytra.error=你不能在裝備鞘翅的情況下使用滑翔翼！
-openglider.tooltip.upgrade=升級

@@ -1,8 +1,0 @@
-config.vimmersion.blocks=方塊
-config.vimmersion.blocks.enchantmentTable=附魔台
-config.vimmersion.blocks.enchantmentTable.dropItems=掉落物品
-config.vimmersion.blocks.keepVanilla=保持原版設置
-config.vimmersion.labels.none=無
-item.vimmersion.hammer.name=錘子
-vimmersion.anvil.inUse=這張鐵砧正在被別的玩家使用著。
-vimmersion.anvil.itemName=物品名稱：

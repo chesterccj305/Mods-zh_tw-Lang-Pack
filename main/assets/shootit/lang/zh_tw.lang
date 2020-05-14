@@ -1,9 +1,0 @@
-entity.photo.name=照片
-item.camera.name=相機
-item.memorycard.name=存儲卡
-item.photoitem.name=照片
-itemGroup.ShootIt=ShootIt
-key.categories.shootit=ShootIt
-key.filters=相機設置
-tile.painter.name=著色器
-tile.printer.name=打印機

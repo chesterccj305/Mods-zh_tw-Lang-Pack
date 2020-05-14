@@ -1,6 +1,0 @@
-enderio.item_fluid_conduit.name=恆星合金液體導管
-
-stellarfluidconduits.fluid.millibuckets_tick=mB/t
-stellarfluidconduits.item_fluid_conduit.tooltip.max_extract=最大提取速率：
-stellarfluidconduits.item_fluid_conduit.tooltip.max_io=最大流速：
-

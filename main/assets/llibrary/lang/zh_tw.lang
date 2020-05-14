@@ -1,8 +1,0 @@
-gui.llibrary.update=更新
-gui.llibrary.update.title=模塊更新
-gui.llibrary.currentVersion=當前版本
-gui.llibrary.latestVersion=最新版本
-gui.llibrary.updated.1=所有都是最新的！
-gui.llibrary.updated.2=LLibrary找不到任何過時的mod。
-
-Snackbar.llibrary.updates_found=LLibrary發現過時的模組！

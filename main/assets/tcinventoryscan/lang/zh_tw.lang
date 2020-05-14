@@ -1,4 +1,0 @@
-tcinventoryscan:scanning=掃描中
-tcinventoryscan:serverNotInstalled=若服務器沒有安裝Thaumcraft Inventory Scanning模組，那麽它將被禁用。
-tcinventoryscan:thaumometerTooltip=用於物品欄掃描
-tcinventoryscan:thaumometerTooltipMore=通過將魔導透鏡懸停在\n物品欄或存儲容器中進行掃描。

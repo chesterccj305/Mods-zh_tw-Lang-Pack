@@ -1,6 +1,0 @@
-{
-  "name": "魔咒合成",
-  "sortnum" : 2,
-  "description": "魔咒是一種通過使用少量草藥作為試劑在工作者中傳播魔法的方法，以實現世界的變化。$(br2)$(警告) 您將需要將試劑存儲在特殊的$(apparatus/component_pouch)包裝袋$()中，才能夠施放魔咒。 ",
-  "icon": "roots:staff"
-}
