@@ -1,4 +1,6 @@
 {
+	"itemGroup.rftoolscontrol": "RFTools Control",
+	
     "_comment": "Achievements",
 
     "_comment": "Items",
@@ -28,7 +30,6 @@
     "block.rftoolscontrol.tank": "多容儲罐",
 
     "_comment": "Creative Tabs",
-    "itemGroup.RFToolsControl": "RFTools Control",
 
     "_comment": "Messages",
     "message.rftoolscontrol.shiftmessage": "<按Shift>",
