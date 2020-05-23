@@ -1,0 +1,38 @@
+{
+  "bonsaitrees2.title": "盆栽樹",
+
+  "block.bonsaitrees2.bonsaipot": "盆栽盆",
+  "block.bonsaitrees2.hopping_bonsaipot": "漏斗盆栽盆",
+
+  "bonsaitrees.jei.category.sapling.growtime": "成長時間: %s",
+  "bonsaitrees.jei.category.sapling.soiltime": "種植這種盆栽通常需要: %s",
+  "bonsaitrees.jei.category.growing.chance": "概率: %d%%",
+
+  "hint.bonsaitrees.incompatible_soil": "這棵樹需要另一種土壤。",
+  "hint.bonsaitrees.can_not_remove_soil_with_sapling": "當樹苗生長時, 土壤不能被移除。",
+  "hint.bonsaitrees.pot_has_no_soil": "請先在盆栽裡放一些土壤，試試 %s",
+
+  "bonsaitrees.gui.tree_creator.label.preview": "預覽方塊: %d",
+  "bonsaitrees.gui.tree_creator.label.sapling": "樹苗堆",
+  "bonsaitrees.gui.tree_creator.label.treeid": "樹ID",
+  "bonsaitrees.gui.tree_creator.label.growtime": "生長所需的時間,
+  "bonsaitrees.gui.tree_creator.label.tags": "土壤標籤（用逗號分隔）",
+  "bonsaitrees.gui.tree_creator.label.properties": "配置盆栽樹",
+  "bonsaitrees.gui.tree_creator.label.blocktypes": "類型: %d",
+
+  "bonsaitrees.gui.tree_creator.warning.too_many_types": "方塊類型太多。最大: 26",
+  "bonsaitrees.gui.tree_creator.warning.too_many_blocks": "方塊太多。512以上的東西太多了！硬限制是4096！",
+  "bonsaitrees.gui.tree_creator.warning.isolate": "您將樹與不屬於該樹的任何塊隔離了嗎？",
+
+  "bonsaitrees.gui.tree_creator.button.save_to_disk": "保存到硬碟",
+  "bonsaitrees.gui.tree_creator.warning.files_already_exists": "文件已存在",
+  "bonsaitrees.gui.tree_creator.warning.missing_tree_id": "未指定樹ID！",
+  "bonsaitrees.gui.tree_creator.checkbox.overwrite_files": "覆蓋現有文件",
+  "bonsaitrees.gui.tree_creator.label.saved_files": "保存的文件在'<mc>/openloader/'目錄中！",
+  "bonsaitrees.gui.tree_creator.hint.openloader": 您想使用Open Loader mod來使用新的盆景！如果您已經安裝了它並且正在玩單人遊戲，則只需重新加載資源[F3 + T] ，然後是/ reload命令。否則，請安裝mod並重新啟動遊戲。",
+  "bonsaitrees.gui.tree_creator.button.go_to_openloader": "打開加載程序",
+
+  "bonsaitrees.gui.tree_creator.label.drop": "拖放",
+  "bonsaitrees.gui.tree_creator.label.rolls": "滾動",
+  "bonsaitrees.gui.tree_creator.label.chance": "機率"
+}
