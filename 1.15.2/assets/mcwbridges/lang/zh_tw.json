@@ -2,7 +2,9 @@
     "item.mcwbridges.iron_platform": "鐵板",
     "item.mcwbridges.iron_rod": "鐵棒",
     "item.mcwbridges.iron_armrest": "鐵扶手",
-    "itemGroup.bridges": "Macaw'sBridgess",
+    
+    "itemGroup.bridges": "金剛鸚鵡的橋樑",
+    
     "block.mcwbridges.most1": "鐵橋中間",
     "block.mcwbridges.most2": "鐵橋端",
     "block.mcwbridges.oak_log_bridge_middle": "橡樹橋中間",
@@ -17,6 +19,7 @@
     "block.mcwbridges.jungle_log_bridge_middle": "叢林木橋中間",
     "block.mcwbridges.dark_oak_log_bridge_end": "黑橡木橋端",
     "block.mcwbridges.dark_oak_log_bridge_middle": "黑橡木橋中間",
+    
     "block.mcwbridges.rope_oak_bridge": "繩橡樹橋",
     "block.mcwbridges.rope_oak_bridge_end": "繩橡木橋端",
     "block.mcwbridges.rope_birch_bridge": "繩樺木橋",
@@ -29,6 +32,7 @@
     "block.mcwbridges.rope_acacia_bridge_end": "繩相思樹木橋端",
     "block.mcwbridges.rope_dark_oak_bridge": "繩黑橡木橋",
     "block.mcwbridges.rope_dark_oak_bridge_end": "繩黑橡木橋端",
+    
     "block.mcwbridges.brick_bridge": "磚橋",
     "block.mcwbridges.brick_bridge_end": "磚橋端",
     "block.mcwbridges.stone_brick_bridge": "石磚橋",
@@ -37,6 +41,7 @@
     "block.mcwbridges.sandstone_bridge_end": "砂岩橋端",
     "block.mcwbridges.orange_sandstone_bridge": "紅砂岩橋",
     "block.mcwbridges.orange_sandstone_bridge_end": "紅砂岩橋端",
+    
     "block.mcwbridges.oak_rail_bridge": "橡木軌道橋",
     "block.mcwbridges.spruce_rail_bridge": "杉木軌道橋",
     "block.mcwbridges.birch_rail_bridge": "樺木軌道橋",
@@ -50,4 +55,5 @@
     "block.mcwbridges.acacia_rail_bridge_powered": "供電相思樹木軌道橋",
     "block.mcwbridges.dark_oak_rail_bridge_powered": "供電黑橡木軌道橋",
     "block.mcwbridges.bamboo_bridge": "竹製橋"
+    
 }
