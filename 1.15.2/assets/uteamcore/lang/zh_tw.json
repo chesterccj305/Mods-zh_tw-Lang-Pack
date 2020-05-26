@@ -2,7 +2,7 @@
 	"commands.uteamcore.dimteleport.success.multiple": "將實體 %s 傳送至 %s",
 	"commands.uteamcore.dimteleport.success.position.multiple": "將實體 %s 傳送至 %s 處的 %s, %s, %s",
 	"commands.uteamcore.dimteleport.success.position.single": "將 %s 傳送至 %s 位於 %s, %s, %s",
-	"commands.uteamcore.dimteleport.success.single": ""將 %s 傳送至 %s",
+	"commands.uteamcore.dimteleport.success.single": "將 %s 傳送至 %s",
 	"commands.uteamcore.ping.success.other": "%s's ping是%sms",
 	"commands.uteamcore.ping.success.self": "你的ping是%sms",
 	"commands.uteamcore.stackinfo.success.block": "方塊: %s",
