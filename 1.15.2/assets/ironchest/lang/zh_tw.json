@@ -10,15 +10,15 @@
     "block.ironchest.dirt_chest": "泥箱子9000!",
     
     "_comment": "Upgrades",
-    "item.ironchest.iron_to_gold_chest_upgrade": "升級：鐵>金",
-    "item.ironchest.gold_to_diamond_chest_upgrade": "升級：金>鑽石",
-    "item.ironchest.copper_to_silver_chest_upgrade": "升級：銅>銀",
-    "item.ironchest.silver_to_gold_chest_upgrade": "升級：銀>金",
-    "item.ironchest.copper_to_iron_chest_upgrade": "升級：銅>鐵",
-    "item.ironchest.diamond_to_crystal_chest_upgrade": "升級：鑽石>水晶",
-    "item.ironchest.wood_to_iron_chest_upgrade": "升級：木>鐵",
-    "item.ironchest.wood_to_copper_chest_upgrade": "升級：木>銅",
-    "item.ironchest.diamond_to_obsidian_chest_upgrade": "升級：鑽石>黑曜石",
+    "item.ironchest.iron_to_gold_chest_upgrade": "升級：鐵→金",
+    "item.ironchest.gold_to_diamond_chest_upgrade": "升級：金→鑽石",
+    "item.ironchest.copper_to_silver_chest_upgrade": "升級：銅→銀",
+    "item.ironchest.silver_to_gold_chest_upgrade": "升級：銀→金",
+    "item.ironchest.copper_to_iron_chest_upgrade": "升級：銅→鐵",
+    "item.ironchest.diamond_to_crystal_chest_upgrade": "升級：鑽石→水晶",
+    "item.ironchest.wood_to_iron_chest_upgrade": "升級：木→鐵",
+    "item.ironchest.wood_to_copper_chest_upgrade": "升級：木→銅",
+    "item.ironchest.diamond_to_obsidian_chest_upgrade": "升級：鑽石→黑曜石",
     
     "_comment": "Books",
     "book.ironchest.dirtchest9000.title": "如何使用您的泥箱子9000!",
@@ -39,5 +39,5 @@
     "ironchest.container.dirt_chest": "泥箱子9000!",
     
     "_comment": "Item Groups",
-    "itemGroup.ironchest": "Iron Chests"
+    "itemGroup.ironchest": "鐵箱子"
 }
