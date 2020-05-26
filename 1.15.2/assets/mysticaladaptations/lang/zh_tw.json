@@ -1,0 +1,25 @@
+{
+	"itemGroup.mysticaladaptations": "更好的神秘農業",
+
+	"item.mysticaladaptations.insanium_helmet": "究極精華頭盔",
+	"item.mysticaladaptations.insanium_chestplate": "究極精華胸甲",
+	"item.mysticaladaptations.insanium_leggings": "究極精華護腿",
+	"item.mysticaladaptations.insanium_boots": "究極精華靴子",
+	"item.mysticaladaptations.insanium_sword": "究極精華劍",
+	"item.mysticaladaptations.insanium_pickaxe": "究極精華鎬",
+	"item.mysticaladaptations.insanium_shovel": "究極精華鏟",
+	"item.mysticaladaptations.insanium_axe": "究極精華斧",
+	"item.mysticaladaptations.insanium_hoe": "究極精華鋤",
+	"item.mysticaladaptations.insanium_staff": "究極精華棍",
+	"item.mysticaladaptations.insanium_watering_can": "究極精華灑水壺",
+	"item.mysticaladaptations.insanium_paxel": "究極精華全能工具",
+
+	"augment.mysticaladaptations.hungerless": "飢餓消除",
+	"augment.mysticaladaptations.woodcutter": "划木者",
+	"augment.mysticaladaptations.mining_aoe_v": "範圍挖掘V",
+	"augment.mysticaladaptations.strength_iv": "力量IV",
+	"augment.mysticaladaptations.absorption_vi": "吸收VI",
+	"augment.mysticaladaptations.health_boost_vi": "生命提升VI",
+	"augment.mysticaladaptations.attack_aoe_iv": "範圍攻擊IV",
+	"augment.mysticaladaptations.tilling_aoe_v": "範圍鋤地V"
+}
