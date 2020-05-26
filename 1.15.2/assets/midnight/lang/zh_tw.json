@@ -6,14 +6,14 @@
   "itemGroup.midnight_items": "午夜 物品",
   "itemGroup.midnight_tools": "午夜 工具",
   "itemGroup.midnight_combat": "午夜 戰鬥",
-
- "_comment": "Blocks",
-
-  "block.midnight.nightstone": "暗夜石",
-  "block.midnight.grass_block": "午夜草方塊",
-  "block.midnight.coarse_dirt": "午夜砂土",
-  "block.midnight.dirt": "午夜泥土",
-  "block.midnight.mycelium": "午夜菌絲",
+  
+  "_comment": "Blocks",
+  
+  "block.midnight.nightstone": "暗夜石",
+  "block.midnight.grass_block": "午夜草方塊",
+  "block.midnight.coarse_dirt": "午夜砂土",
+  "block.midnight.dirt": "午夜泥土",
+  "block.midnight.mycelium": "午夜菌絲",
 
   "block.midnight.trenchstone": "海溝石",
   "block.midnight.trenchstone_bricks": "海溝石磚塊",
