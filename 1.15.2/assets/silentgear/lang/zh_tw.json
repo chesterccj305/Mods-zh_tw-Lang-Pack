@@ -441,7 +441,7 @@
   "jei.silentgear.sword.desc": "經典的劍,具有平衡的傷害和速度.護手採用製作時第二種材料的外觀",
   "jei.silentgear.tip_upgrade.desc": "允許進一步升級現有工具/武器.大多數鑲嵌升級將會添加(或減去)一定數值到某些屬性,但有些添加會改為乘數.按住Ctrl鍵可在工具提示中查看屬性修改.",
   "jei.silentgear.tool_head.desc": "工具頭部,刀片,弓臂等等!這些是工具和武器的核心,使用藍圖/模板和一些數量的主要工具材料構成.查看藍圖/模板工具提示以獲取更多信息.",
-  "jei.silentgear.tooltip.sample1": "樣品配方"",
+  "jei.silentgear.tooltip.sample1": "樣品配方",
   "jei.silentgear.tooltip.sample2": "用任何材料製成的裝備都可以使用",
   "gui.silentgear.category.gearCrafting": "部件製作",
   "misc.silentgear.tooltip.blacklist": "黑名單: %s",
