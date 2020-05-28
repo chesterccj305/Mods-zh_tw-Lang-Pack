@@ -315,13 +315,13 @@ tile.natura.respawn_obelisk.active.name=啟動的重生方尖碑
 
 tile.natura.nether_thorn_vines.name=荊棘
 
-tile.natura.nether_glowshroom.green.name=綠色熒光菇
-tile.natura.nether_glowshroom.blue.name=藍色熒光菇
-tile.natura.nether_glowshroom.purple.name=紫色熒光菇
+tile.natura.nether_glowshroom.green.name=綠色螢光菇
+tile.natura.nether_glowshroom.blue.name=藍色螢光菇
+tile.natura.nether_glowshroom.purple.name=紫色螢光菇
 
-tile.natura.nether_green_large_glowshroom.all_inside.name=綠色熒光菇
-tile.natura.nether_blue_large_glowshroom.all_inside.name=藍色熒光菇
-tile.natura.nether_purple_large_glowshroom.all_inside.name=紫色熒光菇
+tile.natura.nether_green_large_glowshroom.all_inside.name=綠色螢光菇
+tile.natura.nether_blue_large_glowshroom.all_inside.name=藍色螢光菇
+tile.natura.nether_purple_large_glowshroom.all_inside.name=紫色螢光菇
 
 tile.natura.nether_lever.name=控制桿
 
@@ -448,11 +448,11 @@ item.natura.soups.bloodwood_mushroomstew.name=蘑菇湯
 item.natura.soups.darkwood_mushroomstew.name=蘑菇湯
 item.natura.soups.fusewood_mushroomstew.name=蘑菇湯
 
-item.natura.soups.vanilla_glowshroomstew.name=熒光菇湯
-item.natura.soups.ghostwood_glowshroomstew.name=熒光菇湯
-item.natura.soups.bloodwood_glowshroomstew.name=熒光菇湯
-item.natura.soups.darkwood_glowshroomstew.name=熒光菇湯
-item.natura.soups.fusewood_glowshroomstew.name=熒光菇湯
+item.natura.soups.vanilla_glowshroomstew.name=螢光菇湯
+item.natura.soups.ghostwood_glowshroomstew.name=螢光菇湯
+item.natura.soups.bloodwood_glowshroomstew.name=螢光菇湯
+item.natura.soups.darkwood_glowshroomstew.name=螢光菇湯
+item.natura.soups.fusewood_glowshroomstew.name=螢光菇湯
 
 item.natura.soups.berry_medley.name=莓果拼盤
 item.natura.soups.berry_medley.tooltip=難以抗拒的莓果組合。
@@ -578,5 +578,5 @@ itemGroup.NaturaDecorative=自然的裝飾品
 #    HWYLA    #
 ###############
 
-option.natura.alternatecropitem=Alternate Crop
-option.natura.alternatedooritem=Alternate Door
+option.natura.alternatecropitem=替代作物
+option.natura.alternatedooritem=備用門
