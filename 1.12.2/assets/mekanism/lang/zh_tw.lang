@@ -166,7 +166,7 @@ tile.MachineBlock3.FuelwoodHeater.name=木料加熱器
 # Plastic
 tile.PlasticBlock.name=塑料方塊
 tile.SlickPlasticBlock.name=光滑塑料方塊
-tile.GlowPlasticBlock.name=塑料熒光方塊
+tile.GlowPlasticBlock.name=塑料螢光方塊
 tile.ReinforcedPlasticBlock.name=強化塑料方塊
 tile.RoadPlasticBlock.name=塑料路
 
