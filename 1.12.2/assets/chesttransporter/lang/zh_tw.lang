@@ -1,8 +1,8 @@
-item.chesttransporter_copper.name=銅質搬箱器
-item.chesttransporter_diamond.name=鉆石搬箱器
-item.chesttransporter_gold.name=金質搬箱器
-item.chesttransporter_iron.name=鐵質搬箱器
-item.chesttransporter_obsidian.name=黑曜石搬箱器
-item.chesttransporter_silver.name=銀質搬箱器
-item.chesttransporter_tin.name=錫質搬箱器
-item.chesttransporter_wood.name=木質搬箱器
+item.chesttransporter_wood.name=木製搬箱器
+item.chesttransporter_iron.name=鐵製搬箱器
+item.chesttransporter_gold.name=金製搬箱器
+item.chesttransporter_diamond.name=鑽石製搬箱器
+item.chesttransporter_copper.name=銅製搬箱器
+item.chesttransporter_silver.name=銀製搬箱器
+item.chesttransporter_tin.name=錫製搬箱器
+item.chesttransporter_obsidian.name=黑曜石製搬箱器
