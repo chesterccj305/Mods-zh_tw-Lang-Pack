@@ -649,7 +649,7 @@ enderio.config.items.darksteel.upgrades=玄鋼升級
 enderio.config.items.darksteel.upgrades.explosive=鎬子：爆炸升級
 enderio.config.items.darksteel.upgrades.speed=護腿：速度升級
 enderio.config.items.darksteel.upgrades.hoe=斧：叉子（鋤）升級
-enderio.config.items.darksteel.upgrades.empowered=註能升級
+enderio.config.items.darksteel.upgrades.empowered=注能升級
 enderio.config.items.darksteel.upgrades.jump=靴子：跳躍升級
 enderio.config.items.darksteel.upgrades.swim=護腿：遊泳升級
 enderio.config.items.darksteel.upgrades.nightvision=頭盔：夜視升級
@@ -679,7 +679,7 @@ enderio.config.blocks.charges.ender=終界炸藥
 
 
 enchantment.enderio.soulbound=靈魂綁定
-description.enchantment.enderio.soulbound=該附魔使物品免於死亡掉落|註意：多數墓碑模組非常愚蠢導致這個附魔無法正常工作！
+description.enchantment.enderio.soulbound=該附魔使物品免於死亡掉落|注意：多數墓碑模組非常愚蠢導致這個附魔無法正常工作！
 enchantment.enderio.witherarrow=雕零
 description.enchantment.enderio.witherarrow=給予目標雕零效果|適用於弓
 enchantment.enderio.witherweapon=腐爛
@@ -740,23 +740,23 @@ enderio.coolant.tooltip.degreesPerBucket=%s°C/桶
 enderio.tooltip.anvilupgrades=鐵砧升級：
 enderio.tooltip.anvilupgrades.all=所有的鐵砧升級：
 
-enderio.darksteel.upgrade.empowered_one.name=註能 I
+enderio.darksteel.upgrade.empowered_one.name=注能 I
 enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line1=能量：$P
 enderio.darksteel.upgrade.empowered_one.tooltip.detailed.line2=能量吸收抵消$D%的耐久損傷
 
-enderio.darksteel.upgrade.empowered_two.name=註能 II
+enderio.darksteel.upgrade.empowered_two.name=注能 II
 enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line1=能量：$P
 enderio.darksteel.upgrade.empowered_two.tooltip.detailed.line2=能量吸收抵消$D%的耐久損傷
 
-enderio.darksteel.upgrade.empowered_three.name=註能 III
+enderio.darksteel.upgrade.empowered_three.name=注能 III
 enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line1=能量：$P
 enderio.darksteel.upgrade.empowered_three.tooltip.detailed.line2=能量吸收抵消$D%的耐久損傷
 
-enderio.darksteel.upgrade.empowered_four.name=註能 IV
+enderio.darksteel.upgrade.empowered_four.name=注能 IV
 enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line1=能量：$P
 enderio.darksteel.upgrade.empowered_four.tooltip.detailed.line2=能量吸收抵消$D%的耐久損傷
 
-enderio.darksteel.upgrade.empowered_five.name=註能 V
+enderio.darksteel.upgrade.empowered_five.name=注能 V
 enderio.darksteel.upgrade.empowered_five.tooltip.detailed.line1=能量：$P
 enderio.darksteel.upgrade.empowered_five.tooltip.detailed.line2=能量吸收抵消$D%的耐久損傷
 
@@ -1047,13 +1047,13 @@ enderio.color.brown=棕色
 enderio.color.blue=藍色
 enderio.color.purple=紫色
 enderio.color.cyan=青色
-enderio.color.silver=淡灰色
+enderio.color.silver=淺灰色
 enderio.color.gray=灰色
-enderio.color.pink=粉色
-enderio.color.lime=黃綠色
+enderio.color.pink=粉紅色
+enderio.color.lime=淺綠色
 enderio.color.yellow=黃色
-enderio.color.lightBlue=淡藍色
-enderio.color.magenta=品紅色
+enderio.color.lightBlue=淺藍色
+enderio.color.magenta=洋紅色
 enderio.color.orange=橙色
 enderio.color.white=白色
 
