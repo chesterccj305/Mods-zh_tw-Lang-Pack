@@ -1,9 +1,9 @@
-item.betterwithhardersteelrecipe.buttonclay.name=粘土按鈕
+item.betterwithhardersteelrecipe.buttonclay.name=黏土按鈕
 item.betterwithhardersteelrecipe.unfiredbutton.name=未熔煉的石質按鈕
 item.betterwithhardersteelrecipe.unfiredpressureplate.name=未熔煉的壓力板
 item.betterwithhardersteelrecipe.unfiredstonebutton.name=未熔煉的石質按鈕
-itemGroup.betterwithhardersteelrecipe=BetterWithHarderSteelRecipe
-tile.betterwithhardersteelrecipe._claytile.name=粘土瓦片
+itemGroup.betterwithhardersteelrecipe=更好的硬鋼配方
+tile.betterwithhardersteelrecipe._claytile.name=黏土瓦片
 tile.betterwithhardersteelrecipe._unfiredstonebutton.name=未燒制的石質按鈕
-tile.betterwithhardersteelrecipe._unfiredclaytile.name=未燒制的粘土瓦片
+tile.betterwithhardersteelrecipe._unfiredclaytile.name=未燒制的黏土瓦片
 tile.betterwithhardersteelrecipe._unfiredstonepressureplate.name=未燒制的石質壓力板
