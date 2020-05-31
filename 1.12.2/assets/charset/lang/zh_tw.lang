@@ -8,7 +8,7 @@ config.charset.overrides.name=單個模塊開關
 # materials
 
 charset.material.copper=銅
-charset.material.diamond=鉆石
+charset.material.diamond=鑽石
 charset.material.emerald=綠寶石
 charset.material.gold=金
 charset.material.iron=鐵
@@ -68,14 +68,14 @@ charset.color.brown=棕色
 charset.color.blue=藍色
 charset.color.purple=紫色
 charset.color.cyan=青色
-charset.color.silver=淡灰色
-charset.color.lightGray=淡灰色
+charset.color.silver=淺灰色
+charset.color.lightGray=淺灰色
 charset.color.gray=灰色
 charset.color.pink=粉色
-charset.color.lime=黃綠色
+charset.color.lime=淺綠色
 charset.color.yellow=黃色
-charset.color.lightBlue=淡藍色
-charset.color.magenta=品紅色
+charset.color.lightBlue=淺藍色
+charset.color.magenta=洋紅色
 charset.color.orange=橙色
 charset.color.white=白色
 
@@ -178,9 +178,9 @@ tile.charset.barrel.name=儲物桶
 tile.charset.barrel.format=%2$s儲物桶
 tile.charset.barrel.format2=%1$s%2$s儲物桶
 tile.charset.barrel.SILKY.name=精密
-tile.charset.barrel.SILKY.silkhint=使用帶精準采集的斧子
+tile.charset.barrel.SILKY.silkhint=使用帶絲綢之觸的斧子
 tile.charset.barrel.HOPPING.name=漏式
-tile.charset.barrel.STICKY.name=粘性
+tile.charset.barrel.STICKY.name=黏性
 tile.charset.barrel.INFINITE.name=無限
 
 # storage.chests
@@ -232,8 +232,8 @@ chat.charset.shout=%1$s %2$s
 
 # abandoned (but may be returned to)
 
-item.charset.clayBucket.filled.name=裝%s的粘土桶
-item.charset.clayBucket.empty.name=粘土桶
+item.charset.clayBucket.filled.name=裝%s的黏土桶
+item.charset.clayBucket.empty.name=黏土桶
 item.charset.pipe.name=管道
 item.charset.poster.name=海報
 
