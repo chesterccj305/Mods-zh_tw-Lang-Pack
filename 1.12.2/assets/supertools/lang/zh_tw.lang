@@ -1,0 +1,12 @@
+item.supertools.hammerWOOD.name=木鎚
+item.supertools.hammerSTONE.name=石鎚
+item.supertools.hammerIRON.name=鐵鎚
+item.supertools.hammerGOLD.name=金鎚
+item.supertools.hammerDIAMOND.name=鑽石鎚
+
+item.supertools.shovelWOOD.name=大木鏟
+item.supertools.shovelSTONE.name=大石鏟
+item.supertools.shovelIRON.name=大鐵鏟
+item.supertools.shovelGOLD.name=大金鏟
+item.supertools.shovelDIAMOND.name=大鑽石鏟
+itemGroup.supertools=原版+ 工具
