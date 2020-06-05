@@ -1,0 +1,14 @@
+{
+    "item.supertools.hammerwood": "木鎚",
+    "item.supertools.hammerstone": "石鎚",
+    "item.supertools.hammeriron": "鐵鎚",
+    "item.supertools.hammergold": "金鎚",
+    "item.supertools.hammerdiamond": "鑽石鎚",
+
+    "item.supertools.shovelwood": "大木鏟",
+    "item.supertools.shovelstone": "大石鏟",
+    "item.supertools.shoveliron": "大鐵鏟",
+    "item.supertools.shovelgold": "大金鏟",
+    "item.supertools.shoveldiamond": "大鑽石鏟",
+    "itemGroup.supertools": "原版+ 工具"
+}
