@@ -13,6 +13,7 @@ item.dakotaraptor_feather.name=達科他盜龍羽毛
 item.dakotaraptor_raw.name=達科他盜龍肉
 item.dakotaraptor_cooked.name=達科他盜龍肉排
 item.dakotaraptor_arrow.name=達科他盜龍箭
+item.dakotaraptor_claw.name=達科他盜龍爪
 
 entity.Dakotaraptor.name=科他盜龍
 entity.Monolophosaurus.name=單脊龍
@@ -31,6 +32,7 @@ entity.Dragonfly.name=馬佐薩羅斯
 entity.Tupandactylus.name=雷神翼龍
 entity.Allosaurus.name=異特龍
 entity.Sauroposeidon.name=波塞東龍
+entity.Onchopristis.name=帆鋸鰩
 
 tile.nest.name=巢穴
 tile.grape_vine.name=葡萄藤
