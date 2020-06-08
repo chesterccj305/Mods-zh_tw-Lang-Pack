@@ -1,0 +1,75 @@
+{
+
+	"block.bountiful.bountyboard": "懸賞板",
+
+	"itemGroup.bountiful": "懸賞",
+
+	"bountiful.decree": "懸賞令",
+	"bountiful.decrees": "懸賞令",
+	"bountiful.decree.invalid": "無效的懸賞令",
+	"bountiful.decree.notset": "把它放到懸賞板裡!",
+
+	"bountiful.bounty.turnin": "通過右鍵點擊懸賞板來領取你的獎勵",
+
+	"bountiful.advancement.bounty_taken.title": "領取懸賞",
+	"bountiful.advancement.bounty_taken.desc": "在懸賞板領取一次懸賞任務",
+
+	"bountiful.advancement.bounty_complete.title": "坦誠付出，坦誠工作",
+	"bountiful.advancement.bounty_complete.desc": "完成一個懸賞！",
+
+	"bountiful.advancement.rush_order.title": "緊急交付",
+	"bountiful.advancement.rush_order.desc": "在一分鐘內完成懸賞",
+
+	"bountiful.advancement.procrastinator.title": "拖延症患者",
+	"bountiful.advancement.procrastinator.desc": "在剩下5秒內完成懸賞",
+
+	"bountiful.advancement.town_crier.title": "小鎮佈告",
+	"bountiful.advancement.town_crier.desc": "獲得一個懸賞令！",
+
+	"bountiful.advancement.royal_mandate.title": "皇家委任",
+	"bountiful.advancement.royal_mandate.desc": "在懸賞板上放一個懸賞令",
+
+	"bountiful.bounty": "懸賞",
+
+	"bountiful.decree.armorer.name": "鐵匠懸賞",
+	"bountiful.decree.butcher.name": "屠夫懸賞",
+	"bountiful.decree.chef.name": "廚師懸賞",
+	"bountiful.decree.cleric.name": "牧師懸賞",
+	"bountiful.decree.farmer.name": "農民懸賞",
+	"bountiful.decree.fisherman.name": "漁民懸賞",
+	"bountiful.decree.fletcher.name": "制箭懸賞",
+	"bountiful.decree.hunting.name": "獵殺懸賞",
+	"bountiful.decree.leatherer.name": "皮革懸賞",
+	"bountiful.decree.librarian.name": "圖書懸賞",
+	"bountiful.decree.mapper.name": "繪圖懸賞",
+	"bountiful.decree.mason.name": "石匠懸賞",
+	"bountiful.decree.shepherd.name": "牧羊懸賞",
+	"bountiful.decree.tinker.name": "修補懸賞",
+	"bountiful.decree.toolsmith.name": "工具懸賞,
+	"bountiful.decree.invalid_decree.name": "無效的懸賞",
+
+	"bountiful.bounty.type.entity.kills": "殺死",
+
+	"bountiful.bounty.type.experience.levels": "經驗等級",
+	"bountiful.bounty.type.experience.points": "經驗點",
+
+
+	"bountiful.rarity.Common": "普通",
+	"bountiful.rarity.Uncommon": "特殊",
+	"bountiful.rarity.Rare": "稀有",
+	"bountiful.rarity.Epic": "史詩",
+
+	"stat.bountiful.bounties_taken": "接取懸賞數",
+	"stat.bountiful.bounties_done": "完成懸賞 (總計)",
+	"stat.bountiful.bounties_done_0": "完成懸賞 (普通)",
+	"stat.bountiful.bounties_done_1": "完成懸賞 (特殊)",
+	"stat.bountiful.bounties_done_2": "完成懸賞 (稀有)",
+	"stat.bountiful.bounties_done_3": "完成懸賞 (史詩)",
+
+	"bountiful.tooltip.advanced": "按住Shift鍵查看物品詳情",
+	"bountiful.tooltip.time": "倒計時",
+	"bountiful.tooltip.required": "需要",
+	"bountiful.tooltip.rewards": "獎勵",
+	"bountiful.tooltip.expired": "已過期",
+	"bountiful.tooltip.requirements": "不滿足需求"
+}
