@@ -6,7 +6,7 @@
     "block.storagenetwork.import_kabel": "導入纜線",
     "block.storagenetwork.import_filter_kabel": "過濾導入電纜",
     "block.storagenetwork.filter_kabel": "過濾連接纜線",
-    "block.storagenetwork.process_kabel": "處理纜線"",
+    "block.storagenetwork.process_kabel": "處理纜線",
 
     "block.storagenetwork.master": "儲存網主機",
     "block.storagenetwork.master.tooltip": "網路的核心。每個網路僅一個。",
