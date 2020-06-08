@@ -1,0 +1,111 @@
+{
+    "itemGroup.storagenetwork": "簡單儲存網",
+    "block.storagenetwork.kabel": "網絡纜線",
+    "block.storagenetwork.storage_kabel": "連接纜線",
+    "block.storagenetwork.export_kabel": "導出纜線",
+    "block.storagenetwork.import_kabel": "導入纜線",
+    "block.storagenetwork.import_filter_kabel": "過濾導入電纜",
+    "block.storagenetwork.filter_kabel": "過濾連接纜線",
+    "block.storagenetwork.process_kabel": "處理纜線"",
+
+    "block.storagenetwork.master": "儲存網主機",
+    "block.storagenetwork.master.tooltip": "網路的核心。每個網路僅一個。",
+    
+    "block.storagenetwork.request": "儲存合成台",
+    "block.storagenetwork.request.tooltip": "用於總覽和請求網路中的物品。",
+    
+    "block.storagenetwork.inventory": "儲存庫存",
+    "block.storagenetwork.inventory.tooltip": "不使用手工網格的庫存訪問",
+    
+    "item.storagenetwork.speed_upgrade": "速度升級",
+    "item.storagenetwork.operation_upgrade": "操作升級",
+    "item.storagenetwork.stack_upgrade": "堆疊升級",
+    "item.storagenetwork.stock_upgrade": "庫存升級",
+    "tooltip.storagenetwork.upgrade_0": "提高了導入/導出的速度。",
+    "tooltip.storagenetwork.upgrade_1": "基於物品數量啟動纜線。",
+    "tooltip.storagenetwork.upgrade_2": "增加任務的堆疊數。",
+    "tooltip.storagenetwork.upgrade_3": "在連接的物品欄中保留特定數量的物品（僅用於輸出纜線）",
+
+    "item.storagenetwork.inventory_remote": "遠程儲存",
+    "item.storagenetwork.crafting_remote": "遠程製作",
+
+    "block.storagenetwork.recipe.invalid": "事務無效：",
+    "block.storagenetwork.recipe.invalidleft": "在左側設置輸入",
+    "block.storagenetwork.recipe.invalidright": "在右側設置輸出",
+    "block.storagenetwork.recipe.valid": "事務有效",
+
+    "item.remote.outofrange": "超出範圍",
+    "item.remote.notloaded": "區塊未加載",
+
+    "gui.storagenetwork.operate.tooltip": "如果網路中 %s 多於 %d %s 才觸發",
+    "gui.storagenetwork.operate.tooltip.more": "多",
+    "gui.storagenetwork.operate.tooltip.less": "少",
+
+    "gui.storagenetwork.refresh": "刷新處理事務。如果當前處於阻塞、等待狀態，這將會將其變回合成模式，進而回收原材料。",
+
+    "gui.storagenetwork.checkbox.meta": "元數據",
+    "gui.storagenetwork.checkbox.ore": "礦物詞典",
+    "gui.storagenetwork.checkbox.nbt": "NBT",
+
+    "gui.storagenetwork.import": "導入過濾器",
+    "gui.storagenetwork.gui.whitelist": "白名單",
+    "gui.storagenetwork.gui.blacklist": "黑名單",
+
+    "gui.storagenetwork.sort": "排序方向",
+    "gui.storagenetwork.priority.up": "增加優先級數（較小的優先）",
+    "gui.storagenetwork.priority.down": "降低優先級數（較小的優先）",
+
+    "gui.storagenetwork.req.tooltip_NAME": "按名稱排序",
+    "gui.storagenetwork.req.tooltip_MOD": "按模組排序",
+    "gui.storagenetwork.req.tooltip_AMOUNT": "按數量排序",
+
+    "gui.storagenetwork.fil.tooltip_IN": "僅輸入",
+    "gui.storagenetwork.fil.tooltip_OUT": "僅輸出",
+    "gui.storagenetwork.fil.tooltip_BOTH": "輸入和輸出",
+
+    "gui.storagenetwork.shift": "按住 Shift 鍵以獲取更多資訊。",
+
+    "gui.storagenetwork.fil.tooltip_0": "前綴 @：搜尋模組",
+    "gui.storagenetwork.fil.tooltip_1": "前綴 #：搜尋文本提示",
+    "gui.storagenetwork.fil.tooltip_2": "前綴 $：搜尋礦物詞典",
+    "gui.storagenetwork.fil.tooltip_3": "右擊或按 X 鍵清除文本",
+
+    "gui.storagenetwork.tooltip_clear": "清除搜尋",
+    "gui.storagenetwork.fil.tooltip_jei_on": "啟用JEI搜索",
+    "gui.storagenetwork.fil.tooltip_jei_off": "禁用JEI搜索",
+
+    "block.storagenetwork.kabel.tooltip": "基礎網絡纜線",
+    "block.storagenetwork.storage_kabel.tooltip": "將物品欄連接到網路。",
+    "block.storagenetwork.export_kabel.tooltip": "將來自網路的物品導出到連接的物品欄。",
+    "block.storagenetwork.import_kabel.tooltip": "將物品從連接的物品欄導入到網路中。",
+    "block.storagenetwork.filter_kabel.tooltip": "帶有過濾選項的連接纜線",
+    "block.storagenetwork.import_filter_kabel.tooltip": "帶有過濾選項的導入纜線",
+    
+    
+    "tooltip.storagenetwork.kabel_P": "可以自動化簡單的處理事務。",
+         
+    "item.storagenetwork.inventory_remote.tooltip": "用於網路主機上以便遠程開啟",
+    "item.storagenetwork.crafting_remote.tooltip": "用於網路主機上以便遠程開啟",
+
+    "block.storagenetwork.controller": "控制器",
+    "block.storagenetwork.controller.tooltip": "管理所有網路中的處理纜線",
+
+    "chat.master.emptyslots": "可用空位：",
+    "chat.master.connectables": "接入設備：",
+    "processing.alwayson.true": "激活",
+    "processing.alwayson.false": "剩餘：",
+
+    "storagenetwork.process.status0": "暫停或停用",
+    "storagenetwork.process.status1": "等待導入（暫存）",
+    "storagenetwork.process.status2": "導出合成（暫存）",
+
+    "processing.buttons.toggle.true": "總是激活",
+    "processing.buttons.toggle.false": "僅處理請求的數量",
+    "processing.buttons.minus": "減少請求",
+    "processing.buttons.plus": "增加請求",
+    "processing.empty.ingredients": "空的原料",
+
+    "gui.storagenetwork.processing.recipe": "每個周期的原料都被發送，被視為來自該方塊側",
+    "gui.storagenetwork.processing.extract": "當拉取處理結果時，被視為從該方塊側拉取",
+    "gui.storagenetwork.": "工具提示新事物會出現在這裡"
+}
