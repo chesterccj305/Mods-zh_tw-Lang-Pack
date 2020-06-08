@@ -175,7 +175,7 @@
     "info.apotheosis.twisted": "扭曲",
     "info.apotheosis.corrupted": "腐化",
     "info.apotheosis.enchanting": "附魔台現在可以超過30級. 一些附魔只會出現在30級以上",
-    "info.apotheosis.altar": "海之祭壇專注於轉換附魔物品.\\n\\n首先，先在每根柱子上放置一個附魔物品，一旦提供了足夠的物品，祭壇將吸取附近玩家的經驗.\ \n如果經驗不足，將會產生紫色顆粒.\\n\\n一旦完成，海之祭壇上的物品會被消耗，並生成一本附魔書，有可能獲得寶藏級附魔.",
+    "info.apotheosis.altar": "海之祭壇專注於轉換附魔物品.\\n\\n首先，先在每根柱子上放置一個附魔物品，一旦提供了足夠的物品，祭壇將吸取附近玩家的經驗.\\n如果經驗不足，將會產生紫色顆粒.\\n\\n一旦完成，海之祭壇上的物品會被消耗，並生成一本附魔書，有可能獲得寶藏級附魔.",
 
     "enchantment.apotheosis.hell_infusion": "煉獄灌注",
     "enchantment.apotheosis.hell_infusion.desc": "在地獄可以造成額外的魔法傷害.",
@@ -432,7 +432,7 @@
     "item.apotheosis.farmers_leash": "終界栓繩",
     "info.apotheosis.noentity": "持有實體: 沒有",
     "info.apotheosis.containedentity": "持有實體: %s",
-    "info.apotheosis.farmleash": "終界栓繩是一種可以用來移動動物的物品. 鼠標左鍵捕​​捉動物, 鼠標右鍵釋放動物. 這種捕捉僅適用於動物.",
+    "info.apotheosis.farmleash": "終界栓繩是一種可以用來移動動物的物品. 鼠標左鍵捕捉動物, 鼠標右鍵釋放動物. 這種捕捉僅適用於動物.",
 
     "comment_id": "/Villager Module",
     "name.apotheosis.merch_sword": "俘虜之夢",
