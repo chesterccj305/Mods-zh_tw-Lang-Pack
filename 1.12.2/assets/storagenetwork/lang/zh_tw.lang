@@ -77,4 +77,4 @@ tooltip.storagenetwork.upgrade_3=在連接的物品欄中保留特定數量的�
 item.storagenetwork:remote_3.name=簡易遠端儲存
 tooltip.storagenetwork.remote_3=無視距離存取無合成界面網路。
 tooltip.storagenetwork.controller=管理所有網路中的處理纜線。
-itemGroup.storagenetwork=簡易遠端儲存
+itemGroup.storagenetwork=簡單儲存網
