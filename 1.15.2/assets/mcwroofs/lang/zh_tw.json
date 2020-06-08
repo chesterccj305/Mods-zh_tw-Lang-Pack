@@ -22,7 +22,6 @@
 		"itemGroup.roofs": "金剛鸚鵡的屋頂",      
 		"itemGroup.roofs2": "金剛鸚鵡的瓷磚和排水槽",    
 
-//MODELS"
 "block.mcwroofs.roof_black":"黑色屋頂瓷磚 頂端",
 "block.mcwroofs.roof_black2":"黑色屋頂瓷磚 外層",
 "block.mcwroofs.roof_black3":"黑色屋頂瓷磚",
@@ -245,7 +244,7 @@
 "block.mcwroofs.oak_roof_top_x":"橡木屋頂頂端 X",
 "block.mcwroofs.spruce_plank_roof_top_x":"杉木木材屋頂頂端 X",
 "block.mcwroofs.spruce_roof_top_x":"杉木屋頂頂端 X",
-"block.mcwroofs.roof_base_top_x":"Base屋頂頂端 X",
+"block.mcwroofs.roof_base_top_x":"屋頂頂端 X",
 "block.mcwroofs.roof_black_top_x":"黑色屋頂頂端 X",
 "block.mcwroofs.roof_gray_top_x":"灰色屋頂頂端 X",
 "block.mcwroofs.roof_light_gray_top_x":"淺灰色屋頂頂端 X",
