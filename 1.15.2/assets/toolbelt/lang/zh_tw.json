@@ -1,0 +1,15 @@
+{
+  "item.toolbelt.belt": "工具皮帶",
+  "item.toolbelt.pouch": "皮帶袋",
+  "key.toolbelt.open": "交換工具",
+  "key.toolbelt.category": "工具皮帶",
+  "key.toolbelt.slot": "打開工具皮帶物品欄",
+  "key.toolbelt.cycle.left": "向左循環工具",
+  "key.toolbelt.cycle.right": "向右循環工具",
+  "text.toolbelt.empty": "無",
+  "text.toolbelt.swap": "交換",
+  "text.toolbelt.insert": "放入",
+  "text.toolbelt.extract": "取出",
+  "text.toolbelt.tooltip": "升級數量: %s (%s格)",
+  "text.toolbelt": "工具皮帶"
+}
