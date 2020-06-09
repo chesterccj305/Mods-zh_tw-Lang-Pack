@@ -1,0 +1,65 @@
+{
+	"block.swampexpansion.mud_bricks": "泥磚",
+	"block.swampexpansion.mud_brick_slab": "泥磚半磚",
+	"block.swampexpansion.mud_brick_stairs": "泥磚階梯",
+	"block.swampexpansion.mud_brick_wall": "泥磚牆",
+	"block.swampexpansion.mud_brick_vertical_slab": "泥磚直立半磚",
+	
+	"block.swampexpansion.willow_planks": "楊柳木木材",
+	"block.swampexpansion.willow_slab": "楊柳木半磚",
+	"block.swampexpansion.willow_stairs": "楊柳木階梯",
+	"block.swampexpansion.willow_fence": "楊柳木柵欄",
+	"block.swampexpansion.willow_fence_gate": "楊柳木柵欄門",
+	"block.swampexpansion.willow_pressure_plate": "楊柳木壓力板",
+	"block.swampexpansion.willow_door": "楊柳木門",
+	"block.swampexpansion.willow_trapdoor": "楊柳木地板門",
+	"block.swampexpansion.willow_button": "楊柳木按鈕",
+	"block.swampexpansion.willow_bookshelf": "楊柳木書櫃",
+	"block.swampexpansion.willow_ladder": "楊柳木梯子",
+	"block.swampexpansion.willow_log": "楊柳木原木",
+	"block.swampexpansion.willow_wood": "楊柳木原木塊",
+	"block.swampexpansion.stripped_willow_log": "剝皮楊柳木原木",
+	"block.swampexpansion.stripped_willow_wood": "剝皮楊柳木原木塊",
+	"block.swampexpansion.willow_sapling": "楊柳木樹苗",
+	"block.swampexpansion.willow_leaves": "楊柳木樹葉",
+	"block.swampexpansion.hanging_willow_leaves": "楊柳木垂葉",
+	"block.swampexpansion.vertical_willow_planks": "豎紋楊柳木木材",
+	"block.swampexpansion.willow_vertical_slab": "楊柳木直立半磚",
+	"block.swampexpansion.willow_leaf_carpet": "楊柳木樹葉地毯",
+	
+	"block.swampexpansion.cattail_sprouts": "香蒲芽",
+	"block.swampexpansion.cattail": "香蒲",
+	"block.swampexpansion.tall_cattail": "高香蒲",
+	"block.swampexpansion.potted_cattail": "盆栽香蒲",
+	
+	"block.swampexpansion.cattail_thatch": "香蒲草磚",
+	"block.swampexpansion.cattail_thatch_slab": "香蒲草磚半磚",
+	"block.swampexpansion.cattail_thatch_stairs": "香蒲草磚階梯",
+	"block.swampexpansion.cattail_thatch_vertical_slab": "香蒲草磚直立半磚",
+	"block.swampexpansion.cattail_seed_sack": "香蒲種子箱",
+	"item.swampexpansion.cattail_seeds": "香蒲種子",
+	
+	"blonsion.rice_sack": "飯袋",
+	"item.swampexpansion.rice": "大米",
+	"item.swampexpansion.rice_ball": "飯糰",
+	
+	"item.swampexpansion.cod_kelp_roll": "鱈魚海帶捲",
+	"item.swampexpansion.clownfish_kelp_roll": "小丑魚海帶捲",
+	"item.swampexpansion.crab_kelp_roll": "螃蟹海帶捲",
+	"item.swampexpansion.pike_kelp_roll": "派克海帶捲",
+	"item.swampexpansion.cavefish_kelp_roll": "魷魚海帶捲",
+	
+	"item.swampexpansion.salmon_rice_cake": "鮭魚年糕",
+	"item.swampexpansion.pufferfish_rice_cake": "河豚年糕",
+	"item.swampexpansion.lionfish_rice_cake": "獅子魚年糕",
+	
+	"item.swampexpansion.squid_ink_risotto": "魷魚燴飯",
+	
+	"item.swampexpansion.mud_ball": "泥球",
+	"item.swampexpansion.mud_brick": "泥磚頭",
+	"item.swampexpansion.mud_bucket": "泥桶",
+	"item.swampexpansion.willow_boat": "楊柳木船",
+	
+	"block.swampexpansion.mud": "泥漿",
+	"fluid.swampexpansion.mud": "泥漿"
+}
