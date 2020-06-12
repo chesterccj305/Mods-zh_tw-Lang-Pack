@@ -3,7 +3,7 @@
     "itemGroup.forbidden_arcanus": "禁忌&奧秘",
 
     "__comment": "效果",
-    "effect.forbidden_arcanus.fly": ""飛行",
+    "effect.forbidden_arcanus.fly": "飛行",
     "effect.forbidden_arcanus.spectral_vision": "幽靈視覺",
     "effect.forbidden_arcanus.darkened": "漆黑",
 
