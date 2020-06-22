@@ -16,6 +16,7 @@
 	"block.atmospheric.rosewood_fence_gate": "玫瑰木柵欄門",
 	"block.atmospheric.rosewood_sapling": "玫瑰木樹苗",
 	"block.atmospheric.rosewood_leaves": "玫瑰木樹葉",
+	"block.atmospheric.rosewood_sign": "玫瑰木告示牌",
 	
 	"block.atmospheric.passion_vine": "激情藤",
 	"block.atmospheric.passion_vine_bundle": "激情藤捆",	
@@ -162,6 +163,7 @@
 	"block.atmospheric.yucca_fence_gate": "絲蘭木欄欄門",
 	"block.atmospheric.yucca_sapling": "絲蘭木樹苗",
 	"block.atmospheric.yucca_leaves": "絲蘭木樹葉",
+	"block.atmospheric.yucca_sign": "絲蘭木告示牌",
 	
 	"block.atmospheric.yucca_flower": "絲蘭花",
 	"block.atmospheric.tall_yucca_flower": "高絲蘭花",
@@ -185,8 +187,10 @@
 	
 	"block.atmospheric.barrel_cactus": "桶式仙人掌",
 	"block.atmospheric.barrel_cactus_batch": "桶式仙人掌捆",
-	"block.atmospheric.aloe": "蘆薈",
+	"block.atmospheric.aloe_vera": "蘆薈",
+	"block.atmospheric.tall_aloe_vera": "高蘆薈",
 	"block.atmospheric.aloe_bundle": "蘆薈塊",
+	"block.atmospheric.aloe_gel_block": "蘆薈凝膠塊",
 	"block.atmospheric.gilia": "吉利亞",
 	
 	"block.atmospheric.arid_sand": "乾沙",
@@ -240,10 +244,16 @@
 	"item.atmospheric.aloe_leaves": "蘆薈葉",
 	"item.atmospheric.aloe_gel_bottle": "蘆薈凝膠瓶",
 	
+	"effect.atmospheric.persistence": "持久",
+	"effect.atmospheric.gelled": "凝膠化",
+	
 	"biome.atmospheric.dunes": "沙丘",
-	"biome.atmospheric.rocky_dunes": "岩石沙丘",
-	"biome.atmospheric.petrified_dunes": "石化沙丘",
+	"biome.atmospheric.dunes_hills": "沙丘丘陵",
 	"biome.atmospheric.flourishing_dunes": "蓬勃沙丘”",
+	
+	"biome.atmospheric.rocky_dunes": "岩石沙丘",
+	"biome.atmospheric.rocky_dunes": "岩石沙丘丘陵",
+	"biome.atmospheric.petrified_dunes": "石化沙丘",
 	
 	"death.attack.yuccaSapling": "%1$s被絲蘭樹苗切成薄片",
 	"death.attack.yuccaSapling.player": "%1$s在試圖逃脫%2$s時被絲蘭樹苗切成薄片",
@@ -256,36 +266,38 @@
   
   "_comment4": "START OF THE KOUSA SECTION",
   
-	"block.atmospheric.kousa_log": "考沙木原木",
-	"block.atmospheric.kousa_wood": "考沙木塊",
-	"block.atmospheric.stripped_kousa_log": "剝皮考沙木原木",
-	"block.atmospheric.stripped_kousa_wood": "剝皮考沙木塊",
-	"block.atmospheric.kousa_planks": "考沙木木材",
-	"block.atmospheric.kousa_stairs": "考沙木階梯",
-	"block.atmospheric.kousa_slab": "考沙木半磚",
-	"block.atmospheric.kousa_pressure_plate": "考沙木壓力板",
-	"block.atmospheric.kousa_button": "考沙木按鈕",
-	"block.atmospheric.kousa_door": "考沙木門",
-	"block.atmospheric.kousa_trapdoor": "考沙木地板門",
-	"block.atmospheric.kousa_fence": "考沙木柵欄",
-	"block.atmospheric.kousa_fence_gate": "考沙木柵欄門",
-	"block.atmospheric.kousa_sapling": "考沙木樹苗",
-	"block.atmospheric.kousa_leaves": "考沙木樹葉",
+	"block.atmospheric.kousa_log": "四照花樹原木",
+	"block.atmospheric.kousa_wood": "四照花樹木塊",
+	"block.atmospheric.stripped_kousa_log": "剝皮四照花樹原木",
+	"block.atmospheric.stripped_kousa_wood": "剝皮四照花樹木塊",
+	"block.atmospheric.kousa_planks": "四照花樹木材",
+	"block.atmospheric.kousa_stairs": "四照花樹階梯",
+	"block.atmospheric.kousa_slab": "四照花樹半磚",
+	"block.atmospheric.kousa_pressure_plate": "四照花樹壓力板",
+	"block.atmospheric.kousa_button": "四照花樹按鈕",
+	"block.atmospheric.kousa_door": "四照花樹門",
+	"block.atmospheric.kousa_trapdoor": "四照花樹地板門",
+	"block.atmospheric.kousa_fence": "四照花樹柵欄",
+	"block.atmospheric.kousa_fence_gate": "四照花樹柵欄門",
+	"block.atmospheric.kousa_sapling": "四照花樹樹苗",
+	"block.atmospheric.kousa_leaves": "四照花樹樹葉",
+	"block.atmospheric.kousa_sign": "四照花樹告示牌",
 	
-	"block.atmospheric.potted_kousa_sapling": "盆栽 考沙木樹苗",
+	"block.atmospheric.potted_kousa_sapling": "盆栽四照花樹樹苗",
 	
-	"block.atmospheric.kousa_bookshelf": "考沙木書櫃",
-	"block.atmospheric.kousa_vertical_slab": "考沙木直立半磚",
-	"block.atmospheric.vertical_kousa_planks": "豎紋考沙木木材",
-	"block.atmospheric.kousa_ladder": "考沙木梯子",
-	"block.atmospheric.kousa_leaf_carpet": "考沙木樹葉地毯",
+	"block.atmospheric.kousa_bookshelf": "四照花樹書櫃",
+	"block.atmospheric.kousa_vertical_slab": "四照花樹直立半磚",
+	"block.atmospheric.vertical_kousa_planks": "豎紋四照花樹木材",
+	"block.atmospheric.kousa_ladder": "四照花樹梯子",
+	"block.atmospheric.kousa_leaf_carpet": "四照花樹樹葉地毯",
 	
-	"item.atmospheric.kousa_boat": "考沙木船",
+	"item.atmospheric.kousa_boat": "四照花樹船",
   
   "_comment5": "START OF THE ASPEN SECTION",
   
 	"block.atmospheric.crustose": "殼狀地衣石",
-	"block.atmospheric.crustose_log": "殼狀地衣木",
+	"block.atmospheric.crustose_log": "殼狀地衣原木",
+	"block.atmospheric.crustose_wood": "殼狀地衣木塊",
   
 	"block.atmospheric.aspen_log": "白楊木原木",
 	"block.atmospheric.aspen_wood": "白楊木塊",
@@ -302,6 +314,7 @@
 	"block.atmospheric.aspen_fence_gate": "白楊木柵欄門",
 	"block.atmospheric.aspen_sapling": "白楊木樹苗",
 	"block.atmospheric.aspen_leaves": "白楊木樹葉",
+	"block.atmospheric.aspen_sign": "白楊木告示牌",
 	
 	"block.atmospheric.potted_aspen_sapling": "盆栽白楊木樹苗",
 	
@@ -312,6 +325,34 @@
 	"block.atmospheric.aspen_leaf_carpet": "白楊木樹葉地毯",
 	
 	"item.atmospheric.aspen_boat": "白楊木船",
+	
+	 "_comment6": "START OF THE SHADED WOODS SECTION",
+
+	"block.atmospheric.grimwood_log": "陰森木原木",
+	"block.atmospheric.grimwood": "陰森木塊",
+	"block.atmospheric.stripped_grimwood_log": "剝皮陰森木原木",
+	"block.atmospheric.stripped_grimwood": "剝皮陰森木塊",
+	"block.atmospheric.grimwood_planks": "陰森木木材",
+	"block.atmospheric.grimwood_stairs": "陰森木階梯",
+	"block.atmospheric.grimwood_slab": "陰森木半磚",
+	"block.atmospheric.grimwood_pressure_plate": "陰森木壓力板",
+	"block.atmospheric.grimwood_button": "陰森木按鈕",
+	"block.atmospheric.grimwood_door": "陰森木門",
+	"block.atmospheric.grimwood_trapdoor": "陰森木地板門",
+	"block.atmospheric.grimwood_fence": "陰森木柵欄",
+	"block.atmospheric.grimwood_fence_gate": "陰森木柵欄門",
+	"block.atmospheric.grimwood_sapling": "陰森木樹苗",
+	"block.atmospheric.grimwood_leaves": "陰森木樹葉",
+	"block.atmospheric.grimwood_sign": "陰森木告示牌",
+	"block.atmospheric.potted_grimwood_sapling": "盆栽陰森木樹苗",
+	
+	"block.atmospheric.grimwood_bookshelf": "陰森木書櫃",
+	"block.atmospheric.grimwood_vertical_slab": "陰森木直立半磚",
+	"block.atmospheric.vertical_grimwood_planks": "豎紋陰森木木材",
+	"block.atmospheric.grimwood_ladder": "陰森木梯子",
+	"block.atmospheric.grimwood_leaf_carpet": "陰森木樹葉地毯",
+	
+	"item.atmospheric.grimwood_boat": "陰森木船",
  
-  "_comment6": "END"
+  "_comment7": "END"
 }
