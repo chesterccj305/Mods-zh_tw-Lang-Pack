@@ -1,0 +1,33 @@
+# Ender Mail 模組翻譯
+# 繁體中文翻譯作者: 指音 command_music
+
+# 方塊
+tile.endermail.locker.name=儲物櫃
+tile.endermail.package.name=包裹
+tile.endermail.stamped_package.name=有郵票的包裹
+
+# 物品
+item.endermail.package_controller.name=包裹控制器
+item.endermail.packing_tape.name=包裹膠紙
+item.endermail.stamp.name=郵票
+
+# STRINGS
+string.endermail.cancel=取消
+string.endermail.close=關閉
+string.endermail.confirm=確定
+string.endermail.coordinates=坐標
+string.endermail.deliver=傳送
+string.endermail.delivered=已傳送
+string.endermail.deliveredToLocker=已傳送到儲物櫃
+string.endermail.delivering=運送
+string.endermail.deliveryDistance=傳送目標距離
+string.endermail.deliveryLocation=傳送目標地點
+string.endermail.error=發生錯誤
+string.endermail.holdShift=按下 §oShift§r§7 查看詳細資料
+string.endermail.lockerID=儲物櫃 ID
+string.endermail.id=ID
+string.endermail.maxDistance=最大距離
+string.endermail.setID=設定 ID
+string.endermail.status=狀態
+string.endermail.tooFar=離傳送目標過遠
+string.endermail.undeliverable=無法傳送
