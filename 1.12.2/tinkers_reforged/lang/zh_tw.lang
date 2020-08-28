@@ -1,0 +1,200 @@
+# creative tab
+itemGroup.tinkers_reforged=匠魂再鍛
+
+# blocks
+tile.tinkers_reforged.kovar_glass.name=鐵鈷鎳合金玻璃
+
+# items 
+
+#lavium
+item.tinkers_reforged.lavium_nugget.name=Lavium粒
+item.tinkers_reforged.lavium_ingot.name=Lavium錠
+item.tinkers_reforged.lavium_dust.name=Lavium粉
+item.tinkers_reforged.lavium_plate.name=Lavium板
+item.tinkers_reforged.lavium_gear.name=Lavium齒輪
+#qivium
+item.tinkers_reforged.qivium_nugget.name=Qivium粒
+item.tinkers_reforged.qivium_ingot.name=Qivium錠
+item.tinkers_reforged.qivium_dust.name=Qivium粉
+item.tinkers_reforged.qivium_plate.name=Qivium板
+item.tinkers_reforged.qivium_gear.name=Qivium齒輪
+#kovar
+item.tinkers_reforged.kovar_nugget.name=鐵鈷鎳合金粒
+item.tinkers_reforged.kovar_ingot.name=鐵鈷鎳合金錠
+item.tinkers_reforged.kovar_ingot.name=鐵鈷鎳合金粉
+item.tinkers_reforged.kovar_plate.name=鐵鈷鎳合金板
+item.tinkers_reforged.kovar_gear.name=鐵鈷鎳合金齒輪
+
+# Gladius
+item.tinkers_reforged.gladius.name=短劍
+item.tinkers_reforged.gladius.desc=一個能提供更多傷害但攻擊速度有減的寬劍，攻擊能夠緩速敵人。
+item.tinkers_reforged.gladius_bindings.name=短劍綁定結
+
+# Club
+item.tinkers_reforged.club.name=狼牙棒
+item.tinkers_reforged.club.desc=一個能產生衝擊波擊退敵人的武器。
+item.tinkers_reforged.club_head.name=狼牙棒頭端
+
+# Khopesh
+item.tinkers_reforged.curved_blade.name=曲劍
+item.tinkers_reforged.khopesh.name=霍佩什彎刀
+item.tinkers_reforged.khopesh.desc=埃及風格寬劍
+
+# Greatsword
+item.tinkers_reforged.great_blade.name=大劍
+item.tinkers_reforged.greatsword.name=大劍
+item.tinkers_reforged.greatsword.desc=巨大且強力的大劍。
+
+# runed_knife
+item.tinkers_reforged.runic_knife.name=符文刀
+item.tinkers_reforged.runic_knife.desc=用於將青苔從石塊摘除的刀具。
+
+# Fluids
+fluid.infused_iron=熔融蘊魔鐵錠
+fluid.molten_of_the_sky=熔融天空
+fluid.starmetal=星輝
+fluid.blutonium=熔融藍鈽
+fluid.ludicrite=熔融镥
+fluid.qivium=熔融Qivium
+fluid.lavium=熔融Lavium
+fluid.kovar=熔融鐵鈷鎳合金
+fluid.osmium=熔融鋨
+fluid.refined_obsidian=熔融強化黑曜石
+fluid.refined_glowstone=熔融強化螢石
+fluid.ventium=熔融Ventium
+fluid.horizonite=熔融Horizonite
+fluid.pyrope=熔融Pyrope
+fluid.black_quartz=熔融焦黑石英
+fluid.enori=熔融鐵晶
+fluid.palis=熔融青金石水晶
+fluid.void=熔融煤晶
+fluid.emeradic=熔融綠寶石水晶
+fluid.redstonia=熔融紅石水晶
+fluid.diamantine=熔融鑽石水晶
+
+# mining levels
+ui.mininglevel.lavium=Lavium
+
+# materials
+
+# thermalfoundation materials
+material.reforged_enderium.name=終界錠
+material.reforged_signalum.name=信素
+material.reforged_lumium.name=流明
+material.reforged_platinum.name=鉑
+material.reforged_iridium.name=銥
+material.reforged_invar.name=殷鋼
+material.reforged_aluminum.name=鋁
+
+# naturesaura materials
+material.reforged_infused_iron.name=蘊魔鐵錠
+material.reforged_ancient_wood.name=荒古木
+material.reforged_sky.name=天空元素
+
+## aa materials
+material.ref_black_quartz.name=焦黑石英
+material.ref_enori.name=鐵晶
+material.ref_void.name=煤晶
+material.ref_redstonia.name=紅石水晶
+material.ref_emeradic.name=綠寶石水晶
+material.ref_diamantine.name=鑽石水晶
+material.ref_palis.name=青金石水晶
+
+# Appliedenergistic2 materials
+material.reforged_certus_quartz.name=賽特斯石英
+material.reforged_fluix_crystal.name=福鲁伊克斯水晶
+
+# Astralsorcery materials
+material.reforged_starmetal.name=星輝
+
+# Atum 2
+material.reforged_limestone.name=石灰岩
+material.reforged_khnumite.name=克奴姆陶 
+
+# blueskies
+material.reforged_ventium.name=Ventium
+material.reforged_horizonite.name=Horizonite
+material.reforged_pyrope.name=Pyrope
+material.reforged_turquoise.name=Turquoise
+material.reforged_charoite.name=Charoite
+material.reforged_dioside.name=Diopside
+
+# Mystical world
+material.reforged_amethyst.name=紫水晶
+
+# Mekanism
+material.reforged_osmium.name=鋨
+material.reforged_obsidian.name=強化黑曜石
+material.reforged_glowstone.name=強化螢石
+material.reforged_hdpesheet.name=HDPE纸
+
+# Roots
+material.reforged_runestone.name=符文石
+
+# Extreme reactor
+material.reforged_yellorium.name=黃鈾
+material.reforged_blutonium.name=藍鈽
+material.reforged_ludicrite.name=镥
+material.reforged_cyanite.name=藍晶
+
+# custom mats
+material.reforged_lavium.name=Lavium
+material.reforged_qivium.name=Qivium
+
+# Traits and Modifiers
+modifier.ref_signal.name=信號
+modifier.ref_signal.desc=§o老天，別再刺激那些苦力怕了！§r\n攻擊會使苦力怕爆炸。
+
+modifier.ref_ender.name=終界
+modifier.ref_ender.desc=§o別看他們的眼睛！§r\n對終界生物造成雙倍傷害。
+
+modifier.enderfestation.name=終焉狂喜
+modifier.enderfestation.desc=§o那些小臭蟲，他們到處都是！§r\n挖掘方塊時有機率生成一個終界螨。
+
+modifier.ref_bright.name=明亮
+modifier.ref_bright.desc=§o太陽賜給我力量！§r\n你的工具在陽光下可造成更多傷害&挖掘的更快。
+
+modifier.ref_astral.name=星輝
+modifier.ref_astral.desc=§o黑暗中也看的一清二楚！§r
+
+modifier.aura_infusion.name=靈氣灌注
+modifier.aura_infusion.desc=§o這個工具會慢慢修復自己，但這又是什麼原理？§r\n使用靈氣修復工具。
+
+modifier.pyromancy.name=消防隊
+modifier.pyromancy.desc=§o火場爆發力！§r\n暴擊可使敵人著火。
+
+modifier.ref_radioactive.name=放射性
+modifier.ref_radioactive.desc=§o喔不！§r\n每Tick有50%機率治癒中毒&凋零。
+
+modifier.nuclear_waste.name=核廢料
+modifier.nuclear_waste.desc=§o輻射危機？§r\n在挖掘或攻擊時有機率獲得原版的藥水效果。
+
+modifier.life_steal.name=生命竊取
+modifier.life_steal.desc=§o你想要更多嗎???§r\n可從實體吸收生命值。
+
+modifier.ref_refined.name=加固
+modifier.ref_refined.desc=§o別那麼急！§r\n可更快挖掘黑曜石。
+
+modifier.ref_flux.name=通量
+modifier.ref_flux.desc=§o他怎麼做到的？§r\n有機率不消耗耐久而且會加快你的動作。
+
+modifier.ref_star_shaped.name=星光
+modifier.ref_star_shaped.desc=§o鋒芒四射！§r\n每一擊都會造成暴擊。
+
+modifier.ref_villager_love.name=村民愛
+modifier.ref_villager_love.desc=§o一天一個綠寶石！§r\n殺死生物後有機率掉落綠寶石
+
+modifier.ref_rose.name=玫瑰紅
+modifier.ref_rose.desc=§o玫瑰是紅的，紫羅蘭是藍的。§r\n草地會有機率掉落染料。
+
+modifier.ref_void.name=虛無
+modifier.ref_void.desc=§o這好像是空的§r\n挖掘時有機率掉落煤晶。
+
+modifier.ref_starry_night.name=星夜
+modifier.ref_starry_night.desc=§o看!是星星！§r\n在夜晚時會給你加速效果。
+
+modifier.ref_carbon.name=碳元素
+modifier.ref_carbon.desc=§o堅若磐石§r\n挖掘下的方塊會回復工具耐久。
+
+modifier.ender_star.name=終界之星
+modifier.ender_star.desc=§o終界之力！§r\n所有的生物都有機會掉落地獄之星了。
