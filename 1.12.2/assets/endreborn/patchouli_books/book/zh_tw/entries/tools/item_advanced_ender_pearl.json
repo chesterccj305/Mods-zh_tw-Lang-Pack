@@ -1,5 +1,5 @@
 {
-    "name": "高級末影珍珠",
+    "name": "高級終界珍珠",
     "icon": "endreborn:item_advanced_ender_pearl",
     "category": "tools",
 "advancement": "endreborn:endreborn/mine_essence",
@@ -7,7 +7,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "通過對精華的研究，我在嘗試讓末影珍珠沒有冷卻時間不斷的傳送。我需要實驗一下。"
+            "text": "通過對精華的研究，我在嘗試讓終界珍珠沒有冷卻時間不斷的傳送。我需要實驗一下。"
         },
 	{
             "type": "crafting",

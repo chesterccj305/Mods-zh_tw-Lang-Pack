@@ -47,9 +47,9 @@ config.cgm.client.display.tooltip=顯示相關選項的配置
 config.cgm.client.display.workbench_animation=工作台動畫
 config.cgm.client.display.workbench_animation.tooltip=如果設為 true，則在工作台中循環物品時執行動畫。
 
-config.cgm.server=服務器
+config.cgm.server=伺服器
 
-config.cgm.server.tooltip=僅限服務器的配置
+config.cgm.server.tooltip=僅限伺服器的配置
 config.cgm.server.aggro=挑釁生物
 config.cgm.server.aggro.tooltip=附近的生物在聽到槍聲後會被激怒和/或受驚嚇。
 config.cgm.server.aggro.enabled=啟用挑釁生物
@@ -93,9 +93,9 @@ config.cgm.server.grenade.stun.effect_criteria.duration.max.tooltip=如果手榴
 config.cgm.server.grenade.stun.effect_criteria.duration.min=最小持續時間（按距離）
 config.cgm.server.grenade.stun.effect_criteria.duration.min.tooltip=如果手榴彈是從玩家眼睛看的最大距離，效果將有這個持續時間（以刻為單位）。
 config.cgm.server.grenade.stun.effect_criteria.angle.effect=作用角度
-config.cgm.server.grenade.stun.effect_criteria.angle.effect.tooltip=眼睛/註視方向和眼睛/手榴彈方向之間的角度不得超過該角度的一半，以產生效果。
+config.cgm.server.grenade.stun.effect_criteria.angle.effect.tooltip=眼睛/注視方向和眼睛/手榴彈方向之間的角度不得超過該角度的一半，以產生效果。
 config.cgm.server.grenade.stun.effect_criteria.angle.attenuation.max=最大角度衰減
-config.cgm.server.grenade.stun.effect_criteria.angle.attenuation.max.tooltip=在持續時間被距離衰減後，它將根據眼睛/註視方向和眼睛/手榴彈方向之間的角度（度）進一步衰減。如果角度為 0，則乘以 1（無衰減）；如果角度在效果角度內最大，則乘以該值。
+config.cgm.server.grenade.stun.effect_criteria.angle.attenuation.max.tooltip=在持續時間被距離衰減後，它將根據眼睛/注視方向和眼睛/手榴彈方向之間的角度（度）進一步衰減。如果角度為 0，則乘以 1（無衰減）；如果角度在效果角度內最大，則乘以該值。
 config.cgm.server.grenade.stun.effect_criteria.raytrace.opaque=光線跟蹤不透明方塊
 config.cgm.server.grenade.stun.effect_criteria.raytrace.opaque.tooltip=如果設為 true，則僅當眼睛和手榴彈之間的線與不透明度大於 0 的任何非液體方塊不相交時才應用效果。
 

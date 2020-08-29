@@ -13,7 +13,7 @@ itemGroup.enderio.materials=Ender IO丨材料
 itemGroup.enderio.main=Ender IO丨方塊
 itemGroup.enderio.mobs=Ender IO丨靈魂
 itemGroup.enderio.conduits=Ender IO丨導管
-itemGroup.enderio.invpanel=Ender IO丨存儲控制面板
+itemGroup.enderio.invpanel=Ender IO丨儲存控制面板
 
 item.item_alloy_ingot_conductive_iron.name=導電鐵錠
 item.item_alloy_ingot_dark_steel.name=暗鋼錠
@@ -81,7 +81,7 @@ item.item_conduit_facade.transparent.hardened.tooltip.detailed.line2=硬化：�
 
 item.item_conduit_probe.name=導管探測器
 item.item_conduit_probe.tooltip.detailed.line1=探測模式下對導管右鍵
-item.item_conduit_probe.tooltip.detailed.line2=顯示其網絡的詳情
+item.item_conduit_probe.tooltip.detailed.line2=顯示其網路的詳情
 item.item_conduit_probe.tooltip.detailed.line3=複製/貼上模式下 Shift 右鍵
 item.item_conduit_probe.tooltip.detailed.line4=複製導管的連接設定
 item.item_conduit_probe.tooltip.detailed.line5=右鍵以貼上
@@ -638,7 +638,7 @@ tile.block_self_resetting_lever300i.name=Inverted Self-resetting Lever (5 Minute
 
 enderio.machine.tooltip.configured=%s（已設定）
 enderio.machine.tooltip.upgrade=機器升級
-enderio.machine.tooltip.upgrade.tooltip.detailed.line1=插入以升級能量存儲，速度和機器範圍
+enderio.machine.tooltip.upgrade.tooltip.detailed.line1=插入以升級能量儲存，速度和機器範圍
 
 enderio.block.tooltip.blastResistant=防爆
 enderio.block.tooltip.lightEmitter=發光
@@ -1157,7 +1157,7 @@ enderio.gui.machine.ioMode.push.colored=§6輸出端
 enderio.gui.machine.ioMode.disabled.colored=§c關閉
 enderio.gui.machine.ioMode.pullPush.colored=§6輸入§f/§b輸出端
 
-enderio.recipe.tooltip.clearConfig=§c§o這將清除所有存儲的東西！
+enderio.recipe.tooltip.clearConfig=§c§o這將清除所有儲存的東西！
 enderio.block.tooltip.isBeaconBase=可用作烽火台基座
 
 # Colors e.g. for Colored Fused Quartz
@@ -1168,13 +1168,13 @@ enderio.color.brown=棕色
 enderio.color.blue=藍色
 enderio.color.purple=紫色
 enderio.color.cyan=青色
-enderio.color.silver=淡灰色
+enderio.color.silver=淺灰色
 enderio.color.gray=灰色
 enderio.color.pink=粉色
-enderio.color.lime=黃綠色
+enderio.color.lime=淺綠色
 enderio.color.yellow=黃色
-enderio.color.lightBlue=淡藍色
-enderio.color.magenta=品紅色
+enderio.color.lightBlue=淺藍色
+enderio.color.magenta=洋紅色
 enderio.color.orange=橙色
 enderio.color.white=白色
 
@@ -1503,7 +1503,7 @@ tile.block_cap_bank.creative.name=創造模式電容庫
 tile.block_cap_bank.simple.name=基礎電容庫
 tile.block_cap_bank.activated.name=電容庫
 tile.block_cap_bank.vibrant.name=脈衝電容庫
-tile.block_cap_bank.tooltip.detailed.line1=多方塊能量存儲。
+tile.block_cap_bank.tooltip.detailed.line1=多方塊能量儲存。
 tile.block_cap_bank.tooltip.detailed.line2=可以給使用能量的物品充能（棄用）
 tile.block_cap_bank.tooltip.detailed.line3=對其中一面空手shift右鍵
 tile.block_cap_bank.tooltip.detailed.line4=來改變顯示的訊息
@@ -1530,21 +1530,21 @@ enderio.gui.cap_bank.output_mode=輸出訊號過濾
 
 # Power Monitor
 tile.block_power_monitor.name=能量監控器
-tile.block_power_monitor.tooltip.detailed.line1=顯示能量使用與存儲的詳情。
-tile.block_power_monitor.tooltip.detailed.line3=可根據所存儲的能量等級發射紅石訊號
+tile.block_power_monitor.tooltip.detailed.line1=顯示能量使用與儲存的詳情。
+tile.block_power_monitor.tooltip.detailed.line3=可根據所儲存的能量等級發射紅石訊號
 tile.block_power_monitor.tooltip.detailed.line5=必須與 EnderIO 的能量導管連接。
 
 tile.block_advanced_power_monitor.name=圖形化能量監控器
-tile.block_advanced_power_monitor.tooltip.detailed.line1=顯示能量使用與存儲的詳情。
-tile.block_advanced_power_monitor.tooltip.detailed.line3=可根據所存儲的能量等級發射紅石訊號。
+tile.block_advanced_power_monitor.tooltip.detailed.line1=顯示能量使用與儲存的詳情。
+tile.block_advanced_power_monitor.tooltip.detailed.line3=可根據所儲存的能量等級發射紅石訊號。
 tile.block_advanced_power_monitor.tooltip.detailed.line5=必須與 EnderIO 的能量導管連接。
 
 enderio.gui.power_monitor.engine_control=引擎控制
 enderio.gui.power_monitor.emit=發送
-enderio.gui.power_monitor.engine_section1=輸出訊號條件：當存儲
+enderio.gui.power_monitor.engine_section1=輸出訊號條件：當儲存
 enderio.gui.power_monitor.engine_section2=能量少於
 enderio.gui.power_monitor.engine_section3=% 時。
-enderio.gui.power_monitor.engine_section4=停止條件：當存儲能量
+enderio.gui.power_monitor.engine_section4=停止條件：當儲存能量
 enderio.gui.power_monitor.engine_section5=多或等於
 enderio.gui.power_monitor.of=佔
 enderio.gui.power_monitor.conduit_storage=導管緩衝
@@ -1552,7 +1552,7 @@ enderio.gui.power_monitor.capbank_storage=電容庫儲量
 enderio.gui.power_monitor.machine_buffer=機器暫存
 enderio.gui.power_monitor.average_output=5秒平均輸出
 enderio.gui.power_monitor.average_input=5秒平均輸入
-enderio.gui.power_monitor.no_network_error=未找到可用導管網絡連接。能量監控器必須與導管網絡連接，方能讀取到所需數據。
+enderio.gui.power_monitor.no_network_error=未找到可用導管網路連接。能量監控器必須與導管網路連接，方能讀取到所需數據。
 
 # Conduit Probe
 enderio.gui.conduit_probe.item.heading=物品導管連接到： %s
@@ -1645,7 +1645,7 @@ enderio.gui.redstone_signal_strength=強訊號
 enderio.gui.enabled=啟用
 enderio.gui.disabled=禁用
 
-enderio.gui.conduit.network.unloaded=部分管道處於未加載的區塊
+enderio.gui.conduit.network.unloaded=部分管道處於未載入的區塊
 
 # Advancements
 
@@ -2161,7 +2161,7 @@ tile.block_powered_spawner.tooltip.detailed.line2=使用更進階的電容可增
 enderio.block_powered_spawner.tooltip.cost=消耗倍率：%sx
 
 tile.block_creative_spawner.name=創造模式生怪磚
-tile.block_creative_spawner.tooltip.common.line1=創造模式/服務器管理員用的生怪磚
+tile.block_creative_spawner.tooltip.common.line1=創造模式/伺服器管理員用的生怪磚
 tile.block_creative_spawner.tooltip.detailed.line1=管理員：放入一個靈魂瓶來生怪，可選擇一個物品作為報酬。
 tile.block_creative_spawner.tooltip.detailed.line2=玩家：放入指定的報酬來生怪（除非這個生怪磚沒有設定報酬）。
 enderio.block_creative_spawner.gui.vial=靈魂
@@ -2187,7 +2187,7 @@ tile.block_tele_pad.tooltip.detailed.line2=必須擺成 3x1x3 多方塊結構。
 
 tile.block_dialing_device.name=坐標記錄儀
 tile.block_dialing_device.tooltip.detailed.line1=放在傳送台旁邊
-tile.block_dialing_device.tooltip.detailed.line2=存儲和設定目的地。
+tile.block_dialing_device.tooltip.detailed.line2=儲存和設定目的地。
 
 
 tile.block_transceiver.name=空間傳送器
@@ -2209,14 +2209,14 @@ tile.block_enhanced_vat.tooltip.detailed.line1=用於生產 EnderIO 中的流體
 
 tile.block_wired_charger.name=有線充能器
 tile.block_wired_charger.tooltip.detailed.line1=使用能量為物品充能
-tile.block_wired_charger.tooltip.detailed.line2=擴大了物品能量存儲的大小
+tile.block_wired_charger.tooltip.detailed.line2=擴大了物品能量儲存的大小
 
 tile.block_simple_wired_charger.name=簡易有線充能器
 tile.block_simple_wired_charger.tooltip.detailed.line2=使用能量為物品充能
 
 tile.block_enhanced_wired_charger.name=強化有線充能器
 tile.block_enhanced_wired_charger.tooltip.detailed.line1=使用能量為物品充能
-tile.block_enhanced_wired_charger.tooltip.detailed.line2=擴大了物品能量存儲的大小
+tile.block_enhanced_wired_charger.tooltip.detailed.line2=擴大了物品能量儲存的大小
 
 tile.block_wireless_charger.name=無線充能器
 tile.block_wireless_charger.tooltip.detailed.line1=給附近玩家物品欄中的物品充能。
@@ -2365,7 +2365,7 @@ enderio.advancement.sagmill.9_white.name=鑽石迷情 II
 enderio.advancement.sagmill.9_white.desc=研磨下界石英
 
 enderio.advancement.sagmill.a_powder_coating.name=經典色彩
-enderio.advancement.sagmill.a_powder_coating.desc=製做一些機器塗料
+enderio.advancement.sagmill.a_powder_coating.desc=製作一些機器塗料
 
 enderio.advancement.stirling.1_stirling_generator_get.name=利用熱能
 enderio.advancement.stirling.1_stirling_generator_get.desc=製作一個簡易斯特林發電機

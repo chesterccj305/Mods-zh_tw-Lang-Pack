@@ -1,5 +1,5 @@
 achievement.progressiontweaks.toTheCore=正中核心！
-achievement.progressiontweaks.toTheCore.desc=吃掉一個綠色玉米卷 (黃綠色)
+achievement.progressiontweaks.toTheCore.desc=吃掉一個綠色玉米卷 (淺綠色)
 item.broken_spear_shaft.name=折斷的矛（桿）
 item.broken_spear_tip.name=折斷的矛（頂部）
 item.fire_pit_unlit.name=火堆
@@ -8,7 +8,7 @@ item.lime.name=石灰
 item.spear.name=矛
 item.stone_hammer.name=石錘
 item.tomahawk.name=印第安戰斧
-item.unfired_clay_bowl.name=未燒制黏土碗
+item.unfired_clay_bowl.name=未燒製黏土碗
 itemGroup.progressiontweaks=Progression Tweaks
 tile.blank_teleporter.name=空白傳送器
 tile.fire_pit_lit.name=火堆

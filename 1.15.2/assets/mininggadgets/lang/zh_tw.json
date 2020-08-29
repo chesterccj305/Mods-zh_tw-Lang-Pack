@@ -37,7 +37,7 @@
     "mininggadgets.tooltip.screen.blacklist": "黑名單啟用",
     "mininggadgets.tooltip.screen.blue_inner": "Blue Inner",
     "mininggadgets.tooltip.screen.blue_outer": "Blue Outer",
-    "mininggadgets.tooltip.screen.delay_explain": "控制產生凍結粒子的頻率\n默認情況下，每個刻度為一個粒子\n減少粒子是以降低延遲",
+    "mininggadgets.tooltip.screen.delay_explain": "控制產生凍結粒子的頻率\n預設情況下，每個刻度為一個粒子\n減少粒子是以降低延遲",
     "mininggadgets.tooltip.screen.edit_filters": "編輯過濾器",
     "mininggadgets.tooltip.screen.fade": "漸變塊",
     "mininggadgets.tooltip.screen.freeze_delay": "凍結延遲",

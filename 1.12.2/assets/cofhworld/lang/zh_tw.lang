@@ -4,4 +4,4 @@ cofhworld.reload.usage=重載CoFHWorld的配置文件
 cofhworld.reload.successful=配置文件重載成功。
 cofhworld.reload.failed=配置文件重失敗;請檢查你的日志文件.
 cofhworld.list.usage=列出使用CoFHWorld的特性
-cofhworld.list=--- 加載CoFHWorld的特性 第 %d 頁總共 %d 頁---
+cofhworld.list=--- 載入CoFHWorld的特性 第 %d 頁總共 %d 頁---

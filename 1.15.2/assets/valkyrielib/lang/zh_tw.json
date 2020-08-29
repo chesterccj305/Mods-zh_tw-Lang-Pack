@@ -2,7 +2,7 @@
 	"itemGroup.valkyrielib.tab": "瓦爾基麗資料庫",
 	"valkyrielib.modname": "瓦爾基麗資料庫",
 	"valkyrielib.itemgroup.main": "瓦爾基麗資料庫",
-	"valkyrielib.default": "默認",
+	"valkyrielib.default": "預設",
 	"valkyrielib.documentation": "文檔",
 	"valkyrielib.documentation.enabled": "如果啟用此選項，將在mod的configs目錄中生成文檔，解釋每個設置的作用。",
 	"valkyrielib.guide.information": "I",

@@ -39,7 +39,7 @@ enchantment.minecraft.unbreaking.desc=減緩工具的耐久消耗速率。
 enchantment.minecraft.vanishing_curse.desc=如果你帶著附魔物品死掉，該物品會被銷毀。
 
 #Ender Core
-enchantment.endercore.autosmelt.desc=挖掘的物品將以它們燒制後的狀態掉落。
+enchantment.endercore.autosmelt.desc=挖掘的物品將以它們燒製後的狀態掉落。
 enchantment.endercore.xpboost.desc=生物死亡時掉落更多經驗值。
 
 #Extra Utilities 2

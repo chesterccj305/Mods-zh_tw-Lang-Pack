@@ -4,8 +4,8 @@ jer.config.itemsPerRow.title=每行顯示物品數
 jer.config.itemsPerRow.description=調整JEI面板中每行顯示地牢資源的數量
 jer.config.enchantsBlacklist.title=附魔黑名單
 jer.config.enchantsBlacklist.description=將特定附加魔放置JEI附魔界面黑名單
-jer.config.diyData.title=在顯示面板中使用自定義的數據
-jer.config.diyData.description=內置的兼容代碼將無法加載，並且將加載json（需要重啟Minecraft）
+jer.config.diyData.title=在顯示面板中使用自訂的數據
+jer.config.diyData.description=內置的相容代碼將無法載入，並且將載入json（需要重啟Minecraft）
 jer.config.dimensionsBlacklist.title=維度黑名單
 jer.config.dimensionsBlacklist.description=來自於JEI分析掃描的黑名單維度
 jer.config.showDevData.title=顯示其他信息
@@ -67,7 +67,7 @@ jer.worldgen.averageChunk=每區塊出現平均
 #Mob View
 jer.mob.title=生物資源
 jer.mob.spawn=生成群系：
-jer.mob.biome=生成群系：將鼠標懸停在此處查看
+jer.mob.biome=生成群系：將滑鼠懸停在此處查看
 jer.mob.exp=掉落經驗
 
 #Villager View

@@ -12,14 +12,14 @@ tile.block_conduit_bundle.name=導管接口
 
 enderio.item_power_conduit.name=能量導管
 enderio.item_power_conduit_enhanced.name=強化能量導管
-enderio.item_power_conduit_ender.name=末影能量導管
+enderio.item_power_conduit_ender.name=終界能量導管
 enderio.power.max_output=最大輸出
 
 enderio.item_redstone_conduit_insulated.name=紅石導管
 
 enderio.item_liquid_conduit.name=液體導管
 enderio.item_liquid_conduit_advanced.name=高壓液體導管
-enderio.item_liquid_conduit_ender.name=末影液體導管
+enderio.item_liquid_conduit_ender.name=終界液體導管
 enderio.item_liquid_conduit.locked_type=液體種類鎖定為
 enderio.item_liquid_conduit.unlocked_type=液體種類解鎖
 enderio.item_liquid_conduit.locked_waila=鎖定為
@@ -40,7 +40,7 @@ tile.block_cap_bank.creative.name=創造模式電容庫
 tile.block_cap_bank.simple.name=基礎電容庫
 tile.block_cap_bank.activated.name=電容庫
 tile.block_cap_bank.vibrant.name=脈沖電容庫
-tile.block_cap_bank.tooltip.detailed.line1=多方塊能量存儲。
+tile.block_cap_bank.tooltip.detailed.line1=多方塊能量儲存。
 tile.block_cap_bank.tooltip.detailed.line2=可以給使用能量的物品充能（棄用）
 tile.block_cap_bank.tooltip.detailed.line3=空手shift右擊一面
 tile.block_cap_bank.tooltip.detailed.line4=來改變顯示的信息
@@ -67,32 +67,32 @@ enderio.gui.cap_bank.output_mode=輸出信號過濾
 
 # Power Monitor
 tile.block_power_monitor.name=能量監控器
-tile.block_power_monitor.tooltip.detailed.line1=顯示能量使用與存儲的詳情。
-tile.block_power_monitor.tooltip.detailed.line3=可根據所存儲的能量等級發射紅石信號
+tile.block_power_monitor.tooltip.detailed.line1=顯示能量使用與儲存的詳情。
+tile.block_power_monitor.tooltip.detailed.line3=可根據所儲存的能量等級發射紅石信號
 tile.block_power_monitor.tooltip.detailed.line5=必須與 EnderIO 的能量導管連接。
 
 tile.block_advanced_power_monitor.name=圖形化能量監控器
-tile.block_advanced_power_monitor.tooltip.detailed.line1=顯示能量使用與存儲的詳情。
-tile.block_advanced_power_monitor.tooltip.detailed.line3=可根據所存儲的能量等級發射紅石信號。
+tile.block_advanced_power_monitor.tooltip.detailed.line1=顯示能量使用與儲存的詳情。
+tile.block_advanced_power_monitor.tooltip.detailed.line3=可根據所儲存的能量等級發射紅石信號。
 tile.block_advanced_power_monitor.tooltip.detailed.line5=必須與 EnderIO 的能量導管連接。
 
 enderio.gui.power_monitor.engine_control=引擎控制
 enderio.gui.power_monitor.emit=發送
-enderio.gui.power_monitor.engine_section1=輸出信號條件：當存儲
+enderio.gui.power_monitor.engine_section1=輸出信號條件：當儲存
 enderio.gui.power_monitor.engine_section2=能量少於
 enderio.gui.power_monitor.engine_section3=% 時。
-enderio.gui.power_monitor.engine_section4=停止條件：當存儲能量
+enderio.gui.power_monitor.engine_section4=停止條件：當儲存能量
 enderio.gui.power_monitor.engine_section5=多或等於
 enderio.gui.power_monitor.of=占
-enderio.gui.power_monitor.conduit_storage=導管緩沖
+enderio.gui.power_monitor.conduit_storage=導管緩衝
 enderio.gui.power_monitor.capbank_storage=電容庫儲量
 enderio.gui.power_monitor.machine_buffer=機器緩存
 enderio.gui.power_monitor.average_output=5秒平均輸出
 enderio.gui.power_monitor.average_input=5秒平均輸入
-enderio.gui.power_monitor.no_network_error=未找到可用導管網絡連接。能量監控器必須與導管網絡連接，方能讀取到所需數據。
+enderio.gui.power_monitor.no_network_error=未找到可用導管網路連接。能量監控器必須與導管網路連接，方能讀取到所需數據。
 
 # Conduit Probe
-enderio.gui.conduit_probe.network_heading=能量網絡
+enderio.gui.conduit_probe.network_heading=能量網路
 enderio.gui.conduit_probe.conduit_buffer=內部緩存
 enderio.gui.conduit_probe.request_range=每刻請求範圍
 enderio.gui.conduit_probe.current_request=當前請求
@@ -165,7 +165,7 @@ enderio.gui.redstone_signal_strength=強信號
 enderio.gui.enabled=啟用
 enderio.gui.disabled=禁用
 
-enderio.gui.conduit.network.unloaded=部分管道處於未加載的區塊
+enderio.gui.conduit.network.unloaded=部分管道處於未載入的區塊
 
 # Advancements
 
@@ -173,59 +173,59 @@ enderio.advancement.conduits.root.name=Ender IO 導管
 enderio.advancement.conduits.root.desc=一個方塊中有多少導管？
 
 enderio.advancement.conduits.binder_composite.name=我才不是渣渣！
-enderio.advancement.conduits.binder_composite.desc=制作一些粘合胚料
+enderio.advancement.conduits.binder_composite.desc=製作一些黏合胚料
 
 # Temp?
-enderio.advancement.conduits.conduit_binder.name=通用粘合劑
-enderio.advancement.conduits.conduit_binder.desc=燒制一些導管粘合劑
+enderio.advancement.conduits.conduit_binder.name=通用黏合劑
+enderio.advancement.conduits.conduit_binder.desc=燒製一些導管黏合劑
 
 # Temp
 enderio.advancement.conduits.energy_conduit.basic.name=基礎能量
-enderio.advancement.conduits.energy_conduit.basic.desc=制作一些能量導管
+enderio.advancement.conduits.energy_conduit.basic.desc=製作一些能量導管
 
 # Temp
 enderio.advancement.conduits.energy_conduit.enhanced.name=強化能量
-enderio.advancement.conduits.energy_conduit.enhanced.desc=制作一些強化能量導管
+enderio.advancement.conduits.energy_conduit.enhanced.desc=製作一些強化能量導管
 
 # Temp
-enderio.advancement.conduits.energy_conduit.ender.name=末影能量
-enderio.advancement.conduits.energy_conduit.ender.desc=制作一些末影能量導管
+enderio.advancement.conduits.energy_conduit.ender.name=終界能量
+enderio.advancement.conduits.energy_conduit.ender.desc=製作一些終界能量導管
 
 # Temp
 enderio.advancement.conduits.fluid_conduit.basic.name=基礎液體
-enderio.advancement.conduits.fluid_conduit.basic.desc=制作一些液體導管
+enderio.advancement.conduits.fluid_conduit.basic.desc=製作一些液體導管
 
 # Temp?
 enderio.advancement.conduits.fluid_conduit.pressurized.name=含有壓力
-enderio.advancement.conduits.fluid_conduit.pressurized.desc=制作一些高壓液體導管
+enderio.advancement.conduits.fluid_conduit.pressurized.desc=製作一些高壓液體導管
 
 enderio.advancement.conduits.fluid_conduit.ender.name=瞬間傳輸液體
-enderio.advancement.conduits.fluid_conduit.ender.desc=制作一些末影液體導管
+enderio.advancement.conduits.fluid_conduit.ender.desc=製作一些終界液體導管
 
 # Temp
 enderio.advancement.conduits.item_conduit.name=物品傳輸
-enderio.advancement.conduits.item_conduit.desc=制作一些物品導管
+enderio.advancement.conduits.item_conduit.desc=製作一些物品導管
 
 enderio.advancement.conduits.basic_filter.name=傻瓜式過濾
-enderio.advancement.conduits.basic_filter.desc=制作一個基礎物品過濾器
+enderio.advancement.conduits.basic_filter.desc=製作一個基礎物品過濾器
 
 enderio.advancement.conduits.advanced_filter.name=最大控制
-enderio.advancement.conduits.advanced_filter.desc=制作一個高級物品過濾器
+enderio.advancement.conduits.advanced_filter.desc=製作一個高級物品過濾器
 
 enderio.advancement.conduits.big_filter.name=最大尺寸
-enderio.advancement.conduits.big_filter.desc=制作一個大型物品過濾器
+enderio.advancement.conduits.big_filter.desc=製作一個大型物品過濾器
 
 enderio.advancement.conduits.big_advanced_filter.name=一個過濾器管所有
-enderio.advancement.conduits.big_advanced_filter.desc=制作一個高級大型物品過濾器
+enderio.advancement.conduits.big_advanced_filter.desc=製作一個高級大型物品過濾器
 
 # Temp
 enderio.advancement.conduits.redstone_conduit.name=紅石傳輸
-enderio.advancement.conduits.redstone_conduit.desc=制作一些紅石導管
+enderio.advancement.conduits.redstone_conduit.desc=製作一些紅石導管
 
 # Temp?
 enderio.advancement.conduits.all_conduits.name=萬金油
-enderio.advancement.conduits.all_conduits.desc=制作出所有核心導管類型
+enderio.advancement.conduits.all_conduits.desc=製作出所有核心導管類型
 
 # Temp?
 enderio.advancement.conduits.all_filters.name=劃重點
-enderio.advancement.conduits.all_filters.desc=制作出所有核心過濾器類型
+enderio.advancement.conduits.all_filters.desc=製作出所有核心過濾器類型

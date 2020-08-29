@@ -2,7 +2,7 @@
 tile.parabox.parabox.name=獎勵盒
 #Info
 info.parabox.dimension=臨時性的異常阻止了放置。
-info.parabox.disconnect=服務器的世界和空間都被顛覆了。請嘗試幾分鐘後重連。
+info.parabox.disconnect=伺服器的世界和空間都被顛覆了。請嘗試幾分鐘後重連。
 info.parabox.update.daily=你已經生成了一點聲望點數。獎勵盒現在需要 %d RF/t。
 info.parabox.update.warn=你的獎勵盒設備沒有足夠的能量。尚若你無法在 %3$s 處提供 %2$d 能量，你將會損失 %1$d 點聲望。
 info.parabox.update.deactivate=你的獎勵盒設備沒有滿足能量需求，現已停用。損失了 %d 點聲望。 
@@ -31,8 +31,8 @@ parabox.button.loop.on=循環：On
 parabox.button.loop.off=循環：Off
 parabox.tip.activate=點擊激活獎勵盒。這將會消耗能量來生成聲望點數。
 parabox.tip.deactivate=點擊停用獎勵盒。這將會停止生成聲望點數，所有已經生成的聲望點數也會損失。
-parabox.tip.loop.on=你已經投票重載時間循環。所有擁有此獎勵盒的服務器玩家都需要為此選項投票。
-parabox.tip.loop.off=當你準備好初始化循環時，點擊此按鈕，所有擁有此獎勵盒的服務器玩家都需要為此選項投票。
+parabox.tip.loop.on=你已經投票重載時間循環。所有擁有此獎勵盒的伺服器玩家都需要為此選項投票。
+parabox.tip.loop.off=當你準備好初始化循環時，點擊此按鈕，所有擁有此獎勵盒的伺服器玩家都需要為此選項投票。
 #Collapse GUI
 parabox.collapsed=世界已經被崩塌！
 parabox.reset=獎勵盒將世界狀態設置為先前的狀態。

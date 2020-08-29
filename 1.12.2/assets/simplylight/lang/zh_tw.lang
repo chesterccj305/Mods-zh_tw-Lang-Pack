@@ -18,13 +18,13 @@ tile.simplylight.illuminant_block_on.info=簡易的發光方塊，
 tile.simplylight.illuminant_block_on.info2=使用§4紅石§r關閉。
 
 tile.simplylight.wall_lamp.name=發光燈具
-tile.simplylight.wall_lamp.info=懸掛在墻壁上，或粘在天花板和地板上。
+tile.simplylight.wall_lamp.info=懸掛在牆壁上，或黏在天花板和地板上。
 
-tile.simplylight.edge_light.name=墻角燈（底部）
+tile.simplylight.edge_light.name=牆角燈（底部）
 tile.simplylight.edge_light.info=放置在方塊的夾角之間，
 tile.simplylight.edge_light.info2=會在一個方塊空間中的所有夾角上顯示。
 
-tile.simplylight.edge_light_top.name=墻角燈（頂部）
+tile.simplylight.edge_light_top.name=牆角燈（頂部）
 tile.simplylight.edge_light_top.info=放置在方塊的夾角之間，
 tile.simplylight.edge_light_top.info2=會在一個方塊空間中的所有夾角上顯示。
 

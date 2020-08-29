@@ -6,5 +6,5 @@ compacter.craftmode.two_only=只有 2x2 合成表
 compacter.craftmode.two_three=先嘗試 2x2 合成
 compacter.recurse.disabled=循環打包禁用
 compacter.recurse.enabled=循環打包啟用
-tile.compacter.cobbler.name=創造模式圓石制造機
+tile.compacter.cobbler.name=創造模式圓石製造機
 tile.compacter.compacter.name=打包機

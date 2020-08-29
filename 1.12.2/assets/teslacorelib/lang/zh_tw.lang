@@ -89,7 +89,7 @@ tile.teslacorelib.creative_generator.name=創造模式特斯拉發電機
 #*************
 
 #core lib energy display
-gui.teslacorelib.energy.stored_energy=能量存儲
+gui.teslacorelib.energy.stored_energy=能量儲存
 gui.teslacorelib.energy.stored_line_1=%s 最大：
 gui.teslacorelib.energy.stored_line_2=%s
 gui.teslacorelib.energy.statistic=%s (%s)
@@ -101,7 +101,7 @@ gui.teslacorelib.energy.tesla_format=%s T
 gui.teslacorelib.energy.redstone_flux_format=%s RF
 gui.teslacorelib.energy.buildcraft_mj_format=%s MJ
 
-gui.teslacorelib.work_energy.work_energy_buffer=工作時間緩沖槽
+gui.teslacorelib.work_energy.work_energy_buffer=工作時間緩衝槽
 gui.teslacorelib.work_energy.work_energy_line_1=%s 最大：%s
 gui.teslacorelib.work_energy.work_energy_line_2=最高: %s / tick
 gui.teslacorelib.work_energy.work_energy_line_3=~單個 %s ticks
@@ -139,5 +139,5 @@ gui.teslacorelib.fluid_tank.can_fill_from_container=可從容器填充
 
 
 #lockable inventory lock piece
-gui.teslacorelib.lockable_inventory.unlock_inventory=解鎖存儲槽
-gui.teslacorelib.lockable_inventory.lock_inventory=鎖定存儲槽
+gui.teslacorelib.lockable_inventory.unlock_inventory=解鎖儲存槽
+gui.teslacorelib.lockable_inventory.lock_inventory=鎖定儲存槽

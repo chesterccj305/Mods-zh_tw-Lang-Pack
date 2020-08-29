@@ -16,7 +16,7 @@ info.thermalinnovation.magnet.b.1=§e按下（%s）禁用。 §r
 info.thermalinnovation.magnet.c.0=吸取禁用
 info.thermalinnovation.magnet.c.1=吸取啟用
 
-info.thermalinnovation.injector.a.0=存儲、注射藥水，能夠作用自使用者本身。
+info.thermalinnovation.injector.a.0=儲存、注射藥水，能夠作用自使用者本身。
 info.thermalinnovation.injector.a.1=對著實體左擊注入所包含的藥水。
 info.thermalinnovation.injector.a.2=潛行左擊朝自己注入藥水。
 info.thermalinnovation.injector.b.0=§b按下（%s）鍵啟用自動注射。 §r

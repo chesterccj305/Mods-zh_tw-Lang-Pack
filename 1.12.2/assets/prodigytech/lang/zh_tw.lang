@@ -13,8 +13,8 @@ tile.prodigytech.explosion_furnace.name=爆炸熔爐
 tile.prodigytech.explosion_furnace.tooltip=使用爆炸反應\n來處理物品
 
 #Aeroheaters
-tile.prodigytech.magmatic_aeroheater.name=熔巖氣熱爐
-tile.prodigytech.magmatic_aeroheater.tooltip=通過放置於巖漿上持續生成熱空氣
+tile.prodigytech.magmatic_aeroheater.name=熔岩氣熱爐
+tile.prodigytech.magmatic_aeroheater.tooltip=通過放置於岩漿上持續生成熱空氣
 tile.prodigytech.solid_fuel_aeroheater.name=固體燃料氣熱爐
 tile.prodigytech.solid_fuel_aeroheater.tooltip=通過熔爐中可燃燒的燃料來生成熱空氣\n通過紅石信號來關閉
 tile.prodigytech.energion_aeroheater.name=能源氣熱爐
@@ -37,7 +37,7 @@ tile.prodigytech.food_purifier.name=食物凈化機
 tile.prodigytech.food_purifier.tooltip=從食物中移除副作用，當然正面狀態也會被去除
 
 tile.prodigytech.solderer.name=焊機
-tile.prodigytech.solderer.tooltip=使用金粉、電路板\n和一個模板來制作電路
+tile.prodigytech.solderer.tooltip=使用金粉、電路板\n和一個模板來製作電路
 
 #Circuits
 tile.prodigytech.magnetic_reassembler.name=磁力重構機
@@ -47,7 +47,7 @@ tile.prodigytech.ore_refinery.tooltip=處理礦石又快又好
 tile.prodigytech.automatic_crystal_cutter.name=晶體自動切割機
 tile.prodigytech.automatic_crystal_cutter.tooltip=自動采集機器面前的能量晶體
 tile.prodigytech.capacitor_charger.name=蓄熱器
-tile.prodigytech.capacitor_charger.tooltip=給熱容器註入熱能
+tile.prodigytech.capacitor_charger.tooltip=給熱容器注入熱能
 tile.prodigytech.fuel_processor.name=燃料加工機
 tile.prodigytech.fuel_processor.tooltip=把熔爐燃料打碎壓縮成燃料丸
 tile.prodigytech.food_enricher.name=食物富集機
@@ -70,7 +70,7 @@ tile.prodigytech.wormhole_funnel.tooltip=傳送到另一個蟲洞管道中\n使�
 #Extractors
 tile.prodigytech.linear_extractor.name=線性提取器
 tile.prodigytech.linear_extractor.tooltip=從機器前面的容器中抽取\n然後輸入到另一面的容器中\n通過紅石信號來關閉
-tile.prodigytech.funnelling_extractor.name=漏鬥型提取器
+tile.prodigytech.funnelling_extractor.name=漏斗型提取器
 tile.prodigytech.funnelling_extractor.tooltip=從每個面中的容器提取物品\n然後往前輸出\n通過紅石信號來關閉
 tile.prodigytech.dispersing_extractor.name=分散型提取器
 tile.prodigytech.dispersing_extractor.tooltip=從正面的容器中提取物品\n然後向其他的所有面循環輸出\n通過紅石信號來關閉
@@ -112,7 +112,7 @@ item.prodigytech.iron_dust.name=鐵粉
 item.prodigytech.iron_dust_tiny.name=小撮鐵粉
 item.prodigytech.gold_dust.name=金粉
 item.prodigytech.gold_dust_tiny.name=小撮金粉
-item.prodigytech.diamond_dust.name=鉆石粉
+item.prodigytech.diamond_dust.name=鑽石粉
 item.prodigytech.emerald_dust.name=綠寶石粉
 item.prodigytech.quartz_dust.name=下界石英粉
 item.prodigytech.flour.name=面粉
@@ -138,8 +138,8 @@ item.prodigytech.heat_capacitor_0.name=125°C 熱容器
 item.prodigytech.heat_capacitor_1.name=250°C 熱容器
 item.prodigytech.heat_capacitor_2.name=500°C 熱容器
 item.prodigytech.heat_capacitor_3.name=1000°C 熱容器
-item.prodigytech.heat_capacitor.tooltip=從熱空氣中存儲熱量,以便未來使用
-item.prodigytech.heat_capacitor.tooltip.charge=§6剩余熱量：§f %d%%§r
+item.prodigytech.heat_capacitor.tooltip=從熱空氣中儲存熱量,以便未來使用
+item.prodigytech.heat_capacitor.tooltip.charge=§6剩餘熱量：§f %d%%§r
 
 item.prodigytech.fuel_pellet_1.name=燃料丸
 item.prodigytech.fuel_pellet_4.name=燃料丸 x4
@@ -220,7 +220,7 @@ container.prodigytech.atomic_reshaper.primordium.amount=%d單位原基
 container.prodigytech.atomic_reshaper.primordium.empty=空的
 
 container.prodigytech.linear_extractor=線性提取器
-container.prodigytech.funnelling_extractor=漏鬥型提取器
+container.prodigytech.funnelling_extractor=漏斗型提取器
 container.prodigytech.dispersing_extractor=分散型提取器
 
 #Status messages
@@ -229,7 +229,7 @@ status.prodigytech.wormhole_linker.start=開始連接。
 status.prodigytech.wormhole_linker.success=§a連接成功。
 status.prodigytech.wormhole_linker.error=§c無法建立連接。
 status.prodigytech.wormhole_linker.error.distance=§c管道距離太遠。
-status.prodigytech.wormhole_linker.error.incompatible=§c管道不在能被兼容的位置上，檢查管道朝向。
+status.prodigytech.wormhole_linker.error.incompatible=§c管道不在能被相容的位置上，檢查管道朝向。
 status.prodigytech.wormhole_linker.error.lost=§c找不到原始管道。
 
 #TOP
@@ -264,19 +264,19 @@ advancements.prodigytech.main.root.description=奇跡在等你
 advancements.prodigytech.main.guide.title=閱讀使你變得更強
 advancements.prodigytech.main.guide.description=用一本書和沙子做出奇才妙械手冊
 advancements.prodigytech.main.explosion_furnace.title=這是一個真的會爆炸的熔爐
-advancements.prodigytech.main.explosion_furnace.description=做一個爆炸熔爐來制作瓷鐵
+advancements.prodigytech.main.explosion_furnace.description=做一個爆炸熔爐來製作瓷鐵
 advancements.prodigytech.main.aeroheater.title=加大熱度
 advancements.prodigytech.main.aeroheater.description=做一個氣熱爐來產熱空氣
 advancements.prodigytech.main.rotary_grinder.title=全 員 粉 碎
-advancements.prodigytech.main.rotary_grinder.description=做一個旋轉磨粉機來制作各種粉
+advancements.prodigytech.main.rotary_grinder.description=做一個旋轉磨粉機來製作各種粉
 advancements.prodigytech.main.solderer.title=精細活
-advancements.prodigytech.main.solderer.description=做一個焊機來制作電路
+advancements.prodigytech.main.solderer.description=做一個焊機來製作電路
 advancements.prodigytech.main.energion_aeroheater.title=達 到 極 限
 advancements.prodigytech.main.energion_aeroheater.description=做一個能源氣熱爐來驅動更好的機器
 advancements.prodigytech.main.primordium.title=（差不多的）UU物質
-advancements.prodigytech.main.primordium.description=做一個原基反應器來制作原基，以及一個原子重塑機來使用它
+advancements.prodigytech.main.primordium.description=做一個原基反應器來製作原基，以及一個原子重塑機來使用它
 advancements.prodigytech.main.zorra_leaf.title=如刀鋒一樣鋒利
-advancements.prodigytech.main.zorra_leaf.description=重塑一個樹苗讓他變成佐拉樹苗，然後再采集他的葉片來制作佐拉鋼
+advancements.prodigytech.main.zorra_leaf.description=重塑一個樹苗讓他變成佐拉樹苗，然後再采集他的葉片來製作佐拉鋼
 advancements.prodigytech.main.tartaric_aeroheater.title=焮天鑠地
 advancements.prodigytech.main.tartaric_aeroheater.description=做一個冥界氣熱爐
 advancements.prodigytech.main.zorra_altar.title=感受寧靜

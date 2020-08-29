@@ -18,7 +18,7 @@
 	        "title": "Former",
 	        "border": true,
             "images": [ "hwell:textures/gui/former.png" ],
-            "text": "被石頭島嶼生成器所制造出來的島嶼."
+            "text": "被石頭島嶼生成器所製造出來的島嶼."
         },
 		{
             "type": "text",

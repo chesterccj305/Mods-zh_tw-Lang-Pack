@@ -37,4 +37,4 @@ threng.int.jei.category.etcher=ME電路板蝕刻器
 tile.threng:machine4.name=ME級別維護器
 threng.container.level_maintainer=ME級別維護器
 threng.misc.tooltip.request_size=維護量
-threng.misc.tooltip.batch_size=批量制作大小
+threng.misc.tooltip.batch_size=批量製作大小

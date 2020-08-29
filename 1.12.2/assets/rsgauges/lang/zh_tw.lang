@@ -85,13 +85,13 @@ tile.rsgauges.indicator_rustic_flag.help=§6一個小金屬盒，裡面的信號
 # Switch tooltip help aspects
 #-----------------------------------------------------------------------------------------------------------
 rsgauges.switch.feature.pulseextend.help=能在已激活時再激活一次來延長激活時間。
-rsgauges.switch.feature.hoppermountable.help=能放在漏鬥上。
+rsgauges.switch.feature.hoppermountable.help=能放在漏斗上。
 rsgauges.switch.feature.pulsetime.help=手持一組紅石左鍵可將脈沖間隔固定在0.1秒(1)到6.4秒(64)之間。
 rsgauges.switch.feature.outputconfig.help=空手左鍵可配置輸出(在支持的不同輸出模式間循環)。
 rsgauges.switch.feature.projectilesense.help=可用投射物激活。
 rsgauges.switch.feature.colortinting.help=可用任意染料左鍵來使開關染色。
-rsgauges.switch.feature.linktarget.help=用末影珍珠左鍵此開關來得到與其連接的連接末影珍珠。
-rsgauges.switch.feature.linksource.help=用連接末影珍珠左鍵此開關來使其成為連接源。
+rsgauges.switch.feature.linktarget.help=用終界珍珠左鍵此開關來得到與其連接的連接終界珍珠。
+rsgauges.switch.feature.linksource.help=用連接終界珍珠左鍵此開關來使其成為連接源。
 rsgauges.switch.feature.contactmat.offdelay.help=手持一組紅石左鍵來將信號維持時間固定在0.1秒(1)到6.4秒(64)之間。
 rsgauges.switch.feature.contactmat.touch.help=右擊上下箭頭按鈕配置輸出信號強度、實體過濾、實體計數和靈敏度。
 
@@ -103,7 +103,7 @@ tile.rsgauges.bistableswitch2.name=雙穩態紅石開關 (觸點拉桿)
 tile.rsgauges.bistableswitch3.name=雙穩態紅石開關 (機械開關)
 tile.rsgauges.bistableswitch4.name=雙穩態紅石開關 (小型燈具開關)
 tile.rsgauges.bistableswitch5.name=雙穩態紅石開關 (反向按鈕)
-tile.rsgauges.bistableswitch6.name=雙穩態紅石開關 (漏鬥阻斷開關)
+tile.rsgauges.bistableswitch6.name=雙穩態紅石開關 (漏斗阻斷開關)
 tile.rsgauges.bistableswitch7.name=雙穩態紅石開關 (機械旋轉拉桿)
 tile.rsgauges.bistableswitch8.name=雙穩態紅石開關 (機械拉桿)
 tile.rsgauges.bistableswitch_oldfancy1.name=雙穩態紅石開關 (老式設計直拉桿)
@@ -269,7 +269,7 @@ tile.rsgauges.trapdoorswitch2.help=§6一個工業式地板活板門，當某人
                                    信號會輸出到放置的方塊上。\
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                    ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.trapdoorswitch3.help=§6一個工業式傳感器框架，當發現有實體掉落並穿過時會發出紅石信號。§r\n\
+tile.rsgauges.trapdoorswitch3.help=§6一個工業式感測器框架，當發現有實體掉落並穿過時會發出紅石信號。§r\n\
                                    信號會輸出到放置的方塊上。 \
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                    ${rsgauges.switch.feature.linksource.help}
@@ -340,12 +340,12 @@ tile.rsgauges.automaticswitch6.help=§6一種小型壁掛式設備，擋在空�
                                     正面的按鈕能設置輸出信號的強度。\
                                     信號會輸出到設備放置的方塊上。\
                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.automaticswitch7.help=§6一種小型設備，能發出自定義高值和低值時間的方波紅石信號。§r\n\
-                                    自定義的時間能用正面的按鈕配置，範圍在0.1秒(2 ticks)\
+tile.rsgauges.automaticswitch7.help=§6一種小型設備，能發出自訂高值和低值時間的方波紅石信號。§r\n\
+                                    自訂的時間能用正面的按鈕配置，範圍在0.1秒(2 ticks)\
                                     到600秒(10分鐘)之間。配置時當前時間值越大，按一次改變的的步長也越大，反之亦然。\
                                     利用按鈕還能配置輸出信號強度和傾斜值，\
                                     傾斜值能改變紅石信號改變的速度。\
-                                    §e設備被放置時默認是待機模式。右擊錶面按鈕可\
+                                    §e設備被放置時預設是待機模式。右擊錶面按鈕可\
                                     設置為運行模式。§r \
                                     信號會輸出到設備放置的方塊上。\
                                     ${rsgauges.switch.feature.outputconfig.help} \
@@ -369,12 +369,12 @@ tile.rsgauges.daytimeswitch_glass1.help=§6一個小型玻璃設備，會每游�
                                     會使狀態改變延遲一個隨機的時間，更高的值有更高的延遲。\
                                     信號會輸出到設備放置的方塊上。輸出信號切換時不會發出聲音。\
                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.timerswitch_glass1.help=§6一種小型玻璃設備，能發出自定義高值和低值時間的方波紅石信號。§r\n\
-                                    自定義的時間能用正面的按鈕配置，範圍在0.1秒(2 ticks)\
+tile.rsgauges.timerswitch_glass1.help=§6一種小型玻璃設備，能發出自訂高值和低值時間的方波紅石信號。§r\n\
+                                    自訂的時間能用正面的按鈕配置，範圍在0.1秒(2 ticks)\
                                     到600秒(10分鐘)之間。配置時當前時間值越大，按一次改變的的步長也越大，反之亦然。\
                                     利用按鈕還能配置輸出信號強度和傾斜值，\
                                     傾斜值能改變紅石信號改變的速度。\
-                                    §e設備被放置時默認是待機模式。右擊錶面按鈕可\
+                                    §e設備被放置時預設是待機模式。右擊錶面按鈕可\
                                     設置為運行模式。§r \
                                     信號會輸出到設備放置的方塊上。輸出信號切換時不會發出聲音。\
                                     ${rsgauges.switch.feature.outputconfig.help} \
@@ -455,7 +455,7 @@ tile.rsgauges.relay_pulseswitchrx2.help=§6一個用完整方塊包裝的小型�
 tile.rsgauges.relay_bistableswitchtx1.help=§6一個小型工業式開關，專為作為有紅石信號輸入的連接中繼器優化。§r\n\
                                            該中繼器不能發出紅石信號，但在設備放置的方塊的紅石強度改變時\
                                            設備內部的連接珍珠會激活。\
-                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時激活)和強度敏感性(默認是弱，調成強會使得需要強信號來激活連接)。\
+                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時激活)和強度敏感性(預設是弱，調成強會使得需要強信號來激活連接)。\
                                            已消音，非常安靜。為了方便測試，也能右鍵手動激活連接。\
                                            ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
 
@@ -465,7 +465,7 @@ tile.rsgauges.relay_pulseswitchtx1.help=§6一個小型工業式脈沖開關，�
                                            該中繼器不能發出紅石信號，但在設備放置的方塊的紅石強度改變時\
                                            設備內部的連接珍珠會激活。\
                                            設備會在輸入信號從0變為任意更高值時短時間激活。\
-                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時激活)和強度敏感性(默認是弱，調成強會使得需要強信號來激活連接)。\
+                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時激活)和強度敏感性(預設是弱，調成強會使得需要強信號來激活連接)。\
                                            已消音，非常安靜。為了方便測試，也能右鍵手動激活連接。\
                                            ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
 
@@ -485,7 +485,7 @@ tile.rsgauges.powerplant_yellow.help=§6人造的黃色化，看上去非常像�
                                      §r\n\
                                      ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                      ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.powerplant_red.help=§6人造的紅色化，看上去非常像虞美人。\
+tile.rsgauges.powerplant_red.help=§6人造的紅色化，看上去非常像罌粟。\
                                      當被實體觸碰時會向上方方塊和底部方塊發出紅石信號。\
                                      §r\n\
                                      ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
@@ -512,12 +512,12 @@ tile.rsgauges.sensitiveglass_green.name=紅石感應玻璃 (綠色)
 tile.rsgauges.sensitiveglass_blue.name=紅石感應玻璃 (藍色)
 tile.rsgauges.sensitiveglass_yellow.name=紅石感應玻璃 (黃色)
 tile.rsgauges.sensitiveglass_orange.name=紅石感應玻璃 (橙色)
-tile.rsgauges.sensitiveglass_magenta.name=紅石感應玻璃 (品紅色)
-tile.rsgauges.sensitiveglass_lightblue.name=紅石感應玻璃 (淡藍色)
-tile.rsgauges.sensitiveglass_lime.name=紅石感應玻璃 (黃綠色)
+tile.rsgauges.sensitiveglass_magenta.name=紅石感應玻璃 (洋紅色)
+tile.rsgauges.sensitiveglass_lightblue.name=紅石感應玻璃 (淺藍色)
+tile.rsgauges.sensitiveglass_lime.name=紅石感應玻璃 (淺綠色)
 tile.rsgauges.sensitiveglass_pink.name=紅石感應玻璃 (粉紅色)
 tile.rsgauges.sensitiveglass_gray.name=紅石感應玻璃 (灰色)
-tile.rsgauges.sensitiveglass_lightgray.name=紅石感應玻璃 (淡灰色)
+tile.rsgauges.sensitiveglass_lightgray.name=紅石感應玻璃 (淺灰色)
 tile.rsgauges.sensitiveglass_cyan.name=紅石感應玻璃 (青色)
 tile.rsgauges.sensitiveglass_purple.name=紅石感應玻璃 (紫色)
 tile.rsgauges.sensitiveglass_brown.name=紅石感應玻璃 (棕色)
@@ -558,7 +558,7 @@ tile.rsgauges.qube.help=這是開發人員模塊，不應該在遊戲中製作�
 # Items
 #-----------------------------------------------------------------------------------------------------------
 item.rsgauges.switchlink_pearl.name=開關連接珍珠
-item.rsgauges.switchlink_pearl.help=§6可用末影珍珠左鍵一個開關來創建開關連接珍珠。該開關會作為連接的目標，\
+item.rsgauges.switchlink_pearl.help=§6可用終界珍珠左鍵一個開關來創建開關連接珍珠。該開關會作為連接的目標，\
                                     會在連接珍珠被使用或連接珍珠被插入的連接起始開關激活時激活。§r\n\
                                     手持連接珍珠左鍵目標開關會循環切換連接選項。\
                                     可以在一個開關中插入多個連接珍珠。\

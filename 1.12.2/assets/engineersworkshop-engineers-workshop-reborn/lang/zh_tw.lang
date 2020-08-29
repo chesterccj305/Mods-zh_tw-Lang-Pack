@@ -4,12 +4,12 @@ tile.engineersworkshop:blockTable.name=工作台
 #Upgrade Names
 engineersworkshop:upgrade.blank.name=空白升級
 engineersworkshop:upgrade.auto_crafter.name=自動合成升級
-engineersworkshop:upgrade.storage.name=存儲升級
+engineersworkshop:upgrade.storage.name=儲存升級
 engineersworkshop:upgrade.charged.name=能量升級
 engineersworkshop:upgrade.speed.name=速度升級
 engineersworkshop:upgrade.queue.name=候選升級
 engineersworkshop:upgrade.efficiency.name=效率升級
-engineersworkshop:upgrade.lava.name=熔巖升級
+engineersworkshop:upgrade.lava.name=熔岩升級
 engineersworkshop:upgrade.eu.name=EU升級
 engineersworkshop:upgrade.rf.name=RF升級
 engineersworkshop:upgrade.solar.name=太陽能升級
@@ -21,14 +21,14 @@ engineersworkshop:upgrade.fuel_delay.name=燃油燃燒器升級
 engineersworkshop:upgrade.axe.name=斧頭升級
 
 #Upgrade Descriptions
-engineersworkshop:upgrade.blank.description=用於制作其他組件
+engineersworkshop:upgrade.blank.description=用於製作其他組件
 engineersworkshop:upgrade.auto_crafter.description=能夠自動進行合成
-engineersworkshop:upgrade.storage.description=添加額外的存儲空間
+engineersworkshop:upgrade.storage.description=添加額外的儲存空間
 engineersworkshop:upgrade.charged.description=讓閑置組件充電以供稍後使用
 engineersworkshop:upgrade.speed.description=提高生產速度
 engineersworkshop:upgrade.queue.description=添加輸入候選
 engineersworkshop:upgrade.efficiency.description=提高固體燃料類型的燃料效率
-engineersworkshop:upgrade.lava.description=允許熔巖用作能量來源
+engineersworkshop:upgrade.lava.description=允許熔岩用作能量來源
 engineersworkshop:upgrade.rf.description=允許RF用作能量來源
 engineersworkshop:upgrade.solar.description=允許將陽光用作能量來源
 #engineersworkshop:upgrade.eu.description=Allows EU to be used as fuel

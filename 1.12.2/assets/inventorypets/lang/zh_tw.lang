@@ -49,7 +49,7 @@ item.inventorypets_loot_pet.name=[寵物]戰利品
 item.inventorypets_juggernaut_pet.name=[寵物]神像
 item.inventorypets_grave_pet.name=[寵物]墓碑
 item.inventorypets_illuminati_pet.name=[寵物]光源
-item.inventorypets_custom_pet.name=[寵物]自定義
+item.inventorypets_custom_pet.name=[寵物]自訂
 
 item.inventorypets_pacman_pet.name=[寵物]吃豆人
 item.inventorypets_quiver_pet.name=[寵物]箭袋
@@ -135,8 +135,8 @@ tile.inventorypets_sand.name=沙塊
 tile.inventorypets_sand_spawn.name=沙生成器
 tile.inventorypets_stone.name=石塊
 tile.inventorypets_stone_spawn.name=石頭生成器
-tile.inventorypets_space_spawn.name=空間刷怪箱
-tile.inventorypets_nether_spawn.name=地獄刷怪箱
+tile.inventorypets_space_spawn.name=空間生怪磚
+tile.inventorypets_nether_spawn.name=地獄生怪磚
 
 tile.bed.notHere=你不能在這裡睡覺
 tile.bed.allPlayersNotSleeping=所有玩家必須在床上

@@ -44,7 +44,7 @@ tooltip.sulfur1=放入3x3水池中並引燃
 fluid.sulfurousacid=亞硫酸
 
 #OCWires
-tooltip.coil.info0=僅用於開放式電腦網絡
+tooltip.coil.info0=僅用於開放式電腦網路
 tooltip.coil.info1=不可傳輸能量
 tooltip.coil.attachedTo=連接從%1$s, %2$s, %3$s
 tile.TelecommunicationConnector.name=電信線纜連接器
@@ -60,8 +60,8 @@ chat.warning.invalidPoint=存在無效連接點
 ie.manual.category.zettaindustries.name=澤它重工
 ie.manual.entry.ocwires.name=OC線纜
 ie.manual.entry.ocwires.subtext=開放式電腦專用線纜
-ie.manual.entry.ocwires0=為了建造你的電信網絡，你需要專用的電信線纜連接器。<br>連接器只能與那些已與線纜/機器相連接的連接器相連。
-ie.manual.entry.ocwires1=同時還有一種可供開放式電腦網絡使用的電信線圈。
+ie.manual.entry.ocwires0=為了建造你的電信網路，你需要專用的電信線纜連接器。<br>連接器只能與那些已與線纜/機器相連接的連接器相連。
+ie.manual.entry.ocwires1=同時還有一種可供開放式電腦網路使用的電信線圈。
 
 #SimpleDHD Check these:https://en.wikipedia.org/wiki/Stargate_(device)#Dial-Home_Device https://zh.wikipedia.org/wiki/%E6%98%9F%E9%96%80_(%E8%A3%9D%E7%BD%AE)
 tile.zettaindustries.simpledhd.name=簡易撥號盤

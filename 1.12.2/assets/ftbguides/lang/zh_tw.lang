@@ -1,7 +1,7 @@
 ftbguides.general.base_uri=基本 URI
 ftbguides.general.flash_guides=Flash 指南按鈕
 ftbguides.general.modpack_guide_version=整合包指南版本
-ftbguides.lang.commands_failed=無法加載指令
+ftbguides.lang.commands_failed=無法載入指令
 ftbguides.lang.home=首頁
 ftbguides.lang.open_in_browser=在瀏覽器中打開
 ftbguides.lang.server_info=伺服器資訊

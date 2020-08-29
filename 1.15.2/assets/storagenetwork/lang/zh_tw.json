@@ -1,6 +1,6 @@
 {
     "itemGroup.storagenetwork": "簡單儲存網",
-    "block.storagenetwork.kabel": "網絡纜線",
+    "block.storagenetwork.kabel": "網路纜線",
     "block.storagenetwork.storage_kabel": "連接纜線",
     "block.storagenetwork.export_kabel": "導出纜線",
     "block.storagenetwork.import_kabel": "導入纜線",
@@ -35,7 +35,7 @@
     "block.storagenetwork.recipe.valid": "事務有效",
 
     "item.remote.outofrange": "超出範圍",
-    "item.remote.notloaded": "區塊未加載",
+    "item.remote.notloaded": "區塊未載入",
 
     "gui.storagenetwork.operate.tooltip": "如果網路中 %s 多於 %d %s 才觸發",
     "gui.storagenetwork.operate.tooltip.more": "多",
@@ -74,7 +74,7 @@
     "gui.storagenetwork.fil.tooltip_jei_on": "啟用JEI搜索",
     "gui.storagenetwork.fil.tooltip_jei_off": "禁用JEI搜索",
 
-    "block.storagenetwork.kabel.tooltip": "基礎網絡纜線",
+    "block.storagenetwork.kabel.tooltip": "基礎網路纜線",
     "block.storagenetwork.storage_kabel.tooltip": "將物品欄連接到網路。",
     "block.storagenetwork.export_kabel.tooltip": "將來自網路的物品導出到連接的物品欄。",
     "block.storagenetwork.import_kabel.tooltip": "將物品從連接的物品欄導入到網路中。",

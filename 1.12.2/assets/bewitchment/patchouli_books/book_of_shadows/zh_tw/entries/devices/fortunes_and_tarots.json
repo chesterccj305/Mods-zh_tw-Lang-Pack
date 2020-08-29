@@ -57,8 +57,8 @@
 		"bewitchment:textures/gui/patchouli/tarot/02enderman.png"
 	  ],
 	  "border": true,
-	  "title": "末影人",
-	  "text": "你擁有末影註魔"
+	  "title": "終界使者",
+	  "text": "你擁有終界注魔"
 	},
 	{
 	  "type": "image",
@@ -67,7 +67,7 @@
 	  ],
 	  "border": true,
 	  "title": "貓",
-	  "text": "你已經註魔過了"
+	  "text": "你已經注魔過了"
 	},
 	{
 	  "type": "image",
@@ -129,7 +129,7 @@
 		"bewitchment:textures/gui/patchouli/tarot/10diamonds.png"
 	  ],
 	  "border": true,
-	  "title": "鉆石",
+	  "title": "鑽石",
 	  "text": "你有一個正面的命運，翻轉則為負面"
 	},
 	{
@@ -139,7 +139,7 @@
 	  ],
 	  "border": true,
 	  "title": "鐵傀儡",
-	  "text": "你擁有主世界註魔"
+	  "text": "你擁有主世界注魔"
 	},
 	{
 	  "type": "image",
@@ -157,7 +157,7 @@
 	  ],
 	  "border": true,
 	  "title": "雕靈骷髏",
-	  "text": "你擁有下界註魔"
+	  "text": "你擁有下界注魔"
 	},
 	{
 	  "type": "image",
@@ -183,7 +183,7 @@
 		"bewitchment:textures/gui/patchouli/tarot/16ender_dragon.png"
 	  ],
 	  "border": true,
-	  "title": "末影龍",
+	  "title": "終界龍",
 	  "text": "你至少殺死過100只怪物，以及 殺怪數量 / 100"
 	},
 	{
@@ -193,7 +193,7 @@
 	  ],
 	  "border": true,
 	  "title": "星",
-	  "text": "你擁有夢境註魔"
+	  "text": "你擁有夢境注魔"
 	},
 	{
 	  "type": "image",

@@ -1,5 +1,5 @@
 chat.transporter.dimension.warning=不能跨維度傳送。
-chat.transporter.fluid.warning=諧振末影珍珠流體不足。缺少 %s mb。
+chat.transporter.fluid.warning=諧振終界珍珠流體不足。缺少 %s mb。
 chat.transporter.rf.warning=傳送器中 RF 能量不足。缺少%s RF。
 gui.whoosh.transporter=傳送
 info.whoosh.transporter.a.0=閃現

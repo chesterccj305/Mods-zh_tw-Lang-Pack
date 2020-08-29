@@ -41,7 +41,7 @@ item.phased_field_generator.name=相場發生器
 item.InfusedDiamond.name=充能鑽石
 item.dimlet_template.name=信息卡模板
 item.DimensionModule.name=維度模塊
-item.DimletModule.name=維度存儲模塊
+item.DimletModule.name=維度儲存模塊
 item.dimlet_parcel.name=信息卡包裹
 
 item.dimlet_base.name=信息卡基礎部件
@@ -111,7 +111,7 @@ tile.rftoolsdim.liquid_absorber.name=流體吸收器
 tile.rftoolsdim.timeAbsorberBlock.name=時間吸收器
 tile.rftoolsdim.volcanicCoreBlock.name=火山核心
 tile.rftoolsdim.volcanicBlock.name=火山方塊
-tile.rftoolsdim.essence_painter.name=要素繪制器
+tile.rftoolsdim.essence_painter.name=要素繪製器
 tile.rftoolsdim.fake_water.name=氺
 tile.rftoolsdim.fake_sand.name=唦孒
 tile.rftoolsdim.fake_gravel.name=唦石樂

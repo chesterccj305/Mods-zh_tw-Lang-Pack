@@ -16,7 +16,7 @@ item.ArrowFrost.name=霜凍箭矢
 item.ArrowAir.name=飄浮箭矢
 item.ArrowEnderperle.name=移位箭矢
 item.ArrowVampier.name=吸血箭矢
-item.ArrowWither.name=雕零箭矢
+item.ArrowWither.name=凋零箭矢
 item.ArrowTorch.name=火把箭矢
 item.ArrowSplit.name=碎裂箭矢
 item.ArrowUnderwater.name=水下箭矢
@@ -55,7 +55,7 @@ enchantment.pullSpeed=快速拉弓
 enchantment.activeScope=射擊瞄具
 enchantment.cooldownReduce=快速填裝
 
-tooltips.inventory=存儲：
+tooltips.inventory=儲存：
 
 category.switchbow=終界弓模組
 key.switchbow.switchup=下一支箭矢

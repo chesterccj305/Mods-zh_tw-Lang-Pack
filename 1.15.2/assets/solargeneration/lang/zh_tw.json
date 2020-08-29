@@ -64,9 +64,9 @@
 
     "message.solargeneration.hold_shift": "按 @b@oShift @7獲得詳細信息",
 
-    "message.solargeneration.hold_ctrl": "按 @b@oCtrl @7存儲能量",
+    "message.solargeneration.hold_ctrl": "按 @b@oCtrl @7儲存能量",
 
     "message.solargeneration.shift_info": "@f發電: @a%d @4FE/t\n@f傳遞: @a%d @4FE/t\n@f電量: @a%d @4FE",
 
-    "message.solargeneration.ctrl_info": "@f能量存儲: @a%d @4FE"
+    "message.solargeneration.ctrl_info": "@f能量儲存: @a%d @4FE"
 }

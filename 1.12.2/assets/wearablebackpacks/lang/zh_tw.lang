@@ -40,8 +40,8 @@ config.wearablebackpacks.backpack.durability=耐久性
 config.wearablebackpacks.backpack.durability.tooltip=控制普通背包的耐用性（0為不損壞）。
 config.wearablebackpacks.backpack.armor=裝甲值
 config.wearablebackpacks.backpack.armor.tooltip=普通背包的裝甲值。
-config.wearablebackpacks.backpack.size=存儲大小
-config.wearablebackpacks.backpack.size.tooltip=控制普通背包的存儲大小。 不會影響已放置或已配備的背包，請將它們重新變成可以應用更改的物品。
+config.wearablebackpacks.backpack.size=儲存大小
+config.wearablebackpacks.backpack.size.tooltip=控制普通背包的儲存大小。 不會影響已放置或已配備的背包，請將它們重新變成可以應用更改的物品。
 
 config.wearablebackpacks.category.entity=生成設置
 config.wearablebackpacks.category.entity.tooltip=設定生成穿戴有背包的生物

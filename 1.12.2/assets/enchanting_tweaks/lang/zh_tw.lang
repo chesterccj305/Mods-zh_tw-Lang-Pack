@@ -1,6 +1,6 @@
 #blocks
 tile.acacia_book_container.name=合金歡木書架
-tile.birch_book_container.name=白樺木書架
+tile.birch_book_container.name=樺木書架
 tile.dark_oak_book_container.name=深色橡木書架
 tile.jungle_book_container.name=叢林木書架
 tile.oak_book_container.name=橡木書架
@@ -23,12 +23,12 @@ enchanting_tweaks.configgui.title=附魔微調配置文件
 enchanting_tweaks.configgui.main=主體部分
 #blocks
 tile.enchanting_tweaks.fertilized_farmland=肥沃的耕地
-tile.enchanting_tweaks.acacia_book_container.name=金合歡木書架
-tile.enchanting_tweaks.birch_book_container.name=白樺木書架
+tile.enchanting_tweaks.acacia_book_container.name=相思木書架
+tile.enchanting_tweaks.birch_book_container.name=樺木書架
 tile.enchanting_tweaks.dark_oak_book_container.name=深色橡木書架
 tile.enchanting_tweaks.jungle_book_container.name=叢林木書架
 tile.enchanting_tweaks.oak_book_container.name=橡木書架
-tile.enchanting_tweaks.spruce_book_container.name=雲杉木書架
+tile.enchanting_tweaks.spruce_book_container.name=杉木書架
 tile.enchanting_tweaks.maple_book_container.name=楓木書架
 tile.enchanting_tweaks.silverbell_book_container.name=銀鈴木書架
 #crossmod blocks

@@ -20,9 +20,9 @@ gui.sleep_heal_amount =睡眠將恢復最大生命值的%s %%
 firstaid.tooltip.morphine=抑制生命減益持續%s
 firstaid.tooltip.healer=恢復總計%s個心，每半個心需要%s
 
-firstaid.tutorial.notice=教程-沒有實際值
-firstaid.tutorial.hint=按%s進入教程
-firstaid.tutorial.welcome=歡迎使用醫療護理！本教程將指導您完成此mod並解釋不同的機制。
+firstaid.tutorial.notice=教學-沒有實際值
+firstaid.tutorial.hint=按%s進入教學
+firstaid.tutorial.welcome=歡迎使用醫療護理！本教學將指導您完成此mod並解釋不同的機制。
 firstaid.tutorial.line1=您可能已經注意到，原版健康欄不見了。它已被此系統取代。
 firstaid.tutorial.line2=您身體的每個部分都有自己的健康。因此，如果您從高處跌落...
 firstaid.tutorial.line3=您的一隻腳將斷掉！這可能會導致一些減益效果，例如腳部受傷的速度緩慢，手臂受損的採礦疲勞等等。
@@ -51,14 +51,14 @@ firstaid.config.scalemaxhealth.tooltip=如果為true，則將最大健康狀況�
 firstaid.config.capmaxhealth=最大生命值上限
 firstaid.config.capmaxhealth.tooltip=如果為true，則最大健康上限為每肢6顆心，吸收量為每肢2顆心。如果為假，則健康上限會更高（64顆正常心臟和16顆吸收）
 firstaid.config.experimental=觀看setHealth
-firstaid.config.experimental.tooltip=如果為true，將捕獲來自其他mod的setHealth的所有用法。應該不會造成任何問題，但允許應用諸如縮放健康繃帶之類的mod。僅服務器端
+firstaid.config.experimental.tooltip=如果為true，將捕獲來自其他mod的setHealth的所有用法。應該不會造成任何問題，但允許應用諸如縮放健康繃帶之類的mod。僅伺服器端
 firstaid.config.bandage=繃帶
 firstaid.config.bandage.tooltip=繃帶項目的設置
 firstaid.config.plaster=石膏
 firstaid.config.plaster.tooltip=石膏項目的設置
-firstaid.config.totalheals=總治愈
-firstaid.config.totalheals.tooltip=應用此項時的總治療效果。 1次治愈=半顆心
-firstaid.config.secondsperheal=每次治愈秒
+firstaid.config.totalheals=總治癒
+firstaid.config.totalheals.tooltip=應用此項時的總治療效果。 1次治癒=半顆心
+firstaid.config.secondsperheal=每次治癒秒
 firstaid.config.secondsperheal.tooltip=一次治療觸發所需的時間。此項目處於活動狀態的總時間=此* totalHeals
 firstaid.config.applytime=應用時間
 firstaid.config.applytime.tooltip=在GUI中應用項目所花費的時間（以毫秒為單位）

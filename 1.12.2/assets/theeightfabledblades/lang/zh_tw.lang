@@ -22,7 +22,7 @@ potion.effect.confound=混亂藥水
 potion.effect.annihilation=湮滅藥水
 effect.annihilation=湮滅遲延
 effect.confound=混亂
-effect.interference=幹擾
+effect.interference=干擾
 effect.heartpierced=穿心
 effect.armorpierced=破甲
 effect.lunar_attunement=月之共鳴
@@ -32,7 +32,7 @@ effect.vision_less=弱視 (對於實體)
 effect.floating=暫停
 
 key.theeightfabledblades.swordmode.desc=劍刃模式變換
-key.theeightfabledblades.swordsign.desc=劍刃標志變換
+key.theeightfabledblades.swordsign.desc=劍刃標誌變換
 keys.theeightfabledblades.category=八大傳說之劍
 
 death.attack.heartpierce=%1$s 流血致死

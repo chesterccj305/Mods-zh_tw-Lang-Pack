@@ -181,7 +181,7 @@
     "advancement.naturesaura.sky_ingot": "堅固且輕盈",
     "advancement.naturesaura.sky_ingot.desc": "給神貢獻祭品來獲得蒼穹錠",
     "advancement.naturesaura.aura_cache": "緩-存",
-    "advancement.naturesaura.aura_cache.desc": "創建靈氣緩器，得以將靈氣存儲",
+    "advancement.naturesaura.aura_cache.desc": "創建靈氣緩器，得以將靈氣儲存",
     "advancement.naturesaura.positive_imbalance": "美麗的環境",
     "advancement.naturesaura.positive_imbalance.desc": "製造出過多的靈氣會造成正面的效果失衡",
     "advancement.naturesaura.negative_imbalance": "致命日",
@@ -200,5 +200,5 @@
     "entity.naturesaura.mover_cart": "靈氣吸引礦車",
     "enchantment.naturesaura.aura_mending": "自然修補",
     "enchantment.naturesaura.aura_mending.desc": "使用靈氣修理工具",
-    "naturesaura:aura_mending.enchant.desc": "使用靈氣治愈玩家"
+    "naturesaura:aura_mending.enchant.desc": "使用靈氣治癒玩家"
 }

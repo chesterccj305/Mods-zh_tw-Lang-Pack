@@ -12,7 +12,7 @@ item.nhc.lock.name=機器鎖
 item.nhc.publiclock.name=公共機器鎖
 item.nhc.key.name=機器鑰匙
 item.nhc.masterkey.name=統領骷髏鑰匙
-item.nhc.energypearl.name=充能末影珍珠
+item.nhc.energypearl.name=充能終界珍珠
 
 //---Blocks---//
 tile.nhc.frame.name=機器框架
@@ -62,13 +62,13 @@ color.nhc.brown=棕色
 color.nhc.blue=藍色
 color.nhc.purple=紫色
 color.nhc.cyan=青色
-color.nhc.lightGray=淡灰色
+color.nhc.lightGray=淺灰色
 color.nhc.gray=灰色
 color.nhc.pink=粉紅色
-color.nhc.lime=黃綠色
+color.nhc.lime=淺綠色
 color.nhc.yellow=黃色
-color.nhc.lightBlue=淡藍色
-color.nhc.magenta=品紅色
+color.nhc.lightBlue=淺藍色
+color.nhc.magenta=洋紅色
 color.nhc.orange=橙色
 color.nhc.white=白色
 color.nhc.rainbow=彩虹

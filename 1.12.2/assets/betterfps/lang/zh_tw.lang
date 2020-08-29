@@ -57,9 +57,9 @@ betterfps.options.fancy=精細
 betterfps.options.async=Async
 
 # GUI Option Descriptions
-betterfps.options.default=默認：%s
-betterfps.options.default.vanilla=在默認下的原版：%s
-betterfps.options.default.betterfps=在默認下的BetterFps：%s
+betterfps.options.default=預設：%s
+betterfps.options.default.vanilla=在預設下的原版：%s
+betterfps.options.default.betterfps=在預設下的BetterFps：%s
 betterfps.options.restart=需要重新啟動Minecraft才能生效
 
 # GUI Restart
@@ -95,16 +95,16 @@ betterfps.options.fog.title=霧
 betterfps.options.fog.desc=是否繪製霧
 
 # GUI Beacon Beam Option
-betterfps.options.beaconbeam.title=信標光束
-betterfps.options.beaconbeam.desc=是否繪製信標光束的透明層
+betterfps.options.beaconbeam.title=烽火台光束
+betterfps.options.beaconbeam.desc=是否繪製烽火台光束的透明層
 
 # GUI Fast Hopper Option
 betterfps.options.hopper.title=快速漏斗
 betterfps.options.hopper.desc=是否改進漏斗
 
 # GUI Fast Beacon Option
-betterfps.options.beacon.title=快速信標
-betterfps.options.beacon.desc=是否改進信標
+betterfps.options.beacon.title=快速烽火台
+betterfps.options.beacon.desc=是否改進烽火台
 
 # GUI Fast Creative Search Option
 betterfps.options.creativesearch.title=快速搜索

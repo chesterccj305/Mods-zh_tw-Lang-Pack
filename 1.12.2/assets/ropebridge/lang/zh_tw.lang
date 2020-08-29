@@ -6,7 +6,7 @@
 _#Items 
 achievement.buildBridge.desc=使用橋梁建築槍建造一座索橋
 achievement.buildBridge=索橋
-achievement.grapplingGun.desc=用橋梁建築槍鉤，槍管以及槍托來制作橋梁建築槍
+achievement.grapplingGun.desc=用橋梁建築槍鉤，槍管以及槍托來製作橋梁建築槍
 achievement.grapplingGun=橋梁建築槍
 chat.ropebridge.info.bad_side=你不能在方塊的 %f 建造繩梯。試試邊上！
 chat.ropebridge.info.greatslope=對不起，你的橋的坡度太大了。請移步再試一次。

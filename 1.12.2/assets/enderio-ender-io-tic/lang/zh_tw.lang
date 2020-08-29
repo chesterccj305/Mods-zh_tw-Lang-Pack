@@ -63,8 +63,8 @@ tile.fluid.enderio.redstone.name=熔融紅石
 fluid.enderio.ender=液態終界珍珠
 tile.fluid.enderio.ender.name=液態終界珍珠
 
-fluid.crude_steel=熔融粗制鋼
-tile.fluid.crude_steel=熔融粗制鋼
+fluid.crude_steel=熔融粗製鋼
+tile.fluid.crude_steel=熔融粗製鋼
 fluid.crystalline_alloy=熔融晶化合金
 tile.fluid.crystalline_alloy=熔融晶化合金
 fluid.melodic_alloy=熔融旋律合金

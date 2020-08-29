@@ -13,10 +13,10 @@ tile.artisanworktables.worktable.farmer.name=農夫工作台
 tile.artisanworktables.worktable.jeweler.name=珠寶商工作台
 tile.artisanworktables.worktable.mage.name=法師工作台
 tile.artisanworktables.worktable.mason.name=石匠工作台
-tile.artisanworktables.worktable.potter.name=制陶師工作台
+tile.artisanworktables.worktable.potter.name=製陶師工作台
 tile.artisanworktables.worktable.scribe.name=翻印工工作台
 tile.artisanworktables.worktable.tailor.name=裁縫工作台
-tile.artisanworktables.worktable.tanner.name=制革師工作台
+tile.artisanworktables.worktable.tanner.name=製革師工作台
 
 # Workstations
 tile.artisanworktables.workstation.basic.name=基礎工作站
@@ -30,10 +30,10 @@ tile.artisanworktables.workstation.farmer.name=農夫工作站
 tile.artisanworktables.workstation.jeweler.name=珠寶商工作站
 tile.artisanworktables.workstation.mage.name=法師工作站
 tile.artisanworktables.workstation.mason.name=石匠工作站
-tile.artisanworktables.workstation.potter.name=制陶師工作站
+tile.artisanworktables.workstation.potter.name=製陶師工作站
 tile.artisanworktables.workstation.scribe.name=翻印工工作站
 tile.artisanworktables.workstation.tailor.name=裁縫工作站
-tile.artisanworktables.workstation.tanner.name=制革師工作站
+tile.artisanworktables.workstation.tanner.name=製革師工作站
 
 # Workshops
 tile.artisanworktables.workshop.basic.name=基礎工作坊
@@ -47,10 +47,10 @@ tile.artisanworktables.workshop.farmer.name=農夫工作坊
 tile.artisanworktables.workshop.jeweler.name=珠寶商工作坊
 tile.artisanworktables.workshop.mage.name=法師工作坊
 tile.artisanworktables.workshop.mason.name=石匠工作坊
-tile.artisanworktables.workshop.potter.name=制陶師工作坊
+tile.artisanworktables.workshop.potter.name=製陶師工作坊
 tile.artisanworktables.workshop.scribe.name=翻印工工作坊
 tile.artisanworktables.workshop.tailor.name=裁縫工作坊
-tile.artisanworktables.workshop.tanner.name=制革師工作坊
+tile.artisanworktables.workshop.tanner.name=製革師工作坊
 # Toolbox
 tile.artisanworktables.toolbox.name=工具箱
 tile.artisanworktables.mechanical_toolbox.name=機械工具箱
@@ -108,7 +108,7 @@ gui.artisanworktables.tooltip.button.export.shaped=導出有序合成
 gui.artisanworktables.tooltip.button.export.shapeless=導出無序合成
 gui.artisanworktables.tooltip.button.clear.table=全部清空
 gui.artisanworktables.tooltip.button.creative.disabled=模式：生存
-gui.artisanworktables.tooltip.button.creative.enabled=模式：創造（配方制作）
+gui.artisanworktables.tooltip.button.creative.enabled=模式：創造（配方製作）
 gui.artisanworktables.tooltip.button.oredict.linked=礦物辭典模式：聯動
 gui.artisanworktables.tooltip.button.oredict.unlinked=礦物辭典模式：獨立
 gui.artisanworktables.tooltip.button.locked.disabled=已解鎖/點擊鎖定
@@ -120,5 +120,5 @@ item.artisanworktables.tooltip.creative.table.oredict.header=礦物辭典: %s(SH
 item.artisanworktables.tooltip.creative.table.oredict.none=-none-
 
 # Chat
-chat.artisanworktables.message.recipe.copy.success=配方已覆制到剪貼板。
-chat.artisanworktables.message.recipe.copy.error=配方覆制失敗。查看日志文件以獲取詳細信息。
+chat.artisanworktables.message.recipe.copy.success=配方已複製到剪貼板。
+chat.artisanworktables.message.recipe.copy.error=配方複製失敗。查看日志文件以獲取詳細信息。

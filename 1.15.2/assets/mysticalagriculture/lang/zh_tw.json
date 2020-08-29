@@ -442,7 +442,7 @@
     "book.mysticalagriculture.entry.soulium_ore": "離魂礦石",
     "book.mysticalagriculture.entry.soulium_ore.page.1": "離魂礦石生成在$(l:souls/soulstone)下界的離魂石$()礦脈中.",
     "book.mysticalagriculture.entry.witherproof_blocks": "防凋零方塊",
-    "book.mysticalagriculture.entry.witherproof_blocks.page.1": "防凋零方塊是凋靈無法破壞的方塊. 這對那些喜歡困住boss們的人非常有用. $(br2)它們也免疫來自末影龍的破壞, 雖然它依然可以飛過它們.",
+    "book.mysticalagriculture.entry.witherproof_blocks.page.1": "防凋零方塊是凋靈無法破壞的方塊. 這對那些喜歡困住boss們的人非常有用. $(br2)它們也免疫來自終界龍的破壞, 雖然它依然可以飛過它們.",
     "book.mysticalagriculture.entry.soulium_dagger": "離魂匕首",
     "book.mysticalagriculture.entry.soulium_dagger.page.1": "離魂匕首用來從生物身上收集靈魂. 這些靈魂用$(l:souls/soul_jars)靈魂瓶$()來收集.靈魂是通過用離魂匕首殺死怪物來收集的. $(br2)離魂匕首殺死和平的動物會額外增加50%%的靈魂.",
     "book.mysticalagriculture.entry.soul_jars": "靈魂瓶",

@@ -3,7 +3,7 @@
 	"randompatches.config.boats.preventUnderwaterBoatPassengerEjection": "防止在水下的船的乘客被拋出",
 	"randompatches.config.boats.underwaterBoatBuoyancy": "在水下的船的浮力",
 	"randompatches.config.client": "客戶端選項",
-	"randompatches.config.client.forceTitleScreenOnDisconnect": "斷開連接時強制回到標題屏幕",
+	"randompatches.config.client.forceTitleScreenOnDisconnect": "斷開連接時強制回到標題螢幕",
 	"randompatches.config.client.framerateLimitSliderStepSize": "幀率限制滑塊步長",
 	"randompatches.config.client.removePotionGlint": "移除藥水閃爍",
 	"randompatches.config.client.rpreloadclient": "/rpreloadclient",

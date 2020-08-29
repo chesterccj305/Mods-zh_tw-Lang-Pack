@@ -28,7 +28,7 @@ gui.cut=剪下
 
 ## Labels
 gui.other=其他
-gui.server_forced=伺服器強制加載：%s
+gui.server_forced=伺服器強制載入：%s
 gui.online=在線
 gui.offline=離線
 gui.whitelist=白名單
@@ -61,7 +61,7 @@ feature_disabled_server=此功能在伺服器被停用！
 error=錯誤：%s
 owner=組長：%s
 delete_item=你想要刪除“%s”嗎？
-server_forced=服務器覆寫了“%s”
+server_forced=伺服器覆寫了“%s”
 commands=指令
 my_permissions=我的權限
 all_permissions=所有權限
@@ -103,7 +103,7 @@ ftblib.select_team.gui=選擇組
 
 # Config
 ftblib.general.clientless_mode=無客戶端模式
-ftblib.general.replace_reload_command=替換/重新加載指令
+ftblib.general.replace_reload_command=替換/重新載入指令
 ftblib.general.merge_offline_mode_players=合並離線玩家數據
 
 ftblib.teams=組

@@ -6,7 +6,7 @@ tile.gold_door.name=金門
 tile.quartz_door.name=石英門
 
 tile.iron_dimensional_door.name=次元門
-tile.gold_dimensional_door.name=金制次元門
+tile.gold_dimensional_door.name=金製次元門
 tile.quartz_dimensional_door.name=私人次元門
 tile.unstable_dimensional_door.name=不穩定的門
 tile.oak_dimensional_door.name=扭曲之門
@@ -57,17 +57,17 @@ item.gold_door.name=金門
 item.quartz_door.name=石英門
 
 item.iron_dimensional_door.name=次元門
-item.gold_dimensional_door.name=金制次元門
+item.gold_dimensional_door.name=金製次元門
 item.quartz_dimensional_door.name=私人次元門
 item.unstable_dimensional_door.name=不穩定的門
 item.oak_dimensional_door.name=扭曲之門
 
 item.rift_key=裂痕鑰匙
 item.rift_signature.name=裂痕印記
-item.rift_signature.stored=存儲的位置
+item.rift_signature.stored=儲存的位置
 item.rift_signature.created=創建裂痕
 item.stabilized_rift_signature.name=裂痕印記(穩定)
-item.stabilized_rift_signature.stored=存儲位置
+item.stabilized_rift_signature.stored=儲存位置
 item.stabilized_rift_signature.created=創建裂痕
 item.rift_configuration_tool.name=快速配置工具
 item.rift_remover.name=裂痕移除器
@@ -92,7 +92,7 @@ item.rift_key.bound.info=綁定
 item.rift_key.unbound.info=取消綁定
 
 item.iron_dimensional_door.info=放在裂痕下方的方塊上 \n來激活裂痕 \n或放在任意地點生成 \n一個口袋次元.
-item.gold_dimensional_door.info=類似於次元門 \n但它放在次元內部時 \n會保持次元的加載.
+item.gold_dimensional_door.info=類似於次元門 \n但它放在次元內部時 \n會保持次元的載入.
 item.quartz_dimensional_door.info=生成一個通向你 \n口袋次元的路徑
 item.rift_blade.info=在裂痕上開啟臨時的門 \n它還擁有瞬移攻擊的能力.
 item.rift_remover.info=在外露的裂痕附近使用 \n來移除它以及附近的其他 \n裂痕.
@@ -100,8 +100,8 @@ item.rift_signature.bound.info=指向(%d, %d, %d) 位於#%d
 item.rift_signature.unbound.info=第一次點擊記錄一個位置; \n第二次點擊在兩地間創造 \n一對相互連接的裂痕.
 item.stabilized_rift_signature.bound.info=指向(%d, %d, %d) 位於#%d
 item.stabilized_rift_signature.unbound.info=首次點擊記錄一個位置, \n再次點擊生成連接兩地的 \n裂痕.
-item.unstable_dimensional_door.info=註意: 將會隨機傳送
-item.oak_dimensional_door.info=放在裂痕下方的方塊上 \n來制造傳送門, \n放在口袋次元中 \n以退出空間.
+item.unstable_dimensional_door.info=注意: 將會隨機傳送
+item.oak_dimensional_door.info=放在裂痕下方的方塊上 \n來製造傳送門, \n放在口袋次元中 \n以退出空間.
 
 item.record.creepy.desc=Creepy - The sound of Limbo
 
@@ -129,7 +129,7 @@ rifts.entrances.rift_too_close=Placing a door this close to a tear in the world 
 rifts.entrances.cannot_be_placed_on_rift=This type of door can't be placed on a rift.
 
 tools.rift_miss=您只能在裂痕的核心上使用該物品
-tools.target_became_block=失敗，現在存儲的位置有方塊
+tools.target_became_block=失敗，現在儲存的位置有方塊
 
 dimdoors.general=常規設置
 dimdoors.general.tooltip=模組的常規配置設置

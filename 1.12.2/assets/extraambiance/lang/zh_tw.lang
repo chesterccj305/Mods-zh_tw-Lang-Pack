@@ -115,8 +115,8 @@ sound.entity_shulker_ambient=界伏蚌旋
 sound.entity_skeleton_ambient=骷髏抖骨
 sound.entity_wither_ambient=凋零攝魂
 text.lighteditor.cleared=信息清除
-text.lighteditor.compatible=存儲信息兼容！
-text.lighteditor.incompatible=存儲信息不兼容
+text.lighteditor.compatible=儲存信息相容！
+text.lighteditor.incompatible=儲存信息不相容
 text.lighteditor.stored=存有信息
 
 gui.arguments=參數

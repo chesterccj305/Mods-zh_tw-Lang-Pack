@@ -10,5 +10,5 @@ config.pdp.client.growth=箱體生長
 config.pdp.client.growth.tooltip=阻止毀滅粒子效果生成的範圍被擴展了這麽多米。
 config.pdp.client.random=隨機
 config.pdp.client.c&b.per_bit=生成粒子 每微粒
-config.pdp.client.c&b.per_bit.tooltip=如果為 true ，並且 Chisels 和 Bits 已經安裝，則為鑿子方塊生成的每個粒子將與該粒子位置處的鉆頭類型相對應。否則，生成的每個粒子都將對應於方塊空間中最常見的類型。
+config.pdp.client.c&b.per_bit.tooltip=如果為 true ，並且 Chisels 和 Bits 已經安裝，則為鑿子方塊生成的每個粒子將與該粒子位置處的鑽頭類型相對應。否則，生成的每個粒子都將對應於方塊空間中最常見的類型。
 config.pdp.client.random.tooltip=如果為 true ，則方塊銷毀粒子在方塊的碰撞/邊界框中隨機生成，否則它們將在均勻間隔、預先確定的位置生成，這些位置隨這些框的擴展版本而下降。

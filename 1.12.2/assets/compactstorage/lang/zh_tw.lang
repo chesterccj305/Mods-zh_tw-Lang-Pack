@@ -6,7 +6,7 @@ tile.barrel_fluid.name=鼓
 
 item.backpack.name=背包
 
-itemGroup.compactStorage=壓縮存儲
+itemGroup.compactStorage=壓縮儲存
 
 text.columns=列
 text.rows=行

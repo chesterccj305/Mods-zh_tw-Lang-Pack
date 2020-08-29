@@ -1,6 +1,6 @@
 entity.photo.name=照片
 item.camera.name=相機
-item.memorycard.name=存儲卡
+item.memorycard.name=儲存卡
 item.photoitem.name=照片
 itemGroup.ShootIt=ShootIt
 key.categories.shootit=ShootIt

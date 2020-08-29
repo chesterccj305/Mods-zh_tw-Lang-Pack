@@ -69,14 +69,14 @@ config.cyclopscore.potion=藥水設置
 config.cyclopscore.potion.tooltip=藥水設置
 config.cyclopscore.core=核心設置
 config.cyclopscore.core.tooltip=核心設置
-config.cyclopscore.modcompat=Mod兼容設置
-config.cyclopscore.modcompat.tooltip=Mod兼容設置
+config.cyclopscore.modcompat=Mod相容設置
+config.cyclopscore.modcompat.tooltip=Mod相容設置
 
 ## General settings
 config.cyclopscore.general.analytics=發送匿名分析
 config.cyclopscore.general.anonymousAnalyticsID=匿名ID
 config.cyclopscore.general.crashOnInvalidRecipe=無效合成崩潰
-config.cyclopscore.general.crashOnModCompatCrash=兼容性問題崩潰
+config.cyclopscore.general.crashOnModCompatCrash=相容性問題崩潰
 config.cyclopscore.general.debug=開發模式
 config.cyclopscore.general.devWorldButton=開發世界按鈕
 config.cyclopscore.general.minimumPotionTypesArraySize=藥水組最小大小

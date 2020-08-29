@@ -244,7 +244,7 @@
   "block.midnight.unstable_bush": "不穩定灌木",
   "block.midnight.unstable_bush_blue": "藍色不穩定灌木",
   "block.midnight.unstable_bush_green": "綠色不穩定灌木",
-  "block.midnight.unstable_bush_lime": "黃綠色不穩定灌木",
+  "block.midnight.unstable_bush_lime": "淺綠色不穩定灌木",
 
   "block.midnight.bogshroom_sporch": "蘚沼菇火把",
   "block.midnight.nightshroom_sporch": "暗夜菇火把",
@@ -363,7 +363,7 @@
   "item.midnight.glob_fungus_hand": "球菌手形枝條",
   "item.midnight.unstable_seeds": "不穩定種子",
   "item.midnight.blue_unstable_fruit": "藍色不穩定漿果",
-  "item.midnight.lime_unstable_fruit": "黃綠色不穩定漿果",
+  "item.midnight.lime_unstable_fruit": "淺綠色不穩定漿果",
   "item.midnight.green_unstable_fruit": "綠色不穩定漿果",
 
   "item.midnight.nightshroom_spore_bomb": "暗夜菇孢子炸彈",
@@ -466,8 +466,8 @@
   "_comment": "Config",
 
   "config.midnight.title.client": "午夜配置-客戶端",
-  "config.midnight.title.compat": "午夜配置-兼容性",
-  "config.midnight.title.server_logic": "夜配置-服務器端",
+  "config.midnight.title.compat": "午夜配置-相容性",
+  "config.midnight.title.server_logic": "夜配置-伺服器端",
   "config.midnight.title.worldgen": "午夜配置-世界生成",
 
   "config.midnight.header.graphical": "圖形",
@@ -478,11 +478,11 @@
   "config.midnight.header.general": "一般",
 
   "config.midnight.category.client": "客戶端設置",
-  "config.midnight.category.client.tooltip": "僅適用於客戶端，不做任何服務器端設置的設置",
-  "config.midnight.category.compat": "兼容性設置",
+  "config.midnight.category.client.tooltip": "僅適用於客戶端，不做任何伺服器端設置的設置",
+  "config.midnight.category.compat": "相容性設置",
   "config.midnight.category.compat.tooltip": "關於午夜模組如何與其他模組和原版一起運行的設置",
-  "config.midnight.category.server": "服務器端設置",
-  "config.midnight.category.server.tooltip": "圍繞服務器上邏輯的設置。可以在每個世界中進行編輯。僅當在世界中進行遊戲時才啟用。",
+  "config.midnight.category.server": "伺服器端設置",
+  "config.midnight.category.server.tooltip": "圍繞伺服器上邏輯的設置。可以在每個世界中進行編輯。僅當在世界中進行遊戲時才啟用。",
 
 
   "config.midnight.hide_vignette_effect": "隱藏暈影效果",
@@ -510,7 +510,7 @@
   "config.midnight.hunters_attack_tamed_skulks": "獵人吃了被馴服的骷髏頭",
   "config.midnight.hunters_attack_tamed_skulks.tooltip": "設置獵人是否攻擊被馴服的骷髏",
   "config.midnight.rifts_from_dark_pearls": "黑珍珠裂痕",
-  "config.midnight.rifts_from_dark_pearls.tooltip": "設置在單擊鼠標右鍵時是否產生深色珍珠裂痕堆積",
+  "config.midnight.rifts_from_dark_pearls.tooltip": "設置在單擊滑鼠右鍵時是否產生深色珍珠裂痕堆積",
   "config.midnight.rifts_open_at_daytime": "白天的裂痕",
   "config.midnight.rifts_open_at_daytime.tooltip": "設置裂口是始終開放還是僅在夜間開放",
   "config.midnight.allow_lightning_damage": "閃電傷害",

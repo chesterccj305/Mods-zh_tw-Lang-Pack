@@ -18,7 +18,7 @@ tile.thaumicwonders.flux_capacitor.tooltip.flux=咒波量: %1$d
 tile.thaumicwonders.meteorb.name=氣象之球
 tile.thaumicwonders.ore_diviner.name=礦石探測器
 tile.thaumicwonders.meaty_orb.name=嗜肉之球
-tile.thaumicwonders.void_beacon.name=虛空信標
+tile.thaumicwonders.void_beacon.name=虛空烽火台
 tile.thaumicwonders.flux_distiller.name=咒波蒸餾器
 tile.thaumicwonders.flux_distiller.tooltip.flux=咒波量: %1$d
 tile.thaumicwonders.primordial_accelerator.name=元始加速器
@@ -94,49 +94,49 @@ thaumicwonders.research.base.title=神秘奇境
 thaumicwonders.research.base.text.stage.1=我很好奇，那幽深的神秘之中會向我展露何種令人驚嘆的奇跡呢？
 
 thaumicwonders.research.nether_hedge.title=地獄嬗變煉金
-thaumicwonders.research.nether_hedge.text.stage.1=讓我有點困擾的是，嬗變煉金術的原理只能應用於主世界的中少數材料。也許其他世界也有一些煉金材料能夠使用這種藝術覆制……
-thaumicwonders.research.nether_hedge.text.stage.2=正如我所希望的，地獄之中確實包含了嬗變術可以覆制的材料。奇怪的是，並不是所有的材料都遵循嬗變規則。當我進行制造時我要格外留意這些配方能否奏效。
+thaumicwonders.research.nether_hedge.text.stage.1=讓我有點困擾的是，嬗變煉金術的原理只能應用於主世界的中少數材料。也許其他世界也有一些煉金材料能夠使用這種藝術複製……
+thaumicwonders.research.nether_hedge.text.stage.2=正如我所希望的，地獄之中確實包含了嬗變術可以複製的材料。奇怪的是，並不是所有的材料都遵循嬗變規則。當我進行製造時我要格外留意這些配方能否奏效。
 thaumicwonders.research.end_hedge.title=異域嬗變煉金
-thaumicwonders.research.end_hedge.text.stage.1=我的旅行指示著我要探索另一個世界，我得研究一下那裏的情況。
-thaumicwonders.research.end_hedge.text.stage.2=終末之地確實是一個極端危險的地方，好消息是，那裏也存在著一些能夠運用嬗變術制造的材料。
+thaumicwonders.research.end_hedge.text.stage.1=我的旅行指示著我要探索另一個世界，我得研究一下那裡的情況。
+thaumicwonders.research.end_hedge.text.stage.2=終末之地確實是一個極端危險的地方，好消息是，那裡也存在著一些能夠運用嬗變術製造的材料。
 
 thaumicwonders.research.everburning_urn.title=永燃之甕
-thaumicwonders.research.everburning_urn.text.stage.1=無盡之甕是一個非常有用的設備，但是我相信我能夠將其完善化。譬如說其他種類的液體。液體,難道說…熔巖嗎？
-thaumicwonders.research.everburning_urn.text.stage.2=通過註魔，我在無盡之甕中打通了一系列通往地獄的微小入口，我能夠從地獄中汲取我所需要的熔巖。然而，這個過程並不十分完美。首先，它很慢。它的“水”兄弟在瞬間就會充滿水，而這個裝置，我稱之為“永燃之甕”，居然需要一分鐘才能產生一桶熔巖。這個過程對靈氣的消耗也更大。我的計算表明維持用來運輸熔巖的傳送門，每次傳輸需要25點靈氣。最後，為了安全起見，我禁用了甕自動填充附近的容器的能力，不能讓滾燙的巖漿到處亂飛。
+thaumicwonders.research.everburning_urn.text.stage.1=無盡之甕是一個非常有用的設備，但是我相信我能夠將其完善化。譬如說其他種類的液體。液體,難道說…熔岩嗎？
+thaumicwonders.research.everburning_urn.text.stage.2=通過注魔，我在無盡之甕中打通了一系列通往地獄的微小入口，我能夠從地獄中汲取我所需要的熔岩。然而，這個過程並不十分完美。首先，它很慢。它的“水”兄弟在瞬間就會充滿水，而這個裝置，我稱之為“永燃之甕”，居然需要一分鐘才能產生一桶熔岩。這個過程對靈氣的消耗也更大。我的計算表明維持用來運輸熔岩的傳送門，每次傳輸需要25點靈氣。最後，為了安全起見，我禁用了甕自動填充附近的容器的能力，不能讓滾燙的岩漿到處亂飛。
 
 thaumicwonders.research.disjunction_cloth.title=驅魔之布
 thaumicwonders.research.disjunction_cloth.text.stage.1=天老爺！附魔桌有時真讓人抓狂。它是如此……看臉！當我沒有得到我想要的附魔時，我必須再造一個新的物品來進行附魔！肯定有更好的方法。我相信煉金術也許能解決這個問題。我只是需要一些東西來吸收這些附魔物品上的魔法能量。當然，我需要一個附魔物品來測試。它不需要太高級的東西，一個簡單的帶有保護附魔的物品就可以很好地滿足我的需要。
 thaumicwonders.research.disjunction_cloth.text.stage.2=我的研究有了成果！它可能不能解決隨機附魔的問題，但是這種新的驅魔之布可以優雅地去除任何不想要的附魔。作為代償，它不僅吸收了附魔中的能量，還能將其釋放出來！釋放出的能量以vis的形式分散到靈氣場域中。我的計算表明，每擦除一級的附魔，驅魔之布將釋放5點vis到靈氣場中。
 
 thaumicwonders.research.dimensional_ripper.title=維度撕裂器
-thaumicwonders.research.dimensional_ripper.text.stage.1=我不敢相信我在認真考慮這件事，但是…如果我要繼續研究這些腐化裂隙，我需要更好的工具。現在，我只是把一些咒波釋放到靈氣場裏，希望在附近的某個地方形成一個裂縫，這簡直太隨意了。我需要更精確、更可控的機器。當然，造價還得盡可能便宜。
-thaumicwonders.research.dimensional_ripper.text.stage.2=我不敢想象我做到了。利用奧術鉆探機破壞元始珍珠所產生的毀滅性能量，我能夠穿透現實本身！僅僅一個維度撕裂器是不夠的，然而，也不是完全不夠。只是所需的能量大到令人窒息。所以，一對這樣的設備會使得使用能量少很多。通過將面對面放置並保持十格間距（然而實測兩台機器之間距離為九格才能工作），這些機器就能在一起產生共鳴，從而放大它們的能量，滿足我的需求。當這樣放置，少量紫色的能量將在它們之間流動，據此可以確認它們是相互連接的。為了達到臨界工作點，兩個裝置至少需要50點腐化要素。對任一撕裂器施加紅石信號將使這對撕裂器失效並阻止任何裂隙活動發生。以這種方式被禁用的撕裂器可以向其繼續註入要素，當它被激活時，如果機器內要素超過50點，就可以一次性產生更大的裂隙。如果裂隙已經存在於兩個機器之間，更多的要素註入可以使裂隙擴大。然而，這種效應會逐漸減小，而且這一過程將極大地破壞裂隙的穩定性。最後，作為安全措施，如果撕裂器感覺到附近已經有另一個裂口，但不是在兩個機器之間，他們將不會激活。<BR>然而我意識到，那道隔在我們與虛空之間的帷幕，在我的幹預之下已經岌岌可危，我覺得我應該收手了，我還沒有如此“瘋狂”。
+thaumicwonders.research.dimensional_ripper.text.stage.1=我不敢相信我在認真考慮這件事，但是…如果我要繼續研究這些腐化裂隙，我需要更好的工具。現在，我只是把一些咒波釋放到靈氣場裡，希望在附近的某個地方形成一個裂縫，這簡直太隨意了。我需要更精確、更可控的機器。當然，造價還得盡可能便宜。
+thaumicwonders.research.dimensional_ripper.text.stage.2=我不敢想象我做到了。利用奧術鑽探機破壞元始珍珠所產生的毀滅性能量，我能夠穿透現實本身！僅僅一個維度撕裂器是不夠的，然而，也不是完全不夠。只是所需的能量大到令人窒息。所以，一對這樣的設備會使得使用能量少很多。通過將面對面放置並保持十格間距（然而實測兩台機器之間距離為九格才能工作），這些機器就能在一起產生共鳴，從而放大它們的能量，滿足我的需求。當這樣放置，少量紫色的能量將在它們之間流動，據此可以確認它們是相互連接的。為了達到臨界工作點，兩個裝置至少需要50點腐化要素。對任一撕裂器施加紅石信號將使這對撕裂器失效並阻止任何裂隙活動發生。以這種方式被禁用的撕裂器可以向其繼續注入要素，當它被激活時，如果機器內要素超過50點，就可以一次性產生更大的裂隙。如果裂隙已經存在於兩個機器之間，更多的要素注入可以使裂隙擴大。然而，這種效應會逐漸減小，而且這一過程將極大地破壞裂隙的穩定性。最後，作為安全措施，如果撕裂器感覺到附近已經有另一個裂口，但不是在兩個機器之間，他們將不會激活。<BR>然而我意識到，那道隔在我們與虛空之間的帷幕，在我的幹預之下已經岌岌可危，我覺得我應該收手了，我還沒有如此“瘋狂”。
 thaumicwonders.research.primal_destroyer.title=元始毀滅者
-thaumicwonders.research.primal_destroyer.text.stage.1=毫無疑問，虛空劍是能造成的傷害極高，但那只是由於它自身材料那奇異的特性，從動力因上考慮，它的制作工藝還是極為的粗糙。當然，如果運用正確的魔法對它進行加工，它會變得更加強大。
+thaumicwonders.research.primal_destroyer.text.stage.1=毫無疑問，虛空劍是能造成的傷害極高，但那只是由於它自身材料那奇異的特性，從動力因上考慮，它的製作工藝還是極為的粗糙。當然，如果運用正確的魔法對它進行加工，它會變得更加強大。
 thaumicwonders.research.primal_destroyer.text.stage.2=我恐怕犯了一個可怕的錯誤……我確實創造了一個令人難以置信的毀滅工具，一個超出我控制範圍的強大武器。這個元始毀滅者內部結構完全是由陰影與火焰構成，它....幾乎就是活的，它渴望汲取生命的精華。我擔心如果我不讓它吃飽會發生什麽…
 thaumicwonders.research.primal_destroyer.text.addenda.1=現在我知道了。元始毀滅者確實會饑餓。不管是為了血，靈魂，生命能量，還是一些我都仍未見過的更深奧的東西。但有一點我是清楚的，如果我不經常用它來殺東西，它就會把饑餓轉移到我身上。<BR>我最好把這個邪惡的創造物收起來，忘記我曾經創造出它……
 
 thaumicwonders.research.flying_carpet.title=飛毯
 thaumicwonders.research.flying_carpet.text.stage.1=懸浮很好，但我仍然渴望真正的飛翔。以我的技術和知識，一定能找到方法。
-thaumicwonders.research.flying_carpet.text.stage.2=雖然我還沒有學會如何靠自己的力量飛行，但我相信我已經創造了一個最好的替代物:飛毯！當放置在地面上時，可以通過右鍵點擊來放置。一旦我坐在上面，地毯就會對我的指令做出對應的反應，朝著我看的方向前進或後退。地毯不能直接從靈氣場中吸取靈氣補充自身，必須放在充能基座上補充。我在飛行時必須小心監視我的剩余靈氣量，因為一旦靈氣用完，地毯就會從天上掉下來。對此，它應該保留足夠的後備隱藏靈氣來保護我免受沖擊。<BR>另外，飛毯還可以在工作台與骨粉等染料混合染色。如果我厭倦了我所附上的顏色，我可以用煉藥鍋(而不是坩堝)把它洗幹凈。
+thaumicwonders.research.flying_carpet.text.stage.2=雖然我還沒有學會如何靠自己的力量飛行，但我相信我已經創造了一個最好的替代物:飛毯！當放置在地面上時，可以通過右鍵點擊來放置。一旦我坐在上面，地毯就會對我的指令做出對應的反應，朝著我看的方向前進或後退。地毯不能直接從靈氣場中吸取靈氣補充自身，必須放在充能基座上補充。我在飛行時必須小心監視我的剩餘靈氣量，因為一旦靈氣用完，地毯就會從天上掉下來。對此，它應該保留足夠的後備隱藏靈氣來保護我免受沖擊。<BR>另外，飛毯還可以在工作台與骨粉等染料混合染色。如果我厭倦了我所附上的顏色，我可以用煉藥鍋(而不是坩堝)把它洗幹凈。
 
 thaumicwonders.research.timewinder.title=扭轉時光
 thaumicwonders.research.timewinder.text.stage.1=在我去過的一些異域之地，時間流逝的速率似乎非常的奇怪。我想知道我是否能在我安家的維度當中重現這種陌生感……
-thaumicwonders.research.timewinder.text.stage.2=雖然回到過去的可能性仍然晦暗不明，但我已經學會了如何向未來跳躍。為此，我制定了一個機器的制造方案，我稱之為扭時之鐘。它不僅能像鐘表一樣報時，而且還能操縱時間。<BR>設備背面的一組按鈕允許我跳過某些天體事件。特別是日出和月出。點擊“白天”按鈕，我就能立即進入第二天早晨，就像在床上睡了個好覺一樣。其它的按鈕則會使時間直接跳到指定的月相。然而，這個過程會對時空的局部結構產生張力。扭時之鐘每次使用時都會在靈氣場中產生大量的咒波。此外，它需要vis來工作，需要使用充能基座來進行充能。最後，在使用扭時之鐘之後，我必須等待一小段時間才能再次使用它。<BR>
+thaumicwonders.research.timewinder.text.stage.2=雖然回到過去的可能性仍然晦暗不明，但我已經學會了如何向未來跳躍。為此，我制定了一個機器的製造方案，我稱之為扭時之鐘。它不僅能像鐘表一樣報時，而且還能操縱時間。<BR>設備背面的一組按鈕允許我跳過某些天體事件。特別是日出和月出。點擊“白天”按鈕，我就能立即進入第二天早晨，就像在床上睡了個好覺一樣。其它的按鈕則會使時間直接跳到指定的月相。然而，這個過程會對時空的局部結構產生張力。扭時之鐘每次使用時都會在靈氣場中產生大量的咒波。此外，它需要vis來工作，需要使用充能基座來進行充能。最後，在使用扭時之鐘之後，我必須等待一小段時間才能再次使用它。<BR>
 
 thaumicwonders.research.inspiration_engine.title=靈感引擎
 thaumicwonders.research.inspiration_engine.text.stage.1=進行神秘理論的研究無疑是一個艱苦的過程。我知道某些物品可以幫助我的研究，但它們的幫助十分的有限。也許我可以用我的魔法創造出一個更好的研究輔助工具。
-thaumicwonders.research.inspiration_engine.text.stage.2=我已經為一款我稱之為“靈感引擎”的設備擬定了方案。<BR>就像其他的研究輔助工具一樣，它必須被放置在研究台的四格之內的相同的高度上，或者剛好在它上面或下面。如果放置正確，我將能夠從研究台的GUI界面中選擇它。然後，當它被註入思維要素之後，它會產生一些想法來幫助我完善我的理論，並把它們傳遞到我的大腦中。這是一種奇怪的感覺，這些外部的思想註入，有種奇異的瘙癢感，但這個過程應該是無害的。
+thaumicwonders.research.inspiration_engine.text.stage.2=我已經為一款我稱之為“靈感引擎”的設備擬定了方案。<BR>就像其他的研究輔助工具一樣，它必須被放置在研究台的四格之內的相同的高度上，或者剛好在它上面或下面。如果放置正確，我將能夠從研究台的GUI界面中選擇它。然後，當它被注入思維要素之後，它會產生一些想法來幫助我完善我的理論，並把它們傳遞到我的大腦中。這是一種奇怪的感覺，這些外部的思想注入，有種奇異的瘙癢感，但這個過程應該是無害的。
 
 thaumicwonders.research.madness_engine.title=瘋狂引擎
 thaumicwonders.research.madness_engine.text.stage.1=靈感引擎在我的理論工作中產生了巨大的價值，但這還不夠。如果我想要破解邪術的秘密，我需要更多的激發裝置來刺激我的思維，迎接新的想法，我必須突破我某個部分的身體對我的限制————我是說，我身體的某個部分抗拒我去探索邪術之密。
 thaumicwonders.research.madness_engine.text.stage.2=沒錯，沒錯……經過進一步的修改，這個新版本的引擎將提供給我我所需的。問題在於“認知”這一過程本身。它太有秩序了，太……一致了。<BR>通過對引擎進行改造，使其在更大的能級上運行，它將現實打開一道縫隙，允許我瞥見現實的潛藏的秘密。確實，這種經歷讓人有些不舒服，但這是為了我所做出的進步，所付出的小小代價。
 
 thaumicwonders.research.void_portal.title=虛空傳送門
-thaumicwonders.research.void_portal.text.stage.1=那些身著深紅色衣服的狂熱信徒是怎麽做到的？到目前為止，我的研究在傳送生物方面沒有取得任何有用的新成果。但這肯定有著某些方法！地獄之門，末影珍珠，還有那些深紅色的門，那些狂熱者們都告訴我這是可能的。一定有辦法……
-thaumicwonders.research.void_portal.text.stage.2=經過進一步的研究，我認為遠程傳送的關鍵在於為傳送門找到合適的錨點。它必須是某種能夠跨越遙遠的距離和維度邊界產生共鳴的東西。我已經擬定了這一錨的制造方案。現在只剩下將其制造出來和測試了。
-thaumicwonders.research.void_portal.text.stage.3=我現在可以構造一個設備，不管距離或維度如何，都可以生成一個以虛空作為通道，連接另一個位置的入口。<BR>要使用它，我必須先在世界中放置一個傳送錨，然後手持傳送門生成器右擊該錨;只要錨依然存在於世界當中，傳送門生成器就可以定位到它。註意，生成器上面還需要足夠的空間來生成傳送門。堅硬的方塊會阻止它的生成。此外，將紅石信號應用到生成器將暫時禁用傳送門。想要傳送，只需要右鍵傳送門就可以了。<BR>我應該小心使用傳送功能，入口在使用時對附近靈氣場施加了很大的壓力，在它的源頭和終點產生了一定的咒波。<BR>而且，只要生成器處於激活狀態，它們就會逐漸失穩。一個門應該沒有那麽糟糕，但是在一片區域內的門越多，它們不穩定的速率就越快。使用不穩定的門將根據不穩定的程度將我傳送到目標之外的位置。不穩定的傳送可能還會產生其他影響;我不確定會發生什麽，但我確定不會是什麽好事。
-thaumicwonders.research.void_portal.text.addenda.1=註魔穩定器一樣可以使得傳送門生成器穩定下來，當然，和註魔一樣，穩定器一樣會產生一定的咒波。雖然不是很理想，但總比不穩定的傳送要好。
+thaumicwonders.research.void_portal.text.stage.1=那些身著深紅色衣服的狂熱信徒是怎麽做到的？到目前為止，我的研究在傳送生物方面沒有取得任何有用的新成果。但這肯定有著某些方法！地獄之門，終界珍珠，還有那些深紅色的門，那些狂熱者們都告訴我這是可能的。一定有辦法……
+thaumicwonders.research.void_portal.text.stage.2=經過進一步的研究，我認為遠程傳送的關鍵在於為傳送門找到合適的錨點。它必須是某種能夠跨越遙遠的距離和維度邊界產生共鳴的東西。我已經擬定了這一錨的製造方案。現在只剩下將其製造出來和測試了。
+thaumicwonders.research.void_portal.text.stage.3=我現在可以構造一個設備，不管距離或維度如何，都可以生成一個以虛空作為通道，連接另一個位置的入口。<BR>要使用它，我必須先在世界中放置一個傳送錨，然後手持傳送門生成器右擊該錨;只要錨依然存在於世界當中，傳送門生成器就可以定位到它。注意，生成器上面還需要足夠的空間來生成傳送門。堅硬的方塊會阻止它的生成。此外，將紅石信號應用到生成器將暫時禁用傳送門。想要傳送，只需要右鍵傳送門就可以了。<BR>我應該小心使用傳送功能，入口在使用時對附近靈氣場施加了很大的壓力，在它的源頭和終點產生了一定的咒波。<BR>而且，只要生成器處於激活狀態，它們就會逐漸失穩。一個門應該沒有那麽糟糕，但是在一片區域內的門越多，它們不穩定的速率就越快。使用不穩定的門將根據不穩定的程度將我傳送到目標之外的位置。不穩定的傳送可能還會產生其他影響;我不確定會發生什麽，但我確定不會是什麽好事。
+thaumicwonders.research.void_portal.text.addenda.1=注魔穩定器一樣可以使得傳送門生成器穩定下來，當然，和注魔一樣，穩定器一樣會產生一定的咒波。雖然不是很理想，但總比不穩定的傳送要好。
 
 thaumicwonders.research.catalyzation_chamber.title=進階金屬提純
 thaumicwonders.research.catalyzation_chamber.text.stage.1=礦石純化十分的重要，必須進一步研究。我現有的方法已經能夠對原礦進行一定的處理，但簡單地使用源質對其進行提純……還是太粗糙了，更不用說這樣的耗材較貴。<BR>我相信使用水銀進行清洗也能使我凈化金屬礦石。我可以在煉獄熔爐的基礎上進行改造。<BR>同時，我需要小心處理這麽多水銀;那東西有劇毒。
@@ -145,18 +145,18 @@ thaumicwonders.research.catalyzation_chamber.text.stage.3=這樣就好多了。�
 thaumicwonders.research.catalyzation_chamber.text.addenda.1=原來奧術風箱對催化室一樣有效果。在水銀浴過程中保持空氣流通可以顯著加快反應時間。
 
 thaumicwonders.research.hexamite.title=烏洛托品（魔法版01型）
-thaumicwonders.research.hexamite.text.stage.1=瘋狂的怒火淹沒了我的理智。我能夠窺見引起我憤怒的源頭，即便我很想將其毀滅掉，但它始終存在在那裏。一個理智的人，對於這種冒犯，只有一種解決方法。<BR>一場瘋狂的爆炸。<BR普通的TNT炸藥對我來說完全不足以傾瀉我的怒火。我需要設計一些特別的東西。
+thaumicwonders.research.hexamite.text.stage.1=瘋狂的怒火淹沒了我的理智。我能夠窺見引起我憤怒的源頭，即便我很想將其毀滅掉，但它始終存在在那裡。一個理智的人，對於這種冒犯，只有一種解決方法。<BR>一場瘋狂的爆炸。<BR普通的TNT炸藥對我來說完全不足以傾瀉我的怒火。我需要設計一些特別的東西。
 thaumicwonders.research.hexamite.text.stage.2=這確實有用。我使用了TNT的基本配方，保留了少量火藥作為引子，剩下的用不穩定的鋁填充。另外，我還將腐化碎片摻雜其中來作為散彈片使用。<BR>這樣所產生的炸藥不僅要比TNT和燃燒彈強大50%，而且爆炸還會撕碎爆炸地點的靈氣場。被處在爆炸範圍中的生物，即便他們幸存下來，也會發現他們的魔法能力暫時受到阻礙。<BR>這是我對於我自身技藝的一次充分運用，而完全沒有用到潛藏在我心中的那些瘋狂。(大概。)
 thaumicwonders.research.flux_capacitor.title=咒波收容器
-thaumicwonders.research.flux_capacitor.text.stage.1=我註意到元始珍珠與咒波有一種奇怪的關聯。這兩者以一種我尚不理解的方式相互作用。也許我能學會利用這種關系。
+thaumicwonders.research.flux_capacitor.text.stage.1=我注意到元始珍珠與咒波有一種奇怪的關聯。這兩者以一種我尚不理解的方式相互作用。也許我能學會利用這種關系。
 thaumicwonders.research.flux_capacitor.text.stage.2=我的研究表明，通過正確的操作，這些珍珠將吸引和固定下咒波。利用這個新發現，我設計了一個設備，我稱之為咒波收容器。<BR>一旦放置，這個設備將慢慢地從靈氣場中吸收並收容這些咒波。每個容器只能容納少量的咒波，但總比什麽都沒有強。<BR>接下來的問題是如何處理已經滿溢的容器（容器若滿會發出微弱紫光）。通入紅石信號將迅速釋放容器中所包含的咒波到靈氣場中。因為受容器可以拆卸並攜帶在身上，我可以有效地移動咒波到那些我可以比較容易清除的地區。我想我可以直接把它們扔掉，但是那樣太浪費了。我得研究一個更持久的解決辦法。
 thaumicwonders.research.transmuter_stone.title=礦物轉化
 thaumicwonders.research.transmuter_stone.text.stage.1=我懷疑我能用催化室做更多的事——至少比單純的提純礦石要多。也許有了不同的催化劑，我可以開發出新的功能。是時候做些研究了。
-thaumicwonders.research.transmuter_stone.text.stage.2=好吧，這真是出乎我的意料。事實證明，通過向煉金術士之石註入一些交換和煉金要素，它就變成了完全不同的東西。這種新催化劑允許某些礦物有限度的嬗變。它只對特定的金屬對有效，允許我把一個變成另一個，然後再變回來。<BR>然而，使用它的催化室似乎比使用煉金術士之石更經常地產生咒波。<BR>
+thaumicwonders.research.transmuter_stone.text.stage.2=好吧，這真是出乎我的意料。事實證明，通過向煉金術士之石注入一些交換和煉金要素，它就變成了完全不同的東西。這種新催化劑允許某些礦物有限度的嬗變。它只對特定的金屬對有效，允許我把一個變成另一個，然後再變回來。<BR>然而，使用它的催化室似乎比使用煉金術士之石更經常地產生咒波。<BR>
 
 thaumicwonders.research.alienist_stone.title=奇異金屬提純
 thaumicwonders.research.alienist_stone.text.stage.1=在我掌握了這個秘密之後，我相信我的催化室產率能更上一層。唯一的問題是如何做到。
-thaumicwonders.research.alienist_stone.text.stage.2=我感覺沒有什麽事是元始珍珠做不到的....通過在煉金術士之石中註入珍珠和一些礦物，我可以增進它的能力。<BR>由此產生的催化劑石會產生我所說的“奇異礦簇”，這種礦簇在熔煉時，會產生三塊而不是兩塊礦物錠。我不願稱由此產生的過程為“凈化”，尤其是考慮到每個操作都有很大的幾率產生咒波，但結果是不可否認的，它確實極大程度的挖掘了原礦的潛力。<BR>也許我可以用這塊石頭達到其它的目的。我應該試驗一下，找出答案。
+thaumicwonders.research.alienist_stone.text.stage.2=我感覺沒有什麽事是元始珍珠做不到的....通過在煉金術士之石中注入珍珠和一些礦物，我可以增進它的能力。<BR>由此產生的催化劑石會產生我所說的“奇異礦簇”，這種礦簇在熔煉時，會產生三塊而不是兩塊礦物錠。我不願稱由此產生的過程為“凈化”，尤其是考慮到每個操作都有很大的幾率產生咒波，但結果是不可否認的，它確實極大程度的挖掘了原礦的潛力。<BR>也許我可以用這塊石頭達到其它的目的。我應該試驗一下，找出答案。
 
 thaumicwonders.research.meteorb.title=氣象之球
 thaumicwonders.research.meteorb.text.stage.1=如果我能操控時間的流動，那改變天氣對我而言就不會是一件難事，是時候做些研究了。
@@ -167,27 +167,27 @@ thaumicwonders.research.ore_diviner.text.stage.1=盲目地在地底中尋找礦�
 thaumicwonders.research.ore_diviner.text.stage.2=我設計了一個工具來幫助我探測特定類型礦石的位置。當我在這個礦石探測器上放上一塊礦石時，它會找到附近的同類型礦石，並告訴我它的位置。該視覺效果會一直持續到你把礦石拿下來為止。
 
 thaumicwonders.research.void_fortress_armor.title=虛空要塞甲胄
-thaumicwonders.research.void_fortress_armor.text.stage.1=虛空錠制作的護甲很堅固，而且可以自我修覆，但是我有信心進一步改造它。也許我從改進神秘護甲中學到的經驗也可以用在這裏。
-thaumicwonders.research.void_fortress_armor.text.stage.2=我改進虛空護甲的努力取得了成果。這套我創造的甲胄是一套代表了力量和耐用的傑作，它為穿戴者提供了額外的魔法和火焰傷害防護，但犧牲了虛空護甲自身的獨特性質。為了和我之前的努力保持一致，我把我最新的作品命名為虛空要塞甲胄。<BR>就像神秘版本一樣，這種盔甲是要一起穿的。我穿的套件越多，最終效果便越好。<BR>作為對實用性的考慮，我已經將揭示之護目鏡集成到頭盔的面具中。該面具還覆制了神秘要塞甲胄的嗜血邪妖面具的效果，在攻擊時有幾率治愈佩戴者。<BR>最後，這套甲胄與佩戴者的扭曲有著一種共生的關系。我的永久扭曲值越高，每件盔甲的護甲韌性就越強。也就是說，我將是不可戰勝的堡壘。
+thaumicwonders.research.void_fortress_armor.text.stage.1=虛空錠製作的護甲很堅固，而且可以自我修覆，但是我有信心進一步改造它。也許我從改進神秘護甲中學到的經驗也可以用在這裡。
+thaumicwonders.research.void_fortress_armor.text.stage.2=我改進虛空護甲的努力取得了成果。這套我創造的甲胄是一套代表了力量和耐用的傑作，它為穿戴者提供了額外的魔法和火焰傷害防護，但犧牲了虛空護甲自身的獨特性質。為了和我之前的努力保持一致，我把我最新的作品命名為虛空要塞甲胄。<BR>就像神秘版本一樣，這種盔甲是要一起穿的。我穿的套件越多，最終效果便越好。<BR>作為對實用性的考慮，我已經將揭示之護目鏡集成到頭盔的面具中。該面具還複製了神秘要塞甲胄的嗜血邪妖面具的效果，在攻擊時有幾率治癒佩戴者。<BR>最後，這套甲胄與佩戴者的扭曲有著一種共生的關系。我的永久扭曲值越高，每件盔甲的護甲韌性就越強。也就是說，我將是不可戰勝的堡壘。
 thaumicwonders.research.meaty_orb.title=嗜肉之球
-thaumicwonders.research.meaty_orb.text.stage.1=我昨晚做了一個夢。在夢裏，我用氣象之球改變了天氣，但是從天上掉下來的不是雨，而是肉，各種各樣的肉。我想知道我是否能讓這個夢想成真。或者說，我該不該這樣做。
+thaumicwonders.research.meaty_orb.text.stage.1=我昨晚做了一個夢。在夢裡，我用氣象之球改變了天氣，但是從天上掉下來的不是雨，而是肉，各種各樣的肉。我想知道我是否能讓這個夢想成真。或者說，我該不該這樣做。
 thaumicwonders.research.meaty_orb.text.stage.2=不管怎樣，我成功了。我創造了一種新的球，emmmmm，我不想把它描寫的太細致了，因為它確實讓人一言難盡————就叫做嗜肉之球吧。老實說，把它拿在手上讓我感覺挺惡心的。<BR>讓現實的結構屈服於我的心血來潮可不便宜。為了使其工作，這個球體需要各250點的Aqua，Victus,和Alienis要素。此外，它還會在使用時產生大量咒波。<BR>一旦使用，它真的能使天空下肉雨。盡管只是在附近，而且時間也比較短。
 
 thaumicwonders.research.structure_diviner.title=建築探測
-thaumicwonders.research.structure_diviner.text.stage.1=我相信在過去的世界中，也有人和我一樣制造出了這種種奇跡，但如何找到這些奇跡的殘垣斷壁，這件事就比較隨機了。簡單地選擇一個方向，一直走下去，應該會發現蛛絲馬跡，但這樣幾乎沒有效率。像我這樣的神秘使應該提前預測這些事情。
+thaumicwonders.research.structure_diviner.text.stage.1=我相信在過去的世界中，也有人和我一樣製造出了這種種奇跡，但如何找到這些奇跡的殘垣斷壁，這件事就比較隨機了。簡單地選擇一個方向，一直走下去，應該會發現蛛絲馬跡，但這樣幾乎沒有效率。像我這樣的神秘使應該提前預測這些事情。
 thaumicwonders.research.structure_diviner.text.stage.2=這個看上去很簡單的設備卻有著極大的潛力。只要按下這個按鈕，這個建築探測儀就可以在當前維度中找到最近的自然生成建築。使用之後，它將指向我的目的地，並會非常粗略的指示目的地有多遠。
 
 thaumicwonders.research.night_vision_goggles.title=夜視儀
 thaumicwonders.research.night_vision_goggles.text.stage.1=夜晚總是十分危險，但有些事情只能在夜裏才可能完成。怪物倒是不成問題的;我真正擔心的的是掉進山谷摔死。我想我可以隨身攜帶夜視藥水，但是誰想每隔幾分鐘就喝一口這種難吃的泔水呢？我得想出一個更好的辦法。
-thaumicwonders.research.night_vision_goggles.text.stage.2=如果我的眼睛在黑暗中看不見東西，那麽解決辦法很明顯，就是為我做一副能夠夜視的鏡片。<BR>通過向揭示之護目鏡中註入正確的源質，我創造了一副夜視鏡。它們必須在一個充能基座上充能，但它能提供遠超夜視藥水所提供的夜視時間。<BR>然而，他們不做的是揭露。揭示之護目鏡的功能在這個過程中丟失了，所以我得隨身攜帶這兩副眼鏡。
+thaumicwonders.research.night_vision_goggles.text.stage.2=如果我的眼睛在黑暗中看不見東西，那麽解決辦法很明顯，就是為我做一副能夠夜視的鏡片。<BR>通過向揭示之護目鏡中注入正確的源質，我創造了一副夜視鏡。它們必須在一個充能基座上充能，但它能提供遠超夜視藥水所提供的夜視時間。<BR>然而，他們不做的是揭露。揭示之護目鏡的功能在這個過程中丟失了，所以我得隨身攜帶這兩副眼鏡。
 
 thaumicwonders.research.void_beacon.title=虛空召現
 thaumicwonders.research.void_beacon.text.stage.1=我已經知道，不管這些裂隙的另一邊是什麽，無論是物質、能量，還是更奇怪的東西，它都是某種不定形物，這樣我想起了阿納克西曼德所說的απειρω，它的形態屬性隨著時間和未知的奇想而改變。我相信，我也許可以引導這些變換，然後將此物鎖入到某個確定的、真實的東西上。這可能是我最大的發現。
-thaumicwonders.research.void_beacon.text.stage.2=說真的，這一定是我的代表作！因為我憑空變出了一些東西。嗯…雖然少得可憐。<BR>我設計了一種方法，把在裂縫那一端的，超越現實的東西，用源質把它固定成真實的形式。這個過程似乎能夠產出幾乎任何自然可以產生的材料，盡管我不能完全控制產物，只能夠幹涉這一過程。這個設備，我稱之為虛空信標，需要一些條件才能正常工作。記錄如下：<BR>首先，也是最簡單的，必須開啟虛空信標。對它施加一個紅石信號，它就會關閉，關閉的同時，它發射的射向天空的光束也會消失。<BR>第二，虛空信標與天空之間不能有阻隔。像玻璃這樣的透明方塊不會妨礙它的工作，但像石頭或箱子這樣的不透明塊會妨礙它工作。到目前為止，我還沒有遇到繞過這個限制的方法，但是這一點在整個計劃中倒也不是非常重要。<BR>第三，虛空信標需要一個相鄰的容器，其中至少有一個空位。它不能將產物儲存在內部，否則會破壞其脆弱的維持內部工作的穩定性，因此，一旦產物產出就會被立即轉儲到這個容器中。如果沒有足夠的空間來放置產物，虛空信標就會停止工作，直到容器中有空位。<BR>第四，空信標旁邊還需要一條虛空裂隙，並且兩者之間不能有東西阻擋。裂隙越大，信標從裂隙中吸取的能量就越多，召現的速度也就越快。然而，就像虛空吸管一樣，這個過程對裂縫本身是有害的。當虛空能量被抽出後，裂隙將逐漸地不穩定和縮小。<BR>最後，它需要向其側邊通入源質才能工作。任何類型的源質都會起作用，但我提供給它的源質類型會影響我得到的結果。那些包含有你所輸入的源質的自然產物都會成為被召現的物品。你提供的源質越豐富，與你所提供的源質相近的物品就越可能被召現。<BR>不過，我應該註意餵它吃什麽;某些源質，比如Machina，根本不會出現在自然產生的原料中，把它註入空信標只會使它產生空氣。如果需要的話，我可以用空手右擊來清空它。信標本身每召現一個物品需要20點源質，但是這個數量可以通過建造一個合適的底座來減少。這個基座的構造就像普通的信標，但要註意，虛空信標基座只接受虛空金屬塊。基座的每一層將減半所需的源質量，四層所減少的量是減少量的極限。
+thaumicwonders.research.void_beacon.text.stage.2=說真的，這一定是我的代表作！因為我憑空變出了一些東西。嗯…雖然少得可憐。<BR>我設計了一種方法，把在裂縫那一端的，超越現實的東西，用源質把它固定成真實的形式。這個過程似乎能夠產出幾乎任何自然可以產生的材料，盡管我不能完全控制產物，只能夠幹涉這一過程。這個設備，我稱之為虛空烽火台，需要一些條件才能正常工作。記錄如下：<BR>首先，也是最簡單的，必須開啟虛空烽火台。對它施加一個紅石信號，它就會關閉，關閉的同時，它發射的射向天空的光束也會消失。<BR>第二，虛空烽火台與天空之間不能有阻隔。像玻璃這樣的透明方塊不會妨礙它的工作，但像石頭或箱子這樣的不透明塊會妨礙它工作。到目前為止，我還沒有遇到繞過這個限制的方法，但是這一點在整個計劃中倒也不是非常重要。<BR>第三，虛空烽火台需要一個相鄰的容器，其中至少有一個空位。它不能將產物儲存在內部，否則會破壞其脆弱的維持內部工作的穩定性，因此，一旦產物產出就會被立即轉儲到這個容器中。如果沒有足夠的空間來放置產物，虛空烽火台就會停止工作，直到容器中有空位。<BR>第四，空烽火台旁邊還需要一條虛空裂隙，並且兩者之間不能有東西阻擋。裂隙越大，烽火台從裂隙中吸取的能量就越多，召現的速度也就越快。然而，就像虛空吸管一樣，這個過程對裂縫本身是有害的。當虛空能量被抽出後，裂隙將逐漸地不穩定和縮小。<BR>最後，它需要向其側邊通入源質才能工作。任何類型的源質都會起作用，但我提供給它的源質類型會影響我得到的結果。那些包含有你所輸入的源質的自然產物都會成為被召現的物品。你提供的源質越豐富，與你所提供的源質相近的物品就越可能被召現。<BR>不過，我應該注意餵它吃什麽;某些源質，比如Machina，根本不會出現在自然產生的原料中，把它注入空烽火台只會使它產生空氣。如果需要的話，我可以用空手右擊來清空它。烽火台本身每召現一個物品需要20點源質，但是這個數量可以通過建造一個合適的底座來減少。這個基座的構造就像普通的烽火台，但要注意，虛空烽火台基座只接受虛空金屬塊。基座的每一層將減半所需的源質量，四層所減少的量是減少量的極限。
 
 thaumicwonders.research.cleansing_charm.title=潔凈之輝
 thaumicwonders.research.cleansing_charm.text.stage.1=長久的頭痛真是難以忍受。我只能盡快做出驅魔肥皂，但它的作用也就聊勝於無。必須找到更好的辦法來處理這個問題。
-thaumicwonders.research.cleansing_charm.text.stage.2=真是解了我的燃眉之急。這個新的潔凈之輝將會從我的身體上抽出扭曲，並將它轉化為咒波釋放到靈氣場中。這不是一個完美的解決方案，但我還是不得不穿上它。<BR>然而，這個過程是緩慢而且有所損耗。潔凈之輝必須放在基座上進行充能，並且需要完全充能才能移除一點扭曲。這個過程大約每30秒產生一點咒波，我估計，它需要一個小時時間來完成它的工作。<BR>此項鏈只適用於粘性扭曲。臨時扭曲自我消散的速度甚至比它的工作速度還要快，永久扭曲它鞭長莫及。
+thaumicwonders.research.cleansing_charm.text.stage.2=真是解了我的燃眉之急。這個新的潔凈之輝將會從我的身體上抽出扭曲，並將它轉化為咒波釋放到靈氣場中。這不是一個完美的解決方案，但我還是不得不穿上它。<BR>然而，這個過程是緩慢而且有所損耗。潔凈之輝必須放在基座上進行充能，並且需要完全充能才能移除一點扭曲。這個過程大約每30秒產生一點咒波，我估計，它需要一個小時時間來完成它的工作。<BR>此項鏈只適用於黏性扭曲。臨時扭曲自我消散的速度甚至比它的工作速度還要快，永久扭曲它鞭長莫及。
 
 thaumicwonders.research.bone_bow.title=骨弓
 thaumicwonders.research.bone_bow.text.stage.1=一段莫名的記憶在我的腦海反覆出現，那是一種早已被遺忘的東西……這是一件威力強大的武器，但我還看的不是很真切。也許有些研究能喚起我的記憶。
@@ -195,12 +195,12 @@ thaumicwonders.research.bone_bow.text.stage.2=是的, 我想起來了.是骨弓�
 
 thaumicwonders.research.primal_arrow.title=原始箭矢
 thaumicwonders.research.primal_arrow.text.stage.1=隨著我成功地重新發明了弓骨，另一段記憶浮現在我的腦海:一種更高級的魔法彈藥。但它的配方是什麽來著？
-thaumicwonders.research.primal_arrow.text.stage.2=我的實驗又一次成功了.使用基礎要素結晶為普通箭矢鑲邊, 箭矢因此被賦予了特別的能力.  原始箭矢無法再從地上回收, 而且, 無限附魔只有30%的幾率使得箭矢不消耗，這是由魔法的本質所決定的.<PAGE>§o風之矢§r<BR>這些箭矢不會造成額外的傷害,但它因風元素所帶來的部分無形的特性使得它可以忽視敵人的護甲.<PAGE>§o地之矢§r<BR>這被厚重的土元素所附魔的箭矢,能夠比普通箭矢造成更高的傷害.<PAGE>§o火之矢§r<BR>這種箭矢可以給被擊中者造成火焰傷害，並且使其被點燃.<PAGE>§o水之矢§r<BR>水之矢造成的傷害與普通箭矢沒有差別,但它卻會給被擊中者帶來深入骨髓的寒冷，顯著地降低被擊中者的速度.  此外，如果在水下射箭，水之矢將不會受到水的阻力影響.<PAGE>§o秩序矢§r<BR>秩序矢造成的傷害比普通箭矢略低, 但它能部分忽視護甲，並且使對方虛弱.<PAGE>§o混沌矢§r<BR>混沌矢的傷害也比普通箭矢略低, 但它的混亂之力會在接下來的幾秒內侵蝕目標（指雕零）.
+thaumicwonders.research.primal_arrow.text.stage.2=我的實驗又一次成功了.使用基礎要素結晶為普通箭矢鑲邊, 箭矢因此被賦予了特別的能力.  原始箭矢無法再從地上回收, 而且, 無限附魔只有30%的幾率使得箭矢不消耗，這是由魔法的本質所決定的.<PAGE>§o風之矢§r<BR>這些箭矢不會造成額外的傷害,但它因風元素所帶來的部分無形的特性使得它可以忽視敵人的護甲.<PAGE>§o地之矢§r<BR>這被厚重的土元素所附魔的箭矢,能夠比普通箭矢造成更高的傷害.<PAGE>§o火之矢§r<BR>這種箭矢可以給被擊中者造成火焰傷害，並且使其被點燃.<PAGE>§o水之矢§r<BR>水之矢造成的傷害與普通箭矢沒有差別,但它卻會給被擊中者帶來深入骨髓的寒冷，顯著地降低被擊中者的速度.  此外，如果在水下射箭，水之矢將不會受到水的阻力影響.<PAGE>§o秩序矢§r<BR>秩序矢造成的傷害比普通箭矢略低, 但它能部分忽視護甲，並且使對方虛弱.<PAGE>§o混沌矢§r<BR>混沌矢的傷害也比普通箭矢略低, 但它的混亂之力會在接下來的幾秒內侵蝕目標（指凋零）.
 thaumicwonders.research.primal_arrow.text.addenda.1=真是令我好奇...自動十字弩顯然無法使用原始箭矢.它的確可以發射原始箭矢,但由於其內部機制，在發射前，原始箭矢當中的能量就會被剝離出去.  我不太確定我能不能找到解決方法.
 
 thaumicwonders.research.flux_distiller.title=咒波蒸餾器
 thaumicwonders.research.flux_distiller.text.stage.1=將咒波收容至咒波容器當中當然很好, 但接下來呢？ 如果有可能，我是絕對不想將其再釋放到靈氣場中.肯定有什麽方法可以處理這些容器內的咒波.
-thaumicwonders.research.flux_distiller.text.stage.2=我設法將咒波凝結器改造為了一種新的形態————它現在能很好的與咒波容器兼容工作.<BR>當將這個新設備————我稱其為咒波蒸餾器，放置在咒波收容器上面時, 它會吸出容器中的咒波，並將其蒸餾為源質.  這一過程產出率並不高, 所幸它並不需要什麽原料.  它的全部要點在於，它可以使我擺脫掉煩人的咒波.<BR>蒸餾器內部無法儲存太多的源質, 所以你需要從蒸餾器的上方通入管道將其排出.  當我破壞掉蒸餾器後，它會保留蒸餾的進度，但其中的源質會因此流失.
+thaumicwonders.research.flux_distiller.text.stage.2=我設法將咒波凝結器改造為了一種新的形態————它現在能很好的與咒波容器相容工作.<BR>當將這個新設備————我稱其為咒波蒸餾器，放置在咒波收容器上面時, 它會吸出容器中的咒波，並將其蒸餾為源質.  這一過程產出率並不高, 所幸它並不需要什麽原料.  它的全部要點在於，它可以使我擺脫掉煩人的咒波.<BR>蒸餾器內部無法儲存太多的源質, 所以你需要從蒸餾器的上方通入管道將其排出.  當我破壞掉蒸餾器後，它會保留蒸餾的進度，但其中的源質會因此流失.
 
 thaumicwonders.research.primordial_accelerator.title=元始加速器
 thaumicwonders.research.primordial_accelerator.text.stage.1=盡管我對元始珍珠的研究持續了相當長的時間，但它對我而言依舊是個謎.我已經開發出了它的數種功能,是的,但我依然無法摸清它的本質究竟為何.  現在, 我覺得我找到了方法: 將其粉碎為微小的組分，進行研究。
@@ -213,18 +213,18 @@ thaumicwonders.research.primordial_accretion_chamber.text.stage.2=我最初的�
 
 thaumicwonders.research.mystic_gardening.title=魔法植物種植
 thaumicwonders.research.mystic_gardening.text.stage.1=在我的探險中，我遇到了許多神奇的植物。我想自己種植它們，但不清楚它們的生長條件以及繁育條件。我對此十分感興趣。
-thaumicwonders.research.mystic_gardening.text.stage.2=雖然還不清楚這些物種是如何在野外傳播的，但我已經設法解決了培育問題.  將我目標制造的植物的所蘊含的源質以及一些世界鹽用註魔的方法註入普通的小麥種子中, 我創造出了可生長的魔法植物.<BR>水銀花可以被種植在泥土，草方塊和耕地上.  烈焰草可以被種植在沙子和硬化粘土（陶瓦）上,但奇怪的是無法種植在普通的泥土上，盡管成熟的烈焰草的確可以被放置在其上.  纖毛菇可以被種植在任何的固體方塊表面，它的孢子對生長環境要求較低.<BR>所有的魔法種子都可以被骨粉或者機器催熟.
+thaumicwonders.research.mystic_gardening.text.stage.2=雖然還不清楚這些物種是如何在野外傳播的，但我已經設法解決了培育問題.  將我目標製造的植物的所蘊含的源質以及一些世界鹽用注魔的方法注入普通的小麥種子中, 我創造出了可生長的魔法植物.<BR>水銀花可以被種植在泥土，草方塊和耕地上.  烈焰草可以被種植在沙子和硬化黏土（陶瓦）上,但奇怪的是無法種植在普通的泥土上，盡管成熟的烈焰草的確可以被放置在其上.  纖毛菇可以被種植在任何的固體方塊表面，它的孢子對生長環境要求較低.<BR>所有的魔法種子都可以被骨粉或者機器催熟.
 
 thaumicwonders.research.panacea.title=純潔之果
 thaumicwonders.research.panacea.text.stage.1=我最近總覺得不舒服, 我手頭的食物和藥物效果甚微.  也許我可以使用煉金的方法創造某種可以讓我痊愈的藥？
-thaumicwonders.research.panacea.text.stage.2=我感覺好多了！ 用一些有益健康的源質註入金蘋果，我創造了一種新的食物，我稱之為純潔之果，吃下它，我覺得渾身都輕松了很多。<BR>除了美味又有營養外，純潔之果還能消除我當時所有的病痛。另外，它仍然具有正常金蘋果的保護和治療作用。<BR>如果我在旅途中幸運地發現了附魔金蘋果，我就能創造出一種更有效的純潔之果————聖潔之果。除了驅散掉我目前所有的負面影響，它也會保護我的思想和身體。聖潔之果會像附魔金蘋果一樣保護我不受傷害，它也會在短時間內保護我的心靈不受扭曲的蹂躪.
+thaumicwonders.research.panacea.text.stage.2=我感覺好多了！ 用一些有益健康的源質注入金蘋果，我創造了一種新的食物，我稱之為純潔之果，吃下它，我覺得渾身都輕松了很多。<BR>除了美味又有營養外，純潔之果還能消除我當時所有的病痛。另外，它仍然具有正常金蘋果的保護和治療作用。<BR>如果我在旅途中幸運地發現了附魔金蘋果，我就能創造出一種更有效的純潔之果————聖潔之果。除了驅散掉我目前所有的負面影響，它也會保護我的思想和身體。聖潔之果會像附魔金蘋果一樣保護我不受傷害，它也會在短時間內保護我的心靈不受扭曲的蹂躪.
 
 thaumicwonders.research.alkahest.title=萬能溶劑
-thaumicwonders.research.alkahest.text.stage.1=我的雜物太多了，占據了我本就不多的空間。我想我可以用熔巖來解決，但那樣的話，我就得阻止熔巖隨意地四處燃燒。不，我想用我的魔法來處理這些雜物，我敢打賭煉金術就是最好的選擇.
+thaumicwonders.research.alkahest.text.stage.1=我的雜物太多了，占據了我本就不多的空間。我想我可以用熔岩來解決，但那樣的話，我就得阻止熔岩隨意地四處燃燒。不，我想用我的魔法來處理這些雜物，我敢打賭煉金術就是最好的選擇.
 thaumicwonders.research.alkahest.text.stage.2=瞧瞧，萬能溶劑。這種東西腐蝕性極強了，任何未經特殊處理的東西都會被它腐蝕掉。作為回饋，它溶解的任何物質都被分解成微量的vis，釋放到靈氣場中。這樣我就不用擔心我的房子會被隨意燒毀。我只是要確保不要把這東西灑出來…
 
 thaumicwonders.research.lethe_water.title=遺忘之水
-thaumicwonders.research.lethe_water.text.stage.1=附魔會消耗大量的經驗，而通過獵殺怪物來獲取這種珍貴的資源既乏味又危險。我寧願呆在家裏，那裏溫暖而光線充足。也許我可以用煉金術產生這種能量？
+thaumicwonders.research.lethe_water.text.stage.1=附魔會消耗大量的經驗，而通過獵殺怪物來獲取這種珍貴的資源既乏味又危險。我寧願待在家裡，那裡溫暖而光線充足。也許我可以用煉金術產生這種能量？
 thaumicwonders.research.lethe_water.text.stage.2=在我第四次重覆我的實驗之前，我得把這個寫下來。我的實驗勉強算合格了。這種混合物當然給了我經驗，我可以用它來附魔，但它有一個奇怪的副作用:它會使我忘記事情。<BR>經過一些控制實驗，我已經確定，每一劑這種釀造物，我稱之為冥河之水，它會使我忘記我的一個寶貴的魔法理論。我已經記錄到紙上的以及完成的研究無法遺忘，觀察知識也是，但在我腦中還未寫於紙上的理論卻不是。奇怪的是，如果我沒有任何可以被遺忘的理論，那麽藥水似乎沒有效果。
 
 thaumicwonders.research.coalescence_matrix.title=聚合矩陣
@@ -269,22 +269,22 @@ thaumicwonders.gui.structure_diviner.1=沙漠神廟
 thaumicwonders.gui.structure_diviner.2=廢棄礦井
 thaumicwonders.gui.structure_diviner.3=海洋神殿
 thaumicwonders.gui.structure_diviner.4=林地府邸
-thaumicwonders.gui.structure_diviner.5=末影要塞
+thaumicwonders.gui.structure_diviner.5=終界要塞
 thaumicwonders.gui.structure_diviner.6=地獄堡壘
-thaumicwonders.gui.structure_diviner.7=末影城
+thaumicwonders.gui.structure_diviner.7=終界城
 thaumicwonders.gui.structure_diviner.8=清除選擇
 
 // Events
 event.primal_destroyer.hunger_full=元始毀滅者扭曲它自己的意志並傷害你！
-event.timewinder.offworld=扭時之鐘在這裏好像無法工作.
+event.timewinder.offworld=扭時之鐘在這裡好像無法工作.
 event.timewinder.used=時間突然向前躍遷.
-event.void_portal.no_anchor=這個傳送門沒有鏈接到錨上.
+event.void_portal.no_anchor=這個傳送門沒有連結到錨上.
 event.void_portal.no_world=這個傳送門連接到的維度不存在.
 event.void_portal.invader=似乎有什麽東西從傳送門中散溢了出來.
 event.void_portal.subvert.lesser_crimson=血腥邪徒破壞了一個不穩定的傳送門！
 event.void_portal.subvert.flux_rift=一個不穩定的傳送門坍縮為了虛空裂隙！
 event.meteorb.used=天氣突然之間發生了變化.
-event.meteorb.offworld=氣象之球似乎在這裏無法工作.
+event.meteorb.offworld=氣象之球似乎在這裡無法工作.
 event.meteorb.unfueled=氣象之球需要更多的源質才能工作.
 event.ore_diviner.not_found=你在附近沒有發現任何東西.
 event.ore_diviner.found.down=你感到有什麽東西在你的的下方！
@@ -294,7 +294,7 @@ event.ore_diviner.found.south=南方有一些東西進入了你的感知之中..
 event.ore_diviner.found.west=我隱約察覺到西方向產生的吸引.....
 event.ore_diviner.found.east=你模糊地察覺到東方有什麽東西....
 event.meaty_orb.used=是肉雨！好時代，來臨叻！
-event.meaty_orb.offworld=嗜肉之球在這裏似乎無法工作.
+event.meaty_orb.offworld=嗜肉之球在這裡似乎無法工作.
 event.meaty_orb.unfueled=嗜肉之球需要更多的源質才能工作.
 event.structure_diviner.not_found=建築探測儀沒有發現什麽特別的.
 event.structure_diviner.found.here=建築探測儀發現了你上方有些什麽東西！

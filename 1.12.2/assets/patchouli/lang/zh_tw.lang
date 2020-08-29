@@ -23,7 +23,7 @@ patchouli.subtitle.book_flip=書：翻頁
 
 
 # Gui Strings
-patchouli.gui.lexicon.landing_info=（佔位用簡介，請在你的 book.json 中自定義簡介文本！）
+patchouli.gui.lexicon.landing_info=（佔位用簡介，請在你的 book.json 中自訂簡介文本！）
 patchouli.gui.lexicon.progress_meter=解鎖進度：
 patchouli.gui.lexicon.progress_tooltip=%d/%d 已解鎖
 patchouli.gui.lexicon.progress_tooltip.secret1=包含 1 個隱藏頁
@@ -55,9 +55,9 @@ patchouli.gui.lexicon.history=瀏覽歷史
 patchouli.gui.lexicon.history.info=在這裡你可以查看你的瀏覽歷史。 $(br2)你瀏覽過的本書的每一個章節都會自動追踪，過於久遠的瀏覽記錄也會自動清除。你可以將你需要的章節加入書籤，以供不時之需。 $(br2)$(o)提示：可直接按住 Shift 點擊某一章節以快速添加書籤！ $()
 patchouli.gui.lexicon.toast=新章節！
 patchouli.gui.lexicon.toast.info=新章節已解鎖
-patchouli.gui.lexicon.external_link=（外部鏈接）
-patchouli.gui.lexicon.loading_error=加載時遇到錯誤！
-patchouli.gui.lexicon.loading_error_hover=（鼠標指針懸停在這里以顯示更多信息）
+patchouli.gui.lexicon.external_link=（外部連結）
+patchouli.gui.lexicon.loading_error=載入時遇到錯誤！
+patchouli.gui.lexicon.loading_error_hover=（滑鼠指針懸停在這里以顯示更多信息）
 patchouli.gui.lexicon.loading_error_log=查閱日誌獲得詳細信息
 patchouli.gui.lexicon.dev_edition=編者
 patchouli.gui.lexicon.edition_str=%s 版
@@ -77,13 +77,13 @@ patchouli.gui.lexicon.button.next_page=下一頁
 patchouli.gui.lexicon.button.back=返回
 patchouli.gui.lexicon.button.back.info=Shift 並點擊可返回主頁
 patchouli.gui.lexicon.button.resize=調整界面尺寸
-patchouli.gui.lexicon.button.resize.size0=默認
+patchouli.gui.lexicon.button.resize.size0=預設
 patchouli.gui.lexicon.button.resize.size1=小
 patchouli.gui.lexicon.button.resize.size2=中
 patchouli.gui.lexicon.button.resize.size3=稍大
 patchouli.gui.lexicon.button.resize.size4=大
 patchouli.gui.lexicon.button.resize.size5=巨大
-patchouli.gui.lexicon.button.resize.size6=你屏幕到底有多大？
+patchouli.gui.lexicon.button.resize.size6=你螢幕到底有多大？
 patchouli.gui.lexicon.button.editor=編輯器
 patchouli.gui.lexicon.button.editor.info=（Shift 並點擊以重載）
 patchouli.gui.lexicon.button.advancements=進度

@@ -31,11 +31,11 @@ gregblockutils.machine.sieve.steam.name=蒸汽篩
 gregblockutils.machine.rock_breaker.steam.name=蒸汽碎巖機
 
 item.material.oreprefix.oreChunk=%s礦物碎塊
-item.material.oreprefix.oreEnderChunk=末地%s礦物碎塊
+item.material.oreprefix.oreEnderChunk=終界%s礦物碎塊
 item.material.oreprefix.oreNetherChunk=下界%s礦物碎塊
 item.material.oreprefix.oreSandyChunk=含沙%s礦物碎塊
 
-item.gbpebble.basalt.name=玄武巖卵石
-item.gbpebble.black_granite.name=黑花崗巖卵石
+item.gbpebble.basalt.name=玄武岩卵石
+item.gbpebble.black_granite.name=黑花崗岩卵石
 item.gbpebble.marble.name=大理石卵石
-item.gbpebble.red_granite.name=紅花崗巖卵石
+item.gbpebble.red_granite.name=紅花崗岩卵石

@@ -21,7 +21,7 @@ key.ftbguides.guide=打開指南
 ftbguides.lang.home=主頁
 ftbguides.lang.server_info=伺服器資訊
 ftbguides.lang.unsupported_format=不支援的格式！請更新 FTB Guides 或聯繫模組作者！
-ftbguides.lang.commands_failed=無法加載指令
+ftbguides.lang.commands_failed=無法載入指令
 ftbguides.lang.open_in_browser=瀏覽器中打開
 
 ftbguides.lang.type.server_info=伺服器資訊

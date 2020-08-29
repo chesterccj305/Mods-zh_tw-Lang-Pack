@@ -75,7 +75,7 @@ config.field.shirtEntropyActivate.entry=熵值啟動
 config.field.shirtEntropyActivate.description=設定內衣在熵值超過多少百分比就開始用你的生命值來補充護盾值。
 
 info.da.shieldcharge.txt=屏蔽充能
-info.da.storedchaos.txt=存儲混沌
+info.da.storedchaos.txt=儲存混沌
 info.da.cooldown.txt=技能冷卻時間
 
 key.overload=啟動超載

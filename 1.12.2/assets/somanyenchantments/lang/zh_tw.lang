@@ -60,7 +60,7 @@ enchantment.Mortalitas=Mortalitas
 enchantment.somanyenchantments.mortalitas.desc=被有此附魔的武器殺死，殺手都會獲得一點傷害。同樣，如果受害者使用有此附魔的武器殺死了受害者，則受害者損失的傷害與該附魔的等級成比例，基於殺手的武器而定。
 
 enchantment.BlessedEdge=祝福之刃
-enchantment.somanyenchantments.blessededge.desc=從傷害的百分比中恢復生命，並對不死生物造成額外傷害。回復功能可以治愈生物，無論生物是否已死亡。
+enchantment.somanyenchantments.blessededge.desc=從傷害的百分比中恢復生命，並對不死生物造成額外傷害。回復功能可以治癒生物，無論生物是否已死亡。
 
 enchantment.Butchering=屠宰
 enchantment.somanyenchantments.butchering.desc=對動物造成額外傷害。
@@ -70,7 +70,7 @@ enchantment.CursedEdge=詛咒之刃
 enchantment.somanyenchantments.cursededge.desc=根據你的傷害對所有人造成額外傷害，並按一定百分比的傷害對你造成傷害。
 
 enchantment.Unpredictable=不可預測
-enchantment.somanyenchantments.unpredictable.desc=從字面上看，你的傷害無法預測。你的傷害可以是負面的（治愈而不是傷害）或正面的。根據你的攻擊傷害，傷害是隨機分配的。
+enchantment.somanyenchantments.unpredictable.desc=從字面上看，你的傷害無法預測。你的傷害可以是負面的（治癒而不是傷害）或正面的。根據你的攻擊傷害，傷害是隨機分配的。
 
 enchantment.Purification=純化
 enchantment.somanyenchantments.purification.desc=對免疫射擊的生物和所有地下生物造成額外傷害。

@@ -67,15 +67,15 @@ gui.thermalfoundation.lexicon.study=辭典 - 知識
 gui.thermalfoundation.lexicon.transmute=辭典 - 變化
 
 info.thermalfoundation.diagram.erase=潛行時使用可抹去其上的數據。
-info.thermalfoundation.diagram.redprint.0=對著設備使用可複制其配置。
+info.thermalfoundation.diagram.redprint.0=對著設備使用可複製其配置。
 info.thermalfoundation.diagram.redprint.1=對著設備使用可快速應用該配置。
 
 info.thermalfoundation.offhandUse=拿在手上使你可以在放置方塊的時候使用.
 
 info.thermalfoundation.security.lock=用在可被安全保護的方塊上，或者與可被安全保護的物品合成。
 
-info.thermalfoundation.tome.experience.0=在它的書頁裡面存儲經驗.
-info.thermalfoundation.tome.experience.1=曾經在書裡面存儲過知識.
+info.thermalfoundation.tome.experience.0=在它的書頁裡面儲存經驗.
+info.thermalfoundation.tome.experience.1=曾經在書裡面儲存過知識.
 info.thermalfoundation.tome.experience.2=按住Shift使用它來回复知識.
 info.thermalfoundation.tome.experience.a.0=§b按 (%s) 來開啟自動收集.§r
 info.thermalfoundation.tome.experience.a.1=§e按 (%s) 來關閉自動收集.§r

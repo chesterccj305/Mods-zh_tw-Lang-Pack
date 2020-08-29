@@ -1,7 +1,7 @@
 item.reborncore.manual.name=Reborn 團隊手冊
 reborncore.gui.heat=熱量
 reborncore.gui.missingmultiblock=多方塊結構缺失
-reborncore.gui.slotconfigtip.side=Ctrl+C 覆制格子配置，Ctrl+V 粘貼格子配置。
+reborncore.gui.slotconfigtip.side=Ctrl+C 複製格子配置，Ctrl+V 黏貼格子配置。
 reborncore.gui.slotconfigtip.slot=點擊格子進行配置。
 reborncore.gui.tooltip.config_fluids=配置流體
 reborncore.gui.tooltip.config_slots=配置槽

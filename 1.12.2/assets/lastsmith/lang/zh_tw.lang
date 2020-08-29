@@ -120,7 +120,7 @@ item.lastsmith.steel_ingot.name=鋼锭
 item.lastsmith.crashed_iron.name=待冶煉鐵礦
 item.lastsmith.wooden_blade.name=實木刀條
 item.lastsmith.bamboo_blade.name=竹刀條
-item.lastsmith.paper_arthurs.name=制作者名单
+item.lastsmith.paper_arthurs.name=製作者名单
 item.lastsmith.sakura_full.name=樱
 item.lastsmith.sakura_ingot_unfinished.name=未精煉樱色鋼錠
 item.lastsmith.sakura_ingot.name=樱色鋼錠
@@ -197,21 +197,21 @@ research.HAKUROUSENPUUZIN.title=白樓旋風刃
 research.THAUMBLADE.title=要塞日本刀
 
 research.THAUMBLADE.text.stage.1=我從要塞甲胄中得到了一些靈感。而且我需要一些相關的知識。
-research.THAUMBLADE.text.stage.2=我着手改进这些武器，并且应该是小有成效了<BR>我從刀匠處學習，提出一套全新的理論並設計出這些優美的武器。<BR>它们擁有更強勁的力量，但更低的耐久。它们也保留著它们自己原本的特性。
+research.THAUMBLADE.text.stage.2=我著手改进这些武器，并且应该是小有成效了<BR>我從刀匠處學習，提出一套全新的理論並設計出這些優美的武器。<BR>它们擁有更強勁的力量，但更低的耐久。它们也保留著它们自己原本的特性。
 
 research.BLADEUPDATE.title=刀之铭
 
 research.BLADEUPDATE.text.stage.1=目前的要塞太刀是没有靈魂的，我需要賜與它一個全新的铭。
 research.BLADEUPDATE.text.stage.2=现在，這些无铭之刃被賜與了新的靈魂。
 
-research.FIRSTBLADE.text.stage.1=這本手册原本只有一些神秘學的高深玩意，直到我發現手册後面還有大片的空白。<BR>總之，成為刀匠的第一步是制作木刀，那么制作實木的刀條就是第一件事情了。
+research.FIRSTBLADE.text.stage.1=這本手册原本只有一些神秘學的高深玩意，直到我發現手册後面還有大片的空白。<BR>總之，成為刀匠的第一步是製作木刀，那么製作實木的刀條就是第一件事情了。
 research.FIRSTBLADE.text.stage.2=很好，这就是第一振刀的刀刃了。<BR>我紀錄了一把木刀所需要的配件，以及它们的合成方法。组合起来就是一把木刀了。
 
-research.WOODENBLADE.text.stage.1=有了刀刃，就要準備刀鞘。<BR>制作一個刀條和一個實木鞘，這樣我就可以做一把崭新的木刀了。
+research.WOODENBLADE.text.stage.1=有了刀刃，就要準備刀鞘。<BR>製作一個刀條和一個實木鞘，這樣我就可以做一把崭新的木刀了。
 research.WOODENBLADE.text.stage.2=不错，现在只需要组合起来就好了。
 research.WOODENBLADE.text.stage.3=好了，这就是木刀了。<BR>無铭刀「木偶」，这是曾經的匠人為它起過的名字。為了紀念前輩們，我也這麼起名好了。
 
-research.BLADES.text.stage.1=我應該做幾把鐵刀的，不過我手頭没有趁手的工具和鋼鐵。<BR>憑我的手藝，自己重新制作或許會好很多。<BR>给自己一個煉鋼爐和锤子，這樣我就可以繼續我的工作。
+research.BLADES.text.stage.1=我應該做幾把鐵刀的，不過我手頭没有趁手的工具和鋼鐵。<BR>憑我的手藝，自己重新製作或許會好很多。<BR>给自己一個煉鋼爐和锤子，這樣我就可以繼續我的工作。
 research.BLADES.text.stage.2=好的，工具和炼钢炉都齊了。<BR>需要鋼錠的话我用煉鋼爐把待冶煉鐵礦熔煉出玉鋼，再進行敲打就可以了。<BR>我應該拿不同的原料製作刀條，這樣可以比较出不同材料的優越性。
 research.BLADES.text.stage.3=我發現耀魂鐵錠作為刀刃的材料是最為優越的。<BR>不過，其他的刀刃材料也可以用於批量生產。因为我察覺到這種鐵錠非常的稀有與昂貴。<BR>配方已经紀錄下来了，这样我就可以隨時查閱这些资料。
 
@@ -219,37 +219,37 @@ research.WHITESHEATH.text.stage.1=這，應該就是我的處女作了吧。<BR>
 research.WHITESHEATH.text.stage.2=我现在只要將刀刃取下，换上新的刀刃就可以了。
 research.WHITESHEATH.text.stage.3=现在這把刀就這樣完成了。<BR>我非常的自豪，但我也應該察覺到我需要的不只是这些。<BR>嘛，總之先把配方都紀錄下来吧。
 
-research.SLASHBLADE.text.stage.1=有傳言说大太刀的制造需要用斷掉的白鞘来进行。<BR>我觉得我可以来親自試驗一下，先讓我找一把白鞘出来好了。
+research.SLASHBLADE.text.stage.1=有傳言说大太刀的製造需要用斷掉的白鞘来进行。<BR>我觉得我可以来親自試驗一下，先讓我找一把白鞘出来好了。
 research.SLASHBLADE.text.stage.2=按照别人提供的配方，这样合成出来就好。
 research.SLASHBLADE.text.stage.3=我的试验证明了传言是真实的。<BR>不过即便这样这把大太刀的装具也是非常的普通，而且感觉不到什么特别的气息。<BR>总之先把配方都记录下来吧。
 
-research.UNNAMEDBLADE.text.stage.1=我试着做一把新刀，先拿白鞘下手好了。
+research.UNNAMEDBLADE.text.stage.1=我试著做一把新刀，先拿白鞘下手好了。
 research.UNNAMEDBLADE.text.stage.2=这把白鞘，刀刃的质量不行。<BR>它轻而易举的就断掉了，所以我需要给它换上新的刀条。<BR>等等，我也许可以改一些小东西。。。。。。
 research.UNNAMEDBLADE.text.stage.3=完成，通过最上级的刀刃和贵重的白鞘组合而成。<BR>我把它起名为 自铭「起源」，这就是一切的开始。。。。。。
 
 research.NAMEDBALDE.text.stage.1=有很多名刀都是故事或传记中的常客。<BR>这些刀并不是容易获得的，现有的资料无法完全证明它们的存在。
-research.NAMEDBALDE.text.stage.2=这些刀的存在已经被证实，并记录了所有制作这些刀的方式。
+research.NAMEDBALDE.text.stage.2=这些刀的存在已经被证实，并记录了所有製作这些刀的方式。
 
 research.SAKURABALDE.text.stage.1=曾经有两族，在一场战争中同时被毁灭了。。。。。。<BR>他们留下了五振名刀，最出名的则莫过于樱之刃。<BR>然而，现有的资料无法完全证明它们的存在。
-research.SAKURABALDE.text.stage.2=“樱之刃”——能够驱除一切邪恶的秘密之剑。<BR>驱魔家族秘密中保存着这把剑，并将其传给他们的后代……<BR>然而事实上，驱魔家族与魔族的战争导致了两族的灭亡，不复存在。而且不仅仅是樱之刃，五振名刀都具有相似的能力。尽管驱魔家族成功保管住了樱之刃，也无法挽救他们的一切。。。。。。
+research.SAKURABALDE.text.stage.2=“樱之刃”——能够驱除一切邪恶的秘密之剑。<BR>驱魔家族秘密中保存著这把剑，并将其传给他们的后代……<BR>然而事实上，驱魔家族与魔族的战争导致了两族的灭亡，不复存在。而且不仅仅是樱之刃，五振名刀都具有相似的能力。尽管驱魔家族成功保管住了樱之刃，也无法挽救他们的一切。。。。。。
 
-research.ROUKAN.text.stage.1=楼观剑，据传是可以斩断一切的极其锋利的妖刀。<BR>值得一提的是，市面上其实有很多挂着楼观剑牌子的刀都是劣质的仿制品。真品却无从得知了。
-research.ROUKAN.text.stage.2=仿制品里，较为成功的会被称为观楼剑。<BR>而楼观剑真品，则在西行寺家的庭师手中。<BR>制作这样的一把妖刀，是极其耗费财力的。<BR>我们虽然有能力打造出一把几乎完全一致的刀，也没有办法得到她手里的那一振了。
+research.ROUKAN.text.stage.1=楼观剑，据传是可以斩断一切的极其锋利的妖刀。<BR>值得一提的是，市面上其实有很多挂著楼观剑牌子的刀都是劣质的仿製品。真品却无从得知了。
+research.ROUKAN.text.stage.2=仿製品里，较为成功的会被称为观楼剑。<BR>而楼观剑真品，则在西行寺家的庭师手中。<BR>製作这样的一把妖刀，是极其耗费财力的。<BR>我们虽然有能力打造出一把几乎完全一致的刀，也没有办法得到她手里的那一振了。
 
 research.HAKUROU.text.stage.1=白楼剑，魂魄家的家传宝刀。<BR>作为西行寺家的护卫，这振刀的实际用途并不是用于斩杀生灵。<BR>即便如此，我们也不知道这振刀的其余信息。
 research.HAKUROU.text.stage.2=这振刀确实没有很锋利的刀刃。<BR>取而代之的是，这振刀能够解开对方的迷茫，幽灵则直接成佛。<BR>西行寺家的大小姐为什么至今未成佛，可能她的心里根本没有迷茫而已吧。。。。。。
 
 research.OLDBLADES.text.stage.1=有几把刀是来自于旧版拔刀剑的，不过这里没有合成
-research.OLDBLADES.text.stage.2=这些刀的存在已经被证实，并记录了所有制作这些刀的方式。
+research.OLDBLADES.text.stage.2=这些刀的存在已经被证实，并记录了所有製作这些刀的方式。
 
 research.OTHERSBLADE.text.stage.1=有一些零散的刀，它们没有一个成型的发展路线，潜力也不是很大。<BR>现有的资料无法完全证明它们的存在。
 research.OTHERSBLADE.text.stage.2=这些零散的刀没有什么特别的地方，但是它们却更容易获得。<BR>对于没有能力打造强力兵器的普通人，这会是他们的首选。
 
 research.ROUKANSENPUUZIN.text.stage.1=研究元素工具的时候，你想到了一些奇怪的点子。<BR>如果一振日本刀被赐予了元素的力量，那又会是什么样的呢？
-research.ROUKANSENPUUZIN.text.stage.2=这一振刀，是以楼观剑为基底的元素道具。<BR>很显然，这振刀有着和风雷剑一样的能力，但是也比风雷剑强大的多。
+research.ROUKANSENPUUZIN.text.stage.2=这一振刀，是以楼观剑为基底的元素道具。<BR>很显然，这振刀有著和风雷剑一样的能力，但是也比风雷剑强大的多。
 
 research.HAKUROUSENPUUZIN.text.stage.1=研究元素工具的时候，你想到了一些奇怪的点子。<BR>如果一振日本刀被赐予了元素的力量，那又会是什么样的呢？
-research.HAKUROUSENPUUZIN.text.stage.2=这一振刀，是以白楼剑为基底的元素道具。<BR>很显然，这振刀有着和风雷剑一样的能力，但是也比风雷剑强大的多。
+research.HAKUROUSENPUUZIN.text.stage.2=这一振刀，是以白楼剑为基底的元素道具。<BR>很显然，这振刀有著和风雷剑一样的能力，但是也比风雷剑强大的多。
 
 guide.smith_guide.title=無名刀匠之書
 guide.smith_guide.landing_text=這個無名刀匠將自己的知識，全部紀錄在了这本書裡。

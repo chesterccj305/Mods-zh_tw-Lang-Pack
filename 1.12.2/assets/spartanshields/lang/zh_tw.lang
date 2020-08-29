@@ -112,12 +112,12 @@ tooltip.spartanshields:uiCapacity=%,d/%,d µI
 tooltip.spartanshields:uiPerDamage=每顆心吸收傷害消耗%,d µI
 tooltip.spartanshields:feCapacity=%,d/%,d FE
 tooltip.spartanshields:fePerDamage=每顆心吸收傷害消耗%,d FE
-tooltip.spartanshields:feShield.desc=兼容RF，µI，FE，等等。
+tooltip.spartanshields:feShield.desc=相容RF，µI，FE，等等。
 
 tooltip.spartanshields:hasPatterns=有以下的旗幟圖案：
 
-tooltip.spartanshields:cantCraftMissingMods=不能制作。缺少的mod為：
-tooltip.spartanshields:cantCraftMissingMaterial=不能制作。缺少材料%s。
+tooltip.spartanshields:cantCraftMissingMods=不能製作。缺少的mod為：
+tooltip.spartanshields:cantCraftMissingMaterial=不能製作。缺少材料%s。
 
 #Configs
 config.spartanshields:category.general=基本設置
@@ -171,7 +171,7 @@ config.spartanshields:enableDreadiumShield=恐懼強化盾牌啟用
 config.spartanshields:enableElectrumShield=琥珀金鑲板盾牌啟用
 config.spartanshields:enableElementiumShield=源質鋼鑲板盾牌啟用
 config.spartanshields:enableEnderIOShield=玄鋼防暴盾牌啟用
-config.spartanshields:enableEnderiumShield=末影增強盾牌啟用
+config.spartanshields:enableEnderiumShield=終界增強盾牌啟用
 config.spartanshields:enableEthaxiumShield=伊桑斯增強盾牌啟用
 config.spartanshields:enableInvarShield=殷鋼鑲板盾牌啟用
 config.spartanshields:enableLeadShield=鉛鑲板盾牌啟用

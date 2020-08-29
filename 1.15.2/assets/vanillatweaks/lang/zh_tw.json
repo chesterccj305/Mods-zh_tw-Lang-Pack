@@ -16,13 +16,13 @@
 
   "_comment": "advancements",
   "advancements.vt.pad": "原版調整",
-  "advancements.vt.storage": "存儲方塊",
+  "advancements.vt.storage": "儲存方塊",
   "advancements.vt.zoom": "遠眺",
   "advancements.vt.boom": "碰!!",
   "advancements.vt.friedegg": "煎雞蛋!!",
 
   "_comment": "advancements desc",
-  "advancements.vt.storage.desc": "製作存儲方塊",
+  "advancements.vt.storage.desc": "製作儲存方塊",
   "advancements.vt.pad.desc": "製作合成板",
   "advancements.vt.zoom.desc": "製作雙筒望遠鏡",
   "advancements.vt.boom.desc": "製作炸藥",

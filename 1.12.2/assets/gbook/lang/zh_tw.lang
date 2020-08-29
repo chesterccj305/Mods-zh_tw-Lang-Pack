@@ -6,4 +6,4 @@ text.copyToClipboard.line1=這本書想要把文字複製進你的剪貼板。
 text.copyToClipboard.line2=你確定要允許嗎？
 text.copyToClipboard.success=文本已成功複製。
 
-cmd.gbook.guide.done=重新加載完成
+cmd.gbook.guide.done=重新載入完成

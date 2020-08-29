@@ -41,7 +41,7 @@ item.item_material.gear_stone.name=石齒輪
 item.item_doll.blaze.name=熾熱人偶
 item.item_doll.blaze.desc=向裝有熔岩的桶中投入其會生成烈焰人
 item.item_doll.enderman.name=驚悚人偶
-item.item_doll.enderman.desc=向裝有巫水的桶中投入其會生成末影人
+item.item_doll.enderman.desc=向裝有巫水的桶中投入其會生成終界使者
 item.item_doll.shulker.name=漂浮人偶
 item.item_doll.shulker.desc=向裝有巫水的桶中投入其會生成潛影貝
 item.item_doll.guardian.name=守衛人偶
@@ -52,7 +52,7 @@ item.item_doll.blitz.name=狂風人偶
 item.item_doll.blitz.desc=向裝有烈焰之熾焱的桶中投入其會生成狂風人
 item.item_doll.basalz.name=破碎人偶
 item.item_doll.basalz.desc=向裝有烈焰之熾焱的桶中投入其會生成岩石人
-item.item_doll.blueslime.name=粘液人偶
+item.item_doll.blueslime.name=黏液人偶
 item.item_doll.blueslime.desc=向裝有牛奶的桶中投入其會生成藍色史萊姆
 
 #This will look like '!!!{modid} is not installed, Item has no use!!!'

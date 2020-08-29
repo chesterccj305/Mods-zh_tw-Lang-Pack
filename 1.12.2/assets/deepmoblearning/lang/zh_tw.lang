@@ -2,7 +2,7 @@
 # Blocks
 #
 tile.deepmoblearning.simulation_chamber.name=模擬室
-tile.deepmoblearning.extraction_chamber.name=戰利品制造器
+tile.deepmoblearning.extraction_chamber.name=戰利品製造器
 tile.deepmoblearning.trial_keystone.name=測試楔石
 tile.deepmoblearning.machine_casing.name=炭灰板材機械外殼
 tile.deepmoblearning.infused_ingot_block.name=故障灌注磚

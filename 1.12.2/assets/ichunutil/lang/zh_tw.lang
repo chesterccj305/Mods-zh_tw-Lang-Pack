@@ -7,13 +7,13 @@ ichunutil.config.cat.block.name=方塊
 
 ichunutil.config.cat.general.comment=這些選項是不符合其它任何種類的常規選項。
 ichunutil.config.cat.gameplay.comment=這些選項影響使用模組時的遊戲性。
-ichunutil.config.cat.globalOptions.comment=這些選項影響加載這個模組的伺服器端和客戶端。
-ichunutil.config.cat.serverOptions.comment=這些選項只影響加載這個模組的服務器端。
-ichunutil.config.cat.clientOnly.comment=這些選項只影響加載這個模組的客戶端。\n如果你在尋找快捷鍵，請在ichunutil_keybinds.cfg文件中查看。
+ichunutil.config.cat.globalOptions.comment=這些選項影響載入這個模組的伺服器端和客戶端。
+ichunutil.config.cat.serverOptions.comment=這些選項只影響載入這個模組的伺服器端。
+ichunutil.config.cat.clientOnly.comment=這些選項只影響載入這個模組的客戶端。\n如果你在尋找快捷鍵，請在ichunutil_keybinds.cfg文件中查看。
 ichunutil.config.cat.block.comment=這些選項影響模組中的方塊。
 
 ichunutil.config.cat.keybind.name=快捷鍵
-ichunutil.config.cat.keybind.comment=如果你正在配置文件中閱讀此處，我將強烈地推薦在遊戲中更改快捷鍵。\niChunUtil使用自定義的快捷鍵。請到選項界面然後點擊顯示其他選項。\n\n如果你實在想要編輯這個配置文件，格式是<key code>，並且可以追加":SHIFT", ":CTRL"或":ALT"這些你想要同時按下的鍵。\n鍵碼值請去: http://minecraft.gamepedia.com/Key_codes查看 \n例子：48:SHIFT:ALT 將綁定B鍵當你同時按下Shift鍵和Alt鍵。
+ichunutil.config.cat.keybind.comment=如果你正在配置文件中閱讀此處，我將強烈地推薦在遊戲中更改快捷鍵。\niChunUtil使用自訂的快捷鍵。請到選項界面然後點擊顯示其他選項。\n\n如果你實在想要編輯這個配置文件，格式是<key code>，並且可以追加":SHIFT", ":CTRL"或":ALT"這些你想要同時按下的鍵。\n鍵碼值請去: http://minecraft.gamepedia.com/Key_codes查看 \n例子：48:SHIFT:ALT 將綁定B鍵當你同時按下Shift鍵和Alt鍵。
 ichunutil.config.cat.keybind.tip1=這些快捷鍵允許與Shift/Ctrl/Alt進行組合
 ichunutil.config.cat.keybind.tip2=嘗試在設置快捷鍵的時候按住那些鍵吧
 ichunutil.config.cat.keybind.tip3=如果你想要綁定Shift/Ctrl/Alt，按住它們3秒。最後被按的鍵將被綁定。
@@ -22,17 +22,17 @@ ichunutil.config.prop.enableStencils.name=啟用模板？
 ichunutil.config.prop.enableLatchedRendererSpawn.name=啟用鎖定渲染器生成？
 
 ichunutil.config.prop.enableStencils.comment=如果你在遊戲啟動時因你沒有模板可啟用而崩潰的話請將這項設置成0。
-ichunutil.config.prop.enableLatchedRendererSpawn.comment=如果發現 ichunutil 正在生成大量這些實體並導致延遲，請將其設置為0。可能會影響我的一些模式。我沒能確定問題所在，註意，但是如果你沒有內存問題，忽略這個設置。
+ichunutil.config.prop.enableLatchedRendererSpawn.comment=如果發現 ichunutil 正在生成大量這些實體並導致延遲，請將其設置為0。可能會影響我的一些模式。我沒能確定問題所在，注意，但是如果你沒有內存問題，忽略這個設置。
 
-ichunutil.config.cat.module.compactPorkchop.name=兼容生豬排方塊
-ichunutil.config.cat.module.compactPorkchop.comment=配置兼容生豬排方塊的iChunUtil模塊。
-ichunutil.config.prop.enableCompactPorkchop.name=允許兼容生豬排？
-ichunutil.config.prop.enableCompactPorkchop.comment=啟用兼容生豬排方塊的配方？
+ichunutil.config.cat.module.compactPorkchop.name=相容生豬排方塊
+ichunutil.config.cat.module.compactPorkchop.comment=配置相容生豬排方塊的iChunUtil模塊。
+ichunutil.config.prop.enableCompactPorkchop.name=允許相容生豬排？
+ichunutil.config.prop.enableCompactPorkchop.comment=啟用相容生豬排方塊的配方？
 
 ichunutil.config.cat.module.eula.name=最終用戶許可協議
 ichunutil.config.cat.module.eula.comment=最終用戶許可協議設置。
 ichunutil.config.prop.eulaAcknowledged.name=最終用戶許可協議已同意
-ichunutil.config.prop.eulaAcknowledged.comment=顯示您已同意此最終用戶許可協議的字符串\n如果這個配置來自服務器端，請將其設置為true。
+ichunutil.config.prop.eulaAcknowledged.comment=顯示您已同意此最終用戶許可協議的字符串\n如果這個配置來自伺服器端，請將其設置為true。
 
 ichunutil.config.cat.module.patreon.name=Patreon
 ichunutil.config.cat.module.patreon.comment=Patreon相關配置。
@@ -46,8 +46,8 @@ ichunutil.config.cat.module.versionCheck.comment=這些設置是關於iChun的�
 ichunutil.config.prop.versionNotificationTypes.name=更新通知類型
 ichunutil.config.prop.versionNotificationFrequency.name=更新通知頻率
 ichunutil.config.prop.versionSave.name=更新通知保存
-ichunutil.config.prop.versionNotificationTypes.comment=如何提醒客戶端更新？（服務器端的控制台將一直顯示更新。單人遊戲是你自己加入了一個自我服務的服務器）\n0 = 無視玩家狀態通知更新。\n1 = 僅通知發送更新指令的玩家（客戶端僅在模組更新時顯示）\n2 = 不要通知
-ichunutil.config.prop.versionNotificationFrequency.comment=多久一次通知你更新？（客戶端設置）\n0 = 從不（這僅隱藏通知信息，模組仍然會檢查更新並輸出到控制台）\n1 = 每次你連接到服務器時\n2 = 一天一次
+ichunutil.config.prop.versionNotificationTypes.comment=如何提醒客戶端更新？（伺服器端的控制台將一直顯示更新。單人遊戲是你自己加入了一個自我服務的伺服器）\n0 = 無視玩家狀態通知更新。\n1 = 僅通知發送更新指令的玩家（客戶端僅在模組更新時顯示）\n2 = 不要通知
+ichunutil.config.prop.versionNotificationFrequency.comment=多久一次通知你更新？（客戶端設置）\n0 = 從不（這僅隱藏通知信息，模組仍然會檢查更新並輸出到控制台）\n1 = 每次你連接到伺服器時\n2 = 一天一次
 ichunutil.config.prop.versionSave.comment=不要更改這項。
 
 ichunutil.config.cat.module.headTracking.name=頭部模型追蹤
@@ -65,20 +65,20 @@ ichunutil.config.prop.renderDistanceChunks.name=渲染距離（區塊）
 ichunutil.config.prop.maxRendersPerTick.name=每幀最大渲染
 ichunutil.config.prop.maxRecursion.comment=世界傳送門的最大遞歸。如要禁用世界傳送門的渲染，設定為0。\n\n警告！這數值越高，遞歸越多，FPS丟失越多！
 ichunutil.config.prop.stencilValue.comment=Stecil使用一個特定數值以判斷這個渲染是否屬於我們的。\n\n如果你碰到渲染相關的問題但調整這個並無幫助。那可能是與其他模塊沖突了。找出是什麽模塊並通知雙方的模組作者。
-ichunutil.config.prop.renderDistanceChunks.comment=設定每個世界傳送門的渲染距離（區塊為單位），假定未被世界傳送門覆蓋。\n\n設定為0將綁定MC默認遊戲設定。
-ichunutil.config.prop.maxRendersPerTick.comment=每幀對世界傳送門渲染。\n盡管有最大遞歸設置，這將限制每tick呈現的渲染數量。\n這裏希望你的FPS在你身處錯誤的地方的時候不會暴走。
+ichunutil.config.prop.renderDistanceChunks.comment=設定每個世界傳送門的渲染距離（區塊為單位），假定未被世界傳送門覆蓋。\n\n設定為0將綁定MC預設遊戲設定。
+ichunutil.config.prop.maxRendersPerTick.comment=每幀對世界傳送門渲染。\n盡管有最大遞歸設置，這將限制每tick呈現的渲染數量。\n這裡希望你的FPS在你身處錯誤的地方的時候不會暴走。
 
 ichunutil.gui.newUpdate=新的模組更新可下載！
 
 ichunutil.config.gui.options=選項
-ichunutil.config.gui.needsRestart=一些更改需要客戶端重啟或者服務器端重連
+ichunutil.config.gui.needsRestart=一些更改需要客戶端重啟或者伺服器端重連
 ichunutil.config.gui.setKeyBind=設置快捷鍵
 ichunutil.config.gui.hitKeys=設置快捷鍵中……可選擇按住SHIFT/CTRL/ALT
 ichunutil.config.gui.setStringArray=設置字符串數組
 ichunutil.config.gui.setIntArray=設置整數數組
 ichunutil.config.gui.setNestedIntArray=設置嵌套的整數數組
 
-ichunutil.config.controls.moreKeys=iChunUtil快捷鍵 - 點擊這裏
+ichunutil.config.controls.moreKeys=iChunUtil快捷鍵 - 點擊這裡
 
 ichunutil.eula.message=使用iChunUtil你需要同意該模組的最終用戶許可協議。它可能會在這個模組的jar文件裏被發現。最新版本在iChun的網站上可下載。
 ichunutil.eula.messageServer=你可以通過到iChunUtil的配置文件裏將"eulaAcknowledged"設置為"true"（沒有引號）來禁用這個控制台信息。
@@ -100,6 +100,6 @@ window.saveAs.overwrite=覆蓋？
 window.saveAs.confirmOverwrite=文件已經存在！是否覆蓋？
 window.saveAs.failed=保存文件失敗。
 
-tile.ichunutil.block.compactporkchop.name=兼容生豬排
+tile.ichunutil.block.compactporkchop.name=相容生豬排
 
 entity.EntityBlock.name=方塊實體

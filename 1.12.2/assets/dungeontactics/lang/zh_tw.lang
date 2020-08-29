@@ -278,9 +278,9 @@ item.dungeontactics:ration_iron.name=鐵配給
 item.dungeontactics:ration_gold.name=黃金配給
 item.dungeontactics:spidereye_soup.name=蜘蛛眼湯
 
-item.dungeontactics:iron_ring.name=鐵製指環
-item.dungeontactics:golden_ring.name=金製指環
-item.dungeontactics:diamond_ring.name=鑽石指環
+item.dungeontactics:iron_ring.name=鐵製戒指
+item.dungeontactics:golden_ring.name=金製戒指
+item.dungeontactics:diamond_ring.name=鑽石戒指
 
 item.dungeontactics:charm_toxic.name=毒性咒文
 item.dungeontactics:charm_sapping.name=無力咒文

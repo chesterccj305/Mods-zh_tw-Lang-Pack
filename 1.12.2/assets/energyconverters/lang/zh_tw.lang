@@ -27,4 +27,4 @@ energyconverters.energybridge.stored=能量儲存： %s
 
 energyconverters.rf_warning=§C您不需要此功能的機率約為99 %%！ 請改用Forge能量轉換器（FE）。§r
 energyconverters.mj_hint=§A使用木製能量管道從該模塊中提取能量。§r
-energyconverters.fe_hint=§A與聲稱需要“ RF”的模組兼容率為99%§r
+energyconverters.fe_hint=§A與聲稱需要“ RF”的模組相容率為99%§r

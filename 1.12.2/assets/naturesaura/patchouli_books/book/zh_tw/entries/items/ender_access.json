@@ -1,16 +1,16 @@
 {
-    "name": "末影目鏡",
+    "name": "終界目鏡",
     "icon": "naturesaura:ender_access",
     "category": "items",
     "advancement": "naturesaura:aura_bottle_end",
     "pages": [
         {
             "type": "text",
-            "text": "$(item)末影目鏡$()是，簡單來說，便攜版的$(l:using/ender_crate)末影板條箱$()。在用一樣的方式給予$(thing)末影名$()後，手持右擊就能打開內部存儲。要使用這一物品，$(l:items/aura_cache)靈氣緩存$()需要被用於提供$(#419600)靈氣$()。"
+            "text": "$(item)終界目鏡$()是，簡單來說，便攜版的$(l:using/ender_crate)終界板條箱$()。在用一樣的方式給予$(thing)終界名$()後，手持右擊就能打開內部儲存。要使用這一物品，$(l:items/aura_cache)靈氣緩存$()需要被用於提供$(#419600)靈氣$()。"
         },
         {
             "type": "crafting",
-            "text": "合成$(item)末影目鏡$()",
+            "text": "合成$(item)終界目鏡$()",
             "recipe": "naturesaura:ender_access"
         }
     ]

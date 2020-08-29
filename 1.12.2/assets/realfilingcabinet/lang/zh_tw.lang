@@ -1,6 +1,6 @@
 advancement.realfilingcabinet:craftingFolder.desc=合成一些空的歸檔文件夾。
 advancement.realfilingcabinet:craftingFolder=用文件裝起來，孩子。
-advancement.realfilingcabinet:limitReach.desc=達到染色文件夾的存儲上限。
+advancement.realfilingcabinet:limitReach.desc=達到染色文件夾的儲存上限。
 advancement.realfilingcabinet:limitReach=打破限制！
 commands.realfilingcabinet.errorManaFolder=無法為魔力文件夾填充指定數量魔力。
 commands.realfilingcabinet.errorNoArgs=參數不足。
@@ -62,7 +62,7 @@ itemGroup.realfilingcabinet=仿真檔案櫃
 message.realfilingcabinet.debugger=主手物品的非本地化名
 message.realfilingcabinet.disabled=!!禁用!!
 message.realfilingcabinet.errorEnder=此檔案櫃在應用此升級之前，只能包含基本文件夾。
-message.realfilingcabinet.notAir=[檔案櫃]：我不能在這裏放下自己！
+message.realfilingcabinet.notAir=[檔案櫃]：我不能在這裡放下自己！
 realfilingcabinet.desc=（Exactly what it says on the tin）
 tile.realfilingcabinet.aspectcabinet.name=要素檔案櫃
 tile.realfilingcabinet.filingcabinet.name=檔案櫃

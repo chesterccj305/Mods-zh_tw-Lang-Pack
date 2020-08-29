@@ -1,14 +1,14 @@
 {
-    "name": "方塊覆制",
+    "name": "方塊複製",
     "icon": "hwell:boxer",
     "category": "other_machines",
     "sortnum": 30,
     "pages": [
         { 	"type": "text",
-            "text": "方塊覆制機可以為它頂部的方塊創造覆制副本, 並且每一次工作都將消耗一些能量. 並不是所有的方塊都可以被覆制."
+            "text": "方塊複製機可以為它頂部的方塊創造複製副本, 並且每一次工作都將消耗一些能量. 並不是所有的方塊都可以被複製."
         },
 		{ 	"type": "crafting",
-	        "name": "方塊覆制機",
+	        "name": "方塊複製機",
             "recipe": "hwell:boxer"
         }
     ]

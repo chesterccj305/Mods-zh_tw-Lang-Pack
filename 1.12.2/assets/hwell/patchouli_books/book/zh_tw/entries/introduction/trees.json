@@ -14,7 +14,7 @@
 		{
             "type": "crafting",
 			"title": "肥料和樹木 ",
-			"text": "你可以放置任意一種樹苗. 神秘樹葉可以用來制造物品.",
+			"text": "你可以放置任意一種樹苗. 神秘樹葉可以用來製造物品.",
 			"recipe": "hwell:myst_fertilizer"		
         },
 	    {

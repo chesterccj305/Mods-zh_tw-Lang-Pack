@@ -5,7 +5,7 @@
   "pages": [
 	{
 	  "type": "text",
-	  "text": "用來制造比女巫烤箱單獨產生的煙霧更高級的煙霧。某些其他化合物也可以用這種裝置產生。蒸餾塔需要魔法能量，必須使用烈焰粉作為燃料。"
+	  "text": "用來製造比女巫烤箱單獨產生的煙霧更高級的煙霧。某些其他化合物也可以用這種裝置產生。蒸餾塔需要魔法能量，必須使用烈焰粉作為燃料。"
 	},
 	{
 	  "type": "crafting",
@@ -19,7 +19,7 @@
 	{
 	  "type": "bewitchment:distillery_recipe",
 	  "recipe": "bewitchment:demonic_elixir",
-	  "text": "一份註入了惡魔的本質的邪惡混合物"
+	  "text": "一份注入了惡魔的本質的邪惡混合物"
 	},
 	{
 	  "type": "bewitchment:distillery_recipe",
@@ -29,7 +29,7 @@
 	{
 	  "type": "bewitchment:distillery_recipe",
 	  "recipe": "bewitchment:bottled_frostfire",
-	  "text": "一種奇怪的逆火，摸起來是涼的，放置後，將鐵礦石投入後會煉制成寒鐵。"
+	  "text": "一種奇怪的逆火，摸起來是涼的，放置後，將鐵礦石投入後會煉製成寒鐵。"
 	}
   ]
 }

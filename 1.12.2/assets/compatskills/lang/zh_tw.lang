@@ -8,13 +8,13 @@ compatskills.error.entity.mount=無論你如何努力, 你都無法找到你的�
 compatskills.error.entity.tame=當你試圖馴服這個生物時，它會抵抗你。
 compatskills.error.gamestage=未滿足解鎖這個階段的要求！
 compatskills.error.ore_excavation=當你挖掘的時候，你開始感到缺乏控制。
-compatskills.error.projecte.condenser=你絞盡腦汁，卻仍無法找出覆制這件物品的方法。
-compatskills.error.projecte.learn=你成功分解了該物品，但卻無法找到制作覆制品的方法。
+compatskills.error.projecte.condenser=你絞盡腦汁，卻仍無法找出複製這件物品的方法。
+compatskills.error.projecte.learn=你成功分解了該物品，但卻無法找到製作複製品的方法。
 compatskills.error.reskillable.level_lock=要達到這個等級：
 compatskills.error.reskillable.level_lock_2=請滿足以下要求！
 compatskills.error.tconstruct.material=在你的錘擊之下，材料的反抗越來越劇烈。
 compatskills.error.tconstruct.modifier=經過不知多久, 你仍然無法想出如何以你的意願來強化工具。
-compatskills.error.tconstruct.tool_type=無論有怎樣的指導，新手都無法制作出完美的作品。
+compatskills.error.tconstruct.tool_type=無論有怎樣的指導，新手都無法製作出完美的作品。
 compatskills.error.thaumcraft.knowledge=無論你怎麽努力，你仍無法理解：
 compatskills.error.thaumcraft.research=當你快要完成研究時，你發現它比你最初想象的遠要覆雜。
 compatskills.error.tile_entity.interact=即使過了無數小時, 你也弄不清楚設備是如何工作的。
@@ -31,7 +31,7 @@ compatskills.requirements.format.ore_dict=礦物詞典條目：%s%s
 compatskills.requirements.format.research=研究：%s%s
 compatskills.requirements.format.sneak=%s潛行
 compatskills.requirements.format.warp=扭曲：%s%s
-compatskills.warn.projecte.condenser=警告：你無法覆制此材料。
+compatskills.warn.projecte.condenser=警告：你無法複製此材料。
 compatskills.warn.projecte.transmutation=警告：你無法掌握這種材料的分子構成。但是你仍然可以將它分解為EMC。
 # FORMATS
 ## Astral Sorcery
