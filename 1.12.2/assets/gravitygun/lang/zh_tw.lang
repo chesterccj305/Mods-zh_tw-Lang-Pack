@@ -1,4 +1,4 @@
-gravitygun.config.cat.capabilities.comment=此類別用於配置重力槍的功能選項，並與服務器中的所有客戶端同步。
+gravitygun.config.cat.capabilities.comment=此類別用於配置重力槍的功能選項，並與伺服器中的所有客戶端同步。
 gravitygun.config.cat.capabilities.name=重力槍功能
 gravitygun.config.prop.capabilitiesGrabBlock.comment=重力槍能力等級。\n0 =所有重力槍\n1 =僅增壓\n2 =關閉
 gravitygun.config.prop.capabilitiesGrabBlock.name=級別 - 拉方塊
@@ -25,8 +25,8 @@ gravitygun.config.prop.capabilitiesPullTileEntity.name=級別 - 推實體
 gravitygun.config.prop.capabilitiesPushEntity.comment=重力槍能力等級。\n0 =所有重力槍\n1 =僅增壓\n2 =關閉
 gravitygun.config.prop.capabilitiesPushEntity.name=級別 - 推實體
 gravitygun.config.prop.capabilityCreeperDetonation.comment=重力槍能力等級。\n0 =所有重力槍\n1 =僅增壓\n2 =關閉
-gravitygun.config.prop.capabilityCreeperDetonation.name=推 - 爬行者爆炸等級
-gravitygun.config.prop.enableSuperchargedRecipe.comment=服務器專用。禁用此配置的服務器將禁用配方。
+gravitygun.config.prop.capabilityCreeperDetonation.name=推 - 苦力怕爆炸等級
+gravitygun.config.prop.enableSuperchargedRecipe.comment=伺服器專用。禁用此配置的伺服器將禁用配方。
 gravitygun.config.prop.enableSuperchargedRecipe.name=開啟增壓重力槍配方？
 gravitygun.config.prop.entityGrabMaxWeight.comment=最大重力（其中重力是實體體積的立方根）/ 100。\n設置為 0 以禁用重重力\n例如：要得到蜘蛛的等級，(1.4 * 1.4 * 0.9)^(1/3) * 100，舍入到整數。
 gravitygun.config.prop.entityGrabMaxWeight.name=最大拉取實體重量
@@ -52,8 +52,8 @@ gravitygun.config.prop.superchargedVibrationIntensity.comment=增壓重力槍振
 gravitygun.config.prop.superchargedVibrationIntensity.name=極載振動強度
 item.gravitygun.gravitygunnormal.name=重力槍
 item.gravitygun.gravitygunsupercharged.name=增壓重力槍
-item.gravitygun.rebarammo.name=鋼制
-item.gravitygun.rebarcrossbow.name=鋼制槍臂
+item.gravitygun.rebarammo.name=鋼製
+item.gravitygun.rebarcrossbow.name=鋼製槍臂
 subtitles.gravitygun.gg.charging=重力槍充電中
 subtitles.gravitygun.gg.clawsclose=爪子關閉
 subtitles.gravitygun.gg.clawsopen=爪子開啟

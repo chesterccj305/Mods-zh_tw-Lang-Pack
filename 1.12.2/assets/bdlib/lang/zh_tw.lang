@@ -23,7 +23,7 @@ bdlib.label.empty=空
 
 bdlib.oredistribution.usage=/oredistribution <範圍> [<最小高度>] [<最大高度>] [--file]
 bdlib.oredistribution.start1=正在檢查 (%s、%s、%s) 到 (%s、%s、%s)中的礦石分布，維度%s
-bdlib.oredistribution.start2=服務器可能會延遲一段時間
+bdlib.oredistribution.start2=伺服器可能會延遲一段時間
 bdlib.oredistribution.entry=%s %s - %s （%s%%）
 bdlib.oredistribution.warn=%s 警告：%s 生成了多個變數：
 bdlib.oredistribution.saved=礦石分配釋放到%s

@@ -315,10 +315,10 @@ tooltip.spartanweaponry:quick_strike.desc=此武器可以在很短的傷害抵�
 
 tooltip.spartanweaponry:longbow=標準弓的遠程版本。
 tooltip.spartanweaponry:longbow.desc=需要更長的時間才能完整製作
-tooltip.spartanweaponry:crossbow=高傷害且遠程。發射前需要加載。使用短箭
+tooltip.spartanweaponry:crossbow=高傷害且遠程。發射前需要載入。使用短箭
 tooltip.spartanweaponry:crossbow.desc=射擊後快速射擊會影響準確性。
 tooltip.spartanweaponry:crossbow.desc2=握住瞄準點。
-tooltip.spartanweaponry:crossbow.loaded_bolt=加載方式：%s
+tooltip.spartanweaponry:crossbow.loaded_bolt=載入方式：%s
 
 tooltip.spartanweaponry:throwable_stack_status=%d/%d
 
@@ -390,7 +390,7 @@ advancement.spartanweaponry：craftLance=第四騎士
 advancement.spartanweaponry：craftLance.desc=製作騎士長槍
 advancement.spartanweaponry：craftLongbow=長距離射箭
 advancement.spartanweaponry：craftLongbow.desc=製作長弓
-advancement.spartanweaponry：craftCrossbow=鎖定並加載！
+advancement.spartanweaponry：craftCrossbow=鎖定並載入！
 advancement.spartanweaponry：craftCrossbow.desc=製作弩
 advancement.spartanweaponry：craftThrowingKnife=刺客的需要
 advancement.spartanweaponry：craftThrowingKnife.desc=製作一把投擲刀

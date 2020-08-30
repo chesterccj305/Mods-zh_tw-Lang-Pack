@@ -78,11 +78,11 @@ gui.exitgame=退出遊戲
 
 gui.log.button=LiteLoader 日志
 gui.log.title=LiteLoader 日志查看器
-gui.log.scalecheckbox=使用默認分辨率
+gui.log.scalecheckbox=使用預設解析度
 gui.log.postlog=上傳日志
 gui.log.uploading=正在上傳日志，請稍後……
 gui.log.uploadfailed=上傳失敗
-gui.log.uploadsuccess=上傳成功，請到這裏查看：
+gui.log.uploadsuccess=上傳成功，請到這裡查看：
 gui.log.closedialog=關閉
 
 gui.error.title=%s 的啟動錯誤

@@ -100,5 +100,5 @@ weaponeffect.void.description=虛空礦工 %4$s
 weaponeffect.void.name=虛空礦工
 weaponeffect.weakness.description=擊中敵人時給予 %1$s 秒虛弱效果
 weaponeffect.weakness.name=虛弱
-weaponeffect.wither.description=擊中敵人時給予 %1$s 秒雕零效果
-weaponeffect.wither.name=雕零
+weaponeffect.wither.description=擊中敵人時給予 %1$s 秒凋零效果
+weaponeffect.wither.name=凋零

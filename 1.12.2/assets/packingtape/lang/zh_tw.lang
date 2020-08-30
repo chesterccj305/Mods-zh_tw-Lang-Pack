@@ -1,4 +1,4 @@
 item.packingtape.tape.name=打包帶
-text.packingtape.packaged.cant_place=不能在這裏拆包！
+text.packingtape.packaged.cant_place=不能在這裡拆包！
 text.packingtape.tape.requires_paper=需要紙！
 tile.packingtape.packaged_block.name=已打包的方塊

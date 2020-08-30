@@ -21,7 +21,7 @@
 	        "title": "方塊放置器",
 	        "border": true,
             "images": [ "hwell:textures/gui/setter.png" ],
-            "text": "方塊放置器的默認放置範圍."
+            "text": "方塊放置器的預設放置範圍."
         } 
     ]
 }

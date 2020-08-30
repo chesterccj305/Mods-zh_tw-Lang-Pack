@@ -16,9 +16,9 @@ tile.redstonerepository.storage.blockGelidEnderium.name=極寒終界塊
 tile.redstonerepository.storage.blockGelidGem.name=極寒水晶塊
 
 item.redstonerepository.bauble.feeder.name=自動餵食腰帶
-item.redstonerepository.bauble.ring.effect.name=藥水停頓指環
-item.redstonerepository.bauble.ring.base.name=空白指環
-item.redstonerepository.bauble.ring.mining.name=飛行破壞指環
+item.redstonerepository.bauble.ring.effect.name=藥水停頓戒指
+item.redstonerepository.bauble.ring.base.name=空白戒指
+item.redstonerepository.bauble.ring.mining.name=飛行破壞戒指
 item.redstonerepository.bauble.capacitor.gelid.name=便攜式極寒電容
 
 #Tools
@@ -39,7 +39,7 @@ item.redstonerepository.armor.enderium.gelid.boots.name=終界充能靴子
 info.redstonerepository.capacitor.title=激活可為你背包中的物品充能，必須裝備在飾品欄以生效
 info.redstonerepository.feeder.title=激活可為你提供飽食度回覆，必須裝備在飾品欄以生效
 info.redstonerepository.feeder.short=裝備在飾品欄自動餵食
-info.redstonerepository.hungerPoints=存儲飽食度
+info.redstonerepository.hungerPoints=儲存飽食度
 info.redstonerepository.ring.effect.title=激活可為你凍結當前所有藥水狀態，啟用時無法獲得新的效果
 info.redstonerepository.ring.mining.title=在空中採礦速度不會減慢
 
@@ -78,7 +78,7 @@ key.redstonerepository.bind.powersuitActivate=啟用Powersuit
 #Console
 info.redstonerepository.console.recipes.remove=刪除合成
 info.redstonerepository.console.recipes.remove.vanilla.armor=原版護甲
-info.redstonerepository.console.compat.thermalexpansion=啟用與ThermalExpansion（熱力膨脹）的兼容
+info.redstonerepository.console.compat.thermalexpansion=啟用與ThermalExpansion（熱力膨脹）的相容
 
 #Config
 config.redstonerepository.title=RedstoneRepository配置

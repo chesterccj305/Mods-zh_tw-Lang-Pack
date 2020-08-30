@@ -5,7 +5,7 @@
 #Tooltip
 item.gyth.tank.upgrade.name=儲罐升級
 itemGroup.gyth=GYTH
-jei.gyth.tank.desc=一個簡單的流體儲罐，能夠安裝升級來提升容量。在破壞的時候能夠保留內部存儲流體。只有一級儲罐可以直接制造。更高級的儲罐是通過升級獲得的。
+jei.gyth.tank.desc=一個簡單的流體儲罐，能夠安裝升級來提升容量。在破壞的時候能夠保留內部儲存流體。只有一級儲罐可以直接製造。更高級的儲罐是通過升級獲得的。
 jei.gyth.upgrade.desc=模塊化儲罐的升級部件。一個升級只能用於同一等級，或者更高等級的儲罐。相同等級的升級僅僅用作裝飾。
 tile.gyth.modular.tank.name=模塊化儲罐
 tooltip.gyth.block=類型

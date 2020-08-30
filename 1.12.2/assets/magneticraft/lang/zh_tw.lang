@@ -170,7 +170,7 @@ tile.magneticraft.oil_source_empty.name=含油地層（空）
 tile.magneticraft.box_normal.name=木箱
 tile.magneticraft.crushing_table_normal.name=粉碎台
 tile.magneticraft.sluice_box_center_north.name=洗礦槽
-tile.magneticraft.feeding_trough_center_north.name=木制飼料槽
+tile.magneticraft.feeding_trough_center_north.name=木製飼料槽
 #tile.magneticraft.kiln_shelf.name=窯板
 
 tile.magneticraft.limestone_normal.name=石灰石
@@ -226,7 +226,7 @@ tile.magneticraft.pneumatic_restriction_tube_normal.name=約束氣動管道
 tile.magneticraft.relay_down.name=中繼器
 tile.magneticraft.filter_down.name=過濾器
 tile.magneticraft.transposer_down.name=換位器
-tile.magneticraft.fabricator_normal.name=制造器
+tile.magneticraft.fabricator_normal.name=製造器
 
 # Multiblocks
 tile.magneticraft.sieve_inactive_north.name=電動濾篩台
@@ -260,7 +260,7 @@ tile.magneticraft.multiblock_parts_electric.name=電池機座方塊
 tile.magneticraft.multiblock_parts_striped.name=條紋機座方塊
 tile.magneticraft.multiblock_parts_grate.name=鐵格柵機座方塊
 tile.magneticraft.multiblock_parts_copper_coil.name=銅線圈機座方塊
-tile.magneticraft.multiblock_parts_corrugated_iron.name=波紋鐵制機座方塊
+tile.magneticraft.multiblock_parts_corrugated_iron.name=波紋鐵製機座方塊
 tile.magneticraft.multiblock_column_axis_y.name=機械支撐柱
 tile.magneticraft.multiblock_column_axis_x.name=機械支撐柱
 tile.magneticraft.multiblock_column_axis_z.name=機械支撐柱
@@ -321,7 +321,7 @@ text.magneticraft.multiblock.invalid_block=無效方塊：%s\n錯誤：%s\n正�
 text.magneticraft.multiblock.invalid_column_orientation=無效方塊放置：%s\n錯誤放置：%s\n正確放置：%s
 text.magneticraft.multiblock.activate=啟動成功！
 
-text.magneticraft.shelving_unit_add_chests=增加箱子來擴大存儲空間
+text.magneticraft.shelving_unit_add_chests=增加箱子來擴大儲存空間
 
 # Item tooltips
 tooltip.magneticraft.item_storage.energy=%f/%fJ

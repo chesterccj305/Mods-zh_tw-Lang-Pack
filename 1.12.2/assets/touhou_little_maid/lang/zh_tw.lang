@@ -23,7 +23,7 @@ tile.touhou_little_maid.grid.name=女僕交互面板
 
 #Tooltips
 tooltips.touhou_little_maid.hakurei_gohei.desc=模式：%d
-tooltips.touhou_little_maid.hakurei_gohei.switch_mode.desc=按下Alt鍵並滑動鼠標滾輪切換模式。
+tooltips.touhou_little_maid.hakurei_gohei.switch_mode.desc=按下Alt鍵並滑動滑鼠滾輪切換模式。
 tooltips.touhou_little_maid.kappa_compass.usage.desc=右擊方塊設定坐標，而後右擊女僕綁定坐標
 tooltips.touhou_little_maid.kappa_compass.desc=坐標：%d，%d，%d
 tooltips.touhou_little_maid.damageable.desc=剩餘使用次數：%d
@@ -126,8 +126,8 @@ gui.touhou_little_maid.skin.text.date=日期：%S
 
 #模型包
 pack.touhou_little_maid.maid.name=東方項目模型
-pack.touhou_little_maid.maid.desc=默認模型
-pack.touhou_little_maid.chair.name=默認椅子模型
+pack.touhou_little_maid.maid.desc=預設模型
+pack.touhou_little_maid.chair.name=預設椅子模型
 
 model.touhou_little_maid.hakurei_reimu.name=博麗靈夢
 model.touhou_little_maid.yakumo_ran.name=八雲藍

@@ -44,7 +44,7 @@ planarartifice.PRISMLIGHT.name=虹光
 planarartifice.PRISMLIGHT.text=虹光能夠匯聚光束來傷害實體，會對玩家造成失明以及灼燒亡靈生物。
 
 planarartifice.FOCUSCOLOURED.name=核心著色
-planarartifice.FOCUSCOLOURED.text=玩家能夠自定義施術核心的顏色，但僅適用於單機。
+planarartifice.FOCUSCOLOURED.text=玩家能夠自訂施術核心的顏色，但僅適用於單機。
 
 focus.colourizer.focus=基礎核心效果
 focus.colourizer.invisible=（不適用）
@@ -54,9 +54,9 @@ focus.colourizer.colour.start=-> 鍵入
 itemGroup.planarartifice.tab.name=鏡面藝術
 
 research.rareitems.title=[PA] 奇珍異寶
-research.rareitems.stage.1.text=世界上分布著許多奇珍異寶，或許我應該先從收集鉆石開始。
-research.rareitems.stage.2.text=雖然鉆石很罕見，但比起綠寶石可謂小巫見大巫。不過，村民可能會以一定的價格與我交易一些。
-research.rareitems.stage.3.text=無論出於何種原因，金蘋果對於玩家來說都是無毒無害的。正是因為如此，許多聽聞或者親眼見聞的玩家都會癡迷它的奇特效果。或許，我能試著覆制它。
+research.rareitems.stage.1.text=世界上分布著許多奇珍異寶，或許我應該先從收集鑽石開始。
+research.rareitems.stage.2.text=雖然鑽石很罕見，但比起綠寶石可謂小巫見大巫。不過，村民可能會以一定的價格與我交易一些。
+research.rareitems.stage.3.text=無論出於何種原因，金蘋果對於玩家來說都是無毒無害的。正是因為如此，許多聽聞或者親眼見聞的玩家都會癡迷它的奇特效果。或許，我能試著複製它。
 research.rareitems.stage.4.text=下界之星擁有著極其強大的能量，也許它對身處後期的我來說有很大幫助。
 research.rareitems.complete.text=這些是我迄今為止發現的所有有價值的寶貝。我不知道前方還有什麽在等待著我，誰知道呢？
 
@@ -66,12 +66,12 @@ research.magicapple.complete.text=通過實踐，它不僅發揮了原先預想�
 
 research.alkimium.title=[PA] 煉化錠
 research.alkimium.stage.1.text=經過長時間對"煉金學"基礎知識的研究，我覺得是時候繼續深入了，特別是將一些理論實際應用到生活方方面面。<BR>通過翻閱古籍，我了解到將Praecantatio（魔法）和Terra（地）要素與鐵錠進行混合能夠提升其的能力，為什麽不利用這一點來提升黃銅呢？
-research.alkimium.complete.text=我稱這種新的金屬為——"煉化錠"，它將比黃銅更適合制作煉金制品。
+research.alkimium.complete.text=我稱這種新的金屬為——"煉化錠"，它將比黃銅更適合製作煉金製品。
 
 research.alkimiumsmeltery.title=[PA] 煉金應用
 research.alkimiumsmeltery.stage.1.text=我最初的想法之一就是升級源質冶煉廠，使用煉化錠替代傳統的黃銅看看會發生什麽樣的效果，我應該去試驗下。
 research.alkimiumsmeltery.stage.2.text=我在設計時另一個想法就是離心處理，每次離心時覆合元素總會被分解為組成其的前置覆合元素。This "Advanced" Centrifuge should prove useful when trying to centrifuge aspects down into a specific lower aspect, rather than making it a coin flip.
-research.alkimiumsmeltery.complete.text=成功！正如最初的構想那樣，我稱之其為"煉化源質冶煉廠"。它具有原本1.5倍的源質容量以及更快的速度。不過值得註意的是，我無法將冶煉廠效率提高到5%以上，這還需要進一步深入研究。
+research.alkimiumsmeltery.complete.text=成功！正如最初的構想那樣，我稱之其為"煉化源質冶煉廠"。它具有原本1.5倍的源質容量以及更快的速度。不過值得注意的是，我無法將冶煉廠效率提高到5%以上，這還需要進一步深入研究。
 
 research.alkimiumsmelterythaumium.title=[PA] 神秘冶煉廠升級
 research.alkimiumsmelterythaumium.stage.1.text=就像當初我使用神秘錠改造源質冶煉廠那樣，我應該能夠再次使用它來改造我的煉化源質冶煉廠以提升它的效率。但是，將神秘錠和煉化混合將可能發生意想不到的效果。因此，我不得不重新考慮這些問題。
@@ -84,15 +84,15 @@ research.alkimiumsmelteryvoid.complete.text=經過不懈努力，我成功將虛
 
 research.alkimiumgolem.title=[PA] 材料研究：煉化錠
 research.alkimiumgolem.stage.1.text=或許煉化錠也能作為傀儡的材料。將質地柔軟輕盈的黃銅用在傀儡上，其中的好處也都彰顯了出來，但煉化錠又會帶來怎樣的體驗呢？
-research.alkimiumgolem.complete.text=經過進一步研究，似乎使用煉化錠制作出的傀儡移動時會更加輕盈迅速...但它們的動作好像有些奇怪。
+research.alkimiumgolem.complete.text=經過進一步研究，似乎使用煉化錠製作出的傀儡移動時會更加輕盈迅速...但它們的動作好像有些奇怪。
 
 research.alkimiumgoggles.title=[PA] 護目鏡強化
 research.alkimiumgoggles.stage.1.text=煉化錠在很多領域都得到了有效的利用，或許是時候使用它來改良護目鏡了？
-research.alkimiumgoggles.complete.text=通過向揭示之護目鏡註入煉化板和一些Alkimia（煉金術，化學）源質以讓其兼容煉化錠在最新領域的應用。
+research.alkimiumgoggles.complete.text=通過向揭示之護目鏡注入煉化板和一些Alkimia（煉金術，化學）源質以讓其相容煉化錠在最新領域的應用。
 
 research.alkimiumimproveddistillation.title=[PA] 改良煉化蒸餾
-research.alkimiumimproveddistillation.stage.1.text=不幸的是，由於我在設計輔助排放口和附屬粘漿泵時做了太多假設，它們便無法兼容煉化冶煉廠。為了解決這個問題，我覺得重新起草設計。不過這可能會導致普通黃銅冶煉廠產生兼容問題，但這還是值得一試。
-research.alkimiumimproveddistillation.complete.text=正如計劃中的那樣，我的構想是可行的。不過，果然如預想的那樣它們與普通黃銅冶煉廠產生了兼容問題，好在我能將其相互轉換。然而，這樣做的話會使我損失一個煉化煉金構材，也許...我不應該制造它們？
+research.alkimiumimproveddistillation.stage.1.text=不幸的是，由於我在設計輔助排放口和附屬黏漿泵時做了太多假設，它們便無法相容煉化冶煉廠。為了解決這個問題，我覺得重新起草設計。不過這可能會導致普通黃銅冶煉廠產生相容問題，但這還是值得一試。
+research.alkimiumimproveddistillation.complete.text=正如計劃中的那樣，我的構想是可行的。不過，果然如預想的那樣它們與普通黃銅冶煉廠產生了相容問題，好在我能將其相互轉換。然而，這樣做的話會使我損失一個煉化煉金構材，也許...我不應該製造它們？
 
 research.portal.title=[PA] 空間撕裂
 research.portal.complete.text=這真的是非常，非常奇怪。<BR>在點燃由黑曜石所搭建的多方塊結構後，會出現一個跨維度的傳送門。沒有任何特殊的原因，也許這就是黑曜石的屬性之一？再或者火在這個過程中充當著催化劑的作用？無論是哪種猜想，這都值得一查。
@@ -102,9 +102,9 @@ research.singularity.stage.1.text=對於神秘使而言，再次創造下界傳�
 research.singularity.complete.text=是的，我做到了！<BR>雖然還不能做到大規模重定義，但在未來的研究中它將起到舉足輕重的作用。<BR>通過查閱相關的理論，我總結出可以用空間珍品作為基底，再加上其他介質的調和以創造一個空間奇點。
 
 research.mirrorteleporter.title=[PA] 鏡面傳送石
-research.mirrorteleporter.stage.1.text=隨著對空間研究的深入，"傳送"這詞也已平凡在我的腦海中回蕩。雖然，目前我只能借助魔鏡的力量進行傳送。不過，我相信我應該很快就能解決這個問題。等等，我或許可以建造一個傳送石，並讓其他傳送點鏈接其。<PAGE>也許，這就是一個很好的構想。
+research.mirrorteleporter.stage.1.text=隨著對空間研究的深入，"傳送"這詞也已平凡在我的腦海中回蕩。雖然，目前我只能借助魔鏡的力量進行傳送。不過，我相信我應該很快就能解決這個問題。等等，我或許可以建造一個傳送石，並讓其他傳送點連結其。<PAGE>也許，這就是一個很好的構想。
 research.mirrorteleporter.stage.2.text=好吧，理論上這應該會起作用的才對，就像符文矩陣那樣。這應該算是鏡面傳送石的核心部位，它將用來控制傳送石多方塊結構。沒有它我真的不知道該如何是好。<BR>我也許會用到空間珍品。
-research.mirrorteleporter.complete.text=完成！<BR>傳送石的搭建類似雪傀儡，它需要用到兩塊奧術石磚和一塊鏡面矩陣，然後即可用世界鹽來激活它。這時你便可以向其放入一塊魔力水晶碎片，當你再次右擊它時，它便會將你傳送到相同魔力水晶碎片的傳送石周圍。值得註意的是，如果相同元素的魔力水晶碎片大於2（即出現了2個以上的相同元素魔力水晶碎片傳送石），則傳送將被阻斷。
+research.mirrorteleporter.complete.text=完成！<BR>傳送石的搭建類似雪傀儡，它需要用到兩塊奧術石磚和一塊鏡面矩陣，然後即可用世界鹽來激活它。這時你便可以向其放入一塊魔力水晶碎片，當你再次右擊它時，它便會將你傳送到相同魔力水晶碎片的傳送石周圍。值得注意的是，如果相同元素的魔力水晶碎片大於2（即出現了2個以上的相同元素魔力水晶碎片傳送石），則傳送將被阻斷。
 
 research.alchemicalscribetools.title=[PA] 煉金筆與墨
 research.alchemicalscribetools.complete.text=常規的筆與墨對你來說或許耗盡太快了，而且墨囊的獲取也枯燥乏味。因此，你何從不考慮對其進行改良呢？
@@ -122,7 +122,7 @@ research.focuslight.title=[PA] 核心效果：虹光
 research.focuslight.stage.1.text=到目前為止，我所研究的透鏡聚焦效果都非常理想，特別是將它們用做施術核心領域，其匯聚的光束將會對玩家造成失明以及灼燒亡靈生物。
 
 research.beltofsuspension.title=[PA] 懸浮腰帶
-research.beltofsuspension.stage.1.text=飛行對於神秘使來說已經算是一個難以置信的能力。雖然我已經能夠利用雲霄指環來跳躍正常無法觸及的高度，但我依舊受到重力的限制。<BR>不過，借助我最新發現的維相關知識，我想我應該能實現無重力懸停。
+research.beltofsuspension.stage.1.text=飛行對於神秘使來說已經算是一個難以置信的能力。雖然我已經能夠利用雲霄戒指來跳躍正常無法觸及的高度，但我依舊受到重力的限制。<BR>不過，借助我最新發現的維相關知識，我想我應該能實現無重力懸停。
 research.beltofsuspension.complete.text=懸浮腰帶，顧名思義，當你在跳躍時其會賦予你懸浮效果。在處於懸浮狀態時，你仍然可以進行移動，並且你將不會受到任何摔落傷害。
 
 research.focuscolour.title=核心著色

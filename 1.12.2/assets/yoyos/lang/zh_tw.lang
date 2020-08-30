@@ -49,7 +49,7 @@ yoyos.info.weight.name=重量：%s
 yoyos.info.duration.name=持續時間：%s秒
 yoyos.info.length.name=長度：%s個方塊
 
-yoyos.info.sticky.name=具有粘性的溜溜球會黏著在方塊上持續旋轉。
+yoyos.info.sticky.name=具有黏性的溜溜球會黏著在方塊上持續旋轉。
 yoyos.info.sticky.retraction.name=按住%s以收回溜溜球。
 yoyos.info.sticky.release.name=按住 [%s] 放出。
 
@@ -121,7 +121,7 @@ yoyos.lexicon.page.elf_yoyo1=&1 源質鋼溜溜球 &0
 
 yoyos.lexicon.entry.terra_chaser=泰拉追蹤者
 yoyos.lexicon.tagline.terra_chaser=一種能夠追蹤它的獵物的溜溜球
-yoyos.lexicon.page.terra_chaser0=&1 泰拉追蹤者 &0 是一個武器化的玩具，由制造它的 &1泰拉鋼&0 賦予它巨大的力量。其力量和 &1 鉆石溜溜球 &0 是一樣的，卻有額外的能力消耗 &4 魔力 %0 而不消耗耐久。<br> 在口哨和揮舞的拳頭的指引下，丟出去的溜溜球就會尋找那些可以攻擊的目標。這只需花費少量 &4 魔力 &0。
+yoyos.lexicon.page.terra_chaser0=&1 泰拉追蹤者 &0 是一個武器化的玩具，由製造它的 &1泰拉鋼&0 賦予它巨大的力量。其力量和 &1 鑽石溜溜球 &0 是一樣的，卻有額外的能力消耗 &4 魔力 %0 而不消耗耐久。<br> 在口哨和揮舞的拳頭的指引下，丟出去的溜溜球就會尋找那些可以攻擊的目標。這只需花費少量 &4 魔力 &0。
 yoyos.lexicon.page.terra_chaser1=獲取。
 
-yoyos.lexicon.page.terra_chasere=最後，該工具每破壞單個方塊都會損失耐久值，所以最好物品欄 有與階位相應的&4魔力&0儲存，該工具的功能像普通的 &1 魔力鋼工具 &0 ，它使用 &4 魔力 &0 而不消耗耐久，鑒於它的制作原料是 &1 泰拉鋼 &0。<br>它也不會像普通掉落物品那樣消失。
+yoyos.lexicon.page.terra_chasere=最後，該工具每破壞單個方塊都會損失耐久值，所以最好物品欄 有與階位相應的&4魔力&0儲存，該工具的功能像普通的 &1 魔力鋼工具 &0 ，它使用 &4 魔力 &0 而不消耗耐久，鑒於它的製作原料是 &1 泰拉鋼 &0。<br>它也不會像普通掉落物品那樣消失。

@@ -36,7 +36,7 @@ item.conarm.polishing_kit.name=拋光工具
 item.conarm.polishing_kit.tooltip=需要同沙子一起使用\n護甲將會繼承其各部分的屬性以及參數。
 
 item.conarm.travel_belt_base.name=旅行者腰帶（基礎）
-item.conarm.travel_belt.name=旅行者腰帶（存儲）
+item.conarm.travel_belt.name=旅行者腰帶（儲存）
 item.conarm.travel_potion.name=旅行者腰帶（釀造）
 item.conarm.travel_sack.name=旅行者背包
 item.conarm.travel_goggles_base.name=旅行者護目鏡（基礎）
@@ -254,10 +254,10 @@ modifier.telekinetic_armor.desc=§o栩栩如生§r\n提高觸及半徑。
 #################
 #  Accessories  #
 #################
-modifier.travel_belt_armor.name=旅行者腰帶（存儲）
+modifier.travel_belt_armor.name=旅行者腰帶（儲存）
 modifier.travel_belt_armor.desc=§o力量訓練！ §r\n給你第二個快捷欄。
 modifier.potion_belt_armor.name=旅行者腰帶（釀造）
-modifier.potion_belt_armor.desc=§o為藥水愛好者定制。 §r\n給你一個特殊的藥水儲存空間。
+modifier.potion_belt_armor.desc=§o為藥水愛好者訂製。 §r\n給你一個特殊的藥水儲存空間。
 modifier.travel_sack_armor.name=旅行者背包
 modifier.travel_sack_armor.desc=§o把貴重物品放在一起！ §r\n給你第二個儲存空間。
 modifier.travel_sneak_armor.name=旅行者披風（隱身）

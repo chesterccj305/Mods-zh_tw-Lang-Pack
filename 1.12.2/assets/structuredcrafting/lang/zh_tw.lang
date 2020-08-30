@@ -10,5 +10,5 @@ config.structuredcrafting.general.debug=開發者模式
 config.structuredcrafting.general.tooltip=常規設置
 config.structuredcrafting.general.version=版本
 config.structuredcrafting.general.versionChecker=版本檢查
-itemGroup.structuredcrafting=結構化制作
+itemGroup.structuredcrafting=結構化製作
 tile.blocks.structuredcrafting.structured_crafter.name=結構化工作台

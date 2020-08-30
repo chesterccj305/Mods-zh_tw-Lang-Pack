@@ -39,4 +39,4 @@ tooltip.waystones:levelRequirement=需要經驗等級：%d
 stat.waystones:waystonesActivated=傳送石碑已激活
 
 waystones.general.globalinterdimension=同一維度瞬移（世界性的傳送石碑）
-waystones.worldgen.customnames=自定義名稱
+waystones.worldgen.customnames=自訂名稱

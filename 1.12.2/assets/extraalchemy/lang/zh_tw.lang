@@ -188,7 +188,7 @@ splash_potion.effect.leech=飛濺 吸血藥水
 tipped_arrow.effect.leech=吸血之箭
 effect.leech=吸血
 funny.effect.leech=血跡是很麻煩的東西
-description.effect.leech=受到此效果影響的生物給其他生物造成傷害時可以治愈自身
+description.effect.leech=受到此效果影響的生物給其他生物造成傷害時可以治癒自身
  
 potion.effect.sails=七海藥水
 lingering_potion.effect.sails=滯留 型七海藥水
@@ -222,7 +222,7 @@ effect.pull=引力
 funny.effect.pull=這是引力
 description.effect.pull=將實體拉近自己
  
-recipe.sticky.description=在工作台中間方格放置粘液球，周圍放置2支或者更多藥水，可以使它們的持續時間相加
+recipe.sticky.description=在工作台中間方格放置黏液球，周圍放置2支或者更多藥水，可以使它們的持續時間相加
 recipe.split.vial.description=如果你將細藥水瓶/飛濺 藥水瓶放置在工作台中間方格，周圍放置細玻璃瓶,那麼你將可以得到被稀釋的細藥水瓶,但稀釋後的藥水效果持續時間最短必須超過5秒
 recipe.split.drink.description=如果你將藥水瓶放置在工作台中間方格，周圍放置玻璃瓶,那麼你將可以得到被稀釋的藥水瓶,但稀釋後的藥水效果持續時間最短必須超過5秒
  

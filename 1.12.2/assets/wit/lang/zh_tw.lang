@@ -4,7 +4,7 @@ item.wit:wit_creative.name=創造無線接口終端
 // Keybindings
 key.open_wit.desc=打開無線接口終端
 // JEI
-jei.wit.desc=無線版的接口終端。需要通過安全終端鏈接到ME網絡。可以在控制中設置按鍵綁定以打開GUI。
+jei.wit.desc=無線版的接口終端。需要通過安全終端連結到ME網路。可以在控制中設置按鍵綁定以打開GUI。
 wit:HarvestWith=挖掘：%s
 wit:HarvestLevel=(等級 %d)
 wit:Harvestable=可挖掘

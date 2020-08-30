@@ -236,7 +236,7 @@ modifier.tanzanite_armor.name=坦桑石
 modifier.tanzanite_armor.desc=§o找到他們！ §r\n耐久++，保護++
 
 modifier.terra_armor.name=泰拉
-modifier.terra_armor.desc=§o來自上帝的禮物！ §r\n穿有全套泰拉鋼護甲核心製作的匠魂護甲，能夠獲得較低的被動治愈效果。
+modifier.terra_armor.desc=§o來自上帝的禮物！ §r\n穿有全套泰拉鋼護甲核心製作的匠魂護甲，能夠獲得較低的被動治癒效果。
 
 modifier.topaz.name=黃玉
 modifier.topaz.desc=§o找到他們！ §r\n耐久+++，速度++

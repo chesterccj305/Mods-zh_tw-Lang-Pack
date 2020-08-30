@@ -183,8 +183,8 @@ tile.molddirt.name=黴土
 tile.desertdirt.name=沙土
 tile.drieddirt.name=旱土
 
-tile.limestone.name=灰巖
-tile.basalt.name=玄武巖
+tile.limestone.name=灰岩
+tile.basalt.name=玄武岩
 tile.marble.name=大理石
 tile.ash_block.name=火山灰塊
 tile.white_sand.name=白沙

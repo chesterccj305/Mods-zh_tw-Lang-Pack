@@ -24,13 +24,13 @@ item.binocular_bauble.name=雙筒望遠鏡（小玩意）
 
 #advancement
 advancements.vt.pad=香草調整
-advancements.vt.storage=存儲塊
+advancements.vt.storage=儲存塊
 advancements.vt.zoom=縮放
 advancements.vt.boom=轟！
 advancements.vt.friedegg=煎蛋！！
 
 #advancement desc
-advancements.vt.storage.desc=製作存儲塊
+advancements.vt.storage.desc=製作儲存塊
 advancements.vt.pad.desc=製作合成墊
 advancements.vt.zoom.desc=製作雙筒望遠鏡
 advancements.vt.boom.desc=製作炸藥

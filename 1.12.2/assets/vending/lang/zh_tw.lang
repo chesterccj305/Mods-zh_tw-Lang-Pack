@@ -27,8 +27,8 @@ gui.vendingBlock.ok=確認
 gui.vendingBlock.cancel=取消
 gui.vendingBlock.number_of_credits=金額
 gui.vendingBlock.toInventory=獲取預設
-gui.vendingBlock.buy_buffer=收購緩沖
-gui.vendingBlock.sell_buffer=出售緩沖
+gui.vendingBlock.buy_buffer=收購緩衝
+gui.vendingBlock.sell_buffer=出售緩衝
 gui.vendingBlock.inventory=物品欄
 
 # Subtitles

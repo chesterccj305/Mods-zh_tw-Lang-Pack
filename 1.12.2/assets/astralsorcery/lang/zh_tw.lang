@@ -81,14 +81,14 @@ misc.transmutation.constellation=需要從 %s 聚焦星能
 misc.knowledge.missing=一個空白潔淨的捲軸
 misc.knowledge.inscribed=包含了 %s 的知識
 misc.knowledge.inscribed.creative=包含了大量的知識
-misc.journal.info.1=將鼠標懸停在一個星區上
+misc.journal.info.1=將滑鼠懸停在一個星區上
 misc.journal.info.2=使用滾輪或%s和%s以縮放
 misc.link.stop=連接中斷！
 misc.link.start=已選擇%s！
-misc.link.link=在%s和%s建立鏈接！
+misc.link.link=在%s和%s建立連結！
 misc.link.link.block=此方塊
-misc.link.unlink=已將%s到%s的鏈接斷開！
-misc.link.unlink.all=斷開所有鏈接！
+misc.link.unlink=已將%s到%s的連結斷開！
+misc.link.unlink.all=斷開所有連結！
 misc.fragment.container.desc=箱子內似乎有什麼東西在發光。
 misc.fragment.container.open=右鍵打開。
 misc.fragment.constellation.desc.1=這個捲軸上繪製了一個奇怪的星座。
@@ -99,8 +99,8 @@ misc.fragment.content.empty=捲軸的內容似乎是空白的。
 misc.fragment.added.cst= %s 星座消失不見了。
 misc.fragment.added=獲得了關於 %s 的知識
 
-misc.ctrlcopy=CTRL + 左鍵進行複制
-misc.ctrlcopy.copied=已復制： %s
+misc.ctrlcopy=CTRL + 左鍵進行複製
+misc.ctrlcopy.copied=已複製： %s
 
 misc.sword.sharpened=鋒利 (增加 %s 的傷害)
 misc.chaos.resistance=+%s 混沌抗性
@@ -175,10 +175,10 @@ astralsorcery.journal.ORES.1.text=§7§n水晶石礦石：§r在世界的最深�
 astralsorcery.journal.ORES.2.text=它們是珍稀資源，別想著在地下找到這些礦石，這些水晶石在靠近基岩的位置還會吸引星輝。也許有一個能與星輝進行共鳴以便於勘探礦石的工具？ <NL>§1§n海藍寶石砂岩：§r在星輝長久的照射與水流連續不斷的沖刷下，在河床下的沙內形成的小而脆弱的寶石。通常，可以在被泥沙掩埋的頂部找到它們。
 
 research.ALTAR1.name=星輝合成台
-astralsorcery.journal.ALTAR1.1.text=看起來普通的工作台能和神殿內的水晶發出的星光相互作用，不過效率並不高。根據它們聚集星能的方式，你將其稱為浮動水晶。工作台只能臨時存儲微量的星能。而且受限於木材的材質特性，其內的星能會快速的流逝，必須將合成台盡可能的靠近浮動水晶。
-astralsorcery.journal.ALTAR1.2.text=由最純淨的大理石製作的星輝合成台完美的解決了這兩個問題。它所能吸收利用的星能遠超出普通的工作台。此外，因為它有獨立的星能存儲方式所以無需與浮動水晶連接來收集星能。
+astralsorcery.journal.ALTAR1.1.text=看起來普通的工作台能和神殿內的水晶發出的星光相互作用，不過效率並不高。根據它們聚集星能的方式，你將其稱為浮動水晶。工作台只能臨時儲存微量的星能。而且受限於木材的材質特性，其內的星能會快速的流逝，必須將合成台盡可能的靠近浮動水晶。
+astralsorcery.journal.ALTAR1.2.text=由最純淨的大理石製作的星輝合成台完美的解決了這兩個問題。它所能吸收利用的星能遠超出普通的工作台。此外，因為它有獨立的星能儲存方式所以無需與浮動水晶連接來收集星能。
 
-astralsorcery.journal.ALTAR1.4.text=星輝合成台並非完美無缺的。首先，它要放在地平線以上且可直視天空的地方，以便收集星能。即使在最清晰的天空下它的收集效率也時好時壞。 <NL>離天空越近的地方，所能收集的星能也越多。在兩倍海拔高度時星空的大氣乾擾似乎完全消失了。在夜間它能收集到更多的星能。並顯示在合成格下方的星能存儲欄內。
+astralsorcery.journal.ALTAR1.4.text=星輝合成台並非完美無缺的。首先，它要放在地平線以上且可直視天空的地方，以便收集星能。即使在最清晰的天空下它的收集效率也時好時壞。 <NL>離天空越近的地方，所能收集的星能也越多。在兩倍海拔高度時星空的大氣乾擾似乎完全消失了。在夜間它能收集到更多的星能。並顯示在合成格下方的星能儲存欄內。
 astralsorcery.journal.ALTAR1.5.text=要使用星輝合成台，在按合成表擺放好物品後需要用共鳴星杖開始合成。物品在製作完成後將從合成格彈出。 <NL>合成台在世界上不同位置所能收集到的星能有著很大的差異，星能的量從幾乎沒有到超過滿值。
 
 research.HAND_TELESCOPE.name=望遠鏡
@@ -211,7 +211,7 @@ astralsorcery.journal.SOOTYMARBLE.1.text=用顏色較深的材料（比如煤）
 research.ALTAR2.name=星輝祭壇
 astralsorcery.journal.ALTAR2.1.text=星輝合成台比普通的工作台有著更強的星能聚集能力和星能緩存，就像個升級版。它仍然有改善的空間，可以改造成大型的祭壇結構，擴展的建築結構強化了星能的吸收與利用能力，以獲得更多的星能。 <NL>為了能夠使用這個祭壇，當然需要一個由各種大理石搭建的大型星能收集結構。
 
-astralsorcery.journal.ALTAR2.4.text=星輝祭壇與星輝合成台相比不僅具有更大的星能存儲量。還具有一個特殊的屬性，如果祭壇周圍的結構不正確或者不完整星能存儲條將會變紅。 <NL>新升級的祭壇必須放置在大理石聚能結構的中心，其上能一覽無餘的看到夜空。在合成台上按要求擺放好物品後，用共鳴星杖右鍵開始合成。
+astralsorcery.journal.ALTAR2.4.text=星輝祭壇與星輝合成台相比不僅具有更大的星能儲存量。還具有一個特殊的屬性，如果祭壇周圍的結構不正確或者不完整星能儲存條將會變紅。 <NL>新升級的祭壇必須放置在大理石聚能結構的中心，其上能一覽無餘的看到夜空。在合成台上按要求擺放好物品後，用共鳴星杖右鍵開始合成。
 
 research.WELL.name=聚星缸
 astralsorcery.journal.WELL.1.text=在晚上，海藍寶石和水晶石表面凝結了一層奇怪的晶化液體。在仔細觀察後，這種液體似乎是由星輝的純能量凝聚物。 <NL>一個精心雕琢的大理石缸將更方便收集這種液體。這種液體散發著明亮而純淨的光，看上去感覺非常冷，即使滿滿桶也幾乎感覺不到重量。沐浴在星能液中會賦予你夜視能力，直到它蒸發。
@@ -252,7 +252,7 @@ astralsorcery.journal.ATT_PLAYER.4.text=這種吸收方式需要用光波增幅�
 astralsorcery.journal.ATT_PLAYER.6.text=當一切都準備就緒時，到了晚上，共鳴祭壇與光波增幅器的中心將發出亮藍色的光並連接成星座的樣子。根據計算結果，當所有星能都匯聚在中心時，巨量的星能甚至能將祭壇外邊的金色裝飾物從地面抬起。 <NL>唯一的問題是什麼物品可以進行共鳴呢？比如那些水晶石以及水晶石工具？如果人體進入其中，能否承受住強大的星能呢？
 
 research.ATT_PERKS.name=特化能力
-astralsorcery.journal.ATT_PERKS.1.text=通過自我調節與特化，一些特定頻率的星能將隨著時間的推移自然而然的湧入體內，並獲得獨特的星能力。雖然初始的星能力深受其根源星座的影響，但它也能通過後天的鍛煉來改變。只要經過一定的鍛煉，就能統合體內的星能，並引導其與週天星座共鳴以特化自身的星能力。
+astralsorcery.journal.ATT_PERKS.1.text=通過自我調節與特化，一些特定頻率的星能將隨著時間的推移自然而然的湧入體內，並獲得獨特的星能力。雖然初始的星能力深受其根源星座的影響，但它也能通過後天的鍛鍊來改變。只要經過一定的鍛鍊，就能統合體內的星能，並引導其與週天星座共鳴以特化自身的星能力。
 astralsorcery.journal.ATT_PERKS.2.text=通過冥想來強化體內的共振星能，以使體內的星能力日漸壯大。不過這並不是一蹴而就的，只能以獨特的方式來強化星能力，比如給工具和武器附魔、在紙上或手套上銘刻特殊的符文等。就如同光波和聲波在一定頻率下會互相干涉一樣，星能力也會在此時產生天然共振點。 <NL>星芒寶典已為此單獨劃出一個技能標籤以便於管理不斷增長的星能力。
 astralsorcery.journal.ATT_PERKS.3.text=不幸的是，能力的特化一旦確定就無法更改，只能通過外部工具強制剝離星能力使其重歸混沌狀態，才能再次統合。 <NL>這意味著你將失去擁有的一切星能力。
 
@@ -265,8 +265,8 @@ astralsorcery.journal.INFUSER.1.text=星能液所具有的獨特性質使其能�
 astralsorcery.journal.INFUSER.3.text=專門將星能液和普通材料混合的裝置應該足以讓共振寶石永久存在。該結構需要星能液用於注能，注能開啟方式與。不幸的是，在物理方面星能液的吸收過程極為緩慢，雖然它本來就很慢。 <NL>用星能液注能的需要大量的能量，因此每次只能給一個物品注能。
 
 research.TREEBEACON.name=烽火樹
-astralsorcery.journal.TREEBEACON.1.text=發現了共振寶石的對星能液的排斥特性，該如何利用這個特性？ <NL>巧妙的在樹苗生長前註入星能液，只要一長出新的部分就會被共振寶石從樹幹上彈出。由星光感應材料做成的樹狀結構就像個烽火。
-astralsorcery.journal.TREEBEACON.3.text=當然無形中也是有局限的：這歸咎於它的收穫方式，注入星能液的樹木將被緩慢的消耗，並從幽光樹內噴出物質。 <NL>烽火樹支持的樹木量由其內部存儲的星能液決定，達到上限後就無法將星能液注入樹木內。 <NL>如果烽火樹被破壞，所有幽光樹將恢復成普通的樹。
+astralsorcery.journal.TREEBEACON.1.text=發現了共振寶石的對星能液的排斥特性，該如何利用這個特性？ <NL>巧妙的在樹苗生長前注入星能液，只要一長出新的部分就會被共振寶石從樹幹上彈出。由星光感應材料做成的樹狀結構就像個烽火。
+astralsorcery.journal.TREEBEACON.3.text=當然無形中也是有局限的：這歸咎於它的收穫方式，注入星能液的樹木將被緩慢的消耗，並從幽光樹內噴出物質。 <NL>烽火樹支持的樹木量由其內部儲存的星能液決定，達到上限後就無法將星能液注入樹木內。 <NL>如果烽火樹被破壞，所有幽光樹將恢復成普通的樹。
 
 research.CHARGED_TOOLS.name=充能水晶石工具
 astralsorcery.journal.CHARGED_TOOLS.1.text=雖然用星能液重新生長而成的水晶石工具有助於增加它們的鋒利與堅固的程度，你仍然在思索將海藍寶石和星能液用於強化水晶石工具的方法。改變工具內的水晶石結構會使其變的參差不齊，但它仍然可以使用。 <NL>由於其內的晶體結構與海藍寶石不再一致，或許需要更多的星能液。
@@ -277,7 +277,7 @@ astralsorcery.journal.TOOL_WANDS.1.text=在嘗試直接空手使用星能的過�
 astralsorcery.journal.TOOL_WANDS.3.text=按住shift時右鍵選擇想要放置或替換的方塊類型。將直接使用背包內的方塊。 <NL>將一部分縹緲的星能接引到星杖內，這使得使用者感覺有些虛弱。在使用這類工具時若與星座進行過共鳴，將有助於避免星能超載或不足的問題。
 
 research.GRAPPLE_WAND.name=衝擊星杖
-astralsorcery.journal.GRAPPLE_WAND.1.text=如果末影珍珠不那麼難獲得且不會在使用中受傷的話將是一個極好的道具。 <NL>基於對這些星能的奇特圖形的研究結果，可以製作一種能將星能注入末影珍珠來維持一個更安全的傳送方式的星杖。 <NL>與珍珠的不同之處在於它的範圍有限，且不是直接傳送到目標而是給使用者一種推力。
+astralsorcery.journal.GRAPPLE_WAND.1.text=如果終界珍珠不那麼難獲得且不會在使用中受傷的話將是一個極好的道具。 <NL>基於對這些星能的奇特圖形的研究結果，可以製作一種能將星能注入終界珍珠來維持一個更安全的傳送方式的星杖。 <NL>與珍珠的不同之處在於它的範圍有限，且不是直接傳送到目標而是給使用者一種推力。
 
 research.RIT_PEDESTAL.name=效應放大器
 astralsorcery.journal.RIT_PEDESTAL.1.text=雖然共鳴水晶石幾乎可以直接投影星座的力量，但要真正讓其生效還額外需要一個放大器來聚集散亂的星能。 <NL>作為投影星座力量的代價就是水晶石將受到強大的應力，隨著時間推移將會產生裂縫。放大器內部的星能液緩存可以適當的減弱應力，當然這種減弱應力的方式也有著一定的限制，如果水晶石已經開始產生裂縫，那就只能手動將其泡在星能液中進行修復。
@@ -304,22 +304,22 @@ astralsorcery.journal.LENSES_EFFECTS.1.text=星輝本身似乎具有超出其起
 astralsorcery.journal.LENSES_EFFECTS.2.text=將海藍寶石和其他材料融合成特殊的彩色透鏡，將彩色透鏡嵌入水晶透鏡內，就能將星輝過濾為彩色星光束。 <NL>一草一木,皆為天定;一飲一啄,皆為前緣。此時透鏡所能傳輸的星能自然就也衰減了。
 
 research.RITUAL_LINK.name=效應重定向
-astralsorcery.journal.RITUAL_LINK.1.text=將星輝聚集在效應放大器上可以將星座的特有效應在世界上放大。不幸的是，需要一個較大的空間來確保水晶石的完整性，還需要吸收天空下的星輝。為此，需要用效應鏈接通道將放大效應重定位，效應鏈接通道在效應放大器上方5格高處放置，然後將其連接到附近任意範圍的效應鏈接通道上，這樣應該能解決這個問題。
+astralsorcery.journal.RITUAL_LINK.1.text=將星輝聚集在效應放大器上可以將星座的特有效應在世界上放大。不幸的是，需要一個較大的空間來確保水晶石的完整性，還需要吸收天空下的星輝。為此，需要用效應連結通道將放大效應重定位，效應連結通道在效應放大器上方5格高處放置，然後將其連接到附近任意範圍的效應連結通道上，這樣應該能解決這個問題。
 
-research.LINKTOOL.name=鏈接器
+research.LINKTOOL.name=連結器
 astralsorcery.journal.LINKTOOL.1.text=根據海藍寶石對星能液的牽引作用，使用多個海藍寶石應該能讓你控制調節星能收集裝置發出的星能。 <NL>如果沒有充足的星能，水晶石與海藍寶石融合的共振結構將失敗。幸運的是，最近升級的新型祭壇應該能解決這個問題。
-astralsorcery.journal.LINKTOOL.3.text=然而直接用手抓著融合水晶石可能會有使晶體渾濁的風險，還會減低星能的操縱力，因此鏈接器最好做成類似星杖那樣。 <NL>這種由海藍寶石融合成的水晶星杖可以隨心所意地持續改變周圍星能的流向。 <NL>將水晶鏈接到多個目標將均分星能，即使它並沒有被使用或被攔截。
-astralsorcery.journal.LINKTOOL.4.text=要選擇星能源，只需先右鍵單擊源頭，比如神殿裡的浮動水晶。要選定目標，只要右鍵單擊目標的位置。要斷開鏈接，按住shift時右鍵單擊目標位置即會中斷鍊接。要取消選擇星輝源並停止鏈接過程，只要切換物品欄即可。
+astralsorcery.journal.LINKTOOL.3.text=然而直接用手抓著融合水晶石可能會有使晶體渾濁的風險，還會減低星能的操縱力，因此連結器最好做成類似星杖那樣。 <NL>這種由海藍寶石融合成的水晶星杖可以隨心所意地持續改變周圍星能的流向。 <NL>將水晶連結到多個目標將均分星能，即使它並沒有被使用或被攔截。
+astralsorcery.journal.LINKTOOL.4.text=要選擇星能源，只需先右鍵單擊源頭，比如神殿裡的浮動水晶。要選定目標，只要右鍵單擊目標的位置。要斷開連結，按住shift時右鍵單擊目標位置即會中斷鍊接。要取消選擇星輝源並停止連結過程，只要切換物品欄即可。
 
 research.ILLUMINATION_WAND.name=照明星杖
-astralsorcery.journal.ILLUMINATION_WAND.1.text=在不斷試圖強化與星座之間的共鳴以獲得更強大的力量時，顯而易見的是，這種能量的內在性質也可以用來照亮世界。 <NL>通過聚集環境中游離的星能，並將其註入方塊或在空氣中凝聚，可以強化它們以抵禦幾乎任何程度的傷害，或者單純作為一個光源而存在。
+astralsorcery.journal.ILLUMINATION_WAND.1.text=在不斷試圖強化與星座之間的共鳴以獲得更強大的力量時，顯而易見的是，這種能量的內在性質也可以用來照亮世界。 <NL>通過聚集環境中游離的星能，並將其注入方塊或在空氣中凝聚，可以強化它們以抵禦幾乎任何程度的傷害，或者單純作為一個光源而存在。
 astralsorcery.journal.ILLUMINATION_WAND.3.text=當充能完成時，按住shift右鍵一個方塊會將其變為發光狀態或恢復為正常狀態。右鍵則會生成一個與熒光粉類似的小耀斑。再同一個方塊上再次右鍵會移除耀斑。 <NL>可以用染料合成會改變星杖及耀斑的顏色。
 
 research.SHIFT_STAR.name=更替之星
 astralsorcery.journal.SHIFT_STAR.1.text=雖然與星座進行共鳴能獲得強大的力量。但體內的星能力的總量有著上限，有時人們希望能夠改變星能力的屬性或改變它們的特化方式。但這也意味著必須破壞與外界的共鳴星能。 <NL>這種含有特殊能量的專用催化劑，能使體內的星能力弱化並恢復至混沌狀態來重新開始，不過這是一次性用品。
 
 research.STARMETAL_ORE.name=鐵礦轉化
-astralsorcery.journal.STARMETAL_ORE.1.text=這些星能束除了美觀之外必然還有其他的用途，或許能直接影響世界。用鏈接器將星能束從強星源處聚集在鐵礦石上應該就能解決這個疑問。在神殿內遺留下的聚能水晶上方清理出一條直達天空的通道應該能作為星輝束的來源。 <NL>一段時間後，鐵礦石就會因星輝的照射而改變其內部的基本結構。
+astralsorcery.journal.STARMETAL_ORE.1.text=這些星能束除了美觀之外必然還有其他的用途，或許能直接影響世界。用連結器將星能束從強星源處聚集在鐵礦石上應該就能解決這個疑問。在神殿內遺留下的聚能水晶上方清理出一條直達天空的通道應該能作為星輝束的來源。 <NL>一段時間後，鐵礦石就會因星輝的照射而改變其內部的基本結構。
 
 research.TRANSMUTATION_ORES.name=方塊轉化
 astralsorcery.journal.TRANSMUTATION_ORES.1.text=根據鐵礦石的測試結果，其他方塊應該也能被轉化。星芒寶典本身也提供了關於其他可能性的提示，雖然不知道這些信息的來源。 <NL>至於這些轉化是否有益就是另一回事了。
@@ -397,7 +397,7 @@ research.ATT_WAND_VICIO.name=虛御座共鳴星杖
 astralsorcery.journal.ATT_WAND_VICIO.1.text=雖然星杖的力量不可能讓你翱翔雲空或伸手摘星，但與虛御座進行共鳴的星杖肯定能在一定程度上有所幫助。手持時按住右鍵，它就像弓一樣開始蓄力，但在釋放後會讓自身像箭一樣射出去。
 
 research.C_CHALICE.name=遏制聖杯
-astralsorcery.journal.C_CHALICE.1.text=雖然聚星缸功能齊全，但唯一的缺點就是儲量太小了，尤其是考慮到注能時的星能液消耗量。需要一種壓縮存儲液體的方式。 <NL>由於天體能量的性質，需要用一種飄逸的方式來容納和傳輸星能液及其他液體。在古代的小型神殿內受到了新的啟發和想法，想來應該是正確的。
+astralsorcery.journal.C_CHALICE.1.text=雖然聚星缸功能齊全，但唯一的缺點就是儲量太小了，尤其是考慮到注能時的星能液消耗量。需要一種壓縮儲存液體的方式。 <NL>由於天體能量的性質，需要用一種飄逸的方式來容納和傳輸星能液及其他液體。在古代的小型神殿內受到了新的啟發和想法，想來應該是正確的。
 astralsorcery.journal.C_CHALICE.3.text=不過這就意味著如果不先清除聖杯內的流體就向將其他流體輸入的話，輸入的流體將回歸太虛。 <NL>幸運的是，聖杯能直接從虛空內吸取聚星缸的星能液，只有通過底部才能操縱聖杯內的流體。
 astralsorcery.journal.C_CHALICE.4.text=這種遏制能力並不能阻止流體逃逸，流體本源的精粹將不斷環繞著聖杯。這些精粹可以提高注入器的吸附力。 <NL>距離過近的精粹之間會發生相互作用，就像注入器一樣。流體間的相互作用將從附近含有適當流體的聖杯內產生，這比直接使用流體進行交互的損耗要小多了。
 astralsorcery.journal.C_CHALICE.5.text=用更多的共振寶石抵消流體精粹的逃逸會破壞聖杯的穩定性，使其變成廢品。當然，可以給予器紅石信號提升聖杯的穩定性以防止流體逃逸。
@@ -408,17 +408,17 @@ astralsorcery.journal.BORE_CORE.2.text=這種能夠承受因釋放星能液中�
 astralsorcery.journal.BORE_CORE.4.text=由於這種星能“噴泉”是利用星能液運行的，因此不需要露天。隨著將星能液逐步轉化為純淨的星能，這需要十分謹慎小心的操作以防止災難發生，只要給噴泉正上方的聖杯提供星能液就行。 <NL>在完成星能的轉化後還需要一個噴口來發射星能。因為聚能環的原因，噴口的位置必須放在正確的位置上。
 
 research.BORE_HEAD_LIQUID.name=納耳狂曼噴口
-astralsorcery.journal.BORE_HEAD_LIQUID.1.text=流體的本源精華狀態十分特殊，正所謂水往低處流，不外如是。這些精華很可能積累在基岩下方，只要你能找到，就能輕易的掠奪這些精華。 <NL>納耳狂曼噴口不僅能爆破通往基岩路上的所有方塊，還能穿透基岩，掠奪基岩下的流體本源精華並存儲到中央的噴泉核心內。
-astralsorcery.journal.BORE_HEAD_LIQUID.2.text=雖然噴泉核心不能進行機械式交互，但可以用空的聖杯從噴泉核心抽取回收的流體精華，這樣就可以用機械方式提取了。 <NL>不要感到困惑，其實大部分的流體精華都是水。水會填充其他流體精華留下的空隙，所以一旦這些存儲的流體精華抽完，剩下的都將是水。 <NL>短距離內的生成結果差異巨大，光是安置噴泉結構查看其結果就頗為破費且令人厭煩。
+astralsorcery.journal.BORE_HEAD_LIQUID.1.text=流體的本源精華狀態十分特殊，正所謂水往低處流，不外如是。這些精華很可能積累在基岩下方，只要你能找到，就能輕易的掠奪這些精華。 <NL>納耳狂曼噴口不僅能爆破通往基岩路上的所有方塊，還能穿透基岩，掠奪基岩下的流體本源精華並儲存到中央的噴泉核心內。
+astralsorcery.journal.BORE_HEAD_LIQUID.2.text=雖然噴泉核心不能進行機械式交互，但可以用空的聖杯從噴泉核心抽取回收的流體精華，這樣就可以用機械方式提取了。 <NL>不要感到困惑，其實大部分的流體精華都是水。水會填充其他流體精華留下的空隙，所以一旦這些儲存的流體精華抽完，剩下的都將是水。 <NL>短距離內的生成結果差異巨大，光是安置噴泉結構查看其結果就頗為破費且令人厭煩。
 astralsorcery.journal.BORE_HEAD_LIQUID.4.text=由於無法確定地下到底蘊藏的是哪種流體精華，厭倦了不斷的轉移萬象泉結構的行為，還為了節約珍貴的星能液資源。為此對法斯刻共振器進行了修改，讓其擁有對大面積區域的流體信息採樣的能力。 <NL>改進型的艾克斯共振器仍然只能在夜間使用，它藉用了共振寶石的力量與流體進行共鳴。新的艾克斯共振器和舊的法斯刻共振器可以通過shift右鍵切換模式。
 
 research.BORE_HEAD_VORTEX.name=費薩利德噴口
 astralsorcery.journal.BORE_HEAD_VORTEX.1.text=操縱噴泉能量的基本原則是利用星能間相互吸引的自然傾向對其進行誘導。 <NL>當納耳狂曼噴口將能量形成一道垂直的光束並從基岩內吸取流體精華時，你相信你已經找到了另一種用於增強局部能量漩渦的方法。
 astralsorcery.journal.BORE_HEAD_VORTEX.3.text=當它們自身完成加速並回歸時，這些能量會以奇怪的方式與生物發生感應：將它們吸入渦流中心並“固定”在那個位置直到作為能量來源的星能液耗光。 <NL>當生物被困在這個漩渦中後，這些生物似乎很大程度上無法保護自身安全，儘管星能的消耗量深受漩渦中生物用其自身的力量試圖掙脫漩渦的影響。
-astralsorcery.journal.BORE_HEAD_VORTEX.4.text=即使是神話生物也會被這個噴口控制，儘管這需要噴口集中全力才能做到。 <NL>此外，有些生物看起來需要消耗遠比聚星缸長時間能提供的量還要多的多的星能液，所以只有噴泉內部存儲的星能液耗光，某些生物就無法長時間固定在漩渦中心。
+astralsorcery.journal.BORE_HEAD_VORTEX.4.text=即使是神話生物也會被這個噴口控制，儘管這需要噴口集中全力才能做到。 <NL>此外，有些生物看起來需要消耗遠比聚星缸長時間能提供的量還要多的多的星能液，所以只有噴泉內部儲存的星能液耗光，某些生物就無法長時間固定在漩渦中心。
 
 research.ENCHANTMENT_AMULET.name=璀璨棱鏡
-astralsorcery.journal.ENCHANTMENT_AMULET.1.text=關於星能的實驗表明，更替之星會對星座產生奇怪的反應，在受到特殊的星輝照射後將停止發射其內的混沌魔能。 <NL>隨著散發的能量不斷變化，或許比把能量集中更有益。 <NL>將這些能量注入末影之眼後，會使它們向外發射輕微的短距輻射並再往外彌散一段距離，而不會對環境造成破壞。
+astralsorcery.journal.ENCHANTMENT_AMULET.1.text=關於星能的實驗表明，更替之星會對星座產生奇怪的反應，在受到特殊的星輝照射後將停止發射其內的混沌魔能。 <NL>隨著散發的能量不斷變化，或許比把能量集中更有益。 <NL>將這些能量注入終界之眼後，會使它們向外發射輕微的短距輻射並再往外彌散一段距離，而不會對環境造成破壞。
 astralsorcery.journal.ENCHANTMENT_AMULET.3.text=在佩戴時，這種棱鏡會給佩戴者身上的其他裝備增加或賦予特殊的魔法效果。 <NL>所獲得的效果是完全隨機的，這些效果完全基於鎖定更替之星時的奇特頻率。 <NL>將其他頻率的星輝照射在這個棱鏡上會改變其與原先星體間的鎖定頻率並更換星體，最終由更替之星內那不可控制的混沌方式來決定獲得的神奇效果。
 
 research.SEXTANT.name=六分儀
@@ -451,8 +451,8 @@ research.KNOWLEDGE_FRAGMENT.name=流星
 astralsorcery.journal.KNOWLEDGE_FRAGMENT.1.text=偶爾能看見天空中劃過的流星。在其撞擊後所留下的東西對星象學者而言具有極大的價值。
 
 research.ATT_PERK_GEMS.name=活力寶石
-astralsorcery.journal.ATT_PERK_GEMS.1.text=利用水晶存儲星能的唯一問題是它會像光一樣逃逸。通過在晶體內摻雜適當的催化劑，可以在某種程度上存儲星能。在星能液中投入水晶石與熒光粉，會形成一個在生長過程中不斷吸納能量的水晶簇。 <NL>出於存儲能量的原因，其內的能量同樣難以直接使用。
-astralsorcery.journal.ATT_PERK_GEMS.2.text=被佔用的星能仍會影響附近的星能感應頻率，而這已確認為獲取存儲星能的關鍵。 <NL>將寶石嵌入肉體時，用意念與其溝通，並使其加入個人共鳴能量的魔法迴路中，以進一步強化共鳴的自然之力。在這個結構中，寶石是與肉體相連的。
+astralsorcery.journal.ATT_PERK_GEMS.1.text=利用水晶儲存星能的唯一問題是它會像光一樣逃逸。通過在晶體內摻雜適當的催化劑，可以在某種程度上儲存星能。在星能液中投入水晶石與熒光粉，會形成一個在生長過程中不斷吸納能量的水晶簇。 <NL>出於儲存能量的原因，其內的能量同樣難以直接使用。
+astralsorcery.journal.ATT_PERK_GEMS.2.text=被佔用的星能仍會影響附近的星能感應頻率，而這已確認為獲取儲存星能的關鍵。 <NL>將寶石嵌入肉體時，用意念與其溝通，並使其加入個人共鳴能量的魔法迴路中，以進一步強化共鳴的自然之力。在這個結構中，寶石是與肉體相連的。
 
 astralsorcery.journal.recipe.starlight=合成時需要星能
 astralsorcery.journal.recipe.nighttime=只能在夜間製作
@@ -477,7 +477,7 @@ item.itemsextant.target.village.name=村莊
 item.itemsextant.target.temple.name=聖堂
 item.itemsextant.target.oceanmonument.name=海底遺跡
 item.itemsextant.target.fortress.name=地獄要塞
-item.itemsextant.target.endcity.name=末地城
+item.itemsextant.target.endcity.name=終界城
 item.itemsextant.target.biome_plains.name=平原
 item.itemsextant.target.biome_forest.name=森林
 item.itemsextant.target.biome_desert.name=沙漠
@@ -518,7 +518,7 @@ item.itemrockcrystalsimple.name=水晶石
 item.itemtunedrockcrystal.name=共鳴水晶石
 item.itemtunedcelestialcrystal.name=共鳴天體水晶石
 item.itemcelestialcrystal.name=天體水晶石
-item.itemlinkingtool.name=鏈接器
+item.itemlinkingtool.name=連結器
 item.itemjournal.name=星芒寶典
 item.itemwand.name=共鳴星杖
 item.itemcrystalpickaxe.name=水晶石鎬
@@ -643,7 +643,7 @@ tile.blockstructural.telescope_struct.name=天文望遠鏡
 tile.blockfaketree.name=
 tile.blockstarlightinfuser.name=星能聚合器
 tile.blocktreebeacon.name=烽火樹
-tile.blockrituallink.name=效應鏈接通道
+tile.blockrituallink.name=效應連結通道
 tile.blocktranslucentblock.name=半透明方塊
 tile.blockmapdrawingtable.name=群星映射台
 tile.blockcelestialgateway.name=天體星門
@@ -693,7 +693,7 @@ astralsorcery.constellation.aevitas.info=創造性的
 astralsorcery.constellation.aevitas.effect=在這個星座的光芒的照耀下，附近的鮮花與植物都欣欣向榮，蓬勃發展。
 astralsorcery.constellation.aevitas.enchantments=創生之光加速了創傷後的再生速度，讓裝備自我修復還強化了生命本源。
 astralsorcery.constellation.aevitas.ritual=儀式所在的區域內瀰漫著強烈的生命力，附近所有的生命都會獲得再生能力，而作物的生長速度加快，一切都欣欣向榮。
-astralsorcery.constellation.aevitas.capeeffect=沐浴在創生之力中，你的飢餓感消退了，同時擁有強大的治愈力。此外，你附近的植物將受到你生命本源的影響而發生本源蛻變。
+astralsorcery.constellation.aevitas.capeeffect=沐浴在創生之力中，你的飢餓感消退了，同時擁有強大的治癒力。此外，你附近的植物將受到你生命本源的影響而發生本源蛻變。
 astralsorcery.constellation.evorsio=解離座
 astralsorcery.constellation.evorsio.info=破壞性
 astralsorcery.constellation.evorsio.effect=無與倫比的破壞性；此星座的光線異常尖銳，大部分固態物質都會被它穿透。
@@ -786,7 +786,7 @@ perk.category.key.name=關鍵技能
 perk.category.epiphany.name=稀有技能
 perk.category.focus.name=固有技能
 
-perk.astralsorcery.compat.thaumcraft=星芒寶典：神秘時代兼容
+perk.astralsorcery.compat.thaumcraft=星芒寶典：神秘時代相容
 
 perk.reader.infostar=統計數據
 perk.reader.gui=技能統計數據
@@ -1111,7 +1111,7 @@ perk.astralsorcery.evorsio.desc=通過破壞方塊來獲得經驗
 perk.astralsorcery.discidia.name=根源：非攻座
 perk.astralsorcery.discidia.desc=通過攻擊來獲得經驗
 perk.astralsorcery.armara.name=根源：遁甲座
-perk.astralsorcery.armara.desc=通過抗擊打鍛煉來獲得經驗
+perk.astralsorcery.armara.desc=通過抗擊打鍛鍊來獲得經驗
 
 constellation.noInformation=暫無信息！
 
@@ -1127,13 +1127,13 @@ knowledge.astralsorcery.fragment.misc.altar.name=祭壇的特色合成
 knowledge.astralsorcery.fragment.misc.altar.bookmark=特色合成
 knowledge.astralsorcery.fragment.misc.altar.description=所有祭壇都能同時製作多個物品，只要將所有材料一次性放上去，且有足夠的星能和時間就行。由於提高了合成速度與內置星能緩存的容量，所有更推薦使用高級的祭壇。
 
-knowledge.astralsorcery.fragment.discovery.startable.name=星能網絡
-knowledge.astralsorcery.fragment.discovery.startable.bookmark=網絡鏈接
-knowledge.astralsorcery.fragment.discovery.startable.description=雖然只有自然生成的聚能水晶會自動鏈接附近的合成台，但實際上任何聚能水晶都能通過鏈接器與合成台鏈接以達到相同的效果。聚能器（或其他帶有星能聚集能力的透鏡）也可以接入星能網絡，為合成台、祭壇以及其他星能消耗設備提供星能。
+knowledge.astralsorcery.fragment.discovery.startable.name=星能網路
+knowledge.astralsorcery.fragment.discovery.startable.bookmark=網路連結
+knowledge.astralsorcery.fragment.discovery.startable.description=雖然只有自然生成的聚能水晶會自動連結附近的合成台，但實際上任何聚能水晶都能通過連結器與合成台連結以達到相同的效果。聚能器（或其他帶有星能聚集能力的透鏡）也可以接入星能網路，為合成台、祭壇以及其他星能消耗設備提供星能。
 
 knowledge.astralsorcery.fragment.exploration.lightwellprod.name=生產效率
 knowledge.astralsorcery.fragment.exploration.lightwellprod.bookmark=效率
-knowledge.astralsorcery.fragment.exploration.lightwellprod.description=雖然催化劑的持續時間受世界的影響是個玄學問題，但在這期間星能液的生成速率將大大增加。將聚星缸放置在高星能場或鏈接到星能網絡將顯著提高效率。 <NL>各類催化劑的耐用性排列如下：海藍寶石、共振寶石、水晶石、天體水晶石、共鳴水晶石、共鳴天體水晶石。
+knowledge.astralsorcery.fragment.exploration.lightwellprod.description=雖然催化劑的持續時間受世界的影響是個玄學問題，但在這期間星能液的生成速率將大大增加。將聚星缸放置在高星能場或連結到星能網路將顯著提高效率。 <NL>各類催化劑的耐用性排列如下：海藍寶石、共振寶石、水晶石、天體水晶石、共鳴水晶石、共鳴天體水晶石。
 
 knowledge.astralsorcery.fragment.exploration.lightwelluses.name=其他用途
 knowledge.astralsorcery.fragment.exploration.lightwelluses.bookmark=替代用途
@@ -1169,7 +1169,7 @@ knowledge.astralsorcery.fragment.exploration.nocturnal.description=暗夜粉在�
 
 knowledge.astralsorcery.fragment.attunement.starlightchunks.name=星能持久性
 knowledge.astralsorcery.fragment.attunement.starlightchunks.bookmark=持久性
-knowledge.astralsorcery.fragment.attunement.starlightchunks.description=沒有觀測者的存在，世界自然也不存在。透鏡與其他星能網絡傳輸部件由星能自身而保持自我，因此，即使沒有觀測者也仍會繼續存在，這與附件的觀測者無關。更不要說他們是否採取了什麼行動。
+knowledge.astralsorcery.fragment.attunement.starlightchunks.description=沒有觀測者的存在，世界自然也不存在。透鏡與其他星能網路傳輸部件由星能自身而保持自我，因此，即使沒有觀測者也仍會繼續存在，這與附件的觀測者無關。更不要說他們是否採取了什麼行動。
 
 knowledge.astralsorcery.fragment.attunement.alignmentcharge.name=共振充能率
 knowledge.astralsorcery.fragment.attunement.alignmentcharge.bookmark=充能中
@@ -1201,7 +1201,7 @@ knowledge.astralsorcery.fragment.constellation.treebeaconuse.description=將樹�
 
 knowledge.astralsorcery.fragment.constellation.treebeaconboost.name=烽火的加速
 knowledge.astralsorcery.fragment.constellation.treebeaconboost.bookmark=加速
-knowledge.astralsorcery.fragment.constellation.treebeaconboost.description=烽火樹與效應放大器類似，在夜間的效率更高也可以用牽引星能將其加速的難以置信的程度。鏈接星能後烽火樹的產出速度將加快，其中以生息座的星能效率最高。 <NL>相比樹葉來說烽火樹更樂意製造原木。
+knowledge.astralsorcery.fragment.constellation.treebeaconboost.description=烽火樹與效應放大器類似，在夜間的效率更高也可以用牽引星能將其加速的難以置信的程度。連結星能後烽火樹的產出速度將加快，其中以生息座的星能效率最高。 <NL>相比樹葉來說烽火樹更樂意製造原木。
 
 knowledge.astralsorcery.fragment.constellation.inftool.name=充能工具的能力
 knowledge.astralsorcery.fragment.constellation.inftool.bookmark=功能
@@ -1221,7 +1221,7 @@ knowledge.astralsorcery.fragment.constellation.clusterbonus.description=測試�
 
 knowledge.astralsorcery.fragment.constellation.clusterspeed.name=提高生長速度
 knowledge.astralsorcery.fragment.constellation.clusterspeed.bookmark=生長率
-knowledge.astralsorcery.fragment.constellation.clusterspeed.description=如果在室外或通過星能網絡提供星能束，水晶簇將加快生長。
+knowledge.astralsorcery.fragment.constellation.clusterspeed.description=如果在室外或通過星能網路提供星能束，水晶簇將加快生長。
 
 knowledge.astralsorcery.fragment.constellation.ec3.name=聚能水晶結構
 knowledge.astralsorcery.fragment.constellation.ec3.bookmark=結構的增益
@@ -1229,7 +1229,7 @@ knowledge.astralsorcery.fragment.constellation.ec3.description=除了防止因�
 
 knowledge.astralsorcery.fragment.radiance.fysallidic.name=神話生物的影響
 knowledge.astralsorcery.fragment.radiance.fysallidic.bookmark=神話
-knowledge.astralsorcery.fragment.radiance.fysallidic.description=由於萬象泉的內部液體緩存是有限的，因大量神話生物而劇烈消耗的星能液很可能無法束縛住它們。不過末影人通常不可能是元兇，除非它們被困住，但像凋靈或末影龍這樣的生物會在被困住時嘗試逃離。以神話生物的強大程度，為了遏制它們的力量束縛的時間將更為短暫。
+knowledge.astralsorcery.fragment.radiance.fysallidic.description=由於萬象泉的內部液體緩存是有限的，因大量神話生物而劇烈消耗的星能液很可能無法束縛住它們。不過終界使者通常不可能是元兇，除非它們被困住，但像凋靈或終界龍這樣的生物會在被困住時嘗試逃離。以神話生物的強大程度，為了遏制它們的力量束縛的時間將更為短暫。
 
 knowledge.astralsorcery.fragment.misc.perks.name=在增益上的區別
 knowledge.astralsorcery.fragment.misc.perks.bookmark=增益
@@ -1265,7 +1265,7 @@ knowledge.astralsorcery.fragment.constellation.armara.enchantments.description=�
 
 knowledge.astralsorcery.fragment.constellation.armara.ritual.name=放大效應
 knowledge.astralsorcery.fragment.constellation.armara.ritual.bookmark=效應
-knowledge.astralsorcery.fragment.constellation.armara.ritual.description=持續而快速的推力使怪物與拋射物無法靠近效應放大器或效應鏈接通道。
+knowledge.astralsorcery.fragment.constellation.armara.ritual.description=持續而快速的推力使怪物與拋射物無法靠近效應放大器或效應連結通道。
 
 knowledge.astralsorcery.fragment.constellation.armara.ritual.corrupted.name=墮反效應
 knowledge.astralsorcery.fragment.constellation.armara.ritual.corrupted.bookmark=墮反
@@ -1345,7 +1345,7 @@ knowledge.astralsorcery.fragment.constellation.mineralis.enchantments.descriptio
 
 knowledge.astralsorcery.fragment.constellation.mineralis.ritual.name=放大效應
 knowledge.astralsorcery.fragment.constellation.mineralis.ritual.bookmark=效應
-knowledge.astralsorcery.fragment.constellation.mineralis.ritual.description=在效應放大器內註入更多的星能束會影響它轉換石頭的速率，最大範圍則保持不變。
+knowledge.astralsorcery.fragment.constellation.mineralis.ritual.description=在效應放大器內注入更多的星能束會影響它轉換石頭的速率，最大範圍則保持不變。
 
 knowledge.astralsorcery.fragment.constellation.mineralis.ritual.corrupted.name=墮反效應
 knowledge.astralsorcery.fragment.constellation.mineralis.ritual.corrupted.bookmark=墮反

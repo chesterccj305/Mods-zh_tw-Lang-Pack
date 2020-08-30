@@ -3,7 +3,7 @@ screen.button.modules=模塊
 screen.label.scale=縮放
 screen.label.dragtuto=拖拽擡頭顯示（HUD）標簽為其設置位置。
 
-screen.button.default=默認
+screen.button.default=預設
 screen.button.cancel=取消
 screen.button.ok=確定
 screen.button.yes=是
@@ -13,7 +13,7 @@ screen.button.hidden=隱藏
 screen.button.visible=可見
 screen.button.maintained=保持
 screen.button.toggled=切換
-screen.hwyla.warning=§c警告：§r你正在使用一個叫做Hwyla的Waila分支。你可以通過點擊屏幕左上角的按鈕來查看更改列表（基本完成）。
+screen.hwyla.warning=§c警告：§r你正在使用一個叫做Hwyla的Waila分支。你可以通過點擊螢幕左上角的按鈕來查看更改列表（基本完成）。
 
 choice.showhidewaila=顯示/隱藏Waila
 choice.showhideidmeta=顯示ID：元數據
@@ -34,11 +34,11 @@ choice.format.background=背景顏色
 choice.format.gradienttop=漸變色（頂部）
 choice.format.gradientbottom=漸變色（底部）
 choice.format.font=文本顏色
-screen.button.configureaspect=自定義外觀......
+screen.button.configureaspect=自訂外觀......
 screen.button.configureformat=格式目錄……
 screen.button.exporttheme=輸出主題
 
-waila.keybind.wailaconfig=配置屏幕
+waila.keybind.wailaconfig=配置螢幕
 waila.keybind.wailadisplay=顯示/隱藏
 waila.keybind.liquid=顯示流體
 waila.keybind.recipe=顯示配方

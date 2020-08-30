@@ -5,7 +5,7 @@
   "pages": [
 	{
 	  "type": "text",
-	  "text": "一半用於制造高級的釀造藥劑，而普通的的釀造台則無法制造。當然某些其他物品也可以投入釡鍋裏熬煮反應，來創造新的事物。釡鍋需要魔法能量，還需要一個熱源在釡鍋下方。在任何釀造階段，木灰都可以扔進釡鍋。"
+	  "text": "一半用於製造高級的釀造藥劑，而普通的的釀造台則無法製造。當然某些其他物品也可以投入釡鍋裏熬煮反應，來創造新的事物。釡鍋需要魔法能量，還需要一個熱源在釡鍋下方。在任何釀造階段，木灰都可以扔進釡鍋。"
 	},
 	{
 	  "type": "crafting",
@@ -29,12 +29,12 @@
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:tallow",
-	  "text": "用死者熬制的脂肪，用於制作蠟燭等"
+	  "text": "用死者熬製的脂肪，用於製作蠟燭等"
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
 	  "recipe": "bewitchment:slimeball",
-	  "text": "粘乎乎的."
+	  "text": "黏乎乎的."
 	},
 	{
 	  "type": "bewitchment:cauldron_recipe",
@@ -59,7 +59,7 @@
 	{
 	  "type": "text",
 	  "title": "Disposal",
-	  "text": "充滿熔巖的釡鍋會摧毀所有扔進去的物品，同樣，它會點燃任何站在釡鍋中的生物"
+	  "text": "充滿熔岩的釡鍋會摧毀所有扔進去的物品，同樣，它會點燃任何站在釡鍋中的生物"
 	},
 	{
 	  "type": "text",
@@ -123,7 +123,7 @@
 	{
 	  "type": "bewitchment:brew",
 	  "recipe": "bewitchment:fire_resistance",
-	  "text": "給予目標火焰和巖漿的免疫效果"
+	  "text": "給予目標火焰和岩漿的免疫效果"
 	},
 	{
 	  "type": "bewitchment:brew",
@@ -228,7 +228,7 @@
 	{
 	  "type": "bewitchment:brew",
 	  "recipe": "bewitchment:iceworld",
-	  "text": "將周邊環境轉化為奇妙的冬季環境，並熄滅周圍地面和實體上的火焰，可能會招來一些永恒之冰，永恒之冰是一種不會融化的冰，可以像石磚一樣被制成憎惡方磚"
+	  "text": "將周邊環境轉化為奇妙的冬季環境，並熄滅周圍地面和實體上的火焰，可能會招來一些永恒之冰，永恒之冰是一種不會融化的冰，可以像石磚一樣被製成憎惡方磚"
 	},
 	{
 	  "type": "bewitchment:brew",
@@ -283,7 +283,7 @@
 	{
 	  "type": "bewitchment:brew",
 	  "recipe": "bewitchment:mending",
-	  "text": "將泥土和菌絲方塊轉化為草方塊，並治愈僵屍村民"
+	  "text": "將泥土和菌絲方塊轉化為草方塊，並治癒僵屍村民"
 	},
 	{
 	  "type": "bewitchment:brew",

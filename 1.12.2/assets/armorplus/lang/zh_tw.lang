@@ -20,7 +20,7 @@ status.armorplus.tgotg.gained_item=你得到了：%s [%s]
 
 #GuiArmorPlusInfo
 gui.armorplus.info.text_line_heading=裝備擴充信息
-gui.armorplus.info.text_line_one=裝備擴充的合成默認為
+gui.armorplus.info.text_line_one=裝備擴充的合成預設為
 gui.armorplus.info.text_line_two=專家模式 (`I:Recipe:1`)。
 gui.armorplus.info.text_line_three=若你想切換至簡單模式，請
 gui.armorplus.info.text_line_four=打開裝備擴充的配置文件，
@@ -39,7 +39,7 @@ enchantment.armorplus.enhanced.desc=大大提高你的護甲(只適用於原版�
 armorplus.jei.guardian_scale.desc=用於合成深海守衛系列武器、護甲以及終極材料。可在遠古深海守衛或深海守衛的掉落物中找到。
 armorplus.jei.wither_bone.desc=用於合成地獄之星系列武器、護甲以及終極材料。可在凋靈或凋靈骷髏的掉落物中找到。
 armorplus.jei.ender_dragon_scale.desc=用於合成終界龍系列武器、護甲以及終極材料。可在終界龍或終界龍殭屍的掉落物中找到。
-armorplus.jei.lava_infuser.desc=用於灌注熔岩水晶，或者灌注黑曜石以制作熔岩灌注黑曜石。這玩意需要熔岩方可工作。
+armorplus.jei.lava_infuser.desc=用於灌注熔岩水晶，或者灌注黑曜石以製作熔岩灌注黑曜石。這玩意需要熔岩方可工作。
 
 #Baubles
 item.armorplus.bauble_cosmetic_dragon.name=龍飾品
@@ -104,22 +104,22 @@ commands.armorplus.info.help=顯示 裝備擴充 的相關信息。
 commands.armorplus.wiki.usage=/armorplus wiki
 commands.armorplus.wiki.help=在你的瀏覽器中打開裝備擴充Wiki頁面
 commands.armorplus.wiki.link_details=裝備擴充的官方Wiki: %s
-commands.armorplus.wiki.link_open=打開一個鏈接到裝備擴充Wiki
+commands.armorplus.wiki.link_open=打開一個連結到裝備擴充Wiki
 
 #CommandNodecraft
 commands.armorplus.nodecraft.about.text=該項目由 Nodecraft 讚助。
 commands.armorplus.nodecraft.promo.start.text=使用代碼  %s
 commands.armorplus.nodecraft.promo.middle.text=裝備擴充
-commands.armorplus.nodecraft.promo.end.text= 為你的服務器第一個月打折%s!
+commands.armorplus.nodecraft.promo.end.text= 為你的伺服器第一個月打折%s!
 commands.armorplus.nodecraft.usage=/armorplus nodecraft
 commands.armorplus.nodecraft.help=顯示 Nodecraft 的促銷代碼。
 
 #CommandDiscord
 commands.armorplus.discord.usage=/armorplus discord
 commands.armorplus.discord.line_one=TheDragonTeam's (ArmorPlus') 的Discord社區:
-commands.armorplus.discord.line_one.hover=打開ArmorPlus的Discord鏈接
-commands.armorplus.discord.line_two=sokratis12GR的個人Discord服務器：
-commands.armorplus.discord.line_two.hover=開sokratis12GR的Discord鏈接
+commands.armorplus.discord.line_one.hover=打開ArmorPlus的Discord連結
+commands.armorplus.discord.line_two=sokratis12GR的個人Discord伺服器：
+commands.armorplus.discord.line_two.hover=開sokratis12GR的Discord連結
 
 #CommandTeleport
 commands.armorplus.tp.usage=/ap tp <id>
@@ -136,8 +136,8 @@ gui.jei.category.lava_infuser_fuel=熔岩灌注器 燃料
 gui.jei.category.armorplus.infusing=灌注
 gui.jei.category.armorplus.infusing.experience=%s經驗
 gui.jei.category.armorplus.infusing.fuel=燃料
-gui.jei.category.armorplus.infusing.fuel.smeltCount.single=灌註 1 物品
-gui.jei.category.armorplus.infusing.fuel.smeltCount=灌註 %s 物品
+gui.jei.category.armorplus.infusing.fuel.smeltCount.single=灌注 1 物品
+gui.jei.category.armorplus.infusing.fuel.smeltCount=灌注 %s 物品
 gui.jei.category.armorplus.infusing.fuel.burnTime=燃料時間：%s
 
 #BOOKS
@@ -342,31 +342,31 @@ tile.armorplus.lava_nether_brick.name=熔岩地獄磚
 tile.armorplus.white_stone_brick.name=白色石磚
 tile.armorplus.white_stone_brick_tower.name=白色塔形石磚
 tile.armorplus.white_stone_brick_corner.name=白色石磚拐角
-tile.armorplus.white_stone_brick_wall.name=白色石磚墻
+tile.armorplus.white_stone_brick_wall.name=白色石磚牆
 tile.armorplus.red_stone_brick.name=紅色石磚
 tile.armorplus.red_stone_brick_tower.name=紅色塔形石磚
 tile.armorplus.red_stone_brick_corner.name=紅色石磚拐角
-tile.armorplus.red_stone_brick_wall.name=紅色石磚墻
+tile.armorplus.red_stone_brick_wall.name=紅色石磚牆
 tile.armorplus.black_stone_brick.name=黑色石磚
 tile.armorplus.black_stone_brick_tower.name=黑色塔形石磚
 tile.armorplus.black_stone_brick_corner.name=黑色石磚拐角
-tile.armorplus.black_stone_brick_wall.name=黑色石磚墻
+tile.armorplus.black_stone_brick_wall.name=黑色石磚牆
 tile.armorplus.blue_stone_brick.name=藍色石磚
 tile.armorplus.blue_stone_brick_tower.name=藍色塔形石磚
 tile.armorplus.blue_stone_brick_corner.name=藍色石磚拐角
-tile.armorplus.blue_stone_brick_wall.name=藍色石磚墻
+tile.armorplus.blue_stone_brick_wall.name=藍色石磚牆
 tile.armorplus.green_stone_brick.name=綠色石磚
 tile.armorplus.green_stone_brick_tower.name=綠色塔形石磚
 tile.armorplus.green_stone_brick_corner.name=綠色石磚拐角
-tile.armorplus.green_stone_brick_wall.name=綠色石磚墻
+tile.armorplus.green_stone_brick_wall.name=綠色石磚牆
 tile.armorplus.yellow_stone_brick.name=黃色石磚
 tile.armorplus.yellow_stone_brick_tower.name=黃色塔形石磚
 tile.armorplus.yellow_stone_brick_corner.name=黃色石磚拐角
-tile.armorplus.yellow_stone_brick_wall.name=黃色石磚墻
+tile.armorplus.yellow_stone_brick_wall.name=黃色石磚牆
 tile.armorplus.purple_stone_brick.name=紫色石磚
 tile.armorplus.purple_stone_brick_tower.name=紫色塔形石磚
 tile.armorplus.purple_stone_brick_corner.name=紫色石磚拐角
-tile.armorplus.purple_stone_brick_wall.name=紫色石磚墻
+tile.armorplus.purple_stone_brick_wall.name=紫色石磚牆
 tile.armorplus.lava_infuser.name=熔岩灌注器
 tile.armorplus.lava_infuser_infusing.name=熔岩灌注器（工作中）
 
@@ -654,7 +654,7 @@ achievement.armorplus.craft_ulti_tech_bench.desc=合成裝備擴充的終極工�
 achievement.armorplus.craft_champion_bench=只為冠軍準備
 achievement.armorplus.craft_champion_bench.desc=合成裝備擴充的冠軍工作台
 achievement.armorplus.armorplus=sokratis12GR
-achievement.armorplus.armorplus.desc=制作並開發了裝備擴充
+achievement.armorplus.armorplus.desc=製作並開發了裝備擴充
 
 ##############################################################################################################
 #New
@@ -772,7 +772,7 @@ ability.armorplus.regeneration.name=回復
 ability.armorplus.strength.name=力量
 ability.armorplus.invisibility.name=隱形
 ability.armorplus.absorption.name=吸收
-ability.armorplus.wither_proof.name=抵禦雕零
+ability.armorplus.wither_proof.name=抵禦凋零
 ability.armorplus.flight.name=飛行
 ability.armorplus.step_assist.name=自動跳躍
 ability.armorplus.bonus_xp_on_kill.name=殺戮增加經驗

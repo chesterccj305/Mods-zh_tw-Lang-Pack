@@ -16,9 +16,9 @@ tile.bewitchment.salt_ore.name=鹽礦石
 
 tile.bewitchment.purifying_earth.name=凈化泥土
 
-tile.bewitchment.coquina.name=貝殼灰巖
-tile.bewitchment.coquina_bricks.name=貝殼灰巖磚
-tile.bewitchment.chiseled_coquina.name=鏨制貝殼灰巖
+tile.bewitchment.coquina.name=貝殼灰岩
+tile.bewitchment.coquina_bricks.name=貝殼灰岩磚
+tile.bewitchment.chiseled_coquina.name=鏨製貝殼灰岩
 
 tile.bewitchment.nethersteel.name=下界鋼
 
@@ -29,14 +29,14 @@ tile.bewitchment.perpetual_ice_fence.name=永恒之冰柵欄
 
 tile.bewitchment.embittered_bricks.name=憎惡方磚
 tile.bewitchment.cracked_embittered_bricks.name=破碎憎惡方磚
-tile.bewitchment.chiseled_embittered_bricks.name=鏨制憎惡方磚
+tile.bewitchment.chiseled_embittered_bricks.name=鏨製憎惡方磚
 tile.bewitchment.embittered_brick_stairs.name=憎惡方磚樓梯
 tile.bewitchment.embittered_bricks_slab.name=憎惡方磚台階
 tile.bewitchment.embittered_brick_fence.name=憎惡方磚柵欄
 
 tile.bewitchment.scorned_bricks.name=鄙夷方磚
 tile.bewitchment.cracked_scorned_bricks.name=破碎鄙夷方磚
-tile.bewitchment.chiseled_scorned_bricks.name=鏨制鄙夷方磚
+tile.bewitchment.chiseled_scorned_bricks.name=鏨製鄙夷方磚
 tile.bewitchment.scorned_brick_stairs.name=鄙夷方磚樓梯
 tile.bewitchment.scorned_bricks_slab.name=鄙夷方磚台階
 tile.bewitchment.scorned_brick_fence.name=鄙夷方磚柵欄
@@ -46,13 +46,13 @@ tile.bewitchment.filled_goblet.name=盛滿的高腳杯
 
 tile.bewitchment.white_candle.name=白色蠟燭
 tile.bewitchment.orange_candle.name=橙色蠟燭
-tile.bewitchment.magenta_candle.name=品紅色蠟燭
-tile.bewitchment.light_blue_candle.name=淡藍色蠟燭
+tile.bewitchment.magenta_candle.name=洋紅色蠟燭
+tile.bewitchment.light_blue_candle.name=淺藍色蠟燭
 tile.bewitchment.yellow_candle.name=黃色蠟燭
-tile.bewitchment.lime_candle.name=黃綠色蠟燭
+tile.bewitchment.lime_candle.name=淺綠色蠟燭
 tile.bewitchment.pink_candle.name=粉紅色蠟燭
 tile.bewitchment.gray_candle.name=灰色蠟燭
-tile.bewitchment.light_gray_candle.name=淡灰色蠟燭
+tile.bewitchment.light_gray_candle.name=淺灰色蠟燭
 tile.bewitchment.cyan_candle.name=青色蠟燭
 tile.bewitchment.purple_candle.name=紫色蠟燭
 tile.bewitchment.blue_candle.name=藍色蠟燭
@@ -63,13 +63,13 @@ tile.bewitchment.black_candle.name=黑色蠟燭
 
 tile.bewitchment.white_lantern.name=白色燈籠
 tile.bewitchment.orange_lantern.name=橙色燈籠
-tile.bewitchment.magenta_lantern.name=品紅色燈籠
-tile.bewitchment.light_blue_lantern.name=淡藍色燈籠
+tile.bewitchment.magenta_lantern.name=洋紅色燈籠
+tile.bewitchment.light_blue_lantern.name=淺藍色燈籠
 tile.bewitchment.yellow_lantern.name=黃色燈籠
-tile.bewitchment.lime_lantern.name=黃綠色燈籠
+tile.bewitchment.lime_lantern.name=淺綠色燈籠
 tile.bewitchment.pink_lantern.name=粉紅色燈籠
 tile.bewitchment.gray_lantern.name=灰色燈籠
-tile.bewitchment.light_gray_lantern.name=淡灰色燈籠
+tile.bewitchment.light_gray_lantern.name=淺灰色燈籠
 tile.bewitchment.cyan_lantern.name=青色燈籠
 tile.bewitchment.purple_lantern.name=紫色燈籠
 tile.bewitchment.blue_lantern.name=藍色燈籠
@@ -136,7 +136,7 @@ tile.bewitchment.yew_button.name=紫杉木按鈕
 tile.bewitchment.stone_witches_altar.name=石頭女巫祭壇
 tile.bewitchment.nether_brick_witches_altar.name=地獄磚女巫祭壇
 tile.bewitchment.obsidian_witches_altar.name=黑曜石女巫祭壇
-tile.bewitchment.coquina_witches_altar.name=貝殼灰巖女巫祭壇
+tile.bewitchment.coquina_witches_altar.name=貝殼灰岩女巫祭壇
 tile.bewitchment.embittered_brick_witches_altar.name=憎惡方磚女巫祭壇
 tile.bewitchment.scorned_brick_witches_altar.name=鄙夷方磚女巫祭壇
 tile.bewitchment.witches_cauldron.name=女巫煉藥鍋
@@ -234,10 +234,10 @@ item.bewitchment.silver_nugget.name=銀粒
 item.bewitchment.cold_iron_nugget.name=寒鐵粒
 item.bewitchment.salt.name=鹽
 
-item.bewitchment.unfired_jar.name=未燒制的粘土罐子
-item.bewitchment.empty_jar.name=空粘土罐子
+item.bewitchment.unfired_jar.name=未燒製的黏土罐子
+item.bewitchment.empty_jar.name=空黏土罐子
 item.bewitchment.oak_spirit.name=橡木之精
-item.bewitchment.spruce_heart.name=雲杉之心
+item.bewitchment.spruce_heart.name=杉木之心
 item.bewitchment.birch_soul.name=白樺之靈
 item.bewitchment.cloudy_oil.name=濁雲之油
 item.bewitchment.acacia_resin.name=金合歡樹脂
@@ -408,7 +408,7 @@ fortune.bewitchment.cats_and_dogs=會下傾盆大雨。
 #RITUAL
 ritual.null=你沒有聽說過這樣的儀式
 
-ritual.precondition.empty=哪裏出錯了
+ritual.precondition.empty=哪裡出錯了
 ritual.precondition.no_day=這個儀式不能在白天進行
 ritual.precondition.no_night=這個儀式不能在夜間舉行
 ritual.precondition.no_rain=這個儀式不能在下雨的時候舉行
@@ -462,7 +462,7 @@ tarot.player_offline=%s 處於離線狀態
 juniper_key.invalid=您必須持有有效的杜松木鑰匙才能使用
 
 advancements.bewitchment.crafted_altar.title=Witchworker
-advancements.bewitchment.crafted_altar.description=制作一個女巫祭壇
+advancements.bewitchment.crafted_altar.description=製作一個女巫祭壇
 
 commands.fortune.get=%s 的命運: %s
 commands.fortune.set=%s 的命運被設定為 %s

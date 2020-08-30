@@ -20,7 +20,7 @@
 	"patchouli.subtitle.book_open": "打開書",
 	"patchouli.subtitle.book_flip": "翻頁",
 	
-	"patchouli.gui.lexicon.landing_info": "（佔位用簡介，請在你的 book.json 中自定義簡介文本！）",
+	"patchouli.gui.lexicon.landing_info": "（佔位用簡介，請在你的 book.json 中自訂簡介文本！）",
 	"patchouli.gui.lexicon.progress_meter": "解鎖進度：",
 	"patchouli.gui.lexicon.progress_tooltip": "%d/%d 已解鎖",
 	"patchouli.gui.lexicon.progress_tooltip.secret1": "包含1個隱藏頁",
@@ -74,7 +74,7 @@
 	"patchouli.gui.lexicon.button.back": "返回",
 	"patchouli.gui.lexicon.button.back.info": "Shift點擊可返回主頁",
 	"patchouli.gui.lexicon.button.resize": "調整界面尺寸",
-	"patchouli.gui.lexicon.button.resize.size0": "默認",
+	"patchouli.gui.lexicon.button.resize.size0": "預設",
 	"patchouli.gui.lexicon.button.resize.size1": "小",
 	"patchouli.gui.lexicon.button.resize.size2": "中",
 	"patchouli.gui.lexicon.button.resize.size3": "稍大",

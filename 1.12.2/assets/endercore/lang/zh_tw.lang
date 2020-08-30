@@ -2,8 +2,8 @@ endercore.tooltip.oreDictNames=礦石字典名稱：
 endercore.tooltip.showDetails=<按住Shift>
 endercore.tooltip.durability=耐久度：
 
-endercore.command.config.result.success=已成功為%s重新加載配置
-endercore.command.config.result.fail=為%s重新加載配置失敗
+endercore.command.config.result.success=已成功為%s重新載入配置
+endercore.command.config.result.fail=為%s重新載入配置失敗
 endercore.command.config.result.invalid=修改的%s無效
 
 enchantment.xpboost=XP加速
@@ -20,7 +20,7 @@ endercore.resourcepack.readme2=請勿編輯，它將由mod創建/刪除。
 endercore.chat.invis.warn.1=%3$s，終界核心現已進入%1$s隱身模式%2$s。
 endercore.chat.invis.warn.2=這意味著%1$sEnderCore將不會對遊戲內容做出更改%2$s.
 endercore.chat.invis.warn.3=你可以在配置文件中覆蓋此設定。
-endercore.chat.invis.warn.4=除非有配置文件覆蓋默認設定，本警告將只顯示一次。
+endercore.chat.invis.warn.4=除非有配置文件覆蓋預設設定，本警告將只顯示一次。
 endercore.chat.invis.reason.1=根據這些Mod： %s 的請求
 endercore.chat.invis.reason.2=根據配置文件設定
 

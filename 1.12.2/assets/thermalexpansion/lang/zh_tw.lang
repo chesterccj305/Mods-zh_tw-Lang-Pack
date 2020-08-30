@@ -136,7 +136,7 @@ info.thermalexpansion.augment.machineCrafterInput.a.0=添加智能自動輸入�
 info.thermalexpansion.augment.machineCrafterInput.c.0=每個合成格子會被指派兩個容器槽。
 
 info.thermalexpansion.augment.machineCrafterTank.0=循環裝配台：液體緩存
-info.thermalexpansion.augment.machineCrafterTank.a.0=為機器添加了液體存儲槽。
+info.thermalexpansion.augment.machineCrafterTank.a.0=為機器添加了液體儲存槽。
 info.thermalexpansion.augment.machineCrafterTank.a.1=槽中的液體可以用於那些涉及流體的合成。
 info.thermalexpansion.augment.machineCrafterTank.c.0=並不能支持所有合成。
 
@@ -242,7 +242,7 @@ info.thermalexpansion.apparatus.activator=一言難盡。
 info.thermalexpansion.apparatus.breaker=破壞方塊。就是這樣。
 info.thermalexpansion.apparatus.collector=收集周圍的掉落物。
 
-info.thermalexpansion.capacitor.a.0=存儲紅石通量（RF），可以為身上的設備和物品充能。
+info.thermalexpansion.capacitor.a.0=儲存紅石通量（RF），可以為身上的設備和物品充能。
 info.thermalexpansion.capacitor.b.0=§e按下（%s）改變充能模式。 §r
 info.thermalexpansion.capacitor.c.0=潛行使用以激活。
 info.thermalexpansion.capacitor.c.1=潛行使用以關閉。
@@ -255,9 +255,9 @@ info.thermalexpansion.coolant=冷卻劑
 info.thermalexpansion.device.diffuser=將藥水效果散佈到一個區域內。
 info.thermalexpansion.device.factorizer=組合和分割各種物品。
 info.thermalexpansion.device.fisher=捕捉魚和其他水生生物。
-info.thermalexpansion.device.fluid_buffer=存儲並傳輸流體。
+info.thermalexpansion.device.fluid_buffer=儲存並傳輸流體。
 info.thermalexpansion.device.heat_sink=加快附近機器的工作速度。
-info.thermalexpansion.device.item_buffer=存儲並傳輸物品。
+info.thermalexpansion.device.item_buffer=儲存並傳輸物品。
 info.thermalexpansion.device.item_collector=在一個區域內吸取物品。
 info.thermalexpansion.device.lexicon=將物品轉換成其等價形式。
 info.thermalexpansion.device.mob_catcher=捕捉附近的怪物。
@@ -311,7 +311,7 @@ info.thermalexpansion.machine.sawmill=增產木材。
 info.thermalexpansion.machine.smelter=熔煉合金和金屬。兩個輸入槽。
 info.thermalexpansion.machine.transposer=處理流體與流體容器。
 
-info.thermalexpansion.reservoir.a.0=存儲並運輸流體，可以裝填設備。
+info.thermalexpansion.reservoir.a.0=儲存並運輸流體，可以裝填設備。
 info.thermalexpansion.reservoir.a.1=右擊使用以裝填流體。
 info.thermalexpansion.reservoir.a.2=右擊使用以倒出流體。
 info.thermalexpansion.reservoir.b.0=§e按下（%s）以改變其輸入輸出狀態。 §r
@@ -321,20 +321,20 @@ info.thermalexpansion.reservoir.d.0=裝填
 info.thermalexpansion.reservoir.d.1=倒空
 info.thermalexpansion.reservoir.d.2=重新裝填設備
 
-info.thermalexpansion.satchel.a.0=收集並存儲物品，可以加鎖。
+info.thermalexpansion.satchel.a.0=收集並儲存物品，可以加鎖。
 info.thermalexpansion.satchel.a.1=在物品欄中使用，潛行將物品輸入。
 info.thermalexpansion.satchel.a.2=潛行右擊使用以配置。
-info.thermalexpansion.satchel.a.c=存儲無限量單種物品，可加鎖。
+info.thermalexpansion.satchel.a.c=儲存無限量單種物品，可加鎖。
 info.thermalexpansion.satchel.a.v=將物品歸於虛無，可以加鎖。
 info.thermalexpansion.satchel.b.0=§b按下（%s）開啟自動收集。 §r
 info.thermalexpansion.satchel.b.1=§e按下（%s）禁用自動收集。 §r
 info.thermalexpansion.satchel.c.0=自動收集關閉
 info.thermalexpansion.satchel.c.1=自動收集開啟
 
-info.thermalexpansion.storage.cache=存儲大量單種物品。
-info.thermalexpansion.storage.cell=存儲大量紅石通量（RF）。
-info.thermalexpansion.storage.strongbox=存儲物品。可以被保護。
-info.thermalexpansion.storage.tank=存儲大量流體。
+info.thermalexpansion.storage.cache=儲存大量單種物品。
+info.thermalexpansion.storage.cell=儲存大量紅石通量（RF）。
+info.thermalexpansion.storage.strongbox=儲存物品。可以被保護。
+info.thermalexpansion.storage.tank=儲存大量流體。
 
 item.thermalexpansion.augment.apparatusDepth.name=WIP
 item.thermalexpansion.augment.apparatusRadius.name=WIP
@@ -356,7 +356,7 @@ item.thermalexpansion.augment.dynamoThrottle.name=勵磁限制裝置
 item.thermalexpansion.augment.machineBrewerReagent.name=反應催化試劑
 item.thermalexpansion.augment.machineCentrifugeMobs.name=生物離心分解
 item.thermalexpansion.augment.machineChargerRepair.name=通量維修復原
-item.thermalexpansion.augment.machineChargerThroughput.name=通量鏈接集合
+item.thermalexpansion.augment.machineChargerThroughput.name=通量連結集合
 item.thermalexpansion.augment.machineChargerWireless.name=拋物通量耦合
 item.thermalexpansion.augment.machineCompactorCoin.name=通貨鑄造授權
 item.thermalexpansion.augment.machineCompactorGear.name=齒輪工作模具
@@ -445,17 +445,17 @@ tab.thermalexpansion.device.diffuser.1=相比直接喝掉，效果會減弱。
 tab.thermalexpansion.device.diffuser.2=對應的試劑會加強效果。
 tab.thermalexpansion.device.factorizer.0=將物品合併或分割成更小或更大的形式。
 tab.thermalexpansion.device.factorizer.1=按下按鈕切換合併或分割模式。
-tab.thermalexpansion.device.factorizer.2=重構你的存儲！
+tab.thermalexpansion.device.factorizer.2=重構你的儲存！
 tab.thermalexpansion.device.fisher.0=捕捉各種水生生物。使用誘餌加速產出。
 tab.thermalexpansion.device.fisher.1=必須放在水體當中。
 tab.thermalexpansion.device.fisher.2=掛起你的魚竿吧，不用枯坐了。
-tab.thermalexpansion.device.fluid_buffer.0=存儲傳輸流體，可以自動彈出。
+tab.thermalexpansion.device.fluid_buffer.0=儲存傳輸流體，可以自動彈出。
 tab.thermalexpansion.device.fluid_buffer.1=它像是一個針對流體的漏斗！
 tab.thermalexpansion.device.fluid_buffer.2=按下 Shift 或者 Ctrl 以調整。
 tab.thermalexpansion.device.heat_sink.0=冷卻周圍機器，提升工作速度。
 tab.thermalexpansion.device.heat_sink.1=給它灌滿冷卻劑看著它工作好了！
 tab.thermalexpansion.device.heat_sink.2=不同的冷卻劑有不同的冷卻效果。
-tab.thermalexpansion.device.item_buffer.0=存儲傳輸物品。能自動提取。
+tab.thermalexpansion.device.item_buffer.0=儲存傳輸物品。能自動提取。
 tab.thermalexpansion.device.item_buffer.1=真的比漏斗更好用！
 tab.thermalexpansion.device.item_buffer.2=按下 Shift 或者 Ctrl 調整流量。
 tab.thermalexpansion.device.item_buffer.3=空手潛行右擊來配置過濾。
@@ -553,7 +553,7 @@ tab.thermalexpansion.machine.transposer.2=一般為可逆過程。
 tab.thermalexpansion.storage.cache.0=
 tab.thermalexpansion.storage.cache.1=
 
-tab.thermalexpansion.storage.cell.0=存儲紅石通量（RF）。
+tab.thermalexpansion.storage.cell.0=儲存紅石通量（RF）。
 tab.thermalexpansion.storage.cell.1=按下 Shift 和 / 或 Ctrl 以調整/微調能量控制。
 
 tab.thermalexpansion.storage.enchant=可以被附魔以提升容量。
@@ -572,9 +572,9 @@ tab.thermalexpansion.storage.satchel_v.0=這應該是個背包吧，它可以清
 tab.thermalexpansion.storage.satchel_v.1=被清空的物品包括你自動撿起來的那些。
 tab.thermalexpansion.storage.satchel_v.2=小心兩手空空！
 
-tab.thermalexpansion.storage.strongbox.0=這是個箱子！它存儲物品，是的，很多物品。
+tab.thermalexpansion.storage.strongbox.0=這是個箱子！它儲存物品，是的，很多物品。
 
-tab.thermalexpansion.storage.tank.0=這是個儲罐！它存儲流體。
+tab.thermalexpansion.storage.tank.0=這是個儲罐！它儲存流體。
 tab.thermalexpansion.storage.tank.1=可以自動從底面輸出。
 
 tile.thermalexpansion.apparatus.breaker.name=方塊破壞器

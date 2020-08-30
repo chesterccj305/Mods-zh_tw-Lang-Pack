@@ -113,7 +113,7 @@ tile.clockworkphase.extractor_death.name=死亡萃取器
 itemGroup.ClockworkPhase=時之沙
 
 #Phase Event Localizations
-clockworkphase.phase_event.default=默認 -（這應該永遠不會出現）
+clockworkphase.phase_event.default=預設 -（這應該永遠不會出現）
 clockworkphase.phase_event.healthyatmosphere=健康的氣氛
 
 #Key Localizations

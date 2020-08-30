@@ -9,7 +9,7 @@
             "text": "當聚焦管的堆疊高度到達2-8個方塊時它可以轉化它下方的方塊."
         },
         { 	"type": "tube",
-	        "name": "制造巖漿",
+	        "name": "製造岩漿",
 	        "input1": "hwell:furnace_tube",
 	        "input2": "minecraft:cobblestone",
 	        "output": "minecraft:lava_bucket",
@@ -18,7 +18,7 @@
         {
             
             "type": "multiblock",
-            "name": "制造岩漿",
+            "name": "製造岩漿",
             "multiblock": {
                 "pattern": [
                     [ "A"],
@@ -33,14 +33,14 @@
         
         },    
         { 	"type": "tube",
-	        "name": "制造水",
+	        "name": "製造水",
 	        "input1": "hwell:furnace_tube",
 	        "input2": "minecraft:leaves",
 	        "output": "minecraft:water_bucket",
 	        "text": "任意一種樹葉,冰或者仙人掌都可以被轉換成水."
         },
         { 	"type": "tube",
-	        "name": "制造液態靈魂",
+	        "name": "製造液態靈魂",
 	        "input1": "hwell:furnace_tube",
 	        "input2": "hwell:myst_dust_block",
 	        "output": "hwell:fluid_liquid_souls",

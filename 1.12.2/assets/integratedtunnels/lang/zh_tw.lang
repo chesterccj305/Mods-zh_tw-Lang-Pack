@@ -1,6 +1,6 @@
 # General
 itemGroup.integratedtunnels=集成管道
-general.integratedtunnels.description=通過集成動力的網絡傳輸其他東西。
+general.integratedtunnels.description=通過集成動力的網路傳輸其他東西。
 
 # Gui
 gui.integratedtunnels.partsettings.channel.interface=接口頻道
@@ -46,11 +46,11 @@ advancement.integratedtunnels.player_simulator=玩家模擬
 advancement.integratedtunnels.player_simulator.desc=合成一個玩家模擬器
 
 # Part types
-parttype.parttypes.integratedtunnels.exporter_energy.info=從網絡輸出能量
+parttype.parttypes.integratedtunnels.exporter_energy.info=從網路輸出能量
 parttype.parttypes.integratedtunnels.exporter_energy.name=能量輸出口
-parttype.parttypes.integratedtunnels.exporter_fluid.info=從網絡中輸出流體
+parttype.parttypes.integratedtunnels.exporter_fluid.info=從網路中輸出流體
 parttype.parttypes.integratedtunnels.exporter_fluid.name=流體輸出口
-parttype.parttypes.integratedtunnels.exporter_item.info=從網絡輸出物品
+parttype.parttypes.integratedtunnels.exporter_item.info=從網路輸出物品
 parttype.parttypes.integratedtunnels.exporter_item.name=物品輸出口
 parttype.parttypes.integratedtunnels.exporter_world_block.info=在世界上放置方塊
 parttype.parttypes.integratedtunnels.exporter_world_block.name=方塊放置口
@@ -60,11 +60,11 @@ parttype.parttypes.integratedtunnels.exporter_world_fluid.info=在世界中放�
 parttype.parttypes.integratedtunnels.exporter_world_fluid.name=流體排出口
 parttype.parttypes.integratedtunnels.exporter_world_item.info=投擲物品到世界
 parttype.parttypes.integratedtunnels.exporter_world_item.name=物品投擲口
-parttype.parttypes.integratedtunnels.importer_energy.info=輸入能量到網絡
+parttype.parttypes.integratedtunnels.importer_energy.info=輸入能量到網路
 parttype.parttypes.integratedtunnels.importer_energy.name=能量輸入口
-parttype.parttypes.integratedtunnels.importer_fluid.info=輸入流體到網絡
+parttype.parttypes.integratedtunnels.importer_fluid.info=輸入流體到網路
 parttype.parttypes.integratedtunnels.importer_fluid.name=流體輸入口
-parttype.parttypes.integratedtunnels.importer_item.info=輸入物品到網絡
+parttype.parttypes.integratedtunnels.importer_item.info=輸入物品到網路
 parttype.parttypes.integratedtunnels.importer_item.name=物品輸入口
 parttype.parttypes.integratedtunnels.importer_world_block.info=破壞世界上的方塊
 parttype.parttypes.integratedtunnels.importer_world_block.name=方塊破壞口
@@ -74,11 +74,11 @@ parttype.parttypes.integratedtunnels.importer_world_fluid.info=從世界中抽�
 parttype.parttypes.integratedtunnels.importer_world_fluid.name=流體抽取口
 parttype.parttypes.integratedtunnels.importer_world_item.info=從世界中輸入物品
 parttype.parttypes.integratedtunnels.importer_world_item.name=物品拾取口
-parttype.parttypes.integratedtunnels.interface_energy.info=將一個能量電池連接到網絡
+parttype.parttypes.integratedtunnels.interface_energy.info=將一個能量電池連接到網路
 parttype.parttypes.integratedtunnels.interface_energy.name=能量接口
-parttype.parttypes.integratedtunnels.interface_fluid.info=將一個流體容器添加到網絡
+parttype.parttypes.integratedtunnels.interface_fluid.info=將一個流體容器添加到網路
 parttype.parttypes.integratedtunnels.interface_fluid.name=流體接口
-parttype.parttypes.integratedtunnels.interface_item.info=將一個物品容器添加到網絡
+parttype.parttypes.integratedtunnels.interface_item.info=將一個物品容器添加到網路
 parttype.parttypes.integratedtunnels.interface_item.name=物品接口
 parttype.parttypes.integratedtunnels.player_simulator.info=模擬玩家行為
 parttype.parttypes.integratedtunnels.player_simulator.name=玩家模擬器
@@ -87,7 +87,7 @@ parttype.parttypes.integratedtunnels.player_simulator.name=玩家模擬器
 # Aspect property types
 aspect.aspecttypes.integratedtunnels.boolean.blacklist.info=處理所有指定列表外的物品。
 aspect.aspecttypes.integratedtunnels.boolean.blacklist.name=黑名單
-aspect.aspecttypes.integratedtunnels.boolean.craft.info=如果應在網絡中不存在實例時，則合成該實例。
+aspect.aspecttypes.integratedtunnels.boolean.craft.info=如果應在網路中不存在實例時，則合成該實例。
 aspect.aspecttypes.integratedtunnels.boolean.craft.name=合成
 aspect.aspecttypes.integratedtunnels.boolean.emptyisany.info=如果是空值作為過濾器則表示匹配所有，否則不匹配。
 aspect.aspecttypes.integratedtunnels.boolean.emptyisany.name=空為通配符
@@ -381,14 +381,14 @@ config.integratedtunnels.general=常規設置
 config.integratedtunnels.general.analytics=發送匿名分析
 config.integratedtunnels.core=核心設置
 config.integratedtunnels.core.tooltip=核心設置
-config.integratedtunnels.modcompat=MOD兼容性設置
-config.integratedtunnels.modcompat.tooltip=MOD兼容性設置
+config.integratedtunnels.modcompat=MOD相容性設置
+config.integratedtunnels.modcompat.tooltip=MOD相容性設置
 config.integratedtunnels.capability=功能設置
 config.integratedtunnels.capability.tooltip=功能設置
 
 ## Core settings
 config.integratedtunnels.general.crashOnInvalidRecipe=因無效合成崩潰
-config.integratedtunnels.general.crashOnModCompatCrash=因兼容性問題崩潰
+config.integratedtunnels.general.crashOnModCompatCrash=因相容性問題崩潰
 config.integratedtunnels.general.debug=開發模式
 config.integratedtunnels.general.inventoryUnchangedTickTimeout=物品欄檢查超時
 config.integratedtunnels.general.tooltip=常規設置
@@ -403,26 +403,26 @@ config.integratedtunnels.tesla=Tesla
 info_book.integratedtunnels.section.main=集成管道
 
 info_book.integratedtunnels.introduction=介紹
-info_book.integratedtunnels.introduction.text1=&l集成管道&r為&l集成動力&r的擴展內容，用於在&l集成動力&r網絡中傳輸物品，流體和能量。
+info_book.integratedtunnels.introduction.text1=&l集成管道&r為&l集成動力&r的擴展內容，用於在&l集成動力&r網路中傳輸物品，流體和能量。
 info_book.integratedtunnels.introduction.text2=你可以使用&l集成動力&r的邏輯運算來設置任何你想要的過濾條件。&o"我想每tick往這個箱子裏輸送3把耐久值在10以下的附魔鎬"&r或者&o"我想往這個儲罐填充燃油直至填充到1000mb,並且只有在我的機器運行時且箱子裏有至少10個鐵錠時才生效"&r沒問題！&l集成管道&r通通能幫你高效的完成！
 
 info_book.integratedtunnels.concepts=概念
 info_book.integratedtunnels.concepts.text1=&l集成管道&r為不同類型的傳輸添加3個新的組件：&o輸入口&r,&o輸出口&r和&o接口&r。
-info_book.integratedtunnels.concepts.text2=輸入口(藍色)將試圖從一個目標中抽取物品傳輸到同一網絡的接口(白色)。
-info_book.integratedtunnels.concepts.text3=輸出口(橙色)將試圖從同一網絡的接口(白色)向一個目標推送物品,同一網絡下，物品將始終從左往右傳輸。
-info_book.integratedtunnels.concepts.text4=你可以向你的網絡添加多個接口，並分配優先級以指定首先應填充/清空哪些。
+info_book.integratedtunnels.concepts.text2=輸入口(藍色)將試圖從一個目標中抽取物品傳輸到同一網路的接口(白色)。
+info_book.integratedtunnels.concepts.text3=輸出口(橙色)將試圖從同一網路的接口(白色)向一個目標推送物品,同一網路下，物品將始終從左往右傳輸。
+info_book.integratedtunnels.concepts.text4=你可以向你的網路添加多個接口，並分配優先級以指定首先應填充/清空哪些。
 info_book.integratedtunnels.concepts.text5=此外，您還可以添加多個輸入口和輸出口，具有相同的優先級。
 info_book.integratedtunnels.concepts.text6=要使用&l集成動力&r的變量，你必須確定哪些物品應該被移動。如果你想簡單些，那就全部都搬走吧，只需在輸出所有物品的設置面插一個空白的&l變量卡&r即可。
 info_book.integratedtunnels.concepts.text7=謹記，如果你安裝了自動合成的模組，諸如&l集成合成學&r，你能夠在出口使用&o合成&r設定。這將使一種原料在出口缺乏時，將會進行合成。
 
 info_book.integratedtunnels.item=物品
-info_book.integratedtunnels.item.text1=通過網絡傳輸物品。使用&l物品輸入口&r通過&l物品接口&r將物品輸入到網絡。使用&l物品接口&r通過&l物品輸出口&r從網絡輸出物品。
+info_book.integratedtunnels.item.text1=通過網路傳輸物品。使用&l物品輸入口&r通過&l物品接口&r將物品輸入到網路。使用&l物品接口&r通過&l物品輸出口&r從網路輸出物品。
 
 info_book.integratedtunnels.fluid=流體
-info_book.integratedtunnels.fluid.text1=通過網絡傳輸液體。使用&l流體輸入口&r通過&l流體接口&r將流體輸入到網絡。使用&l流體接口&r通過&l流體輸出口&r從網絡輸出流體。
+info_book.integratedtunnels.fluid.text1=通過網路傳輸液體。使用&l流體輸入口&r通過&l流體接口&r將流體輸入到網路。使用&l流體接口&r通過&l流體輸出口&r從網路輸出流體。
 
 info_book.integratedtunnels.energy=能量
-info_book.integratedtunnels.energy.text1=通過網絡傳輸能量。使用&l能量輸入口&r通過&l能量接口&r將能量輸入到網絡。使用&l能量接口&r通過&l能量輸出口&r從網絡輸出能量。
+info_book.integratedtunnels.energy.text1=通過網路傳輸能量。使用&l能量輸入口&r通過&l能量接口&r將能量輸入到網路。使用&l能量接口&r通過&l能量輸出口&r從網路輸出能量。
 
 info_book.integratedtunnels.world=世界交互
 
@@ -441,16 +441,16 @@ info_book.integratedtunnels.world.block.text1=你可以用&l方塊破壞口&r和
 info_book.integratedtunnels.player=玩家模擬
 info_book.integratedtunnels.player.text1=任何有經驗的Minecraft玩家都知道，點擊次數當然是越少越省事。你可以使用&l玩家模擬器&r來大大簡化那些繁瑣的點擊行為。它可以自動模擬手或手持物品進行點擊。你可以在高級屬性內更改點擊的位置。
 
-info_book.integratedtunnels.section.tutorials=管道教程
+info_book.integratedtunnels.section.tutorials=管道教學
 
 info_book.integratedtunnels.tutorials.break_stone=只破壞石頭
 info_book.integratedtunnels.tutorials.break_stone.text1=做一個包含&8石頭&0這個物品值的&l變量卡&r。將其放入&l方塊破壞口&r使它只能破壞石頭。也要對其屬性進行修改，看看是否能進行精準采集石頭，避免挖成圓石。
 
 info_book.integratedtunnels.tutorials.click_sword=用劍攻擊
-info_book.integratedtunnels.tutorials.click_sword.text1=厭倦了長時間的點擊，不如試試用&l玩家模擬器&r代替？先合成一個玩家模擬器並放入含有&o鑽石劍&r的&l變量卡&r，這樣它會自動從網絡中抽取一把&o鑽石劍&r進行攻擊。
+info_book.integratedtunnels.tutorials.click_sword.text1=厭倦了長時間的點擊，不如試試用&l玩家模擬器&r代替？先合成一個玩家模擬器並放入含有&o鑽石劍&r的&l變量卡&r，這樣它會自動從網路中抽取一把&o鑽石劍&r進行攻擊。
 
 info_book.integratedtunnels.tutorials.drop_all_items=投擲所有物品
-info_book.integratedtunnels.tutorials.drop_all_items.text1=在&l物品投擲口&r內放置一張空的&l變量卡&r將網絡內的所有物品在投擲世界上。
+info_book.integratedtunnels.tutorials.drop_all_items.text1=在&l物品投擲口&r內放置一張空的&l變量卡&r將網路內的所有物品在投擲世界上。
 
 info_book.integratedtunnels.tutorials.export_enchantable_items=輸出可附魔物品
 info_book.integratedtunnels.tutorials.export_enchantable_items.text1=將所有可附魔的物品輸出到目標容器。可以通過使用&l運算符&r中的相應條件實現。
@@ -459,7 +459,7 @@ info_book.integratedtunnels.tutorials.export_items_limit=輸出有限的物品
 info_book.integratedtunnels.tutorials.export_items_limit.text1=使用&l容器讀取器&r讀取目標容器中的物品數量，只有物品總數大於&610&0的情況下才移動物品。
 
 info_book.integratedtunnels.tutorials.import_all_items=輸入所有物品
-info_book.integratedtunnels.tutorials.import_all_items.text1=在&l物品輸入口&r內放置一張空的&l變量卡&r以從目標容器輸入所有物品到網絡。
+info_book.integratedtunnels.tutorials.import_all_items.text1=在&l物品輸入口&r內放置一張空的&l變量卡&r以從目標容器輸入所有物品到網路。
 
 info_book.integratedtunnels.tutorials.import_items_list=輸入列表物品
 info_book.integratedtunnels.tutorials.import_items_list.text1=將所有符合指定列表的物品輸入到目標容器中。物品列表可以使用&l容器讀取器&r創建。
@@ -468,10 +468,10 @@ info_book.integratedtunnels.tutorials.importer_exporter=輸入/輸出
 info_book.integratedtunnels.tutorials.importer_exporter.text1=&o物品輸入口&r會將物品從目標容器輸出到&o物品接口&r。&o物品輸出口&r則相反，它從&o物品接口&r提取物品到目標容器。
 
 info_book.integratedtunnels.tutorials.interfaces=接口
-info_book.integratedtunnels.tutorials.interfaces.text1=&o接口&r是一種可以附著在&l線纜&r上的部件。它擁有物品，流體和能量種類的接口，分別用來連接到容器，儲罐和能量設備上。通過&o接口&r使對應目標能夠訪問網絡。
+info_book.integratedtunnels.tutorials.interfaces.text1=&o接口&r是一種可以附著在&l線纜&r上的部件。它擁有物品，流體和能量種類的接口，分別用來連接到容器，儲罐和能量設備上。通過&o接口&r使對應目標能夠訪問網路。
 
 info_book.integratedtunnels.tutorials.introduction=介紹
-info_book.integratedtunnels.tutorials.introduction.text1=本節包含了幾個能幫助你學習&l集成管道&r的教程，以及基於&l集成動力&r額外添加的物品，流體，能量傳輸方式。
+info_book.integratedtunnels.tutorials.introduction.text1=本節包含了幾個能幫助你學習&l集成管道&r的教學，以及基於&l集成動力&r額外添加的物品，流體，能量傳輸方式。
 
 info_book.integratedtunnels.tutorials.pickup_items_limit=撿起指定物品
 info_book.integratedtunnels.tutorials.pickup_items_limit.text1=在&l變量卡&r中寫入常數&65&0，並將其放入&l物品拾取口&r以從目標位置撿起5個物品。
@@ -483,4 +483,4 @@ info_book.integratedtunnels.tutorials.world_block_importer_exporter=世界方塊
 info_book.integratedtunnels.tutorials.world_block_importer_exporter.text1=你可以用&l方塊破壞口&r與&l方塊放置口&r來破壞或放置方塊而不是將物品仍在世界上或從世界上撿起物品。你可以更改屬性內的各項設定值，比如是否使用精準采集破壞方塊。
 
 info_book.integratedtunnels.tutorials.world_item_importer_exporter=世界物品交互
-info_book.integratedtunnels.tutorials.world_item_importer_exporter.text1=與&o物品輸入口&r和&o物品輸出口&r類似，&l物品拾取口&r和&l物品投擲口&r分別可以從世界上撿起物品並輸入完了或者從網絡中提取物品扔到世界上。此外，它們也能與&o潛影箱&r這樣帶庫存的掉落物進行交互。
+info_book.integratedtunnels.tutorials.world_item_importer_exporter.text1=與&o物品輸入口&r和&o物品輸出口&r類似，&l物品拾取口&r和&l物品投擲口&r分別可以從世界上撿起物品並輸入完了或者從網路中提取物品扔到世界上。此外，它們也能與&o潛影箱&r這樣帶庫存的掉落物進行交互。

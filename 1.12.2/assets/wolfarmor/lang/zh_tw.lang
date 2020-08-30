@@ -32,7 +32,7 @@ gui.wolfarmor.config.category.general=常規設定
 gui.wolfarmor.config.category.client=客戶端設定
 gui.wolfarmor.config.category.client.render=渲染設定
 gui.wolfarmor.config.category.client.gui=UI設定
-gui.wolfarmor.config.category.behavior=自定義行為
+gui.wolfarmor.config.category.behavior=自訂行為
 
 entity.wolfarmor.wolf_armored.name=狼
 

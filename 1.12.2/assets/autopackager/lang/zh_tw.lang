@@ -13,5 +13,5 @@ autopackager.mode.slab=3x1 台階
 autopackager.mode.small=僅2x2
 autopackager.mode.stair=3x3 樓梯
 autopackager.mode.unpackage=僅1x1
-autopackager.mode.wall=3x2 墻
+autopackager.mode.wall=3x2 牆
 tile.packagerblock.name=自動打包器

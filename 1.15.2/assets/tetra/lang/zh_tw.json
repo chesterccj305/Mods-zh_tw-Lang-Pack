@@ -246,7 +246,7 @@
     "tetra.settled.toast": "一個组件被固定了！",
 
     "tetra.improvement.arrested.name": "無法固定",
-    "tetra.improvement.arrested.description": "這個部件是由無法固定的材料制作的",
+    "tetra.improvement.arrested.description": "這個部件是由無法固定的材料製作的",
 
     "tetra.hone.progress": "打磨進度：%s%%",
     "tetra.hone.available": "可以打磨",
@@ -333,7 +333,7 @@
 
     "tetra.mudule.sword/basic_blade.item_name": "劍",
     "tetra.mudule.sword/basic_blade.name": "簡易劍刃",
-    "tetra/mudule/sword/basic_blade.description": "一個基礎的劍刃,有着平均的傷害,攻擊速度和完整度.",
+    "tetra/mudule/sword/basic_blade.description": "一個基礎的劍刃,有著平均的傷害,攻擊速度和完整度.",
 
     "tetra.variant.basic_blade/oak": "橡木劍刃",
     "tetra.variant.basic_blade/oak.prefix": "橡木",
@@ -484,7 +484,7 @@
     "tetra.mudule.sword/decorative_pommel.name": "劍柄圆頭",
     "tetra.mudule.sword/decorative_pommel.description": "劍柄圆頭提供少量耐久度,但没有其他功能價值.",
 
-    "tetra.variant.decorative_pommel/oak": "裝飾性木制剑柄圆頭",
+    "tetra.variant.decorative_pommel/oak": "裝飾性木製剑柄圆頭",
     "tetra.variant.decorative_pommel/cobblestone": "裝飾性石頭剑柄圆頭",
     "tetra.variant.decorative_pommel/iron": "裝飾性鐵剑柄圓頭",
     "tetra.variant.decorative_pommel/gold": "裝飾性金剑柄圓頭",
@@ -504,7 +504,7 @@
     "tetra.variant.decorative_pommel/knightmetal": "裝飾性骑士金属剑柄圆頭",
 
     "tetra.mudulesword/makeshift_guard.name": "護手",
-    "tetra.mudulesword/makeshift_guard.description": "劣質材料制作的劍護手只能给使用者的手提供很少的保護.",
+    "tetra.mudulesword/makeshift_guard.description": "劣質材料製作的劍護手只能给使用者的手提供很少的保護.",
     
     "tetra.variant.makeshift_guard/oak": "簡易木製護手",
     "tetra.variant.makeshift_guard/cobblestone": "簡易石頭護手",
@@ -652,7 +652,7 @@
     "tetra.variant.reinforced_fuller/knightmetal": "騎士金属强化附層",
 
     "tetra/schema/sword/binding.name": "绑定结",
-    "tetra/schema/sword/binding.description": "在劍柄與劍刃間使用绳或带子等材料制作绑定结,使其連接更加牢固.",
+    "tetra/schema/sword/binding.description": "在劍柄與劍刃間使用绳或带子等材料製作绑定结,使其連接更加牢固.",
     "tetra/schema/sword/binding.slot1": "材料",
     "tetra.mudule.sword/binding.name": "绑定结",
 
@@ -672,10 +672,10 @@
     "tetra.tweak.sword_tweak/binding_bolt.left": "鬆",
     "tetra.tweak.sword_tweak/binding_bolt.right": "緊",
 
-    "tetra/schema/sword/forefinger_ring.name": "食指環",
+    "tetra/schema/sword/forefinger_ring.name": "食戒指",
     "tetra/schema/sword/forefinger_ring.description": "在劍柄上附加圆環，能夠有效提升握力。同時提升揮劍過快時攻擊的最小傷害。",
     "tetra/schema/sword/forefinger_ring.slot1": "材料",
-    "tetra.mudule.sword/forefinger_ring.name": "食指環",
+    "tetra.mudule.sword/forefinger_ring.name": "食戒指",
     "tetra.mudule.sword/forefinger_ring.description": "劍柄上固定了一個圓環,能夠有效提升握力。同時提升揮劍過快時攻擊的最小傷害。",
 
     "tetra.variant.forefinger_ring/oak": "橡木圓環",
@@ -1203,8 +1203,8 @@
     "tetra.improvement.basic_axe/severing.name": "切断",
     "tetra.improvement.basic_axe/severing.description": "對未裝備護甲的目标造成额外傷害",
 
-    "tetra.variant.basic_axe/oak": "木制斧",
-    "tetra.variant.basic_axe/oak.prefix": "木制",
+    "tetra.variant.basic_axe/oak": "木製斧",
+    "tetra.variant.basic_axe/oak.prefix": "木製",
     "tetra.variant.basic_axe/cobblestone": "鵝卵石斧",
     "tetra.variant.basic_axe/cobblestone.prefix": "鵝卵石",
     "tetra.variant.basic_axe/flint": "燧石斧",
@@ -1295,13 +1295,13 @@
     "tetra.variant.basic_pickaxe/knightmetal.prefix": "騎士金属",
 
     "tetra/schema/double/butt.name": "工具尾部",
-    "tetra/schema/double/butt.description": "用於單面工具的尾部，使用時比雙面工具更輕。如果用一些堅固的材料制作，甚至能夠拿来當做锤子。",
+    "tetra/schema/double/butt.description": "用於單面工具的尾部，使用時比雙面工具更輕。如果用一些堅固的材料製作，甚至能夠拿来當做锤子。",
     "tetra/schema/double/butt.slot1": "頭部材料",
 
     "tetra.mudule.double/butt.name": "工具尾部",
     "tetra.mudule.double/butt.description": "用於單面工具的尾部，使用時比雙面工具更輕.",
 
-    "tetra.variant.butt/oak": "木制尾部",
+    "tetra.variant.butt/oak": "木製尾部",
     "tetra.variant.butt/cobblestone": "鵝卵石尾部",
     "tetra.variant.butt/iron": "鐵尾部",
     "tetra.variant.butt/diamond": "鑽石尾部",
@@ -1321,14 +1321,14 @@
     "tetra.variant.butt/knightmetal": "騎士金属尾部",
 
     "tetra/schema/double/basic_hammer.name": "锤頭",
-    "tetra/schema/double/basic_hammer.description": "用给定的材料锻造锤頭。锤子用於制作部件物品,也可以用於回收。\n\n雙锤頭能夠提供增益效果。",
+    "tetra/schema/double/basic_hammer.description": "用给定的材料锻造锤頭。锤子用於製作部件物品,也可以用於回收。\n\n雙锤頭能夠提供增益效果。",
     "tetra/schema/double/basic_hammer.slot1": "頭部材料",
 
     "tetra.mudule.double/basic_hammer.item_name": "锤",
     "tetra.mudule.double/basic_hammer.name": "锤頭",
-    "tetra.mudule.double/basic_hammer.description": "锤子用於制作部件物品,也可以用於回收.\n\n雙锤頭能夠提供增益效果.",
+    "tetra.mudule.double/basic_hammer.description": "锤子用於製作部件物品,也可以用於回收.\n\n雙锤頭能夠提供增益效果.",
 
-    "tetra.variant.basic_hammer/log": "木制锤",
+    "tetra.variant.basic_hammer/log": "木製锤",
     "tetra.variant.basic_hammer/log.name": "锤",
     "tetra.variant.basic_hammer/log.prefix": "原木",
     "tetra.variant.basic_hammer/stone": "鵝卵石锤",
@@ -1370,8 +1370,8 @@
     "tetra.mudule.double/adze.name": "扁斧頭端",
     "tetra.mudule.double/adze.description": "手柄右邊有斧頭，扁斧主要用於挖掘，但也可以用来砍伐。",
 
-    "tetra.variant.adze/oak": "木制扁斧",
-    "tetra.variant.adze/oak.prefix": "木制",
+    "tetra.variant.adze/oak": "木製扁斧",
+    "tetra.variant.adze/oak.prefix": "木製",
     "tetra.variant.adze/cobblestone": "鵝卵石扁斧",
     "tetra.variant.adze/cobblestone.prefix": "鵝卵石",
     "tetra.variant.adze/flint": "燧石扁斧",
@@ -1410,7 +1410,7 @@
     "tetra.variant.adze/knightmetal.prefix": "騎士金属",
 
     "tetra/schema/double/claw.name": "撬棍",
-    "tetra/schema/double/claw.description": "使用材料制作一個撬棍。撬棍可以用於撬開物品和快速破壞木質方塊。",
+    "tetra/schema/double/claw.description": "使用材料製作一個撬棍。撬棍可以用於撬開物品和快速破壞木質方塊。",
     "tetra/schema/double/claw.slot1": "撬棍材料",
 
     "tetra.mudule.double/claw.item_name": "撬棍",
@@ -1464,7 +1464,7 @@
     "tetra.mudule.double/hoe.name": "锄",
     "tetra.mudule.double/hoe.description": "基本的锄,能夠用於耕地.",
 
-    "tetra.variant.hoe/oak": "木制锄",
+    "tetra.variant.hoe/oak": "木製锄",
     "tetra.variant.hoe/oak.prefix": "木材",
     "tetra.variant.hoe/cobblestone": "鵝卵石锄",
     "tetra.variant.hoe/cobblestone.prefix": "鵝卵石",
@@ -1511,8 +1511,8 @@
     "tetra.mudule.double/sickle.name": "镰刀",
     "tetra.mudule.double/sickle.description": "镰刀，能在大片區域内切割方塊。\n\n镰刀和其他工具工作方式不太相同，無揮動冷却時能夠瞬间挖掘方塊。",
 
-    "tetra.variant.sickle/oak": "木制镰刀",
-    "tetra.variant.sickle/oak.prefix": "木制",
+    "tetra.variant.sickle/oak": "木製镰刀",
+    "tetra.variant.sickle/oak.prefix": "木製",
     "tetra.variant.sickle/cobblestone": "鵝卵石镰刀",
     "tetra.variant.sickle/cobblestone.prefix": "鵝卵石",
     "tetra.variant.sickle/flint": "燧石镰刀",
@@ -1860,7 +1860,7 @@
     "tetra/schema/toolbelt/belt0.description": "绳子和皮革碎片被證明是方便使用工具的好材料，但是绳子缺乏支撑附加工具的能力。用毛線编织腰带，應該比簡單地繫上腰带相比，能提供更好的支撑。",
     "tetra/schema/toolbelt/belt0.slot1": "羊毛",
     "tetra/schema/toolbelt/belt1.name": "皮革腰带",
-    "tetra/schema/toolbelt/belt1.description": "使用適當的工具，你應該能夠將皮革切成長條带，这應該比用羊毛制成的腰带更强。",
+    "tetra/schema/toolbelt/belt1.description": "使用適當的工具，你應該能夠將皮革切成長條带，这應該比用羊毛製成的腰带更强。",
     "tetra/schema/toolbelt/belt1.slot1": "皮革",
     "tetra/schema/toolbelt/belt2.name": "腰带扣",
     "tetra/schema/toolbelt/belt2.description": "扣子與打结相比，能夠為腰部的東西提供更多的支撑。",
@@ -1930,11 +1930,11 @@
     "tetra.variant.potion_storage/wool": "藥水包",
     "tetra.variant.potion_storage/hide": "小型藥水包",
 
-    "tetra/schema/toolbelt/storage.name": "存儲袋",
+    "tetra/schema/toolbelt/storage.name": "儲存袋",
     "tetra/schema/toolbelt/storage.description": "把一個小袋子附在工具带上，能夠储存大量的物品。袋子里的物品不能快速取出。",
     "tetra/schema/storage.slot1": "材料",
 
-    "tetra.mudule.toolbelt/storage.name": "存儲袋",
+    "tetra.mudule.toolbelt/storage.name": "儲存袋",
     "tetra.mudule.toolbelt/storage.description": " 一個小袋子，能夠儲存大量的物品。袋子里的物品不能快速取出。",
 
     "tetra.variant.storage/forged_mesh": "網格袋",

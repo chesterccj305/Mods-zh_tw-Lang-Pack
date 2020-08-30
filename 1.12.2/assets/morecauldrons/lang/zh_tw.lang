@@ -21,11 +21,11 @@ tile.morecauldrons:brickcauldron.name=磚塊煉藥鍋
 
 tile.morecauldrons:stonecauldron.name=石質煉藥鍋
 tile.morecauldrons:granitecauldron.name=花崗岩煉藥鍋
-tile.morecauldrons:smoothgranitecauldron.name=磨制花崗岩煉藥鍋
+tile.morecauldrons:smoothgranitecauldron.name=拋光花崗岩煉藥鍋
 tile.morecauldrons:dioritecauldron.name=閃長岩煉藥鍋
-tile.morecauldrons:smoothdioritecauldron.name=磨制閃長岩煉藥鍋
+tile.morecauldrons:smoothdioritecauldron.name=拋光閃長岩煉藥鍋
 tile.morecauldrons:andesitecauldron.name=安山岩煉藥鍋
-tile.morecauldrons:smoothandesitecauldron.name=磨制安山岩煉藥鍋
+tile.morecauldrons:smoothandesitecauldron.name=拋光安山岩煉藥鍋
 
 #Death Messages
 death.attack.boiled=%1$s 活煮

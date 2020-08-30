@@ -1,8 +1,8 @@
-config.jeiintegration.default=默認
+config.jeiintegration.default=預設
 config.jeiintegration.handlers=處理程序設置
 config.jeiintegration.handlers.comment=啟用或禁用此模組添加的一些配方處理程序。
 config.jeiintegration.miscellaneous=雜項設置
-config.jeiintegration.miscellaneous.comment=這是雜項……你怎麽能指望我知道這裏有什麽？
+config.jeiintegration.miscellaneous.comment=這是雜項……你怎麽能指望我知道這裡有什麽？
 config.jeiintegration.title=JEI Integration配置
 config.jeiintegration.tooltips=文本提示設置
 config.jeiintegration.tooltips.burnTimeTooltipMode=燃燒時間文本提示

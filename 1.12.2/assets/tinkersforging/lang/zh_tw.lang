@@ -1,6 +1,6 @@
-item.tinkersforging:hammer.diamond.name=鉆石工匠錘
-item.tinkersforging:hammer.stone.name=石制工匠錘
-item.tinkersforging:hammer.wood.name=木制工匠錘
+item.tinkersforging:hammer.diamond.name=鑽石工匠錘
+item.tinkersforging:hammer.stone.name=石製工匠錘
+item.tinkersforging:hammer.wood.name=木製工匠錘
 itemGroup.tinkersforging.stuff=Tinker's Forging
 tile.tinkersforging:charcoal_forge.name=木炭熔爐
 tile.tinkersforging:charcoal_pile.name=木炭堆

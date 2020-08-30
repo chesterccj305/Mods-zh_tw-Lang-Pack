@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(l:collecting/altar)自然祭壇$()不止能$(aura)用來灌註物品，也能將物品破壞成更基本的元素。對於植物學家來說，這種技能在某些情況下是非常有用的，因為它可以提高效率，而在另一些情況下，它又非常方便。要使用$(item)破壞催化器$()，將其放在圍繞祭壇四個更低的$(item)苔石磚$()之一上方。"
+            "text": "$(l:collecting/altar)自然祭壇$()不止能$(aura)用來灌注物品，也能將物品破壞成更基本的元素。對於植物學家來說，這種技能在某些情況下是非常有用的，因為它可以提高效率，而在另一些情況下，它又非常方便。要使用$(item)破壞催化器$()，將其放在圍繞祭壇四個更低的$(item)苔石磚$()之一上方。"
         },
         {
             "type": "naturesaura:tree_ritual",
@@ -38,7 +38,7 @@
         },
         {
             "type": "auraddons:altar_special",
-            "text": "將$(item)砂巖$()還原成$(item)沙子$()",
+            "text": "將$(item)砂岩$()還原成$(item)沙子$()",
             "recipe": "auraddons:recipe_sandstone_disruption",
             "suffix": ";chiseled;smooth;red;red_chiseled;red_smooth"
         },
@@ -70,17 +70,17 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "移出$(item)唱片機$()裏的$(item)鉆石$()",
+            "text": "移出$(item)唱片機$()裏的$(item)鑽石$()",
             "recipe": "auraddons:recipe_jukebox_disruption"
         },
         {
             "type": "naturesaura:altar",
-            "text": "移出$(item)末影箱子$()裏的$(item)末影之眼$()",
+            "text": "移出$(item)終界箱子$()裏的$(item)終界之眼$()",
             "recipe": "auraddons:recipe_ender_chest_disruption"
         },
         {
             "type": "naturesaura:altar",
-            "text": "移出$(item)信標$()裏的$(item)下界之星$()",
+            "text": "移出$(item)烽火台$()裏的$(item)下界之星$()",
             "recipe": "auraddons:recipe_beacon_disruption"
         }
     ]

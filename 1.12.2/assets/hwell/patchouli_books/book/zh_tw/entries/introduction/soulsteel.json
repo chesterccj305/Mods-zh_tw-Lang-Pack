@@ -1,5 +1,5 @@
 {
-    "name": "靈魂鋼錠制造",
+    "name": "靈魂鋼錠製造",
     "icon": "hwell:soulsteel_ingot",
     "category": "introduction",
     "sortnum": 70,
@@ -9,7 +9,7 @@
             "title": "靈魂鋼金屬",
             "item": "hwell:soulsteel_ingot",
             "link_recipe": true,
-            "text": "靈魂鋼是一種強大的金屬材料, 具有很高的附魔性.獲取靈魂鋼的第一步就是準備材料. 本章將會介紹制造靈魂鋼的從入門到入墳的全過程."
+            "text": "靈魂鋼是一種強大的金屬材料, 具有很高的附魔性.獲取靈魂鋼的第一步就是準備材料. 本章將會介紹製造靈魂鋼的從入門到入墳的全過程."
         },   
         { 	"type": "crush",
 	        "name": "獲取靈魂粉塵",
@@ -17,27 +17,27 @@
 			"input1": "hwell:crushing_block",
 			"input2": "minecraft:soul_sand",
 			"output": "hwell:soul_dust",
-	        "text": "靈魂粉塵可以用來制造未燒制的靈魂鋼錠."
+	        "text": "靈魂粉塵可以用來製造未燒製的靈魂鋼錠."
         },
         { 
 	        "type": "core",
-	        "name": "鉆石金屬鋼錠",
+	        "name": "鑽石金屬鋼錠",
 	        "input1": "hwell:core_sentient",
 	        "input2": "hwell:shard_fe",
 	        "input3": "minecraft:diamond_block",
 	        "output": "hwell:metaldiamond_block",
-	        "text": "鉆石金屬鋼塊可以用於合成, 當然你需要一個水晶碎片作為催化劑."
+	        "text": "鑽石金屬鋼塊可以用於合成, 當然你需要一個水晶碎片作為催化劑."
         },
 	    {
             "type": "crafting",
-			"title": "未燒制的靈魂鋼錠",
+			"title": "未燒製的靈魂鋼錠",
 			"recipe": "hwell:metaldiamond",
 			"recipe2": "hwell:raw_soulsteel_ingot",
-			"text": "制作一個沒有燒制的靈魂鋼,然後進行冶煉."
+			"text": "製作一個沒有燒製的靈魂鋼,然後進行冶煉."
 		},  
 	    {
             "type": "smelting",
-			"text": "那些靈魂被困在未燒制的靈魂鋼中, 這些靈魂鋼必須要被送入爐子中才能到達他的最終形態. $(br2)靈魂鋼錠可以用來制造強力的裝備.",
+			"text": "那些靈魂被困在未燒製的靈魂鋼中, 這些靈魂鋼必須要被送入爐子中才能到達他的最終形態. $(br2)靈魂鋼錠可以用來製造強力的裝備.",
 			"recipe2": "hwell:raw_soulsteel"
 		},
 	    {
@@ -52,7 +52,7 @@
 			"title": "靈魂鋼工具",
 			"recipe": "hwell:dust_picker_au",
 			"recipe2": "hwell:empowered_displacer",
-			"text": "靈魂鋼在hearth well的合成中經常用來制造各種工具和機器."
+			"text": "靈魂鋼在hearth well的合成中經常用來製造各種工具和機器."
 		}  
     ]
 }

@@ -7,13 +7,13 @@
 		{
             "type": "crafting",
 			"title": "混合錠",
-			"text": "混合錠,一種用於制作的基礎物品.",
+			"text": "混合錠,一種用於製作的基礎物品.",
 			"recipe": "hwell:heavy_mesh"		
         },
         {
             "type": "smelting",
 			"title": "混合錠",
-			"text": "混合錠,一種用於制作的基礎物品.",
+			"text": "混合錠,一種用於製作的基礎物品.",
 			"recipe": "hwell:heavy_mesh"
         },
 		{

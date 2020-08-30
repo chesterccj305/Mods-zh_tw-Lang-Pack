@@ -3,7 +3,7 @@
 #  - Shovels  - #
 #  - Shovels  - #
 #  - Sickles  - #
-item.hammertime.itemaxediamond.name=鉆石斧
+item.hammertime.itemaxediamond.name=鑽石斧
 item.hammertime.itemaxegold.name=金斧
 item.hammertime.itemaxeiron.name=鐵斧
 item.hammertime.itemaxestone.name=石斧
@@ -13,7 +13,7 @@ item.hammertime.itemhammergold.name=金錘
 item.hammertime.itemhammeriron.name=鐵錘
 item.hammertime.itemhammerstone.name=石錘
 item.hammertime.itemhammerwood.name=木錘
-item.hammertime.itemshoveldiamond.name=鉆石鍬
+item.hammertime.itemshoveldiamond.name=鑽石鍬
 item.hammertime.itemshovelgold.name=金鍬
 item.hammertime.itemshoveliron.name=鐵鍬
 item.hammertime.itemshovelstone.name=石鍬

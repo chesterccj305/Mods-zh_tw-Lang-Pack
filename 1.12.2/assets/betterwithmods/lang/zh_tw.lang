@@ -216,12 +216,12 @@ tile.bwm:wood_bench.4.name=相思木木凳
 tile.bwm:wood_bench.5.name=黑橡木木凳
 tile.bwm:wood_bench.6.name=染血的木凳
 
-tile.bwm:debarked_old.0.name=橡木去皮原木
-tile.bwm:debarked_old.1.name=杉木去皮原木
-tile.bwm:debarked_old.2.name=樺木去皮原木
-tile.bwm:debarked_old.3.name=叢林木去皮原木
-tile.bwm:debarked_new.0.name=相思木去皮原木
-tile.bwm:debarked_new.1.name=黑橡木去皮原木
+tile.bwm:debarked_old.0.name=橡木剝皮原木
+tile.bwm:debarked_old.1.name=杉木剝皮原木
+tile.bwm:debarked_old.2.name=樺木剝皮原木
+tile.bwm:debarked_old.3.name=叢林木剝皮原木
+tile.bwm:debarked_new.0.name=相思木剝皮原木
+tile.bwm:debarked_new.1.name=黑橡木剝皮原木
 
 tile.bwm:block_dispenser.name=方塊放置回收器
 tile.bwm:companion_cube.name=摯友方塊
@@ -357,8 +357,8 @@ item.bwm:donut.name=甜甜圈
 item.bwm:knife.name=鐵刃
 item.bwm:dynamite.name=炸藥
 item.bwm:fertilizer.name=肥料
-item.bwm:creeper_oyster.name=爬行者酶腺
-item.bwm:creeper_oyster_kf.name=爬行者導火線
+item.bwm:creeper_oyster.name=苦力怕酶腺
+item.bwm:creeper_oyster_kf.name=苦力怕導火線
 item.bwm:ender_spectacles.name=終界眼鏡
 item.bwm:raw_egg.name=生蛋
 item.bwm:cooked_egg.name=煮雞蛋
@@ -394,7 +394,7 @@ item.bwm:axle_generator.waterwheel.name=水車
 item.bwm:axle_generator.windmill_vertical.name=豎軸風車
 
 item.bwm:bark.oak.name=橡木樹皮
-item.bwm:bark.spruce.name=雲杉樹皮
+item.bwm:bark.spruce.name=杉木樹皮
 item.bwm:bark.birch.name=白樺樹皮
 item.bwm:bark.jungle.name=叢林木樹皮
 item.bwm:bark.acacia.name=金合歡樹皮
@@ -497,7 +497,7 @@ material.hellfire.name=煉獄之火
 modifier.mending.name=修復
 modifier.mending.desc=§o搶人頭！ §r\n吸收經驗修復工具。
 
-entity.entity_sheared_creeper.name=剪過的爬行者
+entity.entity_sheared_creeper.name=剪過的苦力怕
 entity.bwm_jungle_spider.name=叢林蜘蛛
 entity.extending_rope.name=移動平台
 entity.longboi.name=龍波
@@ -579,8 +579,8 @@ bwm.effect.looting=掠奪
 
 bwm.item.containment=包含：
 
-config.sync.restart=對服務器的配置更改需要客戶端重新啟動。很抱歉。
-config.sync.ok=更改配置成功。如果您看不到重新啟動客戶端的提示，請將其報告給服務器管理員，以便他們能夠報告對配置文件所做的更改。
+config.sync.restart=對伺服器的配置更改需要客戶端重新啟動。很抱歉。
+config.sync.ok=更改配置成功。如果您看不到重新啟動客戶端的提示，請將其報告給伺服器管理員，以便他們能夠報告對配置文件所做的更改。
 
 tile.bed.tooRestless=你太焦躁不安，無法入睡
 

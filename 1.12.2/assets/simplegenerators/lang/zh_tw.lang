@@ -3,7 +3,7 @@ itemGroup.simplegenerators.creative_tab=簡易發電機
 itemgroup.simplegenerators.creative_tab=簡易發電機
 
 gui.simplegenerators.energy=能量
-gui.simplegenerators.stored=存儲
+gui.simplegenerators.stored=儲存
 gui.simplegenerators.capacity=容量
 gui.simplegenerators.fuelbuffer=發電時間
 gui.simplegenerators.fuelbufferlevel=總計
@@ -36,7 +36,7 @@ guide.simplegenerators.buttontooltip=簡易發電機手冊
 guide.simplegenerators.upgradable=高級
 guide.simplegenerators.modifierslots=升級格子總數
 guide.simplegenerators.modifiers=升級
-guide.simplegenerators.energybuffer=能量緩沖
+guide.simplegenerators.energybuffer=能量緩衝
 guide.simplegenerators.energy_tick=能量速率
 guide.simplegenerators.tank=儲罐儲量
 

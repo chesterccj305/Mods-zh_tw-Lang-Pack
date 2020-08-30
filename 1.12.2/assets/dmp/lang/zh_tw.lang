@@ -33,10 +33,10 @@ gui.actions=操作
 gui.advanced=高級
 gui.add=增加
 gui.and=和
-gui.customize=定制
+gui.customize=訂製
 gui.decorations=飾品
-gui.default=默認
-gui.defaults=默認
+gui.default=預設
+gui.defaults=預設
 gui.enabled=啟用
 gui.feature=特性
 gui.features=特性
@@ -573,12 +573,12 @@ tile.palst_jungl.name=叢林木托盤貨垛
 tile.palst_oak.name=橡木托盤貨垛
 tile.palst_spruc.name=杉木托盤貨垛
 
-tile.panwr_acaci.name=粗制相思木鑲板
-tile.panwr_birch.name=粗制樺木鑲板
-tile.panwr_dkoak.name=粗制黑橡木鑲板
-tile.panwr_jungl.name=粗制叢林木鑲板
-tile.panwr_oak.name=粗制橡木鑲板
-tile.panwr_spruc.name=粗制杉木鑲板
+tile.panwr_acaci.name=粗製相思木鑲板
+tile.panwr_birch.name=粗製樺木鑲板
+tile.panwr_dkoak.name=粗製黑橡木鑲板
+tile.panwr_jungl.name=粗製叢林木鑲板
+tile.panwr_oak.name=粗製橡木鑲板
+tile.panwr_spruc.name=粗製杉木鑲板
 
 tile.panws_acaci.name=精制相思木鑲板
 tile.panws_birch.name=精制樺木鑲板
@@ -698,15 +698,15 @@ tile.polsw_spruc.name=杉木桿標
 
 tile.redsm.name=紅石電機
 
-tile.retwa_andes.name=安山岩擋土墻
-tile.retwa_cobbl.name=鵝卵石擋土墻
-tile.retwa_diori.name=閃長岩擋土墻
-tile.retwa_grani.name=花崗岩擋土墻
-tile.retwa_prism.name=海磷石擋土墻
-tile.retwa_quart.name=石英擋土墻
-tile.retwa_redsa.name=紅砂岩擋土墻
-tile.retwa_sands.name=砂岩擋土墻
-tile.retwa_stone.name=石擋土墻
+tile.retwa_andes.name=安山岩擋土牆
+tile.retwa_cobbl.name=鵝卵石擋土牆
+tile.retwa_diori.name=閃長岩擋土牆
+tile.retwa_grani.name=花崗岩擋土牆
+tile.retwa_prism.name=海磷石擋土牆
+tile.retwa_quart.name=石英擋土牆
+tile.retwa_redsa.name=紅砂岩擋土牆
+tile.retwa_sands.name=砂岩擋土牆
+tile.retwa_stone.name=石擋土牆
 
 tile.shelw_acaci.name=相思木架
 tile.shelw_birch.name=樺木架
@@ -730,9 +730,9 @@ tile.ssmdo_blkir.name=圓頂黑鐵招牌
 tile.ssmdo_gold.name=圓頂金招牌
 tile.ssmdo_iron.name=圓頂鐵招牌
 
-tile.ssmga_blkir.name=山墻黑鐵招牌
-tile.ssmga_gold.name=山墻金招牌
-tile.ssmga_iron.name=山墻鐵招牌
+tile.ssmga_blkir.name=山牆黑鐵招牌
+tile.ssmga_gold.name=山牆金招牌
+tile.ssmga_iron.name=山牆鐵招牌
 
 tile.ssmhe_blkir.name=六邊形黑鐵招牌
 tile.ssmhe_gold.name=六邊形金招牌
@@ -764,12 +764,12 @@ tile.sswdo_jungl.name=圓頂叢林木招牌
 tile.sswdo_oak.name=圓頂橡木招牌
 tile.sswdo_spruc.name=圓頂杉木招牌
 
-tile.sswga_acaci.name=山墻相思木招牌
-tile.sswga_birch.name=山墻樺木招牌
-tile.sswga_dkoak.name=山墻黑橡木招牌
-tile.sswga_jungl.name=山墻叢林木招牌
-tile.sswga_oak.name=山墻橡木招牌
-tile.sswga_spruc.name=山墻杉木招牌
+tile.sswga_acaci.name=山牆相思木招牌
+tile.sswga_birch.name=山牆樺木招牌
+tile.sswga_dkoak.name=山牆黑橡木招牌
+tile.sswga_jungl.name=山牆叢林木招牌
+tile.sswga_oak.name=山牆橡木招牌
+tile.sswga_spruc.name=山牆杉木招牌
 
 tile.sswhe_acaci.name=六邊形相思木招牌
 tile.sswhe_birch.name=六邊形樺木招牌
@@ -923,12 +923,12 @@ tile.tretw_jungl.name=叢林木格架塔
 tile.tretw_oak.name=橡木格架塔
 tile.tretw_spruc.name=杉木格架塔
 
-tile.trmwr_acaci.name=粗制相思木十字裁板
-tile.trmwr_birch.name=粗制樺木十字裁板
-tile.trmwr_dkoak.name=粗制黑橡木十字裁板
-tile.trmwr_jungl.name=粗制叢林木十字裁板
-tile.trmwr_oak.name=粗制橡木十字裁板
-tile.trmwr_spruc.name=粗制杉木十字裁板
+tile.trmwr_acaci.name=粗製相思木十字裁板
+tile.trmwr_birch.name=粗製樺木十字裁板
+tile.trmwr_dkoak.name=粗製黑橡木十字裁板
+tile.trmwr_jungl.name=粗製叢林木十字裁板
+tile.trmwr_oak.name=粗製橡木十字裁板
+tile.trmwr_spruc.name=粗製杉木十字裁板
 
 tile.trmws_acaci.name=精制相思木十字裁板
 tile.trmws_birch.name=精制樺木十字裁板

@@ -8,7 +8,7 @@ commands.bonsaitrees.denied=你沒有使用此命令的權限。
 
 commands.bonsaitrees.saveTreeShape.description=已將你當前指向的樹保存為 JSON 格式文件。
 commands.bonsaitrees.saveTreeShape.error_while_saving_shape=無法保存樹形到文件，請檢查日志獲取詳細信息。
-commands.bonsaitrees.saveTreeShape.exception.can_not_determine_shape=無法確定形狀，也許你正在看著的方塊在排除列表裏？
+commands.bonsaitrees.saveTreeShape.exception.can_not_determine_shape=無法確定形狀，也許你正在看著的方塊在排除列表裡？
 commands.bonsaitrees.saveTreeShape.exception.no_itemstack_in_mainhand=你的主手上必須有物品！
 commands.bonsaitrees.saveTreeShape.exception.not_looking_at_block=你的視線沒有指向方塊！
 commands.bonsaitrees.saveTreeShape.usage=/bonsaitrees saveTreeShape <類型名稱>，例如 "forestry:hillCherry"
@@ -24,10 +24,10 @@ commands.bonsaitrees.generateMissingShapes.usage=/bonsaitrees generateMissingSha
 commands.bonsaitrees.upgradeJsonFiles.description=將樹形文件升級到最新受支持的版本。這是一個開發命令，可能不會對你有用。
 commands.bonsaitrees.upgradeJsonFiles.usage=/bonsaitrees upgradeJsonFiles
 
-commands.bonsaitrees.reloadTrees.description=從JSON文件和MOD中重新加載所有樹。這是一個開發命令，可能不會對你有用。這也會重載所以配置的土壤！
+commands.bonsaitrees.reloadTrees.description=從JSON文件和MOD中重新載入所有樹。這是一個開發命令，可能不會對你有用。這也會重載所以配置的土壤！
 commands.bonsaitrees.reloadTrees.usage=/bonsaitrees reloadTrees
 
-commands.bonsaitrees.reloadSoils.description=從JSON文件和MOD中重新加載所有樹。這是一個開發命令，可能不會對你有用。
+commands.bonsaitrees.reloadSoils.description=從JSON文件和MOD中重新載入所有樹。這是一個開發命令，可能不會對你有用。
 commands.bonsaitrees.reloadSoils.usage=/bonsaitrees reloadSoils
 
 commands.bonsaitrees.listIntegrations.description=列出所有的mod集成及它們所提供的樹的數量
@@ -44,16 +44,16 @@ commands.bonsaitrees.listSoils.description=列出所有當前註冊的土壤
 commands.bonsaitrees.listSoils.result_title=註冊的土壤：
 commands.bonsaitrees.listSoils.usage=/bonsaitrees listSoils
 
-commands.bonsaitrees.checkCompatibility.description=顯示給定土壤/樹木的兼容樹木/土壤
+commands.bonsaitrees.checkCompatibility.description=顯示給定土壤/樹木的相容樹木/土壤
 commands.bonsaitrees.checkCompatibility.exception.no_valid_soil_or_tree_found=找不到與該名稱匹配的樹或土壤。使用 /bonsaitrees listTrees 或 /bonsaitrees listSoils
 commands.bonsaitrees.checkCompatibility.exception.specify_tree_or_soil=指定樹或者土壤，比如：/bonsaitrees checkCompatibility minecraft:oak
-commands.bonsaitrees.checkCompatibility.result_title_soils=兼容的土壤：%d
-commands.bonsaitrees.checkCompatibility.result_title_trees=兼容的樹：%d
+commands.bonsaitrees.checkCompatibility.result_title_soils=相容的土壤：%d
+commands.bonsaitrees.checkCompatibility.result_title_trees=相容的樹：%d
 commands.bonsaitrees.checkCompatibility.usage=/bonsaitrees checkCompatibility <tree/soil>
 
 
 tooltip.bonsaitrees.autoexport=自動將掉落物導出到下方物品欄。
-tooltip.bonsaitrees.use_jei_for_compatible_sapling=請使用JEI查找兼容種植的土壤，樹苗以及其掉率。
+tooltip.bonsaitrees.use_jei_for_compatible_sapling=請使用JEI查找相容種植的土壤，樹苗以及其掉率。
 tooltip.bonsaitrees.hold_shift_hint=按住 Shift 鍵以查看詳細信息
 tooltip.bonsaitrees.warn_hopping_pots_disabled=在配置中功能被禁用！
 
@@ -69,6 +69,6 @@ bonsaitrees.jei.category.soil.growTimeModifier=生長時間：%.1f%%
 bonsaitrees.jei.category.soil.dropChanceModifier=掉落幾率：%.1f%%
 
 advancements.bonsaitrees.craft_pot.title=盆景
-advancements.bonsaitrees.craft_pot.description=制作盆栽盆
+advancements.bonsaitrees.craft_pot.description=製作盆栽盆
 advancements.bonsaitrees.grow_tree.title=盆景養護
 advancements.bonsaitrees.grow_tree.description=用作裝飾，或者當樹場用

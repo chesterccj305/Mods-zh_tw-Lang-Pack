@@ -5,7 +5,7 @@
   "libnonymous.config.gui.label.category": "類別",
   "libnonymous.config.gui.label.settings": "設置",
   "libnonymous.config.gui.label.separate_with_commas": "(用逗號分隔)",
-  "libnonymous.config.gui.tooltip.default_is": "默認值為:",
+  "libnonymous.config.gui.tooltip.default_is": "預設值為:",
   "libnonymous.config.gui.label.mods": "模組...",
 
   "libnonymous.config.error.invalid_enum": "無效的枚舉值",

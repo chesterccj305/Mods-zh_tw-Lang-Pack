@@ -43,7 +43,7 @@ tile.xencraft.xen_small_bricks.name=霓虹小型磚塊
 tile.xencraft.xen_plate.name=霓虹板
 tile.xencraft.xen_tiles.name=霓虹瓷磚
 tile.xencraft.xen_small_tiles.name=霓虹小塊瓷磚
-tile.xencraft.xen_hex.name=霓虹網絡
+tile.xencraft.xen_hex.name=霓虹網路
 
 # Items
 item.xencraft.xen_gem.name=霓虹寶石

@@ -46,7 +46,7 @@ chisel.tooltip.power.stored=%s/%s FE
 chisel.tooltip.power.pertick=%s FE/t
 
 itemGroup.chiselCreativeTab=鑿子
-chisel.jei.title=鑿子 － 鑿制
+chisel.jei.title=鑿子 － 鑿製
 
 jei.chisel.desc.chisel_generic=鑿子可被用來創造各種方塊的不同樣式。你可以右擊鑿子打開GUI雕鑿，也可以直接點擊方塊進行雕鑿。如果GUI中已經選定了方塊，點擊方塊時將僅把相應方塊雕鑿成指定外觀。
 jei.chisel.desc.chisel_iron=鐵鑿子是最基礎的鑿子，耐久值低，且一次只能雕鑿世界中的一個方塊。
@@ -382,7 +382,7 @@ tile.chisel.block_coal_coke.poison.desc.1=毒藥
 tile.chisel.block_coal_coke.bricks-chaotic.desc.1=人行道磚
 tile.chisel.block_coal_coke.cuts.desc.1=切口
 
-tile.chisel.bloodMagic.name=鏨制符文石
+tile.chisel.bloodMagic.name=鏨製符文石
 tile.chisel.bloodMagic.bloodRuneArranged.desc.1=齊紋
 tile.chisel.bloodMagic.bloodRuneArranged.desc.2=可用於裝飾
 tile.chisel.bloodMagic.bloodRuneArranged.desc.3=可用於血祭壇
@@ -1618,8 +1618,8 @@ tile.chisel.factory.vent.desc.1=通風口
 tile.chisel.factory.wireframeblue.desc.1=藍影格柵
 
 tile.chisel.futura.name=科幻方塊
-tile.chisel.futura.screenMetallic.desc.1=灰色屏幕
-tile.chisel.futura.screenCyan.desc.1=青色屏幕
+tile.chisel.futura.screenMetallic.desc.1=灰色螢幕
+tile.chisel.futura.screenCyan.desc.1=青色螢幕
 tile.chisel.futura.controller.desc.1=ME控制器
 tile.chisel.futura.wavy.desc.1=彩虹波紋
 tile.chisel.futura.controllerPurple.desc.1=紫色ME控制器
@@ -2414,7 +2414,7 @@ tile.chisel.blockNickel.scaffold.desc.1=腳手架
 tile.chisel.obsidian.name=黑曜石
 tile.chisel.obsidian.pillar.desc.1=粗豎紋
 tile.chisel.obsidian.pillar-quartz.desc.1=豎紋
-tile.chisel.obsidian.chiseled.desc.1=鏨制
+tile.chisel.obsidian.chiseled.desc.1=鏨製
 tile.chisel.obsidian.panel-shiny.desc.1=閃耀鑲板
 tile.chisel.obsidian.panel.desc.1=鑲板
 tile.chisel.obsidian.chunks.desc.1=碎塊紋
@@ -2870,7 +2870,7 @@ tile.chisel.blockSteel.badGreggy.desc.1=格雷科稽
 tile.chisel.blockSteel.bolted.desc.1=螺栓鑲板
 tile.chisel.blockSteel.scaffold.desc.1=腳手架
 
-tile.chisel.stonebrick.name=鏨制石磚
+tile.chisel.stonebrick.name=鏨製石磚
 tile.chisel.stonebrick.cracked.desc.1=碎裂紋
 tile.chisel.stonebrick.bricks-soft.desc.1=風化磚塊
 tile.chisel.stonebrick.bricks-cracked.desc.1=裂紋磚塊
@@ -2897,7 +2897,7 @@ tile.chisel.stonebrick.circularct.desc.1=環形
 tile.chisel.stonebrick.circularct.desc.2=擁有連接材質
 tile.chisel.stonebrick.weaver.desc.1=凱爾特風格
 tile.chisel.stonebrick.bricks-chaotic.desc.1=人行道磚
-tile.chisel.stonebrick.name=鏨制石磚
+tile.chisel.stonebrick.name=鏨製石磚
 tile.chisel.stonebrick.bricks-solid.desc.1=磚塊
 tile.chisel.stonebrick.bricks-small.desc.1=小塊磚塊
 tile.chisel.stonebrick.circular.desc.1=環形

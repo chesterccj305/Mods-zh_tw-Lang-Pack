@@ -7,7 +7,7 @@ item.wct:magnet_card.name=磁鐵卡
 tile.advanced_charger.name=高級充電器(WIP)
 
 // Tooltips
-tooltip.magnet.desc=可以自動將物品輸入AE網絡的磁鐵。
+tooltip.magnet.desc=可以自動將物品輸入AE網路的磁鐵。
 tooltip.magnet_set_filter.desc=點擊右鍵來設定過濾器
 tooltip.magnet_mode_keybind.desc=磁鐵模式按鍵綁定
 tooltip.status.desc=狀態
@@ -49,5 +49,5 @@ gui.openmagnetgui.desc2=介面來設定要過濾的物品
 gui.magnetmode=磁鐵模式
 
 // JEI
-jei.wct.desc=AE2合成終端的無線版本。要使用它，需要先將它通過安全終端鏈接到ME網絡。可以在選項... ->按鍵設定... 中設置綁定按鍵來打開介面。
-jei.magnet_card.desc=可以自動將物品輸入連接的ME網絡的磁鐵。蹲下+右鍵來更改模式(也可以通過綁定的按鍵來切換模式)。右鍵以打開過濾器介面(也可以使用按鍵綁定)。
+jei.wct.desc=AE2合成終端的無線版本。要使用它，需要先將它通過安全終端連結到ME網路。可以在選項... ->按鍵設定... 中設置綁定按鍵來打開介面。
+jei.magnet_card.desc=可以自動將物品輸入連接的ME網路的磁鐵。蹲下+右鍵來更改模式(也可以通過綁定的按鍵來切換模式)。右鍵以打開過濾器介面(也可以使用按鍵綁定)。

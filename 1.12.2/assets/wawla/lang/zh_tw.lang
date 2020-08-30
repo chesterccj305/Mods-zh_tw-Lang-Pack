@@ -69,7 +69,7 @@ tooltip.wawla.enchPower=附魔點數
 #Vanilla Enchantment Descriptions
 enchantment.minecraft.protection.desc=減少大多數傷害
 enchantment.minecraft.fire_protection.desc=減少火焰傷害，也會減少著火時(等級×15)%的燃燒時間。
-enchantment.minecraft.feather_falling.desc=減少摔落傷害和來源於末影珍珠的傳送傷害。
+enchantment.minecraft.feather_falling.desc=減少摔落傷害和來源於終界珍珠的傳送傷害。
 enchantment.minecraft.blast_protection.desc=減少爆炸傷害，也會降低爆炸產生的(等級*15)%的擊退效果。
 enchantment.minecraft.projectile_protection.desc=減少來源於彈射物的傷害（包括來源於箭、地獄幽靈/烈焰使者火球等的傷害）
 enchantment.minecraft.respiration.desc=延長水下呼吸時間，增強水下視覺效果

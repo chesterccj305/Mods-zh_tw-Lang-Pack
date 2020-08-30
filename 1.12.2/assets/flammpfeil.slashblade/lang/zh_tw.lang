@@ -43,7 +43,7 @@ flammpfeil.slashblade.specialattack.sakuraend=終焉櫻
 freftext.item.flammpfeil.slashblade=無銘無名的大太刀\n能很好的與附魔相結合\n賜予名字會有不可思議的魅力
 freftext.item.flammpfeil.slashblade.wood=普通的木刀\n但在斬殺千人之後\n即便是木刀也能無物不斷
 freftext.item.flammpfeil.slashblade.white=白鞘之刀\n折斷而變短的刀\n鍛造成其他形式說不定會煥發什麽能力
-freftext.item.flammpfeil.slashblade.bamboo=未制作完成的竹光\n比木刀要優越
+freftext.item.flammpfeil.slashblade.bamboo=未製作完成的竹光\n比木刀要優越
 freftext.item.flammpfeil.slashblade.silverbamboo=竹光的完成型\n即使是竹光也能與太刀相提並論\n吸取百命後損壞的話說不定會出現什麽
 freftext.item.flammpfeil.slashblade.wrapper=變樣了的刀鞘\n能根據刀而變形的奇特刀鞘\n能賦予無懈可擊的拔刀術
 freftext.item.flammpfeil.slashblade.proudsoul=刀之榮耀而化成的魂火\n盡管可見內部刀的碎片卻沒有實體\n用於修覆
@@ -57,7 +57,7 @@ freftext.item.flammpfeil.slashblade.named.yamato.broken=曾經的魔劍\n如今�
 item.flammpfeil.slashblade.named.yamato.name=魔劍「閻魔刀」
 freftext.item.flammpfeil.slashblade.named.yamato=曾經的魔劍\n傳聞中沒有實體\n刀鞘會在刀身修覆之時出現\n盡管與原有之力相差甚遠、配合拔刀術也能遊刃有余
 item.flammpfeil.slashblade.named.tagayasan.name=木刀「鐵刀木」
-freftext.item.flammpfeil.slashblade.named.tagayasan=鐵刀木制成的木刀\n不知何故需要鐵來修覆\n很容易因敲打而損壞的木刀、因吞噬之魂而被冠以鐵之名的堅木之刃
+freftext.item.flammpfeil.slashblade.named.tagayasan=鐵刀木製成的木刀\n不知何故需要鐵來修覆\n很容易因敲打而損壞的木刀、因吞噬之魂而被冠以鐵之名的堅木之刃
 item.flammpfeil.slashblade.named.yuzukitukumo.name=結月刀「付喪」
 freftext.item.flammpfeil.slashblade.named.yuzukitukumo=被冠以某族之名的刀\n刀的一端被刻上了名字\n狂暴之人持有就會邪化變為神佛惡鬼一刀兩斷的妖刀\n心和之人揮舞則能變為退治邪物的守護之刀
 
@@ -72,7 +72,7 @@ item.flammpfeil.slashblade.named.yashatrue.name=§c夜叉§f
 item.flammpfeil.slashblade.wrapformat.low=名刀「%s」
 item.wrap.BambooMod.katana.name=利刀「無名」紅玉
 item.wrap.weaponmod.katana.wood.name=「擊柝」露台
-item.wrap.weaponmod.katana.stone.name=「銳巖」露台
+item.wrap.weaponmod.katana.stone.name=「銳岩」露台
 item.wrap.weaponmod.katana.iron.name=利刀「鐵」露台
 item.wrap.weaponmod.katana.diamond.name=名刀「金剛」露台
 item.wrap.weaponmod.katana.gold.name=寶刀「山吹」露台
@@ -88,7 +88,7 @@ entity.BladeStand.name=刀掛台
 
 death.attack.directMagic=%1$s 被 %2$s 切成碎片!
 
-slashblade.seffect.name.WitherEdge=雕零性
+slashblade.seffect.name.WitherEdge=凋零性
 
 slashblade.rangeattack.false=SB:幻影劍
 slashblade.rangeattack.true=SB:幻影飛刀
@@ -102,7 +102,7 @@ achievement.flammpfeil.slashblade.slashWoodenSword.desc=一刀斬敵的木劍<br
 achievement.flammpfeil.slashblade.buildWoodenBlade=無銘刀「木偶」
 achievement.flammpfeil.slashblade.buildWoodenBlade.desc=§8§l§o配置了鞘的普通木刀<br>已初見拔刀術的冰山一角
 achievement.flammpfeil.slashblade.buildWhiteSheath=利刀「白鞘」
-achievement.flammpfeil.slashblade.buildWhiteSheath.desc=§8§l§o將用鐵制的刀刃替代木刀<br>尚未有偉業
+achievement.flammpfeil.slashblade.buildWhiteSheath.desc=§8§l§o將用鐵製的刀刃替代木刀<br>尚未有偉業
 achievement.flammpfeil.slashblade.brokenWhiteSheath=折斷的白鞘
 achievement.flammpfeil.slashblade.brokenWhiteSheath.desc=§8§l§o切斷之名的代表
 achievement.flammpfeil.slashblade.buildSlashBlade=大太刀「」
@@ -114,7 +114,7 @@ achievement.flammpfeil.slashblade.bewitched.desc=付與名字<br>§8§l§o擁有
 achievement.flammpfeil.slashblade.tukumo=§d結月刀「付喪」
 achievement.flammpfeil.slashblade.tukumo.desc=§8§l§o被冠以某族之名的刀<br>其中一端刻上了他的名字<br>野心家<br>持有時邪化為妖刀<br>心明止水者<br>持有時退治妖魔的護身刀
 achievement.flammpfeil.slashblade.takemitu=無銘刀「竹光」
-achievement.flammpfeil.slashblade.takemitu.desc=§8§l§o制作竹光
+achievement.flammpfeil.slashblade.takemitu.desc=§8§l§o製作竹光
 achievement.flammpfeil.slashblade.ginsitakemitu=名刀「銀紙竹光」
 achievement.flammpfeil.slashblade.ginsitakemitu.desc=§8§l§o雖是竹光的完成系，終究是竹刀
 achievement.flammpfeil.slashblade.tagayasan=§d木刀「鐵刀木」
@@ -165,12 +165,12 @@ achievement.flammpfeil.slashblade.foxblack=狐月刀「黒狐」
 achievement.flammpfeil.slashblade.foxblack.desc=§8§l§o寄宿這妖狐的力量<br>退魔平安的黑狐
 achievement.flammpfeil.slashblade.wrap.BalkonWood=「擊柝」露台
 achievement.flammpfeil.slashblade.wrap.BalkonWood.desc=§8§l§o堅木太刀
-achievement.flammpfeil.slashblade.wrap.BalkonStone=「銳巖」露台
-achievement.flammpfeil.slashblade.wrap.BalkonStone.desc=§8§l§o巖石太刀
+achievement.flammpfeil.slashblade.wrap.BalkonStone=「銳岩」露台
+achievement.flammpfeil.slashblade.wrap.BalkonStone.desc=§8§l§o岩石太刀
 achievement.flammpfeil.slashblade.wrap.BalkonIron=利刀「鐵」露台
 achievement.flammpfeil.slashblade.wrap.BalkonIron.desc=§8§l§o鐵之太刀
 achievement.flammpfeil.slashblade.wrap.BalkonDiamond=名刀「金剛」露台
-achievement.flammpfeil.slashblade.wrap.BalkonDiamond.desc=§8§l§o鉆石太刀
+achievement.flammpfeil.slashblade.wrap.BalkonDiamond.desc=§8§l§o鑽石太刀
 achievement.flammpfeil.slashblade.wrap.BalkonGold=寶刀「山吹」露台
 achievement.flammpfeil.slashblade.wrap.BalkonGold.desc=§8§l§o黃金太刀
 
@@ -204,7 +204,7 @@ achievement.flammpfeil.slashblade.orotiagito.desc=§8§l§o傳承了眾星之力
 achievement.flammpfeil.slashblade.yasha=夜叉
 achievement.flammpfeil.slashblade.yasha.desc=§8§l§o傳承了眾星之力的刀<br>本應是一把直刀
 achievement.flammpfeil.slashblade.yashaTrue=「夜叉」鬼哭
-achievement.flammpfeil.slashblade.yashaTrue.desc=§8§l§o傳承了眾星之力的刀<br>制作方式早已失傳<br>現收納在白鞘之中
+achievement.flammpfeil.slashblade.yashaTrue.desc=§8§l§o傳承了眾星之力的刀<br>製作方式早已失傳<br>現收納在白鞘之中
 
 achievement.flammpfeil.slashblade.sange=「散華」覺
 achievement.flammpfeil.slashblade.sange.desc=§8§l§o傳承了眾星之力的刀<br>兼備著美麗的名刀
@@ -213,7 +213,7 @@ achievement.flammpfeil.slashblade.darkraven=暗鴉
 achievement.flammpfeil.slashblade.darkraven.desc=§8§l§o傳承了眾星之力的刀<br>傳承了上代主人的狂氣
 
 achievement.flammpfeil.slashblade.fluorescentbar=熒光
-achievement.flammpfeil.slashblade.fluorescentbar.desc=§8§l§o在眾星之中<br>隨手制成的太刀？<br>與原來的樣子相差甚遠也無所謂
+achievement.flammpfeil.slashblade.fluorescentbar.desc=§8§l§o在眾星之中<br>隨手製成的太刀？<br>與原來的樣子相差甚遠也無所謂
 
 achievement.flammpfeil.slashblade.phantomSword=幻影劍
 achievement.flammpfeil.slashblade.phantomSword.desc=遠距離設計<br>§8§l§o擁有力量的刀的歡迎
@@ -419,7 +419,7 @@ flammpfeil.slashblade.specialattack.overslash=拔刀術
 
 item.flammpfeil.slashblade.named.fluorescentbar.name=熒光
 achievement.flammpfeil.slashblade.fluorescentbar=熒光
-achievement.flammpfeil.slashblade.fluorescentbar.desc=§8§l§o在眾星之中<br>隨手制成的太刀？<br>與原來的樣子相差甚遠也無所謂
+achievement.flammpfeil.slashblade.fluorescentbar.desc=§8§l§o在眾星之中<br>隨手製成的太刀？<br>與原來的樣子相差甚遠也無所謂
 
 item.flammpfeil.slashblade.named.toyako.name=洞爺湖
 achievement.flammpfeil.slashblade.toyako=洞爺湖
@@ -452,7 +452,7 @@ achievement.flammpfeil.slashblade.orotiagito.desc=§8§l§o傳承了眾星之力
 achievement.flammpfeil.slashblade.yasha=夜叉
 achievement.flammpfeil.slashblade.yasha.desc=§8§l§o傳承了眾星之力的刀<br>本應是一把直刀
 achievement.flammpfeil.slashblade.yashatrue=「夜叉」鬼哭
-achievement.flammpfeil.slashblade.yashatrue.desc=§8§l§o傳承了眾星之力的刀<br>制作方式早已失傳<br>現收納在白鞘之中
+achievement.flammpfeil.slashblade.yashatrue.desc=§8§l§o傳承了眾星之力的刀<br>製作方式早已失傳<br>現收納在白鞘之中
 
 achievement.flammpfeil.slashblade.wrap.BambooMod.katana=利刀「無名」紅玉
 achievement.flammpfeil.slashblade.wrap.BambooMod.katana.desc=§8§l§o將刀收納在鞘裏所得之物<br>§8§l§o能力不減反增
@@ -462,12 +462,12 @@ achievement.flammpfeil.slashblade.fox.black=狐月刀「黒狐」
 achievement.flammpfeil.slashblade.fox.black.desc=§8§l§o寄宿這妖狐的力量<br>退魔平安的黑狐
 achievement.flammpfeil.slashblade.wrap.weaponmod.katana.wood=「擊柝」露台
 achievement.flammpfeil.slashblade.wrap.weaponmod.katana.wood.desc=§8§l§o堅木太刀
-achievement.flammpfeil.slashblade.wrap.weaponmod.katana.stone=「銳巖」露台
-achievement.flammpfeil.slashblade.wrap.weaponmod.katana.stone.desc=§8§l§o巖石太刀
+achievement.flammpfeil.slashblade.wrap.weaponmod.katana.stone=「銳岩」露台
+achievement.flammpfeil.slashblade.wrap.weaponmod.katana.stone.desc=§8§l§o岩石太刀
 achievement.flammpfeil.slashblade.wrap.weaponmod.katana.iron=利刀「鐵」露台
 achievement.flammpfeil.slashblade.wrap.weaponmod.katana.iron.desc=§8§l§o鐵之太刀
 achievement.flammpfeil.slashblade.wrap.weaponmod.katana.diamond=名刀「金剛」露台
-achievement.flammpfeil.slashblade.wrap.weaponmod.katana.diamond.desc=§8§l§o鉆石太刀
+achievement.flammpfeil.slashblade.wrap.weaponmod.katana.diamond.desc=§8§l§o鑽石太刀
 achievement.flammpfeil.slashblade.wrap.weaponmod.katana.gold=寶刀「山吹」露台
 achievement.flammpfeil.slashblade.wrap.weaponmod.katana.gold.desc=§8§l§o黃金太刀
 

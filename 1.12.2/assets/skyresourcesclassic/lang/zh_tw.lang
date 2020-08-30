@@ -1,11 +1,11 @@
 item.skyresourcesclassic.cactus_needle.name=仙人掌刺
 item.skyresourcesclassic.coal_alchemical.name=煉金術煤炭
 item.skyresourcesclassic.dust_alchemical.name=煉金術粉塵
-item.skyresourcesclassic.diamond_alchemical.name=煉金術鉆石
+item.skyresourcesclassic.diamond_alchemical.name=煉金術鑽石
 item.skyresourcesclassic.gold_ingot_alchemical.name=煉金術金錠
 item.skyresourcesclassic.gold_needle_alchemical.name=煉金術金針
-item.skyresourcesclassic.wood_heat_component.name=木制發熱組件
-item.skyresourcesclassic.iron_heat_component.name=鐵制發熱組件
+item.skyresourcesclassic.wood_heat_component.name=木製發熱組件
+item.skyresourcesclassic.iron_heat_component.name=鐵製發熱組件
 item.skyresourcesclassic.plant_matter.name=自然物質
 item.skyresourcesclassic.steel_power_component.name=高級能量組件
 item.skyresourcesclassic.frozen_iron_cooling_component.name=寒鐵冷卻組件
@@ -15,22 +15,22 @@ item.skyresourcesclassic.sawdust.name=鋸屑
 item.skyresourcesclassic.stone_crushed.name=粉碎的石頭
 item.skyresourcesclassic.radioactive_mix.name=放射性粉塵
 item.skyresourcesclassic.frozen_iron_ingot.name=寒鐵錠
-item.skyresourcesclassic.netherrack_crushed.name=粉碎的地獄巖
+item.skyresourcesclassic.netherrack_crushed.name=粉碎的地獄岩
 item.skyresourcesclassic.cactus_fruit.name=仙人掌果
 item.skyresourcesclassic.fleshy_snow_nugget.name=沾滿血肉的雪球
 item.skyresourcesclassic.cactus_cutting_knife.name=仙人掌切割小刀
-item.skyresourcesclassic.stone_cutting_knife.name=石制切割小刀
-item.skyresourcesclassic.iron_cutting_knife.name=鐵制切割小刀
-item.skyresourcesclassic.diamond_cutting_knife.name=鉆石切割小刀
+item.skyresourcesclassic.stone_cutting_knife.name=石製切割小刀
+item.skyresourcesclassic.iron_cutting_knife.name=鐵製切割小刀
+item.skyresourcesclassic.diamond_cutting_knife.name=鑽石切割小刀
 item.skyresourcesclassic.item_health_gem.name=生命寶石
 item.skyresourcesclassic.water_extractor.name=抽水器
-item.skyresourcesclassic.sandstone_infusion_stone.name=砂巖灌註石
-item.skyresourcesclassic.red_sandstone_infusion_stone.name=紅砂巖灌註石
-item.skyresourcesclassic.alchemical_infusion_stone.name=煉金灌註石
+item.skyresourcesclassic.sandstone_infusion_stone.name=砂岩灌注石
+item.skyresourcesclassic.red_sandstone_infusion_stone.name=紅砂岩灌注石
+item.skyresourcesclassic.alchemical_infusion_stone.name=煉金灌注石
 item.skyresourcesclassic.crystal_fluid_bucket.name=液態水晶桶
-item.skyresourcesclassic.stone_grinder.name=石制碎石杵
-item.skyresourcesclassic.iron_grinder.name=鐵制碎石杵
-item.skyresourcesclassic.diamond_grinder.name=鉆石碎石杵
+item.skyresourcesclassic.stone_grinder.name=石製碎石杵
+item.skyresourcesclassic.iron_grinder.name=鐵製碎石杵
+item.skyresourcesclassic.diamond_grinder.name=鑽石碎石杵
 item.skyresourcesclassic.heavy_snowball.name=重型雪球
 item.skyresourcesclassic.heavy_explosive_snowball.name=爆炸型重型雪球
 item.skyresourcesclassic.survivalist_fishing_rod.name=生存者釣竿
@@ -38,26 +38,26 @@ item.skyresourcesclassic.survivalist_fishing_rod.name=生存者釣竿
 tile.skyresourcesclassic.cactus_fruit_needle.name=紮在刺上的仙人掌果
 tile.skyresourcesclassic.compressed_coal_block.name=硬化煤炭塊
 tile.skyresourcesclassic.compressed_coal_block2.name=強化煤炭塊
-tile.skyresourcesclassic.compressedN_ntherrack.name=硬化地獄巖
-tile.skyresourcesclassic.sandy_netherrack.name=沙化地獄巖
+tile.skyresourcesclassic.compressedN_ntherrack.name=硬化地獄岩
+tile.skyresourcesclassic.sandy_netherrack.name=沙化地獄岩
 tile.skyresourcesclassic.dark_matter_block.name=暗物質塊
 tile.skyresourcesclassic.coal_infused_block.name=煉金術煤炭塊
 tile.skyresourcesclassic.dry_cactus.name=脫水仙人掌
-tile.skyresourcesclassic.wooden_combustion_heater.name=木制氧化加熱器
-tile.skyresourcesclassic.iron_combustion_heater.name=鐵制氧化加熱器
+tile.skyresourcesclassic.wooden_combustion_heater.name=木製氧化加熱器
+tile.skyresourcesclassic.iron_combustion_heater.name=鐵製氧化加熱器
 tile.skyresourcesclassic.steel_combustion_heater.name=高級氧化加熱器
 tile.skyresourcesclassic.dm_combustion_heater.name=暗物質氧化加熱器
-tile.skyresourcesclassic.stone_condenser.name=石制煉金術冷凝器
-tile.skyresourcesclassic.iron_condenser.name=鐵制煉金術冷凝器
+tile.skyresourcesclassic.stone_condenser.name=石製煉金術冷凝器
+tile.skyresourcesclassic.iron_condenser.name=鐵製煉金術冷凝器
 tile.skyresourcesclassic.steel_condenser.name=高級煉金術冷凝器
 tile.skyresourcesclassic.dm_condenser.name=暗物質煉金術冷凝器
-tile.skyresourcesclassic.stone_crystallizer.name=石制結晶器
-tile.skyresourcesclassic.iron_crystallizer.name=鐵制結晶器
+tile.skyresourcesclassic.stone_crystallizer.name=石製結晶器
+tile.skyresourcesclassic.iron_crystallizer.name=鐵製結晶器
 tile.skyresourcesclassic.steel_crystallizer.name=高級結晶器
 tile.skyresourcesclassic.dm_crystallizer.name=暗物質結晶器
 tile.skyresourcesclassic.blaze_powder_block.name=烈焰粉塊
 tile.skyresourcesclassic.crucible.name=坩堝
-tile.skyresourcesclassic.fluid_dropper.name=液體漏鬥
+tile.skyresourcesclassic.fluid_dropper.name=液體漏斗
 tile.skyresourcesclassic.concentrator.name=濃縮機
 tile.skyresourcesclassic.purification_vessel.name=凈化器
 tile.skyresourcesclassic.mini_freezer.name=迷你冰箱
@@ -66,19 +66,19 @@ tile.skyresourcesclassic.heavy_snow.name=重型雪
 tile.skyresourcesclassic.heavy_snow2.name=超重型雪
 tile.skyresourcesclassic.dirt_furnace.name=泥土熔爐
 tile.skyresourcesclassic.bee_attractor.name=蜜蜂吸引器
-tile.skyresourcesclassic.wooden_heater.name=木制供熱器
-tile.skyresourcesclassic.iron_heater.name=鐵制供熱器
+tile.skyresourcesclassic.wooden_heater.name=木製供熱器
+tile.skyresourcesclassic.iron_heater.name=鐵製供熱器
 tile.skyresourcesclassic.steel_heater.name=高級供熱器
 tile.skyresourcesclassic.dm_heater.name=暗物質供熱器
 tile.skyresourcesclassic.dark_matter_warper.name=暗物質生物變異機
-tile.skyresourcesclassic.end_portal_core.name=末地傳送門核心
-tile.skyresourcesclassic.life_infuser.name=生命灌註核心
+tile.skyresourcesclassic.end_portal_core.name=終界傳送門核心
+tile.skyresourcesclassic.life_infuser.name=生命灌注核心
 tile.skyresourcesclassic.life_injector.name=生命汲取器
 tile.skyresourcesclassic.crucible_inserter.name=坩堝供料器
 tile.skyresourcesclassic.rock_crusher.name=碎石機
 tile.skyresourcesclassic.rock_cleaner.name=洗礦機
 tile.skyresourcesclassic.combustion_collector.name=氧化產物收集器
-tile.skyresourcesclassic.quick_dropper.name=極速漏鬥
+tile.skyresourcesclassic.quick_dropper.name=極速漏斗
 tile.skyresourcesclassic.aqueous_concentrator.name=自動註水器
 tile.skyresourcesclassic.aqueous_deconcentrator.name=自動抽水器
 tile.skyresourcesclassic.wildlife_attractor.name=野生動物吸引裝置
@@ -111,11 +111,11 @@ tile.skyresourcesclassic.draconium_molten_crystal_fluid_block.name=熔融龍煉�
 
 jei.skyresourcesclassic.recipe.healthNeeded=所需熱量:
 jei.skyresourcesclassic.recipe.rightClickOn=右擊
-jei.skyresourcesclassic.recipe.infusion=生命灌註
+jei.skyresourcesclassic.recipe.infusion=生命灌注
 jei.skyresourcesclassic.recipe.combustion=燃燒
 jei.skyresourcesclassic.recipe.rockgrinder=碎石杵
 jei.skyresourcesclassic.recipe.crucible=坩堝
-jei.skyresourcesclassic.recipe.concentrator=註入器
+jei.skyresourcesclassic.recipe.concentrator=注入器
 jei.skyresourcesclassic.recipe.condenser=冷凝器
 jei.skyresourcesclassic.recipe.purificationVessel=凈化容器
 jei.skyresourcesclassic.recipe.freezer=冰箱
@@ -126,18 +126,18 @@ jei.skyresourcesclassic.recipe.waterextractor=抽水器
 jei.skyresourcesclassic.recipe.knife=切割小刀
 
 container.skyresourcesclassic.combustion_heater=燃燒點火器
-container.skyresourcesclassic.concentrator=註入器
+container.skyresourcesclassic.concentrator=注入器
 container.skyresourcesclassic.crucible_inserter=坩堝供料器
 container.skyresourcesclassic.freezer=冰箱
 container.skyresourcesclassic.bee_attractor=蜜蜂吸引裝置
 container.skyresourcesclassic.dark_matter_warper=暗物質生物變異機
-container.skyresourcesclassic.end_portal_core=末地傳送門核心
-container.skyresourcesclassic.life_infuser=生命灌註器
+container.skyresourcesclassic.end_portal_core=終界傳送門核心
+container.skyresourcesclassic.life_infuser=生命灌注器
 container.skyresourcesclassic.life_injector=生命汲取器
 container.skyresourcesclassic.rock_crusher=碎石機
 container.skyresourcesclassic.rock_cleaner=洗礦機
 container.skyresourcesclassic.combustion_collector=氧化產物收集器
-container.skyresourcesclassic.quick_dropper=快速漏鬥
+container.skyresourcesclassic.quick_dropper=快速漏斗
 container.skyresourcesclassic.aqueous_concentrator=註水器
 container.skyresourcesclassic.wildlife_attractor=野生動物吸引裝置
 container.skyresourcesclassic.heater=供熱器
@@ -169,7 +169,7 @@ item.skyresourcesclassic.boron_crystal.name=硼煉金術結晶碎片
 item.skyresourcesclassic.mithril_crystal.name=秘銀煉金術結晶碎片
 
 item.skyresourcesclassic.dirty_emerald.name=汙濁的綠寶石
-item.skyresourcesclassic.dirty_diamond.name=汙濁的鉆石
+item.skyresourcesclassic.dirty_diamond.name=汙濁的鑽石
 item.skyresourcesclassic.dirty_ruby.name=汙濁的紅寶石
 item.skyresourcesclassic.dirty_peridot.name=汙濁的橄欖石
 item.skyresourcesclassic.dirty_sapphire.name=汙濁的藍寶石
@@ -204,9 +204,9 @@ item.skyresourcesclassic.dirty_alexandrite.name=汙濁的紫翠玉
 item.skyresourcesclassic.dirty_blueTopaz.name=汙濁的藍黃玉
 item.skyresourcesclassic.dirty_spinel.name=汙濁的尖晶石
 item.skyresourcesclassic.dirty_iolite.name=汙濁的堇青石
-item.skyresourcesclassic.dirty_blackDiamond.name=汙濁的黑鉆
+item.skyresourcesclassic.dirty_blackDiamond.name=汙濁的黑鑽
 item.skyresourcesclassic.dirty_chaos.name=汙濁的混沌精華
-item.skyresourcesclassic.dirty_enderEssence.name=汙濁的末影精華
+item.skyresourcesclassic.dirty_enderEssence.name=汙濁的終界精華
 item.skyresourcesclassic.dirty_dark.name=汙濁的暗黑寶石
 item.skyresourcesclassic.dirty_lapis.name=汙濁的青金石
 item.skyresourcesclassic.dirty_quartz.name=汙濁的石英
@@ -258,37 +258,37 @@ guide.skyresourcesclassic.stage1.basics.title=第 Ⅰ 階段：基礎
 guide.skyresourcesclassic.stage1.basics.text=歡迎來到天空資源:經典的世界 \n \n 請輸入 /island create (空島類型) 生成你自己的島嶼. \n  根據你選擇的島嶼的不同，你將會以不同方式來開始空島生存. \n <link,沙地島,minecraft:sand:1,sandIsland> \n <link,雪地島,minecraft:snow:0,snowIsland> \n <link,木頭島,minecraft:planks:5,woodIsland> \n <link,草地島,minecraft:grass:0,grassIsland> \n 如果你沒有JEI,我不知道你是如何合成的  \n 當然此篇指導中的指導不全是JEI可以顯示的,不然指導就沒有意義了
 
 guide.skyresourcesclassic.stage1.sandIsland.title=沙地島
-guide.skyresourcesclassic.stage1.sandIsland.text=為了開始沙島的生存,你需要一些 <recipe,,skyresourcesclassic:cactus_needle:0> . \n 如果你想要空島持續發展的話,你至少要留有一個仙人掌.然後使用  <recipe,,skyresourcesclassic:cactus_cutting_knife:0> , 獲取一些 <recipe,,skyresourcesclassic:cactus_fruit:0> , 一種含有高回覆度的果子 \n 一個 <recipe,,skyresourcesclassic:red_sandstone_infusion_stone:0> 或者 <recipe,,skyresourcesclassic:sandstone_infusion_stone:0> 可以用來 <link,生命灌註,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> . \n 通過使用 <link,生命灌註,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> ,你可以獲取 <recipe,,minecraft:cactus:0> .你也可以通過用 <recipe,,skyresourcesclassic:cactus_fruit_needle:0> 去獲得一個 <recipe,,minecraft:sapling:4> . 當然，也可以使用 <link,生命灌註,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> 獲取 <recipe,,minecraft:dirt:1> . 如果你發現你的生命值消耗的太快, 你可以采摘一些  <recipe,,skyresourcesclassic:cactus_needle:0> 並食用.
+guide.skyresourcesclassic.stage1.sandIsland.text=為了開始沙島的生存,你需要一些 <recipe,,skyresourcesclassic:cactus_needle:0> . \n 如果你想要空島持續發展的話,你至少要留有一個仙人掌.然後使用  <recipe,,skyresourcesclassic:cactus_cutting_knife:0> , 獲取一些 <recipe,,skyresourcesclassic:cactus_fruit:0> , 一種含有高回覆度的果子 \n 一個 <recipe,,skyresourcesclassic:red_sandstone_infusion_stone:0> 或者 <recipe,,skyresourcesclassic:sandstone_infusion_stone:0> 可以用來 <link,生命灌注,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> . \n 通過使用 <link,生命灌注,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> ,你可以獲取 <recipe,,minecraft:cactus:0> .你也可以通過用 <recipe,,skyresourcesclassic:cactus_fruit_needle:0> 去獲得一個 <recipe,,minecraft:sapling:4> . 當然，也可以使用 <link,生命灌注,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> 獲取 <recipe,,minecraft:dirt:1> . 如果你發現你的生命值消耗的太快, 你可以采摘一些  <recipe,,skyresourcesclassic:cactus_needle:0> 並食用.
 
-guide.skyresourcesclassic.stage1.lifeInfusion.title=生命灌註
-guide.skyresourcesclassic.stage1.lifeInfusion.text=為了開始生命灌註,你必須去了解一些東西 \n 首先,你需要一塊灌註石,mod中含有以下三種默認灌註石頭 \n <recipe,,skyresourcesclassic:red_sandstone_infusion_stone:0> <recipe,,skyresourcesclassic:sandstone_infusion_stone:0> <recipe,,skyresourcesclassic:alchemical_infusion_stone:0> \n 接著,查看JEI的合成配方,將制作材料放在副手欄 (帶有盾牌圖標的物品欄) \n 將灌註石放在主手然後右鍵你需要灌註的方塊,然後你就可以得到你要制作的東西了. \n \n 灌註石的使用方法就像使用骨粉一樣,不過會使你扣血. \n 生命灌註是可以自動化的不過你需要 <link,生命灌註器,skyresourcesclassic:life_infuser:0,life_infuser> .
+guide.skyresourcesclassic.stage1.lifeInfusion.title=生命灌注
+guide.skyresourcesclassic.stage1.lifeInfusion.text=為了開始生命灌注,你必須去了解一些東西 \n 首先,你需要一塊灌注石,mod中含有以下三種預設灌注石頭 \n <recipe,,skyresourcesclassic:red_sandstone_infusion_stone:0> <recipe,,skyresourcesclassic:sandstone_infusion_stone:0> <recipe,,skyresourcesclassic:alchemical_infusion_stone:0> \n 接著,查看JEI的合成配方,將製作材料放在副手欄 (帶有盾牌圖標的物品欄) \n 將灌注石放在主手然後右鍵你需要灌注的方塊,然後你就可以得到你要製作的東西了. \n \n 灌注石的使用方法就像使用骨粉一樣,不過會使你扣血. \n 生命灌注是可以自動化的不過你需要 <link,生命灌注器,skyresourcesclassic:life_infuser:0,life_infuser> .
 
 guide.skyresourcesclassic.stage1.snowIsland.title=雪地島
-guide.skyresourcesclassic.stage1.snowIsland.text=為了開始雪地島的生存,你需要一些 <recipe,,minecraft:snowball:0> 和一個 <recipe,,minecraft:pumpkin:0> . \n 為了便捷的得到 <recipe,,minecraft:snowball:0> , 你可以按住shift+右鍵雪來獲取, 不要使用第二個南瓜因為之後會用到. \n 制作一個雪傀儡並且確保他不會掉虛空或者死亡. 以此來獲取更多的雪球. \n 接著,你需要制作 <link,迷你冰箱,skyresourcesclassic:mini_freezer:0,miniFreezer> , 一種可以用來制作 <recipe,,skyresourcesclassic:heavy_snowball:0> 的裝置. \n  <recipe,,skyresourcesclassic:heavy_snowball:0> 和 <recipe,,skyresourcesclassic:heavy_explosive_snowball:0> 可以造成巨大的傷害. \n 制作一個用雪塊或者 <recipe,,skyresourcesclassic:heavy_snow:0> 搭建的刷怪場來獲取腐肉和骨頭. \n <recipe,,skyresourcesclassic:fleshy_snow_nugget:0> 可以用來制造食物. \n 刷怪場可以用來制造 <recipe,,skyresourcesclassic:heavy_snow2:0> , 這種東西可以用來合成 <recipe,,minecraft:dirt:1> . \n 然後 <recipe,,minecraft:dirt:1> 和南瓜種子可以用來制造 <recipe,,minecraft:sapling:1> .
+guide.skyresourcesclassic.stage1.snowIsland.text=為了開始雪地島的生存,你需要一些 <recipe,,minecraft:snowball:0> 和一個 <recipe,,minecraft:pumpkin:0> . \n 為了便捷的得到 <recipe,,minecraft:snowball:0> , 你可以按住shift+右鍵雪來獲取, 不要使用第二個南瓜因為之後會用到. \n 製作一個雪傀儡並且確保他不會掉虛空或者死亡. 以此來獲取更多的雪球. \n 接著,你需要製作 <link,迷你冰箱,skyresourcesclassic:mini_freezer:0,miniFreezer> , 一種可以用來製作 <recipe,,skyresourcesclassic:heavy_snowball:0> 的裝置. \n  <recipe,,skyresourcesclassic:heavy_snowball:0> 和 <recipe,,skyresourcesclassic:heavy_explosive_snowball:0> 可以造成巨大的傷害. \n 製作一個用雪塊或者 <recipe,,skyresourcesclassic:heavy_snow:0> 搭建的刷怪場來獲取腐肉和骨頭. \n <recipe,,skyresourcesclassic:fleshy_snow_nugget:0> 可以用來製造食物. \n 刷怪場可以用來製造 <recipe,,skyresourcesclassic:heavy_snow2:0> , 這種東西可以用來合成 <recipe,,minecraft:dirt:1> . \n 然後 <recipe,,minecraft:dirt:1> 和南瓜種子可以用來製造 <recipe,,minecraft:sapling:1> .
 
 guide.skyresourcesclassic.stage1.miniFreezer.title=迷你冰箱
 guide.skyresourcesclassic.stage1.miniFreezer.text= <recipe,,skyresourcesclassic:mini_freezer:0> 是最簡單的冰箱.  <link,鐵質冰箱,skyresourcesclassic:iron_freezer:0,ironFreezer> 是效率更高的冰箱. \n 迷你冰箱的生成速率相對於 <link,鐵質冰箱,skyresourcesclassic:iron_freezer:0,iron_freezer> 是0.25X. 1x速度在是jei中的正常速度. 迷你冰箱只能每次生成一種物品
 
 guide.skyresourcesclassic.stage1.woodIsland.title=木頭島
-guide.skyresourcesclassic.stage1.woodIsland.text=為了開始木頭島的生存,你需要去制造一個 <recipe,,skyresourcesclassic:survivalist_fishing_rod:0> . \n 持續的釣魚知道你獲得一個 <recipe,,minecraft:dirt:0> 和一個 <recipe,,minecraft:sapling:0> 為止 (任意種類的樹苗都可以).
+guide.skyresourcesclassic.stage1.woodIsland.text=為了開始木頭島的生存,你需要去製造一個 <recipe,,skyresourcesclassic:survivalist_fishing_rod:0> . \n 持續的釣魚知道你獲得一個 <recipe,,minecraft:dirt:0> 和一個 <recipe,,minecraft:sapling:0> 為止 (任意種類的樹苗都可以).
 
 guide.skyresourcesclassic.stage1.grassIsland.title=草地島
 guide.skyresourcesclassic.stage1.grassIsland.text=草地島可以直接掉過第 Ⅰ 階段, 直接開始第 Ⅱ 階段. \n 因為草地島已經帶有了泥土和樹木
 
 guide.skyresourcesclassic.stage2.combustionHeater.title=氧化加熱器
-guide.skyresourcesclassic.stage2.combustionHeater.text=mod中含有以下四種氧化加熱器  <recipe,,skyresourcesclassic:wooden_combustion_heater:0> , <recipe,,skyresourcesclassic:iron_combustion_heater:0> ,  <recipe,,skyresourcesclassic:steel_combustion_heater:0> 和 <recipe,,skyresourcesclassic:dm_combustion_heater:0> 這些物品是氧化加熱裝置的核心部分 \n 氧化加熱裝置的多方塊結構可以在 <image,這裏顯示,skyresourcesclassic:wooden_combustion_heater:0,combustion> \n \n <recipe,,skyresourcesclassic:wooden_combustion_heater:0> \n 最高可以達到溫度 100 C. \n 超過此需求熱量的物品將不可制造 \n \n <recipe,,skyresourcesclassic:iron_combustion_heater:0> \n 最大溫度可達 1538 C. \n 超過此需求熱量的物品將不可制造 \n \n <recipe,,skyresourcesclassic:steel_combustion_heater:0> \n 最大溫度可達 2750 C. \n 需要FE能源來工作並且每tick需要800FE.空手有機裝置可以查看他的熱量和所含FE \n \n <recipe,,skyresourcesclassic:dm_combustion_heater:0> \n 最大溫度可達 6040 C. \n 需要FE能源來工作並且每tick需要1200FE.空手有機裝置可以查看他的熱量和所含FE \n \n \n 加熱器的制作步驟必須是 \n 將你的材料扔進裝置中 (註意: 並確保所要求的材料比值相同). \n 給加熱器提供燃料使他可以到達制作的溫度. \n 並且給予加熱器一個紅石信號 (Ex: 按鈕). \n 如果加熱器中發生了爆炸, 那麽就代表它已經工作一次了! \n \n \n 你可以通過使用 <recipe,,minecraft:dropper:0> , <link,極速漏鬥,skyresourcesclassic:quick_dropper:0,quick_dropper> , 和 <link,氧化產物收集器,skyresourcesclassic:combustion_collector:0,combustionCollector> 實現自動化.
+guide.skyresourcesclassic.stage2.combustionHeater.text=mod中含有以下四種氧化加熱器  <recipe,,skyresourcesclassic:wooden_combustion_heater:0> , <recipe,,skyresourcesclassic:iron_combustion_heater:0> ,  <recipe,,skyresourcesclassic:steel_combustion_heater:0> 和 <recipe,,skyresourcesclassic:dm_combustion_heater:0> 這些物品是氧化加熱裝置的核心部分 \n 氧化加熱裝置的多方塊結構可以在 <image,這裡顯示,skyresourcesclassic:wooden_combustion_heater:0,combustion> \n \n <recipe,,skyresourcesclassic:wooden_combustion_heater:0> \n 最高可以達到溫度 100 C. \n 超過此需求熱量的物品將不可製造 \n \n <recipe,,skyresourcesclassic:iron_combustion_heater:0> \n 最大溫度可達 1538 C. \n 超過此需求熱量的物品將不可製造 \n \n <recipe,,skyresourcesclassic:steel_combustion_heater:0> \n 最大溫度可達 2750 C. \n 需要FE能源來工作並且每tick需要800FE.空手有機裝置可以查看他的熱量和所含FE \n \n <recipe,,skyresourcesclassic:dm_combustion_heater:0> \n 最大溫度可達 6040 C. \n 需要FE能源來工作並且每tick需要1200FE.空手有機裝置可以查看他的熱量和所含FE \n \n \n 加熱器的製作步驟必須是 \n 將你的材料扔進裝置中 (注意: 並確保所要求的材料比值相同). \n 給加熱器提供燃料使他可以到達製作的溫度. \n 並且給予加熱器一個紅石信號 (Ex: 按鈕). \n 如果加熱器中發生了爆炸, 那麽就代表它已經工作一次了! \n \n \n 你可以通過使用 <recipe,,minecraft:dropper:0> , <link,極速漏斗,skyresourcesclassic:quick_dropper:0,quick_dropper> , 和 <link,氧化產物收集器,skyresourcesclassic:combustion_collector:0,combustionCollector> 實現自動化.
 
 guide.skyresourcesclassic.stage2.waterExtractor.title=抽水器
-guide.skyresourcesclassic.stage2.waterExtractor.text= <recipe,,skyresourcesclassic:water_extractor:0> 用於存儲，提取，放置和吸入水。他最大可以裝 4000mB 的水. \n 只需右鍵單擊一下，你就可以從3x3x3的範圍中吸出水. 它也可以吸收水流體方塊. \n 當你有了1000mb的水的時候，你可以shift+右鍵將水放出來 \n 將水註入方塊時，你必須保證你有足夠水並右鍵這個方塊. \n 所以的吸水和註入的配方都可以在JEI看到. 點擊這裏 <recipe,,skyresourcesclassic:water_extractor:0> 可以查看他的用途. \n 吸水器可以自動化，需要 <link,自動註水器和吸水器,skyresourcesclassic:aqueous_concentrator:0,aqueous> .
+guide.skyresourcesclassic.stage2.waterExtractor.text= <recipe,,skyresourcesclassic:water_extractor:0> 用於儲存，提取，放置和吸入水。他最大可以裝 4000mB 的水. \n 只需右鍵單擊一下，你就可以從3x3x3的範圍中吸出水. 它也可以吸收水流體方塊. \n 當你有了1000mb的水的時候，你可以shift+右鍵將水放出來 \n 將水注入方塊時，你必須保證你有足夠水並右鍵這個方塊. \n 所以的吸水和注入的配方都可以在JEI看到. 點擊這裡 <recipe,,skyresourcesclassic:water_extractor:0> 可以查看他的用途. \n 吸水器可以自動化，需要 <link,自動註水器和吸水器,skyresourcesclassic:aqueous_concentrator:0,aqueous> .
 
 guide.skyresourcesclassic.stage2.dirtFurnace.title=泥土熔爐
 guide.skyresourcesclassic.stage2.dirtFurnace.text= <recipe,,skyresourcesclassic:dirt_furnace:0> 可以用來在你沒有刷石機時來燒煉物品並利用它來獲得火把。
 
 guide.skyresourcesclassic.stage2.lavaBlaze.title=烈焰粉塊
-guide.skyresourcesclassic.stage2.lavaBlaze.text= <recipe,,skyresourcesclassic:blaze_powder_block:0> 是用來制造巖漿的. \n 為了得到巖漿，你要像 <image,這裏,skyresourcesclassic:blaze_powder_block:0,lava> 一樣將 <link,熱源,minecraft:torch:0,heatSources> 放置在下方  . \n 請註意此時你將可以造出你的第一台刷石機了. \n \n 巖漿也可以用來加熱 <link,坩堝,skyresourcesclassic:Crucible:0,crucible> .
+guide.skyresourcesclassic.stage2.lavaBlaze.text= <recipe,,skyresourcesclassic:blaze_powder_block:0> 是用來製造岩漿的. \n 為了得到岩漿，你要像 <image,這裡,skyresourcesclassic:blaze_powder_block:0,lava> 一樣將 <link,熱源,minecraft:torch:0,heatSources> 放置在下方  . \n 請注意此時你將可以造出你的第一台刷石機了. \n \n 岩漿也可以用來加熱 <link,坩堝,skyresourcesclassic:Crucible:0,crucible> .
 
-guide.skyresourcesclassic.stage2.lavaBlaze1.title=巖漿/烈焰粉塊
-guide.skyresourcesclassic.stage2.lavaBlaze1.text=巖漿可以通過將 <recipe,,skyresourcesclassic:blaze_powder_block:0> 投入 <link,坩堝,skyresourcesclassic:Crucible:0,crucible> 獲得.
+guide.skyresourcesclassic.stage2.lavaBlaze1.title=岩漿/烈焰粉塊
+guide.skyresourcesclassic.stage2.lavaBlaze1.text=岩漿可以通過將 <recipe,,skyresourcesclassic:blaze_powder_block:0> 投入 <link,坩堝,skyresourcesclassic:Crucible:0,crucible> 獲得.
 
 guide.skyresourcesclassic.stage2.heatSources.title=熱源
 guide.skyresourcesclassic.stage2.heatSources.text=熱源是用來加熱方塊的 \n 熱源必須放在這些加熱方塊的底部: \n <link,坩堝,skyresourcesclassic:crucible:0,crucible>  \n <link,煉金術冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> \n <link,烈焰粉塊,skyresourcesclassic:blaze_powder_block:0,lavaBlaze> \n 熱量越高的熱源會使這些機器工作的更快. \n \n 你可以在JEI中查找可用的熱源 \n 常見的熱源，比如 <recipe,,minecraft:torch:0> 和 <recipe,,minecraft:obsidian:0> .
@@ -297,101 +297,101 @@ guide.skyresourcesclassic.stage2.heatSources1.title=熱源
 guide.skyresourcesclassic.stage2.heatSources1.text=熱源是用來加熱方塊的 \n 熱源必須放在這些加熱方塊的底部: \n <link,坩堝,skyresourcesclassic:crucible:0,crucible>  \n <link,煉金術冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> \n <link,烈焰粉塊,skyresourcesclassic:blaze_powder_block:0,lavaBlaze> \n 熱量越高的熱源會使這些機器工作的更快. \n \n 你可以在JEI中查找可用的熱源 \n 常見的熱源，比如 <recipe,,minecraft:obsidian:0> 和 <recipe,,minecraft:magma:0> .
 
 guide.skyresourcesclassic.stage1.heatProvider.title=供熱器
-guide.skyresourcesclassic.stage1.heatProvider.text=供熱器可以像 <link,熱源,minecraft:torch:0,heatSources> 一樣供應熱量, 但他需要燃料和能量才能運轉. \n 這裏有供熱機的四種類型: \n \n <recipe,,skyresourcesclassic:wooden_heater:0> \n 使用燃燒的方式來供熱 \n 燃燒的持續時間和普通熔爐持續的時間一樣 \n 它可以提供5級的熱量 \n \n <recipe,,skyresourcesclassic:iron_heater:0> \n 使用燃燒的方式來供熱 \n 燃燒的持續時間是普通熔爐持續的時間的一半 \n 它可以達到10級的熱量 \n \n <recipe,,skyresourcesclassic:steel_heater:0> \n 使用RF為能量. \n 需要 120RF/t \n 可以到達30級的熱量 \n \n <recipe,,skyresourcesclassic:dm_heater:0> \n 使用RF為能量 \n 需要 480RF/t \n 可以到達 120級的熱量
+guide.skyresourcesclassic.stage1.heatProvider.text=供熱器可以像 <link,熱源,minecraft:torch:0,heatSources> 一樣供應熱量, 但他需要燃料和能量才能運轉. \n 這裡有供熱機的四種類型: \n \n <recipe,,skyresourcesclassic:wooden_heater:0> \n 使用燃燒的方式來供熱 \n 燃燒的持續時間和普通熔爐持續的時間一樣 \n 它可以提供5級的熱量 \n \n <recipe,,skyresourcesclassic:iron_heater:0> \n 使用燃燒的方式來供熱 \n 燃燒的持續時間是普通熔爐持續的時間的一半 \n 它可以達到10級的熱量 \n \n <recipe,,skyresourcesclassic:steel_heater:0> \n 使用RF為能量. \n 需要 120RF/t \n 可以到達30級的熱量 \n \n <recipe,,skyresourcesclassic:dm_heater:0> \n 使用RF為能量 \n 需要 480RF/t \n 可以到達 120級的熱量
 
 guide.skyresourcesclassic.stage2.rockGrinder.title=碎石杵
-guide.skyresourcesclassic.stage2.rockGrinder.text=碎石杵可以將圓石破碎成砂礫, 將砂礫破碎成沙子, 等等. \n 這裏有3種默認的碎石杵： <recipe,,skyresourcesclassic:stone_grinder:0> , <recipe,,skyresourcesclassic:iron_grinder:0> , 和 <recipe,,skyresourcesclassic:diamond_grinder:0> . \n 你可以使用 <link,碎石機,skyresourcesclassic:rock_crusher:0,rockCrusher> 來實現碎石自動化.
+guide.skyresourcesclassic.stage2.rockGrinder.text=碎石杵可以將圓石破碎成砂礫, 將砂礫破碎成沙子, 等等. \n 這裡有3種預設的碎石杵： <recipe,,skyresourcesclassic:stone_grinder:0> , <recipe,,skyresourcesclassic:iron_grinder:0> , 和 <recipe,,skyresourcesclassic:diamond_grinder:0> . \n 你可以使用 <link,碎石機,skyresourcesclassic:rock_crusher:0,rockCrusher> 來實現碎石自動化.
 
-guide.skyresourcesclassic.stage2.metalCreation.title=金屬制造
-guide.skyresourcesclassic.stage2.metalCreation.text=在開始金屬制造之後，你將會得到 <recipe,,skyresourcesclassic:iron_crystal:0> , 第一個可以制造的結晶, 需要使用 <link,氧化加熱器,skyresourcesclassic:wooden_combustion_heater:0,combustionHeater> 來加熱. \n 其次你需要這些方塊來搭建多方塊結構 : \n <link,坩堝,skyresourcesclassic:crucible:0,crucible> \n <link,流體漏鬥,skyresourcesclassic:fluid_dropper:0,fluidDropper> \n <link,煉金術冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> \n <link,結晶器,skyresourcesclassic:stone_crystallizer:0,crystallizer> . \n \n 對於早期的遊戲生存， 一個 <link,坩堝,skyresourcesclassic:crucible:0,crucible> , 2個 <link,流體漏鬥,skyresourcesclassic:fluid_dropper:0,fluidDropper> , 再加一個 <link,結晶器,skyresourcesclassic:stone_crystallizer:0,crystallizer> 或者一個 <link,冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> . \n <image,查看冷凝器的多方塊結構,skyresourcesclassic:stone_condenser:0,ingotSetup> \n <image,查看結晶器的多方塊結構,skyresourcesclassic:stone_crystallizer:0,crystalSetup> \n \n 註意：有些礦物結晶的生成不是使用 <link,煉金術冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> 來生成. 點擊這裏查看配方
+guide.skyresourcesclassic.stage2.metalCreation.title=金屬製造
+guide.skyresourcesclassic.stage2.metalCreation.text=在開始金屬製造之後，你將會得到 <recipe,,skyresourcesclassic:iron_crystal:0> , 第一個可以製造的結晶, 需要使用 <link,氧化加熱器,skyresourcesclassic:wooden_combustion_heater:0,combustionHeater> 來加熱. \n 其次你需要這些方塊來搭建多方塊結構 : \n <link,坩堝,skyresourcesclassic:crucible:0,crucible> \n <link,流體漏斗,skyresourcesclassic:fluid_dropper:0,fluidDropper> \n <link,煉金術冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> \n <link,結晶器,skyresourcesclassic:stone_crystallizer:0,crystallizer> . \n \n 對於早期的遊戲生存， 一個 <link,坩堝,skyresourcesclassic:crucible:0,crucible> , 2個 <link,流體漏斗,skyresourcesclassic:fluid_dropper:0,fluidDropper> , 再加一個 <link,結晶器,skyresourcesclassic:stone_crystallizer:0,crystallizer> 或者一個 <link,冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> . \n <image,查看冷凝器的多方塊結構,skyresourcesclassic:stone_condenser:0,ingotSetup> \n <image,查看結晶器的多方塊結構,skyresourcesclassic:stone_crystallizer:0,crystalSetup> \n \n 注意：有些礦物結晶的生成不是使用 <link,煉金術冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> 來生成. 點擊這裡查看配方
 
 guide.skyresourcesclassic.stage2.crucible.title=坩堝
 guide.skyresourcesclassic.stage2.crucible.text= <recipe,,skyresourcesclassic:crucible:0> 可以用來融化水晶碎片來生成液體 \n 它需要一個 <link,熱源,minecraft:torch:0,heatSources> 在底部. \n 然後將水晶扔進坩堝就會生成液體. \n 這些融化晶體液體可以使用 <link,煉金術冷凝器,skyresourcesclassic:stone_condenser:0,alchemicalCondenser> 來冷凝成金屬, 或者使用 <link,結晶器,skyresourcesclassic:stone_crystallizer:0,crystallizer> 來生成更多結晶. \n 這個融化的過程可以通過使用 <link,坩堝供料器,skyresourcesclassic:crucible_inserter:0,crucibleInserter> 來實現自動化.
 
-guide.skyresourcesclassic.stage2.fluidDropper.title=液體漏鬥
+guide.skyresourcesclassic.stage2.fluidDropper.title=液體漏斗
 guide.skyresourcesclassic.stage2.fluidDropper.text= <recipe,,skyresourcesclassic:fluid_dropper:0> 可以將液體從旁邊含有流體的方塊抽出,並將流體生成方塊底部. \n 這對於 <link,坩堝,skyresourcesclassic:crucible:0,crucible> 的自動化輸出很有用.
 
 guide.skyresourcesclassic.stage2.alchemicalCondenser.title=煉金術冷凝器
-guide.skyresourcesclassic.stage2.alchemicalCondenser.text=這裏有煉金術冷凝器默認的四種類型: <recipe,,skyresourcesclassic:stone_condenser:0> , <recipe,,skyresourcesclassic:iron_condenser:0> ,  <recipe,,skyresourcesclassic:steel_condenser:0> 和 <recipe,,skyresourcesclassic:dm_condenser:0> . \n 要啟動冷凝器需要上方有一個晶體流體且底部需要一個 <link,熱源,minecraft:torch:0,heatSources> . \n 你可以使用紅石實現冷凝器的開關 \n \n <recipe,,skyresourcesclassic:stone_condenser:0> \n 不可以冷凝融化的結晶流體（就是指除鐵以外都不能冷凝） \n 使用 1x 的速度來生成. \n \n <recipe,,skyresourcesclassic:iron_condenser:0> \n 可以冷凝融化的結晶流體. \n 使用 2x 的速度來生成. \n \n <recipe,,skyresourcesclassic:steel_condenser:0> \n 可以冷凝融化的結晶流體. \n 使用 3x 的速度來生成. \n \n <recipe,,skyresourcesclassic:dm_condenser:0> \n 可以冷凝融化的結晶流體. \n 使用 4x 的速度生成.
+guide.skyresourcesclassic.stage2.alchemicalCondenser.text=這裡有煉金術冷凝器預設的四種類型: <recipe,,skyresourcesclassic:stone_condenser:0> , <recipe,,skyresourcesclassic:iron_condenser:0> ,  <recipe,,skyresourcesclassic:steel_condenser:0> 和 <recipe,,skyresourcesclassic:dm_condenser:0> . \n 要啟動冷凝器需要上方有一個晶體流體且底部需要一個 <link,熱源,minecraft:torch:0,heatSources> . \n 你可以使用紅石實現冷凝器的開關 \n \n <recipe,,skyresourcesclassic:stone_condenser:0> \n 不可以冷凝融化的結晶流體（就是指除鐵以外都不能冷凝） \n 使用 1x 的速度來生成. \n \n <recipe,,skyresourcesclassic:iron_condenser:0> \n 可以冷凝融化的結晶流體. \n 使用 2x 的速度來生成. \n \n <recipe,,skyresourcesclassic:steel_condenser:0> \n 可以冷凝融化的結晶流體. \n 使用 3x 的速度來生成. \n \n <recipe,,skyresourcesclassic:dm_condenser:0> \n 可以冷凝融化的結晶流體. \n 使用 4x 的速度生成.
 
 guide.skyresourcesclassic.stage2.crystallizer.title=結晶器
-guide.skyresourcesclassic.stage2.crystallizer.text=這裏有結晶器器默認的四種類型: <recipe,,skyresourcesclassic:stone_crystallizer:0> , <recipe,,skyresourcesclassic:iron_crystallizer:0> ,  <recipe,,skyresourcesclassic:steel_crystallizer:0> 和 <recipe,,skyresourcesclassic:dm_crystallizer:0> . \n 在融化結晶流體的上方工作並結晶這些流體,會在周圍生成結晶或者儲存在附近的容器中\n 你可以使用紅石來開啟或者關閉冷凝器 \n 這些在結晶的融化結晶流體可能會消失,這取決於結晶器的效率和晶體的稀有性 \n 註意:  品質越低的金屬和級別越高的結晶器都會使你獲得更多的碎片，最終結晶器將會從一個流體方塊中獲得無限的碎片 \n \n <recipe,,skyresourcesclassic:stone_crystallizer:0> \n 不能結晶熔融的晶體液體（除鐵結晶外都不能）。 \n 並且以0.5x的速度運行。 \n 效率值為1 \n \n <recipe,,skyresourcesclassic:iron_crystallizer:0> \n 能結晶熔融的晶體液體 \n 並且以1x的速度運行. \n 效率值為1.5. \n \n <recipe,,skyresourcesclassic:steel_crystallizer:0> \n 能結晶熔融的晶體液體. \n 並且以2.5x的速度運行. \n 效率值為 2. \n \n <recipe,,skyresourcesclassic:dm_crystallizer:0> \n 能結晶熔融的晶體液體 \n 並且以4x的速度運行 \n 效率值為3
+guide.skyresourcesclassic.stage2.crystallizer.text=這裡有結晶器器預設的四種類型: <recipe,,skyresourcesclassic:stone_crystallizer:0> , <recipe,,skyresourcesclassic:iron_crystallizer:0> ,  <recipe,,skyresourcesclassic:steel_crystallizer:0> 和 <recipe,,skyresourcesclassic:dm_crystallizer:0> . \n 在融化結晶流體的上方工作並結晶這些流體,會在周圍生成結晶或者儲存在附近的容器中\n 你可以使用紅石來開啟或者關閉冷凝器 \n 這些在結晶的融化結晶流體可能會消失,這取決於結晶器的效率和晶體的稀有性 \n 注意:  品質越低的金屬和級別越高的結晶器都會使你獲得更多的碎片，最終結晶器將會從一個流體方塊中獲得無限的碎片 \n \n <recipe,,skyresourcesclassic:stone_crystallizer:0> \n 不能結晶熔融的晶體液體（除鐵結晶外都不能）。 \n 並且以0.5x的速度運行。 \n 效率值為1 \n \n <recipe,,skyresourcesclassic:iron_crystallizer:0> \n 能結晶熔融的晶體液體 \n 並且以1x的速度運行. \n 效率值為1.5. \n \n <recipe,,skyresourcesclassic:steel_crystallizer:0> \n 能結晶熔融的晶體液體. \n 並且以2.5x的速度運行. \n 效率值為 2. \n \n <recipe,,skyresourcesclassic:dm_crystallizer:0> \n 能結晶熔融的晶體液體 \n 並且以4x的速度運行 \n 效率值為3
 
 guide.skyresourcesclassic.stage2.crucibleInserter.title=坩堝投料器
-guide.skyresourcesclassic.stage2.crucibleInserter.text= <recipe,,skyresourcesclassic:crucible_inserter:0> 可以實現自動化將物品投入 <link,坩堝,skyresourcesclassic:crucible:0,crucible> . \n 物品同樣也可以通過管道,漏鬥等方式輸入坩堝.
+guide.skyresourcesclassic.stage2.crucibleInserter.text= <recipe,,skyresourcesclassic:crucible_inserter:0> 可以實現自動化將物品投入 <link,坩堝,skyresourcesclassic:crucible:0,crucible> . \n 物品同樣也可以通過管道,漏斗等方式輸入坩堝.
 
 guide.skyresourcesclassic.stage2.combustionCollector.title=氧化產物收集器
-guide.skyresourcesclassic.stage2.combustionCollector.text= <recipe,,skyresourcesclassic:combustion_collector:0> 用於自動化收集 <link,氧化加熱器,skyresourcesclassic:wooden_combustion_heater:0,combustionHeater> 的產物. \n 每次氧化加熱的產物都會自動送入 <recipe,,skyresourcesclassic:combustion_collector:0> 中, 這樣你就可以放心地一次進行多次加工而不用擔心產物會卡住加工過程了. \n \n 註意:這套機器對於 <recipe,,skyresourcesclassic:wooden_combustion_heater:0> 不適用.
+guide.skyresourcesclassic.stage2.combustionCollector.text= <recipe,,skyresourcesclassic:combustion_collector:0> 用於自動化收集 <link,氧化加熱器,skyresourcesclassic:wooden_combustion_heater:0,combustionHeater> 的產物. \n 每次氧化加熱的產物都會自動送入 <recipe,,skyresourcesclassic:combustion_collector:0> 中, 這樣你就可以放心地一次進行多次加工而不用擔心產物會卡住加工過程了. \n \n 注意:這套機器對於 <recipe,,skyresourcesclassic:wooden_combustion_heater:0> 不適用.
 
-guide.skyresourcesclassic.stage2.quickDropper.title=極速漏鬥
+guide.skyresourcesclassic.stage2.quickDropper.title=極速漏斗
 guide.skyresourcesclassic.stage2.quickDropper.text= <recipe,,skyresourcesclassic:quick_dropper:0> 可以在沒有紅石脈沖的情況下一次性丟棄一整組物品。 \n 當他收到紅石信號時將會停止丟棄物品. \n \n 這套機器無法實現對於 <recipe,,skyresourcesclassic:wooden_combustion_heater:0> 的自動化.
 
 guide.skyresourcesclassic.stage2.crushedStone.title=粉碎的石頭 (金屬粉生產)
 guide.skyresourcesclassic.stage2.crushedStone.text=金屬粉可以通過該過程來獲得. \n 首先，使用 <link,碎石杵,skyresourcesclassic:stone_grinder:0,rockGrinder> 破碎 <recipe,,minecraft:stone:0> 獲得 <recipe,,skyresourcesclassic:stone_crushed:0> 或者破碎  <recipe,,minecraft:netherrack:0> 獲得 <recipe,,skyresourcesclassic:netherrack_crushed:0> . \n 接著, 手持 <recipe,,minecraft:stone:0> 或者 <recipe,,skyresourcesclassic:netherrack_crushed:0> 右鍵含有水的 <recipe,,minecraft:cauldron:0>  來獲得礦物粉末. 如果這種金屬的粉末相應的礦物沒有在礦物詞典中註冊，則不能得到.金屬粉的掉落幾率基於相應礦物的稀有度. \n  <recipe,,minecraft:cauldron:0> 可以用 <link,洗礦機,skyresourcesclassic:rock_cleaner:0,rockCleaner> 實現自動化.
 
 guide.skyresourcesclassic.stage2.gemProduction.title=寶石生產
-guide.skyresourcesclassic.stage2.gemProduction.text=像鉆石,綠寶石等等物品可以通過此方式獲得. \n 首先,使用 <link,碎石杵,skyresourcesclassic:stone_grinder:0,rockGrinder> 破碎石頭來獲得像 <recipe,,skyresourcesclassic:dirty_emerald:0> 這樣的汙濁的寶石 . 這些汙濁的寶石將會以很低的概率掉落. \n 接著,手持這些汙濁的寶石右鍵含有水的 <recipe,,minecraft:cauldron:0> 來得到幹凈的寶石. 如果這些寶石相應的礦物沒有在礦物詞典中註冊，則不能得到. \n  <recipe,,minecraft:cauldron:0> 可以用 <link,洗礦機,skyresourcesclassic:rock_cleaner:0,rockCleaner> 實現自動化.
+guide.skyresourcesclassic.stage2.gemProduction.text=像鑽石,綠寶石等等物品可以通過此方式獲得. \n 首先,使用 <link,碎石杵,skyresourcesclassic:stone_grinder:0,rockGrinder> 破碎石頭來獲得像 <recipe,,skyresourcesclassic:dirty_emerald:0> 這樣的汙濁的寶石 . 這些汙濁的寶石將會以很低的概率掉落. \n 接著,手持這些汙濁的寶石右鍵含有水的 <recipe,,minecraft:cauldron:0> 來得到幹凈的寶石. 如果這些寶石相應的礦物沒有在礦物詞典中註冊，則不能得到. \n  <recipe,,minecraft:cauldron:0> 可以用 <link,洗礦機,skyresourcesclassic:rock_cleaner:0,rockCleaner> 實現自動化.
 
 guide.skyresources.stage2.wildlifeAttractor.title=野生動物吸引裝置
-guide.skyresources.stage2.wildlifeAttractor.text= <recipe,,skyresourcesclassic:wildlife_attractor:0> 將以每30秒大約1只動物的隨機幾率將動物吸引到該區塊的頂部。 \n 需要 40 RF/tick （默認配置下）， 20mB 的水/tick （默認配置下），並且每消耗 1 個 <recipe,,skyresourcesclassic:plant_matter:0> 可以使裝置工作 6 秒（默認配置下）。 \n 收到紅石信號後會停止工作。
+guide.skyresources.stage2.wildlifeAttractor.text= <recipe,,skyresourcesclassic:wildlife_attractor:0> 將以每30秒大約1只動物的隨機幾率將動物吸引到該區塊的頂部。 \n 需要 40 RF/tick （預設配置下）， 20mB 的水/tick （預設配置下），並且每消耗 1 個 <recipe,,skyresourcesclassic:plant_matter:0> 可以使裝置工作 6 秒（預設配置下）。 \n 收到紅石信號後會停止工作。
 
 guide.skyresourcesclassic.stage3.alchemicalItems.title=煉金術物品
-guide.skyresourcesclassic.stage3.alchemicalItems.text=目前有以下四種物品可以用於煉金術制造: \n <recipe,,skyresourcesclassic:diamond_alchemical:0> \n <recipe,,skyresourcesclassic:dust_alchemical:0> \n <recipe,,skyresourcesclassic:gold_ingot_alchemical:0> \n <recipe,,skyresourcesclassic:gold_needle_alchemical:0>
+guide.skyresourcesclassic.stage3.alchemicalItems.text=目前有以下四種物品可以用於煉金術製造: \n <recipe,,skyresourcesclassic:diamond_alchemical:0> \n <recipe,,skyresourcesclassic:dust_alchemical:0> \n <recipe,,skyresourcesclassic:gold_ingot_alchemical:0> \n <recipe,,skyresourcesclassic:gold_needle_alchemical:0>
 
 guide.skyresourcesclassic.stage3.ironFreezer.title=鐵質冰箱
-guide.skyresourcesclassic.stage3.ironFreezer.text= <recipe,,skyresourcesclassic:iron_freezer:0> 是更加強力的冰箱. \n 當你想搭建 <recipe,,skyresourcesclassic:iron_freezer:0> 的時候,需要兩格冰箱像 <image,這裏,skyresourcesclassic:iron_freezer:0,ironFreezer> 一樣疊放才是一個完整的冰箱. \n 這種冰箱將會以1x 的速度生成物品,並且可以每次冰凍三種物品.
+guide.skyresourcesclassic.stage3.ironFreezer.text= <recipe,,skyresourcesclassic:iron_freezer:0> 是更加強力的冰箱. \n 當你想搭建 <recipe,,skyresourcesclassic:iron_freezer:0> 的時候,需要兩格冰箱像 <image,這裡,skyresourcesclassic:iron_freezer:0,ironFreezer> 一樣疊放才是一個完整的冰箱. \n 這種冰箱將會以1x 的速度生成物品,並且可以每次冰凍三種物品.
 
 guide.skyresourcesclassic.stage3.rockCrusher.title=碎石機
-guide.skyresourcesclassic.stage3.rockCrusher.text= <recipe,,skyresourcesclassic:rock_crusher:0> 可以實現 <link,碎石杵,skyresourcesclassic:stone_grinder:0,rockGrinder> 的自動化. \n 它需要 80 RF/tick （默認配置下）. \n 需要一把 <link,碎石杵,skyresourcesclassic:stone_grinder:0,rockGrinder> 才能工作
+guide.skyresourcesclassic.stage3.rockCrusher.text= <recipe,,skyresourcesclassic:rock_crusher:0> 可以實現 <link,碎石杵,skyresourcesclassic:stone_grinder:0,rockGrinder> 的自動化. \n 它需要 80 RF/tick （預設配置下）. \n 需要一把 <link,碎石杵,skyresourcesclassic:stone_grinder:0,rockGrinder> 才能工作
 
 guide.skyresourcesclassic.stage3.rockCleaner.title=洗礦機
-guide.skyresourcesclassic.stage3.rockCleaner.text= <recipe,,skyresourcesclassic:rock_cleaner:0> 可以實現 <recipe,,minecraft:cauldron:0> 的自動化. \n它需要 80 RF/tick （默認配置下）. \n 每次運轉需要250mb的水.
+guide.skyresourcesclassic.stage3.rockCleaner.text= <recipe,,skyresourcesclassic:rock_cleaner:0> 可以實現 <recipe,,minecraft:cauldron:0> 的自動化. \n它需要 80 RF/tick （預設配置下）. \n 每次運轉需要250mb的水.
 
 guide.skyresourcesclassic.stage3.aqueous.title=自動註水機/自動吸水機
-guide.skyresourcesclassic.stage3.aqueous.text= <recipe,,skyresourcesclassic:aqueous_concentrator:0> 和 <recipe,,skyresourcesclassic:aqueous_deconcentrator:0> 可以實現 <link,抽水器,skyresourcesclassic:water_extractor:0,waterExtractor> 的自動化,使吸水和註水更加簡單 \n 需要 80 RF/tick（默認配置下）.
+guide.skyresourcesclassic.stage3.aqueous.text= <recipe,,skyresourcesclassic:aqueous_concentrator:0> 和 <recipe,,skyresourcesclassic:aqueous_deconcentrator:0> 可以實現 <link,抽水器,skyresourcesclassic:water_extractor:0,waterExtractor> 的自動化,使吸水和註水更加簡單 \n 需要 80 RF/tick（預設配置下）.
 
 guide.skyresourcesclassic.misc.nether.title=地獄空島
-guide.skyresourcesclassic.misc.nether.text=所有地獄可以獲得資源主世界都有方式獲得. \n 地獄的礦石通過 <link,金屬制造,skyresourcesclassic:stone_condenser:0,metalCreation> 的過程獲得. \n 地獄中生成的怪物也可以自然生成，或者是使用 <link,暗物質生物變異機,skyresourcesclassic:dark_matter_warper:0,dmWarper> 轉換獲得.
+guide.skyresourcesclassic.misc.nether.text=所有地獄可以獲得資源主世界都有方式獲得. \n 地獄的礦石通過 <link,金屬製造,skyresourcesclassic:stone_condenser:0,metalCreation> 的過程獲得. \n 地獄中生成的怪物也可以自然生成，或者是使用 <link,暗物質生物變異機,skyresourcesclassic:dark_matter_warper:0,dmWarper> 轉換獲得.
 
 guide.skyresourcesclassic.stage3.dmWarper.title=暗物質生物變異機
-guide.skyresourcesclassic.stage3.dmWarper.text= <recipe,,skyresourcesclassic:dark_matter_warper:0> 可以用來生成一些稀有的怪物.  \n 它需要消耗 <recipe,,skyresourcesclassic:dark_matter:0> 來運轉 (默認配置下每6分鐘消耗一個暗物質) 然後會在 <recipe,,skyresourcesclassic:dark_matter_warper:0> 的附近8x8x8的空間內改變怪物的種類. \n 它可以將骷髏變成雕零骷髏, 墨魚變成烈焰人, 蜘蛛變成洞穴蜘蛛, 同時會使得玩家和動物扣血.
+guide.skyresourcesclassic.stage3.dmWarper.text= <recipe,,skyresourcesclassic:dark_matter_warper:0> 可以用來生成一些稀有的怪物.  \n 它需要消耗 <recipe,,skyresourcesclassic:dark_matter:0> 來運轉 (預設配置下每6分鐘消耗一個暗物質) 然後會在 <recipe,,skyresourcesclassic:dark_matter_warper:0> 的附近8x8x8的空間內改變怪物的種類. \n 它可以將骷髏變成凋零骷髏, 墨魚變成烈焰人, 蜘蛛變成洞穴蜘蛛, 同時會使得玩家和動物扣血.
 
-guide.skyresourcesclassic.stage3.end.title=末地
-guide.skyresourcesclassic.stage3.end.text=末地傳送門的搭建需要一個多方塊結構. 這個結構需要: \n 1 <recipe,,skyresourcesclassic:end_portal_core:0> \n 4 <recipe,,minecraft:diamond_block:0> \n 4 <recipe,,minecraft:gold_block:0> \n 16 <recipe,,skyresourcesclassic:dark_matter_block:0> \n 8 <recipe,,minecraft:end_bricks:0> \n 4 <recipe,,minecraft:glowstone:0> \n \n <image,多方塊結構搭建,skyresourcesclassic:end_portal_core:0,end> \n 在使用這個末地門時,需要站在核心上,並且右鍵核心上的按鈕,每次 <recipe,,skyresourcesclassic:end_portal_core:0> 工作時都會消耗 16個 <recipe,,minecraft:ender_eye:0> . \n \n *gl A ilfsiesrvh waenrsp si itaecv nda reyv edsroanug ehwn eht urturscte is valdi! *nl
+guide.skyresourcesclassic.stage3.end.title=終界
+guide.skyresourcesclassic.stage3.end.text=終界傳送門的搭建需要一個多方塊結構. 這個結構需要: \n 1 <recipe,,skyresourcesclassic:end_portal_core:0> \n 4 <recipe,,minecraft:diamond_block:0> \n 4 <recipe,,minecraft:gold_block:0> \n 16 <recipe,,skyresourcesclassic:dark_matter_block:0> \n 8 <recipe,,minecraft:end_bricks:0> \n 4 <recipe,,minecraft:glowstone:0> \n \n <image,多方塊結構搭建,skyresourcesclassic:end_portal_core:0,end> \n 在使用這個終界門時,需要站在核心上,並且右鍵核心上的按鈕,每次 <recipe,,skyresourcesclassic:end_portal_core:0> 工作時都會消耗 16個 <recipe,,minecraft:ender_eye:0> . \n \n *gl A ilfsiesrvh waenrsp si itaecv nda reyv edsroanug ehwn eht urturscte is valdi! *nl
 
 guide.skyresourcesclassic.stage3.healthGem.title=生命寶石
-guide.skyresourcesclassic.stage3.healthGem.text= <recipe,,skyresourcesclassic:item_health_gem:0> 可以用來提高你的最大生命值，並且還可以存儲生命值用於 <link,生命灌註器,skyresourcesclassic:life_infuser:0,lifeInfuser> . \n 按住Shift鍵右擊即可向其中註入2點生命值（1顆心）. 沒註入50點的生命值你將會得到額外的一顆心(在默認配置下).
+guide.skyresourcesclassic.stage3.healthGem.text= <recipe,,skyresourcesclassic:item_health_gem:0> 可以用來提高你的最大生命值，並且還可以儲存生命值用於 <link,生命灌注器,skyresourcesclassic:life_infuser:0,lifeInfuser> . \n 按住Shift鍵右擊即可向其中注入2點生命值（1顆心）. 沒注入50點的生命值你將會得到額外的一顆心(在預設配置下).
 
-guide.skyresourcesclassic.stage3.lifeInfuser.title=生命灌註器
-guide.skyresourcesclassic.stage3.lifeInfuser.text= <recipe,,skyresourcesclassic:life_infuser:0> 可以用來實現 <link,生命灌註,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> 的自動化. \n 生命灌註器為一個多方塊結構。它需要如下材料： \n 1個 <recipe,,skyresourcesclassic:life_infuser:0> \n 8個 <recipe,,minecraft:log:0> (任意種類的木頭皆可) \n 8個 <recipe,,minecraft:leaves:0> (任意種類的樹葉皆可) \n 1個 <recipe,,skyresourcesclassic:dark_matter_block:0> \n \n <image,多方塊結構搭建,skyresourcesclassic:life_infuser:0,infuser> \n 要使用生命灌註器，需要將生命寶石放在右側的槽中，將要加工的物品放在左側的槽中, 將要進行 \n 生命灌註的方塊放在核心下方，然後給予核心一個紅石信號（建議按照圖示中的擺法通過 <recipe,,skyresources:DarkMatterBlock:0> 來給予紅石信號）。\n 請確保 <link,生命寶石,skyresourcesclassic:item_health_gem:0,healthGem> 中有足夠的生命值來完成灌註.
+guide.skyresourcesclassic.stage3.lifeInfuser.title=生命灌注器
+guide.skyresourcesclassic.stage3.lifeInfuser.text= <recipe,,skyresourcesclassic:life_infuser:0> 可以用來實現 <link,生命灌注,skyresourcesclassic:alchemical_infusion_stone:0,lifeInfusion> 的自動化. \n 生命灌注器為一個多方塊結構。它需要如下材料： \n 1個 <recipe,,skyresourcesclassic:life_infuser:0> \n 8個 <recipe,,minecraft:log:0> (任意種類的木頭皆可) \n 8個 <recipe,,minecraft:leaves:0> (任意種類的樹葉皆可) \n 1個 <recipe,,skyresourcesclassic:dark_matter_block:0> \n \n <image,多方塊結構搭建,skyresourcesclassic:life_infuser:0,infuser> \n 要使用生命灌注器，需要將生命寶石放在右側的槽中，將要加工的物品放在左側的槽中, 將要進行 \n 生命灌注的方塊放在核心下方，然後給予核心一個紅石信號（建議按照圖示中的擺法通過 <recipe,,skyresources:DarkMatterBlock:0> 來給予紅石信號）。\n 請確保 <link,生命寶石,skyresourcesclassic:item_health_gem:0,healthGem> 中有足夠的生命值來完成灌注.
 
-guide.skyresourcesclassic.misc.armorplus.title=Armor Plus 相關兼容
-guide.skyresourcesclassic.misc.armorplus.text=默認情況下， Sky Resources classic 提供了獲得 <recipe,,armorplus:lava_crystal:0> 的方法。
+guide.skyresourcesclassic.misc.armorplus.title=Armor Plus 相關相容
+guide.skyresourcesclassic.misc.armorplus.text=預設情況下， Sky Resources classic 提供了獲得 <recipe,,armorplus:lava_crystal:0> 的方法。
 
-guide.skyresourcesclassic.misc.enderio.title=Ender IO 相關兼容
+guide.skyresourcesclassic.misc.enderio.title=Ender IO 相關相容
 guide.skyresourcesclassic.misc.enderio.text=Sky Resources classic 提供了獲得 <recipe,,enderio:itemBrokenSpawner:0> 的方法。
 
-guide.skyresourcesclassic.misc.forestry.title=Forestry 相關兼容
-guide.skyresourcesclassic.misc.forestry.text=默認情況下，提供了獲得 <recipe,,forestry:bee_princess_ge:0> 和 <recipe,,forestry:bee_drone_ge:0> 的方法。 \n 為此你需要制作一個 <recipe,,skyresourcesclassic:bee_attractor:0> 。 \n <recipe,,skyresources:beeattractor:0> 需要 100 RF/tick （默認情況下）以及 <recipe,,forestry:fluid.seed.oil:0> 。 \n 每tick都有一定幾率吸引一個 <recipe,,forestry:bee_princess_ge:0> 或者 <recipe,,forestry:bee_drone_ge:0> 進入到 <recipe,,skyresourcesclassic:bee_attractor:0> 中。 \n 收到紅石信號後會停止工作。 \n 能吸引到的基礎蜜蜂種類取決於生物群系，與蜂巢相似。不過你也有很小的幾率得到其他生物群系 \n 出產的蜜蜂。 \n 要註意， <recipe,,forestry:bee_princess_ge:0> 比 <recipe,,forestry:bee_drone_ge:0> 更稀有。
+guide.skyresourcesclassic.misc.forestry.title=Forestry 相關相容
+guide.skyresourcesclassic.misc.forestry.text=預設情況下，提供了獲得 <recipe,,forestry:bee_princess_ge:0> 和 <recipe,,forestry:bee_drone_ge:0> 的方法。 \n 為此你需要製作一個 <recipe,,skyresourcesclassic:bee_attractor:0> 。 \n <recipe,,skyresources:beeattractor:0> 需要 100 RF/tick （預設情況下）以及 <recipe,,forestry:fluid.seed.oil:0> 。 \n 每tick都有一定幾率吸引一個 <recipe,,forestry:bee_princess_ge:0> 或者 <recipe,,forestry:bee_drone_ge:0> 進入到 <recipe,,skyresourcesclassic:bee_attractor:0> 中。 \n 收到紅石信號後會停止工作。 \n 能吸引到的基礎蜜蜂種類取決於生物群系，與蜂巢相似。不過你也有很小的幾率得到其他生物群系 \n 出產的蜜蜂。 \n 要注意， <recipe,,forestry:bee_princess_ge:0> 比 <recipe,,forestry:bee_drone_ge:0> 更稀有。
 
-guide.skyresourcesclassic.misc.integdyn.title=Integrated Dynamics 相關兼容
+guide.skyresourcesclassic.misc.integdyn.title=Integrated Dynamics 相關相容
 guide.skyresourcesclassic.misc.integdyn.text=Sky Resources classic  提供了獲得 Integrated Dynamics 的物品的方法。 \n \n <recipe,,integrateddynamics:menril_berries:0> 與 <recipe,,integrateddynamics:menril_sapling:0> 都可以通過其他方式獲得。
 
-guide.skyresourcesclassic.misc.extremereactors.title=Extreme Reactors 相關兼容
-guide.skyresourcesclassic.misc.extremereactors.text=默認情況下，Sky Resources classic 提供了獲得 Extreme Reactors 的物品的方法。 \n \n <recipe,,bigreactors:dustmetals:0> 可以通過其他方式獲得。
+guide.skyresourcesclassic.misc.extremereactors.title=Extreme Reactors 相關相容
+guide.skyresourcesclassic.misc.extremereactors.text=預設情況下，Sky Resources classic 提供了獲得 Extreme Reactors 的物品的方法。 \n \n <recipe,,bigreactors:dustmetals:0> 可以通過其他方式獲得。
 
-guide.skyresourcesclassic.misc.tinkers.title=Tinkers Construct 相關兼容
-guide.skyresourcesclassic.misc.tinkers.text=默認情況下，Sky Resources classic  提供了獲得 Tinker's Construct 的史萊姆相關物品的方法。 \n \n 所有種類的 <recipe,,tconstruct:edible:1> , <recipe,,tconstruct:slime_sapling:0> 以及 <recipe,,tconstruct:slime_dirt:0> 都可以通過其他方式獲得。
+guide.skyresourcesclassic.misc.tinkers.title=Tinkers Construct 相關相容
+guide.skyresourcesclassic.misc.tinkers.text=預設情況下，Sky Resources classic  提供了獲得 Tinker's Construct 的史萊姆相關物品的方法。 \n \n 所有種類的 <recipe,,tconstruct:edible:1> , <recipe,,tconstruct:slime_sapling:0> 以及 <recipe,,tconstruct:slime_dirt:0> 都可以通過其他方式獲得。
 
-guide.skyresourcesclassic.misc.techreborn.title=Tech Reborn 相關兼容
-guide.skyresourcesclassic.misc.techreborn.text=默認情況下，Sky Resources classic 提供了獲得 TechReborn 的基礎物品的方法。 \n \n <recipe,,techreborn:part:31> 與 <recipe,,techreborn:rubber_sapling:0> 都可以通過其他方式獲得。
+guide.skyresourcesclassic.misc.techreborn.title=Tech Reborn 相關相容
+guide.skyresourcesclassic.misc.techreborn.text=預設情況下，Sky Resources classic 提供了獲得 TechReborn 的基礎物品的方法。 \n \n <recipe,,techreborn:part:31> 與 <recipe,,techreborn:rubber_sapling:0> 都可以通過其他方式獲得。
 
-guide.skyresourcesclassic.misc.actadd.title=Actually Additions 相關兼容
-guide.skyresourcesclassic.misc.actadd.text=默認情況下，Sky Resources classic 提供了獲得 Actually Additions 的基礎物品的方法。 \n \n <recipe,,actuallyadditions:item_misc:5> 可以通過其他方式獲得。 <recipe,,actuallyadditions:item_rice_seed:0> 、 <recipe,,actuallyadditions:item_canola_seed:0> 、 <recipe,,actuallyadditions:item_coffee_seed:0> 、 <recipe,,actuallyadditions:item_flax_seed:0> 都可以通過破壞 <recipe,,minecraft:tallgrass:1> 來獲得。
+guide.skyresourcesclassic.misc.actadd.title=Actually Additions 相關相容
+guide.skyresourcesclassic.misc.actadd.text=預設情況下，Sky Resources classic 提供了獲得 Actually Additions 的基礎物品的方法。 \n \n <recipe,,actuallyadditions:item_misc:5> 可以通過其他方式獲得。 <recipe,,actuallyadditions:item_rice_seed:0> 、 <recipe,,actuallyadditions:item_canola_seed:0> 、 <recipe,,actuallyadditions:item_coffee_seed:0> 、 <recipe,,actuallyadditions:item_flax_seed:0> 都可以通過破壞 <recipe,,minecraft:tallgrass:1> 來獲得。
 
 
-guide.skyresourcesclassic.misc.ae2.title=Applied Energistics 2 相關兼容
-guide.skyresourcesclassic.misc.ae2.text=默認情況下，Sky Resources classic 提供了獲得 AE2 的基礎物品的方法。 \n \n <recipe,,appliedenergistics2:material:0> 、 <recipe,,appliedenergistics2:material:1> 、 <recipe,,appliedenergistics2:sky_stone_block:0> 以及四種壓印模板都可以通過其他方式獲得。
+guide.skyresourcesclassic.misc.ae2.title=Applied Energistics 2 相關相容
+guide.skyresourcesclassic.misc.ae2.text=預設情況下，Sky Resources classic 提供了獲得 AE2 的基礎物品的方法。 \n \n <recipe,,appliedenergistics2:material:0> 、 <recipe,,appliedenergistics2:material:1> 、 <recipe,,appliedenergistics2:sky_stone_block:0> 以及四種壓印模板都可以通過其他方式獲得。
 
-guide.skyresources.misc.extrabees.title=Extra Bees 相關兼容
-guide.skyresources.misc.extrabees.text=默認情況下，Sky Resources classic 提供了獲得 Extra Bees 的蜜蜂方法，通過使用 <link,蜜蜂吸引裝置,skyresourcesclassic:bee_attractor:0> 即可獲得。
+guide.skyresources.misc.extrabees.title=Extra Bees 相關相容
+guide.skyresources.misc.extrabees.text=預設情況下，Sky Resources classic 提供了獲得 Extra Bees 的蜜蜂方法，通過使用 <link,蜜蜂吸引裝置,skyresourcesclassic:bee_attractor:0> 即可獲得。

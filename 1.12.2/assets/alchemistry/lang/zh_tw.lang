@@ -313,7 +313,7 @@ item.alchemistry:compound_acetylsalicylic_acid.name=乙酰水楊酸
 item.alchemistry:compound_caffeine.name=咖啡因
 item.alchemistry:compound_mercury_sulfide.name=硫化汞
 
-item.alchemistry:compound_cocaine_family.name=仿制可樂
+item.alchemistry:compound_cocaine_family.name=仿製可樂
 item.alchemistry:compound_psilocybin_family.name=車前子提取物
 item.alchemistry:compound_mescaline_family.name=腺牧豆提取物
 
@@ -358,7 +358,7 @@ jei.dissolver.relative=絕對成功
 jei.dissolver.absolute=幾率成功
 jei.dissolver.type=配方種類
 jei.dissolver.rolls=最低需求數量
-jei.elements.description=可以使用聚變倉制作所有元素（除氫氣外）。\n聚變倉可以通過加入兩種元素以創建一種等於其前兩種元素原子序數總和的新元素。
+jei.elements.description=可以使用聚變倉製作所有元素（除氫氣外）。\n聚變倉可以通過加入兩種元素以創建一種等於其前兩種元素原子序數總和的新元素。
 
 guide.alchemistry.title=煉金化學指導手冊
 guide.alchemistry.landing=歡迎閱讀煉金化學指導手冊,他會讓你完全理解煉金化學

@@ -51,12 +51,12 @@
     "tooltip.cookingforblockheads:oven.description": "開啟食物烤製功能",
     "tooltip.cookingforblockheads:sink.description": "提供烹飪用水",
     "tooltip.cookingforblockheads:fridge.description": "提供烹飪材料",
-    "tooltip.cookingforblockheads:fruit_basket.description": "提供水果存儲欄",
+    "tooltip.cookingforblockheads:fruit_basket.description": "提供水果儲存欄",
     "tooltip.cookingforblockheads:tool_rack.description": "提供烹飪工具",
     "tooltip.cookingforblockheads:milk_jar.description": "提供烹飪所需的牛奶",
     "tooltip.cookingforblockheads:cow_jar.description": "緩慢注入牛奶",
     "tooltip.cookingforblockheads:toaster.description": "不可思議議地將麵包變成吐司",
-    "tooltip.cookingforblockheads:spice_rack.description": "存儲調料和原料",
+    "tooltip.cookingforblockheads:spice_rack.description": "儲存調料和原料",
     "tooltip.cookingforblockheads:counter.description": "儲存烹飪所需原料",
     "tooltip.cookingforblockheads:cabinet.description": "可以放在廚櫃上方的牆上",
     "tooltip.cookingforblockheads:corner.description": "沒有特殊的使用方式",
@@ -88,7 +88,7 @@
     "tooltip.cookingforblockheads:click_to_unlock": "點擊解鎖物品",
     "tooltip.cookingforblockheads:scroll_to_switch": "滾動選擇物品",
 
-    "tooltip.cookingforblockheads:energy_stored": "存儲能量: %d/%d",
+    "tooltip.cookingforblockheads:energy_stored": "儲存能量: %d/%d",
     "tooltip.cookingforblockheads:oven_upgrade": "烤箱升級",
     "tooltip.cookingforblockheads:fridge_upgrade": "冰箱升級",
 
@@ -103,7 +103,7 @@
 
     "itemGroup.cookingforblockheads": "傻瓜式烹飪",
 
-    "waila.cookingforblockheads:milk_stored": "存儲牛奶： %d/%d",
+    "waila.cookingforblockheads:milk_stored": "儲存牛奶： %d/%d",
     "waila.cookingforblockheads:toast_progress": "烘焙中…… (%s)",
     "waila.cookingforblockheads:heating_unit": "升級：加熱單元",
     "waila.cookingforblockheads:ice_unit": "升級：冰單元",

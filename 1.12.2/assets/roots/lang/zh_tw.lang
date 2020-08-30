@@ -260,7 +260,7 @@ advancement.roots.sylvan_armor.desc=獲得一整套希爾文盔甲.
 advancement.roots.wildwood_armor=自然抵抗
 advancement.roots.wildwood_armor.desc=獲得一整套野木盔甲.
 advancement.roots.apothecary_pouch=草藥之家
-advancement.roots.apothecary_pouch.desc=合成藥劑袋來提高你的存儲空間.
+advancement.roots.apothecary_pouch.desc=合成藥劑袋來提高你的儲存空間.
 advancement.roots.wildwood=野生, 野生木頭!
 advancement.roots.wildwood.desc=通過任意形式野根生長儀式獲得野木.
 
@@ -288,7 +288,7 @@ tile.baffle_cap_huge_top.name=巨大的困惑蘑菇頂部
 
 # Bark
 item.bark_oak.name=橡樹皮
-item.bark_spruce.name=雲杉樹皮
+item.bark_spruce.name=杉木樹皮
 item.bark_birch.name=白樺樹皮
 item.bark_jungle.name=叢林樹皮
 item.bark_acacia.name=金合歡樹皮

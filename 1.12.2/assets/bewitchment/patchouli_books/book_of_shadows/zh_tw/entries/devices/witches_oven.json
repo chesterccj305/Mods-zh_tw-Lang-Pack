@@ -5,7 +5,7 @@
   "pages": [
 	{
 	  "type": "text",
-	  "text": "通常情況下是一個有志女巫所獲得的第一個機器，女巫烤箱可以將一些特定試劑燒煉成特殊的煙霧，並產出一系列副產物。如果女巫烤箱內放有粘土罐子，它將會收集這些產出的煙霧"
+	  "text": "通常情況下是一個有志女巫所獲得的第一個機器，女巫烤箱可以將一些特定試劑燒煉成特殊的煙霧，並產出一系列副產物。如果女巫烤箱內放有黏土罐子，它將會收集這些產出的煙霧"
 	},
 	{
 	  "type": "crafting",
@@ -23,7 +23,7 @@
 	{
 	  "type": "bewitchment:oven_recipe",
 	  "recipe": "bewitchment:spruce_heart",
-	  "text": "雲杉樹的精華，是制作紡車的重要材料"
+	  "text": "杉木樹的精華，是製作紡車的重要材料"
 	},
 	{
 	  "type": "bewitchment:oven_recipe",
@@ -84,7 +84,7 @@
 	{
 	  "type": "bewitchment:oven_recipe",
 	  "recipe": "bewitchment:dimensional_sand",
-	  "text": "一種藍綠色的材料，可以從中感受到以太能量與之共鳴，並與末地有著強有力的聯系"
+	  "text": "一種藍綠色的材料，可以從中感受到以太能量與之共鳴，並與終界有著強有力的聯系"
 	},
 	{
 	  "type": "bewitchment:oven_recipe",

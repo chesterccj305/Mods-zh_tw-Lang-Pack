@@ -1,8 +1,8 @@
-item.hooked:hook_diamond.name=鉆石鉤子
-item.hooked:hook_ender.name=末影勾爪
-item.hooked:hook_iron.name=鐵制鉤子
+item.hooked:hook_diamond.name=鑽石鉤子
+item.hooked:hook_ender.name=終界勾爪
+item.hooked:hook_iron.name=鐵製鉤子
 item.hooked:hook_red.name=紅石勾爪
-item.hooked:hook_wood.name=木制鉤子
+item.hooked:hook_wood.name=木製鉤子
 item.hooked:iron_chain.name=鐵鏈
 item.hooked:iron_chain_link.name=鐵鏈環
 item.hooked:plant_fiber.name=植物纖維

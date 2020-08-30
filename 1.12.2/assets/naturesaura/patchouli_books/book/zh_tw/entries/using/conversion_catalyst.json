@@ -6,16 +6,16 @@
     "pages": [
         {
             "type": "text",
-            "text": "$(l:collecting/altar)嬗變催化器$()有利於將$(#419600)靈氣$()註入特定物品，然而，它也可以催化一個物體內化為其他物體。$(br)這可以通過將$(item)嬗變催化器$()放置在任意一個祭壇核心周圍的低處的$(item)苔石磚$()方塊（共4處）上，然後像以往一樣放置材料。"
+            "text": "$(l:collecting/altar)嬗變催化器$()有利於將$(#419600)靈氣$()注入特定物品，然而，它也可以催化一個物體內化為其他物體。$(br)這可以通過將$(item)嬗變催化器$()放置在任意一個祭壇核心周圍的低處的$(item)苔石磚$()方塊（共4處）上，然後像以往一樣放置材料。"
         },
         {
             "type": "naturesaura:tree_ritual",
-            "text": "用$(l:practices/tree_ritual)森林儀式$()制造$(item)Transmutation Catalyst$()。",
+            "text": "用$(l:practices/tree_ritual)森林儀式$()製造$(item)Transmutation Catalyst$()。",
             "recipe": "naturesaura:conversion_catalyst"
         },
         {
             "type": "naturesaura:altar",
-            "text": "用瓶裝黑暗制造$(item)龍息$()。",
+            "text": "用瓶裝黑暗製造$(item)龍息$()。",
             "recipe": "naturesaura:breath"
         },
         {

@@ -52,12 +52,12 @@ geolosys.guide.chapter.gold.text=Geolosys 的金礦與原版的金礦相像，�
 geolosys.guide.chapter.hematite.name=赤鐵礦
 geolosys.guide.chapter.hematite.text=赤鐵礦是一種易發現的小型礦物（至少設定如此），適合從中提煉鐵。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
 geolosys.guide.chapter.immersive_engineering.name=Immersive Engineering
-geolosys.guide.chapter.immersive_engineering.text=除了煤炭會掉落硫磺之外，巖芯鉆井和鬥輪挖掘機也會檢測並挖掘 Geolosys 的§o礦石§r方塊。
+geolosys.guide.chapter.immersive_engineering.text=除了煤炭會掉落硫磺之外，巖芯鑽井和鬥輪挖掘機也會檢測並挖掘 Geolosys 的§o礦石§r方塊。
 geolosys.guide.chapter.introduction.name=簡介
 geolosys.guide.chapter.journeymap.name=JourneyMap
 geolosys.guide.chapter.journeymap.text=右擊某個樣本時，Geolosys 會自動向 JourneyMap 小地圖中添加對應的路徑點。
 geolosys.guide.chapter.kimberlite.name=金伯利巖
-geolosys.guide.chapter.kimberlite.text=Geolosys 的金伯利巖是更貼近現實的原版鉆石礦替代品，可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
+geolosys.guide.chapter.kimberlite.text=Geolosys 的金伯利巖是更貼近現實的原版鑽石礦替代品，可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.lapis.name=青金石
 geolosys.guide.chapter.lapis.text=Geolosys 的青金石礦與原版的青金石礦相像，可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
 geolosys.guide.chapter.limonite.name=褐鐵礦
@@ -66,7 +66,7 @@ geolosys.guide.chapter.malachite.name=孔雀石
 geolosys.guide.chapter.malachite.text=孔雀石是一種易發現的小型礦物（至少設定如此），適合從中提煉銅。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
 geolosys.guide.chapter.mekanism.name=Mekanism
 geolosys.guide.chapter.mekanism.text=若在配置文件中啟用對應選項，鉑礦將不再只掉落鉑，而是各有 50% 的概率分別掉落鉑和鋨。若鋨是§o唯一§r啟用的礦物，鉑礦將只掉落鋨。
-geolosys.guide.chapter.mod_compat.name=跨 Mod 兼容
+geolosys.guide.chapter.mod_compat.name=跨 Mod 相容
 geolosys.guide.chapter.modded_ores.name=Mod 資源
 geolosys.guide.chapter.modded_ores.text=Geolosys 也添加了對若幹其他 Mod 的礦石的支持，它們的樣本和礦簇也會一並加入世界生成。
 geolosys.guide.chapter.nuclearcraft.name=NuclearCraft
@@ -76,9 +76,9 @@ geolosys.guide.chapter.ore_converter.text=Ore Converter 的特性可令區塊種
 geolosys.guide.chapter.platinum.name=鉑礦
 geolosys.guide.chapter.platinum.text=鉑礦是鉑的主要來源，若配置文件裏允許了，也會產出鋨。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.propick.name=探礦鎬
-geolosys.guide.chapter.propick_1.text=探礦鎬是個可以讓你不用再在地下漫無目的地打洞的實用工具。制作這玩意需要一些鐵，但它物有所值。
-geolosys.guide.chapter.propick_2.text=首先，（若啟用了對應的配置選項）它可以顯示區塊邊界。有鑒於樣本和礦藏會生成在同一區塊裏，這個特性可以幫助你確定在哪開始挖，挖到哪停止。（若啟用了對應的配置選項）它還會顯示當前海拔 Y 值。
-geolosys.guide.chapter.propick_3.text=此外，在海平面之上手持探礦鎬右擊地面時，它會提示當前區塊有哪種礦脈。在地表沒有樣本的時候這個特性可以幫你尋找礦藏。若是在海平面之下，它則會提示在你視線方向前的一定範圍內（默認是 5x5x5）有沒有礦藏。
+geolosys.guide.chapter.propick_1.text=探礦鎬是個可以讓你不用再在地下漫無目的地打洞的實用工具。製作這玩意需要一些鐵，但它物有所值。
+geolosys.guide.chapter.propick_2.text=首先，（若啟用了對應的配置選項）它可以顯示區塊邊界。有鑒於樣本和礦藏會生成在同一區塊裡，這個特性可以幫助你確定在哪開始挖，挖到哪停止。（若啟用了對應的配置選項）它還會顯示當前海拔 Y 值。
+geolosys.guide.chapter.propick_3.text=此外，在海平面之上手持探礦鎬右擊地面時，它會提示當前區塊有哪種礦脈。在地表沒有樣本的時候這個特性可以幫你尋找礦藏。若是在海平面之下，它則會提示在你視線方向前的一定範圍內（預設是 5x5x5）有沒有礦藏。
 geolosys.guide.chapter.prospecting.name=探礦
 geolosys.guide.chapter.quartz.name=石英
 geolosys.guide.chapter.quartz.text=石英礦會在有對應 Mod 安裝的情況下產出各種石英，例如實用擴展的焦黑石英和應用動力的充能賽特斯石英或普通賽特斯石英。石英礦可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
@@ -88,14 +88,14 @@ geolosys.guide.chapter.samples_1.text=樣本（見上圖）會生成在地表，
 geolosys.guide.chapter.samples_2.text=某些樣本會掉落和礦脈產出一樣的礦簇，這些礦簇能像其他礦石一樣直接冶煉或進一步加工。
 geolosys.guide.chapter.sphalerite.name=閃鋅礦
 geolosys.guide.chapter.sphalerite.text=閃鋅礦是鋅的主要來源。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
-geolosys.guide.chapter.stones.name=巖石
-geolosys.guide.chapter.stones.text=原版的幾種巖石現在以深埋地下的大型巖層出現，而非原版的遍布地下的小型巖石團。
+geolosys.guide.chapter.stones.name=岩石
+geolosys.guide.chapter.stones.text=原版的幾種岩石現在以深埋地下的大型巖層出現，而非原版的遍布地下的小型岩石團。
 geolosys.guide.chapter.teallite.name=硫錫鉛礦
 geolosys.guide.chapter.teallite.text=硫錫鉛礦是一種難發現的大型礦物，可用於提煉錫（譯註：雖然名字是硫錫鉛礦，現實中這種礦物也的確含硫和鉛，但在 Geolosys 中它只含錫）。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.twilight_forest.name=Twilight Forest
 geolosys.guide.chapter.twilight_forest.text=在暮色森林中，所有礦石的生成均會根據暮色森林的平均海拔而調整生成高度。
 geolosys.guide.chapter.vanilla_ores.name=原版資源
-geolosys.guide.chapter.vanilla_ores.text=若啟用 Geolosys 的對應選項，Geolosys 將會覆蓋原版礦石生成。這意味著你將需要用 Geolosys 的方式來收集像是鐵和煤炭這樣的原版礦物資源。註意：石英也不在下界生成了！什麽你說某些合成配方需要原版礦石？沒問題！精準采集 Geolosys 的礦石可獲得對應的原版礦石。
+geolosys.guide.chapter.vanilla_ores.text=若啟用 Geolosys 的對應選項，Geolosys 將會覆蓋原版礦石生成。這意味著你將需要用 Geolosys 的方式來收集像是鐵和煤炭這樣的原版礦物資源。注意：石英也不在下界生成了！什麽你說某些合成配方需要原版礦石？沒問題！精準采集 Geolosys 的礦石可獲得對應的原版礦石。
 geolosys.guide.generic.abovesealevel=%1$s 米 於海平面之上
 geolosys.guide.generic.atsealevel=與海平面持平
 geolosys.guide.generic.belowsealevel=%1$s 米 於海平面之下
@@ -141,7 +141,7 @@ geolosys.ore_sample_vanilla.coal_vanilla.name=煤炭樣本
 geolosys.ore_sample_vanilla.gold.name=金礦樣本
 geolosys.ore_sample_vanilla.gold_vanilla.name=金礦樣本
 geolosys.ore_sample_vanilla.kimberlite.name=金伯利巖樣本
-geolosys.ore_sample_vanilla.kimberlite_vanilla.name=鉆石樣本
+geolosys.ore_sample_vanilla.kimberlite_vanilla.name=鑽石樣本
 geolosys.ore_sample_vanilla.lapis.name=青金巖樣本
 geolosys.ore_sample_vanilla.lapis_vanilla.name=青金石樣本
 geolosys.ore_sample_vanilla.quartz.name=石英樣本
@@ -155,7 +155,7 @@ geolosys.ore_vanilla.coal_vanilla.name=煤礦石
 geolosys.ore_vanilla.gold.name=金礦
 geolosys.ore_vanilla.gold_vanilla.name=金礦石
 geolosys.ore_vanilla.kimberlite.name=金伯利巖
-geolosys.ore_vanilla.kimberlite_vanilla.name=鉆石礦石
+geolosys.ore_vanilla.kimberlite_vanilla.name=鑽石礦石
 geolosys.ore_vanilla.lapis.name=青金巖
 geolosys.ore_vanilla.lapis_vanilla.name=青金石礦石
 geolosys.ore_vanilla.quartz.name=石英

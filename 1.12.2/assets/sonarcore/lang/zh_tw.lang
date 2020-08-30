@@ -2,7 +2,7 @@
 
 //machine upgrades
 upgrade.maximum=最高安裝
-upgrade.incompatible=不兼容升級
+upgrade.incompatible=不相容升級
 upgrade.accepted=可用升級
 
 

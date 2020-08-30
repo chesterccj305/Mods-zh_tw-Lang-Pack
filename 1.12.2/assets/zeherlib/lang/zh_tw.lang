@@ -4,11 +4,11 @@
 info.hold.name=按住
 info.shift.name=Shift
 info.fordetails.name=了解更多詳細信息。
-info.tooltip.energy.name=存儲能量的項目。
+info.tooltip.energy.name=儲存能量的項目。
 info.currentpower.name=當前功率：
 info.maxpower.name=最大功率：
 
-info.tooltip.fluid.name=存儲液體的方塊。
+info.tooltip.fluid.name=儲存液體的方塊。
 
 
 #Tool_tooltip

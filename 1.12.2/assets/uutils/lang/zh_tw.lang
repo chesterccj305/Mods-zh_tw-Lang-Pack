@@ -1,9 +1,9 @@
 item.useless_item.name=Useless Item
 
-item.disk_256k.name=256k ME 存儲元件
-item.disk_1M.name=1M ME 存儲元件
-item.disk_4M.name=4M ME 存儲元件
-item.disk_16M.name=16M ME 存儲元件
+item.disk_256k.name=256k ME 儲存元件
+item.disk_1M.name=1M ME 儲存元件
+item.disk_4M.name=4M ME 儲存元件
+item.disk_16M.name=16M ME 儲存元件
 item.optimum_quartz.name=Optimum 石英
 item.super_conductor.name=超導體
 item.hb_super_conductor.name=§bHB 超導體
@@ -13,10 +13,10 @@ item.digital_metal.name=數據化合金
 item.optimum_crystal.name=Optimum 水晶
 item.optimum_shard.name= Optimum 碎片
 item.optimum_seed.name= Optimum 種子
-item.optimum_storage_core_1meg.name=§b1M  Optimum 存儲核心
-item.optimum_storage_core_256k=§b256k  Optimum 存儲核心
-item.optimum_storage_core_4meg=§b4M  Optimum 存儲核心
-item.optimum_storage_core_16meg=§b16M  Optimum 存儲核心
+item.optimum_storage_core_1meg.name=§b1M  Optimum 儲存核心
+item.optimum_storage_core_256k=§b256k  Optimum 儲存核心
+item.optimum_storage_core_4meg=§b4M  Optimum 儲存核心
+item.optimum_storage_core_16meg=§b16M  Optimum 儲存核心
 
 //electrical
 item.8080_processor.name=8080 處理器
@@ -69,7 +69,7 @@ item.conductor.name=導體
 item.device_casing.name=設備外殼
 item.heatsink.name=散熱器
 item.conductiverer_silver.name=導電銀
-item.diamond_plate_h.name=鉆石板 H
+item.diamond_plate_h.name=鑽石板 H
 
 
 item.jerry_can.name=簡便油桶
@@ -80,13 +80,13 @@ tile.digital_glass.name=數據化玻璃
 tile.machine_blouch.name=§e高級機器方塊
 tile.lamp_of_brightness_white.name=白色照明燈
 tile.lamp_of_brightness_orange.name=橙色照明燈
-tile.lamp_of_brightness_magenta.name=品紅色照明燈
-tile.lamp_of_brightness_light_blue.name=淡藍色照明燈
+tile.lamp_of_brightness_magenta.name=洋紅色照明燈
+tile.lamp_of_brightness_light_blue.name=淺藍色照明燈
 tile.lamp_of_brightness_yellow.name=黃色照明燈
-tile.lamp_of_brightness_lime.name=黃綠色照明燈
+tile.lamp_of_brightness_lime.name=淺綠色照明燈
 tile.lamp_of_brightness_pink.name=粉色照明燈
 tile.lamp_of_brightness_gray.name=灰色照明燈
-tile.lamp_of_brightness_silver.name=淡灰色照明燈
+tile.lamp_of_brightness_silver.name=淺灰色照明燈
 tile.lamp_of_brightness_cyan.name=青色照明燈
 tile.lamp_of_brightness_purple.name=紫色照明燈
 tile.lamp_of_brightness_blue.name=藍色照明燈
@@ -96,7 +96,7 @@ tile.lamp_of_brightness_red.name=紅色照明燈
 tile.lamp_of_brightness_black.name=黑色照明燈
 tile.dark_brick.name=暗色石磚
 tile.basic_machine_blouch.name=基礎機器方塊
-tile.diamond_torch.name=鉆石火把
+tile.diamond_torch.name=鑽石火把
 
 //ores
 tile.borax_ore.name=硼砂礦石

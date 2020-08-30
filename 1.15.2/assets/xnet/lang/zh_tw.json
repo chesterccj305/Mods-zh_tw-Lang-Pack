@@ -24,12 +24,12 @@
     "item.xnet.advanced_connector_green": "高級綠色連接器",
     "item.xnet.advanced_connector_routing": "高級路由連接器(NOT)",
 
-    "block.xnet.netcable": "網絡線纜",
-    "item.xnet.netcable_blue": "藍色網絡線纜",
-    "item.xnet.netcable_red": "紅色網絡線纜",
-    "item.xnet.netcable_yellow": "黃色網絡線纜",
-    "item.xnet.netcable_green": "綠色網絡線纜",
-    "item.xnet.netcable_routing": "路由網絡線纜",
+    "block.xnet.netcable": "網路線纜",
+    "item.xnet.netcable_blue": "藍色網路線纜",
+    "item.xnet.netcable_red": "紅色網路線纜",
+    "item.xnet.netcable_yellow": "黃色網路線纜",
+    "item.xnet.netcable_green": "綠色網路線纜",
+    "item.xnet.netcable_routing": "路由網路線纜",
 
     "block.xnet.redstone_proxy": "紅石代理器",
     "block.xnet.redstone_proxy_upd": "紅石代理器（更新）",
@@ -45,14 +45,14 @@
 
     "message.xnet.shiftmessage": "<按住Shift>",
 
-    "message.xnet.facade.header": "此塊可以模仿其他方塊，並用於覆蓋X網絡線纜",
+    "message.xnet.facade.header": "此塊可以模仿其他方塊，並用於覆蓋X網路線纜",
     "message.xnet.facade.gold": "右鍵或潛行右鍵單擊塊以模仿。右鍵或潛行右鍵單擊電纜/連接器以隱藏",
     "message.xnet.facade.info": "模仿: ",
 
-    "message.xnet.connector.header": "將連接器放置在應連接到網絡的模塊或機器旁邊",
+    "message.xnet.connector.header": "將連接器放置在應連接到網路的模塊或機器旁邊",
     "message.xnet.connector.info": "最大RF: ",
 
-    "message.xnet.advanced_connector.header": "將連接器放置在應連接到網絡的塊或機器旁邊",
+    "message.xnet.advanced_connector.header": "將連接器放置在應連接到網路的塊或機器旁邊",
     "message.xnet.advanced_connector.info": "最大RF: ",
     "message.xnet.advanced_connector.gold": "允許訪問不同的面。支持更快的項目傳輸",
 
@@ -79,12 +79,12 @@
 
     "xnet.category.main": "X網路",
     "xnet.category.main.description": "X網路是關於物品，流體和動力分配的模組。它以非常有效的方式做到這一點",
-    "xnet.category.simple": "簡單網絡",
-    "xnet.category.simple.description": "一個簡單的網絡",
-    "xnet.category.network": "多個網絡",
-    "xnet.category.network.description": "使用路由器連接多個網絡",
-    "xnet.category.wireless": "無線網絡",
-    "xnet.category.wireless.description": "無線連接多個網絡",
+    "xnet.category.simple": "簡單網路",
+    "xnet.category.simple.description": "一個簡單的網路",
+    "xnet.category.network": "多個網路",
+    "xnet.category.network.description": "使用路由器連接多個網路",
+    "xnet.category.wireless": "無線網路",
+    "xnet.category.wireless.description": "無線連接多個網路",
     "xnet.entry.controller": "控制器",
     "xnet.page.controller0": "控制器是此模塊中最重要的模塊。在本機中，您可以控制編輯不同的通道，並定義物料，液體或動力如何通過這些通道移動",
     "xnet.entry.cables": "電纜",
@@ -92,7 +92,7 @@
     "xnet.entry.connector": "連接器",
     "xnet.page.connector0": "將電纜實際連接到塊或機器，需要連接器",
     "xnet.entry.router": "路由器",
-    "xnet.page.router0": "路由器允許連接多個網絡。這需要路由電纜",
+    "xnet.page.router0": "路由器允許連接多個網路。這需要路由電纜",
     "xnet.entry.wireless_router": "無線路由器",
-    "xnet.page.wireless_router0": "網絡的無線連接 @todo"
+    "xnet.page.wireless_router0": "網路的無線連接 @todo"
 }

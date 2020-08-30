@@ -4,10 +4,10 @@ item.oak_sword_lv2.name=橡木劍
 item.oak_sword_lv3.name=橡木劍
 item.oak_sword_lv4.name=橡木劍
 
-item.spruce_sword.name=雲杉木劍
-item.spruce_sword_lv2.name=雲杉木劍
-item.spruce_sword_lv3.name=雲杉木劍
-item.spruce_sword_lv4.name=雲杉木劍
+item.spruce_sword.name=杉木劍
+item.spruce_sword_lv2.name=杉木劍
+item.spruce_sword_lv3.name=杉木劍
+item.spruce_sword_lv4.name=杉木劍
 
 item.birch_sword.name=樺木劍
 item.birch_sword_lv2.name=樺木劍
@@ -19,10 +19,10 @@ item.jungle_sword_lv2.name=叢林木劍
 item.jungle_sword_lv3.name=叢林木劍
 item.jungle_sword_lv4.name=叢林木劍
 
-item.acacia_sword.name=金合歡木劍
-item.acacia_sword_lv2.name=金合歡木劍
-item.acacia_sword_lv3.name=金合歡木劍
-item.acacia_sword_lv4.name=金合歡木劍
+item.acacia_sword.name=相思木劍
+item.acacia_sword_lv2.name=相思木劍
+item.acacia_sword_lv3.name=相思木劍
+item.acacia_sword_lv4.name=相思木劍
 
 item.darkoak_sword.name=深色橡木劍
 item.darkoak_sword_lv2.name=深色橡木劍
@@ -42,10 +42,10 @@ item.iron_sword_lv3.name=鐵劍
 item.iron_sword_lv4.name=鐵劍
 item.iron_sword_lv5.name=鐵劍
 
-item.diamond_sword_lv2.name=鉆石劍
-item.diamond_sword_lv3.name=鉆石劍
-item.diamond_sword_lv4.name=鉆石劍
-item.diamond_sword_lv5.name=鉆石劍
+item.diamond_sword_lv2.name=鑽石劍
+item.diamond_sword_lv3.name=鑽石劍
+item.diamond_sword_lv4.name=鑽石劍
+item.diamond_sword_lv5.name=鑽石劍
 
 item.emerald_sword.name=綠寶石劍
 item.emerald_sword_lv2.name=綠寶石劍
@@ -64,14 +64,14 @@ item.thunder_bow.name=§b雷電弓
 
 //Items
 item.stone_nugget.name=石粒
-item.diamond_nugget.name=鉆石粒
+item.diamond_nugget.name=鑽石粒
 item.emerald_nugget.name=綠寶石粒
 
 item.oak_stick.name=橡木棍
-item.spruce_stick.name=雲杉木棍
+item.spruce_stick.name=杉木棍
 item.birch_stick.name=樺木棍
 item.jungle_stick.name=叢林木棍
-item.acacia_stick.name=金合歡木棍
+item.acacia_stick.name=相思木棍
 item.darkoak_stick.name=深色橡木棍
 
 item.blue_crystal_shard.name=藍水晶碎片
@@ -81,20 +81,20 @@ item.backpack.name=背包
 
 //Blocks
 tile.oak_ladder.name=橡木梯子
-tile.spruce_ladder.name=雲杉木梯子
+tile.spruce_ladder.name=杉木梯子
 tile.birch_ladder.name=樺木梯子
 tile.jungle_ladder.name=叢林木梯子
-tile.acacia_ladder.name=金合歡木梯子
+tile.acacia_ladder.name=相思木梯子
 tile.darkoak_ladder.name=深色橡木梯子
 
-tile.blue_carved_stonebrick.name=藍色鏨制石磚
-tile.red_carved_stonebrick.name=紅色鏨制石磚
+tile.blue_carved_stonebrick.name=藍色鏨製石磚
+tile.red_carved_stonebrick.name=紅色鏨製石磚
 
 tile.oak_crate.name=橡木箱
-tile.spruce_crate.name=雲杉木箱
+tile.spruce_crate.name=杉木箱
 tile.birch_crate.name=樺木箱
 tile.jungle_crate.name=叢林木箱
-tile.acacia_crate.name=金合歡木箱
+tile.acacia_crate.name=相思木箱
 tile.darkoak_crate.name=深色橡木箱
 
 //Enchantments

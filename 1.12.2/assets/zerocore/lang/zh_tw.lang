@@ -4,7 +4,7 @@ zerocore:api.multiblock.validation.success=機器已生效。
 zerocore:api.multiblock.validation.too_few_parts=機器過小。
 zerocore:api.multiblock.validation.machine_too_large=機器過大，在 %2$s 軸不能超過 %1$d 個方塊。
 zerocore:api.multiblock.validation.machine_too_small=機器過小，在 %2$s 軸必須多於 %1$d 個方塊。
-zerocore:api.multiblock.validation.invalid_part=位於 %1$d, %2$d, %3$d 的部件與機器不兼容
+zerocore:api.multiblock.validation.invalid_part=位於 %1$d, %2$d, %3$d 的部件與機器不相容
 zerocore:api.multiblock.validation.invalid_part_for_frame=位於 %1$d, %2$d, %3$d 的方塊不是有效的機器框架
 zerocore:api.multiblock.validation.invalid_part_for_bottom=位於 %1$d, %2$d, %3$d 的方塊不是有效的機器底面
 zerocore:api.multiblock.validation.invalid_part_for_top=位於 %1$d, %2$d, %3$d 的方塊不是有效的機器頂面
@@ -20,7 +20,7 @@ zerocore:debugTool.block.notfound=該方塊未在礦物詞典中註冊
 zerocore:debugTool.block.intro=在礦物詞典中為方塊 '%2$s' 找到了 %1$d 個名字
 zerocore:debugTool.block.nameentry=- %1$s
 zerocore:debugTool.block.tooltip1=右擊方塊顯示調試信息
-zerocore:debugTool.block.tooltip2=%1$s查詢默認在服務器端執行
+zerocore:debugTool.block.tooltip2=%1$s查詢預設在伺服器端執行
 zerocore:debugTool.block.tooltip3=%1$s潛行：%2$s客戶端側詢問
 
 

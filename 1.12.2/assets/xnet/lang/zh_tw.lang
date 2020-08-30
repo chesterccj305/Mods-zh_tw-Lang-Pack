@@ -25,12 +25,12 @@ tile.xnet.advanced_connector_yellow.name=高級黃色連接器
 tile.xnet.advanced_connector_green.name=高級綠色連接器
 tile.xnet.advanced_connector_routing.name=高級路由連接器(NOT)
 
-tile.xnet.netcable.name=網絡線纜
-tile.xnet.netcable_blue.name=藍色網絡線纜
-tile.xnet.netcable_red.name=紅色網絡線纜
-tile.xnet.netcable_yellow.name=黃色網絡線纜
-tile.xnet.netcable_green.name=綠色網絡線纜
-tile.xnet.netcable_routing.name=路由網絡線纜
+tile.xnet.netcable.name=網路線纜
+tile.xnet.netcable_blue.name=藍色網路線纜
+tile.xnet.netcable_red.name=紅色網路線纜
+tile.xnet.netcable_yellow.name=黃色網路線纜
+tile.xnet.netcable_green.name=綠色網路線纜
+tile.xnet.netcable_routing.name=路由網路線纜
 
 tile.xnet.redstone_proxy.name=紅石代理器
 tile.xnet.redstone_proxy_upd.name=紅石代理器（更新）
@@ -51,7 +51,7 @@ message.xnet.router=\
     @f多個頻道 (控制器)
 message.xnet.wireless_router=\
     @f你可以連接到此方塊\n\
-    @f你可以通過路由器網絡線纜\n\
+    @f你可以通過路由器網路線纜\n\
     @f將多個頻道\n\
     @f遠程連接到一個普通路由器\n\
     @6這需要一根天線！

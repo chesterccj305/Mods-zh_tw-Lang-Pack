@@ -2,7 +2,7 @@
 msg.NewVersion.presets=["§6新的版本可用： §9[",{"text":"§2%1$s §ev%2$s§f","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"點擊跳轉到 CurseForge 頁面","color":"aqua"}},"clickEvent":{"action":"open_url","value":"%3$s"}},"§9]"]
 msg.presets=預設！
 presets.button.Apply=應用
-presets.button.Apply.tooltip=將選擇的預設文件應用到當前 Minecraft 配置裏。
+presets.button.Apply.tooltip=將選擇的預設文件應用到當前 Minecraft 配置裡。
 presets.button.Cancel=取消
 presets.button.Create=創建
 presets.button.Create.tooltip=創建基於目前 Minecraft 配置的新的預設設置。
@@ -29,7 +29,7 @@ presets.dlg.Description=描述：
 presets.dlg.EditTitle=編輯預設
 presets.dlg.FileName=文件名：
 presets.dlg.Required=必需
-presets.dlg.RestartRequired=註意：部分設置需要重啟Minecraft以應用。
+presets.dlg.RestartRequired=注意：部分設置需要重啟Minecraft以應用。
 presets.dlg.RestartRequired.tooltip=可能需要重啟
 presets.dlg.SaveWarning=你確定要覆蓋保存這個預設嗎？
 presets.dlg.Title=標題：

@@ -1,8 +1,8 @@
 itemGroup.spawnercontrol=Spawner Control
 spawnercontrol.general.altervanillaspawner=修改原版刷怪籠
-spawnercontrol.general.custom_spawners.tooltip=包含通過自定義刷怪籠添加的每個刷怪籠的配置屬性
-spawnercontrol.general.custom_spawners=自定義刷怪籠配置
-spawnercontrol.general.customspawners=自定義刷怪籠列表
+spawnercontrol.general.custom_spawners.tooltip=包含通過自訂刷怪籠添加的每個刷怪籠的配置屬性
+spawnercontrol.general.custom_spawners=自訂刷怪籠配置
+spawnercontrol.general.customspawners=自訂刷怪籠列表
 spawnercontrol.general.makecreativetab=創建創造模式標簽頁
 spawnercontrol.general.vanillaspawnerconfig=原版刷怪籠配置
 tile.msc.controlled_spawner.name=%s 刷怪籠

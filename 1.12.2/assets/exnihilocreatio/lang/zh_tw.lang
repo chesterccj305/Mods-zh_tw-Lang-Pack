@@ -52,7 +52,7 @@ item.item_doll.blitz.name=狂風人偶
 item.item_doll.blitz.desc=向裝有烈焰之熾焱的桶中投入其會生成狂風人
 item.item_doll.basalz.name=破碎人偶
 item.item_doll.basalz.desc=向裝有烈焰之熾焱的桶中投入其會生成岩石人
-item.item_doll.blueslime.name=粘液人偶
+item.item_doll.blueslime.name=黏液人偶
 item.item_doll.blueslime.desc=向裝有牛奶的桶中投入其會生成藍色史萊姆
 
 #This will look like '!!!{modid} is not installed, Item has no use!!!'

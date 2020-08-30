@@ -8,5 +8,5 @@ tile.fluidcows.feeder.name=飼育機
 tile.fluidcows.sorter.name=分類器
 item.fluidcows.ranger.name=距離升級
 gui.fluidcows.sorter.remove=移除 %s
-gui.fluidcows.sorter.insert=點擊這裏懸浮顯示下一個流體通過了桶/隔間/顯示器
+gui.fluidcows.sorter.insert=點擊這裡懸浮顯示下一個流體通過了桶/隔間/顯示器
 gui.fluidcows.sorter.list=變更 %s 列表

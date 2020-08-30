@@ -177,12 +177,12 @@ item.erebus.bee_taming_amulet.name=蜜蜂項鍊
 item.erebus.wasp_sword.name=黃蜂之劍
 item.erebus.wasp_dagger.name=黃蜂小刀
 item.erebus.anti_venom_bottle.name=消毒劑瓶
-item.erebus.death_compass.name=死亡點追蹤信標
+item.erebus.death_compass.name=死亡點追蹤烽火台
 item.erebus.rolled_newspaper.name=報紙捲
 item.erebus.bambucket.name=竹桶
 item.erebus.bambucket.filled.name=%s 竹桶
-item.erebus.homing_beecon.name=蜜蜂信標
-item.erebus.homing_beecon_advanced.name=強化蜜蜂信標
+item.erebus.homing_beecon.name=蜜蜂烽火台
+item.erebus.homing_beecon_advanced.name=強化蜜蜂烽火台
 item.erebus.spray_can.name=驅蟲劑
 item.erebus.whetstone.name=磨刀石
 item.erebus.compost.name=堆肥
@@ -1006,8 +1006,8 @@ advancement.erebus.agriculture.bee_amulet.desc=使用蜜蜂項鍊馴服一些蜜
 advancement.erebus.agriculture.spoon=大湯匙
 advancement.erebus.agriculture.spoon.desc=使用花蜜收集器從蜜蜂身上收取到黃蜂花蜜.
 
-advancement.erebus.agriculture.beecon=定位信標
-advancement.erebus.agriculture.beecon.desc=製作出一個蜜蜂信標防止迷路.
+advancement.erebus.agriculture.beecon=定位烽火台
+advancement.erebus.agriculture.beecon.desc=製作出一個蜜蜂烽火台防止迷路.
 
 advancement.erebus.agriculture.turnip=蕪菁！
 //This advancement is named after the person who designed the Erebus Turnips. I'd truly appreciate it if whomever localises this leaves this advancement name unchanged. Thank you in advance!

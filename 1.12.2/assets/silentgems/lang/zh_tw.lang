@@ -26,13 +26,13 @@ tile.silentgems.essenceore1.name=終界源質礦石
 
 tile.silentgems.fluffyblock0.name=蓬鬆方塊 （白色）
 tile.silentgems.fluffyblock1.name=蓬鬆方塊 （橙色）
-tile.silentgems.fluffyblock2.name=蓬鬆方塊 （品紅色）
-tile.silentgems.fluffyblock3.name=蓬鬆方塊 （淡藍色）
+tile.silentgems.fluffyblock2.name=蓬鬆方塊 （洋紅色）
+tile.silentgems.fluffyblock3.name=蓬鬆方塊 （淺藍色）
 tile.silentgems.fluffyblock4.name=蓬鬆方塊 （黃色）
-tile.silentgems.fluffyblock5.name=蓬鬆方塊 （黃綠色）
+tile.silentgems.fluffyblock5.name=蓬鬆方塊 （淺綠色）
 tile.silentgems.fluffyblock6.name=蓬鬆方塊 （粉色）
 tile.silentgems.fluffyblock7.name=蓬鬆方塊 （灰色）
-tile.silentgems.fluffyblock8.name=蓬鬆方塊 （淡灰色）
+tile.silentgems.fluffyblock8.name=蓬鬆方塊 （淺灰色）
 tile.silentgems.fluffyblock9.name=蓬鬆方塊 （青色）
 tile.silentgems.fluffyblock10.name=蓬鬆方塊 （紫色）
 tile.silentgems.fluffyblock11.name=蓬鬆方塊 （藍色）
@@ -458,8 +458,8 @@ tile.silentgems.soul_urn.upgrades=升級 %s
 
 container.silentgems.soul_urn=靈魂甕
 
-urn_upgrade.silentgems.advanced_storage=擴展存儲I
-urn_upgrade.silentgems.basic_storage=擴展存儲II
+urn_upgrade.silentgems.advanced_storage=擴展儲存I
+urn_upgrade.silentgems.basic_storage=擴展儲存II
 urn_upgrade.silentgems.vacuum=真空
 
 tile.silentgems.stonetorch.name=石製火把
@@ -658,7 +658,7 @@ item.silentgems.chaosorb0.name=混沌馬鈴薯
 item.silentgems.chaosorb1.name=易碎的混沌寶珠
 item.silentgems.chaosorb2.name=精製的混沌寶珠
 item.silentgems.chaosorb3.name=完美的混沌寶珠
-item.silentgems.chaosorb.desc=存儲混沌能量，如果低混沌能量時可能會破碎。
+item.silentgems.chaosorb.desc=儲存混沌能量，如果低混沌能量時可能會破碎。
 item.silentgems.chaosorb.break=你的%1$破碎了，碎裂成%2$件。
 item.silentgems.chaosorb.breakChance=最大破碎機率：%d%%
 item.silentgems.chaosorb.crack=你的%s破碎了……
@@ -857,7 +857,7 @@ item.silentgems.glowrosefertilizer.desc=讓草地上長出螢光玫瑰，快說�
 
 item.silentgems.guide_book.name=寂靜寶石手冊
 
-item.silentgems.holdinggem.name=存儲寶石
+item.silentgems.holdinggem.name=儲存寶石
 item.silentgems.holdinggem.desc=可以存放大量方塊並放置它們。
 
 item.silentgems.nodemover0.name=混沌節點移動器（空）
@@ -918,8 +918,8 @@ item.silentgems.tipupgrade.attackSpeed=&a攻擊速度 %s
 item.silentgems.tipupgrade.meleeDamage=&a近戰傷害 %s
 item.silentgems.tipupgrade.magicDamage=&a魔法傷害 %s
 
-item.silentgems.urn_upgrade_extended_storage_basic.name=甕升級: 擴展存儲 I
-item.silentgems.urn_upgrade_extended_storage_advanced.name=甕升級:擴展存儲 II
+item.silentgems.urn_upgrade_extended_storage_basic.name=甕升級: 擴展儲存 I
+item.silentgems.urn_upgrade_extended_storage_advanced.name=甕升級:擴展儲存 II
 item.silentgems.urn_upgrade_vacuum.name=甕升級:真空
 
 
@@ -1345,7 +1345,7 @@ skill.silentgems.warm.name=火熱
 jei.silentgems.recipe.altar=祭壇嬗變
 jei.silentgems.recipe.altar.catalyst=催化劑：
 
-jei.silentgems.desc.chaosaltar=將其放置在混沌節點或者混沌塔附近，它就可以存儲混沌能量。並且它會對放置在其中混沌能量物品進行充能。另外，它還能對某些物品進行嬗變，大多數嬗變需要催化劑。
+jei.silentgems.desc.chaosaltar=將其放置在混沌節點或者混沌塔附近，它就可以儲存混沌能量。並且它會對放置在其中混沌能量物品進行充能。另外，它還能對某些物品進行嬗變，大多數嬗變需要催化劑。
 jei.silentgems.desc.chaosflowerpot=一個放大螢光玫瑰的光亮的花盆。當螢光玫瑰種植在這個花盆中時，它會在周圍的15格半徑的圓形內放置幻影燈，幻影燈可以很容易的破壞掉，並且，在花盆被移除後會很快消失。
 jei.silentgems.desc.chaosnode=混沌節點向世界中溢散出各種能量，最令人關注的是，它會生成混沌能量。\n\n有些報告表明，節點也會做一些其他事情，比如攻擊怪物，治癒傷員。\n\n節點不能象普通方塊那樣被打破拾取。您將需要混沌節點移動器來移動它們。
 jei.silentgems.desc.chaospylon0=無中生有的產生混沌能量，如同節點。與節點不同，它只能產生混沌能量。除此之外，它沒有其他功能，所以不要指望它捍衛你的基地。
@@ -1354,7 +1354,7 @@ jei.silentgems.desc.materialgrader=分析製作工具的材料，挖掘它們的
 
 jei.silentgems.desc.gem=寶石用於構造，修理和改變工具的外觀。可以使用多種類型的寶石製作一個工具。在合成台在寶石旁邊放置工具“裝飾”它們。
 jei.silentgems.desc.fluffypuffseeds=毛絨種子的獲取方法與小麥種子的獲取方法相同，當你將其種植在耕地上後，它會生長並產出蓬鬆絨毛。
-jei.silentgems.desc.torchbandolier=火把子彈袋可以裝載大量的火把。要放置火把，只需拿著袋子右鍵單擊。如果自動填充打開，它將自動吸收火把。要切換自動填充，請在潛行的同時右鍵單擊空氣。潛行左鍵單擊取出存儲的火把（取出前請關閉自動填充模式）。
+jei.silentgems.desc.torchbandolier=火把子彈袋可以裝載大量的火把。要放置火把，只需拿著袋子右鍵單擊。如果自動填充打開，它將自動吸收火把。要切換自動填充，請在潛行的同時右鍵單擊空氣。潛行左鍵單擊取出儲存的火把（取出前請關閉自動填充模式）。
 
 
 
@@ -1386,8 +1386,8 @@ guide.silentgems.toolPartPage=&n%s<r><n><n>層級：%s<n>礦物辭典：%s<n>
 
 #Blocks
 guide.silentgems.chapter.chaosAltar.name=混沌法壇
-guide.silentgems.chapter.chaosAltar.text1=<item>混沌法壇<r>有兩種功能，它可以對放置在其中的混沌能量物品充能，並對一些物品進行嬗變。<n><n>祭壇可以從任何混沌能量生產裝置（節點，混沌塔等） 中接受混沌<imp>混沌<r>能量並大量存儲。
-guide.silentgems.chapter.chaosAltar.text2=&n充能<r><n><n>在法壇最左邊的槽中放置<imp>混沌能量存儲物品<r>以對其進行充能。如果可以，充能完成的物品將會別移動到右側最後一個槽中。另外，任何物品都可以放置在催化劑槽。
+guide.silentgems.chapter.chaosAltar.text1=<item>混沌法壇<r>有兩種功能，它可以對放置在其中的混沌能量物品充能，並對一些物品進行嬗變。<n><n>祭壇可以從任何混沌能量生產裝置（節點，混沌塔等） 中接受混沌<imp>混沌<r>能量並大量儲存。
+guide.silentgems.chapter.chaosAltar.text2=&n充能<r><n><n>在法壇最左邊的槽中放置<imp>混沌能量儲存物品<r>以對其進行充能。如果可以，充能完成的物品將會別移動到右側最後一個槽中。另外，任何物品都可以放置在催化劑槽。
 guide.silentgems.chapter.chaosAltar.text3=&n嬗變<r><n><n>最左側槽放入需要<imp>嬗變物品<r>，中間下側槽放入<imp>催化劑物品<r>。催化劑<imp>不會被消耗<r>。為了運行嬗變，<vimp>必須有混沌能量供能<r>！
 guide.silentgems.chapter.chaosAltar.text4=&n配方<r><n><n>&7這一部分可以作為參考，但是……<r><n>寶石碎片可以通過黏液球作為催化劑嬗變為完整寶石，而完整寶石可以通過岩漿膏作為催化劑嬗變成寶石碎片，嬗變是有損的，一個寶石最多產生6個碎片，四個混沌源質碎片可以透過使用鑽石作為催化劑嬗變成完整的混沌源質，這樣就可以複製混沌源質了。
 guide.silentgems.chapter.chaosFlowerPot.name=混沌花盆
@@ -1410,13 +1410,13 @@ guide.silentgems.chapter.materialGrader.text1=<item>寶石分類機<r>通過混�
 guide.silentgems.chapter.materialGrader.text2=§n分級<r><n><n>可獲得的分級，從最差至最好為<vimp>E，D，C，B，A，S，SS ，SSS<r>。分級時正態分佈， B為平均分級。這意味著分級離B越遠，分級越稀有。大多時候你會獲得D-S。 <n><n>每個分級將提升屬性，連E也不例外。 E賦予大多屬性2%%加成。 SSS則賦予屬性32%%加成。
 guide.silentgems.chapter.ores.name=礦石
 guide.silentgems.chapter.ores.text1=這個mod是什麼樣的，能不能<imp>閃亮的挖礦<r>？本章包含您在世界上可以找到的所有礦石的訊息。以下頁面中的數字直接從您的配置中拉出，因此它們是準確的。<n><n>請注意，<vimp>此mod沒有自己的"retrogen"<r>所以礦石不會在添加MOD之前就存在的方塊中產生。如果這是一個問題，請嘗試使用Simpleretrogen mod。
-guide.silentgems.chapter.ores.text2=16種類型的 閃亮寶石 生成在<imp>主世界（或類似的世界）<r>中。默認情況下，它們的生成是相當普遍的，並且所有類型的寶石的生成機率是相同的，但由於每次生成的寶石礦叢是隨機的，所以你偶爾能找到很多的同類寶石。
-guide.silentgems.chapter.ores.text3=16種類型的 深色寶石 生成在<imp>下界<r>中。默認情況下，它們的生成是相當普遍的，並且所有類型的寶石的生成機率是相同的，但由於每次生成的寶石礦叢是隨機的，所以你偶爾能找到很多的同類寶石。
-guide.silentgems.chapter.ores.text4=混沌礦石在默認情況下比較少見，但礦叢的生成較大。混沌礦石能冶煉成<imp>混沌源質<r>，是中後期遊戲的物品和設備的重要<imp>合成材料<r>。
+guide.silentgems.chapter.ores.text2=16種類型的 閃亮寶石 生成在<imp>主世界（或類似的世界）<r>中。預設情況下，它們的生成是相當普遍的，並且所有類型的寶石的生成機率是相同的，但由於每次生成的寶石礦叢是隨機的，所以你偶爾能找到很多的同類寶石。
+guide.silentgems.chapter.ores.text3=16種類型的 深色寶石 生成在<imp>下界<r>中。預設情況下，它們的生成是相當普遍的，並且所有類型的寶石的生成機率是相同的，但由於每次生成的寶石礦叢是隨機的，所以你偶爾能找到很多的同類寶石。
+guide.silentgems.chapter.ores.text4=混沌礦石在預設情況下比較少見，但礦叢的生成較大。混沌礦石能冶煉成<imp>混沌源質<r>，是中後期遊戲的物品和設備的重要<imp>合成材料<r>。
 guide.silentgems.chapter.ores.text5=混沌礦石也可以在一些模組中的“磨粉”機器中進行處理。
 guide.silentgems.chapter.ores.text6=終界源質礦石，與混沌礦石類似，它們只能在<imp>終界<r>被發現。不過它們的生成量比較大。
 guide.silentgems.chapter.ores.text7=冶煉礦石產物如上圖
-guide.silentgems.chapter.ores.text8=16種“光寶石”<imp>只在終界<r>生成。默認設定，他們是滿普遍的，每種種類生成機率是同等的。每個礦脈選擇生成的寶石是隨機的，所以機率上你找到其中一種寶石的機率會比另一種還高。
+guide.silentgems.chapter.ores.text8=16種“光寶石”<imp>只在終界<r>生成。預設設定，他們是滿普遍的，每種種類生成機率是同等的。每個礦脈選擇生成的寶石是隨機的，所以機率上你找到其中一種寶石的機率會比另一種還高。
 guide.silentgems.chapter.teleporter.name=傳送點
 guide.silentgems.chapter.gemDecoBlocks.name=裝飾寶石方塊
 guide.silentgems.chapter.gemDecoBlocks.text1=寂靜寶石擁有各式各樣的<imp>寶石裝飾方塊<r>，32種寶石都有它們對應的裝飾方塊，除了發光的燈以外，它們均沒有其他功能。裝飾方塊包括<imp>寶石塊，磚（淺色和塗層），玻璃和燈<r>。
@@ -1455,7 +1455,7 @@ guide.silentgems.chapter.craftingMaterial.text127=<item>烈焰紅石<r>
 guide.silentgems.chapter.craftingMaterial.text128=<item>神秘黏稠物<r><n><n>起源和使用未知。
 guide.silentgems.chapter.craftingMaterial.text129=<item>未加工的混沌鐵錠<r><n><n>將混沌源質與鐵錠融合併熔煉。
 guide.silentgems.chapter.craftingMaterial.text130=<item>混沌鐵錠<r><n><n>混沌源質與鐵錠的融合。
-guide.silentgems.chapter.craftingMaterial.text131=<item>終界粘液球<r><n><n>在終界生成的末地史萊姆會掉落。
+guide.silentgems.chapter.craftingMaterial.text131=<item>終界黏液球<r><n><n>在終界生成的終界史萊姆會掉落。
 guide.silentgems.chapter.craftingMaterial.text132=<item>靈魂之殼<r><n><n><item>工具之魂<r>的合成材料。
 guide.silentgems.chapter.craftingMaterial.text133=<item>石棒<r><n><n>石頭製成的棒子。可用於合成石柄火把。
 guide.silentgems.chapter.chaosGem.name=混沌寶石
@@ -1463,8 +1463,8 @@ guide.silentgems.chapter.chaosGem.text1=<item>混沌寶石<r>就像<imp>可重�
 guide.silentgems.chapter.chaosGem.text2=你可以透過簡單的合成來嵌入符文，並可以一次合成嵌入多個符文。這顆寶石嵌入了力量II和抗性提升II。它仍然還具有一些空閒的符文槽。也許加一下<imp>容量<r>或<imp>充能<r>會更好？
 guide.silentgems.chapter.chaosGem.text3=你可以透過拿著混沌寶石<imp>右鍵單擊<r>啟動和停用它們。你可以使用<imp>綁定鍵<r>來切換啟用寶石。當然，記得 <vimp>給寶石充能<r>。你可以將寶石放置在<item>混沌法壇<r>中來獲得最好的充能效果。法壇周圍最好放置了足夠的<item>節點<r>和/或<item>混沌塔<r>來補充能量。你覺得寶石的能量快取不足，試試使用<item>混沌寶珠<r>吧。
 guide.silentgems.chapter.chaosOrb.name=混沌寶珠
-guide.silentgems.chapter.chaosOrb.text1=<item>=混沌寶珠<r>屬於攜帶式<imp>存儲混沌能量<r>的設備。它主要是為了讓玩家使用更多的超級物品。但也可以給使用混沌能量的物品充能。透過將其放置在<item>法壇<r>中或者站在<item>節點<r>和/或<item>混沌塔<r>附近，它會自動吸收能量。<n><n>如果你想禁止寶珠給其他物品充能，那麼你可以Shift右鍵寶珠。對玩家的充能不能被禁用。
-guide.silentgems.chapter.chaosOrb.text2=請注意，大部分寶珠是<vimp>非常脆弱的<r>，如果它存儲的混沌能量低於其存儲上限的一半，那麼寶珠就有可能碎裂。破裂的機率隨著能量的降低而增加。較高等級的寶珠通常具有較低的破裂機率，並且在破裂之前可以吸收更多的傷害。不過，<item>完美的混沌寶珠<r>是堅不可摧，無法破裂的。
+guide.silentgems.chapter.chaosOrb.text1=<item>=混沌寶珠<r>屬於攜帶式<imp>儲存混沌能量<r>的設備。它主要是為了讓玩家使用更多的超級物品。但也可以給使用混沌能量的物品充能。透過將其放置在<item>法壇<r>中或者站在<item>節點<r>和/或<item>混沌塔<r>附近，它會自動吸收能量。<n><n>如果你想禁止寶珠給其他物品充能，那麼你可以Shift右鍵寶珠。對玩家的充能不能被禁用。
+guide.silentgems.chapter.chaosOrb.text2=請注意，大部分寶珠是<vimp>非常脆弱的<r>，如果它儲存的混沌能量低於其儲存上限的一半，那麼寶珠就有可能碎裂。破裂的機率隨著能量的降低而增加。較高等級的寶珠通常具有較低的破裂機率，並且在破裂之前可以吸收更多的傷害。不過，<item>完美的混沌寶珠<r>是堅不可摧，無法破裂的。
 guide.silentgems.chapter.drawingCompass.name=繪圖圓規
 guide.silentgems.chapter.drawingCompass.text1=<item>繪圖圓規<r>是一種十分奇妙的工具，它能在世界上繪製圓形，並且計算<imp>兩點間的距離<r>.<n><n>用你的圓規右鍵單擊某個方塊的頂部，這是你畫的圓的圓心，再次右鍵另一個地方繪製圓邊。
 guide.silentgems.chapter.drawingCompass.text2=當繪圖圓規被<imp>拿在手上<r>時，你畫的圓將顯示為<imp>粒子效果<r>（我建議你將其放在副手欄）。粒子效果擁有與繪圖圓規同樣的顏色，你可以透過使用染料染色圓規來改變粒子效果的顏色。請注意，它需要正確的操作才能形成圓，請確保你能點到<vimp>方塊正確的麵<r>。如果您不習慣畫圓，您可能需要參考plotz.co.uk這樣的網站。
@@ -1481,10 +1481,10 @@ guide.silentgems.chapter.gem.name=寶石
 guide.silentgems.chapter.gem.text1=<item>寶石<r>是寂靜寶石模組的基礎，總共有32種，其中16種<imp>閃亮寶石<r>能在主世界或類似的世界的地下獲得。而16中<imp>深色寶石<r>則只能在下界獲得。寶石可以分解成<item>碎片<r>或者升級為<item>增強寶石<r>, 用於製作各式各樣的方塊，物品和工具。
 guide.silentgems.chapter.gem.text2=1寶石->9碎片<n>9碎片->1寶石
 guide.silentgems.chapter.gem.text3=增強寶石是這樣製作的。成本雖然很高但值得。
-guide.silentgems.chapter.holdingGem.name=存儲寶石
-guide.silentgems.chapter.holdingGem.text1=<item>存儲寶石<r>是能夠存儲大量的<imp>單個方塊<r>的物品。它還可以直接<imp>放置其存儲的方塊<r>。出來是能夠存儲方塊外，這種寶石具有和<item>火把子彈袋<r>相同的功能。
-guide.silentgems.chapter.holdingGem.text2=製作一個存儲寶石，將一個方塊與寶石合成來<imp>設定它能存儲那個方塊<r>。你可以在稍後重新重設它，但寶石<vimp>必須是空的<r>. 寶石的顏色純粹是按合成的寶石來定。
-guide.silentgems.chapter.holdingGem.text3=&n控制<r><n><n>一旦設定完成，它將會從你的<imp>物品欄吸收設定好的方塊<r>，將寶石拿在手上時，右鍵單擊放置存儲的方塊。Shift右鍵單擊可以<imp>禁用自動填充模式<r>。潛行並左鍵單擊（最好在自動填充模式關閉的情況下）會以一次<imp>一組<r>的情況下拿處存儲的方塊。
+guide.silentgems.chapter.holdingGem.name=儲存寶石
+guide.silentgems.chapter.holdingGem.text1=<item>儲存寶石<r>是能夠儲存大量的<imp>單個方塊<r>的物品。它還可以直接<imp>放置其儲存的方塊<r>。出來是能夠儲存方塊外，這種寶石具有和<item>火把子彈袋<r>相同的功能。
+guide.silentgems.chapter.holdingGem.text2=製作一個儲存寶石，將一個方塊與寶石合成來<imp>設定它能儲存那個方塊<r>。你可以在稍後重新重設它，但寶石<vimp>必須是空的<r>. 寶石的顏色純粹是按合成的寶石來定。
+guide.silentgems.chapter.holdingGem.text3=&n控制<r><n><n>一旦設定完成，它將會從你的<imp>物品欄吸收設定好的方塊<r>，將寶石拿在手上時，右鍵單擊放置儲存的方塊。Shift右鍵單擊可以<imp>禁用自動填充模式<r>。潛行並左鍵單擊（最好在自動填充模式關閉的情況下）會以一次<imp>一組<r>的情況下拿處儲存的方塊。
 guide.silentgems.chapter.legacyItems.name=遺留物品
 guide.silentgems.chapter.legacyItems.text1=你會注​​意到這個模組裡有幾個物品在文本提示裡是標上<imp>遺留物品<r>。這些是將會在1.13移除，通常是因為它們會搬遷到一個獨立的模組上。例如，工具和盔甲將會搬遷到Silent Gear（在1.12.2已經出了，你可以去看看）。把它想像成好事將近的友情提醒！
 guide.silentgems.chapter.legacyItems.text2=如果你還沒聽說，距離1.13的Forge出現還有一段時間。至少還要幾個月才有穩定/可以玩的版本。但它會是一個大更新，所以我提前準備了。 <n><n>如果覺得遺留物品的文本提示讓你覺得有點煩的話，可以請我添加一個配置，我很樂意配合的。 <3
@@ -1493,7 +1493,7 @@ guide.silentgems.chapter.tipUpgrade.text1=<item>鑲嵌升級<r>給予武器和�
 guide.silentgems.chapter.tipUpgrade.text2=升級對於挖掘等級只能提高不能降低，所以，這意味著哪怕升級的挖掘等級低於工具的挖掘等級，鑲嵌升級後<imp>也將不會降低挖掘等級<r>所以不要害怕黃金和綠寶石的升級，它們有它們的用途。<n><n>大多數升級會為工具提供<imp>增益效果<r>比如，鑽石升級會為工具增加512點的耐久。
 guide.silentgems.chapter.tipUpgrade.text3=所有升級都是由空白升級和鑲嵌物（鐵、金、鑽石和綠寶石）製作而成的，這是升級的基礎配方，詳情請參閱JEI。
 guide.silentgems.chapter.torchBandolier.name=火把子彈袋
-guide.silentgems.chapter.torchBandolier.text1=<item>火把子彈袋<r>可以<imp>存儲大量火把<r>並且可以直接<imp>右鍵放置<r>它們。<n><n>注意，你可以使用本mod的<imp>工具右鍵單擊<r>使用火把子彈袋來放置火把，只要將火把子彈袋放置在本mod的工具的旁邊。
+guide.silentgems.chapter.torchBandolier.text1=<item>火把子彈袋<r>可以<imp>儲存大量火把<r>並且可以直接<imp>右鍵放置<r>它們。<n><n>注意，你可以使用本mod的<imp>工具右鍵單擊<r>使用火把子彈袋來放置火把，只要將火把子彈袋放置在本mod的工具的旁邊。
 guide.silentgems.chapter.torchBandolier.text2=&n控制<r><n><n>火把子彈袋會從你的<imp>物品欄吸收火把<r>，將袋子拿在手上時，右鍵單擊放置火把。Shift右鍵單擊可以<imp>禁用自動填充模式<r>潛行並左鍵單擊（最好在自動填充模式關閉的情況下）會以一次<imp>一組<r>的情況取出火把。
 
 #Tools
@@ -1501,7 +1501,7 @@ guide.silentgems.chapter.toolParts.name=工具部分
 guide.silentgems.chapter.toolParts.text0=
 guide.silentgems.chapter.toolParts.text1=
 guide.silentgems.chapter.axe.name=斧
-guide.silentgems.chapter.axe.text1=<item>斧<r>與原版斧非常類似，除了它們也對<imp>葉子有效<r>。當然，破壞葉子不需要消耗耐久。放置在斧的右側或者快捷欄最後一格的方塊，可以直接使用斧右鍵放置。<n><n>超級層級的斧默認情況下擁有<imp>伐木工<r>的能力，但可以使用配置文件將其修改為區域挖掘。
+guide.silentgems.chapter.axe.text1=<item>斧<r>與原版斧非常類似，除了它們也對<imp>葉子有效<r>。當然，破壞葉子不需要消耗耐久。放置在斧的右側或者快捷欄最後一格的方塊，可以直接使用斧右鍵放置。<n><n>超級層級的斧預設情況下擁有<imp>伐木工<r>的能力，但可以使用配置文件將其修改為區域挖掘。
 guide.silentgems.chapter.bow.name=弓
 guide.silentgems.chapter.bow.text1=<item>弓<r>功能非常像原版弓，但它們的拉弓速度和箭的傷害可能有所不同。<imp>拉弓速度<r>受到材料的攻擊速度和挖掘速度影響。<imp>箭枝傷害<r>受到材料的近戰傷害的影響。最快的弓可以在半秒內拉滿弓弦。超級層級的弓沒有特殊能力。
 guide.silentgems.chapter.bow.text2=請注意，超級層級的弓需要<item>鍍金線<r>作為弓弦，而其他層級只需要<item>線<r>。棒也必須匹配。<imp>鑲嵌升級<r>可以應用於弓。<imp>裝飾<r>也可以應用於弓，但由於技術限制，沒有視覺效果。
