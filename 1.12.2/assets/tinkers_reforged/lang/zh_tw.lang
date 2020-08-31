@@ -36,12 +36,12 @@ item.tinkers_reforged.club.desc=一個能產生衝擊波擊退敵人的武器。
 item.tinkers_reforged.club_head.name=狼牙棒頭端
 
 # Khopesh
-item.tinkers_reforged.curved_blade.name=曲劍
+item.tinkers_reforged.curved_blade.name=彎刀刀刃
 item.tinkers_reforged.khopesh.name=霍佩什彎刀
 item.tinkers_reforged.khopesh.desc=埃及風格寬劍
 
 # Greatsword
-item.tinkers_reforged.great_blade.name=大劍
+item.tinkers_reforged.great_blade.name=大劍劍刃
 item.tinkers_reforged.greatsword.name=大劍
 item.tinkers_reforged.greatsword.desc=巨大且強力的大劍。
 
@@ -61,9 +61,9 @@ fluid.kovar=熔融鐵鈷鎳合金
 fluid.osmium=熔融鋨
 fluid.refined_obsidian=熔融強化黑曜石
 fluid.refined_glowstone=熔融強化螢石
-fluid.ventium=熔融Ventium
-fluid.horizonite=熔融Horizonite
-fluid.pyrope=熔融Pyrope
+fluid.ventium=熔融赤風鐵
+fluid.horizonite=熔融地平線石
+fluid.pyrope=熔融鎂鋁榴石
 fluid.black_quartz=熔融焦黑石英
 fluid.enori=熔融鐵晶
 fluid.palis=熔融青金石水晶
@@ -112,12 +112,12 @@ material.reforged_limestone.name=石灰岩
 material.reforged_khnumite.name=克奴姆陶 
 
 # blueskies
-material.reforged_ventium.name=Ventium
-material.reforged_horizonite.name=Horizonite
-material.reforged_pyrope.name=Pyrope
-material.reforged_turquoise.name=Turquoise
-material.reforged_charoite.name=Charoite
-material.reforged_dioside.name=Diopside
+material.reforged_ventium.name=赤風鐵
+material.reforged_horizonite.name=地平線石
+material.reforged_pyrope.name=鎂鋁榴石
+material.reforged_turquoise.name=綠松石
+material.reforged_charoite.name=紫龍晶
+material.reforged_dioside.name=透輝石
 
 # Mystical world
 material.reforged_amethyst.name=紫水晶
