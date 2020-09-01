@@ -21,7 +21,7 @@ item.tinkers_reforged.qivium_gear.name=Qivium齒輪
 #kovar
 item.tinkers_reforged.kovar_nugget.name=鐵鈷鎳合金粒
 item.tinkers_reforged.kovar_ingot.name=鐵鈷鎳合金錠
-item.tinkers_reforged.kovar_ingot.name=鐵鈷鎳合金粉
+item.tinkers_reforged.kovar_dust.name=鐵鈷鎳合金粉
 item.tinkers_reforged.kovar_plate.name=鐵鈷鎳合金板
 item.tinkers_reforged.kovar_gear.name=鐵鈷鎳合金齒輪
 
@@ -32,7 +32,7 @@ item.tinkers_reforged.gladius_bindings.name=短劍綁定結
 
 # Club
 item.tinkers_reforged.club.name=狼牙棒
-item.tinkers_reforged.club.desc=一個能產生衝擊波擊退敵人的武器。
+item.tinkers_reforged.club.desc=一個能夠重重擊倒你敵人的近戰武器。
 item.tinkers_reforged.club_head.name=狼牙棒頭端
 
 # Khopesh
