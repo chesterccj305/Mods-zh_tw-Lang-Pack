@@ -197,7 +197,7 @@ key.categories.naming=寵物命名
 
 item.netherportal.noreturn=無法找到上次的返回點，返回到上次已知重生點
 item.netherportal.patience=在寵物下界傳送門尋找安全傳送點時請耐心等待
-inventorypets.update.download=["Click to: [",{"text":"下載","color":"gold","hoverEvent":{"action":"show_text","value":{" text":"點擊這里以看現有最新的1.10版本下載","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft .curseforge.com/projects/inventory-pets/files"}},"]"]
+inventorypets.update.download=["Click to: [",{"text":"下載","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"點擊這里以看現有最新的1.10版本下載","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft .curseforge.com/projects/inventory-pets/files"}},"]"]
 
 advancement.ip.petach_april_fool=笑話在你身上
 advancement.ip.petach_april_fool.desc=獲得[寵物]愚人節！
@@ -589,4 +589,3 @@ tooltip.ip.xeroxparcgui=可能沒用
 info.ip.livingbedinteract=餵我最喜歡的食物來睡覺
 info.ip.livinganvilinteract=餵我最喜歡的食物來修理你的物品
 tooltip.ip.patreonitem=僅限贊助人
-
