@@ -60,11 +60,11 @@ info.redstonerepository.tooltip.bound=綁定方塊：
 info.redstonerepository.tooltip.active=目前%s激活%s。 按下（%s）以停用
 info.redstonerepository.tooltip.disabled=目前%s停用%s。 按下（%s）以激活
 
-info.redstonerepository.tooltip.bind=按V鍵激活後右鍵與玩綁定
+info.redstonerepository.tooltip.bind=按V鍵激活後右鍵與玩家綁定
 info.redstonerepository.tooltip.notbound=沒有與玩家綁定
 
 info.redstonerepository.tooltip.lightning=按V鍵激活後右擊可調用天空的力量
-info.redstonerepository.tooltip.clearskies=按V鍵激活後右鍵與玩綁定
+info.redstonerepository.tooltip.clearskies=按V鍵激活後右鍵與玩家綁定
 
 #Chat Messages
 info.redstonerepository.chat.table.tinker.instruct=右擊powersuit以進行升級。
