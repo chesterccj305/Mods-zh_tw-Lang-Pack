@@ -35,7 +35,7 @@
 
 	"block.lightestlamp.glowing_glass_block":"發光玻璃",
 	"block.lightestlamp.debug_chunk_cleaner":"區塊光照重載器(Debug)",
-	"block.lightestlamp.occ":" OCC塊清理程序(Debug)",
+	"block.lightestlamp.occ":"OCC塊清理程序(Debug)",
 	"block.lightestlamp.boron_ore":"硼礦",
 
 	"item.lightestlamp.glowing_dust_agglomeratio":"發光的塵埃聚集",
