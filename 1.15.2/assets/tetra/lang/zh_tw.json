@@ -1935,7 +1935,7 @@
     "tetra/schema/storage.slot1": "材料",
 
     "tetra.mudule.toolbelt/storage.name": "儲存袋",
-    "tetra.mudule.toolbelt/storage.description": " 一個小袋子，能夠儲存大量的物品。袋子里的物品不能快速取出。",
+    "tetra.mudule.toolbelt/storage.description": "一個小袋子，能夠儲存大量的物品。袋子里的物品不能快速取出。",
 
     "tetra.variant.storage/forged_mesh": "網格袋",
     "tetra.variant.storage/leather": "大型存储袋",
