@@ -132,7 +132,7 @@
     "container.naturesaura:offering.name": "神靈供奉",
     "container.naturesaura:animal_spawner.name": "降生祭壇",
     "info.naturesaura.aura_in_area": "周圍的靈氣",
-    "info.naturesaura.book.landing": "$(靈氣) 是一個複雜的概念，創造、收集、使用它也許會有些困難。$(br)此 $(item)自然靈氣指南$()包含了你所需要的一切信息。",
+    "info.naturesaura.book.landing": "$(靈氣) 是一個複雜的概念，創造、收集、使用它也許會有些困難。$(br)此 $(item)自然靈氣指南$()包含了你所需要的一切訊息。",
     "info.naturesaura.book.subtitle": "自然靈氣指南書",
     "info.naturesaura.stored_pos": "你草草記下了這個位置",
     "info.naturesaura.connected": "你創造了一個連接",
