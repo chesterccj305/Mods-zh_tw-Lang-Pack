@@ -29,7 +29,7 @@
   "bonsaitrees.gui.tree_creator.warning.missing_tree_id": "未指定樹ID！",
   "bonsaitrees.gui.tree_creator.checkbox.overwrite_files": "覆蓋現有文件",
   "bonsaitrees.gui.tree_creator.label.saved_files": "保存的文件在'<mc>/openloader/'目錄中！",
-  "bonsaitrees.gui.tree_creator.hint.openloader": "您想使用Open Loader mod來使用新的盆景！如果您已經安裝了它並且正在玩單人遊戲，則只需重新載入資源[F3 + T] ，然後是/ reload命令。否則，請安裝mod並重新啟動遊戲。",
+  "bonsaitrees.gui.tree_creator.hint.openloader": "您想使用Open Loader mod來使用新的盆景！如果您已經安裝了它並且正在玩單人遊戲，則只需重新載入資源[F3 + T] ，然後是/ reload指令。否則，請安裝mod並重新啟動遊戲。",
   "bonsaitrees.gui.tree_creator.button.go_to_openloader": "打開載入程序",
 
   "bonsaitrees.gui.tree_creator.label.drop": "拖放",

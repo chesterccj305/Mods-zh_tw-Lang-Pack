@@ -46,10 +46,10 @@
     "message.rftoolsbase.filter_module.gold": "蹲下右鍵單擊清單以根據內容進行配置，或蹲下右鍵單擊一個塊以將該塊添加到過濾器中",
     "message.rftoolsbase.filter_module.info": "模式： ",
     "message.rftoolsbase.manual.header": "本指南是所有基於RFTools的技術模塊的手冊",
-    "message.rftoolsbase.tablet.header": "平板電腦可用於參考遠端GUI和信息",
+    "message.rftoolsbase.tablet.header": "平板電腦可用於參考遠端GUI和訊息",
     "message.rftoolsbase.tablet.gold": "空平板電腦：打開GUI以與可能的平板電腦資訊物品連接",
-    "message.rftoolsbase.tablet_filled.header": "平板電腦可用於參考遠端GUI和信息",
-    "message.rftoolsbase.tablet_filled.gold": "平板電腦包含信息：右鍵單擊以獲取信息gui，蹲下右鍵單擊以獲取平板電腦gui",
+    "message.rftoolsbase.tablet_filled.header": "平板電腦可用於參考遠端GUI和訊息",
+    "message.rftoolsbase.tablet_filled.gold": "平板電腦包含訊息：右鍵單擊以獲取訊息gui，蹲下右鍵單擊以獲取平板電腦gui",
     "message.rftoolsbase.smartwrench.header": "通用智能扳手。 空中右鍵單擊以更改模式",
     "message.rftoolsbase.smartwrench.gold": "用作普通扳手：蹲下右鍵單擊以拾取，右鍵單擊以旋轉",
     "message.rftoolsbase.smartwrench.info1": "模式： ",
@@ -85,6 +85,6 @@
     "rftoolsbase.entry.infusing": "注能",
     "rftoolsbase.page.infusing0": "通過在機器中使用空間碎片，可以提高許多高科技機器的效率。 他們可以更快地工作，提供更多的輸出，使用更少的功率等等$(br2)$(5)注能$() 注入器將使其消耗更少的電量",
     "rftoolsbase.entry.information_screen": "資訊螢幕",
-    "rftoolsbase.page.information_screen0": "資訊螢幕是一個小螢幕，可以將其放置在機器旁邊，以顯示一些資訊。 預設情況下，該螢幕將顯示能源信息，但是某些機器（例如RFTools Power的PowerCells）具有其他查看選項",
+    "rftoolsbase.page.information_screen0": "資訊螢幕是一個小螢幕，可以將其放置在機器旁邊，以顯示一些資訊。 預設情況下，該螢幕將顯示能源訊息，但是某些機器（例如RFTools Power的PowerCells）具有其他查看選項",
     "rftoolsbase.page.information_screen1": "在資訊螢幕上使用扳手將切換顯示模式（如果連接的機器支援）"
 }

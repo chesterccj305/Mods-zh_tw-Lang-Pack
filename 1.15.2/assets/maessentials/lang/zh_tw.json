@@ -1,6 +1,6 @@
 {
   "_comment": "Global",
-  "maessentials.cooldown": "§c你需要等 §4%s§c 秒才能重新使用這個命令",
+  "maessentials.cooldown": "§c你需要等 §4%s§c 秒才能重新使用這個指令",
   "maessentials.provide.player": "§c請輸入玩家名",
   "maessentials.provide.player.new": "§c請輸入新玩家名",
   "maessentials.specify.player": "§c請指定玩家名",
@@ -9,7 +9,7 @@
   "maessentials.illegal_date": "§c無效的遊戲模式",
   "maessentials.invalid.location": "§c無效的位置",
   "maessentials.provide.location": "§c請輸入位置",
-  "maessentials.only.single": "§c這個命令只能在單人模式使用",
+  "maessentials.only.single": "§c這個指令只能在單人模式使用",
 
   "_comment": "Back",
   "back.maessentials.not_found": "§c找不到返回位置",

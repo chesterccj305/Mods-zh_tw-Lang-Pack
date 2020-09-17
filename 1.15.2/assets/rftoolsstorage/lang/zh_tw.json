@@ -22,7 +22,7 @@
     "message.rftoolsstorage.shiftmessage": "<按Shift>",
     "message.rftoolsstorage.crafting_manager.header": "製作中！合成控制器製作中！",
     "message.rftoolsstorage.crafting_manager.gold": "這還沒有功能",
-    "message.rftoolsstorage.tablet_scanner.header": "平板電腦可用於參考遠程GUI和信息",
+    "message.rftoolsstorage.tablet_scanner.header": "平板電腦可用於參考遠程GUI和訊息",
     "message.rftoolsstorage.tablet_scanner.gold": "平板電腦包含指向儲存掃描儀的連結：右鍵單擊以獲取掃描儀gui，蹲下右鍵單擊以獲取平板電腦gui",
     "message.rftoolsstorage.storage_scanner.header": "這台機器將掃描附近的所有庫存並將它們顯示在列表中。然後，您可以搜索和訪問這些庫存中的項目",
     "message.rftoolsstorage.storage_scanner.gold": "注能加成：降低功耗",
