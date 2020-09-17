@@ -56,7 +56,7 @@
   "block.structurize.side_framed_acacia_stone_timber_frame": "側邊外框架相思木 石頭木架塊",
   "block.structurize.up_gated_birch_cactus_timber_frame": "上門框架 樺木 仙人掌木木架塊",
   "block.structurize.purple_clay_spruce_shingle": "紫色黏土 杉木瓦",
-  "com.structurize.command.scan.no.perm": "沒有權限通過命令進行掃描，請使用該工具！",
+  "com.structurize.command.scan.no.perm": "沒有權限通過指令進行掃描，請使用該工具！",
   "block.structurize.side_framed_horizontal_acacia_cobble_stone_timber_frame": "側邊水平架 相思木 鵝卵石木架塊",
   "item.structurize.shapetool": "形狀工具",
   "block.structurize.one_crossed_lr_acacia_dark_oak_timber_frame": "左高斜架 相思木 黑橡木木架塊",

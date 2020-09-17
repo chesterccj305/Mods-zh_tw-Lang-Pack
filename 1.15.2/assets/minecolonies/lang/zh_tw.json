@@ -16,8 +16,8 @@
   "minecolonies.config.pathfinding.comment": "所有與尋路有關的配置",
   "minecolonies.config.requestSystem": "請求系統設置",
   "minecolonies.config.requestSystem.comment": "與請求系統有關的所有配置",
-  "minecolonies.config.commands": "命令設置",
-  "minecolonies.config.commands.comment": "與創世殖民命令有關的所有配置",
+  "minecolonies.config.commands": "指令設置",
+  "minecolonies.config.commands.comment": "與創世殖民指令有關的所有配置",
   "minecolonies.config.disablecitizenvoices": "公民之聲",
   "minecolonies.config.disablecitizenvoices.comment": "禁用公民聲音。[預設：false]]",
 
@@ -330,7 +330,7 @@
   "entity.builder.messagenobuilder": "你需要一個建築工才能建造或升級這個建築物。",
   "entity.farmer.needseed": "我需要%s來種植",
 
-  "com.minecolonies.command.notop": "你必須是管理員才能使用這條命令",
+  "com.minecolonies.command.notop": "你必須是管理員才能使用這條指令",
   "com.minecolonies.command.whereami.nocolony": "No colony close at all.",
   "com.minecolonies.command.whereami.colonyclose": "You're not inside any colony, the closest colony is approx %.2f blocks away.",
   "com.minecolonies.command.whereami.incolony": "You're inside colony %s with id: %s, the colony center is approx %.2f blocks away.",
