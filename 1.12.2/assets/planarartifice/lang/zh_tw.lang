@@ -104,7 +104,7 @@ research.singularity.complete.text=是的，我做到了！<BR>雖然還不能�
 research.mirrorteleporter.title=[PA] 鏡面傳送石
 research.mirrorteleporter.stage.1.text=隨著對空間研究的深入，"傳送"這詞也已平凡在我的腦海中回蕩。雖然，目前我只能借助魔鏡的力量進行傳送。不過，我相信我應該很快就能解決這個問題。等等，我或許可以建造一個傳送石，並讓其他傳送點連結其。<PAGE>也許，這就是一個很好的構想。
 research.mirrorteleporter.stage.2.text=好吧，理論上這應該會起作用的才對，就像符文矩陣那樣。這應該算是鏡面傳送石的核心部位，它將用來控制傳送石多方塊結構。沒有它我真的不知道該如何是好。<BR>我也許會用到空間珍品。
-research.mirrorteleporter.complete.text=完成！<BR>傳送石的搭建類似雪傀儡，它需要用到兩塊奧術石磚和一塊鏡面矩陣，然後即可用世界鹽來激活它。這時你便可以向其放入一塊魔力水晶碎片，當你再次右擊它時，它便會將你傳送到相同魔力水晶碎片的傳送石周圍。值得注意的是，如果相同元素的魔力水晶碎片大於2（即出現了2個以上的相同元素魔力水晶碎片傳送石），則傳送將被阻斷。
+research.mirrorteleporter.complete.text=完成！<BR>傳送石的搭建類似雪傀儡，它需要用到兩塊奧術石磚和一塊鏡面矩陣，然後即可用世界鹽來啟用它。這時你便可以向其放入一塊魔力水晶碎片，當你再次右擊它時，它便會將你傳送到相同魔力水晶碎片的傳送石周圍。值得注意的是，如果相同元素的魔力水晶碎片大於2（即出現了2個以上的相同元素魔力水晶碎片傳送石），則傳送將被阻斷。
 
 research.alchemicalscribetools.title=[PA] 煉金筆與墨
 research.alchemicalscribetools.complete.text=常規的筆與墨對你來說或許耗盡太快了，而且墨囊的獲取也枯燥乏味。因此，你何從不考慮對其進行改良呢？

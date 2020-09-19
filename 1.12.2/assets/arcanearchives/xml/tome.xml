@@ -1187,7 +1187,7 @@
             </p>
             <horizontal_rule/>
             <p>
-                以下的奧術寶石有各種被動效果。可以激活或者關閉的寶石可能在插入寶石格子觸發被動效果前需要被開啟。
+                以下的奧術寶石有各種被動效果。可以啟動或者關閉的寶石可能在插入寶石格子觸發被動效果前需要被開啟。
             </p>
             <p align="center">
                 <stack item="arcanearchives:slaughtergleam" scale="2.0"/>
@@ -1382,7 +1382,7 @@
             <p align="center"><image src="arcanearchives:gui/guidebook/gems_dun" tw="16" th="16" scale="3.0"/></p>
             <horizontal_rule/>
             <p>
-                大多數奧術寶石有一個內部的光庫，稱它為 <span bold="true">充能</span>。一旦寶石的充能耗盡，它就會變成<span bold="true">灰色</span>且直到被再次充能前，無法再發揮效果。當寶石變灰，你可以嘗試再充能它，通常是在持有灰色寶石的同時激活它。每個寶石都有獨特的方式再充能，在他們的單獨分頁中將會詳細註明。
+                大多數奧術寶石有一個內部的光庫，稱它為 <span bold="true">充能</span>。一旦寶石的充能耗盡，它就會變成<span bold="true">灰色</span>且直到被再次充能前，無法再發揮效果。當寶石變灰，你可以嘗試再充能它，通常是在持有灰色寶石的同時啟用它。每個寶石都有獨特的方式再充能，在他們的單獨分頁中將會詳細註明。
             </p>
             <p condition="false">
                 <stack item="arcanearchives:chromatic_powder"/> 除了各自獨特的充能方法外，奧術寶石也能通過消耗很多相同顏色的<span bold="true">Chromatic Powder</span>來充能。In the case of gems that can consume specific items to recharge，the specific item will always be consumed before the Chromatic Powder.
@@ -1420,7 +1420,7 @@
                 當持有並開啟時，你造成的攻擊將會附帶有更高的掉落等級。如果你揮舞著附帶掠奪效果的武器，它的掠奪附魔等級將會提升一個等級。通過左鍵單擊可以打開或關閉寶石。
             </p>
             <p>
-                <image src="arcanearchives:items/gems/asscher/dun" tw="16" th="16"/> 為了再充能猩紅掠奪，激活寶石的同時，背包中有一定數量的金粒。而金粒將會被消耗。
+                <image src="arcanearchives:items/gems/asscher/dun" tw="16" th="16"/> 為了再充能猩紅掠奪，啟用寶石的同時，背包中有一定數量的金粒。而金粒將會被消耗。
             </p>
             <horizontal_rule/>
             <p>
@@ -1513,7 +1513,7 @@
                 <image src="potioncore:gui/potion/antidote" tw="16" th="16"/> 任何受「純凈光華」影響的目標也會免疫毒藥60秒。此功能僅在安裝藥水核心時才會生效。
             </p>
             <p>
-                <image src="arcanearchives:items/gems/asscher/dun" tw="16" th="16"/> 為了再充能「純凈光華」，當你背包中有牛奶時激活奧術寶石。牛奶會被消耗，而桶會被退還。或者，如果你有一個<link ref="Items:RadiantAmphora">輻射雙耳瓶</link>並且連接著裝有牛奶的<link ref="Blocks:RadiantTank">輻射儲罐</link>，牛奶將會直接從相應的儲罐中消耗。
+                <image src="arcanearchives:items/gems/asscher/dun" tw="16" th="16"/> 為了再充能「純凈光華」，當你背包中有牛奶時啟用奧術寶石。牛奶會被消耗，而桶會被退還。或者，如果你有一個<link ref="Items:RadiantAmphora">輻射雙耳瓶</link>並且連接著裝有牛奶的<link ref="Blocks:RadiantTank">輻射儲罐</link>，牛奶將會直接從相應的儲罐中消耗。
             </p>
             <horizontal_rule/>
             <p>
@@ -1569,7 +1569,7 @@
                 「治愈祝福」是一種由粉紅色光譜的<link ref="Items:ShapedQuartz">雕琢輻射水晶</link>組成的上丁方形奧術寶石。
             </p>
             <p>
-                當持有並激活時，如果你手上了，寶石會以大約每秒半顆心的速度回覆生命值。每半顆心消耗一點充能。
+                當持有並啟動時，如果你手上了，寶石會以大約每秒半顆心的速度回覆生命值。每半顆心消耗一點充能。
             </p>
             <p>
                 <image src="arcanearchives:items/gems/asscher/dun" tw="16" th="16"/> 為了再充能「治愈祝福」，持有寶石殺死被動生物即可。這樣做可以獲得生物最大生命值一半的充能點數。
@@ -1597,13 +1597,13 @@
                 「蒙克石」是一種由黑色光譜的<link ref="Items:ShapedQuartz">雕琢輻射水晶</link>組成的橢圓形奧術寶石。
             </p>
             <p>
-                當持有並激活時，「蒙克石」讓你可以消耗植物的方塊來回覆你的饑餓度和飽腹度。每點饑餓度或飽腹度的回覆都將消耗1點充能。
+                當持有並啟用時，「蒙克石」讓你可以消耗植物的方塊來回覆你的饑餓度和飽腹度。每點饑餓度或飽腹度的回覆都將消耗1點充能。
             </p>
             <p>
                 不僅如此，即使你饑餓度滿了依然可以使用它。
             </p>
             <p>
-                <image src="arcanearchives:items/gems/oval/dun" tw="16" th="16"/> 為了再充能「蒙克石」，激活寶石並在背包中準備骨粉。需要五個骨粉才能充滿一個寶石，如果你的骨粉少於5個，那麽只能為充一部分能。骨粉會被消耗。
+                <image src="arcanearchives:items/gems/oval/dun" tw="16" th="16"/> 為了再充能「蒙克石」，啟用寶石並在背包中準備骨粉。需要五個骨粉才能充滿一個寶石，如果你的骨粉少於5個，那麽只能為充一部分能。骨粉會被消耗。
             </p>
             <horizontal_rule/>
             <p>
@@ -1688,7 +1688,7 @@
                 如果你正在吸收很大數量的經驗球，手持「心靈紡錘」將幫助你立刻吸收它們，而不是等它們一個一個排好隊被吸收。
             </p>
             <p>
-                <image src="arcanearchives:items/gems/pampel/dun" tw="16" th="16"/> 為了再充能「心靈紡錘」，激活寶石並在背包中準備書，書將會被消耗。
+                <image src="arcanearchives:items/gems/pampel/dun" tw="16" th="16"/> 為了再充能「心靈紡錘」，啟用寶石並在背包中準備書，書將會被消耗。
             </p>
             <horizontal_rule/>
             <p>
@@ -1716,7 +1716,7 @@
                 當持有時，你使用藥水，噴濺藥水，滯留型藥水將不再消耗藥水，而是消耗一點寶石充能點數。除此以外，使用藥水時不必再慢慢喝它們，而是立刻獲得它的藥水效果。
             </p>
             <p>
-                <image src="arcanearchives:items/gems/pampel/dun" tw="16" th="16"/> 為了再充能「聖水紡錘」，激活寶石並在背包中準備好地獄疣。每五個地獄疣能充滿一整個寶石，不足五個則只充能一部分寶石。最後地獄疣會被消耗。
+                <image src="arcanearchives:items/gems/pampel/dun" tw="16" th="16"/> 為了再充能「聖水紡錘」，啟用寶石並在背包中準備好地獄疣。每五個地獄疣能充滿一整個寶石，不足五個則只充能一部分寶石。最後地獄疣會被消耗。
             </p>
             <horizontal_rule/>
             <p>
@@ -1850,7 +1850,7 @@
                 當你手持「火鳳凰之路」且即將受到火焰傷害時，將會防止傷害並獲得30秒火焰抗性，消耗20點充能點數。
             </p>
             <p>
-                <image src="arcanearchives:items/gems/trillion/dun" tw="16" th="16"/> 為了再充能「火鳳凰之路」，激活寶石並在背包中準備火藥。三個火藥就能充滿一個寶石，不足三個火藥則充能一部分寶石。最終火藥會被消耗。
+                <image src="arcanearchives:items/gems/trillion/dun" tw="16" th="16"/> 為了再充能「火鳳凰之路」，啟用寶石並在背包中準備火藥。三個火藥就能充滿一個寶石，不足三個火藥則充能一部分寶石。最終火藥會被消耗。
             </p>
             <horizontal_rule/>
             <p>

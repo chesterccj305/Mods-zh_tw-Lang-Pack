@@ -374,7 +374,7 @@ astralsorcery.journal.CRAFTING_FOCUS_HINT.2.text=這達成了即使是共鳴祭�
 
 research.ATT_CAPE.name=星斗披風
 astralsorcery.journal.ATT_CAPE.1.text=像皮革和鐵這樣的普通裝甲的確能達到保護的目的，但既不美觀也不實用。將共振寶石的能量屬性與星塵的穿透能力注入皮革外套，獲得的將是更優雅貼身的盔甲，而不是那些破爛的衣服。
-astralsorcery.journal.ATT_CAPE.3.text=除了顯現出的對魔咒的強大親和力外，披風就像激活的共鳴祭壇一樣始終被強大的星能環繞著。如同被一股強大的電流穿過一樣，但卻無法找到來源。 <NL>可能需要一個更強力的共鳴方式來釋放披風內所蘊含的全部力量。
+astralsorcery.journal.ATT_CAPE.3.text=除了顯現出的對魔咒的強大親和力外，披風就像啟用的共鳴祭壇一樣始終被強大的星能環繞著。如同被一股強大的電流穿過一樣，但卻無法找到來源。 <NL>可能需要一個更強力的共鳴方式來釋放披風內所蘊含的全部力量。
 astralsorcery.journal.ATT_CAPE.4.text=更有針對性的聚焦合成應該足以實現這一點。然而，披風每次只能與一個星座進行共鳴。在進行與原先不同的共鳴合成時舊的共鳴能力將會失效，並轉變為新的共鳴能力。 <NL>每個星座的頁面內都附加了關於各個星座的披風效果更詳細的細節頁面。
 
 research.ATT_WANDS.name=調諧共鳴星杖
@@ -767,7 +767,7 @@ astralsorcery.constellation.vorux.trait=在兩端點上蠟燭可以提供更多�
 
 perk.info.locked=鎖定
 perk.info.available=可用
-perk.info.active=激活
+perk.info.active=啟用
 perk.info.points=可用技能點數：%s
 perk.info.disabled=在你的整合包內禁用技能效果。
 perk.info.missing_progress=你無法掌握這個技能的精髓。

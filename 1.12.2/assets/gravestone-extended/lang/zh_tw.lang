@@ -392,7 +392,7 @@ fluid.gs_toxic_water=酸液
 
 
 # Console messages
-message.cemetery_key.activated=此鑰匙已被激活
+message.cemetery_key.activated=此鑰匙已被啟用
 message.cemetery_key.cant_use=你無法使用此鑰匙！
 message.cemetery_key.bounded=你的靈魂被限制在這個墓地！
 message.cemetery_key.bounded.pet=你寵物的靈魂被限制在這個墓地！

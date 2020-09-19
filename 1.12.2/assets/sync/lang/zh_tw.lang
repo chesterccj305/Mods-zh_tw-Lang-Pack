@@ -38,12 +38,12 @@ sync.config.prop.shellStoragePowerRequirement.name=殼體儲存能源需求
 sync.config.prop.showAllShellInfoInGui.comment=在GUI裏顯示所有殼體的信息？\n0 = 不\n1 = 只有名字就好了\n2 = 對，全部都給我顯示！
 sync.config.prop.showAllShellInfoInGui.name=在GUI顯示所有殼體信息
 sync.isMorphed=無法使用! 你現在正處於變形狀態.
-sync.waila.active=激活
+sync.waila.active=啟用
 sync.waila.entity=實體名
 sync.waila.owner=殼體擁有者
 sync.waila.powerout=正在生成
 sync.waila.progress=構建進度
-sync.waila.showactive=顯示激活
+sync.waila.showactive=顯示啟用
 sync.waila.showentity=顯示實體名
 sync.waila.showowner=顯示殼體擁有者
 sync.waila.showpower.output=顯示能量輸出

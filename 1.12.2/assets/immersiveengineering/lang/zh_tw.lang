@@ -902,7 +902,7 @@ chat.immersiveengineering.info.rsControl.strongSignal.false=高頻紅石信號�
 chat.immersiveengineering.info.tesla.highPower=能量模式：高
 chat.immersiveengineering.info.tesla.lowPower=能量模式：低
 chat.immersiveengineering.info.notOwner=僅'%1$s'可使用此方塊
-chat.immersiveengineering.info.tickrate=此方塊將每%1$s刻激活一次
+chat.immersiveengineering.info.tickrate=此方塊將每%1$s刻啟用一次
 
 chat.immersiveengineering.info.coreDrill.progress=岩芯分析中：%1$s
 chat.immersiveengineering.info.coreDrill.result.mineral=§7岩芯分析完畢，發現%1$s§7礦脈
@@ -1234,7 +1234,7 @@ ie.manual.entry.generator3=改良風車是風車的升級版。雖然它有2倍�
 
 ie.manual.entry.breaker.name=斷路刀閘
 ie.manual.entry.breaker.subtext=扳開-扣合
-ie.manual.entry.breaker0=斷路刀閘是能夠讓線纜中的能量流動停止的一種簡單閘門。它們能夠連接兩種相同的線纜並僅有在激活時讓能量通過。它能夠被用於將高能耗機器從電網中分離或者在需要時連接附加發電機組！
+ie.manual.entry.breaker0=斷路刀閘是能夠讓線纜中的能量流動停止的一種簡單閘門。它們能夠連接兩種相同的線纜並僅有在啟用時讓能量通過。它能夠被用於將高能耗機器從電網中分離或者在需要時連接附加發電機組！
 ie.manual.entry.breaker1=斷路刀閘在開啟狀態下會發射紅石信號；你可以使用工程師錘來反轉它的輸出。<br>同時它們還是用來控制<link;lighting;§o§n電§o§n燈§r;1>的好方法！
 ie.manual.entry.breaker2=紅石斷路器功能同斷路刀閘類似，但是無法手動操控。取而代之，它需要一個紅石信號來斷開連接。而作為回報，它良好的絕緣性使其能夠連接高壓線纜！
 
@@ -1378,7 +1378,7 @@ ie.manual.entry.dieselgen.name=柴油發電機
 ie.manual.entry.dieselgen.subtext=提高產量最重要的是：量產。
 ie.manual.entry.dieselgen0=高電壓結構是令人著迷的，但要讓它變得有用，你得有一個發電機來輸出能源。<br>柴油發電機是其中一種產生這類能量的方式。它由覆雜的多方塊方式組成並且將要用到<link;biodiesel;§o§n生§o§n物§o§n柴§o§n油§r>或者是其他燃料。由於其產出高，它將會快速消耗燃料來運作，所以請確保你有足夠的燃料來支撐它的運轉。
 ie.manual.entry.dieselgen1=該機械由工程塊、發電機、散熱器塊組成，同時還用到了流體管道以及腳手架。將這些零件如上方所示形狀放置好，接著用工程師錘敲一下位於中央的任意發電機模塊或散熱器模塊即可。
-ie.manual.entry.dieselgen2=燃料需要從發電機的底部位置輸入，而能量的輸出口允許增加至三個。它所擁有的<config;i;dieselGen_output>Flux/t的輸出量將會平均分散在各個連接點上。<br>用紅石信號激活右側的控制面板可以關閉發電機。
+ie.manual.entry.dieselgen2=燃料需要從發電機的底部位置輸入，而能量的輸出口允許增加至三個。它所擁有的<config;i;dieselGen_output>Flux/t的輸出量將會平均分散在各個連接點上。<br>用紅石信號啟用右側的控制面板可以關閉發電機。
 ie.manual.entry.dieselgen3=下表列出了柴油發電機的所有有效燃料以及它們的燃燒時間，以刻計算。
 
 ie.manual.entry.biodiesel.name=生物柴油
@@ -1521,7 +1521,7 @@ ie.manual.entry.razorwire0=刀片刺網是連接有金屬碎片的電線。它�
 
 ie.manual.entry.turret.name=炮塔
 ie.manual.entry.turret.subtext=你還站在那幹嘛？
-ie.manual.entry.turret0=炮塔是你工廠自動防禦的下一步。它們具有結合機械“大腦”的覆雜光學系統，以有效地區分和獲取目標，並使用內置武器來調教實體。<br>所有炮塔的基座都有能量口，通入紅石信號才能激活，也可以通過用工程師錘潛行右擊反轉。
+ie.manual.entry.turret0=炮塔是你工廠自動防禦的下一步。它們具有結合機械“大腦”的覆雜光學系統，以有效地區分和獲取目標，並使用內置武器來調教實體。<br>所有炮塔的基座都有能量口，通入紅石信號才能啟用，也可以通過用工程師錘潛行右擊反轉。
 ie.manual.entry.turret1=被放置後，炮塔將記住其所有者，不允許其他用戶破壞或修改它們。右擊炮塔打開GUI，該GUI具有帶有輸入字段的名稱列表以及多個定位選項。<br>預設情況下，該列表是可能未被攻擊的目標的黑名單。這個列表使用生物名稱，所以白名單生物是可行的。
 ie.manual.entry.turret2=化學噴射炮塔利用了<link;chemthrower;§o§n同§o§n名§o§n工§o§n具§r>的液體推進能力向目標噴射任何東西，可以是水，可以是火，也可以是柴油。
 ie.manual.entry.turret3=炮塔的底部和後部具有流體端口，以允許管道與其連接。此外，GUI有一個左側的按鈕，可以禁止或啟用導向火焰，點燃分配的流體，只要它是易燃的。<br> <br>本藍圖的提供者對用戶的任何損失概不負責，鄰居養的各種牲畜可能會遭殃。
@@ -1642,7 +1642,7 @@ ie.manual.entry.computer.capacitor0=電容器六面均可與電腦連接<br>§lg
 
 ie.manual.entry.computer.teslaCoil.name=特斯拉線圈 ☎
 ie.manual.entry.computer.teslaCoil.subtext=不，這不是固態特斯拉線圈
-ie.manual.entry.computer.teslaCoil0=§lisActive()§r：若線圈已激活則返回true，否則返回false<br>§lsetRSMode(boolean)§r：設定線圈的紅石控制模式<br>§lsetPowerMode(boolean)§r：設定線圈的工作模式，可設定為高能模式為true則低能模式為false(<link;teslaCoil;§o§nexplanation§r;2>)。僅當線圈未激活時有效。
+ie.manual.entry.computer.teslaCoil0=§lisActive()§r：若線圈已啟用則返回true，否則返回false<br>§lsetRSMode(boolean)§r：設定線圈的紅石控制模式<br>§lsetPowerMode(boolean)§r：設定線圈的工作模式，可設定為高能模式為true則低能模式為false(<link;teslaCoil;§o§nexplanation§r;2>)。僅當線圈未啟用時有效。
 
 ie.manual.entry.computer.mixer.name=混合器 ☎
 ie.manual.entry.computer.mixer.subtext=曲奇面團的大缸！

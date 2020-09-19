@@ -30,8 +30,8 @@ gui.cd4017be.craft.infoB0=§7無需設置確切的配方，只需選定每個格
 gui.cd4017be.craft.infoB1=§7合成時，所有相關容器必須有滿足合成指定數量產品的原料。\n§7如果指定的配方是有效的，合成產品將被放入輸出格子（可被外部訪問）。如果某個產品或副產品無法被提取，機器將會暫停只到內部緩存再次為空。
 gui.cd4017be.craft.infoB2=§7機器可被配置為“僅在接收到紅石信號時合成”。同時可被配置為“在當前合成缺少原料時輸出紅石信號”。\n§7這些選項可以用來創造隨需應變的合成生產線。
 gui.cd4017be.craft.out=副產品輸出面
-gui.cd4017be.craft.rsIn0=保持激活
-gui.cd4017be.craft.rsIn1=有信號時激活
+gui.cd4017be.craft.rsIn0=保持啟用
+gui.cd4017be.craft.rsIn1=有信號時啟用
 gui.cd4017be.craft.rsOut0=不發出紅石信號
 gui.cd4017be.craft.rsOut1=缺少原料時輸出\n紅石信號
 gui.cd4017be.craftAm=合成數量
@@ -78,10 +78,10 @@ gui.cd4017be.filter.ore1=使用礦物詞典識別
 gui.cd4017be.filter.priority=目標優先級（通用管道）
 gui.cd4017be.filter.ref=參考值
 gui.cd4017be.filter.regex=模式\n最大 <name_filter_chars> 個字符。
-gui.cd4017be.filter.rs0=保持激活
-gui.cd4017be.filter.rs2=有信號時激活
-gui.cd4017be.filter.rs3=無信號時激活
-gui.cd4017be.filter.state=包括，排除，損害值，NBT 數據，礦物詞典，保持激活，有紅石信號，無紅石信號，全滿，名稱，ID，>，<=，*cap，%.3g，耐久，能量，流體
+gui.cd4017be.filter.rs0=保持啟用
+gui.cd4017be.filter.rs2=有信號時啟用
+gui.cd4017be.filter.rs3=無信號時啟用
+gui.cd4017be.filter.state=包括，排除，損害值，NBT 數據，礦物詞典，保持啟用，有紅石信號，無紅石信號，全滿，名稱，ID，>，<=，*cap，%.3g，耐久，能量，流體
 gui.cd4017be.filter.stock=儲存：%s B
 gui.cd4017be.filter.targetF=儲存流體容量 [B]\n填0無限制存取
 gui.cd4017be.filter.targetI0=無限的提取/存入

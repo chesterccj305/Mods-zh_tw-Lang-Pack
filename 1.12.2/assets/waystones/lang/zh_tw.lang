@@ -10,10 +10,10 @@ itemGroup.waystones=傳送石碑
 
 waystones:noDimensionWarp=你不能夠跨世界瞬移
 waystones:waystoneBroken=已綁定的座標石碑已經被移動或破壞
-waystones:returnImpossible=你還沒有激活任何傳送石碑
+waystones:returnImpossible=你還沒有啟用任何傳送石碑
 waystones:scrollNotBound=該卷軸未綁定任何石碑
 waystones:stoneNotCharged=瞬移石塊還沒有完成充能
-waystones:activatedWaystone=已激活的傳送石碑：%s
+waystones:activatedWaystone=已啟用的傳送石碑：%s
 waystones:nameOccupied=名稱「%s」已經被使用了
 waystones:notTheOwner=只有放置這個傳送石碑的玩家才可以重新命名
 waystones:creativeRequired=你必須在創造模式下才可以編輯一個世界性的傳送石碑
@@ -25,7 +25,7 @@ gui.waystones:warpStone.nextPage=下一頁
 gui.waystones:warpStone.previousPage=上一頁
 gui.waystones:confirmReturn=你真的想要瞬移返回到這個傳送石碑嗎？
 gui.waystones:confirmReturn.boundTo=綁定至：%s
-gui.waystones:confirmReturn.noWaystoneActive=沒有激活的傳送石碑。
+gui.waystones:confirmReturn.noWaystoneActive=沒有啟用的傳送石碑。
 gui.waystones:editWaystone.enterName=輸入傳送石碑名稱：
 gui.waystones:editWaystone.isGlobal=是世界性的
 
@@ -36,7 +36,7 @@ tooltip.waystones:returnToWaystone=返回到傳送石碑
 tooltip.waystones:openWaystoneMenu=打開傳送石碑菜單
 tooltip.waystones:levelRequirement=需要經驗等級：%d
 
-stat.waystones:waystonesActivated=傳送石碑已激活
+stat.waystones:waystonesActivated=傳送石碑已啟用
 
 waystones.general.globalinterdimension=同一維度瞬移（世界性的傳送石碑）
 waystones.worldgen.customnames=自訂名稱

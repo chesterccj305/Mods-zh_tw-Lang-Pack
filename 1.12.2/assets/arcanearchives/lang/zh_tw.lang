@@ -250,9 +250,9 @@ arcanearchives.data.scepter.tile.cant_downgrade.trove=有太多物品被儲存�
 arcanearchives.data.scepter.tile.downgrade_success.trove=成功移除升級，現在是 %d/%d。
 
 arcanearchives.gui.keygroup=奧術儲存
-arcanearchives.gui.keybinds.manifest=激活奧術清單
+arcanearchives.gui.keybinds.manifest=活化奧術清單
 arcanearchives.gui.missing_manifest=你身上沒有可以詳細查看的清單。
-arcanearchives.gui.keybinds.socket=激活寶石繩套
+arcanearchives.gui.keybinds.socket=活化寶石繩套
 
 text.copyToClipboard.line1=這本書想複製文字到你的剪貼板上。
 text.copyToClipboard.line2=你確定允許那麽做嗎？
