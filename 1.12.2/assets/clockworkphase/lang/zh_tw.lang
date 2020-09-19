@@ -8,7 +8,7 @@ item.clockworkphase.bland_hourglass.name=沙漏
 item.clockworkphase.clockwork.name=發條裝置
 item.clockworkphase.chip_temporal.name=時空碎片
 item.clockworkphase.nugget_temporal.name=時空粒
-item.clockworkphase.temporal_core_active.name=激活的時空核心
+item.clockworkphase.temporal_core_active.name=啟用的時空核心
 item.clockworkphase.temporal_core_sedate.name=靜止的時空核心
 
 item.clockworkphase.ingot_temporal.name=時空錠

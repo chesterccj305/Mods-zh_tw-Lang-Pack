@@ -187,9 +187,9 @@ message.soulstone.mount.added=你的%creature%已經被綁定，你可以在你�
 # Soulkey:
 message.soulkey.disabled=無效的祭壇結構。
 message.soulkey.none=靈魂鑰匙不能定他這個祭壇中心。
-message.soulkey.invalid=靈魂鑰匙正在嘗試激活這個祭壇，但是這個祭壇的擺法不是正確的！
-message.soulkey.badlocation=靈魂鑰匙差一點就能激活祭壇了，但是失敗了，看來有地方不對…
-message.soulkey.active=靈魂鑰匙激活了祭壇！
+message.soulkey.invalid=靈魂鑰匙正在嘗試啟用這個祭壇，但是這個祭壇的擺法不是正確的！
+message.soulkey.badlocation=靈魂鑰匙差一點就能啟用祭壇了，但是失敗了，看來有地方不對…
+message.soulkey.active=靈魂鑰匙啟用了祭壇！
 #
 # Pet:
 # %creature% will be replaced with the name of the tamed creature, don't translate this!
@@ -1710,7 +1710,7 @@ item.wintergiftlarge.bad=啊啊啊啊啊啊 哈啊啊 哈啊啊 哈啊啊 哈 �
 #
 # ========== Keys ==========
 item.soulkey.name=靈魂鑰匙
-item.soulkey.description=用來激活一個召喚祭壇去召喚稀有種生物或者觸發一個特殊事件。
+item.soulkey.description=用來啟用一個召喚祭壇去召喚稀有種生物或者觸發一個特殊事件。
 #
 item.soulkeydiamond.name=鑽石靈魂鑰匙
 item.soulkeydiamond.description=更好的靈魂鑰匙能召喚更強大的BOSS！

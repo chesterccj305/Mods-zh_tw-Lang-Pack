@@ -36,11 +36,11 @@ item.redstonerepository.armor.enderium.gelid.leggings.name=終界充能護腿
 item.redstonerepository.armor.enderium.gelid.boots.name=終界充能靴子
 
 #Equipment Tooltip Titles
-info.redstonerepository.capacitor.title=激活可為你背包中的物品充能，必須裝備在飾品欄以生效
-info.redstonerepository.feeder.title=激活可為你提供飽食度回覆，必須裝備在飾品欄以生效
+info.redstonerepository.capacitor.title=啟用可為你背包中的物品充能，必須裝備在飾品欄以生效
+info.redstonerepository.feeder.title=啟用可為你提供飽食度回覆，必須裝備在飾品欄以生效
 info.redstonerepository.feeder.short=裝備在飾品欄自動餵食
 info.redstonerepository.hungerPoints=儲存飽食度
-info.redstonerepository.ring.effect.title=激活可為你凍結當前所有藥水狀態，啟用時無法獲得新的效果
+info.redstonerepository.ring.effect.title=啟用可為你凍結當前所有藥水狀態，啟用時無法獲得新的效果
 info.redstonerepository.ring.mining.title=在空中採礦速度不會減慢
 
 #Equipment Tooltip Various
@@ -57,18 +57,18 @@ info.redstonerepository.tooltip.damage.flux=+%d 通量傷害
 info.redstonerepository.tooltip.durability=耐久
 info.redstonerepository.tooltip.bound=綁定方塊：
 
-info.redstonerepository.tooltip.active=目前%s激活%s。 按下（%s）以停用
-info.redstonerepository.tooltip.disabled=目前%s停用%s。 按下（%s）以激活
+info.redstonerepository.tooltip.active=目前%s啟用%s。 按下（%s）以停用
+info.redstonerepository.tooltip.disabled=目前%s停用%s。 按下（%s）以啟用
 
-info.redstonerepository.tooltip.bind=按V鍵激活後右鍵與玩家綁定
+info.redstonerepository.tooltip.bind=按V鍵啟用後右鍵與玩家綁定
 info.redstonerepository.tooltip.notbound=沒有與玩家綁定
 
-info.redstonerepository.tooltip.lightning=按V鍵激活後右擊可調用天空的力量
-info.redstonerepository.tooltip.clearskies=按V鍵激活後右鍵與玩家綁定
+info.redstonerepository.tooltip.lightning=按V鍵啟用後右擊可調用天空的力量
+info.redstonerepository.tooltip.clearskies=按V鍵啟用後右鍵與玩家綁定
 
 #Chat Messages
 info.redstonerepository.chat.table.tinker.instruct=右擊powersuit以進行升級。
-info.redstonerepository.chat.armor.powersuit.active=激活：
+info.redstonerepository.chat.armor.powersuit.active=啟用：
 info.redstonerepository.chat.boundto.txt=綁定至：
 info.redstonerepository.chat.unbound.txt=物品未綁定！
 

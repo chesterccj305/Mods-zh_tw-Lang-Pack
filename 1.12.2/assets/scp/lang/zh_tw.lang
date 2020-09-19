@@ -600,7 +600,7 @@ scp.player.sleep.disable=為什麽我的耳朵在響?
 
 scp.nightvision.no.power=護目鏡失靈了。
 scp.nightvision.disable=禁用夜視
-scp.nightvision.enable=激活夜視
+scp.nightvision.enable=啟用夜視
 scp.nightvision.button.not.found=你找不到用來切換夜視的按鈕。
 scp.nightvision.power.off=護目鏡突然關閉。
 scp.nightvision.desc=按 %1$s 切換夜視

@@ -529,7 +529,7 @@ gui.nextItem=下一物品
 gui.lastItem=上一物品
 gui.oreDictCompat=相容礦物辭典關鍵詞
 gui.toggleCooling=切換到冷卻測量
-gui.coolingMeasurements=激活冷卻
+gui.coolingMeasurements=啟用冷卻
 gui.redstoneOutputMode=紅石模式
 gui.moveUp=提升
 gui.moveDown=降低
@@ -927,10 +927,10 @@ control.disabled=禁止
 control.high=高
 control.low=低
 control.pulse=脈沖
-control.disabled.desc=總是激活
-control.high.desc=有紅石信號時激活
-control.low.desc=無紅石信號時激活
-control.pulse.desc=只在首次收到信號時激活
+control.disabled.desc=總是啟用
+control.high.desc=有紅石信號時啟用
+control.low.desc=無紅石信號時啟用
+control.pulse.desc=只在首次收到信號時啟用
 
 # Container edit modes
 fluidedit.both=兩者

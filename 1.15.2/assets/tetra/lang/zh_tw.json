@@ -1955,11 +1955,11 @@
     "tetra.variant.quiver/hide": "兔皮箭袋",
 
     "tetra/schema/toolbelt/booster.name": "助推",
-    "tetra/schema/toolbelt/booster.description": "附加一個助推附件，能夠跳躍很遠的距離，甚至短時間進行飛行。在跳躍前蹲下，或在空中跳躍，亦或用鞘翅飞行進行激活。\u00a7o以火藥為燃料。",
+    "tetra/schema/toolbelt/booster.description": "附加一個助推附件，能夠跳躍很遠的距離，甚至短時間進行飛行。在跳躍前蹲下，或在空中跳躍，亦或用鞘翅飛行進行啟用。\u00a7o以火藥為燃料。",
     "tetra/schema/toolbelt/booster.slot1": "材料",
 
     "tetra.mudule.toolbelt/booster.name": "助推",
-    "tetra.mudule.toolbelt/booster.description": "一個助推附件，能夠跳躍很遠的距離，甚至短時間進行飛行。在跳躍前蹲下，或在空中跳躍，亦或用鞘翅飞行进行激活。\u00a7o以火藥為燃料。",
+    "tetra.mudule.toolbelt/booster.description": "一個助推附件，能夠跳躍很遠的距離，甚至短時間進行飛行。在跳躍前蹲下，或在空中跳躍，亦或用鞘翅飛行進行啟用。\u00a7o以火藥為燃料。",
 
     "tetra.variant.booster/iron": "助推單元",
 

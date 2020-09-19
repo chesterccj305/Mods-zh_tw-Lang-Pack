@@ -170,7 +170,7 @@ item.wub_ingot.name=烏布錠
 #Watering Cans
 item.watering_can.name=灑水壺
 item.watering_can_upgrade.name=強化灑水壺
-item.watering_can.invalidusage=不能在背包激活一個以上的灑水壺
+item.watering_can.invalidusage=不能在背包啟用一個以上的灑水壺
 
 #Quartz
 item.quartz_dust.name=富石英鐵粉

@@ -1858,7 +1858,7 @@
   "botania.page.spreader2": "$(item)魔力發射器$(0)有一個很小的內部$(thing)魔力$(0)緩存，這個緩存能被附近的$(thing)產能花$(0)填充。要查看$(item)魔力$(0)$(item)發射器$(0)的緩存量需要一根$(item)森$(0)$(item)林法杖$(0)，如最後一頁所示。$(p)注意需要用法杖右擊才能看到緩存的量。",
   "botania.page.spreader3": "手持$(item)森林法杖$(0)將會顯示一條發射器朝向的光線，末端停留在目標處。常亮的閃爍光點就是$(thing)魔力流失$(0)開始的地方。$(p)如果目標處的方塊可以接收$(thing)魔力$(0)，並且不是滿的，發射器就會發出一條$(thing)魔力脈衝$(0)，它會飛向目標，並將$(thing)魔力$(0)輸送給它。",
   "botania.page.spreader4": "魔力發射器每次只發射一波脈衝，直到上一波命中目標才會發射下一波。$(p)此外，一段時間後脈衝也會受$(thing)魔力流失$(0)的影響。在光線中變稀薄的部分就開始發生流失了。當光線進入一個發射器時也會有少量$(thing)魔力流失$(0)。",
-  "botania.page.spreader11": "提供一個$(thing)紅石信號$(0)給魔力發射器會讓它停止工作。在需要更好的控制時推薦$(item)紅石魔力$(0)$(item)發射器$(0)，因為它可以在沒有目標方塊的情況經由紅石脈衝激活發射脈衝。",
+  "botania.page.spreader11": "提供一個$(thing)紅石信號$(0)給魔力發射器會讓它停止工作。在需要更好的控制時推薦$(item)紅石魔力$(0)$(item)發射器$(0)，因為它可以在沒有目標方塊的情況經由紅石脈衝啟用發射脈衝。",
   "botania.page.spreader5": "合成$(item)魔力發射器$(0)",
   "botania.page.spreader10": "用一塊$(item)羊毛$(0)右擊發射器便可將它套住。不僅看上去更美觀，這樣也會降低脈衝的噪音。$(p)再次空手右擊則會移除包裝。",
 
@@ -2475,7 +2475,7 @@
   "botania.entry.canopyDrum": "林冠之鼓",
   "botania.tagline.canopyDrum": "用魔力破壞葉子",
   "botania.page.canopyDrum0": "$(item)林冠之鼓$(0)就像$(item)狂野之鼓$(0)一樣，不過它所用的是$(item)林冠號角$(0)。它的功能和手持的號角相同，不過它需要放置下來。$(p)若要讓它發出振動破壞周圍的樹葉，你需要向其發射一道$(thing)魔力脈衝$(0)。",
-  "botania.page.canopyDrum1": "鼓本身不會儲存魔力，因此激活它就需要一個$(item)紅石魔力發$(0)$(item)射器$(0)或$(item)魔力發射器$(0)。",
+  "botania.page.canopyDrum1": "鼓本身不會儲存魔力，因此啟用它就需要一個$(item)紅石魔力發$(0)$(item)射器$(0)或$(item)魔力發射器$(0)。",
 
   "botania.entry.cocoon": "隨想之繭",
   "botania.tagline.cocoon": "孵化屬於你的動物",
@@ -2570,8 +2570,8 @@
   "botania.tagline.terraPick": "可升級性的大範圍挖掘力",
   "botania.page.terraPick0": "$(item)泰拉粉碎者$(0)是個可以積攢大量魔力的工具，因為製作過程使用了相當的$(item)泰拉鋼$(0)。$(p)它的功能有點像$(item)魔力石板$(0)因為它可以通過投入$(item)魔力池$(0)而獲取$(item)魔力$(0)，儘管它不能返還$(thing)魔力$(0)，所以它功能又與儲存不同。",
   "botania.page.terraPick1": "工具裡儲存的$(thing)魔力$(0)量決定了它的$(thing)階位$(0)。階位如下:$(thing)D$(0)，$(thing)C$(0)，$(thing)B$(0)，$(thing)A$(0)，$(thing)S$(0)，$(thing)SS$(0)。$(thing)D$(0)就是預設的階位。$(p)階位升級所需的$(thing)魔力$(0)量會隨著階位而增加。例如從$(thing)D$(0)升至$(thing)C$(0)，只需要在$(item)魔力池$(0)待個幾秒。",
-  "botania.page.terraPick2": "從$(thing)C$(0)升至$(thing)B$(0)，需要一個滿的$(item)魔力$(0)$(item)池$(0)，每級是上一級的十倍消耗，最終到達$(thing)SS$(0)。$(p)工具的階位不會改變它的速度，但會增強$(thing)激活能力$(0)。$(p)可以通過右擊開啟工具的能力。",
-  "botania.page.terraPick3": "當工具激活時，它能破壞區域內的方塊。階位$(thing)C$(0)還是一小塊，到了$(thing)B$(0)就成了一個區域，隨著階位升高區域也會增大。注意階位$(thing)D$(0)的工具不能激活。$(p)激活時會消耗工具儲存的$(thing)魔$(0)$(thing)力$(0)，哪怕不是用於挖掘。",
+  "botania.page.terraPick2": "從$(thing)C$(0)升至$(thing)B$(0)，需要一個滿的$(item)魔力$(0)$(item)池$(0)，每級是上一級的十倍消耗，最終到達$(thing)SS$(0)。$(p)工具的階位不會改變它的速度，但會增強$(thing)啟用能力$(0)。$(p)可以通過右擊開啟工具的能力。",
+  "botania.page.terraPick3": "當工具啟用時，它能破壞區域內的方塊。階位$(thing)C$(0)還是一小塊，到了$(thing)B$(0)就成了一個區域，隨著階位升高區域也會增大。注意階位$(thing)D$(0)的工具不能啟用。$(p)啟用時會消耗工具儲存的$(thing)魔$(0)$(thing)力$(0)，哪怕不是用於挖掘。",
   "botania.page.terraPick4": "最後，工具每次破壞方塊時都會受到磨損，所以最好物品欄有與階位相應的$(thing)魔力$(0)儲存，工具的功能又像$(item)魔鋼工具$(0)，因為它使用$(thing)魔力$(0)抵消磨損，製作原料是$(item)泰拉鋼$(0)。$(p)它也不會像普通掉落物品那樣消失。",
   "botania.page.terraPick5": "WE'RE MINING IN THE DATABASE WOW WOW(紀錄的地平線)",
 
@@ -2739,7 +2739,7 @@
 
   "botania.entry.temperanceStone": "節制之石",
   "botania.tagline.temperanceStone": "限制泰拉粉碎者力量的石頭",
-  "botania.page.temperanceStone0": "$(item)泰拉粉碎者$(0)在能量充足時能破壞大片的土地，然而有時這並不是使用者想要的。有些情況下3x3的挖掘或許會更好。在背包中放入一個激活的$(item)節$(0)$(item)制之石$(0)就可以讓泰拉粉碎者的破壞範圍限制在3x3以內。這也會影響到$(item)泰拉斷裂者$(0)。這個石頭可以通過shift右擊切換。",
+  "botania.page.temperanceStone0": "$(item)泰拉粉碎者$(0)在能量充足時能破壞大片的土地，然而有時這並不是使用者想要的。有些情況下3x3的挖掘或許會更好。在背包中放入一個啟用的$(item)節$(0)$(item)制之石$(0)就可以讓泰拉粉碎者的破壞範圍限制在3x3以內。這也會影響到$(item)泰拉斷裂者$(0)。這個石頭可以通過shift右擊切換。",
   "botania.page.temperanceStone1": "別浪費",
 
   "botania.entry.terraAxe": "泰拉斷裂者",
@@ -2860,8 +2860,8 @@
 
   "botania.entry.corporeaIndex": "多媒體索引",
   "botania.tagline.corporeaIndex": "說話請求網路物品",
-  "botania.page.corporeaIndex0": "$(thing)多媒體網路$(0)的強大能力在於可以通過說出物品名發出請求。$(p)$(item)多媒體索引$(0)是一個類似終界水晶的方塊，可以與給定的上面放有$(item)多媒體火花$(0)的$(thing)多媒體$(0)$(thing)網路$(0)交流。$(p)在世界裡，靠近它就會激活並會顯示保持激活的半徑。",
-  "botania.page.corporeaIndex1": "當激活時，索引會攔截附近玩家發送的$(thing)聊天信息$(0)，將其作為$(thing)請求$(0)並防止其發送到聊天欄。然後，它會在網路內搜索匹配請求的物品。例如，輸入\"鐵錠\"就會在網路裡搜索一個$(item)鐵錠$(0)並把它傳送過來，並在世界裡物質化。",
+  "botania.page.corporeaIndex0": "$(thing)多媒體網路$(0)的強大能力在於可以通過說出物品名發出請求。$(p)$(item)多媒體索引$(0)是一個類似終界水晶的方塊，可以與給定的上面放有$(item)多媒體火花$(0)的$(thing)多媒體$(0)$(thing)網路$(0)交流。$(p)在世界裡，靠近它就會啟用並會顯示保持啟用的半徑。",
+  "botania.page.corporeaIndex1": "當啟用時，索引會攔截附近玩家發送的$(thing)聊天信息$(0)，將其作為$(thing)請求$(0)並防止其發送到聊天欄。然後，它會在網路內搜索匹配請求的物品。例如，輸入\"鐵錠\"就會在網路裡搜索一個$(item)鐵錠$(0)並把它傳送過來，並在世界裡物質化。",
   "botania.page.corporeaIndex2": "輸入\"鐵...\"將搜索任何名稱包括\"鐵\"的物品，例如$(item)鐵錠$(0)，$(item)鐵鎬$(0)，等等。輸入\"this\"會搜索與玩家手中物品相同的物品。$(p)請求可以不只是一個物品。例如\"10蘋果\"作為請求，如上所述，即10個$(item)蘋果$(0)。",
   "botania.page.corporeaIndex3": "物品名稱的複數形式只能在常規名詞涉及到複數(以\"-s\"，\"-es\"或\"-ies\"為後綴)時使用，當前版本同樣適用於多個物品請求，例如\"10蘋果\"。$(p)\"10ofthis\"搜索10個等同於玩家手持物品的物品。",
   "botania.page.corporeaIndex4": "複數請求的例子包括\"10apples\"、\"astackofapples\"、\"2stacksofapples\"、\"2stacksand20apples\"、\"halfastackofapples\"、\"adozenapples\"、等等。$(p)索引可以識別或多或少的搜索的繁瑣形式，所以: \"2xstacksand20xofapples\"等同於\"2stack2apple\"或\"2stacks+2apples\"。",
@@ -2916,7 +2916,7 @@
   "botania.entry.blackHoleTalisman": "黑洞護符",
   "botania.tagline.blackHoleTalisman": "無限的儲存某一方塊",
   "botania.page.blackHoleTalisman0": "虛空是一個充滿了...虛空的空間，真的。那裡什麼東西都沒有。但也有一些新花樣，這個空間可以用來儲存你心裡想的物品。$(p)$(item)黑洞護符$(0)利用強大的蓋亞力量和終界魔力允許單一類型的方塊幾乎無限量的儲存在這個空間。",
-  "botania.page.blackHoleTalisman1": "對著地上的方塊右擊可以將護符設定為這種方塊。只有在護符空的時候才有效。完成後，對著空氣shift右擊護符可以激活或關閉。當啟用後放在物品欄，它會嘗試保留一組，只有一組，對應的方塊，在物品欄和虛空間傳輸物品。",
+  "botania.page.blackHoleTalisman1": "對著地上的方塊右擊可以將護符設定為這種方塊。只有在護符空的時候才有效。完成後，對著空氣shift右擊護符可以啟用或關閉。當啟用後放在物品欄，它會嘗試保留一組，只有一組，對應的方塊，在物品欄和虛空間傳輸物品。",
   "botania.page.blackHoleTalisman2": "當護符內有任何物品時，裡面的方塊可以被放置，就像放在物品欄的普通方塊一樣簡單右擊即可。$(p)右擊物品欄會試圖從護符內提取方塊填充。",
   "botania.page.blackHoleTalisman3": "就像雷電，但雙倍歡樂",
 
@@ -3075,7 +3075,7 @@
   "botania.entry.judgementCloaks": "審判斗篷",
   "botania.tagline.judgementCloaks": "美德和罪惡，審判對手的斗篷",
   "botania.page.judgementCloaks0": "$(item)審判斗篷$(0)是一對可以作為腰帶的斗篷(而且，它們穿在腰帶槽)。它們的能力會在穿戴者受到傷害時觸發。此後，他們會有10秒充能時間，在此之內不會再次觸發。",
-  "botania.page.judgementCloaks1": "$(item)神聖斗篷$(0)激活時，會充分阻擋受到的傷害。不適用於魔力傷害。$(p)$(item)罪惡鬥篷$(0)則會對周圍所有敵對生物造成同樣的傷害。",
+  "botania.page.judgementCloaks1": "$(item)神聖斗篷$(0)啟用時，會充分阻擋受到的傷害。不適用於魔力傷害。$(p)$(item)罪惡鬥篷$(0)則會對周圍所有敵對生物造成同樣的傷害。",
   "botania.page.judgementCloaks2": "神聖的斗篷",
   "botania.page.judgementCloaks3": "嘗嘗我的復仇!",
 
@@ -3137,7 +3137,7 @@
 
   "botania.entry.gaiaRitual": "蓋亞儀式",
   "botania.tagline.gaiaRitual": "嫉妒是蓋亞守護者的源泉!",
-  "botania.page.gaiaRitual0": "$(thing)蓋亞儀式$(0)是一個由精靈所創立的程序，它是獲得$(item)蓋亞之魂$(0)即大地女神力量的精華的唯一途徑。$(p)該儀式需要一個$(thing)激活的$(0)$(item)烽火台$(0)以及一些$(item)蓋亞水晶$(0)(繼續瀏覽)置於烽火台上高一格作為祭壇，祭品則是$(item)泰拉鋼錠$(0)。",
+  "botania.page.gaiaRitual0": "$(thing)蓋亞儀式$(0)是一個由精靈所創立的程序，它是獲得$(item)蓋亞之魂$(0)即大地女神力量的精華的唯一途徑。$(p)該儀式需要一個$(thing)啟用的$(0)$(item)烽火台$(0)以及一些$(item)蓋亞水晶$(0)(繼續瀏覽)置於烽火台上高一格作為祭壇，祭品則是$(item)泰拉鋼錠$(0)。",
   "botania.page.gaiaRitual1": "製作$(item)蓋亞水晶$(0)",
   "botania.page.gaiaRitual2": "放置水晶(比烽火台高一格)",
   "botania.page.gaiaRitual3": "要啟動儀式，需手持$(item)泰拉鋼錠$(0)shift右擊$(item)烽火台$(0)，再退後幾步准備開戰。這需要極好的準備工作，與$(thing)蓋亞守護者$(0)的戰鬥會比與$(thing)凋靈$(0)的還要艱難。一旦擊敗了$(thing)守護者$(0)，就能獲得他們的獎勵:一些$(item)蓋亞之魂$(0)。",

@@ -15,15 +15,15 @@
   "gui.waystones.waystone_selection.current_location": "現時位置：",
   "gui.waystones.waystone_selection.hold_shift_to_delete": "按著shift並點擊以刪除",
   "gui.waystones.waystone_selection.click_to_delete": "點擊以刪除",
-  "gui.waystones.waystone_selection.no_waystones_activated": "你還沒有激活任何傳送石碑。",
+  "gui.waystones.waystone_selection.no_waystones_activated": "你還沒有啟用任何傳送石碑。",
   "gui.waystones.waystone_selection.level_requirement": "需要經驗等級：%d",
   "gui.waystones.waystone_settings.is_global": "是世界性的",
-  "gui.waystones.inventory.no_waystones_activated": "你還沒有激活任何傳送石碑。",
+  "gui.waystones.inventory.no_waystones_activated": "你還沒有啟用任何傳送石碑。",
   "gui.waystones.inventory.confirm_return": "你真的想要瞬移返回到這個傳送石碑嗎？",
   "gui.waystones.inventory.confirm_return_bound_to": "綁定至：%s",
   "gui.waystones.inventory.return_to_waystone": "返回到傳送石碑…",
   "gui.waystones.inventory.return_to_nearest_waystone": "返回最近的傳送石碑",
-  "chat.waystones.waystone_activated": "已激活的傳送石碑：%s",
+  "chat.waystones.waystone_activated": "已啟用的傳送石碑：%s",
   "chat.waystones.scroll_bound": "卷軸範圍: %s",
   "chat.waystones.scroll_not_yet_bound": "卷軸未綁定任何傳送石碑",
   "chat.waystones.cannot_dimension_warp": "你不能夠跨世界瞬移。",
@@ -33,5 +33,5 @@
   "tooltip.waystones.cooldown_left": "冷卻：%d秒",
   "tooltip.waystones.bound_to": "綁定至：%s",
   "tooltip.waystones.bound_to_none": "沒有",
-  "stat.waystones:waystonesActivated": "傳送石碑已激活"
+  "stat.waystones:waystonesActivated": "傳送石碑已啟用"
 }

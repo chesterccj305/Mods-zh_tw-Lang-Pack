@@ -71,7 +71,7 @@ tile.rsgauges.indicator1blink1.help=${tile.rsgauges.indicator_led_white.help}以
 tile.rsgauges.indicator2blink1.help=${tile.rsgauges.indicator_led_white.help}以約0.5Hz的頻率閃爍。
 tile.rsgauges.indicator3blink1.help=${tile.rsgauges.indicator_led_white.help}以約0.5Hz的頻率閃爍。
 tile.rsgauges.indicator4.help=§6一個紅石小燈泡，檢測到所連接方塊被充能後\
-                              會閃爍。§r激活時發光。
+                              會閃爍。§r啟用時發光。
 tile.rsgauges.soundindicator1.help=§6一個警報器，所連接方塊被充能後會頻繁\
                               發出警報聲。
 tile.rsgauges.indicator_rustic_flag.help=§6一個小金屬盒，裡面的信號旗會在所連接\
@@ -84,11 +84,11 @@ tile.rsgauges.indicator_rustic_flag.help=§6一個小金屬盒，裡面的信號
 #-----------------------------------------------------------------------------------------------------------
 # Switch tooltip help aspects
 #-----------------------------------------------------------------------------------------------------------
-rsgauges.switch.feature.pulseextend.help=能在已激活時再激活一次來延長激活時間。
+rsgauges.switch.feature.pulseextend.help=能在已啟用時再啟用一次來延長啟用時間。
 rsgauges.switch.feature.hoppermountable.help=能放在漏斗上。
 rsgauges.switch.feature.pulsetime.help=手持一組紅石左鍵可將脈沖間隔固定在0.1秒(1)到6.4秒(64)之間。
 rsgauges.switch.feature.outputconfig.help=空手左鍵可配置輸出(在支持的不同輸出模式間循環)。
-rsgauges.switch.feature.projectilesense.help=可用投射物激活。
+rsgauges.switch.feature.projectilesense.help=可用投射物啟用。
 rsgauges.switch.feature.colortinting.help=可用任意染料左鍵來使開關染色。
 rsgauges.switch.feature.linktarget.help=用終界珍珠左鍵此開關來得到與其連接的連接終界珍珠。
 rsgauges.switch.feature.linksource.help=用連接終界珍珠左鍵此開關來使其成為連接源。
@@ -178,7 +178,7 @@ tile.rsgauges.pulseswitch_glass3.name=脈沖紅石開關 (接觸式玻璃按鈕)
 # Pulse switch tooltip help
 #
 rsgauges.switch.feature.typepulse.help=§6一個像按鈕一樣發出短時紅石信號的開關。\n
-tile.rsgauges.arrowtarget.help=§6一個能發出紅石信號的靶，在被箭射中或被手動右鍵時激活。\n\
+tile.rsgauges.arrowtarget.help=§6一個能發出紅石信號的靶，在被箭射中或被手動右鍵時啟用。\n\
                                ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
 tile.rsgauges.pulseswitch1.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.projectilesense.help}
 tile.rsgauges.pulseswitch2.help=${rsgauges.switch.feature.typepulse.help}${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
@@ -250,11 +250,11 @@ tile.rsgauges.contactmat_glass2.help=§6一個玻璃地板，在暴露於機械�
 #-----------------------------------------------------------------------------------------------------------
 # Trapdoor switches
 #-----------------------------------------------------------------------------------------------------------
-tile.rsgauges.trapdoorswitch1.name=活板門開關 (工業式沖擊激活活板門)
-tile.rsgauges.trapdoorswitch2.name=活板門開關 (工業式沖擊激活靈敏活板門)
+tile.rsgauges.trapdoorswitch1.name=活板門開關 (工業式沖擊啟用活板門)
+tile.rsgauges.trapdoorswitch2.name=活板門開關 (工業式沖擊啟用靈敏活板門)
 tile.rsgauges.trapdoorswitch3.name=活板門開關 (工業式物品活板門)
-tile.rsgauges.trapdoorswitch_rustic1.name=活板門開關 (鄉村式沖擊激活活板門)
-tile.rsgauges.trapdoorswitch_rustic2.name=活板門開關 (鄉村式沖擊激活靈敏活板門)
+tile.rsgauges.trapdoorswitch_rustic1.name=活板門開關 (鄉村式沖擊啟用活板門)
+tile.rsgauges.trapdoorswitch_rustic2.name=活板門開關 (鄉村式沖擊啟用靈敏活板門)
 tile.rsgauges.trapdoorswitch_rustic3.name=活板門開關 (鄉村式物品活板門)
 #
 # Trapdoor switch tooltip help
@@ -440,33 +440,33 @@ tile.rsgauges.relay_bistableswitchrx2.help=§6一個用完整方塊包裝的小�
                                            ${rsgauges.switch.feature.linksource.help}
 tile.rsgauges.relay_pulseswitchrx1.help=§6一個小型工業式脈沖開關，專為作為開關連接目標而優化。\
                                            §r\n\
-                                           像普通開關一樣，當被右擊或開關連接觸發時會短時間激活。\
+                                           像普通開關一樣，當被右擊或開關連接觸發時會短時間啟用。\
                                            \
                                            內部的繼電器是消音的，因此非常安靜。\
                                            ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
                                            ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.pulsetime.help}
 tile.rsgauges.relay_pulseswitchrx2.help=§6一個用完整方塊包裝的小型工業式脈沖開關，專為作為開關連接目標而優化。\
                                            §r\n\
-                                           像普通開關一樣，當被右擊或開關連接觸發時會短時間激活。\
+                                           像普通開關一樣，當被右擊或開關連接觸發時會短時間啟用。\
                                            \
                                            內部的繼電器是消音的，因此非常安靜。\
                                            ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
                                            ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.pulsetime.help}
 tile.rsgauges.relay_bistableswitchtx1.help=§6一個小型工業式開關，專為作為有紅石信號輸入的連接中繼器優化。§r\n\
                                            該中繼器不能發出紅石信號，但在設備放置的方塊的紅石強度改變時\
-                                           設備內部的連接珍珠會激活。\
-                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時激活)和強度敏感性(預設是弱，調成強會使得需要強信號來激活連接)。\
-                                           已消音，非常安靜。為了方便測試，也能右鍵手動激活連接。\
+                                           設備內部的連接珍珠會啟用。\
+                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時啟用)和強度敏感性(預設是弱，調成強會使得需要強信號來啟用連接)。\
+                                           已消音，非常安靜。為了方便測試，也能右鍵手動啟用連接。\
                                            ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
 
 
 
 tile.rsgauges.relay_pulseswitchtx1.help=§6一個小型工業式脈沖開關，專為作為有紅石信號輸入的連接中繼器優化。§r\n\
                                            該中繼器不能發出紅石信號，但在設備放置的方塊的紅石強度改變時\
-                                           設備內部的連接珍珠會激活。\
-                                           設備會在輸入信號從0變為任意更高值時短時間激活。\
-                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時激活)和強度敏感性(預設是弱，調成強會使得需要強信號來激活連接)。\
-                                           已消音，非常安靜。為了方便測試，也能右鍵手動激活連接。\
+                                           設備內部的連接珍珠會啟用。\
+                                           設備會在輸入信號從0變為任意更高值時短時間啟用。\
+                                           空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時啟用)和強度敏感性(預設是弱，調成強會使得需要強信號來啟用連接)。\
+                                           已消音，非常安靜。為了方便測試，也能右鍵手動啟用連接。\
                                            ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
 
 
@@ -559,7 +559,7 @@ tile.rsgauges.qube.help=這是開發人員模塊，不應該在遊戲中製作�
 #-----------------------------------------------------------------------------------------------------------
 item.rsgauges.switchlink_pearl.name=開關連接珍珠
 item.rsgauges.switchlink_pearl.help=§6可用終界珍珠左鍵一個開關來創建開關連接珍珠。該開關會作為連接的目標，\
-                                    會在連接珍珠被使用或連接珍珠被插入的連接起始開關激活時激活。§r\n\
+                                    會在連接珍珠被使用或連接珍珠被插入的連接起始開關啟用時啟用。§r\n\
                                     手持連接珍珠左鍵目標開關會循環切換連接選項。\
                                     可以在一個開關中插入多個連接珍珠。\
                                     連接珍珠會在過度緊張或找不到目標時抱怨，你可以聽到這聲音。\
@@ -719,11 +719,11 @@ rsgauges.switchlinking.source_assign.error_nosource=這個開關不能連接至�
 rsgauges.switchlinking.source_assign.error_alreadylinked=已經連接到該珍珠的目標
 rsgauges.switchlinking.source_assign.error_toofaraway=目標對於這個開關來說過於遙遠
 rsgauges.switchlinking.source_assign.error_failed=連接珍珠不喜歡這個開關
-rsgauges.switchlinking.relayconfig.confval0=激活狀態與起始開關同步。
+rsgauges.switchlinking.relayconfig.confval0=啟用狀態與起始開關同步。
 rsgauges.switchlinking.relayconfig.confval1=在起始開關打開時觸發。
 rsgauges.switchlinking.relayconfig.confval2=在起始開關關閉時觸發。
 rsgauges.switchlinking.relayconfig.confval3=在起始開關狀態改變時觸發。
-rsgauges.switchlinking.relayconfig.confval4=激活狀態與起始開關的反相同步。
+rsgauges.switchlinking.relayconfig.confval4=啟用狀態與起始開關的反相同步。
 #
 # EOF
 #-----------------------------------------------------------------------------------------------------------
