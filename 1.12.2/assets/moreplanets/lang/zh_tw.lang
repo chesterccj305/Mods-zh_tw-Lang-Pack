@@ -666,8 +666,8 @@ gui.button.config.name=配置
 # GUI MESSAGE
 gui.place_only_space.message=太空傳送墊只能放在太空或地球上!
 gui.no_warp_destination.message=未知目標!
-gui.dark_energy_success.message=暗黑能量接收器已成功激活
-gui.dark_energy_already_active.message=暗黑能量接收器已激活
+gui.dark_energy_success.message=暗黑能量接收器已成功啟用
+gui.dark_energy_already_active.message=暗黑能量接收器已啟用
 gui.dark_energy_no_power.message=暗黑能量接收器需要很多電力來運行!
 gui.dark_energy_disabled.message=你應該先啟動它!
 gui.dark_energy_malfunction.message=暗黑能量接收器發生故障,機器將在 %s 後爆炸

@@ -171,7 +171,7 @@ item.item_magnet.tooltip.detailed.line3=必須被充能，打開後
 item.item_magnet.tooltip.detailed.line4=放在快捷欄或飾品欄才能起效
 item.item_magnet.everywhere.tooltip.detailed.line1=將附近的物品拉向你
 item.item_magnet.everywhere.tooltip.detailed.line2=Shift+右擊來開關
-item.item_magnet.everywhere.tooltip.detailed.line3=必須被充能，激活
+item.item_magnet.everywhere.tooltip.detailed.line3=必須被充能，啟用
 item.item_magnet.everywhere.tooltip.detailed.line4=並放在快捷欄或飾品欄才能起效
 item.item_magnet.enabled=Electromagnet Active
 item.item_magnet.disabled=Electromagnet Disabled
@@ -496,10 +496,10 @@ tile.block_painted_iron_trapdoor.name=噴塗的鐵活板門
 
 tile.block_painted_pressure_plate.name=噴塗的壓力板
 tile.block_painted_pressure_plate.darksteel.name=玄鋼壓力板
-tile.block_painted_pressure_plate.darksteel.tooltip.detailed.line1=只能被玩家激活。
+tile.block_painted_pressure_plate.darksteel.tooltip.detailed.line1=只能被玩家啟用。
 tile.block_painted_pressure_plate.darksteel.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，玄鋼壓力板會隱形
 tile.block_painted_pressure_plate.darksteel.silent.name=玄鋼壓力板（無聲）
-tile.block_painted_pressure_plate.darksteel.silent.tooltip.detailed.line1=只能被玩家激活。
+tile.block_painted_pressure_plate.darksteel.silent.tooltip.detailed.line1=只能被玩家啟用。
 tile.block_painted_pressure_plate.darksteel.silent.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，玄鋼壓力板（無聲）會隱形
 tile.block_painted_pressure_plate.gold.name=輕質測重壓力板
 tile.block_painted_pressure_plate.gold.tooltip.detailed.line1=可變信號輸出：1物品可增加1信號強度。
@@ -514,26 +514,26 @@ tile.block_painted_pressure_plate.iron.silent.name=重質測重壓力板（無�
 tile.block_painted_pressure_plate.iron.silent.tooltip.detailed.line1=可變信號輸出：1實體可增加1信號強度。
 tile.block_painted_pressure_plate.iron.silent.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，重質測重壓力板（無聲）會隱形
 tile.block_painted_pressure_plate.soularium.name=魂金壓力板
-tile.block_painted_pressure_plate.soularium.tooltip.detailed.line1=只能被敵對生物激活。
+tile.block_painted_pressure_plate.soularium.tooltip.detailed.line1=只能被敵對生物啟用。
 tile.block_painted_pressure_plate.soularium.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，魂金壓力板會隱形
 tile.block_painted_pressure_plate.soularium.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.soularium.silent.name=魂金壓力板（無聲）
-tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line1=只能被敵對生物激活。
+tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line1=只能被敵對生物啟用。
 tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，魂金壓力板（無聲）會隱形
 tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.stone.name=石質壓力板
-tile.block_painted_pressure_plate.stone.tooltip.detailed.line1=只能被生物和玩家激活。
+tile.block_painted_pressure_plate.stone.tooltip.detailed.line1=只能被生物和玩家啟用。
 tile.block_painted_pressure_plate.stone.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，石製壓力板會隱形
 tile.block_painted_pressure_plate.stone.silent.name=石質壓力板（無聲）
-tile.block_painted_pressure_plate.stone.silent.tooltip.detailed.line1=只能被生物和玩家激活。
+tile.block_painted_pressure_plate.stone.silent.tooltip.detailed.line1=只能被生物和玩家啟用。
 tile.block_painted_pressure_plate.stone.silent.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，石質壓力板（無聲）會隱形
 tile.block_painted_pressure_plate.tuned.name=魂金壓力板（已配置）
-tile.block_painted_pressure_plate.tuned.tooltip.detailed.line1=只能被指定敵對生物激活。
+tile.block_painted_pressure_plate.tuned.tooltip.detailed.line1=只能被指定敵對生物啟用。
 tile.block_painted_pressure_plate.tuned.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，魂金壓力板（已配置）會隱形
 tile.block_painted_pressure_plate.tuned.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.tuned.tooltip=調頻至：%s
 tile.block_painted_pressure_plate.tuned.silent.name=魂金壓力板（已配置）（無聲）
-tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line1=只能被指定敵對生物激活。
+tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line1=只能被指定敵對生物啟用。
 tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line2=可在噴塗機內噴塗，當使用純凈玻璃噴塗時，魂金壓力板（已配置）（無聲）會隱形
 tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.wood.name=木質壓力板
@@ -803,7 +803,7 @@ enderio.darksteel.upgrade.depth.tooltip.detailed.line1=指引爆炸之力遠離�
 
 enderio.darksteel.upgrade.glider.name=滑翔
 enderio.darksteel.upgrade.glider.tooltip.detailed.line1=滑翔：開啟
-enderio.darksteel.upgrade.glider.enabled=滑翔激活
+enderio.darksteel.upgrade.glider.enabled=滑翔啟用
 enderio.darksteel.upgrade.glider.disabled=滑翔禁用
 
 enderio.darksteel.upgrade.elytra.name=鞘翅
@@ -814,7 +814,7 @@ enderio.darksteel.upgrade.elytra.disabled=禁用鞘翅
 
 enderio.darksteel.upgrade.sound.name=聲波定位
 enderio.darksteel.upgrade.sound.tooltip.detailed.line1=顯示附近聲源的位置
-enderio.darksteel.upgrade.sound.enabled=聲波定位激活
+enderio.darksteel.upgrade.sound.enabled=聲波定位啟用
 enderio.darksteel.upgrade.sound.disabled=聲波定位禁用
 
 enderio.darksteel.upgrade.padding.name=填充
@@ -853,7 +853,7 @@ enderio.darksteel.upgrade.jump.disabled=跳躍禁用
 
 enderio.darksteel.upgrade.jump_one.name=跳躍
 enderio.darksteel.upgrade.jump_one.tooltip.detailed.line1=加入步行輔助功能並提高跳躍高度
-enderio.darksteel.upgrade.stepAssist.enabled=激活步行輔助（自動跳躍）
+enderio.darksteel.upgrade.stepAssist.enabled=啟用步行輔助（自動跳躍）
 enderio.darksteel.upgrade.stepAssist.disabled=關閉步行輔助（自動跳躍）
 
 enderio.gui.step_assis_unavailable=步行輔助似乎被其他模組禁用了
@@ -906,7 +906,7 @@ enderio.top.machine.side.down=下面
 enderio.top.machine.ioMode.pre=§e模式：§f
 enderio.top.machine.ioMode.post=
 enderio.top.machine.outofpower=§4能量不足
-enderio.top.machine.active=激活狀態
+enderio.top.machine.active=啟用狀態
 enderio.top.machine.idle=閑置狀態
 
 enderio.top.channel.send.pre=§e發送方：§f
@@ -1306,8 +1306,8 @@ item.item_owl_egg.name=貓頭鷹蛋
 entity.enderio.owl_egg.name=貓頭鷹蛋
 entity.enderio.enderio.owl_egg.name=貓頭鷹蛋
 
-entity.enderio.primed_charge.name=激活的炸藥
-entity.enderio.enderio.primed_charge.name=激活的炸藥
+entity.enderio.primed_charge.name=啟用的炸藥
+entity.enderio.enderio.primed_charge.name=啟用的炸藥
 
 enderio.tooltip.inventory_charger.need_upgrade=§4未安裝能量水晶！
 enderio.tooltip.inventory_charger.enabled=物品欄充能啟用

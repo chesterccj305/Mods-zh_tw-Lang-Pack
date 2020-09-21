@@ -14,4 +14,4 @@ tile.dimensionaledibles.overworld_cake.name=主世界蛋糕
 item.dimensionaledibles.custom_apple.name=自訂蘋果
 tile.dimensionaledibles.custom_cake.name=自訂蛋糕
 #Error Messages
-dimensionaledibles.error.end_portal_disabled=§c　已禁用終界傳送門的激活！ 請使用終界蛋糕代替!
+dimensionaledibles.error.end_portal_disabled=§c　已禁用終界傳送門的啟用！ 請使用終界蛋糕代替!

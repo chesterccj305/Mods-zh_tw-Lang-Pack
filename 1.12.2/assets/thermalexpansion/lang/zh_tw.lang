@@ -244,7 +244,7 @@ info.thermalexpansion.apparatus.collector=收集周圍的掉落物。
 
 info.thermalexpansion.capacitor.a.0=儲存紅石通量（RF），可以為身上的設備和物品充能。
 info.thermalexpansion.capacitor.b.0=§e按下（%s）改變充能模式。 §r
-info.thermalexpansion.capacitor.c.0=潛行使用以激活。
+info.thermalexpansion.capacitor.c.0=潛行使用以啟用。
 info.thermalexpansion.capacitor.c.1=潛行使用以關閉。
 info.thermalexpansion.capacitor.d.0=充電設備
 info.thermalexpansion.capacitor.d.1=充能庫存
@@ -315,7 +315,7 @@ info.thermalexpansion.reservoir.a.0=儲存並運輸流體，可以裝填設備�
 info.thermalexpansion.reservoir.a.1=右擊使用以裝填流體。
 info.thermalexpansion.reservoir.a.2=右擊使用以倒出流體。
 info.thermalexpansion.reservoir.b.0=§e按下（%s）以改變其輸入輸出狀態。 §r
-info.thermalexpansion.reservoir.c.0=潛行使用激活。
+info.thermalexpansion.reservoir.c.0=潛行使用啟用。
 info.thermalexpansion.reservoir.c.1=潛行使用停用。
 info.thermalexpansion.reservoir.d.0=裝填
 info.thermalexpansion.reservoir.d.1=倒空

@@ -153,7 +153,7 @@ $end
 $title 穩定器
 $recipe machines/stabilizer
 $recipe machines/magnetblock
-為了是能源核心能夠穩定在機器中使用，它必須放在一個穩定器中，並被激活的紅石磁鐵包圍。有關更多信息，請參閱 “Parts Specifications” 部分的中的 “核心穩定性”。
+為了是能源核心能夠穩定在機器中使用，它必須放在一個穩定器中，並被啟用的紅石磁鐵包圍。有關更多信息，請參閱 “Parts Specifications” 部分的中的 “核心穩定性”。
 $end
 $title 生物合成單元
 $recipe machines/spawner

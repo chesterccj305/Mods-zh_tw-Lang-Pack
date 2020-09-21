@@ -638,9 +638,9 @@ command.updateModels=用法：/command
 
 ### GUIs/Containers ###
 #############################################################################################
-gui.gas_collector.protoss.fuel.tooltip=在 %s %s 這裡激活機器。
-gui.gas_collector.terran.fuel.tooltip=在 %s %s 這裡激活機器。
-gui.gas_collector.zerg.fuel.tooltip=在 %s %s 這裡激活機器。
+gui.gas_collector.protoss.fuel.tooltip=在 %s %s 這裡啟用機器。
+gui.gas_collector.terran.fuel.tooltip=在 %s %s 這裡啟用機器。
+gui.gas_collector.zerg.fuel.tooltip=在 %s %s 這裡啟用機器。
 item.protoss_ingot.name=神族鑄錠
 gui.item_shop=商人
 gui.item_shop.money=貨幣

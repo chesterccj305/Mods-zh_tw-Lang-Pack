@@ -92,14 +92,14 @@
 
     "chat.master.emptyslots": "可用空位：",
     "chat.master.connectables": "接入設備：",
-    "processing.alwayson.true": "激活",
+    "processing.alwayson.true": "啟用",
     "processing.alwayson.false": "剩餘：",
 
     "storagenetwork.process.status0": "暫停或停用",
     "storagenetwork.process.status1": "等待導入（暫存）",
     "storagenetwork.process.status2": "導出合成（暫存）",
 
-    "processing.buttons.toggle.true": "總是激活",
+    "processing.buttons.toggle.true": "總是啟用",
     "processing.buttons.toggle.false": "僅處理請求的數量",
     "processing.buttons.minus": "減少請求",
     "processing.buttons.plus": "增加請求",

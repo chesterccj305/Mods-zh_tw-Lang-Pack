@@ -11,7 +11,7 @@ tile.simplylight.illuminant_panel.info2=可以放置在任意位置。
 
 tile.simplylight.illuminant_block.name=紅石信號發光方塊
 tile.simplylight.illuminant_block.info=簡易的發光方塊，
-tile.simplylight.illuminant_block.info2=使用§4紅石§r激活。
+tile.simplylight.illuminant_block.info2=使用§4紅石§r啟用。
 
 tile.simplylight.illuminant_block_on.name=紅石信號發光方塊（反向）
 tile.simplylight.illuminant_block_on.info=簡易的發光方塊，

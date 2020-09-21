@@ -1,6 +1,6 @@
 itemGroup.Auraddons=靈氣拓展
 
-tile.auraddons.block_auto_wrath.name=自動憤怒激活器
+tile.auraddons.block_auto_wrath.name=自動憤怒啟動器
 tile.auraddons.block_ancient_fence.name=荒古木柵欄
 tile.auraddons.block_ancient_fence_gate.name=荒古木柵欄門
 tile.auraddons.block_infused_stone_wall.name=灌注石牆
@@ -21,7 +21,7 @@ item.auraddons.item_sky_feather.name=天空之羽
 item.auraddons.item_sky_bottle.name=天空之瓶
 
 advancement.auraddons.auto_wrath=工業沖擊波
-advancement.auraddons.auto_wrath.desc=合成自動傷害周圍生物的自動憤怒激活器
+advancement.auraddons.auto_wrath.desc=合成自動傷害周圍生物的自動憤怒啟用器
 advancement.auraddons.dampening_feather=似羽輕盈
 advancement.auraddons.dampening_feather.desc=合成能防止掉落傷害的緩落羽毛
 advancement.auraddons.disruption_catalyst=破壞性人格

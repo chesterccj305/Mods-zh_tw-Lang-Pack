@@ -12,8 +12,8 @@ tile.mob_grinding_utils.xp_tap.name=XP水龍頭
 tile.mob_grinding_utils.wither_muffler.name=凋零死亡音效消除器
 tile.mob_grinding_utils.dragon_muffler.name=終界龍死亡音效消除器
 tile.mob_grinding_utils.dark_oak_stone.name=黑色橡木石頭
-tile.mob_grinding_utils.ender_inhibitor_on.name=終界抑制器 激活
-tile.mob_grinding_utils.ender_inhibitor_off.name=終界抑制器 未激活
+tile.mob_grinding_utils.ender_inhibitor_on.name=終界抑制器 啟用
+tile.mob_grinding_utils.ender_inhibitor_off.name=終界抑制器 未啟用
 tile.mob_grinding_utils.entity_conveyor.name=實體傳送器
 
 #Fluids
@@ -74,7 +74,7 @@ tooltip.entityconveyor_2=怪物可以在這個方塊上生成。
 
 tooltip.enderinhibitor_1=在最大8格範圍內抑制實體傳送。
 tooltip.enderinhibitor_2=能貼在實心方塊的任意麵。
-tooltip.enderinhibitor_3=右鍵來 激活/關閉。
+tooltip.enderinhibitor_3=右鍵來 啟用/關閉。
 
 #Item Tool tips
 tooltip.hopperupgrade=吸取漏斗範圍：+1，最多放置6個。

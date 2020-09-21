@@ -91,7 +91,7 @@ item.woven_world_thread_chestplate.name=世界纖維編織的胸甲
 item.rift_key.bound.info=綁定
 item.rift_key.unbound.info=取消綁定
 
-item.iron_dimensional_door.info=放在裂痕下方的方塊上 \n來激活裂痕 \n或放在任意地點生成 \n一個口袋次元.
+item.iron_dimensional_door.info=放在裂痕下方的方塊上 \n來啟用裂痕 \n或放在任意地點生成 \n一個口袋次元.
 item.gold_dimensional_door.info=類似於次元門 \n但它放在次元內部時 \n會保持次元的載入.
 item.quartz_dimensional_door.info=生成一個通向你 \n口袋次元的路徑
 item.rift_blade.info=在裂痕上開啟臨時的門 \n它還擁有瞬移攻擊的能力.

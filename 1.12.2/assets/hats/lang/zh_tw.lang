@@ -71,7 +71,7 @@ hats.config.prop.modMobSupport.comment=啟用模組 生物支持帽子？
 hats.config.prop.modMobSupport.name=帽子Mod怪物支持
 hats.config.prop.personalizeEnabled.comment=此配置用於 GUI 個性化設置。\n如果你不知道自己在做什麽, 請不要改變這個。
 hats.config.prop.personalizeEnabled.name=個性化類別
-hats.config.prop.playerHatsMode.comment=玩家帽子模式：\n1 =自由模式，所有玩家可以自由選擇戴什麽帽子\n2 =鎖定模式，所有玩家必須戴上配置中所定義的相同帽子\n3 =命令授予模式，你戴的帽子是由可以使用命令的人選擇的\n4 =帽子打獵模式，看到有帽子的怪物，殺死它解鎖\n5 =帽子之王模式，只有一個玩家戴帽子。國王必須捍衛自己的位置或失去皇冠\n6 =時間激活模式，玩家在伺服器上活躍的時間越多，解鎖更多的帽子就越多
+hats.config.prop.playerHatsMode.comment=玩家帽子模式：\n1 =自由模式，所有玩家可以自由選擇戴什麽帽子\n2 =鎖定模式，所有玩家必須戴上配置中所定義的相同帽子\n3 =命令授予模式，你戴的帽子是由可以使用命令的人選擇的\n4 =帽子打獵模式，看到有帽子的怪物，殺死它解鎖\n5 =帽子之王模式，只有一個玩家戴帽子。國王必須捍衛自己的位置或失去皇冠\n6 =時間啟用模式，玩家在伺服器上活躍的時間越多，解鎖更多的帽子就越多
 hats.config.prop.playerHatsMode.name=玩家帽子模式
 hats.config.prop.randomHat.comment=每個玩家是否應該有隨機帽子？他們隨時隨地變化。 0=否。1=是。2=是，但不是玩家！只有在沒有模組的伺服器上啟用
 hats.config.prop.randomHat.name=隨機帽子
@@ -91,7 +91,7 @@ hats.config.prop.shouldOtherPlayersHaveHats.comment=其他玩家有帽子嗎？�
 hats.config.prop.shouldOtherPlayersHaveHats.name=如果其他玩家有帽子
 hats.config.prop.showContributorHatsInGui.comment=在GUI中顯示貢獻者帽子？
 hats.config.prop.showContributorHatsInGui.name=在GUI中顯示貢獻者帽子
-hats.config.prop.startTime.comment=對於playerHatsMode 6：需要在伺服器上激活以解鎖第一個帽子的時間（以ticks為單位）
+hats.config.prop.startTime.comment=對於playerHatsMode 6：需要在伺服器上啟用以解鎖第一個帽子的時間（以ticks為單位）
 hats.config.prop.startTime.name=開始時間
 hats.config.prop.timeIncrement.comment=對於playerHatsMode 6：獲得下一等級帽子所需的額外時間。預設值是125（1.25%）。 200%的時間為20000
 hats.config.prop.timeIncrement.name=時間增加
@@ -99,7 +99,7 @@ hats.config.prop.useRandomContributorHats.comment=在獲得隨機帽子時, 允�
 hats.config.prop.useRandomContributorHats.name=使用隨機貢獻者帽子
 hats.firstJoin.hatHunting=[Hats] 伺服器當前處於帽子狩獵模式!殺死戴著帽子的生物來解鎖相應的帽子!
 hats.firstJoin.kingOfTheHat.hasKing=[Hats] 伺服器當前處於帽子之王模式! 殺死國王來成為新國王才能戴帽子！
-hats.firstJoin.timeActive=[Hats] 伺服器當前處於時間激活模式！在線一定時間就能解鎖帽子！
+hats.firstJoin.timeActive=[Hats] 伺服器當前處於時間啟用模式！在線一定時間就能解鎖帽子！
 hats.gui.addCategory=新建分類
 hats.gui.addNew=添加分類
 hats.gui.addToCategory=添加到類型
