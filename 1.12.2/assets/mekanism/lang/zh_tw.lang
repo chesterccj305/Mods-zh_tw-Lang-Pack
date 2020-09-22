@@ -100,7 +100,7 @@ tile.BasicBlock.DynamicValve.name=動態閥門
 tile.BasicBlock.CopperBlock.name=銅磚
 tile.BasicBlock.TinBlock.name=錫磚
 tile.BasicBlock.ThermalEvaporationController.name=熱力蒸餾控制器
-tile.BasicBlock.ThermalEvaporationValve.name==熱力蒸餾閥門
+tile.BasicBlock.ThermalEvaporationValve.name=熱力蒸餾閥門
 
 # Basic Block 2 (second ID iteration)
 tile.BasicBlock2.ThermalEvaporationBlock.name=熱力蒸餾方塊

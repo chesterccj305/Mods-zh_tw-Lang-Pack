@@ -203,10 +203,10 @@ tile.immersiveengineering.conveyor.immersiveengineering:covered.name=絕緣傳�
 tile.immersiveengineering.conveyor.immersiveengineering:verticalcovered.name=絕緣垂直傳送帶
 tile.immersiveengineering.conveyor.immersiveengineering:extract.name=抽取傳送帶
 tile.immersiveengineering.conveyor.immersiveengineering:extractcovered.name=絕緣抽取傳送帶
-tile.immersiveengineering.conveyor.immersiveengineering:chute_iron.name=金屬板斗料
-tile.immersiveengineering.conveyor.immersiveengineering:chute_steel.name=金屬板料斗
-tile.immersiveengineering.conveyor.immersiveengineering:chute_aluminum.name=金屬板料斗
-tile.immersiveengineering.conveyor.immersiveengineering:chute_copper.name=金屬板料斗
+tile.immersiveengineering.conveyor.immersiveengineering:chute_iron.name=鐵金屬板料斗
+tile.immersiveengineering.conveyor.immersiveengineering:chute_steel.name=鋼金屬板料斗
+tile.immersiveengineering.conveyor.immersiveengineering:chute_aluminum.name=鋁金屬板料斗
+tile.immersiveengineering.conveyor.immersiveengineering:chute_copper.name=銅金屬板料斗
 
 tile.immersiveengineering.metal_multiblock.metal_press.name=金屬沖壓機
 tile.immersiveengineering.metal_multiblock.crusher.name=粉碎機
