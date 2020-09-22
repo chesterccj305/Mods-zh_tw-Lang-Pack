@@ -413,7 +413,7 @@ item.sandstone_hoe.guide=比石頭稍差，但是比木頭好
 item.sandstone_pickaxe.guide=比石頭稍差，但是比木頭好
 item.sandstone_spade.guide=比石頭稍差，但是比木頭好
 
-item.sandstonegear.guide=砂岩工具的質量略低於石質工具，但優於木質工具。
+item.sandstonegear.guide=砂岩工具的品質略低於石質工具，但優於木質工具。
 item.sandstonegear.title=砂岩裝備
 item.shift=按Shift可獲取更多資訊
 item.sleeping_mat.guide=它可以讓你在你站立的地方直接睡覺。可以在配置中設定藥水的結果。

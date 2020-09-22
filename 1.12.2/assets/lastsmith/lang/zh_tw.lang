@@ -6,7 +6,7 @@ item.flammpfeil.slashblade.named.louguan_old2.name=「觀樓劍」
 
 item.flammpfeil.slashblade.named.eievui.name=伊布之刃
 item.flammpfeil.slashblade.named.louguan_fake.name=偽物「觀樓劍」
-item.flammpfeil.slashblade.named.bailou_fake.name=偽物「白楼剑」
+item.flammpfeil.slashblade.named.bailou_fake.name=偽物「白樓劍」
 item.flammpfeil.slashblade.named.bailou.name=「白樓劍」
 item.flammpfeil.slashblade.named.roukan.name=「樓觀劍」
 item.flammpfeil.slashblade.named.louguan_tx.name=獄界劍「觀樓劍」
@@ -58,23 +58,23 @@ item.flammpfeil.slashblade.named.Scorn.name=「鎮魂曲」
 
 flammpfeil.swaepon.info.fake=偽
 
-blades.ps.model=这把刀並沒有靈魂，只是随手的粗製濫造
+blades.ps.model=這把刀並沒有靈魂，只是随手的粗製濫造
 blades.crafter=刀匠
 the_last_smith.name=無名的刀匠
-smith_hammer.name=这是工匠都喜歡用的锤子
-smith_hammer.name.ps=因为質量過硬，这個锤子是不會損壞的
+smith_hammer.name=這是工匠都喜歡用的錘子
+smith_hammer.name.ps=因為質地過硬，這個錘子是不會損壞的
 
 item.flammpfeil.slashblade.named.bamboolight_nice.name=上品「竹光」
-item.flammpfeil.slashblade.named.bamboolight_yin.name=「隐者之竹光」
+item.flammpfeil.slashblade.named.bamboolight_yin.name=「隱者之竹光」
 item.flammpfeil.slashblade.named.silverbamboolight_nice.name=上品「银纸竹光」
 item.flammpfeil.slashblade.named.silverbamboolight_gold.name=名刀「金纸竹光」
 item.flammpfeil.slashblade.named.silverbamboolight_blood.name=妖刀「血纸竹光」
 
 slashblade.seffect.name.ManaRepair=魔力修復
 
-flammpfeil.slashblade.specialattack.xianshizhan=人符「现世斬」
+flammpfeil.slashblade.specialattack.xianshizhan=人符「現世斬」
 flammpfeil.slashblade.specialattack.relife=新生
-flammpfeil.slashblade.specialattack.sanhua1=樱花剑「閃閃散華」
+flammpfeil.slashblade.specialattack.sanhua1=樱花劍「閃閃散華」
 flammpfeil.slashblade.specialattack.miwang=斬斷迷惘
 flammpfeil.slashblade.specialattack.miwang2=悟入幻想
 flammpfeil.slashblade.specialattack.spear2=心抄斬
@@ -83,43 +83,43 @@ flammpfeil.slashblade.specialattack.IaiSA=居合
 flammpfeil.slashblade.specialattack.SsakuyaSA=強劍技
 flammpfeil.slashblade.specialattack.flyintosky=頭上花剪斬
 
-item.lastsmith.blade.name=劣質刀條
-item.lastsmith.blade_2.name=鋼刀條
-item.lastsmith.blade_3.name=優質刀條
+item.lastsmith.blade.name=劣質刀片
+item.lastsmith.blade_2.name=鋼刀片
+item.lastsmith.blade_3.name=優質刀片
 tile.blast.name=煉鋼爐
 tile.blast_top.name=煉鋼爐煙囪
 tile.casket.name=水槽
 
-item.lastsmith.blade_unfinished.name=未完成刀條（1/5）
-item.lastsmith.blade_2_unfinished.name=未完成刀條（1/5）
-item.lastsmith.blade_3_unfinished.name=未完成刀條（1/5）
-item.lastsmith.blade_unfinished_2.name=未完成刀條（2/5）
-item.lastsmith.blade_2_unfinished_2.name=未完成刀條（2/5）
-item.lastsmith.blade_3_unfinished_2.name=未完成刀條（2/5）
-item.lastsmith.blade_unfinished_3.name=未完成刀條（3/5）
-item.lastsmith.blade_2_unfinished_3.name=未完成刀條（3/5）
-item.lastsmith.blade_3_unfinished_3.name=未完成刀條（3/5）
-item.lastsmith.blade_unfinished_4.name=未完成刀條（4/5）
-item.lastsmith.blade_2_unfinished_4.name=未完成刀條（4/5）
-item.lastsmith.blade_3_unfinished_4.name=未完成刀條（4/5）
-item.lastsmith.blade_unfinished_5.name=未完成刀條（5/5）
-item.lastsmith.blade_2_unfinished_5.name=未完成刀條（5/5）
-item.lastsmith.blade_3_unfinished_5.name=未完成刀條（5/5）
+item.lastsmith.blade_unfinished.name=未完成刀片（1/5）
+item.lastsmith.blade_2_unfinished.name=未完成刀片（1/5）
+item.lastsmith.blade_3_unfinished.name=未完成刀片（1/5）
+item.lastsmith.blade_unfinished_2.name=未完成刀片（2/5）
+item.lastsmith.blade_2_unfinished_2.name=未完成刀片（2/5）
+item.lastsmith.blade_3_unfinished_2.name=未完成刀片（2/5）
+item.lastsmith.blade_unfinished_3.name=未完成刀片（3/5）
+item.lastsmith.blade_2_unfinished_3.name=未完成刀片（3/5）
+item.lastsmith.blade_3_unfinished_3.name=未完成刀片（3/5）
+item.lastsmith.blade_unfinished_4.name=未完成刀片（4/5）
+item.lastsmith.blade_2_unfinished_4.name=未完成刀片（4/5）
+item.lastsmith.blade_3_unfinished_4.name=未完成刀片（4/5）
+item.lastsmith.blade_unfinished_5.name=未完成刀片（5/5）
+item.lastsmith.blade_2_unfinished_5.name=未完成刀片（5/5）
+item.lastsmith.blade_3_unfinished_5.name=未完成刀片（5/5）
 
-lastsmith.tip.heatted_blade=在水槽上右键以冷卻刀條
+lastsmith.tip.heatted_blade=在水槽上右键以冷卻刀片
 lastsmith.tip.blast_top=上方需要煙囪。
 jei.lastsmith.category.blast=煉鋼爐
 
-item.lastsmith.blade_unfinished.name=未完成刀條
-item.lastsmith.blade_2_unfinished.name=未完成刀條
-item.lastsmith.blade_3_unfinished.name=未完成刀條
+item.lastsmith.blade_unfinished.name=未完成刀片
+item.lastsmith.blade_2_unfinished.name=未完成刀片
+item.lastsmith.blade_3_unfinished.name=未完成刀片
 item.lastsmith.smith_hammer.name=工匠锤
 item.lastsmith.sakura.name=樱花瓣
 item.lastsmith.tamahagane.name=玉鋼
 item.lastsmith.steel_ingot.name=鋼锭
 item.lastsmith.crashed_iron.name=待冶煉鐵礦
-item.lastsmith.wooden_blade.name=實木刀條
-item.lastsmith.bamboo_blade.name=竹刀條
+item.lastsmith.wooden_blade.name=實木刀片
+item.lastsmith.bamboo_blade.name=竹刀片
 item.lastsmith.paper_arthurs.name=製作者名单
 item.lastsmith.sakura_full.name=樱
 item.lastsmith.sakura_ingot_unfinished.name=未精煉樱色鋼錠
@@ -197,60 +197,60 @@ research.HAKUROUSENPUUZIN.title=白樓旋風刃
 research.THAUMBLADE.title=要塞日本刀
 
 research.THAUMBLADE.text.stage.1=我從要塞甲胄中得到了一些靈感。而且我需要一些相關的知識。
-research.THAUMBLADE.text.stage.2=我著手改進这些武器，并且应该是小有成效了<BR>我從刀匠處學習，提出一套全新的理論並設計出這些優美的武器。<BR>它们擁有更強勁的力量，但更低的耐久。它们也保留著它们自己原本的特性。
+research.THAUMBLADE.text.stage.2=我著手改進這些武器，並且應該是小有成效了<BR>我從刀匠處學習，提出一套全新的理論並設計出這些優美的武器。 <BR>它們擁有更強勁的力量，但更低的耐久。它們也保留著它們自己原本的特性。
 
-research.BLADEUPDATE.title=刀之铭
+research.BLADEUPDATE.title=刀之銘
 
-research.BLADEUPDATE.text.stage.1=目前的要塞太刀是没有靈魂的，我需要賜與它一個全新的铭。
-research.BLADEUPDATE.text.stage.2=现在，這些无铭之刃被賜與了新的靈魂。
+research.BLADEUPDATE.text.stage.1=目前的要塞太刀是沒有靈魂的，我需要賜與它一個全新的銘。
+research.BLADEUPDATE.text.stage.2=現在，這些無銘之刃被賜與了新的靈魂。
 
-research.FIRSTBLADE.text.stage.1=這本手册原本只有一些神秘學的高深玩意，直到我發現手册後面還有大片的空白。<BR>總之，成為刀匠的第一步是製作木刀，那么製作實木的刀條就是第一件事情了。
-research.FIRSTBLADE.text.stage.2=很好，这就是第一振刀的刀刃了。<BR>我紀錄了一把木刀所需要的配件，以及它们的合成方法。组合起来就是一把木刀了。
+research.FIRSTBLADE.text.stage.1=這本手冊原本只有一些神秘學的高深玩意，直到我發現手冊後面還有大片的空白。 <BR>總之，成為刀匠的第一步是製作木刀，那麼製作實木的刀片就是第一件事情了。
+research.FIRSTBLADE.text.stage.2=很好，這就是第一振刀的刀刃了。 <BR>我紀錄了一把木刀所需要的配件，以及它們的合成方法。組合起來就是一把木刀了。
 
-research.WOODENBLADE.text.stage.1=有了刀刃，就要準備刀鞘。<BR>製作一個刀條和一個實木鞘，這樣我就可以做一把崭新的木刀了。
-research.WOODENBLADE.text.stage.2=不错，现在只需要组合起来就好了。
-research.WOODENBLADE.text.stage.3=好了，这就是木刀了。<BR>無铭刀「木偶」，这是曾經的匠人為它起過的名字。為了紀念前輩們，我也這麼起名好了。
+research.WOODENBLADE.text.stage.1=有了刀刃，就要準備刀鞘。 <BR>製作一個刀片和一個實木鞘，這樣我就可以做一把嶄新的木刀了。
+research.WOODENBLADE.text.stage.2=不錯，現在只需要組合起來就好了。
+research.WOODENBLADE.text.stage.3=好了，這就是木刀了。 <BR>無銘刀「木偶」，這是曾經的匠人為它起過的名字。為了紀念前輩們，我也這麼起名好了。
 
-research.BLADES.text.stage.1=我應該做幾把鐵刀的，不過我手頭没有趁手的工具和鋼鐵。<BR>憑我的手藝，自己重新製作或許會好很多。<BR>给自己一個煉鋼爐和锤子，這樣我就可以繼續我的工作。
-research.BLADES.text.stage.2=好的，工具和炼钢炉都齊了。<BR>需要鋼錠的话我用煉鋼爐把待冶煉鐵礦熔煉出玉鋼，再進行敲打就可以了。<BR>我應該拿不同的原料製作刀條，這樣可以比较出不同材料的優越性。
-research.BLADES.text.stage.3=我發現耀魂鐵錠作為刀刃的材料是最為優越的。<BR>不過，其他的刀刃材料也可以用於批量生產。因为我察覺到這種鐵錠非常的稀有與昂貴。<BR>配方已经紀錄下来了，这样我就可以隨時查閱这些资料。
+research.BLADES.text.stage.1=我應該做幾把鐵刀的，不過我手頭沒有趁手的工具和鋼鐵。 <BR>憑我的手藝，自己重新製作或許會好很多。 <BR>給自己一個煉鋼爐和錘子，這樣我就可以繼續我的工作。
+research.BLADES.text.stage.2=好的，工具和煉鋼爐都齊了。 <BR>需要鋼錠的話我用煉鋼爐把待冶煉鐵礦熔煉出玉鋼，再進行敲打就可以了。 <BR>我應該拿不同的原料製作刀片，這樣可以比轉出不同材料的優越性。
+research.BLADES.text.stage.3=我發現耀魂鐵錠作為刀刃的材料是最為優越的。 <BR>不過，其他的刀刃材料也可以用於批量生產。因為我察覺到這種鐵錠非常的稀有與昂貴。 <BR>配方已經紀錄下來了，這樣我就可以隨時查閱這些資料。
 
-research.WHITESHEATH.text.stage.1=這，應該就是我的處女作了吧。<BR>现在这個木頭刀刃可以扔掉了，我要換上親手打造的最優質的刀刃。
-research.WHITESHEATH.text.stage.2=我现在只要將刀刃取下，换上新的刀刃就可以了。
-research.WHITESHEATH.text.stage.3=现在這把刀就這樣完成了。<BR>我非常的自豪，但我也應該察覺到我需要的不只是这些。<BR>嘛，總之先把配方都紀錄下来吧。
+research.WHITESHEATH.text.stage.1=這，應該就是我的處女作了吧。 <BR>現在這個木頭刀刃可以扔掉了，我要換上親手打造的最優質的刀刃。
+research.WHITESHEATH.text.stage.2=我現在只要將刀刃取下，換上新的刀刃就可以了。
+research.WHITESHEATH.text.stage.3=現在這把刀就這樣完成了。 <BR>我非常的自豪，但我也應該察覺到我需要的不只是這些。 <BR>嘛，總之先把配方都紀錄下來吧。
 
-research.SLASHBLADE.text.stage.1=有傳言说大太刀的製造需要用斷掉的白鞘来進行。<BR>我觉得我可以来親自試驗一下，先讓我找一把白鞘出来好了。
-research.SLASHBLADE.text.stage.2=按照别人提供的配方，这样合成出来就好。
-research.SLASHBLADE.text.stage.3=我的试验证明了传言是真实的。<BR>不过即便这样这把大太刀的装具也是非常的普通，而且感觉不到什么特别的气息。<BR>总之先把配方都记录下来吧。
+research.SLASHBLADE.text.stage.1=有傳言說大太刀的製造需要用斷掉的白鞘來進行。 <BR>我覺得我可以來親自試驗一下，先讓我找一把白鞘出來好了。
+research.SLASHBLADE.text.stage.2=按照別人提供的配方，這樣合成出來就好。
+research.SLASHBLADE.text.stage.3=我的試驗證明了傳言是真實的。 <BR>不過即便這樣這把大太刀的裝具也是非常的普通，而且感覺不到什麼特別的氣息。 <BR>總之先把配方都紀錄下來吧。
 
-research.UNNAMEDBLADE.text.stage.1=我试著做一把新刀，先拿白鞘下手好了。
-research.UNNAMEDBLADE.text.stage.2=这把白鞘，刀刃的质量不行。<BR>它轻而易举的就断掉了，所以我需要给它换上新的刀条。<BR>等等，我也许可以改一些小东西。。。。。。
-research.UNNAMEDBLADE.text.stage.3=完成，通过最上级的刀刃和贵重的白鞘组合而成。<BR>我把它起名为 自铭「起源」，这就是一切的开始。。。。。。
+research.UNNAMEDBLADE.text.stage.1=我試著做一把新刀，先拿白鞘下手好了。
+research.UNNAMEDBLADE.text.stage.2=這把白鞘，刀刃的品質不行。 <BR>它輕而易舉的就斷掉了，所以我需要給它換上新的刀條。 <BR>等等，我也許可以改一些小東西。 。 。 。 。 。
+research.UNNAMEDBLADE.text.stage.3=完成，通過最上級的刀刃和貴重的白鞘組合而成。 <BR>我把它起名為 自銘「起源」，這就是一切的開始。 。 。 。 。 。
 
-research.NAMEDBALDE.text.stage.1=有很多名刀都是故事或传记中的常客。<BR>这些刀并不是容易获得的，现有的资料无法完全证明它们的存在。
-research.NAMEDBALDE.text.stage.2=这些刀的存在已经被证实，并记录了所有製作这些刀的方式。
+research.NAMEDBALDE.text.stage.1=有很多名刀都是故事或傳記中的常客。 <BR>這些刀並不是容易獲得的，現有的資料無法完全證明它們的存在。
+research.NAMEDBALDE.text.stage.2=這些刀的存在已經被證實，並紀錄了所有製作這些刀的方式。
 
-research.SAKURABALDE.text.stage.1=曾经有两族，在一场战争中同时被毁灭了。。。。。。<BR>他们留下了五振名刀，最出名的则莫过于樱之刃。<BR>然而，现有的资料无法完全证明它们的存在。
-research.SAKURABALDE.text.stage.2=“樱之刃”——能够驱除一切邪恶的秘密之剑。<BR>驱魔家族秘密中保存著这把剑，并将其传给他们的后代……<BR>然而事实上，驱魔家族与魔族的战争导致了两族的灭亡，不复存在。而且不仅仅是樱之刃，五振名刀都具有相似的能力。尽管驱魔家族成功保管住了樱之刃，也无法挽救他们的一切。。。。。。
+research.SAKURABALDE.text.stage.1=曾經有兩族，在一場戰爭中同時被毀滅了。 。 。 。 。 。 <BR>他們留下了五振名刀，最出名的則莫過於櫻之刃。 <BR>然而，現有的資料無法完全證明它們的存在。
+research.SAKURABALDE.text.stage.2=“櫻之刃”——能夠驅除一切邪惡的秘密之劍。 <BR>驅魔家族秘密中保存著這把劍，並將其傳給他們的後代……<BR>然而事實上，驅魔家族與魔族的戰爭導致了兩族的滅亡，不復存在。而且不僅僅是櫻之刃，五振名刀都具有相似的能力。儘管驅魔家族成功保管住了櫻之刃，也無法挽救他們的一切。 。 。 。 。 。
 
-research.ROUKAN.text.stage.1=楼观剑，据传是可以斩断一切的极其锋利的妖刀。<BR>值得一提的是，市面上其实有很多挂著楼观剑牌子的刀都是劣质的仿製品。真品却无从得知了。
-research.ROUKAN.text.stage.2=仿製品里，较为成功的会被称为观楼剑。<BR>而楼观剑真品，则在西行寺家的庭师手中。<BR>製作这样的一把妖刀，是极其耗费财力的。<BR>我们虽然有能力打造出一把几乎完全一致的刀，也没有办法得到她手里的那一振了。
+research.ROUKAN.text.stage.1=樓觀劍，據傳是可以斬斷一切的極其鋒利的妖刀。 <BR>值得一提的是，市面上其實有很多掛著樓觀劍牌子的刀都是劣質的仿製品。真品卻無從得知了。
+research.ROUKAN.text.stage.2=仿製品裡，轉為成功的會被稱為觀樓劍。 <BR>而樓觀劍真品，則在西行寺家的庭師手中。 <BR>製作這樣的一把妖刀，是極其耗費財力的。 <BR>我們雖然有能力打造出一把幾乎完全一致的刀，也沒有辦法得到她手裡的那一振了。
 
-research.HAKUROU.text.stage.1=白楼剑，魂魄家的家传宝刀。<BR>作为西行寺家的护卫，这振刀的实际用途并不是用于斩杀生灵。<BR>即便如此，我们也不知道这振刀的其余信息。
-research.HAKUROU.text.stage.2=这振刀确实没有很锋利的刀刃。<BR>取而代之的是，这振刀能够解开对方的迷茫，幽灵则直接成佛。<BR>西行寺家的大小姐为什么至今未成佛，可能她的心里根本没有迷茫而已吧。。。。。。
+research.HAKUROU.text.stage.1=白樓劍，魂魄家的家傳寶刀。 <BR>作為西行寺家的護衛，這振刀的實際用途並不是用於斬殺生靈。 <BR>即便如此，我們也不知道這振刀的其餘信息。
+research.HAKUROU.text.stage.2=這振刀確實沒有很鋒利的刀刃。 <BR>取而代之的是，這振刀能夠解開對方的迷茫，幽靈則直接成佛。 <BR>西行寺家的大小姐為什麼至今未成佛，可能她的心裡根本沒有迷茫而已吧。 。 。 。 。 。
 
-research.OLDBLADES.text.stage.1=有几把刀是来自于旧版拔刀剑的，不过这里没有合成
-research.OLDBLADES.text.stage.2=这些刀的存在已经被证实，并记录了所有製作这些刀的方式。
+research.OLDBLADES.text.stage.1=有幾把刀是來自於舊版拔刀劍的，不過這裡沒有合成
+research.OLDBLADES.text.stage.2=這些刀的存在已經被證實，並紀錄了所有製作這些刀的方式。
 
-research.OTHERSBLADE.text.stage.1=有一些零散的刀，它们没有一个成型的发展路线，潜力也不是很大。<BR>现有的资料无法完全证明它们的存在。
-research.OTHERSBLADE.text.stage.2=这些零散的刀没有什么特别的地方，但是它们却更容易获得。<BR>对于没有能力打造强力兵器的普通人，这会是他们的首选。
+research.OTHERSBLADE.text.stage.1=有一些零散的刀，它們沒有一個成型的發展路線，潛力也不是很大。 <BR>現有的資料無法完全證明它們的存在。
+research.OTHERSBLADE.text.stage.2=這些零散的刀沒有什麼特別的地方，但是它們卻更容易獲得。 <BR>對於沒有能力打造強力兵器的普通人，這會是他們的首選。
 
-research.ROUKANSENPUUZIN.text.stage.1=研究元素工具的时候，你想到了一些奇怪的点子。<BR>如果一振日本刀被赐予了元素的力量，那又会是什么样的呢？
-research.ROUKANSENPUUZIN.text.stage.2=这一振刀，是以楼观剑为基底的元素道具。<BR>很显然，这振刀有著和风雷剑一样的能力，但是也比风雷剑强大的多。
+research.ROUKANSENPUUZIN.text.stage.1=研究元素工具的時候，你想到了一些奇怪的點子。 <BR>如果一振日本刀被賜予了元素的力量，那又會是什麼樣的呢？
+research.ROUKANSENPUUZIN.text.stage.2=這一振刀，是以樓觀劍為基底的元素道具。 <BR>很顯然，這振刀有著和風雷劍一樣的能力，但是也比風雷劍強大的多。
 
-research.HAKUROUSENPUUZIN.text.stage.1=研究元素工具的时候，你想到了一些奇怪的点子。<BR>如果一振日本刀被赐予了元素的力量，那又会是什么样的呢？
-research.HAKUROUSENPUUZIN.text.stage.2=这一振刀，是以白楼剑为基底的元素道具。<BR>很显然，这振刀有著和风雷剑一样的能力，但是也比风雷剑强大的多。
+research.HAKUROUSENPUUZIN.text.stage.1=研究元素工具的時候，你想到了一些奇怪的點子。 <BR>如果一振日本刀被賜予了元素的力量，那又會是什麼樣的呢？
+research.HAKUROUSENPUUZIN.text.stage.2=這一振刀，是以白樓劍為基底的元素道具。 <BR>很顯然，這振刀有著和風雷劍一樣的能力，但是也比風雷劍強大的多。
 
 guide.smith_guide.title=無名刀匠之書
-guide.smith_guide.landing_text=這個無名刀匠將自己的知識，全部紀錄在了这本書裡。
+guide.smith_guide.landing_text=這個無名刀匠將自己的知識，全部紀錄在了這本書裡。
 guide.smith_guide.subtitle=裡面，是無名刀匠的一生

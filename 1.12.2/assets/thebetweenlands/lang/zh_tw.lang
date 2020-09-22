@@ -1773,7 +1773,7 @@ config.thebetweenlands.portal_biome_search_range=傳送門群系搜索半徑
 config.thebetweenlands.generate_portal_in_end=在終界生成傳送樹
 
 config.thebetweenlands.rendering=渲染
-config.thebetweenlands.wisp_quality=鬼火的渲染質量
+config.thebetweenlands.wisp_quality=鬼火的渲染品質
 config.thebetweenlands.use_shader=啟用模組自帶光影
 config.thebetweenlands.shader_priority=Shader rendering priority
 config.thebetweenlands.dimension_shader_only=在交錯次元外關閉交錯次元光影
