@@ -9,7 +9,7 @@
   "item.vanillatweaks.dynamite": "炸藥",
   "item.vanillatweaks.friedegg": "煎雞蛋",
   "item.vanillatweaks.pad": "隨身工作台",
-  "item.vanillatweaks.lens": "雙筒望遠鏡片",
+  "item.vanillatweaks.lens": "雙筒望遠鏡鏡片",
   "item.vanillatweaks.binoculars": "雙筒望遠鏡",
   "item.vanillatweaks.slime": "史萊姆探測桶",
   "item.vanillatweaks.binocular_bauble": "雙筒望遠鏡（飾品）",
@@ -23,7 +23,7 @@
 
   "_comment": "advancements desc",
   "advancements.vt.storage.desc": "製作儲存方塊",
-  "advancements.vt.pad.desc": "製作合成板",
+  "advancements.vt.pad.desc": "製作隨身工作台",
   "advancements.vt.zoom.desc": "製作雙筒望遠鏡",
   "advancements.vt.boom.desc": "製作炸藥",
   "advancements.vt.friedegg.desc": "聞到雞蛋的香味",
