@@ -88,7 +88,7 @@ tooltip.item.resource.infinity_catalyst.desc=一即全，全即一。
 tooltip.item.resource.infinity_ingot.desc=汝掌心中者，寰宇之力也。
 tooltip.item.resource.record_fragment.desc=一位篤信音樂帶來的自由的人~
 tooltip.skullfire_sword.desc=斬骷髏首級，燒至焦黑。
-tooltip.matter_cluster.desc=用于分解。
+tooltip.matter_cluster.desc=用於分解。
 tooltip.matter_cluster.desc2=按下SHIFT顯示詳細訊息。
 tooltip.matter_cluster.counter=物品
 #
@@ -97,7 +97,7 @@ itemGroup.avaritia=無盡貪婪
 container.neutron_collector=中子收集器
 container.neutronium_compressor=中子壓縮機
 crafting.extreme=終極合成
-crafting.extreme.shapeless=無形终极合成
+crafting.extreme.shapeless=無形終極合成
 crafting.extreme_compression=中子壓縮機
 tip.infinity=Infinity
 death.attack.infinity=%1$s被%2$s徹底粉碎

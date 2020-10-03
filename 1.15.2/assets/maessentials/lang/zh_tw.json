@@ -70,7 +70,7 @@
   "tpa.maessentials.exist": "§c你已經向 §4%s§r 發送了一個傳送請求",
   "tpa.maessentials.self": "§c你不能傳送到你自己",
   "tpa.maessentials.not_found": "§c找不到傳送請求",
-  "tpa.maessentials.no_request": "§c你没有傳送請求",
+  "tpa.maessentials.no_request": "§c你沒有傳送請求",
 
   "tpa.maessentials.request": "傳送請求已經發给 §c%s§r",
   "tpa.maessentials.request.target": "玩家 §c%s§r 想要傳送到你這裡",
