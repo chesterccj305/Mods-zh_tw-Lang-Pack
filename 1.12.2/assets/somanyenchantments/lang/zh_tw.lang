@@ -311,10 +311,10 @@ enchantment.WellTilled=保濕
 enchantment.somanyenchantments.welltilled.desc=耕種會使農田自動變濕。
 
 enchantment.TillingPower=耕作
-enchantment.somanyenchantments.tillingpower.desc=根據耕種的土壤數量，增加耕作面積，同時損壞頭。
+enchantment.somanyenchantments.tillingpower.desc=根據耕種的土壤數量，增加耕作面積，同時損壞鋤頭。
 
 enchantment.ScytheDamage=鋸齒鋤
-enchantment.somanyenchantments.scythedamage.desc=大大增加了的傷害。
+enchantment.somanyenchantments.scythedamage.desc=大大增加了鋤頭的傷害。
 
 enchantment.upgrade=潛力升級
 enchantment.somanyenchantments.upgrade.desc=減少鐵砧附魔的XP成本。
@@ -326,7 +326,7 @@ enchantment.NaturalBlocking=自然阻擋
 enchantment.somanyenchantments.naturalblocking.desc=持盾時，盾自然會阻擋一定百分比的傷害。
 
 enchantment.Brutality=野蠻
-enchantment.somanyenchantments.brutality.desc=對有穿盔甲的實體增加了傷害。
+enchantment.somanyenchantments.brutality.desc=對有穿戴盔甲的實體增加了傷害。
 
 enchantment.MagmaWalker=岩漿漫步者
 enchantment.somanyenchantments.magmawalker.desc=使用戶能夠在熔岩中行走，將它們變成岩漿塊。像冰霜行者一樣，可以消除岩漿塊造成的傷害。
@@ -346,8 +346,8 @@ enchantment.somanyenchantments.curseofvulnerability.desc=增加使用者受到�
 enchantment.CurseInflicter=符文：封印詛咒
 enchantment.somanyenchantments.curseinflicter.desc=攻擊有機率使被攻擊者擁有的舊裝備施以詛咒。
 
-enchantment.CurseOfInaccuracy=不准確詛咒
-enchantment.somanyenchantments.curseofinaccuracy.desc=使用戶遭受攻擊，使近戰攻擊閃過並從弓箭發射箭矢不准確。
+enchantment.CurseOfInaccuracy=不準確詛咒
+enchantment.somanyenchantments.curseofinaccuracy.desc=使用戶遭受攻擊，使近戰攻擊閃過並從弓箭發射箭矢不準確。
 
 enchantment.Inhumane=不人道
 enchantment.somanyenchantments.inhumane.desc=攻擊對額外的攻擊者造成了額外的傷害。
