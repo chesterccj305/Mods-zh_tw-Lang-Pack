@@ -1,0 +1,17 @@
+{
+	"_comment": "Items",
+	"item.uppers.upper_item": "上吸漏斗",
+	
+	"_comment": "Blocks",
+	"block.uppers.upper": "上吸漏斗",
+	  
+	"_comment": "Tool Tips",
+	"tooltip.upper_1": "像漏斗一樣工作，但上下顛倒。",
+	"tooltip.upper_2": "從下方的方塊吸收物品。",
+	
+	"_comment": "Gui",
+	"container.upper": "物品上吸",
+
+	"_comment": "Creative Tabs",
+	"itemGroup.uppers": "上吸漏斗"
+}
