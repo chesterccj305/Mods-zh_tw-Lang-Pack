@@ -64,13 +64,13 @@
   "effect.autumnity.anti_healing": "反治療",
   
   "item.minecraft.potion.effect.extension": "延長藥水",
-  "item.minecraft.splash_potion.effect.extension": "飛濺延長藥水",
-  "item.minecraft.lingering_potion.effect.extension": "滯留延長藥水",
+  "item.minecraft.splash_potion.effect.extension": "飛濺 延長藥水",
+  "item.minecraft.lingering_potion.effect.extension": "滯留 延長藥水",
   "item.minecraft.tipped_arrow.effect.extension": "延長之箭",
   
   "item.minecraft.potion.effect.anti_healing": "抗癒合藥水",
-  "item.minecraft.splash_potion.effect.anti_healing": "飛濺抗癒合藥水",
-  "item.minecraft.lingering_potion.effect.anti_healing": "滯留抗癒合藥水",
+  "item.minecraft.splash_potion.effect.anti_healing": "飛濺 抗癒合藥水",
+  "item.minecraft.lingering_potion.effect.anti_healing": "滯留 抗癒合藥水",
   "item.minecraft.tipped_arrow.effect.anti_healing": "抗癒合之箭",
   
   "biome.autumnity.maple_forest": "楓樹林",
