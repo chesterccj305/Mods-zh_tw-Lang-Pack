@@ -15,7 +15,7 @@
   "item.archers_paradox.diamond_arrow": "鑽石之箭",
   "item.archers_paradox.diamond_arrow.desc": "傷害增加，可刺穿目標。",
   "item.archers_paradox.displacement_arrow": "瞬移之箭",
-  "item.archers_paradox.displacement_arrow.desc": "創建一個臨時區域，將東西傳送出去。",
+  "item.archers_paradox.displacement_arrow.desc": "創造一個臨時區域，將東西傳送出去。",
   "item.archers_paradox.ender_arrow": "終界之箭",
   "item.archers_paradox.ender_arrow.desc": "傳送射擊者 (和目標).",
   "item.archers_paradox.explosive_arrow": "爆炸之箭",
@@ -41,7 +41,7 @@
   "item.archers_paradox.spore_arrow": "菌絲之箭",
   "item.archers_paradox.spore_arrow.desc": "進行菌絲傳播。",
   "item.archers_paradox.training_arrow": "訓練之箭",
-  "item.archers_paradox.training_arrow.desc": "沒有造成傷害，用於練習。使每次射擊都更加困難。",
+  "item.archers_paradox.training_arrow.desc": "不會造成傷害，用於練習。使每次射擊都更加困難。",
   "item.archers_paradox.verdant_arrow": "翠綠的箭",
   "item.archers_paradox.verdant_arrow.desc": "使世界更加茂盛。"
 }
