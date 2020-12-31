@@ -1,0 +1,35 @@
+#KEYBINDING
+category.jjcoin=JJ幣
+#BLOCK
+tile.coffer.name=保險箱
+#ITEM
+item.copper_coin.name=銅幣
+item.silver_coin.name=銀幣
+item.gold_coin.name=金幣
+item.diamond_coin.name=鑽石幣
+#CONFIGURATION
+config.a_update_chat_message=顯示新的更新消息
+#TABS
+itemGroup.jjcoin=JJ幣
+#CHAT MESSAGE
+jjcoin.chat.new_update_1=可以下載版本
+jjcoin.chat.new_update_2=JJ幣
+jjcoin.chat.coffer_not_found=您沒有保險箱
+jjcoin.chat.can_not_break=您無法打破其他玩家的保險箱
+jjcoin.chat.can_not_place=只能放置一個保險箱
+jjcoin.chat.can_not_open_other_coffer=您無法打開其他玩家的寶箱
+#CONTAINER
+container.coffer.coffer=保險箱
+#GUI
+gui.value=值
+#COMMAND
+command.coin_desc_0=參數列表:
+command.coin_desc_1=- 餘額 [name_player] = 獲取玩家持有的硬幣總數
+command.coin_desc_2=- 保險箱 = 獲取保險箱的坐標
+command.coin_error=錯誤的命令。使用/硬幣正確使用
+command.coin_your_balance=您的保險箱裡的硬幣總數:
+command.coin_balance_player=玩家保險箱中的硬幣總數:
+command.coin_coffer=您的保險箱位於坐標處:
+command.coin_player_not_fond=請求的玩家不存在或不在線
+
+
