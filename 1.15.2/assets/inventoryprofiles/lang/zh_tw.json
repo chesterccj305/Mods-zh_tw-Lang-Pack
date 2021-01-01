@@ -24,8 +24,8 @@
 
 
 
-    "inventoryprofiles.gui.config.ModSettings": "Mod 設置",
-    "inventoryprofiles.gui.config.GuiSettings": "介面設置",
+    "inventoryprofiles.gui.config.ModSettings": "Mod 設定",
+    "inventoryprofiles.gui.config.GuiSettings": "介面設定",
     "inventoryprofiles.gui.config.EditProfiles": "編輯設定",
     "inventoryprofiles.gui.config.Hotkeys": "熱鍵",
     "inventoryprofiles.gui.config.Tweaks": "原版修改",
@@ -34,7 +34,7 @@
     "inventoryprofiles.config.category.debugs": "Debugs",
     "inventoryprofiles.config.category.inventory": "背包",
     "inventoryprofiles.config.category.hotkeys": "熱鍵",
-    "inventoryprofiles.config.category.client_side_tweaks": "客戶端",
+    "inventoryprofiles.config.category.client_side_tweaks": "用戶端",
     "inventoryprofiles.config.category.coming_soon": "即將到來!",
 
 
@@ -88,8 +88,8 @@
     "inventoryprofiles.config.name.disable_block_breaking_cooldown":    "移除挖掘延遲",
     "inventoryprofiles.config.name.disable_item_use_cooldown":          "移除右鍵使用冷卻時間",
     "inventoryprofiles.config.name.prevent_close_gui_drop_item":        "防止關閉介面掉落物品",
-    "inventoryprofiles.config.name.disable_screen_shaking_on_damage":   "禁止受到傷害搖晃畫面",
-    "inventoryprofiles.config.name.disable_lava_fog":                   "禁用岩漿迷霧",
+    "inventoryprofiles.config.name.disable_screen_shaking_on_damage":   "停用受到傷害搖晃畫面",
+    "inventoryprofiles.config.name.disable_lava_fog":                   "停用岩漿迷霧",
 
     "inventoryprofiles.config.description.instant_mining_cooldown":             "讓瞬間破壞方塊後挖掘下一個方塊也有挖掘延遲。優先度較 \"移除挖掘延遲\"低。",
     "inventoryprofiles.config.description.disable_block_breaking_cooldown":     "移除挖掘下一個方塊的延遲",
