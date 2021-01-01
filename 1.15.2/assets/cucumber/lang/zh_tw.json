@@ -1,5 +1,5 @@
 {
-  "tooltip.cucumber.hold_shift_for_info": "按住 §e§oSHIFT §r§7以獲取訊息",
+  "tooltip.cucumber.hold_shift_for_info": "按住 §e§oSHIFT §r§7檢視資訊",
   "tooltip.cucumber.uses_left": "左鍵使用%s次",
   "tooltip.cucumber.one_use_left": "左鍵使用1次",
   "tooltip.cucumber.unlimited_uses": "無限使用",
