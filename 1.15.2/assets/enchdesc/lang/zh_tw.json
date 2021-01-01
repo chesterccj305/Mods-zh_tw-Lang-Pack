@@ -4,7 +4,7 @@
     "_comment": "Enchantment Tooltip",
     "tooltip.enchdesc.addedby": "來源: %s",
 	"tooltip.enchdesc.activate": "按下 %s%s%s查看附魔說明",
-	"enchdesc.fatalerror": "錯誤：請參閱日誌文件",
+	"enchdesc.fatalerror": "錯誤：請參閱日誌檔案",
 
     "_comment": "Vanilla Enchantment Descriptions",
     "enchantment.minecraft.protection.desc": "減少多數的傷害",
