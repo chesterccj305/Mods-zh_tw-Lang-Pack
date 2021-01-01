@@ -1,7 +1,7 @@
 {
   "commands.kiwi.dumpLoots.wrongPattern": "非法的模式器",
-  "commands.kiwi.dumpLoots.noTargets": "找到匹配的方塊",
-  "commands.kiwi.dumpLoots.success": "成功導出 %d個戰利品表",
+  "commands.kiwi.dumpLoots.noTargets": "找不到相符的方塊",
+  "commands.kiwi.dumpLoots.success": "成功匯出 %d個戰利品表",
   "tip.kiwi.press_shift": "<按住 §f§oShift§r§7..>",
-  "msg.kiwi.no_dependencies": "{1}: 模塊 §e{2}§r 需要啟用以下依賴模塊: §e{3}"
+  "msg.kiwi.no_dependencies": "{1}: 模組 §e{2}§r 需要啟用以下依賴模組: §e{3}"
 }
