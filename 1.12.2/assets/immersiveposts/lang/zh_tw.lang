@@ -1,0 +1,132 @@
+#########################
+#        Blocks         #
+#########################
+
+tile.immersiveposts.postbase.name=可延長桿基座
+tile.immersiveposts.woodpost.name=木桿
+tile.immersiveposts.ironpost.name=鐵桿
+tile.immersiveposts.goldpost.name=金桿
+tile.immersiveposts.copperpost.name=銅桿
+tile.immersiveposts.leadpost.name=鉛桿
+tile.immersiveposts.silverpost.name=銀桿
+tile.immersiveposts.nickelpost.name=鎳桿
+tile.immersiveposts.constantanpost.name=康銅桿
+tile.immersiveposts.electrumpost.name=琥珀金桿
+tile.immersiveposts.uraniumpost.name=鈾桿
+tile.immersiveposts.netherpost.name=地獄磚桿
+tile.immersiveposts.aluminiumpost.name=鋁桿
+tile.immersiveposts.steelpost.name=鋼桿
+tile.immersiveposts.concretepost.name=混凝土桿
+tile.immersiveposts.leadedconcretepost.name=鍍鉛混凝土桿
+
+tile.immersiveposts.fence_iron.name=鐵柵欄
+tile.immersiveposts.fence_gold.name=金柵欄
+tile.immersiveposts.fence_copper.name=銅柵欄
+tile.immersiveposts.fence_lead.name=鉛柵欄
+tile.immersiveposts.fence_silver.name=銀柵欄
+tile.immersiveposts.fence_nickel.name=鎳柵欄
+tile.immersiveposts.fence_constantan.name=康銅柵欄
+tile.immersiveposts.fence_electrum.name=琥珀金柵欄
+tile.immersiveposts.fence_uranium.name=鈾柵欄
+
+#########################
+#         Items         #
+#########################
+
+item.immersiveposts.stick_gold.name=金棒
+item.immersiveposts.stick_copper.name=銅棒
+item.immersiveposts.stick_lead.name=鉛棒
+item.immersiveposts.stick_silver.name=銀棒
+item.immersiveposts.stick_nickel.name=鎳棒
+item.immersiveposts.stick_constantan.name=康銅棒
+item.immersiveposts.stick_electrum.name=琥珀金棒
+item.immersiveposts.stick_uranium.name=鈾棒
+
+item.immersiveposts.metal_rods.stick_gold.name=金棒
+item.immersiveposts.metal_rods.stick_copper.name=銅棒
+item.immersiveposts.metal_rods.stick_lead.name=鉛棒
+item.immersiveposts.metal_rods.stick_silver.name=銀棒
+item.immersiveposts.metal_rods.stick_nickel.name=鎳棒
+item.immersiveposts.metal_rods.stick_constantan.name=康銅棒
+item.immersiveposts.metal_rods.stick_electrum.name=琥珀金棒
+item.immersiveposts.metal_rods.stick_uranium.name=鈾棒
+
+#########################
+#     Creative Tab      #
+#########################
+
+itemGroup.immersiveposts=沉浸長桿
+
+#########################
+#  Postbase Tooltip(s)  #
+#########################
+
+tooltip.postbase=[按 Shift] §6查看接受方塊。
+
+#########################
+#       IE-Manual       #
+#########################
+
+ie.manual.category.immersiveposts.name=沉浸長桿
+
+# PostBase Entries
+ie.manual.entry.immersiveposts.postbase.name=可延長桿
+ie.manual.entry.immersiveposts.postbase.subtext=到天空的盡頭
+ie.manual.entry.immersiveposts.postbase0=用於自定義長度的電線桿桿頭。<br><br>(用法參見<link;immersiveposts.usage;§o§n使用§r;0>)
+
+# Usage Entries
+ie.manual.entry.immersiveposts.usage.name=如何使用
+ie.manual.entry.immersiveposts.usage.p0=你將需要工程師錘和選定一種材料。<br><br>參見<link;immersiveposts.posts;§o§n這裡§r;0> 查看可用材料的詳細列表。<br><br>或者直接將鼠標移到基座上並按住shift (效果和 <link;immersiveposts.postbase;§o§n這裡§r;0>一樣！)
+ie.manual.entry.immersiveposts.usage.p1=然後手持所選材料右鍵基座，它應該會變成上圖所示的樣子。<br><br>注意：桿的材料必須一直是同一種！例如防腐木桿只能接受§o防腐木柵欄§r而不會接受其他！
+ie.manual.entry.immersiveposts.usage.p2=現在開始你也可以對著桿右擊，使你更容易看見桿已經有多高了。<br><br><br>這不是很簡潔嗎？
+ie.manual.entry.immersiveposts.usage.p3=想得到一格長橫臂，你只需要用工程師錘右擊想要長出橫臂的高度和麵。<br>要移除橫臂，只需要對同一面再右鍵一次。 （或者直接用斧頭破壞橫臂）<br>§n注意：如果有方塊擋住，橫臂不會出現。§r
+ie.manual.entry.immersiveposts.usage.p4=右鍵橫臂本身會將其變為兩格長橫臂，反過來也可以這樣做。<br><br>像一格橫臂一樣，沒有足夠的空間橫臂是不會變的。
+ie.manual.entry.immersiveposts.usage.p5=一格長橫臂會在檢測到下方有方塊時上下翻轉，§o哪怕§r上方仍然有方塊。<br><br>由於§o穩定性§r問題，兩格長橫臂§l不能§r上下翻轉。
+
+# Usable Block Entries
+ie.manual.entry.immersiveposts.posts.name=可用方塊
+ie.manual.entry.immersiveposts.posts.subtext=嗯……選哪個呢...
+ie.manual.entry.immersiveposts.posts_index0=索引 1
+ie.manual.entry.immersiveposts.posts_index1=索引 2
+ie.manual.entry.immersiveposts.posts_wood=防腐木<br><br><br><br><br><br>老派選擇。
+ie.manual.entry.immersiveposts.posts_netherbrick=地獄磚<br><br><br><br><br><br><br><br><br><br><br>頭腦發熱。
+ie.manual.entry.immersiveposts.posts_iron=鐵<br><br><br><br><br><br>生鏽男孩。
+ie.manual.entry.immersiveposts.posts_gold=金<br><br><br><br><br><br>黑幫珠寶。
+ie.manual.entry.immersiveposts.posts_copper=銅<br><br><br><br><br><br>通常選擇。
+ie.manual.entry.immersiveposts.posts_lead=鉛<br><br><br><br><br><br>沉重。
+ie.manual.entry.immersiveposts.posts_silver=銀<br><br><br><br><br><br>閃亮。
+ie.manual.entry.immersiveposts.posts_nickel=鎳<br><br><br><br><br><br>半帶。
+ie.manual.entry.immersiveposts.posts_constantan=康銅<br><br><br><br><br><br>怪人。
+ie.manual.entry.immersiveposts.posts_electrum=琥珀金<br><br><br><br><br><br>令人震驚。
+ie.manual.entry.immersiveposts.posts_uranium=鈾<br>也發出一點光。<br>儘管似乎只有紅石火把的亮度。<br><br>長半衰期。
+ie.manual.entry.immersiveposts.posts_aluminium=鋁?不。<br>鋁?算了。<br>鋁。完美。<br><br><br><br>分裂意見。
+ie.manual.entry.immersiveposts.posts_steel=鋼<br><br><br><br><br><br>更强的生锈男孩。
+ie.manual.entry.immersiveposts.posts_concrete=混凝土<br><br><br><br><br><br><br><br><br><br><br><br><br>易碎的。
+ie.manual.entry.immersiveposts.posts_concrete_leaded=鍍鉛混凝土<br><br><br><br><br><br><br><br><br><br><br><br><br>强化易碎的
+
+# Index Pages Stuff
+index.page_0_entry.1=索引 第1頁
+index.page_0_entry.2=索引 第2頁
+index.page_0_entry.3=防腐木
+index.page_0_entry.4=地獄磚
+index.page_0_entry.5=鐵
+index.page_0_entry.6=金
+index.page_0_entry.7=銅
+index.page_0_entry.8=鉛
+index.page_0_entry.9=銀
+index.page_0_entry.10=鎳
+index.page_0_entry.11=康銅
+index.page_0_entry.12=琥珀金
+index.page_0_entry.13=鈾
+
+index.page_1_entry.1=鋁
+index.page_1_entry.2=鋼
+index.page_1_entry.3=混凝土
+index.page_1_entry.4=混凝土（鍍鉛）
+
+#########################
+#     Miscellaneous     #
+#########################
+
+immersiveposts.expectedlocal=期望方塊： %s
+

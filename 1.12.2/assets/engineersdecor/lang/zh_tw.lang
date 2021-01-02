@@ -1,0 +1,302 @@
+#
+# Engineer's Decor lang file
+#
+#PARSE_ESCAPES
+#
+#-----------------------------------------------------------------------------------------------------------
+itemGroup.tabengineersdecor=工程師的裝飾
+engineersdecor.tooltip.hint.extended=§6[§9SHIFT§r查看更多訊息 §6]§r
+engineersdecor.tooltip.hint.help=§6[§9CTRL-SHIFT§r查看幫力§6]§r
+engineersdecor.tooltip.slabpickup.help=§r手持同類半磚往上/下看時單擊該半磚可無需破壞快速撿起
+#-----------------------------------------------------------------------------------------------------------
+engineersdecor.tooltip.requires_rf_power=需要RF能量
+engineersdecor.tooltip.massive_speed_boost_with_rf_power=提供RF能量可顯著提升速度
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.clinker_brick_block.name=熟料磚塊
+tile.engineersdecor.clinker_brick_block.help=§6一種放在不同位置貼圖有不同變化的磚塊。§r\n比原版磚看起來顏色更深，色度也更高。
+tile.engineersdecor.clinker_brick_stained_block.name=污漬熟料磚塊
+tile.engineersdecor.clinker_brick_stained_block.help=§6一種放在不同位置貼圖有不同變化的磚塊。§r\n比原版磚看起來顏色更深，色度也更高。有更多可見的污垢或污跡。
+tile.engineersdecor.slag_brick_block.name=爐渣磚塊
+tile.engineersdecor.slag_brick_block.help=§6一種放在不同位置貼圖有不同變化的灰棕色磚塊。
+tile.engineersdecor.rebar_concrete.name=鋼筋混凝土
+tile.engineersdecor.rebar_concrete.help=§6鋼強化的混凝土。§r昂貴但像黑曜石一樣防苦力怕爆炸。
+tile.engineersdecor.gas_concrete.name=加氣混凝土
+tile.engineersdecor.gas_concrete.help=§6低硬度，高產出的混凝土。§r容易破壞的裝飾性混凝土方塊。
+tile.engineersdecor.panzerglass_block.name=裝甲玻璃塊
+tile.engineersdecor.panzerglass_block.help=§6強化的玻璃方塊。§r昂貴，防爆。深灰色調，有隱約可見的結構線和多種紋理，外觀無光澤。
+tile.engineersdecor.rebar_concrete_tile.name=鋼筋混凝土磚
+tile.engineersdecor.rebar_concrete_tile.help=§6鋼強化的混凝土磚。§r昂貴但像黑曜石一樣防苦力怕。
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.clinker_brick_slab.name=熟料磚半磚
+tile.engineersdecor.clinker_brick_slab.help=§6熟料磚製作的半磚。§r\n比原版磚看起來顏色更深，色度也更高。
+tile.engineersdecor.clinker_brick_stained_slab.name=污漬熟料磚半磚
+tile.engineersdecor.clinker_brick_stained_slab.help=§6污漬熟料磚製作的半磚
+tile.engineersdecor.slag_brick_slab.name=爐渣磚半磚
+tile.engineersdecor.slag_brick_slab.help=§6一種灰棕色磚塊半磚
+tile.engineersdecor.rebar_concrete_slab.name=鋼筋混凝土半磚
+tile.engineersdecor.rebar_concrete_slab.help=§6鋼強化的混凝土半磚。§r昂貴但像黑曜石一樣防苦力怕爆炸。
+tile.engineersdecor.rebar_concrete_tile_slab.name=鋼筋混凝土磚半磚
+tile.engineersdecor.rebar_concrete_tile_slab.help=§6鋼強化的混凝土磚半磚。§r昂貴但像黑曜石一樣防苦力怕爆炸。
+tile.engineersdecor.gas_concrete_slab.name=加氣混凝土半磚
+tile.engineersdecor.gas_concrete_slab.help=§6低硬度的混凝土半磚。§r容易破壞的裝飾性混凝土。
+tile.engineersdecor.panzerglass_slab.name=裝甲玻璃半磚
+tile.engineersdecor.panzerglass_slab.help=§6強化的玻璃半磚§r昂貴，防爆。深灰色調，有隱約可見的結構線和多種紋理。
+tile.engineersdecor.treated_wood_floor.name=防腐木地板
+tile.engineersdecor.treated_wood_floor.help=§6裝飾性地板磚，有可變的貼圖。§r
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.rebar_concrete_wall.name=鋼筋混凝土牆
+tile.engineersdecor.rebar_concrete_wall.help=§6鋼強化的混凝土牆。§r昂貴但像黑曜石一樣防苦力怕爆炸。
+tile.engineersdecor.concrete_wall.name=混凝土牆
+tile.engineersdecor.concrete_wall.help=§6用堅固混凝土製造的牆。
+tile.engineersdecor.gas_concrete_wall.name=加氣混凝土牆
+tile.engineersdecor.gas_concrete_wall.help=§6低硬度的混凝土牆。§r容易破壞的裝飾性混凝土。
+tile.engineersdecor.clinker_brick_wall.name=熟料磚牆
+tile.engineersdecor.clinker_brick_wall.help=§6簡單的熟料磚牆。
+tile.engineersdecor.slag_brick_wall.name=爐渣磚牆
+tile.engineersdecor.slag_brick_wall.help=§6簡單的爐渣磚牆
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.metal_rung_ladder.name=金屬梯
+tile.engineersdecor.metal_rung_ladder.help=§6典型的工業牆梯，由水平的金屬棒橫檔組成。§r向上/下可更快地移動。
+tile.engineersdecor.metal_rung_steps.name=交錯式金屬梯
+tile.engineersdecor.metal_rung_steps.help=§6固定在牆壁上的交錯式金屬棒橫檔，允許爬升，下降等。§r向上/下可更快地移動。
+tile.engineersdecor.treated_wood_ladder.name=防腐木梯
+tile.engineersdecor.treated_wood_ladder.help=§6防風防雨的木梯。§r 向上/下可更快地移動。
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.clinker_brick_stairs.name=熟料磚階梯
+tile.engineersdecor.clinker_brick_stairs.help=§6比原版磚看起來顏色更深，色度也更高。
+tile.engineersdecor.clinker_brick_stained_stairs.name=污漬熟料磚階梯
+tile.engineersdecor.clinker_brick_stained_stairs.help=§6比原版磚看起來顏色更深，色度也更高。有更多可見的污垢或污跡。
+tile.engineersdecor.slag_brick_stairs.name=爐渣磚階梯
+tile.engineersdecor.slag_brick_stairs.help=§6一種灰棕色磚塊階梯。
+tile.engineersdecor.rebar_concrete_stairs.name=鋼筋混凝土階梯
+tile.engineersdecor.rebar_concrete_stairs.help=§6鋼強化的混凝土階梯。§r昂貴但像黑曜石一樣防苦力怕爆炸。
+tile.engineersdecor.rebar_concrete_tile_stairs.name=鋼筋混凝土磚階梯
+tile.engineersdecor.rebar_concrete_tile_stairs.help=§6鋼強化的混凝土磚階梯。§r昂貴但像黑曜石一樣防苦力怕爆炸。
+tile.engineersdecor.gas_concrete_stairs.name=加氣混凝土階梯
+tile.engineersdecor.gas_concrete_stairs.help=§6低硬度的混凝土階梯。§r容易破壞的裝飾性混凝土。
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.treated_wood_pole.name=直立防腐木桿
+tile.engineersdecor.treated_wood_pole.help=§6直徑為電線繼電器的直桿。§r\n\
+              在需要特殊長度電線桿的時候很有用， \
+              也可以作為結構的柱子。
+tile.engineersdecor.treated_wood_pole_head.name=直立防腐木桿 頭/尾
+tile.engineersdecor.treated_wood_pole_head.help=§6木製部件，適合作為直桿的頭或尾。
+tile.engineersdecor.treated_wood_pole_support.name=直防腐木桿 支撐
+tile.engineersdecor.treated_wood_pole_support.help=§6重型木製支撐部件，適合作為直桿的頭或尾。
+tile.engineersdecor.thick_steel_pole.name=直立粗鋼桿
+tile.engineersdecor.thick_steel_pole.help=§6一段直空心桿(6x6x16)，適合用於結構支撐。
+tile.engineersdecor.thin_steel_pole.name=直立細鋼桿
+tile.engineersdecor.thin_steel_pole.help=§6一段直空心桿(4x4x16)，適合用於結構支撐。
+tile.engineersdecor.thin_steel_pole_head.name=直立細鋼桿 頭/尾
+tile.engineersdecor.thin_steel_pole_head.help=§6鋼製部件，適合作為細鋼桿(4x4x16)的頭或尾。
+tile.engineersdecor.thick_steel_pole_head.name=直立粗鋼桿 頭/尾
+tile.engineersdecor.thick_steel_pole_head.help=§6鋼製部件，適合作為粗鋼桿(6x6x16)的頭或尾。
+tile.engineersdecor.steel_double_t_support.name=鋼製雙T型支架
+tile.engineersdecor.steel_double_t_support.help=§6一段水平吊頂支撐梁。
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.treated_wood_table.name=防腐木桌
+tile.engineersdecor.treated_wood_table.help=§6結實的四腳木桌。§r適用於室內和室外使用。
+tile.engineersdecor.steel_table.name=鋼桌
+tile.engineersdecor.steel_table.help=§6結實的四腳鋼桌。
+tile.engineersdecor.steel_floor_grating.name=鋼地板格柵
+tile.engineersdecor.steel_floor_grating.help=§6裝飾用鋼製地板門。§r 頂端對齊。掉落物會穿過。
+tile.engineersdecor.treated_wood_stool.name=防腐木凳
+tile.engineersdecor.treated_wood_stool.help=§6堅固的木凳。§r適用於室內和室外使用。
+tile.engineersdecor.treated_wood_crafting_table.name=防腐木合成台
+tile.engineersdecor.treated_wood_crafting_table.help=§6堅固，防風防雨。§r 內含八個存儲格，破壞後保留內容物，沒有原版合成書。\n\
+                                                     單擊上/下箭頭按鈕可選擇合成歷史，單擊輸出格自動放置物品，單擊X按鈕 \
+                                                     清除合成欄和歷史。 Shift單擊一疊物品：合成格空時轉移到存儲格 \
+                                                     非空時到合成欄。會自動分配轉移的物品。 \
+                                                     按Shift-Ctrl: 移動所有相同的堆棧。 鼠標滾輪在製作插槽上：增加/減少製作網格項目。
+tile.engineersdecor.labeled_crate.name=貼標籤的板條箱
+tile.engineersdecor.labeled_crate.help=§6§6具備 9x6 大小格子的木箱，前面自帶一個物品展示框。§r\n將物品放置在 GUI 右下角的框架槽內，可以定義所顯示的標籤。
+tile.engineersdecor.treated_wood_side_table.name=防腐木茶几
+tile.engineersdecor.treated_wood_side_table.help=§6幹完活後需要喝杯茶。
+tile.engineersdecor.iron_inset_light.name=嵌入燈
+tile.engineersdecor.iron_inset_light.help=§6小型螢石光源，能嵌入地板、天花板或牆裡。§r\n\
+                                          用於照亮電力光源難以安裝的地方。
+tile.engineersdecor.iron_floor_edge_light.name=嵌入地板邊緣燈
+tile.engineersdecor.iron_floor_edge_light.help=§6小型螢石光源，置於地板方塊邊緣。§r\n\
+                                          用於照亮電力光源難以安裝的地方。
+tile.engineersdecor.treated_wood_window.name=防腐木窗
+tile.engineersdecor.treated_wood_window.help=§6木框三層玻璃窗。絕緣良好。§r不像玻璃板一樣連接到相鄰方塊。
+tile.engineersdecor.treated_wood_windowsill.name=防腐木窗台
+tile.engineersdecor.treated_wood_windowsill.help=§6簡單的窗戶裝飾。
+tile.engineersdecor.treated_wood_broad_windowsill.name=寬防腐木窗台
+tile.engineersdecor.treated_wood_broad_windowsill.help=§6簡單的窗戶裝飾。
+tile.engineersdecor.steel_framed_window.name=鋼框窗
+tile.engineersdecor.steel_framed_window.help=§6鋼框三層玻璃窗。絕緣良好。§r不像玻璃板一樣連接到相鄰方塊。
+tile.engineersdecor.steel_mesh_fence.name=鋼製網狀柵欄
+tile.engineersdecor.steel_mesh_fence.help=§6工業風格的柵欄。§r\n不與普通柵欄連接。
+tile.engineersdecor.steel_mesh_fence_gate.name=鋼製網狀柵欄門
+tile.engineersdecor.steel_mesh_fence_gate.help=§6工業風格的柵欄門，可以同鋼絲柵欄完美搭配。§r\n放置時可以設置為單葉門或者雙葉門。
+
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.small_lab_furnace.name=小型實驗室爐
+tile.engineersdecor.small_lab_furnace.help=§6小型金屬殼實驗室窯。§r消耗固體燃料，向上排氣。 \
+                                           比圓石爐稍微熱一點，隔熱性也更好，因此效率更高。 \
+                                           有兩個用於儲存的輔助格。兩個堆疊的內部漏斗對輸入、輸出和燃料進行隊列管理。 \
+                                           在輔助格放置一個外置加熱器並通入電力 \
+                                           可以加快熔煉速度。
+tile.engineersdecor.small_electrical_furnace.name=小型電爐
+tile.engineersdecor.small_electrical_furnace.help=§6小型金屬封裝穿過式熔爐。§r \
+                                           自動從輸入端獲取物品並在輸出端物品欄放置物品。 \
+                                           物品能從所有面使用漏斗插入或提取。無法熔煉或烹飪的物品會直接送到出口。 \
+                                           比加熱的圓石爐有稍微高的能效比和更快。 \
+                                           先進先出和自動輸出一次移動一組物品。自動輸出需要一點能量。
+tile.engineersdecor.small_waste_incinerator.name=小型垃圾焚燒爐
+tile.engineersdecor.small_waste_incinerator.help=§6有內部先進先出隊列的垃圾桶。§r物品可以從任何一面插入，而且 \
+                                                  直到隊列滿都會保留。一旦超過隊列上限，最老的物品會被焚毀。 \
+                                                  通入RF/FE會增加處理速度。 \
+                                                  破壞時保留內部未銷毀的物品。
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.straight_pipe_valve.name=輸液管止回閥
+tile.engineersdecor.straight_pipe_valve.help=§6一段直輸液管。§r單向傳遞流體。 \
+                                             側面不會與管道連接。會減少流速。潛行能反方向放置。
+tile.engineersdecor.straight_pipe_valve_redstone.name=紅石控制流體閥
+tile.engineersdecor.straight_pipe_valve_redstone.help=§6一段直輸液管。§r單向傳遞流體。 \
+                                                      側面不會與管道連接。會減少流速。潛行能反方向放置。 \
+                                                      沒有紅石信號時斷流。
+tile.engineersdecor.straight_pipe_valve_redstone_analog.name=紅石模擬流體閥
+tile.engineersdecor.straight_pipe_valve_redstone_analog.help=§6一段直輸液管。§r單向傳遞流體。 \
+                                                      側面不會與管道連接。會減少流速。潛行能反方向放置。 \
+                                                      沒有紅石信號時斷流，流速與紅石信號強度從1到14線性增長， \
+                                                      15時流速上限達到最大。
+tile.engineersdecor.passive_fluid_accumulator.name=被動流體累積器
+tile.engineersdecor.passive_fluid_accumulator.help=§6基於真空吸力的流體收集器。§r有一個輸出面，其他面都是輸入。 \
+                                                   當從輸出面被泵抽取時，從輸入面鄰接儲罐抽取液體。
+tile.engineersdecor.small_fluid_funnel.name=小型流體收集漏斗
+tile.engineersdecor.small_fluid_funnel.help=§6收集上方的流體。§r有一個三桶大的內部儲罐。會 \
+                                            追溯流體到附近的源方塊。流體可被流體運輸系統或桶 \
+                                            移出。只會裝滿下方的儲罐（重力傳輸）。與原版 \
+                                            無限水兼容。
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.factory_dropper.name=工廠掉落器
+tile.engineersdecor.factory_dropper.help=§6適用於高級工廠自動化的掉落器。§r有十二個輪詢選擇的儲物格。 \
+                                         掉落的力度、角度、一疊數量和冷卻延時可在GUI調節。三個 \
+                                         內部比較槽帶有邏輯與或邏輯或功能，可用作內部觸發源。內部觸發 \
+                                         還能和外部紅石信號觸發再進行邏輯與或邏輯或。觸發模擬按鈕僅作測試用途。 \
+                                         當內部觸發條件滿足時，預先打開捲簾門。所有符合條件的物品\
+                                         會同時掉落。點擊GUI的各處來了解如何運作。
+tile.engineersdecor.factory_hopper.name=工廠漏斗
+tile.engineersdecor.factory_hopper.help=§6適用於高級工廠自動化的漏斗。§r 可一次傳輸半組物品，最大收集範圍9x9。\n\
+                                        GUI滑動條：控制收集距離（0到4），插入延遲（0.5秒到10秒），插入一疊物品的大小（1到32）。\n\
+                                        GUI紅石控制：不反相/反相（默認），脈沖模式/持續模式（默認）。
+tile.engineersdecor.factory_placer.name=工廠方塊放置器
+tile.engineersdecor.factory_placer.help=§6能夠放置方塊和種植作物或樹。§r\n\
+                                        GUI紅石控制：不反相/反相（默認），脈沖模式/持續模式（默認）。\n\
+                                        也支持從耕地下方穿透方塊種植。會吐出不能放置或種植的物品。
+tile.engineersdecor.small_block_breaker.name=工廠方塊破壞器
+tile.engineersdecor.small_block_breaker.help=§6破壞其正前方的方塊。§r\n\
+                                        通入紅石信號可以停止破壞。 \
+                                        破壞一個方塊需要的時間取決於其硬度。\
+                                        ${!block_breaker_requires_power?engineersdecor.tooltip.massive_speed_boost_with_rf_power}\
+                                        ${block_breaker_requires_power?engineersdecor.tooltip.requires_rf_power}
+tile.engineersdecor.small_mineral_smelter.name=小型礦物熔煉爐
+tile.engineersdecor.small_mineral_smelter.help=§6高溫、高絕緣電熔石爐。§r\n\
+                                               把礦物塊加熱成岩漿塊，最後變成熔岩。 \
+                                               由於小型化的設備大小，該過程效率不高，需要大量時間和能源 \
+                                               來液化一塊石頭。\
+ 
+ 
+ 
+tile.engineersdecor.small_solar_panel.name=小型太陽能板
+tile.engineersdecor.small_solar_panel.help=§6暴露在陽光下時產生少量能量。§r\n\
+                                           用於低消耗地在遠程系統給低壓電容器充電。 \
+                                           內部電荷泵電路積累並頻繁輸出RF。產出取決於時間 \
+                                           和天氣。
+tile.engineersdecor.small_tree_cutter.name=小型砍樹機
+tile.engineersdecor.small_tree_cutter.help=§6砍倒正前方的樹。§r\n\
+                                           不收集木材。通入紅石信號停用。 \
+                                           ${!tree_cuttter_requires_power?engineersdecor.tooltip.massive_speed_boost_with_rf_power}\
+                                           ${tree_cuttter_requires_power?engineersdecor.tooltip.requires_rf_power}
+tile.engineersdecor.small_milking_machine.name=小型擠奶機
+tile.engineersdecor.small_milking_machine.help=§6偶爾給奶牛梳理和擠奶。§r\n\
+                                           有一個內置流體儲罐。不會餵食動物。使用桶獲得牛奶。 \
+                                           從後方或下方的方塊物品欄拉取或存儲牛奶容器物品（偏好 \
+                                           從下方輸入，從後方輸出，但也能將裝滿的牛奶容器放回原來 \
+                                           的物品欄）支持將牛奶作為流體輸出到下方的儲罐和管道（只要牛奶是流體）。 \
+                                           小心牛欄裡不要太擁擠，只有快樂的動物才會自覺地在擠奶機前散步。
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.sign_decor.name=標誌板（工程師的裝飾）
+tile.engineersdecor.sign_decor.help=§6這不應該可合成或在JEI看到。用於創造模式的物品欄標籤和截屏。
+tile.engineersdecor.sign_hotwire.name=指示牌 "小心電線"
+tile.engineersdecor.sign_hotwire.help=§6電氣危害警告。不要忘記在高壓線周圍放置，否則下次審計時你會發現不合格。
+tile.engineersdecor.sign_mindstep.name=指示牌 "小心腳滑"
+tile.engineersdecor.sign_mindstep.help=§6能（水平）放在牆上。
+tile.engineersdecor.sign_danger.name=指示牌 "小心危險"
+tile.engineersdecor.sign_danger.help=§6通用危險警告。
+tile.engineersdecor.sign_defense.name=指示牌 "小心防禦系統"
+tile.engineersdecor.sign_defense.help=§6用於警告砲塔、特斯拉線圈和陷阱。
+tile.engineersdecor.sign_factoryarea.name=指示牌 "工廠區域"
+tile.engineersdecor.sign_factoryarea.help=§6用於指示真的很大的機器所在的建築和區域。
+tile.engineersdecor.sign_exit.name=出口指示牌
+tile.engineersdecor.sign_exit.help=§6這就是門，請...
+#-----------------------------------------------------------------------------------------------------------
+tile.engineersdecor.halfslab_rebar_concrete.name=強化混凝土切片
+tile.engineersdecor.halfslab_rebar_concrete.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_concrete.name=混凝土切片
+tile.engineersdecor.halfslab_concrete.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_gas_concrete.name=加氣混凝土切片
+tile.engineersdecor.halfslab_gas_concrete.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_treated_wood.name=防腐木切片
+tile.engineersdecor.halfslab_treated_wood.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_sheetmetal_iron.name=鐵板金屬塊切片
+tile.engineersdecor.halfslab_sheetmetal_iron.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_sheetmetal_steel.name=鋼板金屬塊切片
+tile.engineersdecor.halfslab_sheetmetal_steel.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_sheetmetal_copper.name=銅板金屬塊切片
+tile.engineersdecor.halfslab_sheetmetal_copper.help=§§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_sheetmetal_gold.name=金板金屬塊切片
+tile.engineersdecor.halfslab_sheetmetal_gold.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.halfslab_sheetmetal_aluminum.name=鋁板金屬塊切片
+tile.engineersdecor.halfslab_sheetmetal_aluminum.help=§6可垂直堆疊的切片。§r手持切片右/左擊切片堆疊的頂端或底部來添加/移除切片。
+tile.engineersdecor.testblock.name=ED測試方塊（不要使用）
+tile.engineersdecor.testblock.help=§6不可合成的測試方塊，有著經常變動的測試功能，不要使用，最壞可能會!!
+#-----------------------------------------------------------------------------------------------------------
+engineersdecor.config.title=工程師的裝飾配置
+engineersdecor.config.pattern_excludes=模式不包括
+engineersdecor.config.pattern_includes=模式包括
+engineersdecor.config.without_clinker_bricks=不要熟料磚
+engineersdecor.config.without_slag_bricks=不要爐渣磚
+engineersdecor.config.without_rebar_concrete=不要強化混凝土
+engineersdecor.config.without_walls=不要牆
+engineersdecor.config.without_stairs=不要樓梯
+engineersdecor.config.without_ie_concrete_wall=不要混凝土牆
+engineersdecor.config.without_panzer_glass=不要裝甲玻璃
+engineersdecor.config.without_crafting_table=不要合成台
+engineersdecor.config.without_lab_furnace=不要實驗室爐
+engineersdecor.config.without_electrical_furnace=不要電爐
+engineersdecor.config.without_treated_wood_furniture=不要防腐木家具
+engineersdecor.config.without_windows=不要窗戶
+engineersdecor.config.without_light_sources=不要燈
+engineersdecor.config.without_ladders=不要梯子
+engineersdecor.config.without_chair_sitting=椅子不能坐
+engineersdecor.config.without_mob_chair_sitting=椅子不能給其他生物坐
+engineersdecor.config.without_ladder_speed_boost=不要爬梯加速
+engineersdecor.config.without_crafting_table_history=不要合成台歷史
+engineersdecor.config.without_valves=不要閥門
+engineersdecor.config.without_passive_fluid_accumulator=不要流體積累器
+engineersdecor.config.without_waste_incinerator=不要焚燒爐
+engineersdecor.config.without_sign_plates=不要標誌牌
+engineersdecor.config.without_factory_dropper=不要工廠掉落器
+engineersdecor.config.without_slabs=不要半磚
+engineersdecor.config.without_halfslabs=不要切片
+engineersdecor.config.without_direct_slab_pickup=不要快速撿起半磚
+engineersdecor.config.without_poles=不要桿
+engineersdecor.config.without_hsupports=不要支撐
+engineersdecor.config.without_tooltips=不要工具提示
+engineersdecor.config.without_recipes=不要配方
+engineersdecor.config.furnace_smelting_speed_percent=熔爐：熔煉速度 %
+engineersdecor.config.furnace_fuel_efficiency_percent=熔爐：燃料效率 %
+engineersdecor.config.furnace_boost_energy_consumption=熔爐：能量加速
+engineersdecor.config.chair_mob_sitting_probability_percent=椅子：坐下機率 %
+engineersdecor.config.chair_mob_standup_probability_percent="椅子：站起機率 %"
+engineersdecor.config.with_crafting_quickmove_buttons=合成台：移動按鈕
+engineersdecor.config.pipevalve_max_flowrate=閥門：最大流速
+engineersdecor.config.pipevalve_redstone_gain=閥門：紅石斜率
+engineersdecor.config.e_furnace_speed_percent=電爐：熔爐速度 %
+engineersdecor.config.e_furnace_power_consumption=電爐：能量消耗
+#-----------------------------------------------------------------------------------------------------------
+# EOF
+#-----------------------------------------------------------------------------------------------------------
