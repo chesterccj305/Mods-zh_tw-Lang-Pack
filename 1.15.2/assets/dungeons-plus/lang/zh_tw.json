@@ -1,0 +1,26 @@
+{
+	"filled_map.dungeons_plus:bigger_dungeon": "地底迷宮地圖",
+	"filled_map.dungeons_plus:leviathan": "利維坦遺骸地圖",
+	"filled_map.dungeons_plus:snowy_temple": "雪地神廟地圖",
+	
+	"dungeons_plus:advancements.adventure.find_tower.title": "競技之塔？",
+	"dungeons_plus:advancements.adventure.find_tower.description": "不太正確，但你可能需要對戰一些生物 (找到一個塔)",
+	
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.title": "這才叫迷宮嘛",
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.description": "這裡是不是跟上次不太一樣了。 (找到一個地底迷宮)",
+	
+	"dungeons_plus:advancements.adventure.find_leviathan.title": "古代遺骸",
+	"dungeons_plus:advancements.adventure.find_leviathan.description": "我想這應該是一個... 股骨。 (找到一個利維坦遺骸)",
+	
+	"dungeons_plus:advancements.adventure.find_snowy_temple.title": "大雪紛飛",
+	"dungeons_plus:advancements.adventure.find_snowy_temple.description": "我一直以為只有沙漠才有金字塔... (找到一個雪地神廟)",
+	
+	"dungeons_plus:advancements.end.find_end_ruins.title": "終界遺跡",
+	"dungeons_plus:advancements.end.find_end_ruins.description": "看起來就很不穩固。 (找到一個終界遺跡)",
+	
+	"dungeons_plus:advancements.adventure.find_warped_garden.title": "不尋常之物",
+	"dungeons_plus:advancements.adventure.find_warped_garden.description": "儘管勇往直前吧。能出什麼差錯呢 (找到一個怪異箱庭)",
+	
+	"dungeons_plus:advancements.nether.find_soul_prison.title": "牢中血淚",
+	"dungeons_plus:advancements.nether.find_soul_prison.description": "Not theirs though. (找到魂之牢獄)"
+}
