@@ -1,0 +1,20 @@
+{
+	"block.jumbofurnace.jumbo_furnace": "巨無霸熔爐",
+	"item.jumbofurnace.jumbo_furnace": "巨無霸熔爐",
+	"item.jumbofurnace.jumbo_furnace_jei": "巨無霸熔爐",
+	"item.jumbofurnace.orthodimensional_hyperfurnace": "跨次元超熔爐升級",
+	"item.jumbofurnace.orthodimensional_hyperfurnace.use_message": "這個構造可無法使用在你那弱小的3次元熔爐上！",
+	"item.jumbofurnace.orthodimensional_hyperfurnace.tooltip": "將此升級放在巨無霸熔爐的升級欄中以提升同時可熔煉的物品上限",
+	"container.jumbofurnace.jumbo_furnace": "巨無霸熔爐",
+	"gui.jumbofurnace.category.jumbo_smelting": "巨無霸熔煉",
+	"gui.jumbofurnace.category.multiblock_building": "多方塊建造",
+	"jumbofurnace.jumbo_furnace_info_tooltip": "將27個熔爐放置成3x3x3的方塊以創造巨無霸熔爐",
+	"jumbofurnace.advancements.story.assemble_jumbo_furnace.title": "巨無霸熔爐",
+	"jumbofurnace.advancements.story.assemble_jumbo_furnace.description": "將27個熔爐放置成3x3x3的方塊以創造巨無霸熔爐",
+	"jumbofurnace.advancements.story.obtain_jumbo_furnace.title": "麻雀雖小",
+	"jumbofurnace.advancements.story.obtain_jumbo_furnace.description": "創造巨無霸熔爐物品 (將27個熔爐放入巨無霸熔爐裡熔煉)",
+	"jumbofurnace.advancements.story.obtain_orthodimensional_hyperfurnace.title": "五臟俱全",
+	"jumbofurnace.advancements.story.obtain_orthodimensional_hyperfurnace.description": "合成一個跨次元超熔爐升級 (將8個巨無霸熔爐與一個終界珍珠一起融煉)",
+	"jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace_with_hyperfurnaces.title": "一路熔到底",
+	"jumbofurnace.advancements.story.fully_upgrade_jumbo_furnace_with_hyperfurnaces.description": "使用64個跨次元超熔爐升級來強化你的巨無霸熔爐"
+}
