@@ -1,0 +1,41 @@
+{
+  "block.blockcarpentry.frameblock": "框架",
+  "block.blockcarpentry.frame_slab": "框架半磚",
+  "block.blockcarpentry.falling_frameblock": "框架（受重力影響-WIP)",
+  "block.blockcarpentry.frame_button": "木製框架按鈕",
+  "block.blockcarpentry.frame_stairs": "框架階梯",
+  "block.blockcarpentry.frame_pressure_plate": "木製框架壓力板",
+  "block.blockcarpentry.frame_door": "框架門",
+  "block.blockcarpentry.frame_trapdoor": "框架地板門",
+  "block.blockcarpentry.frame_fence": "框架柵欄",
+  "block.blockcarpentry.frame_bed": "框架床",
+  "block.blockcarpentry.frame_wall": "框架牆",
+  "block.blockcarpentry.frame_ladder": "框架梯子",
+  "block.blockcarpentry.frame_chest": "框架箱",
+  "block.blockcarpentry.frame_fence_gate": "框架柵欄門",
+  "block.blockcarpentry.frame_slope": "幀斜率（WIP）",
+  "block.blockcarpentry.frame_edged_slope": "邊框斜率（WIP）",
+
+  "block.blockcarpentry.illusion_block": "幻象方塊",
+  "block.blockcarpentry.illusion_slab": "幻象半磚",
+  "block.blockcarpentry.illusion_button": "幻象按鈕",
+  "block.blockcarpentry.illusion_stairs": "幻象階梯",
+  "block.blockcarpentry.illusion_pressure_plate": "幻象壓力板",
+  "block.blockcarpentry.illusion_door": "幻象門",
+  "block.blockcarpentry.illusion_trapdoor": "幻象地板門",
+  "block.blockcarpentry.illusion_fence": "幻象柵欄",
+  "block.blockcarpentry.illusion_bed": "幻象床",
+  "block.blockcarpentry.illusion_wall": "幻象牆",
+  "block.blockcarpentry.illusion_ladder": "幻象梯子",
+  "block.blockcarpentry.illusion_chest": "幻象箱",
+  "block.blockcarpentry.illusion_fence_gate": "幻象柵欄門",
+
+  "container.frame_chest": "框架箱",
+
+  "item.blockcarpentry.hammer": "錘",
+  "item.blockcarpentry.texture_wrench": "紋理扳手",
+  "item.blockcarpentry.chisel": "鑿子",
+  "item.blockcarpentry.paintbrush": "畫筆",
+
+  "itemGroup.blockcarpentry": "方塊木工"
+}
