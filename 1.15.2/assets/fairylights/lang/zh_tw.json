@@ -1,0 +1,101 @@
+{
+    "itemGroup.fairylights": "彩燈",
+
+    "fairylights.config": "彩燈配置",
+
+    "block.fairylights.fastener": "連接扣件",
+
+    "item.fairylights.hanging_lights": "吊燈",
+    "item.fairylights.garland": "藤花環",
+    "item.fairylights.tinsel": "金屬絲花環",
+
+    "item.fairylights.black_string": "黑繩",
+    "item.fairylights.white_string": "白繩",
+    "item.fairyLights.twinkle": "閃礫",
+
+    "item.fairylights.pennant_bunting": "三角彩旗",
+
+    "item.fairylights.letter_bunting": "字母彩旗",
+
+    "item.fairylights.triangle_pennant": "三角三角旗",
+    "item.fairylights.spearhead_pennant": "矛頭三角旗",
+    "item.fairylights.swallowtail_pennant": "燕尾三角旗",
+    "item.fairylights.square_pennant": "方形三角旗",
+
+    "block.fairylights.fairy_light": "彩燈",
+    "block.fairylights.paper_lantern": "紙燈籠",
+    "block.fairylights.orb_lantern": "天燈",
+    "block.fairylights.flower_light": "花燈",
+    "block.fairylights.candle_lantern_light": "蠟燭燈籠",
+    "block.fairylights.oil_lantern_light": "油燈籠",
+    "block.fairylights.jack_o_lantern": "南瓜燈",
+    "block.fairylights.skull_light": "骷髏燈",
+    "block.fairylights.ghost_light": "幽靈燈",
+    "block.fairylights.spider_light": "蜘蛛燈",
+    "block.fairylights.witch_light": "女巫燈",
+    "block.fairylights.snowflake_light": "雪花燈",
+    "block.fairylights.heart_light": "心形燈",
+    "block.fairylights.moon_light": "月光燈",
+    "block.fairylights.star_light": "星星燈",
+    "block.fairylights.icicle_lights": "冰晶燈",
+    "block.fairylights.meteor_light": "流星燈",
+    "block.fairylights.oil_lantern": "油燈",
+    "block.fairylights.candle_lantern": "蠟燭燈",
+    "block.fairylights.incandescent_light": "白熾燈",
+
+    "entity.fairylights.fastener": "扣件",
+
+    "fairylights.editLetteredConnection": "設置彩旗文字",
+    "fairylights.editLetteredConnection.allowed_characters": "允許的字符: %1$s",
+
+    "recipe.ingredient.tooltip": "§7%s",
+    "recipe.fairylights.ingredient.auxiliary.optional": "(設置)",
+    "recipe.fairylights.twinkling_lights.glowstone": "使彩燈閃礫",
+    "recipe.fairylights.hangingLights.light": "添加多個燈光以自定義圖案",
+    "recipe.fairylights.pennantBunting.pennant": "添加多個三角旗以自定義樣式",
+    "recipe.fairylights.hangingLights.string": "添加白色染料以創建白色文字",
+
+    "format.fairylights.colored": "%1$s %2$s",
+    "format.fairylights.dyed_colored": "已染色 %1$s",
+    "format.fairylights.color_changing": "變色 %1$s",
+    "format.fairylights.text": "文字: %1$s",
+
+    "color.fairylights.black": "黑色",
+    "color.fairylights.red": "紅色",
+    "color.fairylights.green": "綠色",
+    "color.fairylights.brown": "棕色",
+    "color.fairylights.blue": "藍色",
+    "color.fairylights.purple": "紫色",
+    "color.fairylights.cyan": "青色",
+    "color.fairylights.light_gray": "淺灰色",
+    "color.fairylights.gray": "灰色",
+    "color.fairylights.pink": "粉紅色",
+    "color.fairylights.lime": "淺綠色",
+    "color.fairylights.yellow": "黃色",
+    "color.fairylights.light_blue": "淺藍色",
+    "color.fairylights.magenta": "洋紅色",
+    "color.fairylights.orange": "橙色",
+    "color.fairylights.white": "白色",
+
+    "subtitles.block.fairylights.jingleBell": "鈴兒叮噹作響",
+    "subtitles.block.fairylights.cord.connect": "燈繩連接",
+    "subtitles.block.fairylights.cord.disconnect": "燈繩斷開",
+    "subtitles.block.fairylights.cord.stretch": "燈繩拉緊",
+    "subtitles.block.fairylights.cord.snap": "燈繩崩斷",
+    "subtitles.block.fairylights.feature.lightTurnOn": "燈點亮",
+    "subtitles.block.fairylights.feature.lightTurnOff": "燈關閉",
+    "subtitles.block.fairylights.feature.colorChange": "顏色噗通作響",
+
+    "commands.jingler.open.success": "已成功打開 %1$s",
+    "commands.jingler.open.failure.no_hanging_lights": "未選擇吊燈",
+    "commands.jingler.open.failure.device_unavailable": "設備%1$s不可用，可能已被另一個程序使用",
+    "commands.jingler.open.failure.not_found": "沒有名為%1$s的設備",
+    "commands.jingler.close.success.single": "已成功關閉%1$s連接",
+    "commands.jingler.close.success.multiple": "已成功關閉%1$s連接",
+    "commands.jingler.close.failure": "沒有要關閉的設備",
+    "commands.jingler.device.vendor": "供應商: %1$s",
+    "commands.jingler.device.description": "說明: %1$s",
+
+    "tutorial.fairylights.craft_hanging_lights.title": "工藝吊燈",
+    "tutorial.fairylights.craft_hanging_lights.description": "配方可以提供幫助"
+}
