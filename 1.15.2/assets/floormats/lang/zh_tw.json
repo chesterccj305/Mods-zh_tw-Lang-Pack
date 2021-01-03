@@ -1,0 +1,42 @@
+{
+
+    "block.floormats.acacia_floormat_block" : "相思木地墊",
+    "block.floormats.birch_floormat_block"  : "樺木地墊",
+    "block.floormats.darkoak_floormat_block": "黑橡木地墊",
+    "block.floormats.gold_floormat_block"   : "金輕質地墊",
+    "block.floormats.iron_floormat_block"   : "鐵重質地墊",
+    "block.floormats.jungle_floormat_block" : "叢林木地墊",
+    "block.floormats.oak_floormat_block"    : "橡木地墊",
+    "block.floormats.spruce_floormat_block" : "杉木地墊",
+    "block.floormats.stone_floormat_block"  : "石地墊",
+
+    "command.floormats"                     : "§nWelcome to Floor Mats by D0CTOR ZED!§r\n\nTo get a list of help topics, type §a/floormats help§r.\nFor help with those topics, type §a/floormats help [topic]§r.",
+    "command.floormats.help"                : "Help is available for the following topics:\n§aconnections§r, §agold§r, §alinking§r, §apower§r, §atypes§r, §awiki§r.",
+    "command.floormats.help.connections"    : "You can break and reform connections between identical adjacent floor mat blocks by right-clicking each of the floor mat blocks with a connector.  See also §a/floormats tools§r.",
+    "command.floormats.help.gold"           : "Gold floor mats are triggered by the player(s) who placed the floor mat.  Players are not linked to specific blocks, so large groups can share a small mat if blocks are added by each player and removed as needed for size.  Only removing the last block will unlink the player(s).",
+    "command.floormats.help.linking"        : "You can link multiple floor mats (in the same dimension) by right-clicking each floor mat with a linker.  You can unlink a floor mat by right-clicking it twice.  See also §a/floormats tools§r.",
+    "command.floormats.help.power"          : "A floor mat will pulse when it receives redstone power from a block it is on.  For example, a button placed on the side of a block will cause a floor mat on that block to pulse.",
+    "command.floormats.help.types"          : "\n§oWooden:§r triggered by any player, mob or dropped item.\n\n§oStone§r: triggered by players and mobs\n\n§oMetal§r: activated by players.  See also §a/floormats help gold§r.",
+    "command.floormats.help.wiki"           : "Check out the wiki for more details: https://github.com/D0CTOR-ZED/FloorMats/wiki",
+
+    "command.floormats.reset.corrections"   : "當前模式。",
+    "command.floormats.reset.feedback"      : "地墊模式已重置！",
+
+    "command.floormats.tools.wands"         : "\n§nRemote linking tools (tag: §a§nfloormats:linkers§r§n):§r\n",
+    "command.floormats.tools.wrenches"      : "\n§nConnection control tools (tag: §a§nfloormats:connectors§r§n):§r\n",
+
+    "info.floormats.floormat_block"     : "多方塊壓力版",
+    "info.floormats.trigger.everything" : "可由任何物品觸發。",
+    "info.floormats.trigger.mobs"       : "由生物觸發。",
+    "info.floormats.trigger.entities"   : "由實體&物品觸發。",
+    "info.floormats.trigger.players"    : "僅能由玩家觸發。",
+
+    "_comment"              : "Creative Tabs",
+    "itemGroup.floormats"   : "地毯&地墊",
+
+    "subtitle.floormats.marked"     : "已標記地墊",
+    "subtitle.floormats.linked"     : "已連接地墊。",
+    "subtitle.floormats.unlinked"   : "已解除連接。",
+    "subtitle.floormats.denied"     : "Floor Mat denied access.",
+    "subtitle.floormats.wrenched"   : "Floor Mat wrenched."
+}
