@@ -1,0 +1,182 @@
+{
+	"itemGroup.pamhc2foodcore": "潘的豐收模組2 - 食物核心",
+
+	
+	//tools
+"item.pamhc2foodcore.bakewareitem": "烤盤",
+"item.pamhc2foodcore.cuttingboarditem": "砧板",
+"item.pamhc2foodcore.juiceritem": "榨汁機",
+"item.pamhc2foodcore.grinderitem": "研砵",
+"item.pamhc2foodcore.mixingbowlitem": "攪拌碗",
+"item.pamhc2foodcore.potitem": "鍋",
+"item.pamhc2foodcore.rolleritem": "擀麵棍",
+"item.pamhc2foodcore.saucepanitem": "平底鍋",
+"item.pamhc2foodcore.skilletitem": "煎鍋",
+
+//wheat
+"item.pamhc2foodcore.flouritem": "麵粉",
+"item.pamhc2foodcore.doughitem": "麵團",
+"item.pamhc2foodcore.toastitem": "吐司",
+"item.pamhc2foodcore.grilledcheeseitem": "烤奶酪",
+"item.pamhc2foodcore.carrotbreaditem": "胡蘿蔔麵包",
+"item.pamhc2foodcore.pumpkinbreaditem": "南瓜麵包",
+"item.pamhc2foodcore.pastaitem": "義大利麵",
+"item.pamhc2foodcore.macncheeseitem": "麥芝士",
+"item.pamhc2foodcore.noodlesoupitem": "麵條湯",
+"item.pamhc2foodcore.applepieitem": "蘋果派",
+"item.pamhc2foodcore.sweetberrypieitem": "甜漿果派",
+"item.pamhc2foodcore.chocolatecupcakeitem": "巧克力杯子蛋糕",
+"item.pamhc2foodcore.carrotcupcakeitem": "胡蘿蔔杯子蛋糕",
+"item.pamhc2foodcore.pumpkincupcakeitem": "南瓜杯子蛋糕",
+"item.pamhc2foodcore.caramelcupcakeitem": "焦糖杯子蛋糕",
+
+
+"item.pamhc2foodcore.batteritem": "麵糊",
+"item.pamhc2foodcore.chocolatecakeitem": "巧克力蛋糕",
+"item.pamhc2foodcore.cheesecakeitem": "起司蛋糕",
+"item.pamhc2foodcore.pumpkincheesecakeitem": "南瓜起司蛋蛋糕",
+"item.pamhc2foodcore.carrotcakeitem": "胡蘿蔔蛋糕",
+"item.pamhc2foodcore.chocolatemuffinitem": "巧克力鬆餅",
+"item.pamhc2foodcore.carrotmuffinitem": "胡蘿蔔鬆餅",
+"item.pamhc2foodcore.pumpkinmuffinitem": "南瓜鬆餅",
+"item.pamhc2foodcore.caramelmuffinitem": "焦糖鬆餅",
+"item.pamhc2foodcore.donutitem": "甜甜圈",
+"item.pamhc2foodcore.chocolatedonutitem": "巧克力甜甜圈",
+"item.pamhc2foodcore.jellydonutitem": "果凍甜甜圈",
+
+"item.pamhc2foodcore.crackeritem": "薄脆餅乾",
+"item.pamhc2foodcore.softpretzelitem": "軟椒鹽脆餅",
+
+//milk
+"item.pamhc2foodcore.butteritem": "黃油",
+"item.pamhc2foodcore.cheeseitem": "起司",
+"item.pamhc2foodcore.creamitem": "奶油,
+"item.pamhc2foodcore.yogurtitem": "優格",
+"item.pamhc2foodcore.chocolateyogurtitem": "巧克力優格",
+"item.pamhc2foodcore.appleyogurtitem": "蘋果優格",
+"item.pamhc2foodcore.sweetberryyogurtitem": "甜漿果優格",
+"item.pamhc2foodcore.pumpkinyogurtitem": "南瓜優格",
+"item.pamhc2foodcore.caramelyogurtitem": "焦糖優格",
+"item.pamhc2foodcore.icecreamitem": "冰淇淋",
+"item.pamhc2foodcore.chocolateicecreamitem": "巧克力冰淇淋",
+"item.pamhc2foodcore.caramelicecreamitem": "焦糖冰淇淋",
+"item.pamhc2foodcore.cookiesandmilkitem": "餅乾和牛奶",
+
+//cocoa
+"item.pamhc2foodcore.chocolatebaritem": "巧克力棒",
+"item.pamhc2foodcore.cocoapowderitem": "可可粉",
+"item.pamhc2foodcore.hotchocolateitem": "熱巧克力",
+"item.pamhc2foodcore.chocolatebaconitem": "巧克力培根",
+"item.pamhc2foodcore.chocolatepuddingitem": "巧克力布丁",
+"item.pamhc2foodcore.chocolaterollitem": "巧克力卷",
+"item.pamhc2foodcore.chocolatecaramelfudgeitem": "巧克力焦糖軟糖",
+"item.pamhc2foodcore.smoresitem": "棉花糖夾心餅",
+"item.pamhc2foodcore.trailmixitem": "什錦乾果",
+
+//egg
+"item.pamhc2foodcore.mayonaiseitem": "蛋黃醬",
+"item.pamhc2foodcore.boiledeggitem": "白煮蛋",
+"item.pamhc2foodcore.friedeggitem": "煎雞蛋",
+"item.pamhc2foodcore.scrambledeggitem": "炒雞蛋",
+
+//apple
+"item.pamhc2foodcore.applejuiceitem": "蘋果汁",
+"item.pamhc2foodcore.applesmoothieitem": "蘋果冰沙",
+"item.pamhc2foodcore.applejellyitem": "蘋果果醬",
+"item.pamhc2foodcore.applejellytoastitem": "蘋果果醬吐司",
+"item.pamhc2foodcore.applesauceitem": "蘋果泥",
+
+//melon
+"item.pamhc2foodcore.melonjuiceitem": "西瓜汁",
+"item.pamhc2foodcore.melonsmoothieitem": "西瓜冰沙",
+"item.pamhc2foodcore.melonjellyitem": "西瓜果醬",
+"item.pamhc2foodcore.melonjellytoastitem": "西瓜果醬吐司",
+
+//sweet berry
+"item.pamhc2foodcore.sweetberryjuiceitem": "甜梅果汁",
+"item.pamhc2foodcore.sweetberrysmoothieitem": "甜梅冰沙",
+"item.pamhc2foodcore.sweetberryjellyitem": "甜梅果醬",
+"item.pamhc2foodcore.sweetberryjellytoastitem": "甜梅果醬吐司",
+
+//chicken
+"item.pamhc2foodcore.friedchickenitem": "炸雞",
+"item.pamhc2foodcore.groundchickenitem": "碎雞肉",
+"item.pamhc2foodcore.chickennuggetitem": "雞塊",
+"item.pamhc2foodcore.basicchickensandwichitem": "基本雞肉三明治",
+"item.pamhc2foodcore.chickenjerkyitem": "雞肉乾",
+"item.pamhc2foodcore.chickenpotpieitem": "雞肉鍋餅",
+"item.pamhc2foodcore.chickendinneritem": "雞肉晚餐",
+
+//beef
+"item.pamhc2foodcore.potroastitem": "燉牛肉",
+"item.pamhc2foodcore.groundbeefitem": "碎牛肉",
+"item.pamhc2foodcore.basichamburgeritem": "基本漢堡包",
+"item.pamhc2foodcore.basiccheeseburgeritem": "基本起司漢堡",
+"item.pamhc2foodcore.baconcheeseburgeritem": "培根起司漢堡",
+"item.pamhc2foodcore.beefjerkyitem": "牛肉乾",
+
+//pork
+"item.pamhc2foodcore.groundporkitem": "碎豬肉",
+"item.pamhc2foodcore.porkjerkyitem": "豬肉乾",
+"item.pamhc2foodcore.hotdogitem": "熱狗",
+"item.pamhc2foodcore.baconandeggsitem": "培根蛋",
+"item.pamhc2foodcore.epicbaconitem": "史詩培根",
+
+//fish
+"item.pamhc2foodcore.groundfishitem": "碎魚肉",
+"item.pamhc2foodcore.fishsticksitem": "炸魚排",
+"item.pamhc2foodcore.basicfishsandwichitem": "基本魚三明治",
+"item.pamhc2foodcore.fishjerkyitem": "魚乾",
+"item.pamhc2foodcore.fishandchipsitem": "炸魚薯條",
+
+//mutton
+"item.pamhc2foodcore.groundmuttonitem": "碎羊肉",
+"item.pamhc2foodcore.muttonjerkyitem": "羊肉乾",
+
+//rabbit
+"item.pamhc2foodcore.groundrabbititem": "碎兔肉",
+"item.pamhc2foodcore.rabbitjerkyitem": "兔肉乾",
+
+//potato
+"item.pamhc2foodcore.butteredbakedpotatoitem": "黃油烤馬鈴薯",
+"item.pamhc2foodcore.mashedpotatoesitem": "馬鈴薯泥",
+"item.pamhc2foodcore.friesitem": "薯條",
+"item.pamhc2foodcore.potatochipsitem": "薯片",
+"item.pamhc2foodcore.potatosoupitem": "馬鈴薯湯",
+
+//carrot
+"item.pamhc2foodcore.glazedcarrotsitem": "蜜胡蘿蔔",
+"item.pamhc2foodcore.carrotsoupitem": "胡蘿蔔湯",
+
+//beet
+"item.pamhc2foodcore.pickledbeetsitem": "醃製甜菜",
+
+//pumpkin
+"item.pamhc2foodcore.pumpkinsoupitem": "南瓜湯",
+
+//sugar
+"item.pamhc2foodcore.caramelitem": "焦糖",
+"item.pamhc2foodcore.caramelappleitem": "焦糖蘋果",
+"item.pamhc2foodcore.marshmellowsitem": "棉花軟糖",
+"item.pamhc2foodcore.marshmellowchicksitem": "棉花小雞軟糖",
+"item.pamhc2foodcore.cottoncandyitem": "棉花糖",
+"item.pamhc2foodcore.gummybearsitem": "小熊軟糖",
+"item.pamhc2foodcore.jellybeansitem": "軟心豆粒",
+
+//misc
+"item.pamhc2foodcore.cookingoilitem": "食用油",
+"item.pamhc2foodcore.vinegaritem": "醋",
+"item.pamhc2foodcore.freshwateritem": "飲用水",
+"item.pamhc2foodcore.freshmilkitem": "新鮮牛奶",
+"item.pamhc2foodcore.saltitem": "鹽",
+"item.pamhc2foodcore.stockitem": "大骨湯",
+
+//generic food
+"item.pamhc2foodcore.fruitpunchitem": "果汁飲料",
+"item.pamhc2foodcore.stewitem": "燉肉",
+"item.pamhc2foodcore.bakedvegetablemedlyitem": "烤蔬菜雜燴",
+"item.pamhc2foodcore.fruitsaladitem": "水果沙拉",
+"item.pamhc2foodcore.meatloafitem": "肉餅",
+"item.pamhc2foodcore.p8juiceitem": "P8果汁",
+"item.pamhc2foodcore.fruitcrumbleitem": "水果酥皮"
+}
