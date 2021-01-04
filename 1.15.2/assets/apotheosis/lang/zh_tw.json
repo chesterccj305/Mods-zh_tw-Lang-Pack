@@ -1,7 +1,7 @@
 {
-	"comment_id": "/Deadly",
+    "comment_id": "/Deadly",
 	
-	"affix.apotheosis:fire_damage": "%s正在燃燒",
+    "affix.apotheosis:fire_damage": "%s正在燃燒",
     "affix.apotheosis:fire_damage.double": "熾烈的%s",
     "affix.apotheosis:lunar_damage": "月亮%s",
     "affix.apotheosis:lunar_damage.double": "二個月亮%s",
@@ -66,9 +66,12 @@
     "rarity.apoth.uncommon": "罕見",
     "rarity.apoth.rare": "稀有",
     "rarity.apoth.epic": "史詩",
+    "rarity.apoth.mythic": "神話",
     "rarity.apoth.ancient": "古老",
     "rarity.apoth.unique": "獨特",
-
+	
+    "death.attack.apoth.frozen_solid": "%s被凍結為固體",
+    "death.attack.apoth.execute": "已執行%s",
     "comment_id": "/Advancements",
 
     "advancements.apotheosis.enchantment": "神化附魔",
@@ -166,9 +169,20 @@
     "jei.spw.redstone": "啟用紅石控制",
     "jei.spw.instructions": "手持各種物品右擊生怪磚可以調節生怪磚.\\n某個物品可以反轉此行為, 導致反方向調節生怪磚的數據.\\n使用精准採集可以獲得生怪磚%s.",
     "jei.spw.capturing": "捕捉附魔有機會讓怪物掉落它們的刷怪蛋.\\n每個附魔等級增加+0.4% 的機率.",
-
+    "jei.spw.minmax": "最小值: %s    最大值: %s",
+	
     "comment_id": "/Enchantment Module",
     "block.apotheosis.hellshelf": "地獄書櫃",
+	"block.apotheosis.blazing_hellshelf": "烈焰地獄書櫃",
+	"block.apotheosis.glowing_hellshelf": "`螢光地獄書櫃",
+	"block.apotheosis.seashelf": "海洋書櫃",
+	"block.apotheosis.crystal_seashelf": "海晶體書櫃",
+	"block.apotheosis.heart_seashelf": "海之心書櫃",
+	"block.apotheosis.endshelf": "終界書櫃",
+	"block.apotheosis.pearl_endshelf": "珠光終界書櫃",
+	"block.apotheosis.draconic_endshelf": "龍頭終界書櫃",
+	"block.apotheosis.beeshelf": "蜜蜂書櫃",
+	"block.apotheosis.melonshelf": "西瓜書櫃",
     "info.apotheosis.hellshelf": "為附魔台提供 %s 的附魔能力",
     "info.apotheosis.cobweb": "可以用來去除所有附魔屬性",
     "info.apotheosis.masterwork": "極品",
@@ -176,7 +190,29 @@
     "info.apotheosis.corrupted": "腐化",
     "info.apotheosis.enchanting": "附魔台現在可以超過30級. 一些附魔只會出現在30級以上",
     "info.apotheosis.altar": "海之祭壇專注於轉換附魔物品.\\n\\n首先，先在每根柱子上放置一個附魔物品，一旦提供了足夠的物品，祭壇將吸取附近玩家的經驗.\\n如果經驗不足，將會產生紫色顆粒.\\n\\n一旦完成，海之祭壇上的物品會被消耗，並生成一本附魔書，有可能獲得寶藏級附魔.",
-
+	"gui.apotheosis.enchant.eterna": "Eterna",
+	"gui.apotheosis.enchant.quanta": "Quanta",
+	"gui.apotheosis.enchant.arcana": "Arcana",
+	"info.apotheosis.ench_stats": "魔附數據:",
+	"info.apotheosis.eterna": " - Eterna: %s",
+	"info.apotheosis.quanta": " - Quanta: %s%%",
+	"info.apotheosis.arcana": " - Arcana: %s%%",
+	"info.apotheosis.eterna.p": " - Eterna: +%s (Max %s)",
+	"info.apotheosis.quanta.p": " - Quanta: +%s%%",
+	"info.apotheosis.arcana.p": " - Arcana: +%s%%",
+	"gui.apotheosis.enchant.eterna.desc": " 是力量的度量。",
+	"gui.apotheosis.enchant.eterna.desc2": "它控制著桌子的等級。",
+	"gui.apotheosis.enchant.eterna.desc3": "當前值: %s/%s",
+	"gui.apotheosis.enchant.quanta.desc": " 是通量的度量。",
+	"gui.apotheosis.enchant.quanta.desc2": "它控制了結界的差異。",
+	"gui.apotheosis.enchant.quanta.desc3": "您的最終水平將被該值修改。",
+	"gui.apotheosis.enchant.quanta.desc4": "當前值: %s%%",
+	"gui.apotheosis.enchant.arcana.desc": " 是對質量的衡量。",
+	"gui.apotheosis.enchant.arcana.desc2": "它使稀有的結界更加普遍，",
+	"gui.apotheosis.enchant.arcana.desc3": "並增加了結界的數量。",
+	"gui.apotheosis.enchant.arcana.desc4": "當前值: %s%%",
+	"ingredient.apotheosis.ench": "至少需要 %s",
+	
     "enchantment.apotheosis.hell_infusion": "煉獄灌注",
     "enchantment.apotheosis.hell_infusion.desc": "在地獄可以造成額外的魔法傷害.",
 
@@ -451,5 +487,8 @@
 	"info.apotheosis.broadhead_arrow": "出血(0:15)",
 	"item.apotheosis.broadhead_arrow": "寬頭箭",
 	"effect.apotheosis.bleeding": "出血",
-	"death.attack.apotheosis.bleeding.player": "%s血流不止而亡"
+	"death.attack.apotheosis.bleeding.player": "%s血流不止而亡",
+	
+	"comment_id": "/Misc",
+	"info.apoth.modifier_disabled": "此修改器已禁用"	
 }
