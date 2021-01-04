@@ -1,9 +1,9 @@
 {
     "itemGroup.mysticalagradditions": "神秘農業擴展",
     
-    "block.mysticalagradditions.insanium_block": "究極精華塊",
-    "block.mysticalagradditions.insanium_ingot_block": "究極精華錠塊",
-    "block.mysticalagradditions.insanium_gemstone_block": "究極精華寳石塊",
+    "block.mysticalagradditions.insanium_block": "究極精華方塊",
+    "block.mysticalagradditions.insanium_ingot_block": "究極精華錠方塊",
+    "block.mysticalagradditions.insanium_gemstone_block": "究極精華寳石方塊",
     "block.mysticalagradditions.insanium_farmland": "究極耕地",
     "block.mysticalagradditions.inferium_coal_block": "下級精華煤塊",
     "block.mysticalagradditions.prudentium_coal_block": "初級精華煤塊",
