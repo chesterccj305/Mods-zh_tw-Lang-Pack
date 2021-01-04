@@ -1,4 +1,4 @@
-# 方块
+# 方塊
 tile.sakura.kawara_block.name=瓦塊
 tile.sakura.kawara.name=瓦
 tile.sakura.tatami_tan.name=榻榻米（日曬）
@@ -517,7 +517,7 @@ item.sakura.glass_scorpion.name=天蝎
 item.sakura.glass_moscow_mule.name=莫斯科騾子
 item.sakura.glass_boilermaker.name=酒鬼炸彈
 
-#液体方块
+#液體方塊
 fluid.sakura.food_oil=食用油
 fluid.sakura.grape_fluid=葡萄汁
 fluid.sakura.red_wine=红葡萄酒
@@ -541,11 +541,11 @@ fluid.sakura.hot_spring_water=溫泉水
 #Tooltips
 sakura.kimono.texture.name=和服材質
 sakura.haori.texture.name=羽織材質
-#按键绑定
+#按鍵綁定
 key.categories.sakura=樱
 key.sakura.sheath_in=收刀入鞘
 
-#聊天提示信息
+#聊天顯示信息
 sakura.katana.wrong_duel_shinai=竹刀必需雙手握持。
 sakura.katana.wrong_duel=你不能雙持打刀。
 sakura.katana.sheath.not_empty_hand=空出一隻手才可以拔刀。
@@ -557,7 +557,7 @@ container.sakura.campfirepot=烹飪鍋
 barrel.contains.fluid=這個桶含有%1$s液體
 barrel.contains.nonfluid=這個桶是空的
 
-#JEI条目
+#JEI條目
 jei.sakura.category.cooking_pot=烹飪鍋
 jei.sakura.category.mortar=石磨
 jei.sakura.category.barrel=釀造桶
@@ -565,7 +565,7 @@ jei.sakura.category.distillation=蒸餾桶
 jei.sakura.category.liquid_item=液體裝桶
 jei.sakura.category.straw_web=風乾
 
-#实体
+#實體
 entity.sakura.Deer.name=鹿
 entity.sakura.SamuraiIllager.name=災厄武士
 entity.Villager.wa_farmer=日本農民
@@ -579,7 +579,7 @@ guide.sakura_guide.landing_text=世界上有許多作物。而本書主要收錄
 itemGroup.sakura_tabs=櫻
 
 
-#配置选项
+#配置選項
 sakura.config.vanilla_weight=香草世界生成率
 sakura.config.vanilla_weight.tooltip=變更香草的生成率，數字越高生成越多。
 sakura.config.pepper_weight=胡椒世界生成率
@@ -604,7 +604,7 @@ wailaharvestability.toolclass.forging_hammer=鍛造錘
 sakura.tooltip.campfire.fire_remain=剩餘燃料: %1$s Ticks
 sakura.tooltip.campfire.item_in=篝火裡的物品: %1$s
 
-#药水效果
+#藥水效果
 sakura.effect.scorpion=蠍毒
 sakura.effect.cannon=大炮
 sakura.effect.exp_up=經驗提升
