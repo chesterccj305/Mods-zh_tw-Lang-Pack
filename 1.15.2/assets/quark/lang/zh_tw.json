@@ -12,8 +12,8 @@
         "quark.gui.enchanting.min": "最小值: %d",
 	"quark.gui.enchanting.influence": "蠟燭影響: +%d%%",
 	"quark.gui.enchanting.upgrade": "升級: %d/%d",
-	"quark.gui.enchanting.left_click": "左鍵單擊以選擇",
-	"quark.gui.enchanting.right_click": "右鍵單擊以旋轉",
+	"quark.gui.enchanting.left_click": "按左鍵選擇",
+	"quark.gui.enchanting.right_click": "按右鍵旋轉",
 	"quark.gui.enchanting.merge": "點擊以升級",
 	"quark.gui.enchanting.pending": "具有待定附魔",
 
@@ -69,12 +69,12 @@
 	"quark.camera.overlay": "Overlay: ",
 	"quark.camera.overlay0": "無",
 	"quark.camera.overlay1": "日期",
-	"quark.camera.overlay2": "Postcard",
+	"quark.camera.overlay2": "明信片",
 	"quark.camera.overlay3": "浮水印",
 	"quark.camera.overlay4": "Held Item",
 
-	"quark.camera.header": "Camera Mode",
-	"quark.camera.info": "[%s to exit, ENTER to shoot]",
+	"quark.camera.header": "相機模式",
+	"quark.camera.info": "[按%s 退出；按ENTER 拍照]",
 	"quark.camera.reset": "Reset Settings (Must Sneak)",
 	"quark.camera.greetings": "Greetings from %s!",
 
