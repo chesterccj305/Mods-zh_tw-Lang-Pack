@@ -3,13 +3,13 @@
 
   "libnonymous.config.gui.label.config": "配置",
   "libnonymous.config.gui.label.category": "類別",
-  "libnonymous.config.gui.label.settings": "設置",
+  "libnonymous.config.gui.label.settings": "設定",
   "libnonymous.config.gui.label.separate_with_commas": "(用逗號分隔)",
   "libnonymous.config.gui.tooltip.default_is": "預設值為:",
   "libnonymous.config.gui.label.mods": "模組...",
 
   "libnonymous.config.error.invalid_enum": "無效的枚舉值",
   "libnonymous.config.error.invalid_decimal": "無效的十進制數字",
-  "libnonymous.config.error.no_native_menu_exists": "對不起，該mod沒有本機菜單。",
-  "libnonymous.config.error.unsupported_config_type": "很抱歉，不支持此配置類型。"
+  "libnonymous.config.error.no_native_menu_exists": "很抱歉，該模組沒有原生選單。",
+  "libnonymous.config.error.unsupported_config_type": "很抱歉，不支援此配置類型。"
 }
