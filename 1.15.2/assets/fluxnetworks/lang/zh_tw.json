@@ -19,6 +19,7 @@
 	"tooltip.fluxnetworks.fluxplug": "用於向能量網路中增加能量",
 	"tooltip.fluxnetworks.fluxpoint": "用於從能量網路中移除能量",
 	"tooltip.fluxnetworks.fluxstorage": "在能量網路中儲存能量",
+	"tooltip.fluxnetworks.flux_storage_2": "能量容量:%s",
 
 	"info.fluxnetworks.tab.home": "首頁",
 	"info.fluxnetworks.tab.selection": "網路選擇",
@@ -45,6 +46,7 @@
 
 	"info.fluxnetworks.click": "點上方的",
 	"info.fluxnetworks.above": "以上",
+	"info.fluxnetworks.clickabove": "點擊上方的%s",
 
 	"info.fluxnetworks.error.noselected": "尚未選擇網路",
 	"info.fluxnetworks.error.nonetwork": "無可用網路",
@@ -75,7 +77,7 @@
 	"info.fluxnetworks.feedback.nospace": "你無法建立更多的網路",
 	"info.fluxnetworks.feedback.hascontroller": "該網路已經連接了控制器",
 	"info.fluxnetworks.feedback.invaliduser": "選擇了無效的使用者",
-	"info.fluxnetworks.feedback.illegalpassword": "密碼格式錯誤, 只能使用字母或數字",
+	"info.fluxnetworks.feedback.illegalpassword": "密碼格式錯誤,只能使用數字,字母或通用符號",
 	"info.fluxnetworks.feedback.hasloader": "該區塊已經進行了區塊載入",
 	"info.fluxnetworks.feedback.bannedloading": "伺服器禁止了區塊載入",
 	"info.fluxnetworks.feedback.rejectsome": "伺服器拒絕了部分改動",
@@ -86,6 +88,7 @@
 	"info.fluxnetworks.gui.batchedit": "批量編輯模式",
 	"info.fluxnetworks.gui.editing": "正在編輯",
 	"info.fluxnetworks.gui.connections": "個連接點",
+	"info.fluxnetworks.gui.editingconnections": "正在編輯%d個連接點",
 	"info.fluxnetworks.gui.customcolor": "自訂顏色",
 	"info.fluxnetworks.gui.connectingto": "正在連接至",
 	"info.fluxnetworks.gui.total": "共計",
@@ -100,6 +103,11 @@
 	"info.fluxnetworks.gui.you": "你",
 
 	"info.fluxnetworks.gui.sort.smart": "智慧",
+	"info.fluxnetworks.gui.sort.id": "ID",
+	"info.fluxnetworks.gui.sort.name": "名稱",
+	"info.fluxnetworks.gui.detailedview": "詳細網路圖",
+	
+	"info.fluxnetworks.gui.sort.smart": "智能",
 	"info.fluxnetworks.gui.sort.id": "ID",
 	"info.fluxnetworks.gui.sort.name": "名稱",
 
@@ -126,6 +134,7 @@
 
 	"info.fluxnetworks.security.encrypted": "加密",
 	"info.fluxnetworks.security.public": "公共",
+	"info.fluxnetworks.security.private": "私人",
 
 	"info.fluxnetworks.access.owner": "擁有者",
 	"info.fluxnetworks.access.admin": "管理員",
