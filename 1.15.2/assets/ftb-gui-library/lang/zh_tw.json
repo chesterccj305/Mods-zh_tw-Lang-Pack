@@ -45,4 +45,12 @@
 	"ftbguilibrary.select_item.caps": "編輯能力",
 	"ftbguilibrary.select_item.display_name": "設定顯示名稱",
 	"config.group.value": "數值"
+	"sidebar_button.ftbguilibrary.toggle.gamemode": "切換遊戲模式",
+	"sidebar_button.ftbguilibrary.toggle.gamemode.tooltip": "切換生存和創造模式",
+	"sidebar_button.ftbguilibrary.toggle.rain": "切換下雨",
+	"sidebar_button.ftbguilibrary.toggle.rain.tooltip": "切換晴天和雨天",
+	"sidebar_button.ftbguilibrary.toggle.day": "調整時間至白天",
+	"sidebar_button.ftbguilibrary.toggle.day.tooltip": "調整至白天",
+	"sidebar_button.ftbguilibrary.toggle.night": "調整時間至晚上",
+	"sidebar_button.ftbguilibrary.toggle.night.tooltip": "調整至晚上",
 }
