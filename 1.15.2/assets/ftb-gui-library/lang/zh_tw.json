@@ -44,7 +44,7 @@
 	"ftbguilibrary.select_item.nbt": "編輯NBT",
 	"ftbguilibrary.select_item.caps": "編輯能力",
 	"ftbguilibrary.select_item.display_name": "設定顯示名稱",
-	"config.group.value": "數值"
+	"config.group.value": "數值",
 	"sidebar_button.ftbguilibrary.toggle.gamemode": "切換遊戲模式",
 	"sidebar_button.ftbguilibrary.toggle.gamemode.tooltip": "切換生存和創造模式",
 	"sidebar_button.ftbguilibrary.toggle.rain": "切換下雨",
