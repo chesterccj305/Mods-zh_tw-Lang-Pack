@@ -1,6 +1,16 @@
 {
 	"ftbchunks": "FTB Chunks",
 	"ftbchunks.noise": "雜訊",
+	"ftbchunks.shadows": "陰影",
+	"ftbchunks.chunk_grid": "區塊格線",
+	"ftbchunks.reduced_color_palette": "減少調色板",
+	"ftbchunks.saturation": "飽和度",
+	"ftbchunks.debug_info": "除錯訊息",
+	"ftbchunks.claimed_chunks_on_map": "在地圖上顯示已聲明的區塊",
+	"ftbchunks.own_claimed_chunks_on_map": "在地圖上顯示你自己已聲明的區塊",
+	"ftbchunks.in_world_waypoints": "在世界上顯示路標",
+	"ftbchunks.map_mode": "地圖模式",
+	"ftbchunks.water_height_factor": "水重係數",	
 	"ftbchunks.minimap": "小地圖",
 	"ftbchunks.minimap_scale": "小地圖尺寸",
 	"ftbchunks.minimap_locked_north": "小地圖鎖定北方",
@@ -13,6 +23,8 @@
 	"ftbchunks.minimap_biome": "小地圖生態域",
 	"ftbchunks.minimap_blur": "小地圖模糊",
 	"ftbchunks.minimap_compass": "小地圖指南針",
+	"ftbchunks.minimap_visibility": "小地圖能見度",
+	"ftbchunks.minimap_zone": "小地圖區域",	
 	"sidebar_button.ftbchunks.chunks": "FTB Chunks",
 	"key.ftbchunks.map": "打開 FTB Chunks 地圖",
 	"wilderness": "野外",
@@ -27,5 +39,6 @@
 	"ftbchunks.gui.claimed_chunks": "聲明區塊",
 	"ftbchunks.gui.waypoints": "路標",
 	"ftbchunks.gui.add_waypoint": "增加路標",
-	"ftbchunks.gui.settings": "設定"
+	"ftbchunks.gui.settings": "設定",
+	"ftbchunks.gui.sync": "與盟友分享地圖",
 }
