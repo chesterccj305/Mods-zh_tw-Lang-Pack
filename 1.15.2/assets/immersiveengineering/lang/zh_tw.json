@@ -1196,12 +1196,12 @@
     "ie.manual.entry.shaderList.unlock":"解鎖這個時裝",
     "ie.manual.entry.shaderList.order":"獲得:",
     "ie.manual.entry.minerals_desc":"%1$s\n包括了 of %2$s.",
-    "ie.manual.entry.mineralsDimValid":"\u00c2\u00a7l%1$s\u00c2\u00a7r 在%2$s中找到的礦脈.",
-    "ie.manual.entry.mineralsDimInvalid":"\u00c2\u00a7l%1$s\u00c2\u00a7r 在%2$s中找不到的礦脈.",
-    "ie.manual.entry.mineral_main":"在你的世界範圍內發現的礦脈礦藏對你來說並不新鮮.目前為止你尚未考慮過的是礦脈,其中包含了混合不同的原礦.因為分布廣泛且稀少,普通的礦工無法找到它們,但是<link;挖掘機;\u00c2\u00a7o\u00c2\u00a7n特別的 \u00c2\u00a7o\u00c2\u00a7n機器\u00c2\u00a7r> 或許能幫上忙. <&drill>為了找到並確定礦脈在哪,你需要製作岩芯鑽井. 給這個機器供電然後右擊它或用紅石啟動它.它鑽入此區塊並提岩芯樣本,它顯示發現了什麼礦物及其產量.鑽井消耗 <config;i;coredrill_consumption> Flux/t and 耗時 <config;i;coredrill_time> 完全檢索並分析樣本.<br><br>此樣本可潛行並右擊放在方塊上.在樣本上使用地圖將區塊設置標記.<br><br>以下頁面列出每個礦脈類型和可檢索的礦石.",
+    "ie.manual.entry.mineralsDimValid":"\u00c2\u00a7l%1$s\u00c2\u00a7r 在%2$s中找到的礦脈。",
+    "ie.manual.entry.mineralsDimInvalid":"\u00c2\u00a7l%1$s\u00c2\u00a7r 在%2$s中找不到的礦脈。",
+    "ie.manual.entry.mineral_main":"在你的世界範圍內發現的礦脈礦藏對你來說並不新鮮。目前為止你尚未考慮過的是礦脈，其中包含了混合不同的原礦。因為分布廣泛且稀少，普通的礦工無法找到它們，但是<link;挖掘機;\u00c2\u00a7o\u00c2\u00a7n特別的 \u00c2\u00a7o\u00c2\u00a7n機器\u00c2\u00a7r> 或許能幫上忙。 <&drill>為了找到並確定礦脈在哪，你需要製作岩芯鑽井。給這個機器供電然後右擊它或用紅石啟動它。它鑽入此區塊並提岩芯樣本，它顯示發現了什麼礦物及其產量。鑽井消耗 <config;i;coredrill_consumption> Flux/t and 耗時 <config;i;coredrill_time> 完全檢索並分析樣本。<br><br>此樣本可潛行並右擊放在方塊上。在樣本上使用地圖將區塊設定標記。<br><br>以下頁面列出每個礦脈類型和可檢索的礦石。",
     "ie.manual.entry.mineral_title":"礦脈",
     "ie.manual.entry.mineral_subtitle":"太棒了！礦物",
     "ie.manual.newerVersion":" - 新版本！",
     "ie.manual.currentVersion":" - 目前版本",
-    "ie.manual.entry.mineralsDimAny":"\u00c2\u00a7l%1$s\u00c2\u00a7r 是可在任何維度中發現的礦脈."
+    "ie.manual.entry.mineralsDimAny":"\u00c2\u00a7l%1$s\u00c2\u00a7r 是可在任何維度中發現的礦脈。"
 }
