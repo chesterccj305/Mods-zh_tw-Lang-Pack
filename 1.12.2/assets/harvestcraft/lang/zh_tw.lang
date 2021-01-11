@@ -1,5 +1,5 @@
-itemGroup.harvestcraft=潘的豐收模組
 
+itemGroup.harvestcraft=潘的豐收模組
 
 harvestcraft.harvestcraft.tile.cuttingboard.name=砧板
 harvestcraft.tile.pot.name=鍋
@@ -248,16 +248,16 @@ tile.candleDeco14.name=綠色蠟燭
 tile.candleDeco15.name=紅色蠟燭
 tile.candleDeco16.name=黑色蠟燭
 
-tile.pamcarrotcake.name=胡蘿蔔蛋糕
-tile.pamcheesecake.name=起司蛋糕
-tile.pamcherrycheesecake.name=櫻桃起司蛋糕
-tile.pampineappleupsidedowncake.name=鳳梨翻轉蛋糕
-tile.pamchocolatesprinklecake.name=彩虹巧克力蛋糕
-tile.pamredvelvetcake.name=紅絲絨蛋糕
-tile.pamlamingtoncake.name=萊明頓蛋糕
-tile.pampavlovacake.name=帕夫洛娃蛋糕
-tile.pamholidaycake.name=節慶蛋糕
-tile.pampumpkincheesecake.name=南瓜起司蛋糕
+tile.carrotcake.name=胡蘿蔔蛋糕
+tile.cheesecake.name=起司蛋糕
+tile.cherrycheesecake.name=櫻桃起司蛋糕
+tile.pineappleupsidedowncake.name=鳳梨翻轉蛋糕
+tile.chocolatesprinklecake.name=彩虹巧克力蛋糕
+tile.redvelvetcake.name=紅絲絨蛋糕
+tile.lamingtoncake.name=萊明頓蛋糕
+tile.pavlovacake.name=帕夫洛娃蛋糕
+tile.holidaycake.name=節慶蛋糕
+tile.pumpkincheesecake.name=南瓜起司蛋糕
 
 
 item.garliccoinitem.name=大蒜硬幣
