@@ -6,7 +6,7 @@
 #-----------------------------------------------------------------------------------------------------------
 itemGroup.tabengineersdecor=工程師的裝飾
 engineersdecor.tooltip.hint.extended=§6[§9SHIFT§r查看更多訊息 §6]§r
-engineersdecor.tooltip.hint.help=§6[§9CTRL-SHIFT§r查看幫力§6]§r
+engineersdecor.tooltip.hint.help=§6[§9CTRL-SHIFT§r查看幫助§6]§r
 engineersdecor.tooltip.slabpickup.help=§r手持同類半磚往上/下看時單擊該半磚可無需破壞快速撿起
 #-----------------------------------------------------------------------------------------------------------
 engineersdecor.tooltip.requires_rf_power=需要RF能量
