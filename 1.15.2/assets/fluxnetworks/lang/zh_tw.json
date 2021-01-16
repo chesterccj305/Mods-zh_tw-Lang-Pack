@@ -107,10 +107,6 @@
 	"info.fluxnetworks.gui.sort.name": "名稱",
 	"info.fluxnetworks.gui.detailedview": "詳細網路圖",
 	
-	"info.fluxnetworks.gui.sort.smart": "智能",
-	"info.fluxnetworks.gui.sort.id": "ID",
-	"info.fluxnetworks.gui.sort.name": "名稱",
-
 	"info.fluxnetworks.button.batchclear": "清空所選項",
 	"info.fluxnetworks.button.batchedit": "編輯所選項",
 	"info.fluxnetworks.button.batchdisconnect": "斷開連接",
