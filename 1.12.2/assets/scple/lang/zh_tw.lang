@@ -1,0 +1,18 @@
+item.glue.name=膠水
+item.document.name=文件
+item.document005.name=SCP-005 文件
+
+itemGroup.scpletab=SCP鎖定附加功能
+itemGroup.scpletabdocs=SCPLE:文檔
+
+tile.metal_floor_a.name=金屬地板A
+tile.metal_floor_b.name=金屬地板B
+tile.hard_metal_wall.name=硬金屬牆
+tile.dark_concrete.name=深色混凝土
+tile.scp173_chamber_blood.name=雜毛塊
+tile.puddle106.name=106組
+tile.mp1.name=金屬面板 1
+tile.mp2.name=金屬面板 2
+tile.mp3.name=金屬面板 3
+tile.mp4.name=金屬面板 4
+tile.metal_panel.name=金屬面板
