@@ -62,6 +62,7 @@ scptile.sublevelwall.name=分段牆
 scptile.pd.name=口袋次元方塊
 scptile.pdcorridorc.name=口袋次元方塊 C
 scptile.pdcorridora.name=口袋次元方塊 A
+sceptile.bag wall.name=袋壁
 scptile.eye.name=眼睛方塊
 scptile.hole_in_the_wall.name=牆上一個洞 (1162)
 scptile.hole_in_the_wall_concrete.name=混凝土 (1162)
@@ -137,12 +138,12 @@ scptile.swamp_grass.name=沼澤草方塊
 scptile.one_way_glass_0.name=白色觀察窗
 scptile.one_way_glass_1.name=橙色觀察窗
 scptile.one_way_glass_2.name=洋紅色觀察窗
-scptile.one_way_glass_3.name=亮藍色觀察窗
+scptile.one_way_glass_3.name=淺藍色觀察窗
 scptile.one_way_glass_4.name=黃色觀察窗
-scptile.one_way_glass_5.name=綠黃色的觀察窗
-scptile.one_way_glass_6.name=粉色的觀察窗
+scptile.one_way_glass_5.name=淺綠色的觀察窗
+scptile.one_way_glass_6.name=粉紅色的觀察窗
 scptile.one_way_glass_7.name=灰色的觀察窗
-scptile.one_way_glass_8.name=銀色的觀察窗
+scptile.one_way_glass_8.name=淺灰色的觀察窗
 scptile.one_way_glass_9.name=青色的觀察窗
 scptile.one_way_glass_10.name=紫色的觀察窗
 scptile.one_way_glass_11.name=藍色的觀察窗
@@ -154,19 +155,36 @@ scptile.one_way_glass_15.name=黑色的觀察窗
 scptile.one_way_glass_cube_0.name=白色觀察玻璃
 scptile.one_way_glass_cube_1.name=橙色觀察玻璃
 scptile.one_way_glass_cube_2.name=洋紅色觀察玻璃
-scptile.one_way_glass_cube_3.name=亮藍色觀察玻璃
+scptile.one_way_glass_cube_3.name=淺藍色觀察玻璃
 scptile.one_way_glass_cube_4.name=黃色觀察玻璃
-scptile.one_way_glass_cube_5.name=綠黃色的觀察玻璃
-scptile.one_way_glass_cube_6.name=粉色的觀察玻璃
+scptile.one_way_glass_cube_5.name=淺綠色的觀察玻璃
+scptile.one_way_glass_cube_6.name=粉紅色的觀察玻璃
 scptile.one_way_glass_cube_7.name=灰色的觀察玻璃
-scptile.one_way_glass_cube_8.name=銀色的觀察玻璃
+scptile.one_way_glass_cube_8.name=淺灰色的觀察玻璃
 scptile.one_way_glass_cube_9.name=青色的觀察玻璃
-scptile.one_way_glass_cube_10.name==紫色的觀察玻璃
+scptile.one_way_glass_cube_10.name=紫色的觀察玻璃
 scptile.one_way_glass_cube_11.name=藍色的觀察玻璃
 scptile.one_way_glass_cube_12.name=棕色的觀察玻璃
 scptile.one_way_glass_cube_13.name=綠色的觀察玻璃
 scptile.one_way_glass_cube_14.name=紅色的觀察玻璃
 scptile.one_way_glass_cube_15.name=黑色的觀察玻璃
+
+scptile.pipe_0.name=白色管道
+scptile.pipe_1.name=橙色管道
+scptile.pipe_2.name=洋紅色管道
+scptile.pipe_3.name=淺藍色管道
+scptile.pipe_4.name=黃色管道
+scptile.pipe_5.name=淺綠色管道
+scptile.pipe_6.name=粉紅色管道
+scptile.pipe_7.name=灰色管道
+scptile.pipe_8.name=淺灰色管道
+scptile.pipe_9.name=青色管道
+scptile.pipe_10.name=紫色管道
+scptile.pipe_11.name=藍色管道
+scptile.pipe_12.name=棕色管道
+scptile.pipe_13.name=綠色管道
+scptile.pipe_14.name=紅色管道
+scptile.pipe_15.name=黑色管道
 
 scptile.corroded_metal.name=被腐蝕的金屬
 scptile.blocker106.name=電磁金屬塊
@@ -183,6 +201,9 @@ scptile.data_bank.name=數據銀行
 scptile.siren.name=Siren
 scptile.block_chair.name=椅子
 scptile.block_chair2.name=辦公椅
+scptile.vermin_suppressor.name=消蟲器 (997)
+scptile.chicken_coop143.name=雞舍 (143-FR)
+scptile.scp079.name=SCP-079 (舊AI)
 
 tile.tree_leaves.name=刃木樹葉 (143)
 tile.fence087.name=柵欄 (087)
@@ -196,6 +217,7 @@ fluid.fountain_of_youth_liquid=不老泉 (006)
 fluid.red_liquid=血池 （354）
 fluid.spider_fluid=影之液
 fluid.swamp_water=沼澤的水
+fluid.h_cl_fluid=鹽酸
 
 #Items:
 
@@ -251,14 +273,22 @@ scpitem.disease_encyclopedia.name= 疾病大百科 (1025)
 scpitem.cowbell.name=牛鈴 (513)
 scpitem.valve_door.name=氣門
 
-scpitem.telekill_iron_helmet.name=心靈遮斷合金頭盔
-scpitem.telekill_iron_chestplate.name=心靈遮斷合金胸甲
-scpitem.telekill_iron_leggings.name=心靈遮斷合金護腿
-scpitem.telekill_iron_boots.name=心靈遮斷合金靴子
-scpitem.telekill_diamond_helmet.name=心靈遮斷合金頭盔
-scpitem.telekill_diamond_chestplate.name=心靈遮斷合金胸甲
-scpitem.telekill_diamond_leggings.name=心靈遮斷合金護腿
-scpitem.telekill_diamond_boots.name=心靈遮斷合金靴子
+scpitem.telekill_iron_helmet.name=心靈遮斷合金鐵頭盔
+scpitem.telekill_iron_chestplate.name=心靈遮斷合金鐵胸甲
+scpitem.telekill_iron_leggings.name=心靈遮斷合金鐵護腿
+scpitem.telekill_iron_boots.name=心靈遮斷合金鐵靴子
+scpitem.telekill_gold_helmet.name=心靈遮斷合金金頭盔
+scpitem.telekill_gold_chestplate.name=心靈遮斷合金金胸甲
+scpitem.telekill_gold_leggings.name=心靈遮斷合金金護腿
+scpitem.telekill_gold_boots.name=心靈遮斷合金金靴子
+scpitem.telekill_chain_helmet.name=心靈遮斷合金鎖鏈頭盔
+scpitem.telekill_chain_chestplate.name=心靈遮斷合金鎖鏈胸甲
+scpitem.telekill_chain_leggings.name=心靈遮斷合金鎖鏈護腿
+scpitem.telekill_chain_boots.name=心靈遮斷合金鎖鏈靴子
+scpitem.telekill_diamond_helmet.name=心靈遮斷合金鑽石頭盔
+scpitem.telekill_diamond_chestplate.name=心靈遮斷合金鑽石胸甲
+scpitem.telekill_diamond_leggings.name=心靈遮斷合金鑽石護腿
+scpitem.telekill_diamond_boots.name=心靈遮斷合金鑽石靴子
 scpitem.telekill_sword.name=心靈遮斷合金劍
 scpitem.telekill_axe.name=心靈遮斷合金斧
 scpitem.telekill_pickaxe.name=心靈遮斷合金鎬
@@ -272,7 +302,7 @@ scpitem.330c.name=橙色糖果
 scpitem.330d.name=藍色糖果
 scpitem.330e.name=黃色糖果
 scpitem.330f.name=綠色糖果
-scpitem.330g.name=亮藍色糖果
+scpitem.330g.name=淺藍色糖果
 
 scpitem.battery.name=電池
 scpitem.flashlight.name=手電筒
@@ -356,6 +386,17 @@ scpitem.token718.name=SCP-718 令牌
 scpitem.token843.name=SCP-843 令牌
 scpitem.token811.name=SCP-811 令牌
 scpitem.token160.name=SCP-160 令牌
+scpitem.token573.name=SCP-573 令牌
+scpitem.token997.name=SCP-997 令牌
+scpitem.token2295.name=SCP-2295 令牌
+scpitem.token529.name=SCP-529 令牌
+scpitem.token912.name=SCP-912 令牌
+scpitem.token3199.name=SCP-3199 令牌
+scpitem.token682.name=SCP-682 令牌
+scpitem.token143_fr.name=SCP-143-FR 令牌
+scpitem.token4307.name=SCP-4307 令牌
+scpitem.token059-fr.name=SCP-059-FR 令牌
+scpitem.token_old_ai.name=SCP-079 令牌
 
 scpitem.teleport_tester.name=傳送測試儀
 scpitem.info_tablet.name=信息平板電腦
@@ -364,6 +405,16 @@ scpitem.thunder_meat.name=電氣綿羊肉
 scpitem.raw_thunder_meat.name=熟電氣綿羊肉
 scpitem.npctool.name=命令工具
 scpitem.rodent_tail.name=嚙齒動物尾巴
+scpitem.pied_pipe.name=誘拐魔笛 (573)
+scpitem.baton.name=警棍
+scpitem.scp_2295.name=縫心的熊
+scpitem.cheese.name=起司
+scpitem.swat_helmet.name=SWAT頭盔
+scpitem.swat_chest.name=SWAT胸甲
+scpitem.swat_leggings.name=SWAT護腿
+scpitem.swat_boots.name=SWAT靴子
+
+scpitem.document_grace.name=恩典
 
 item.dragoneggblobworm.name=團團蟲 蛋
 item.dragoneggglowdrake.name=輝光龍 蛋
@@ -425,10 +476,22 @@ entity.scp.old_man_d.name=The Old Man
 entity.scp.swamp_woman.name=沼女 (811)
 entity.scp.scp160.name=掠食無人機 (160)
 entity.scp.electric_sheep.name=電氣綿羊 (594)
-entity.scp.elc_sheep_lamb.name=電氣綿羊 Lamb
+entity.scp.elc_sheep_lamb.name=電氣綿羊肉
 entity.scp.plant_cow.name=奶牛種子 (843)
 entity.scp.eyeball.name=爆炸眼球 (718)
-
+entity.scp.scp_josie.name=半貓Josie (529)
+entity.scp.scp_2295.name=縫心的熊 (2295)
+entity.scp.living_armor.name=自主型SWAT裝甲 (912)
+entity.scp.scp_3199.name=否決，人類 (3199)
+entity.scp.scp682.name=不滅孽蜥 (682)
+entity.scp.scp3199hatchling.name=3199孵化
+entity.scp3199egg.name=3199蛋
+entity.scp.heavy_golem.name=重型突襲機器人
+entity.scp.hostile_golem.name=敵對突襲機器人
+entity.scp.scp143_fr.name=SCP-143-FR
+entity.scp.scp4307.name=電子海陸禁衛軍 (4307)
+entity.scp.scp059_fr.name=暴雪利爪(059-FR-1)
+entity.scp.scp059_blizzard.name=暴雪 (059-FR)
 
 #Death messages:
 
@@ -447,6 +510,10 @@ death.attack.crushed=%1$s 被粉碎了
 death.attack.living_room.eat=%1$s 被消耗了
 death.attack.eyeball_spawn=%1$s 因爆炸眼球寄生炸裂而死
 death.attack.electricity=%1$s 被電擊了
+death.attack.hcl.acid=%1$s 被溶解了
+death.attack.cut.143=%1$s 被切了
+death.attack.heat=%1$s 的大腦被炸了
+death.attack.frostbite=%1$s 遭受了致命的凍傷
 
 #Potion names:
 
@@ -554,6 +621,17 @@ scp.swamp_woman.name=沼女
 scp.eyeball.name=爆炸眼球
 scp.electric_sheep.name=電氣綿羊
 scp.cow_seeds.name=奶牛種子
+scp.the_bear_with_a_heart_of_patchwork.name=縫心的熊
+scp.the_pied_pipe.name=誘拐魔笛
+scp.humans,_refuted.name=否決，人類
+scp.vermin_suppressor.name=消蟲器
+scp.autonomous_swat_armor.name=自主型SWAT裝甲
+scp.josie_the_half_cat.name=半貓Josie
+scp.hard_to_destroy_reptile.name=不滅孽蜥
+scp.mesozoic_chicken_coop.name=中生代雞舍
+scp.electro_marine_praetorian.name=電子海陸禁衛軍
+scp.old_ai.name=舊 AI
+scp.blizzards_claws.name=暴雪之爪
 
 # General info keys:
 
@@ -578,6 +656,9 @@ scp.data_bank=數據銀行
 scp.token=令牌
 scp.command_baton=命令工具
 scp.d_personnel=D級人員
+scp.tranq_arrow=鎮定之箭
+scp.heavy_golem=重型突襲機器人
+scp.facility1=廢棄的設施
 
 # Other:
 
@@ -594,6 +675,7 @@ scp.coffee.machine.dispense=分配
 scp.gui.url_setter.confirm=確認
 scp.gui.url_setter.cancel=取消
 scp.gui.url_setter.url=URL
+scp.computer.display_text=顯示字串
 
 scp.player.cant.sleep=你根本睡不著覺
 scp.player.sleep.disable=為什麽我的耳朵在響?
@@ -638,3 +720,10 @@ scp.dictionary.match=匹配字典
 scp.dictionary.match.not=不要匹配字典
 scp.coffee.machine.disabled=咖啡機已禁用
 scp.shift_click=Shift + right 打開全局信息
+scp.1023.usage=右鍵單擊可立即刪除任何生物
+scp.search.field=搜索：
+scp.unable.to.speak=您無法講話
+scp.speech.disabled=你不會說話
+scp.there.is.no.info.on.this.scp=該SCP尚無條目
+scp.allowed.effect.range=允許的操作範圍
+scp.state=電源狀態
