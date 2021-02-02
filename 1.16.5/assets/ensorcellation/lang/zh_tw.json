@@ -1,0 +1,112 @@
+{
+  "enchantment.ensorcellation.air_affinity": "空中親和",
+  "enchantment.ensorcellation.air_affinity.desc": "取消不在地面上時的採礦速度損失",
+
+  "enchantment.ensorcellation.angler": "垂釣獎賞",
+  "enchantment.ensorcellation.angler.desc": "釣魚時提供了捕捉額外物品的機會",
+
+  "enchantment.ensorcellation.bulwark": "堡壘",
+  "enchantment.ensorcellation.bulwark.desc": "防止擊退，並可以禁用攻擊者的武器",
+
+  "enchantment.ensorcellation.cavalier": "騎士",
+  "enchantment.ensorcellation.cavalier.desc": "騎行時增加傷害",
+
+  "enchantment.ensorcellation.curse_fool": "愚蠢詛咒",
+  "enchantment.ensorcellation.curse_fool.desc": "防止使用該物品時獲得經驗",
+
+  "enchantment.ensorcellation.curse_mercy": "慈悲詛咒”",
+  "enchantment.ensorcellation.curse_mercy.desc": "防止武器受到致命打擊",
+
+  "enchantment.ensorcellation.damage_ender": "終界殺手",
+  "enchantment.ensorcellation.damage_ender.desc": "增加對終界生物的傷害並抑制傳送",
+
+  "enchantment.ensorcellation.damage_illager": "警戒",
+  "enchantment.ensorcellation.damage_illager.desc": "增加對窳民生物的傷害並抑制傳送",
+
+  "enchantment.ensorcellation.damage_villager": "亡命w",
+  "enchantment.ensorcellation.damage_villager.desc": "增加對村民生物的傷害並抑制傳送",
+
+  "enchantment.ensorcellation.displacement": "位移",
+  "enchantment.ensorcellation.displacement.desc": "隨機將攻擊者傳送",
+
+  "enchantment.ensorcellation.excavating": "範圍挖掘",
+  "enchantment.ensorcellation.excavating.desc": "收獲一定半徑內的方塊",
+
+  "enchantment.ensorcellation.exp_boost": "洞察",
+  "enchantment.ensorcellation.exp_boost.desc": "使用時增加經驗值",
+
+  "enchantment.ensorcellation.fire_rebuke": "火焰之怒",
+  "enchantment.ensorcellation.fire_rebuke.desc": "讓攻擊者燃燒並擊退",
+
+  "enchantment.ensorcellation.frost_aspect": "冰霜",
+  "enchantment.ensorcellation.frost_aspect.desc": "減速並虛弱目標",
+
+  "enchantment.ensorcellation.frost_rebuke": "冰霜之怒",
+  "enchantment.ensorcellation.frost_rebuke.desc": "讓攻擊者減速並削弱",
+
+  "enchantment.ensorcellation.frost_walker": "霜行者",
+  "enchantment.ensorcellation.frost_walker.desc": "凍結地表水和熔岩，允許其穿越",
+
+  "enchantment.ensorcellation.furrowing": "犁溝",
+  "enchantment.ensorcellation.furrowing.desc": "耕作範圍加大",
+
+  "enchantment.ensorcellation.gourmand": "美食家",
+  "enchantment.ensorcellation.gourmand.desc": "食物吃起來更加營養和飽足",
+
+  "enchantment.ensorcellation.holding": "持有",
+  "enchantment.ensorcellation.holding.desc": "增加某些物品的儲存容量",
+
+  "enchantment.ensorcellation.hunter": "獵人獎賞",
+  "enchantment.ensorcellation.hunter.desc": "被殺死的動物提供額外掉落的機會",
+
+  "enchantment.ensorcellation.leech": "水蛭",
+  "enchantment.ensorcellation.leech.desc": "怪物被殺死時吸血回來",
+
+  "enchantment.ensorcellation.magic_edge": "魔法轉換",
+  "enchantment.ensorcellation.magic_edge.desc": "增加少量的傷害並轉化為魔法攻擊",
+
+  "enchantment.ensorcellation.magic_protection": "魔法保護”",
+  "enchantment.ensorcellation.magic_protection.desc": "減少來自魔法的傷害",
+
+  "enchantment.ensorcellation.phalanx": "方陣",
+  "enchantment.ensorcellation.phalanx.desc": "使用盾牌時移動速度加快",
+
+  "enchantment.ensorcellation.pilfering": "盜竊",
+  "enchantment.ensorcellation.pilfering.desc": "可能從目標中竊取一件裝甲",
+
+  "enchantment.ensorcellation.preservation": "保持",
+  "enchantment.ensorcellation.preservation.desc": "消除了維修項目所增加的經驗成本",
+
+  "enchantment.ensorcellation.quick_draw": "快速拉弓",
+  "enchantment.ensorcellation.quick_draw.desc": "減少拉滿弓弓所需的時間",
+
+  "enchantment.ensorcellation.reach": "延伸",
+  "enchantment.ensorcellation.reach.desc": "增加工具使用距離",
+
+  "enchantment.ensorcellation.smashing": "粉碎",
+  "enchantment.ensorcellation.smashing.desc": "將收穫的礦石粉碎成碎片以提高產量",
+
+  "enchantment.ensorcellation.smelting": "冶煉",
+  "enchantment.ensorcellation.smelting.desc": "挖掘的礦物自動熔煉",
+
+  "enchantment.ensorcellation.soulbound": "靈魂綁定",
+  "enchantment.ensorcellation.soulbound.desc": "非正常死亡時物品保留在手中",
+
+  "enchantment.ensorcellation.tilling": "耕種",
+  "enchantment.ensorcellation.tilling.desc": "在半徑範圍內耕種多塊農地",
+
+  "enchantment.ensorcellation.trueshot": "真實射擊",
+  "enchantment.ensorcellation.trueshot.desc": "提高弓箭準確性和速度，並帶穿刺效果",
+
+  "enchantment.ensorcellation.vitality": "活力",
+  "enchantment.ensorcellation.vitality.desc": "增加佩戴者的最大健康",
+
+  "enchantment.ensorcellation.volley": "追擊",
+  "enchantment.ensorcellation.volley.desc": "連射三箭只消耗一箭",
+
+  "enchantment.ensorcellation.vorpal": "瞬殺",
+  "enchantment.ensorcellation.vorpal.desc": "隨機觸發爆擊和斬首",
+
+  "enchantment.ensorcellation.weeding": "除草",
+  "enchantment.ensorcellation.weeding.desc": "在耕種時清除植物"
+}

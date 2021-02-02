@@ -1,0 +1,18 @@
+{
+  "block.entangled.block": "量子糾纏方塊",
+  "item.entangled.item": "量子糾纏綁定器",
+  "entangled.entangled_block.info.ranged_same_dimension": "在同個維度可綁定方塊,距離最多%d格",
+  "entangled.entangled_block.info.infinite_same_dimension": "在同個維度可綁定方塊",
+  "entangled.entangled_block.info.ranged_other_dimension": "可綁定最多%d格方塊,或其他維度的方塊",
+  "entangled.entangled_block.info.infinite_other_dimension": "可綁定其他方塊",
+  "entangled.entangled_block.unbind": "方塊未綁定!",
+  "entangled.entangled_block.no_selection": "方塊未選擇!",
+  "entangled.entangled_block.self": "不能綁定方塊到它本身!",
+  "entangled.entangled_block.bind": "方塊已綁定!",
+  "entangled.entangled_block.wrong_dimension": "目標方塊必須在同一個維度!",
+  "entangled.entangled_block.too_far": "目標方塊距離過遠!",
+  "entangled.entangled_binder.info": "可將量子糾纏方塊綁定至其他方塊",
+  "entangled.entangled_binder.info.target": "在 %4$s 連結到 (%1$d, %2$d, %3$d) ",
+  "entangled.entangled_binder.select": "方塊已選擇!",
+  "entangled.entangled_binder.clear": "連結已清除!"
+}
