@@ -1337,7 +1337,7 @@
 	"create.tooltip.randomWipDescription5": "這玩意真的沒用， 我騙你幹嘛",
 	"create.tooltip.randomWipDescription6": "如果你使用這個東西， 那麽本作者與它造成的任何後果沒有責任.",
 	"create.tooltip.randomWipDescription7": "這玩意不是給你用的， 換個吧",
-	
+
 	"item.create.schematic.tooltip.summary": "可以放置在世界中的結構,根據需要放置全像圖,並使用_藍圖加農砲_進行構建。",
 	"item.create.schematic.tooltip.condition1": "當全像圖存在時",
 	"item.create.schematic.tooltip.behaviour1": "可以使用螢幕上的工具定位",
@@ -1780,5 +1780,5 @@
 	"create.tooltip.randomWipDescription6": "如果你使用這個東西，那麼本作者與它造成的任何後果沒有責任。",
 	"create.tooltip.randomWipDescription7": "這玩意不是給你用的，換個吧",
 
-	"create.tooltip.randomWipDescription8": "試試就逝世",
+	"create.tooltip.randomWipDescription8": "試試就逝世"
 }
