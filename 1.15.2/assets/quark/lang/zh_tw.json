@@ -1,5 +1,4 @@
 {
-
         "quark.gui.button.sort": "儲存",
 	"quark.gui.button.sort_inventory": "儲存至物品欄",
 	"quark.gui.button.sort_container": "儲存至容器",
@@ -8,6 +7,7 @@
 	"quark.gui.button.filter": "整理",
 	"quark.gui.button.emotes": "表情",
 	"quark.gui.button.back": "返回",
+	"quark.gui.button.shift_lock": "Shift鎖定",
   
         "quark.gui.enchanting.min": "最小值: %d",
 	"quark.gui.enchanting.influence": "蠟燭影響: +%d%%",
