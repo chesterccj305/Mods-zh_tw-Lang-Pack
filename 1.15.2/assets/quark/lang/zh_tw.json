@@ -21,11 +21,11 @@
 	"quark.gui.keygroup.inv": "夸克物品欄",
 	"quark.gui.keygroup.emote": "夸克表情",
 	
-	"quark.gui.qbutton_info.title": "q Button Info (READ ME)",
+	"quark.gui.qbutton_info.title": "q按鈕資訊 (READ ME)",
 	"quark.gui.qbutton_info.open": "開啟檔案",
 	"quark.gui.qbutton_info.back": "返回",
-	"quark.gui.qbutton_info": "Ingame configuration in newer versions of the game is currently not possible. For now, this will only open the config folder. You'll have to find \"quark-common.toml\" and open it. This is a text file, so you can open it with any text editor (such as Notepad). Changes to the file will apply in real time to your world when you save it.",
-
+	"quark.gui.qbutton_info": "在新版本中的遊戲內組態設定已不可用。現在這只能在config資料夾中開啟。你需要找到quark-common.toml檔案並開啟。這是一個文字檔，所以你能用任何文字編輯器開啟它 (例如 Notepad)。在存檔後的任何改動將會即刻影響你的世界存檔。",
+  
  
 	"quark.camera.filter": "過濾器: ",
 	"quark.camera.filter.none": "無",	
@@ -50,7 +50,7 @@
 	"quark.camera.filter.blobs": "水彩",
 	"quark.camera.filter.pencil": "鉛筆",
 	"quark.camera.filter.watercolor": "負片",
-	"quark.camera.filter.sobel": "Sobel",
+	"quark.camera.filter.sobel": "索貝爾",
 
 	"quark.camera.rulers": "標尺: ",
 	"quark.camera.rulers0": "無",
@@ -75,11 +75,11 @@
 
 	"quark.camera.header": "相機模式",
 	"quark.camera.info": "[按%s 退出；按ENTER 拍照]",
-	"quark.camera.reset": "Reset Settings (Must Sneak)",
-	"quark.camera.greetings": "Greetings from %s!",
+	"quark.camera.reset": "重設設定 (必須潛行)",
+	"quark.camera.greetings": "來自 %s 的問候!",
 
   
-        "quark.jei.makes_copy": "Makes Copy",
+        "quark.jei.makes_copy": "製作副本",
 	
   
         "quark.keybind.change_hotbar": "切換快捷欄",
