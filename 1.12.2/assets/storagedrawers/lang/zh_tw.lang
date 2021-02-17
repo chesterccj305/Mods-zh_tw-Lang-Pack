@@ -192,7 +192,7 @@ storagedrawers.config.prop.defaultQuantify.tooltip=放置時抽屜顯示數量�
 storagedrawers.config.prop.keepContentsOnBreak=在休息時保留內容
 storagedrawers.config.prop.keepContentsOnBreak.tooltip=抽屜在損壞時始終保留其物品並進行升級。
 
-storagedrawers.config.addons=擴展包
+storagedrawers.config.addons=擴充包
 storagedrawers.config.addons.tooltip=設定顯示獨立的擴充包標籤。
 
 storagedrawers.config.addons.showNEI=在NEI中顯示擴充包方塊。
@@ -203,15 +203,15 @@ storagedrawers.config.addons.tooltip=設定顯示獨立的擴充包標籤。
 storagedrawers.config.integration=連動設定
 storagedrawers.config.integration.tooltip=設定本模組與其它模組之間的相關性。
 
-storagedrawers.config.integration.enableAE2=允許關聯應用能源2
-storagedrawers.config.integration.enableWaila=允許關聯WAILA顯示
-storagedrawers.config.integration.enableThaumcraft=允許關聯秘術時代
-storagedrawers.config.integration.enableMineTweaker=允許關聯MineTweaker
+storagedrawers.config.integration.enableAE2=允許連動應用能源2
+storagedrawers.config.integration.enableWaila=允許連動WAILA顯示
+storagedrawers.config.integration.enableThaumcraft=允許連動秘術時代
+storagedrawers.config.integration.enableMineTweaker=允許連動MineTweaker
 
 storagedrawers.config.registries=註冊表
 storagedrawers.config.registries.tooltip=壓縮規則與礦物的設置
 
 storagedrawers.config.registries.compRules=壓縮規則
 storagedrawers.config.registries.registerExtraCompRules=註冊額外的壓縮規則
-storagedrawers.config.registries.oreWhitelist=礦石表白名單
-storagedrawers.config.registries.oreBlacklist=礦石表黑名單
+storagedrawers.config.registries.oreWhitelist=礦物辭典白名單
+storagedrawers.config.registries.oreBlacklist=礦物辭典黑名單
