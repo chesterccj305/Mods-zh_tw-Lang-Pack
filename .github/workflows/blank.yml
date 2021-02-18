@@ -43,8 +43,7 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: Snapshot-${{ github.run_number }}
-          file: ./zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+          file: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           prerelease: true
           overwrite: true 
-          browser_download_url: ""
