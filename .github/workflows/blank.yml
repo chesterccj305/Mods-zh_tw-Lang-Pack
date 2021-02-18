@@ -35,11 +35,16 @@ jobs:
      #   with:
       #    name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
        #   path: 1.12.2/
+       
       - uses: papeloto/action-zip@v1 #zipped file 1.15.2
         with:
           files: 1.15.2/
           dest: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
-      - name: Upload release
+      - uses: papeloto/action-zip@v1 #zipped file 1.12.2
+        with:
+          files: 1.12.2/
+          dest: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+      - name: Upload 1.15.2 release
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
@@ -49,3 +54,10 @@ jobs:
           prerelease: true
           overwrite: true 
           body: "版本編號:${{ github.run_number }}"
+      - name: Upload 1.12.2 release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          tag: Snapshot-${{ github.run_number }}
+          file: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+          asset_name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
