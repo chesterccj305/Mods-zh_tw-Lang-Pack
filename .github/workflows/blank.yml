@@ -47,3 +47,5 @@ jobs:
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           prerelease: true
           overwrite: true 
+          boby: "${{ browser_download_url }}"
+          browser_download_url: ""
