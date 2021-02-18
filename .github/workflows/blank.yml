@@ -30,17 +30,17 @@ jobs:
         with:
           name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           path: 1.15.2/
-      - name: "Upload Artifact 1.12.2"
-        uses: actions/upload-artifact@v1
-        with:
-          name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
-          path: 1.12.2/
+   #   - name: "Upload Artifact 1.12.2"
+    #    uses: actions/upload-artifact@v1
+     #   with:
+      #    name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+       #   path: 1.12.2/
       - name: Upload release
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: Snapshot-${{ github.run_number }}
-          file: 1.15.2/
+          file: 1.15.2/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           prerelease: true
           overwrite: true
