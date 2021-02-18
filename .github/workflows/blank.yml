@@ -24,7 +24,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
+      - uses: actions/download-artifact@v2
+        with:
+         path: /artifact
+    
       - name: "Upload Artifact 1.15.2"
         uses: actions/upload-artifact@v1
         with:
@@ -35,13 +38,15 @@ jobs:
      #   with:
       #    name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
        #   path: 1.12.2/
+      - name: download 1.15.2 artifact
+        run: ls -R
+        working-directory: /artifact
       - name: Upload release
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: Snapshot-${{ github.run_number }}
-          file: 1.15.2/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+          file: /artifact/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           prerelease: true
-          overwrite: true
-          body: "最新版本發布 版本號 ${{ github.run_number }}"
+          overwrite: true 
