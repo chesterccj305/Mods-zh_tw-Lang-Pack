@@ -41,7 +41,7 @@ jobs:
           files: 1.15.2/
           dest: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
       - name: Upload release
-        uses: svenstaro/upload-release-action@v2
+      - uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: Snapshot-${{ github.run_number }}
