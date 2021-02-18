@@ -1,0 +1,51 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+      - name: "Upload Artifact 1.15.2"
+        uses: actions/upload-artifact@v1
+        with:
+          name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+          path: Mods-zh_tw-Lang-Pack/1.15.2/
+      - name: "Upload Artifact 1.12.2"
+        uses: actions/upload-artifact@v1
+        with:
+          name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+          path: Mods-zh_tw-Lang-Pack/1.12.2/
+
+      - name: Upload release 1.15.2
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: Mods-zh_tw-Lang-Pack/1.15.2/
+          asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+          tag: Snapshot-${{ github.run_number }}
+          prerelease: true
+          overwrite: true
+          body: "最新版本發布 版本號 $github.run_number"
