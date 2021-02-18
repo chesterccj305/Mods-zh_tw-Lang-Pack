@@ -1,6 +1,5 @@
 {
-
-        "quark.gui.button.sort": "儲存",
+	"quark.gui.button.sort": "儲存",
 	"quark.gui.button.sort_inventory": "儲存至物品欄",
 	"quark.gui.button.sort_container": "儲存至容器",
 	"quark.gui.button.insert": "存入",
@@ -8,6 +7,7 @@
 	"quark.gui.button.filter": "整理",
 	"quark.gui.button.emotes": "表情",
 	"quark.gui.button.back": "返回",
+	"quark.gui.button.shift_lock": "Shift鎖定",
   
         "quark.gui.enchanting.min": "最小值: %d",
 	"quark.gui.enchanting.influence": "蠟燭影響: +%d%%",
@@ -20,12 +20,38 @@
 	"quark.gui.keygroup.misc": "夸克雜項",
 	"quark.gui.keygroup.inv": "夸克物品欄",
 	"quark.gui.keygroup.emote": "夸克表情",
+	"quark.gui.keygroup.accessibility": "夸克協助",
 	
-	"quark.gui.qbutton_info.title": "q Button Info (READ ME)",
-	"quark.gui.qbutton_info.open": "開啟檔案",
-	"quark.gui.qbutton_info.back": "返回",
-	"quark.gui.qbutton_info": "Ingame configuration in newer versions of the game is currently not possible. For now, this will only open the config folder. You'll have to find \"quark-common.toml\" and open it. This is a text file, so you can open it with any text editor (such as Notepad). Changes to the file will apply in real time to your world when you save it.",
+	"quark.gui.config.save": "儲存變更",
+	"quark.gui.config.social.website": "夸克網站",
+	"quark.gui.config.social.discord": "Discord",
+	"quark.gui.config.social.patreon": "Patreon",
+	"quark.gui.config.social.reddit": "Reddit",
+	"quark.gui.config.social.twitter": "Twitter",
+	"quark.gui.config.header": "%s設定",
+	"quark.gui.config.subheader1": "感謝 %s%s%s 等人的支持才有夸克模組。",
+	"quark.gui.config.subheader2": "請在 Patreon 上支持我們， 可獲得很酷的獎勵喔 ！",
+	"quark.gui.config.default": "設為預設值",
+	"quark.gui.config.discard": "放棄修改",
+	"quark.gui.config.subcategories": "------- 子項目類別 -------",
+	"quark.gui.config.onechild": "1 個子項目",
+	"quark.gui.config.nchildren": "%d 個子項目",
+	"quark.gui.config.bday": "祝 %s 生日快樂 ！",
+	"quark.gui.config.defaultvalue": "預設： %s",
+	"quark.gui.config.missingaddon": "你缺少這個類別必須的額外模組",
 
+	"quark.category.general": "一般設定",
+	"quark.category.friends": "搭配模組設定",
+	"quark.category.automation": "自動化",
+	"quark.category.building": "建築",
+	"quark.category.management": "管理",
+	"quark.category.tools": "工具",
+	"quark.category.tweaks": "調整",
+	"quark.category.world": "世界",
+	"quark.category.mobs": "生物",
+	"quark.category.client": "客戶端",
+	"quark.category.oddities": "奇物",
+	"quark.category.experimental": "實驗性",
  
 	"quark.camera.filter": "過濾器: ",
 	"quark.camera.filter.none": "無",	
@@ -50,7 +76,7 @@
 	"quark.camera.filter.blobs": "水彩",
 	"quark.camera.filter.pencil": "鉛筆",
 	"quark.camera.filter.watercolor": "負片",
-	"quark.camera.filter.sobel": "Sobel",
+	"quark.camera.filter.sobel": "索貝爾",
 
 	"quark.camera.rulers": "標尺: ",
 	"quark.camera.rulers0": "無",
@@ -75,11 +101,11 @@
 
 	"quark.camera.header": "相機模式",
 	"quark.camera.info": "[按%s 退出；按ENTER 拍照]",
-	"quark.camera.reset": "Reset Settings (Must Sneak)",
-	"quark.camera.greetings": "Greetings from %s!",
+	"quark.camera.reset": "重設設定 (必須潛行)",
+	"quark.camera.greetings": "來自 %s 的問候!",
 
   
-        "quark.jei.makes_copy": "Makes Copy",
+        "quark.jei.makes_copy": "製作副本",
 	
   
         "quark.keybind.change_hotbar": "切換快捷欄",
