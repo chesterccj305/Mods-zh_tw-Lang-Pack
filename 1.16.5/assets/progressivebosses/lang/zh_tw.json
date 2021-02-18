@@ -1,8 +1,0 @@
-{
-  "item.progressivebosses.nether_star_shard": "地獄之星碎片",
-  "wither.minion": "凋零奴僕",
-  "dragon.larva": "幼龍",
-  "dragon.minion": "龍奴僕",
-  "command.get_player_boss_data": "[%s]\n召喚凋零： %d\n殺死龍: %d",
-  "command.set_player_boss_data": "[%s]\n將 %s 難度設置為: %d"
-}

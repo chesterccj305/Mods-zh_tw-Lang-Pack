@@ -1,8 +1,0 @@
-{
-  "block.portal.noLink": "傳送門未連結,右擊 ",
-  "block.portal.linked": "傳送門連結到%s",
-  "block.javd.portal_block" : "虛空傳送門",
-  "block.javd.void_portal_block" : "虛空傳送門",
-  "biome.javd.void" : "The Void",
-  "block.javd.void_portal_block.name" : "虛空傳送門"
-}
