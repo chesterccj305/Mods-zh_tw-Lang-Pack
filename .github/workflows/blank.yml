@@ -48,4 +48,4 @@ jobs:
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           prerelease: true
           overwrite: true 
-          boby: "版本編號:${{ github.run_number }}"
+          body: "版本編號:${{ github.run_number }}"
