@@ -35,15 +35,15 @@ jobs:
      #   with:
       #    name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
        #   path: 1.12.2/
-      - uses: actions/download-artifact@v2
-      - name: download 1.15.2 artifact
-        run: ls -R
+      #- uses: actions/download-artifact@v2
+      #- name: download 1.15.2 artifact
+       # run: ls -R
       - name: Upload release
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           tag: Snapshot-${{ github.run_number }}
-          file: ~~/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+          file: ./zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           prerelease: true
           overwrite: true 
