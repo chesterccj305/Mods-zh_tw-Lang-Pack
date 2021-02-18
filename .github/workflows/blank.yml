@@ -40,8 +40,8 @@ jobs:
           tag: Snapshot-${{ github.run_number }}
           file: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
-          prerelease: true
           overwrite: true 
+          body: "模組繁體中文資源包 快照版本:${{ github.run_number }}發布囉!\n下載教學:\n![test](https://media.discordapp.net/attachments/808603449285410846/811837383301529610/unknown.png)\n看到下方的Assets把選單打開，接著找到您要下載的版本點下去就可以下載囉!!!"
       - name: Upload 1.12.2 release
         uses: svenstaro/upload-release-action@v2
         with:
@@ -49,15 +49,14 @@ jobs:
           tag: Snapshot-${{ github.run_number }}
           file: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
           asset_name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
-          body: "模組繁體中文資源包 快照版本:${{ github.run_number }}發布囉!\n下載教學:\n![test](https://media.discordapp.net/attachments/808603449285410846/811837383301529610/unknown.png)\n看到下方的Assets把選單打開，接著找到您要下載的版本點下去就可以下載囉!!!"
 
       - name: "Upload Artifact 1.15.2"
         uses: actions/upload-artifact@v1
         with:
            name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
-           path: 1.15.2/
+           path: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
       - name: "Upload Artifact 1.12.2"
         uses: actions/upload-artifact@v1
         with:
           name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
-          path: 1.12.2/
+          path: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
