@@ -48,4 +48,3 @@ jobs:
           prerelease: true
           overwrite: true 
           boby: "${{ browser_download_url }}"
-          browser_download_url: ""
