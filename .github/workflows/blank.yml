@@ -32,18 +32,18 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
-          path: Mods-zh_tw-Lang-Pack/1.15.2/
+          path: 1.15.2/
       - name: "Upload Artifact 1.12.2"
         uses: actions/upload-artifact@v1
         with:
           name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
-          path: Mods-zh_tw-Lang-Pack/1.12.2/
+          path: 1.12.2/
 
       - name: Upload release 1.15.2
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: Mods-zh_tw-Lang-Pack/1.15.2/
+          file: 1.15.2/
           asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
           tag: Snapshot-${{ github.run_number }}
           prerelease: true
