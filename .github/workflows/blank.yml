@@ -1,0 +1,62 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+       
+      - uses: papeloto/action-zip@v1 #zipped file 1.15.2
+        with:
+          files: 1.15.2/
+          dest: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+      - uses: papeloto/action-zip@v1 #zipped file 1.12.2
+        with:
+          files: 1.12.2/
+          dest: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+      - name: Upload 1.15.2 release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          tag: Snapshot-${{ github.run_number }}
+          file: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+          asset_name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+          overwrite: true 
+          body: "模組繁體中文資源包 快照版本:${{ github.run_number }}發布囉!\n下載教學:\n![test](https://media.discordapp.net/attachments/808603449285410846/811837383301529610/unknown.png)\n看到下方的Assets把選單打開，接著找到您要下載的版本點下去就可以下載囉!!!"
+      - name: Upload 1.12.2 release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          tag: Snapshot-${{ github.run_number }}
+          file: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+          asset_name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+
+      - name: "Upload Artifact 1.15.2"
+        uses: actions/upload-artifact@v1
+        with:
+           name: zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+           path: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.15.2-${{ github.run_number }}.zip
+      - name: "Upload Artifact 1.12.2"
+        uses: actions/upload-artifact@v1
+        with:
+          name: zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+          path: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
