@@ -1,0 +1,159 @@
+{
+	"itemGroup.immersivepetroleum": "沉浸石油",
+	
+	"_comment": "################## Blocks ##################",
+	
+	"block.immersivepetroleum.fluid_diesel": "柴油",
+	"block.immersivepetroleum.fluid_crude_oil": "原油",
+	"block.immersivepetroleum.fluid_lubricant": "潤滑油",
+	"block.immersivepetroleum.fluid_gasoline": "汽油",
+	"block.immersivepetroleum.fluid_napalm": "凝固汽油",
+	
+	"block.immersivepetroleum.asphalt": "瀝青混凝土",
+	
+	"block.immersivepetroleum.auto_lubricator": "自動潤滑器",
+	"block.immersivepetroleum.gas_generator": "攜帶式發電機",
+	"block.immersivepetroleum.flarestack": "焰囪",
+	
+	"block.immersivepetroleum.pumpjack": "抽油機",
+	"block.immersivepetroleum.distillationtower": "蒸餾塔",
+	
+	"fluid.immersivepetroleum.diesel": "柴油",
+	"fluid.immersivepetroleum.oil": "原油",
+	"fluid.immersivepetroleum.lubricant": "潤滑油",
+	"fluid.immersivepetroleum.gasoline": "汽油",
+	"fluid.immersivepetroleum.napalm": "凝固汽油",
+	
+	"_comment": "################## Items ##################",
+	
+	"item.immersivepetroleum.projector": "投影儀",
+	"item.immersivepetroleum.projector.specific": "%s 投影儀",
+	"item.immersivepetroleum.speedboat": "汽艇",
+	"item.immersivepetroleum.oil_can": "潤滑油罐",
+	
+	"item.immersivepetroleum.bitumen": "瀝青",
+	"item.immersivepetroleum.petcoke": "石油焦",
+	"item.immersivepetroleum.diesel_bucket": "柴油桶",
+	"item.immersivepetroleum.oil_bucket": "原油桶",
+	"item.immersivepetroleum.lubricant_bucket": "潤滑油桶",
+	"item.immersivepetroleum.gasoline_bucket": "汽油桶",
+	"item.immersivepetroleum.napalm_bucket": "凝固汽油桶",
+	
+	"item.immersivepetroleum.upgrade_reinforced_hull": "加強型船體",
+	"item.immersivepetroleum.upgrade_icebreaker": "破冰弓",
+	"item.immersivepetroleum.upgrade_tank": "擴展油箱",
+	"item.immersivepetroleum.upgrade_rudders": "機動舵",
+	"item.immersivepetroleum.upgrade_paddles": "緊急槳",
+	
+	"_comment": "################## Descriptions ##################",
+	
+	"_comment":"Replaced the IP with IE to save me from headaches. ~TwistedGate",
+	"desc.immersiveengineering.info.multiblock.IE:DistillationTower": "蒸餾塔",
+	"desc.immersiveengineering.info.multiblock.IE:Pumpjack": "抽油機",
+	
+	"desc.immersivepetroleum.info.reservoir.oil": "儲油層",
+	"desc.immersivepetroleum.info.reservoir.aquifer": "含水層",
+	"desc.immersivepetroleum.info.reservoir.lava": "岩漿層",
+	
+	"desc.immersivepetroleum.flavour.upgrade_reinforced_hull": "使汽艇具有防火性能，並提高了安全水平",
+	"desc.immersivepetroleum.flavour.upgrade_icebreaker": "允許汽艇摧毀冰塊並撞擊小怪",
+	"desc.immersivepetroleum.flavour.upgrade_tank": "增加了汽艇的油箱容量",
+	"desc.immersivepetroleum.flavour.upgrade_rudders": "允許汽艇轉彎半徑更小",
+	"desc.immersivepetroleum.flavour.upgrade_paddles": "在沒有燃料時可以划槳汽艇",
+	
+	"desc.immersivepetroleum.flavour.asphalt": "將步行速度提高 %1$s",
+	
+	"_comment": "This is for the upgrade list of the speedboat tooltip",
+	"desc.immersivepetroleum.flavour.speedboat0": "升級",
+	
+	"desc.immersivepetroleum.info.projector.noMultiblock": "右鍵點擊以打開選單",
+	"desc.immersivepetroleum.info.projector.size": "大小: %d x %d x %d",
+	"desc.immersivepetroleum.info.projector.build0": "顯示指令",
+	"desc.immersivepetroleum.info.projector.build1": "用於製作 %s",
+	"desc.immersivepetroleum.info.projector.center": "以 [%d, %d, %d] 為中心",
+	
+	"desc.immersivepetroleum.info.projector.flipped.true": "鏡像：是",
+	"desc.immersivepetroleum.info.projector.flipped.false": "鏡像：否",
+	
+	"desc.immersivepetroleum.info.projector.rotated.north":"向北旋轉",
+	"desc.immersivepetroleum.info.projector.rotated.east":  "向東旋轉",
+	"desc.immersivepetroleum.info.projector.rotated.south": "向南旋轉",
+	"desc.immersivepetroleum.info.projector.rotated.west": "向西旋轉",
+	
+	"desc.immersivepetroleum.info.projector.mode_0": "選擇模式",
+	"desc.immersivepetroleum.info.projector.mode_1": "投影模式",
+	
+	"desc.immersivepetroleum.info.projector.holdshift": "按住Shift",
+	"desc.immersivepetroleum.info.projector.holdshift.text": "用於設置",
+	
+	"desc.immersivepetroleum.info.projector.holdctrl": "按住Ctrl",
+	"desc.immersivepetroleum.info.projector.holdctrl.text": "用於控制方案",
+	
+	"desc.immersivepetroleum.info.projector.control1": "Shift +向上/向下滾動以旋轉",
+	"desc.immersivepetroleum.info.projector.control2": "%s 鏡像",
+	"desc.immersivepetroleum.info.projector.control3": "指向空氣 潛行+右鍵單擊以更改模式",
+	
+	"_comment": "################## GUI ##################",
+	
+	"gui.immersivepetroleum.projector.search": "搜索",
+	"gui.immersivepetroleum.projector.button.confirm": "確認",
+	"gui.immersivepetroleum.projector.button.cancel": "取消",
+	"gui.immersivepetroleum.projector.button.mirror": "鏡像",
+	"gui.immersivepetroleum.projector.button.rcw": "順時針旋轉",
+	"gui.immersivepetroleum.projector.button.rccw": "逆時針旋轉",
+	
+	"_comment": "################## IE-Manual ##################",
+	
+	"effect.immersivepetroleum.anti_fire": "",
+	
+	"_comment": "################## IE-Manual ##################",
+	
+	"manual.immersivepetroleum.main": "石油加工",
+	
+	"ie.manual.entry.blank_text": "",
+	
+	"ie.manual.entry.reservoirs.title": "流體儲罐",
+	"ie.manual.entry.reservoirs.subtitle": "黑金",
+	
+	"ie.manual.entry.reservoirs.oil0": "你在基岩層附近挖礦時，偶然注意到了一些粘稠的黑色可燃物質。你提出了「那層不可破壞的岩層下還有更多石油儲藏」的假設，但很明顯，你已無法鑽探到更深的地方了。\n\n但在 <link;immersivepetroleum:pumpjack;§o§n特殊設計的設備§r> 的幫助下，你最終終於觸碰到了哪些寶貴的燃料來源。<np>",
+	"ie.manual.entry.reservoirs.oil1": "<link;minerals;§o§n岩芯鑽井§r>可以探明某區塊內是否有石油儲藏及具體儲量。\n\n儘管油田會枯竭，採油機仍能從枯竭的油田中抽出少量石油（最多<config;i;oil_replenish> mB/t）。需要注意的是，用多台採油機並不能提高枯竭的油田的產量。<np>",
+	
+	"ie.manual.entry.reservoirs.consonant": "一個",
+	"ie.manual.entry.reservoirs.vowel": "一個",
+	
+	"ie.manual.entry.reservoirs.dim.valid": "%3$s §l%1$s§r是一種可以在%2$s中找到的儲液器。",
+	"ie.manual.entry.reservoirs.dim.invalid": "%3$s §l%1$s§r是一種流體儲層，可以在%2$s之外的任何地方找到。",
+	"ie.manual.entry.reservoirs.dim.any": "%2$s §l%1$s§r是一種可以在任何尺寸中找到的儲液器。",
+	
+	"ie.manual.entry.reservoirs.bio.valid": "此儲存庫將在%s個生物群系中生成。",
+	"ie.manual.entry.reservoirs.bio.invalid": "此儲存庫將不會在%s個生物群系中生成。",
+	"ie.manual.entry.reservoirs.bio.any": "此儲層將在任何生物群落中產生。",
+	
+	"ie.manual.entry.reservoirs.content": "%1$s %6$s\n它包含%2$s.%5$s的 %3$s 至 %4$s mB",
+	"ie.manual.entry.reservoirs.replenish": "\n在水庫耗儘後，可以通過單個抽油機抽取%1$d mB/tick %2$s",
+	
+	"_comment": "################## Chat ##################",
+	
+	"chat.immersivepetroleum.command.help.help": "§6Usage: /ip help <command> [sub-commands ...]§r\nTo get more info on the specified command or, optionally, its sub commands",
+	"chat.immersivepetroleum.command.reservoir.help": "§6Usage: /ip reservoir <list|get|set|setAmount|setCapacity>§r",
+	"chat.immersivepetroleum.command.reservoir.list.help": "§6Usage: /ip reservoir list§r<br> Lists all registered reservoirs",
+	"chat.immersivepetroleum.command.reservoir.get.help": "§6Usage: /ip reservoir get§r<br> Displays the reservoir for the chunk",
+	"chat.immersivepetroleum.command.reservoir.set.help": "§6Usage: /ip reservoir set [reservoir]§r<br> Sets a reservoir override for the chunk. Specify no reservoir to clear the override.",
+	"chat.immersivepetroleum.command.reservoir.setAmount.help": "§6Usage: /ip reservoir setAmount <number>§r<br> Set the amount of mB of fluid left inside the chunk.",
+	"chat.immersivepetroleum.command.reservoir.setCapacity.help": "§6Usage: /ip reservoir setCapacity <number>§r<br> Set the maximum amount of mB of fluid in the chunk.",
+	"chat.immersivepetroleum.command.reservoir.get": "Chunk contains: %1$s <br>Override: %2$s <br>Amount: %3$s",
+	"chat.immersivepetroleum.command.reservoir.set.invalidReservoir": "§c無效的容器, '%1$s' is not a valid identifier. Use '/ip reservoir list' for a list of all identifiers.§r",
+	"chat.immersivepetroleum.command.reservoir.set.sucess": "將水庫替代設置為: %1$s",
+	"chat.immersivepetroleum.command.reservoir.set.clear": "已清除存儲庫覆蓋。 (%1$s)",
+	"chat.immersivepetroleum.command.reservoir.setAmount.sucess": "儲水箱數量設置為: %1$s",
+	"chat.immersivepetroleum.command.reservoir.setAmount.NFE": "錯誤, '%1$s'不是有效數字",
+	"chat.immersivepetroleum.command.reservoir.setCapacity.sucess": "存儲容量設置為: %1$s",
+	"chat.immersivepetroleum.command.reservoir.setCapacity.NFE": "錯誤, '%1$s'不是有效數字",
+	
+	"chat.immersivepetroleum.info.coresample.oil": "%s 儲層",
+	"chat.immersivepetroleum.info.coresample.oilRep": "直到 %d mB/tick %s的刻度",
+	"chat.immersivepetroleum.info.coresample.noOil": "無儲液器",
+	
+	"key.categories.immersivepetroleum": "沉浸石油",
+	"key.immersivepetroleum.projector.flip": "鏡面投影"
+}
