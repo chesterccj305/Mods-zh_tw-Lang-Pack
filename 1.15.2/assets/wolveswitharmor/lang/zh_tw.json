@@ -1,0 +1,12 @@
+{
+  "item.wolveswitharmor.leather_wolf_armor": "皮革狼鎧",
+  "item.wolveswitharmor.golden_wolf_armor": "黃金狼鎧",
+  "item.wolveswitharmor.iron_wolf_armor": "鐵製狼鎧",
+  "item.wolveswitharmor.diamond_wolf_armor": "鑽石狼鎧",
+  "item.wolveswitharmor.netherite_wolf_armor": "獄髓狼鎧",
+
+  "itemGroup.wolveswitharmor.group": "狼鎧甲",
+
+  "wolveswitharmor.tooltip.when_equipped": "狼裝備後獲得:",
+  "wolveswitharmor.tooltip.bonus": " +%s 護甲"
+}
