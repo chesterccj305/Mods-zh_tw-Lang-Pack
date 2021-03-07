@@ -1,0 +1,22 @@
+{
+  "itemGroup.inmis.backpack": "Inmis",
+
+  "ui.inmis.backpack": "背包",
+
+  "item.inmis.baby_backpack": "嬰兒背包",
+  "item.inmis.ender_pouch": "終界提袋",
+
+  "item.inmis.frayed_backpack": "皮草背包",
+  "item.inmis.plated_backpack": "鐵製背包",
+  "item.inmis.gilded_backpack": "黃金背包",
+  "item.inmis.bejeweled_backpack": "寶石背包",
+  "item.inmis.blazing_backpack": "熾炎背包",
+  "item.inmis.withered_backpack": "凋零背包",
+  "item.inmis.endless_backpack": "無盡背包",
+
+  "inmis.advancement.baby_backpack.title": "禮包",
+  "inmis.advancement.baby_backpack.description": "送禮最好選擇!",
+
+  "category.inmis.keybindings": "Inmis",
+  "key.inmis.open_backpack": "打開背包"
+}
