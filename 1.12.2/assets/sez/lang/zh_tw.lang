@@ -1,0 +1,10 @@
+item.bluestone.name=SCP令牌
+tile.admin_bottom.name=管理部門底部方塊
+tile.admin_top.name=管理部門頂部方塊
+tile.maintain_bottom.name=維護部門底部方塊
+tile.maintain_top.name=維護部門頂部方塊
+tile.entrance_bottom.name=入口區域底部方塊
+tile.entrance_top.name=入口區域頂部方塊
+tile.middle_wall.name=基礎牆方塊
+
+itemGroup.scpextrazonestab=SCP額外區域

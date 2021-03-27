@@ -15,12 +15,6 @@
 
 1.12.2版本 特別感謝
 
-v1版
-
-黒羽紫音
-
-danny600306、 Johnsonyan、龜龜、 林阿爸、土窯雞沒左手、擬珊瑚蛇、小江、閒者納孜、默默無名的邊緣人
-
 v2版
 
 簡體中文漢化資源包
@@ -29,3 +23,10 @@ https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
 在 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 之下基于简体中文包繁化
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+
+v1版
+
+黒羽紫音
+
+danny600306、 Johnsonyan、龜龜、 林阿爸、土窯雞沒左手、擬珊瑚蛇、小江、閒者納孜、默默無名的邊緣人
+

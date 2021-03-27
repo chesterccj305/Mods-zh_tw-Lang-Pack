@@ -119,7 +119,7 @@
   
   "block.upgrade_aquatic.bedroll_leather": "床單",
   "block.upgrade_aquatic.bedroll_white": "白色床單",
-  "block.upgrade_aquatic.bedroll_black": "Black床單",
+  "block.upgrade_aquatic.bedroll_black": "黑色床單",
   "block.upgrade_aquatic.bedroll_red": "紅色床單",
   "block.upgrade_aquatic.bedroll_blue": "藍色床單",
   "block.upgrade_aquatic.bedroll_green": "綠色床單",
@@ -343,8 +343,42 @@
   "block.upgrade_aquatic.driftwood_button": "浮木按鈕",
   "block.upgrade_aquatic.driftwood_door": "浮木門",
   "block.upgrade_aquatic.driftwood_trapdoor": "浮木地板門",
+  "block.upgrade_aquatic.driftwood_vertical_planks": "豎紋浮木木材",
+  "block.upgrade_aquatic.driftwood_vertical_slab": "浮木直立半磚",
+  "block.upgrade_aquatic.driftwood_bookshelf": "浮木書櫃",
+  "block.upgrade_aquatic.driftwood_ladder": "浮木梯子",
+  "block.upgrade_aquatic.driftwood_sign": "浮木告示牌",
+  "block.upgrade_aquatic.driftwood_wall_sign": "浮木告示牌",
+    
+  "block.upgrade_aquatic.river_leaves": "河流木樹葉",
+  "block.upgrade_aquatic.river_sapling": "河流木樹苗",
+  "block.upgrade_aquatic.river_leaf_carpet": "河流木樹葉地毯",
+  "block.upgrade_aquatic.river_log": "河流木原木",
+  "block.upgrade_aquatic.river_wood": "河流木塊",
+  "block.upgrade_aquatic.stripped_river_log": "剝皮河流木原木",
+  "block.upgrade_aquatic.stripped_river_wood": "剝皮河流木塊",
+  "block.upgrade_aquatic.river_planks": "河流木木材",
+  "block.upgrade_aquatic.river_stairs": "河流木階梯",
+  "block.upgrade_aquatic.river_slab": "河流木半磚",
+  "block.upgrade_aquatic.river_fence": "河流木柵欄",
+  "block.upgrade_aquatic.river_fence_gate": "河流木柵欄門",
+  "block.upgrade_aquatic.river_pressure_plate": "河流木壓力板",
+  "block.upgrade_aquatic.river_button": "河流木按鈕",
+  "block.upgrade_aquatic.river_door": "河流木門",
+  "block.upgrade_aquatic.river_trapdoor": "河流木地板門",
+  "block.upgrade_aquatic.vertical_river_planks": "豎紋河流木木材",
+  "block.upgrade_aquatic.river_vertical_slab": "河流木直立半磚b",
+  "block.upgrade_aquatic.river_bookshelf": "河流木書櫃",
+  "block.upgrade_aquatic.river_ladder": "河流木梯子",
+  "block.upgrade_aquatic.river_sign": "河流木告示牌",
+  "block.upgrade_aquatic.river_wall_sign": "河流木告示牌",
+  "block.upgrade_aquatic.river_chest": "河流木儲物箱",
+  "block.upgrade_aquatic.river_trapped_chest": "河流木陷阱儲物箱",
   
   "block.upgrade_aquatic.flowering_rush": "燈心草花",
+  "block.upgrade_aquatic.mulberry_vine": "桑樹藤",
+  
+  "block.upgrade_aquatic.mulberry_jam_block": "桑椹醬塊",
   
   "block.upgrade_aquatic.prismarine_rod_bundle": "海磷棒捆",
   
@@ -354,14 +388,10 @@
   "block.upgrade_aquatic.beachgrass_thatch_slab": "沙灘茅草半磚",
   "block.upgrade_aquatic.beachgrass_thatch_stairs": "沙灘茅草階梯",
   
-  "block.upgrade_aquatic.driftwood_vertical_planks": "豎紋浮木木材",
-  "block.upgrade_aquatic.driftwood_vertical_slab": "浮木直立半磚",
-  "block.upgrade_aquatic.driftwood_bookshelf": "浮木書櫃",
-  "block.upgrade_aquatic.driftwood_ladder": "浮木梯子",
   "block.upgrade_aquatic.beachgrass_thatch_vertical_slab": "沙灘茅草直立半磚",
   "block.upgrade_aquatic.tooth_vertical_slab": "牙齒直立半磚",
   "block.upgrade_aquatic.tooth_brick_vertical_slab": "牙齒磚直立半磚",
-  "block.upgrade_aquatic.kelpy_cobblestone_vertical_slab": "Kelp鵝卵石直立半磚",
+  "block.upgrade_aquatic.kelpy_cobblestone_vertical_slab": "海帶鵝卵石直立半磚",
   "block.upgrade_aquatic.tongue_kelpy_cobblestone_vertical_slab": "舌海帶鵝卵石直立半磚",
   "block.upgrade_aquatic.thorny_kelpy_cobblestone_vertical_slab": "棘海帶鵝卵石直立半磚",
   "block.upgrade_aquatic.ochre_kelpy_cobblestone_vertical_slab": "赭海帶鵝卵石直立半磚",
@@ -394,6 +424,7 @@
   "_comment2": "Items",
   
   "item.upgrade_aquatic.driftwood_boat": "浮木船",
+  "item.upgrade_aquatic.river_boat": "河流木船",
   
   "item.upgrade_aquatic.prismarine_rod": "海磷棒",
   "item.upgrade_aquatic.thrasher_tooth": "長尾鮫的牙齒",
@@ -402,14 +433,17 @@
   "item.upgrade_aquatic.pike_bucket": "狗魚桶",
   "item.upgrade_aquatic.lionfish_bucket": "獅子魚桶",
   "item.upgrade_aquatic.squid_bucket": "烏賊桶",
+  "item.upgrade_aquatic.jellyfish_bucket": "水母桶",
 
   "item.upgrade_aquatic.drowned_villager_spawn_egg": "沉屍村民 生怪蛋",
   "item.upgrade_aquatic.nautilus_spawn_egg": "鸚鵡螺 生怪蛋",
   "item.upgrade_aquatic.pike_spawn_egg": "狗魚 生怪蛋",
   "item.upgrade_aquatic.lionfish_spawn_egg": "獅子魚 生怪蛋",
-  "item.upgrade_aquatic.thrasher_spawn_egg": "長尾鮫生怪蛋",
-  "item.upgrade_aquatic.great_thrasher_spawn_egg": "巨型長尾鮫生怪蛋",
-  "item.upgrade_aquatic.flare_spawn_egg": "光魅生怪蛋",
+  "item.upgrade_aquatic.thrasher_spawn_egg": "長尾鮫 生怪蛋",
+  "item.upgrade_aquatic.great_thrasher_spawn_egg": "巨型長尾鮫 生怪蛋",
+  "item.upgrade_aquatic.flare_spawn_egg": "光魅 生怪蛋",
+  "item.upgrade_aquatic.goose_spawn_egg": "鵝 生怪蛋",
+  "item.upgrade_aquatic.jellyfish_spawn_egg": "水母 生怪蛋",
   
   "item.upgrade_aquatic.boiled_pickerelweed_purple": "熟紫色海壽",
   "item.upgrade_aquatic.boiled_pickerelweed_blue": "熟藍色海壽",
@@ -417,6 +451,10 @@
   "item.upgrade_aquatic.pike_cooked": "熟狗魚",
   "item.upgrade_aquatic.lionfish": "生獅子魚",
   "item.upgrade_aquatic.lionfish_cooked": "熟獅子魚",
+  
+  "item.upgrade_aquatic.mulberry": "桑椹",
+  "item.upgrade_aquatic.mulberry_jam_bottle": "桑椹醬瓶",
+  "item.upgrade_aquatic.mulberry_bread": "桑椹麵包",
   
   "_comment3": "工具提示",
   
@@ -442,6 +480,27 @@
   "tooltip.upgrade_aquatic.lemon_southern_pike": "檸檬南方狗魚",
   "tooltip.upgrade_aquatic.golden_southern_pike": "金南方狗魚",
   
+  "tooltip.upgrade_aquatic.box_jellyfish": "盒水母",
+  "tooltip.upgrade_aquatic.red_box_jellyfish": "紅盒水母",
+  "tooltip.upgrade_aquatic.white_box_jellyfish": "白盒水母",
+  
+  "tooltip.upgrade_aquatic.cassiopea_jellyfish": "卡西歐豌豆水母",
+  "tooltip.upgrade_aquatic.blue_cassiopea_jellyfish": "藍色仙后座水母",
+  "tooltip.upgrade_aquatic.white_cassiopea_jellyfish": "白色仙后座水母",
+  
+  "tooltip.upgrade_aquatic.immortal_jellyfish": "“不朽水母",
+  
+  "tooltip.upgrade_aquatic.yielding_jellytorch": "產量: ",
+  "tooltip.upgrade_aquatic.yielding_jellytorch.or": " 或 ",
+  "tooltip.upgrade_aquatic.jellytorch_blue": "藍色果凍火炬",
+  "tooltip.upgrade_aquatic.jellytorch_green": "綠色果凍火炬",
+  "tooltip.upgrade_aquatic.jellytorch_yellow": "黃色果凍火炬",
+  "tooltip.upgrade_aquatic.jellytorch_orange": "橙色果凍火炬",
+  "tooltip.upgrade_aquatic.jellytorch_red": "紅色果凍火炬",
+  "tooltip.upgrade_aquatic.jellytorch_pink": "粉紅色果凍火炬",
+  "tooltip.upgrade_aquatic.jellytorch_purple": "紫色果凍火炬",
+  "tooltip.upgrade_aquatic.jellytorch_white": "白色果凍火炬",
+  
   "_comment4": "實體",
   
   "entity.upgrade_aquatic.nautilus": "鸚鵡螺",
@@ -450,6 +509,13 @@
   "entity.upgrade_aquatic.thrasher": "長尾鮫",
   "entity.upgrade_aquatic.great_thrasher": "巨型長尾鮫",
   "entity.upgrade_aquatic.flare": "光魅",
+  "entity.upgrade_aquatic.ululu": "烏魯魯",
+  "entity.upgrade_aquatic.sonar_wave": "聲納波",
+  "entity.upgrade_aquatic.goose": "鵝",
+  
+  "entity.upgrade_aquatic.box_jellyfish": "盒水母",
+  "entity.upgrade_aquatic.cassiopea_jellyfish": "卡西歐豌豆水母",
+  "entity.upgrade_aquatic.immortal_jellyfish": "不朽水母",
   
   "_comment5": "藥水與效果",
   
@@ -473,19 +539,19 @@
   "item.minecraft.tipped_arrow.effect.restfulness": "安寧之箭",
   "item.minecraft.tipped_arrow.effect.restfulness_strong": "安寧之箭",
   
-  "effect.upgrade_aquatic.repellence": "Repellence",
-  "item.minecraft.potion.effect.repellence": "藥水Repellence",
-  "item.minecraft.potion.effect.repellence_strong": "藥水Repellence",
-  "item.minecraft.potion.effect.repellence_long": "藥水Repellence",
-  "item.minecraft.splash_potion.effect.repellence": "飛濺 藥水Repellence",
-  "item.minecraft.splash_potion.effect.repellence_strong": "飛濺 藥水Repellence",
-  "item.minecraft.splash_potion.effect.repellence_long": "飛濺 藥水Repellence",
-  "item.minecraft.lingering_potion.effect.repellence": "滯溜 藥水Repellence",
-  "item.minecraft.lingering_potion.effect.repellence_strong": "滯溜 藥水Repellence",
-  "item.minecraft.lingering_potion.effect.repellence_long": "滯溜 藥水Repellence",
-  "item.minecraft.tipped_arrow.effect.repellence": "之箭Repellence",
-  "item.minecraft.tipped_arrow.effect.repellence_strong": "之箭Repellence",
-  "item.minecraft.tipped_arrow.effect.repellence_long": "之箭Repellence",
+  "effect.upgrade_aquatic.repellence": "排斥",
+  "item.minecraft.potion.effect.repellence": "排斥藥水",
+  "item.minecraft.potion.effect.repellence_strong": "排斥藥水",
+  "item.minecraft.potion.effect.repellence_long": "排斥藥水",
+  "item.minecraft.splash_potion.effect.repellence": "飛濺 排斥藥水",
+  "item.minecraft.splash_potion.effect.repellence_strong": "飛濺 排斥藥水",
+  "item.minecraft.splash_potion.effect.repellence_long": "飛濺 排斥藥水",
+  "item.minecraft.lingering_potion.effect.repellence": "滯溜 排斥藥水",
+  "item.minecraft.lingering_potion.effect.repellence_strong": "滯溜 排斥藥水",
+  "item.minecraft.lingering_potion.effect.repellence_long": "滯溜 排斥藥水",
+  "item.minecraft.tipped_arrow.effect.repellence": "排斥之箭",
+  "item.minecraft.tipped_arrow.effect.repellence_strong": "排斥之箭",
+  "item.minecraft.tipped_arrow.effect.repellence_long": "排斥之箭",
   
   "effect.upgrade_aquatic.vibing": "震動",
   "item.minecraft.potion.effect.vibing": "震動藥水",
@@ -507,6 +573,7 @@
   "death.attack.upgrade_aquatic.guardianSpine.player": "%1$s在躲避%2$s中，被深海守衛脊柱刺死",
   "death.attack.upgrade_aquatic.elderGuardianSpine": "%1$s被遠古深海守衛脊柱刺死",
   "death.attack.upgrade_aquatic.elderGuardianSpine.player": "%1$s在躲避%2$s中，被遠古深海守衛脊柱刺死",
+  "death.attack.upgrade_aquatic.jellyfishSting": "%1$s被%2$s刺死",
   
   "_comment7": "Advancements",
   
@@ -519,6 +586,9 @@
   "advancements.adventure.kill_great_thrasher.title": "將需要更大的船",
   "advancements.adventure.kill_great_thrasher.description": "殺死巨型長尾鮫",
   
+  "advancements.adventure.sleep_underwater.title": "跟魚睡覺",
+  "advancements.adventure.sleep_underwater.description": "在水下使用床單",
+  
   "advancements.nether.sleepless_slave.title": "失眠的奴隸",
   "advancements.nether.sleepless_slave.description": "利用失眠的夜魅來創造光魅",
   
@@ -529,5 +599,18 @@
   "advancements.husbandry.eat_pickerelweed.description": "吸食煮過的海壽來重獲水泡泡",
   
   "advancements.husbandry.collect_all_pike.title": "狗魚世界巡演",
-  "advancements.husbandry.collect_all_pike.description": "在桶中收集狗魚的每種類"
+  "advancements.husbandry.collect_all_pike.description": "在桶中收集狗魚的每種類",
+  
+  "advancements.husbandry.pick_mulberries.title": "低掛水果",
+  "advancements.husbandry.pick_mulberries.description": "從河流木上摘桑椹",
+  
+  "_comment8": "字幕",
+  
+  "subtitles.upgrade_aquatic.thrasher.hurt": "長尾鮫受傷",
+  "subtitles.upgrade_aquatic.thrasher.ambient": "長尾鮫咆哮",
+  "subtitles.upgrade_aquatic.thrasher.death": "長尾鮫死亡",
+  "subtitles.upgrade_aquatic.thrasher.thrash": "Thrasher thrashes",
+  "subtitles.upgrade_aquatic.thrasher.flop": "Thrasher flops",
+  "subtitles.upgrade_aquatic.thrasher.sonar_fire": "Thrasher fires sonar"
+  
 }

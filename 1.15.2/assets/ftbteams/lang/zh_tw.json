@@ -1,0 +1,14 @@
+{
+	"ftbteams.no_gui_library": "未發現FTB GUI Library模組!沒有它你只能使用指令",
+	"ftbteams.already_in_team": "你已經組隊了!",
+	"ftbteams.not_in_team": "你未創建或加入隊伍!",
+	"ftbteams.team_not_found": "未發現隊伍'%s'!",
+	"ftbteams.not_owner": "你不是%s的所有者!",
+	"ftbteams.not_member": "%s不再是%s的成員!",
+	"ftbteams.not_invited": "你未被受邀加入隊伍%s!",
+	"ftbteams.info.id": "隊伍ID: %s",
+	"ftbteams.info.owner": "所有者: %s",
+	"ftbteams.info.members": "成員:",
+	"ftbteams.list": "所有隊伍: %s",
+	"ftbteams.property_not_found": "未發現此ID!"
+}

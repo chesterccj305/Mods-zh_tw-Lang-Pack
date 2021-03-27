@@ -67,7 +67,7 @@
   "tooltip.pickletweaks.buff_list_item": " - %s%s %s",
   "tooltip.pickletweaks.empty": "空",
   "tooltip.pickletweaks.filled": "已填寫",
-  "tooltip.pickletweaks.disabled": "已禁用",
+  "tooltip.pickletweaks.disabled": "已停用",
   "tooltip.pickletweaks.enabled": "已啟用",
   "tooltip.pickletweaks.mining_level": "採礦等級: %s",
   "tooltip.pickletweaks.mining_speed": "採礦速度: %s",

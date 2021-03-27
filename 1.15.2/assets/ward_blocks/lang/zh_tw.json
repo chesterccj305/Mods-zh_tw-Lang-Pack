@@ -1,0 +1,21 @@
+{
+	"item.ward_blocks.health_ward_block": "健康守護方塊",
+	"block.ward_blocks.health_ward_block": "健康守護方塊",
+
+	"item.ward_blocks.growth_ward_block": "成長守護方塊",
+	"block.ward_blocks.growth_ward_block": "成長守護方塊",
+	
+	"item.ward_blocks.attack_ward_block": "攻擊守護方塊",
+	"block.ward_blocks.attack_ward_block": "攻擊守護方塊",
+
+	"item.ward_blocks.defense_ward_block": "防禦守護方塊",
+	"block.ward_blocks.defense_ward_block": "防禦守護方塊",
+	
+	"item.ward_blocks.exp_ward_block": "經驗守護方塊",
+	"block.ward_blocks.exp_ward_block": "經驗守護方塊",
+
+	"item.ward_blocks.loot_ward_block": "戰利品守護方塊",
+	"block.ward_blocks.loot_ward_block": "戰利品守護方塊",
+												
+	"itemGroup.ward_blocks.ward_blocks_group": "守護方塊"
+}

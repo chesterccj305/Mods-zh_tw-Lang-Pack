@@ -1,0 +1,51 @@
+
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+    
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+       
+      - uses: papeloto/action-zip@v1 #zipped file 1.15.2
+        with:
+          files: 1.15.2/
+          dest: zh_tw-1.15.2+S-${{ github.run_number }}.zip
+      - uses: papeloto/action-zip@v1 #zipped file 1.12.2
+        with:
+          files: 1.12.2/
+          dest: zh_tw-1.12.2+S-${{ github.run_number }}.zip
+      - name: Upload 1.15.2 release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          tag: Snapshot-${{ github.run_number }}
+          file: ${{ github.workspace }}/zh_tw-1.15.2+S-${{ github.run_number }}.zip
+          asset_name: zh_tw-1.15.2+S-${{ github.run_number }}.zip
+          overwrite: true 
+          body: "模組繁體中文資源包 快照版本:${{ github.run_number }}發布囉!\n更新內容: [${{ github.event.head_commit.message }}](https://github.com/chesterccj305/Mods-zh_tw-Lang-Pack/commit/${{ github.sha }})\n看到下方的Assets把選單打開，接著找到您要下載的版本點下去就可以下載囉!!!"
+      - name: Upload 1.12.2 release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          tag: Snapshot-${{ github.run_number }}
+          file: ${{ github.workspace }}/zh_tw-1.12.2+S-${{ github.run_number }}.zip
+          asset_name: zh_tw-1.12.2+S-${{ github.run_number }}.zip
+
+      - name: "Upload Artifact 1.15.2"
+        uses: actions/upload-artifact@v1
+        with:
+           name: zh_tw-1.15.2+S-${{ github.run_number }}.zip
+           path: ${{ github.workspace }}/zh_tw-1.15.2+S-${{ github.run_number }}.zip
+      - name: "Upload Artifact 1.12.2"
+        uses: actions/upload-artifact@v1
+        with:
+          name: zh_tw-1.12.2+S-${{ github.run_number }}.zip
+          path: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
