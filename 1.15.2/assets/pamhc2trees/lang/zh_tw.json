@@ -20,7 +20,7 @@
 "block.pamhc2trees.pamsoursop": "釋迦果實",
 
 "block.pamhc2trees.pamalmond": "杏仁果實",
-"block.pamhc2trees.pamapricot": "杏果實",
+"block.pamhc2trees.pamapricot": "李子果實",
 "block.pamhc2trees.pambanana": "香蕉果實",
 "block.pamhc2trees.pamcashew": "腰果果實",
 "block.pamhc2trees.pamcinnamon": "肉桂果實原木",
@@ -73,7 +73,7 @@
 "block.pamhc2trees.soursop_sapling": "釋迦樹苗",
 
 "block.pamhc2trees.almond_sapling": "杏仁樹苗",
-"block.pamhc2trees.apricot_sapling": "杏樹苗",
+"block.pamhc2trees.apricot_sapling": "李子樹苗",
 "block.pamhc2trees.banana_sapling": "香蕉樹苗",
 "block.pamhc2trees.cashew_sapling": "腰果樹苗",
 "block.pamhc2trees.cinnamon_sapling": "肉桂樹苗 ",
@@ -124,7 +124,7 @@
 "item.pamhc2trees.soursopitem": "釋迦",
 
 "item.pamhc2trees.almonditem": "杏仁",
-"item.pamhc2trees.apricotitem": "杏",
+"item.pamhc2trees.apricotitem": "李子",
 "item.pamhc2trees.bananaitem": "香蕉",
 "item.pamhc2trees.cashewitem": "腰果",
 "item.pamhc2trees.cinnamonitem": "肉桂",
