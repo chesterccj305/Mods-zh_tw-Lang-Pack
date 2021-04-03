@@ -26,6 +26,7 @@
   "item.pickletweaks.diamond_apple": "鑽石蘋果",
   "item.pickletweaks.emerald_apple": "綠寶石蘋果",
   "item.pickletweaks.watering_can": "灑水器",
+  "item.pickletweaks.reinforced_watering_can": "Reinforced Watering Can",
   "item.pickletweaks.grass_fiber": "草纖維",
   "item.pickletweaks.grass_fiber_mesh": "草纖維網格",
   "item.pickletweaks.mesh": "網格",
@@ -62,6 +63,25 @@
   "item.pickletweaks.diamond_paxel": "鑽石鎬尖斧",
   "item.pickletweaks.flint_paxel": "燧石鎬尖斧",
   "item.pickletweaks.emerald_paxel": "綠寶石鎬尖斧",
+  "item.pickletweaks.netherite_paxel": "獄髓鎬尖斧",
+  
+  "item.pickletweaks.wooden_sickle": "木銍",
+  "item.pickletweaks.stone_sickle": "石銍",
+  "item.pickletweaks.iron_sickle": "鐵銍",
+  "item.pickletweaks.golden_sickle": "金銍",
+  "item.pickletweaks.diamond_sickle": "鑽石銍",
+  "item.pickletweaks.flint_sickle": "燧石銍",
+  "item.pickletweaks.emerald_sickle": "綠寶石銍",
+  "item.pickletweaks.netherite_sickle": "獄髓銍",
+
+  "item.pickletweaks.wooden_scythe": "木鐮刀",
+  "item.pickletweaks.stone_scythe": "石鐮刀",
+  "item.pickletweaks.iron_scythe": "鐵鐮刀",
+  "item.pickletweaks.golden_scythe": "金鐮刀",
+  "item.pickletweaks.diamond_scythe": "鑽石鐮刀",
+  "item.pickletweaks.flint_scythe": "燧石鐮刀",
+  "item.pickletweaks.emerald_scythe": "綠寶石鐮刀",
+  "item.pickletweaks.netherite_scythe": "獄髓鐮刀",
 
   "tooltip.pickletweaks.gives_buffs": "給予增益",
   "tooltip.pickletweaks.buff_list_item": " - %s%s %s",
@@ -73,5 +93,10 @@
   "tooltip.pickletweaks.mining_speed": "採礦速度: %s",
   "tooltip.pickletweaks.ammo": "彈藥: %s",
   "tooltip.pickletweaks.broken": "破碎",
-  "tooltip.pickletweaks.harvest_level": "收穫等級: %s"
+  "tooltip.pickletweaks.harvest_level": "收穫等級: %s",
+  "tooltip.pickletweaks.useless_tool_1": "此工具無法開採任何東西。",
+  "tooltip.pickletweaks.useless_tool_2": "只能用於手工製作。",
+  "tooltip.pickletweaks.useless_hoe_1": "這把鋤頭什麼也做不了。",
+  "tooltip.pickletweaks.useless_weapon_1": "此武器不能傷害任何東西。",
+  "tooltip.pickletweaks.useless_bow_1": "這把弓不能射出任何東西。"
 }

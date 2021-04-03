@@ -103,7 +103,7 @@ item.products_coal.name=煤渣
 item.bottle_trinitrotoluene.name=三硝基甲苯
 
 tile.tnt_true.name=TNT
-tile.tnt.name=火藥爆炸
+tile.tnt.name=TNT
 
 //generator
 generator.Smooth=平滑
