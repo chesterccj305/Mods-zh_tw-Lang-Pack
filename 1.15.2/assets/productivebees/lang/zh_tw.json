@@ -14,7 +14,7 @@
 	"item.productivebees.stone_chip.named": "%s 碎屑",
 	"item.productivebees.milk_bottle": "牛奶瓶",
 	"item.productivebees.honey_bucket": "蜂蜜桶",
-	"item.productivebees.honey_treat": "蜂蜜誘餌",
+	"item.productivebees.honey_treat": "蜂蜜點心",
 	"item.productivebees.bee_bomb": "蜜蜂炸彈",
 	"item.productivebees.bee_bomb_angry": "憤怒蜜蜂爆彈",
 	"item.productivebees.gene_bottle": "瓶裝基因樣本",
@@ -433,7 +433,7 @@
 	"advancements.husbandry.consume_sugarbag_comb.title": "蜂蜜蜂蜜真是美味!",
 	"advancements.husbandry.consume_sugarbag_comb.description": "享用一個糖袋蜂巢",
 	"advancements.husbandry.treat_on_nest.title": "對我好一點!",
-	"advancements.husbandry.treat_on_nest.description": "在蜂巢上放蜂蜜當誘餌",
+	"advancements.husbandry.treat_on_nest.description": "在蜂巢上放蜂蜜點心",
 	"advancements.husbandry.feeding_slab.title": "我想要那個跟那個還有那個",
 	"advancements.husbandry.feeding_slab.description": "製作一個餵食板. 你可以在餵食板上灑滿飼料讓蜜蜂可以方便食用",
 	"advancements.husbandry.honeylogged.title": "雙重報應!",
@@ -565,7 +565,7 @@
 	"productivebees.top.solitary.bee": "居民: %s",
 	"productivebees.top.solitary.egg_count": "蛋: %s",
 	"productivebees.top.solitary.repopulation_countdown": "重新填充冷卻時間 %s",
-	"productivebees.top.solitary.repopulation_countdown_inactive": "此蜂巢是空的。 用蜂蜜來吸引蜜蜂。",
+	"productivebees.top.solitary.repopulation_countdown_inactive": "此蜂巢是空的。 用蜂蜜點心來吸引蜜蜂。",
 	"productivebees.top.solitary.can_repopulate_true": "蜂巢可以在這裡吸引蜜蜂。",
 	"productivebees.top.solitary.can_repopulate_false": "這裡沒有蜜蜂會移入這個蜂巢中。"
 }
