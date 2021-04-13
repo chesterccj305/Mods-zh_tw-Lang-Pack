@@ -34,7 +34,7 @@
   "advancements.astralsorcery.craft_t4_altar.title": "我要飛得更高",
   "advancements.astralsorcery.craft_t4_altar.desc": "合成五彩祭壇",
   "advancements.astralsorcery.find_constellation.title": "我看見你了",
-  "advancements.astralsorcery.find_constellation.desc": "用望遠鏡觀測一個明亮的星",
+  "advancements.astralsorcery.find_constellation.desc": "用望遠鏡觀測一個明亮的星座",
   "advancements.astralsorcery.find_minor_constellation.title": "有人在嗎",
   "advancements.astralsorcery.find_minor_constellation.desc": "用瞭望台觀測一個朦朧的星座",
   "advancements.astralsorcery.find_weak_constellation.title": "有時要瞇起眼",
@@ -165,13 +165,13 @@
   "astralsorcery.journal.research.brilliance": "輝煌",
 
   "astralsorcery.journal.node.WELCOME.name": "歡迎",
-  "astralsorcery.journal.WELCOME.1.text": "恭喜您選擇在星空學院中進行本科魔法學習.您手中的星輝寶典已由學院的講師特別準備,在您學習期間提供學習指南. 每個星輝魔法單元都連結到至此,並根據您的進度自動擴展可用的訊息.<NL>通過這種方式,不需要我們的教授直接指導,您也能夠持續前進,",
-  "astralsorcery.journal.WELCOME.2.text": "以最適合您的速度學習需求. <NL>別誤會這代表這很容易學習.與其他的學習機構相比,本學院以畢業生的素質自豪,並需要證明您熟悉了'星能'操作原理,需要這本星輝寶典以便進一步的訪問檔案館的教育資料. <NL>祝您有著快樂的學習旅程! <NL>-星光學院的教職員工.",
+  "astralsorcery.journal.WELCOME.1.text": "恭喜您選擇在星空學院中進行本科魔法學習。您手中的星輝寶典已由學院的講師特別準備，在您學習期間提供學習指南。每個星輝魔法單元都連結到至此，並根據您的進度自動擴展可用的訊息。<NL>通過這種方式，不需要我們的教授直接指導，您也能夠持續前進，",
+  "astralsorcery.journal.WELCOME.2.text": "以最適合您的速度學習需求。 <NL>別誤會這代表這很容易學習。與其他的學習機構相比，本學院以畢業生的素質自豪，並需要證明您熟悉了'星能'操作原理，需要這本星輝寶典以便進一步的訪問檔案館的教育資料。 <NL>祝您有著快樂的學習旅程! <NL>-星光學院的教職員工。",
 
   "astralsorcery.journal.node.SHRINES.name": "古代神殿",
-  "astralsorcery.journal.SHRINES.1.text": "為了有利於實地研究,本學院確定本區域內有著'古代神殿'.它們有著兩種變化:比較大且精緻的古代神殿,其中包含了對星能操作有用的水晶,比較小的古代神殿對於入門的研究組有用.兩者都包含了裝有學習用品的箱子,但確切的內容會基於上次誰起頭使用此位置而改變.大型古代神殿通常位於沒有樹梢的區域,像是沙漠或較冷的山頂.",
-  "astralsorcery.journal.SHRINES.2.text": "較大的古代神殿包含了聚能水晶樣本,可用於收集與操作星能.每個聚能水晶被調整至五個星座之一,且有明亮分類,為了對新來的學生最有效益.<NL>這些水晶雖是無可挑剔的,但它們是精製的但非純淨的,不應期望它能提供與練習過精湛工藝的水晶工匠做出的,有著相同的星能水平.由於相同的問題,無法提高這些晶體的性能.",
-  "astralsorcery.journal.SHRINES.3.text": "設置了特殊的保護,防止新生們帶走或修改這學習工具,維護本區所有新生都有使用權. <NL>本學院提醒所有新生,星能不能穿透不透明的固體材料.本學院安裝了屋頂覆蓋並包覆著它,是為了保護研究區域免受惡劣天氣和敵對生物的傷害.若要使用其中的水晶進行學習,必須拆除屋頂以收集星光.",
+  "astralsorcery.journal.SHRINES.1.text": "為了有利於實地研究，本學院確定本區域內有著'古代神殿'。它們有著兩種變化:比較大且精緻的古代神殿，其中包含了對星能操作有用的水晶，比較小的古代神殿對於入門的研究組有用。兩者都包含了裝有學習用品的箱子，但確切的內容會基於上次誰起頭使用此位置而改變。大型古代神殿通常位於沒有樹梢的區域，像是沙漠或較冷的山頂。",
+  "astralsorcery.journal.SHRINES.2.text": "較大的古代神殿包含了聚能水晶樣本，可用於收集與操作星能，每個聚能水晶被調整至五個星座之一，且有明亮分類，為了對新來的學生最有效益。<NL>這些水晶雖是無可挑剔的，但它們是精製的但非純淨的，不應期望它能提供與練習過精湛工藝的水晶工匠做出的，有著相同的星能水平。由於相同的問題，無法提高這些晶體的性能。",
+  "astralsorcery.journal.SHRINES.3.text": "設置了特殊的保護，防止新生們帶走或修改這學習工具，維護本區所有新生都有使用權。 <NL>本學院提醒所有新生，星能不能穿透不透明的固體材料。本學院安裝了屋頂覆蓋並包覆著它，是為了保護研究區域免受惡劣天氣和敵對生物的傷害。若要使用其中的水晶進行學習，必須拆除屋頂以收集星光。",
 
   "astralsorcery.journal.node.CPAPER.name": "星座圖",
   "astralsorcery.journal.CPAPER.1.text": "在古代神殿的箱子中,可以找到羊皮紙形式的學習用具. These parchments are attuned to the existing Academy archives and will reveal knowledge of an additional constellation to the user when first viewed, as long as their records show sufficient understanding of Starlight Manipulation concepts. Due to this, duplicate records will not be generated for any given initiate. Excess study materials should be left behind for other initiates. These papers can be stored within the 星輝寶典",
