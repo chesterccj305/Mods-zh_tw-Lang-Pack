@@ -1,0 +1,17 @@
+{
+  "itemGroup.bhcTab" : "心之容器",
+  "item.bhc.red_heart" : "微型紅心",
+  "item.bhc.yellow_heart" : "微型黃心",
+  "item.bhc.green_heart" : "微型綠心",
+  "item.bhc.blue_heart" : "微型藍心",
+  "item.bhc.canister" : "容器",
+  "item.bhc.red_heart_canister" : "紅心容器",
+  "item.bhc.yellow_heart_canister" : "黃心容器",
+  "item.bhc.green_heart_canister" : "綠心容器",
+  "item.bhc.blue_heart_canister" : "藍心容器",
+  "item.bhc.wither_bone" : "枯骨",
+  "item.bhc.relic_apple" : "遺留蘋果",
+  "item.bhc.heart_amulet" : "心之御守",
+  "container.bhc.heart_amulet" : "心之御守",
+  "tooltip.bhc.heartamulet": "右鍵開啟!"
+}
