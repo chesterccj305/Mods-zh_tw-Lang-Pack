@@ -21,9 +21,49 @@
   "origin.origins.elytrian.description": "鞘翅人經常在風中飛來飛去，當頭頂上方沒有足夠的空間時，它們會感到不舒服。",
 
   "origin.origins.enderian.name": "終界人",
-  "origin.origins.enderian.description": "終界龍的兒女，終界人能夠傳送，碰到水會受到傷害。",
+  "origin.origins.enderian.description": "終界龍的兒女，終界人能夠傳送，但碰到水會受到傷害。",
 
   "origin.origins.shulk.name": "界伏人",
-  "origin.origins.shulk.description": "與界伏蚌有關，界伏人的身體配有貝殼狀的皮膚。"
+  "origin.origins.shulk.description": "與界伏蚌有關，界伏人的身體配有貝殼狀的皮膚。",
+
+  "power.origins.water_breathing.name": "魚鰓",
+  "power.origins.water_breathing.description": "您可以在水下呼吸，但不能在陸地上呼吸。",
+
+  "power.origins.aqua_affinity.name": "親水性",
+  "power.origins.aqua_affinity.description": "您可以破壞塊水下的方塊，像陸地上的其他人一樣。",
+
+  "power.origins.water_vision.name": "水下視力",
+  "power.origins.water_vision.description": "您的水下視力是完美的。",
+
+  "power.origins.swim_speed.name": "鰭",
+  "power.origins.swim_speed.description": "您的水下速度提高了。",
+
+  "power.origins.like_water.name": "像水",
+  "power.origins.like_water.description": "在水下時，除非您想，否則不會向下沉。",
+
+  "power.origins.fragile.name": "脆弱",
+  "power.origins.fragile.description": "您的生命值比普通人少三。",
+
+  "power.origins.webbing.name": "織網",
+  "power.origins.webbing.description": "當您在近戰中擊中敵人時，他們會卡在蜘蛛網中。",
+
+  "power.origins.climbing.name": "攀爬",
+  "power.origins.climbing.description": "您可以爬任何類型的牆，不止限於爬梯子。",
+
+  "power.origins.carnivore.name": "肉食動物",
+  "power.origins.carnivore.description": "您只能吃肉類，不能吃蔬菜。",
+
+  "power.origins.fire_immunity.name": "防火",
+  "power.origins.fire_immunity.description": "您免疫所有類型的火焰傷害。",
+
+  "power.origins.nether_spawn.name": "地獄居民",
+  "power.origins.nether_spawn.description": "您的生成將在地獄中。",
+
+  "power.origins.burning_wrath.name": "燃燒之怒",
+  "power.origins.burning_wrath.description": "著火時，您的攻擊會造成額外的傷害。",
+
+  "power.origins.hotblooded.name": "熱血",
+  "power.origins.hotblooded.description": "由於身體發熱，毒液會快速揮發，使您免受毒物和飢餓狀態的影響。"
+
 
 }
