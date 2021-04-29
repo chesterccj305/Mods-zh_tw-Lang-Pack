@@ -1,11 +1,29 @@
 {
-    "origin.origins.human.name":"人類",
-    "origin.origins.human.description": "一個普通的人類，普通的Minecraft遊戲體驗",
+  "origin.origins.human.name": "人類",
+  "origin.origins.human.description": "一個普通的人類，普通的Minecraft遊戲體驗。",
 
-    "origin.origins.arachnid.name": "蛛形綱",
-  "origin.origins.arachnid.description": "蜘蛛網能夠把敵人困在蜘蛛網中和攀爬的能力使他們成為完美的獵人",
+  "origin.origins.arachnid.name": "蛛形綱",
+  "origin.origins.arachnid.description": "蜘蛛網能夠把敵人困在蜘蛛網中，也可以攀爬，使他們成為完美的獵人。",
 
-     "origin.origins.blazeborn.name": "烈焰族",
-  "origin.origins.blazeborn.description": "烈焰使者的後代，天生對地獄的各種險境免疫。"
+  "origin.origins.blazeborn.name": "烈焰族",
+  "origin.origins.blazeborn.description": "烈焰使者的後代，天生對地獄的各種險境免疫。",
+
+  "origin.origins.avian.name": "禽類",
+  "origin.origins.avian.description": "禽族已經失去了飛行的能力，這些和平的生物能夠從一個地方滑到另一個地方。",
+  
+  "origin.origins.phantom.name": "夜魅",
+  "origin.origins.phantom.description": "作為半人半夜魅的後代，這些生物可以在夜魅和正常形態之間切換。",
+
+  "origin.origins.feline.name": "貓科動物",
+  "origin.origins.feline.description": "有像貓一樣的外觀，嚇走了苦力怕 也有貓的靈巧性，它們可以安全地靠腳落地。",
+
+  "origin.origins.elytrian.name": "鞘翅人",
+  "origin.origins.elytrian.description": "鞘翅人經常在風中飛來飛去，當頭頂上方沒有足夠的空間時，它們會感到不舒服。",
+
+  "origin.origins.enderian.name": "終界人",
+  "origin.origins.enderian.description": "終界龍的兒女，終界人能夠傳送，碰到水會受到傷害。",
+
+  "origin.origins.shulk.name": "界伏人",
+  "origin.origins.shulk.description": "與界伏蚌有關，界伏人的身體配有貝殼狀的皮膚。"
 
 }
