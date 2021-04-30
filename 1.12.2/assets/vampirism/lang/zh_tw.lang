@@ -527,6 +527,7 @@ entity.vampirism.villager_converted.name=吸血鬼村民
 entity.vampirism.villager_vampire_faction.name=吸血鬼專家
 entity.vampirism.villager_hunter_faction.name=獵人專家
 item.vampirism.vampire_cloak.name=吸血鬼斗篷
+item.vampirism.garlic_bread.name=蒜蓉麵包
 effect.vampirism.poison=毒藥
 text.vampirism.cant_fly_garlic=你不能在大蒜的影響下飛行
 text.vampirism.poisonous_to_hunters=對獵人有毒
