@@ -39,13 +39,13 @@ jobs:
           file: ${{ github.workspace }}/zh_tw-1.12.2+S-${{ github.run_number }}.zip
           asset_name: zh_tw-1.12.2+S-${{ github.run_number }}.zip
 
-      - name: "Upload Artifact 1.15.2"
+      - name: "Upload Artifact 1.16.5"
         uses: actions/upload-artifact@v1
         with:
-           name: zh_tw-1.15.2+S-${{ github.run_number }}.zip
-           path: ${{ github.workspace }}/zh_tw-1.15.2+S-${{ github.run_number }}.zip
+           name: zh_tw-1.16.5+S-${{ github.run_number }}.zip
+           path: ${{ github.workspace }}/zh_tw-1.16.5+S-${{ github.run_number }}.zip
       - name: "Upload Artifact 1.12.2"
         uses: actions/upload-artifact@v1
         with:
           name: zh_tw-1.12.2+S-${{ github.run_number }}.zip
-          path: ${{ github.workspace }}/zh_tw-Lang-Pack+Snapshot-1.12.2-${{ github.run_number }}.zip
+          path: ${{ github.workspace }}/zh_tw-1.12.2+S-${{ github.run_number }}.zip
