@@ -19,13 +19,13 @@
       "title": "迷宮地圖",
       "item": "twilightforest:maze_map",
       "advancement": "twilightforest:alt/treasures/treasures/maze_map",
-      "text": "迷宮地圖可幫你查看迷宮的佈局。"
+      "text": "迷宮地圖可幫你檢視迷宮的佈局。"
     }, {
       "type": "spotlight",
       "title": "礦石地圖",
       "item": "twilightforest:ore_map",
       "advancement": "twilightforest:alt/treasures/treasures/ore_map",
-      "text": "礦石地圖可幫你查看地底下有什麼, 尤其是礦石。"
+      "text": "礦石地圖可幫你檢視地底下有什麼, 尤其是礦石。"
     }
   ]
 }

@@ -5,7 +5,7 @@
   "pages": [
 	{
 	  "type": "text",
-	  "text": "用於生產魔法絲線. 需要魔力來支持運轉"
+	  "text": "用於生產魔法絲線. 需要魔力才能運轉"
 	},
 	{
 	  "type": "crafting",
@@ -14,7 +14,7 @@
 	{
 	  "type": "bewitchment:spinning_wheel_recipe",
 	  "recipe": "bewitchment:cobweb",
-	  "text": "那些蜘蛛不會從你身上撈到什麽東西的"
+	  "text": "那些蜘蛛不會從你身上撈到什麼東西的"
 	},
 	{
 	  "type": "bewitchment:spinning_wheel_recipe",
