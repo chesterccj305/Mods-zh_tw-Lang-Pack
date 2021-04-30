@@ -28,12 +28,12 @@
         },
         {
             "type": "crush",
-            "name": "神秘粉塵",
+            "name": "神祕粉塵",
             "recipe": "hwell:myst_dust",
             "input1": "hwell:crushing_block",
             "input2": "hwell:myst_rod",
             "output": "hwell:myst_dust",
-            "text":"粉碎器可以從神秘水晶棒中獲取神秘粉塵."
+            "text":"粉碎器可以從神祕水晶棒中獲取神祕粉塵."
         },        
         {
             "type": "crush",

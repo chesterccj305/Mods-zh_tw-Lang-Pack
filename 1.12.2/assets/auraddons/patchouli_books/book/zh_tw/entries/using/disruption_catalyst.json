@@ -55,7 +55,7 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "從$(item)面包$()中提取$(item)小麥$()",
+            "text": "從$(item)麵包$()中提取$(item)小麥$()",
             "recipe": "auraddons:recipe_bread_disruption"
         },
         {
@@ -70,17 +70,17 @@
         },
         {
             "type": "naturesaura:altar",
-            "text": "移出$(item)唱片機$()裏的$(item)鑽石$()",
+            "text": "移出$(item)唱片機$()裡的$(item)鑽石$()",
             "recipe": "auraddons:recipe_jukebox_disruption"
         },
         {
             "type": "naturesaura:altar",
-            "text": "移出$(item)終界箱子$()裏的$(item)終界之眼$()",
+            "text": "移出$(item)終界箱子$()裡的$(item)終界之眼$()",
             "recipe": "auraddons:recipe_ender_chest_disruption"
         },
         {
             "type": "naturesaura:altar",
-            "text": "移出$(item)烽火台$()裏的$(item)下界之星$()",
+            "text": "移出$(item)烽火臺$()裡的$(item)下界之星$()",
             "recipe": "auraddons:recipe_beacon_disruption"
         }
     ]

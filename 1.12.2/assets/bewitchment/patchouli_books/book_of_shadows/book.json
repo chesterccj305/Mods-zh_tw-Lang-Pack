@@ -1,7 +1,7 @@
 {
   "name": "暗影之書",
   "version": "2",
-  "landing_text": "巫術是一種古老的魔法和自然藝術。這本書將指導你自己發現它的秘密。",
+  "landing_text": "巫術是一種古老的魔法和自然藝術。這本書將指導你自己發現它的祕密。",
   "model": "bewitchment:book_of_shadows",
   "book_texture": "bewitchment:textures/gui/book.png",
   "show_toasts": false,

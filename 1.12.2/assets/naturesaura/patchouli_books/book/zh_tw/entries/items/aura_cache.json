@@ -1,5 +1,5 @@
 {
-    "name": "靈氣緩存",
+    "name": "靈氣快取",
     "icon": "naturesaura:aura_cache",
     "category": "items",
     "advancement": "naturesaura:infused_materials",
@@ -7,11 +7,11 @@
     "pages": [
         {
             "type": "text",
-            "text": "使用$(l:collecting/altar)自然祭壇$()儲存周圍的$(#419600)靈氣$()固然不錯，但有更加的方便的方法來攜帶靈氣。在這種情況下，$(item)靈氣緩存$()顯得十分有用：它可以儲存$(#419600)靈氣$()以便隨時使用。$(br)若要填滿緩存，只需將其放置在$(item)自然祭壇$()上並等待$(#419600)靈氣$()進入。"
+            "text": "使用$(l:collecting/altar)自然祭壇$()儲存周圍的$(#419600)靈氣$()固然不錯，但有更加的方便的方法來攜帶靈氣。在這種情況下，$(item)靈氣快取$()顯得十分有用：它可以儲存$(#419600)靈氣$()以便隨時使用。$(br)若要填滿快取，只需將其放置在$(item)自然祭壇$()上並等待$(#419600)靈氣$()進入。"
         },
         {
             "type": "crafting",
-            "text": "合成$(item)靈氣緩存$()",
+            "text": "合成$(item)靈氣快取$()",
             "recipe": "naturesaura:aura_cache"
         }
     ]

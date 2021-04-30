@@ -17,7 +17,7 @@
     * [生物約束](restraint.md)
     * [鞣製皮革護甲](tanned_armor.md)
     * [煉獄之火](hellfire_dust.md)
-    * [地獄巖渣](ground_netherrack.md)
+    * [地獄岩渣](ground_netherrack.md)
     * [布料](fabric.md)
     * [食物](foods.md)
     * [麻繩](rope.md)
