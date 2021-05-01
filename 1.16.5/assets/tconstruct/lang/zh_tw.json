@@ -1,0 +1,1302 @@
+{
+    "_comment": "Tinkers Common",
+
+    "block.tconstruct.grout": "水泥漿",
+    "block.tconstruct.grout.tooltip": "我是格魯特!!(grout水泥)",
+
+    "block.tconstruct.sky_slime": "天空史萊姆方塊",
+    "block.tconstruct.sky_slime.tooltip": "與活塞一起使用",
+    "block.tconstruct.ender_slime": "終界史萊姆方塊",
+    "block.tconstruct.ender_slime.tooltip": "與活塞一起使用",
+    "block.tconstruct.blood_slime": "血史萊姆方塊",
+    "block.tconstruct.blood_slime.tooltip": "與活塞一起使用",
+    "block.tconstruct.ichor_slime": "神血史萊姆方塊",
+    "block.tconstruct.ichor_slime.tooltip": "與活塞一起使用",
+
+    "block.tconstruct.earth_congealed_slime": "凝結史萊姆塊",
+    "block.tconstruct.earth_congealed_slime.tooltip": "讓你跳得很高",
+    "block.tconstruct.sky_congealed_slime": "凝結天空史萊姆塊",
+    "block.tconstruct.sky_congealed_slime.tooltip": "讓你跳得很高",
+    "block.tconstruct.ender_congealed_slime": "凝結終界史萊姆塊",
+    "block.tconstruct.ender_congealed_slime.tooltip": "讓你跳得很高",
+    "block.tconstruct.blood_congealed_slime": "凝結血史萊姆塊",
+    "block.tconstruct.blood_congealed_slime.tooltip": "讓你跳得很高",
+    "block.tconstruct.ichor_congealed_slime": "凝結神血史萊姆塊",
+    "block.tconstruct.ichor_congealed_slime.tooltip": "讓你跳得很高",
+
+    "block.tconstruct.mud_bricks": "泥磚",
+    "block.tconstruct.mud_bricks_slab": "泥磚半磚",
+    "block.tconstruct.mud_bricks_stairs": "泥磚樓梯",
+
+    "block.tconstruct.lavawood": "熔木",
+    "block.tconstruct.lavawood_slab": "熔岩板",
+    "block.tconstruct.lavawood_stairs": "熔木樓梯",
+
+    "block.tconstruct.blazewood": "火焰木",
+    "block.tconstruct.blazewood_slab": "火焰木半磚",
+    "block.tconstruct.blazewood_stairs": "火焰木樓梯",
+
+    "block.tconstruct.clear_glass": "玻璃",
+    "block.tconstruct.clear_glass_pane": "玻璃片",
+    
+    "block.tconstruct.white_clear_stained_glass": "白色玻璃",
+    "block.tconstruct.orange_clear_stained_glass": "橙色玻璃",
+    "block.tconstruct.magenta_clear_stained_glass": "洋紅色玻璃",
+    "block.tconstruct.light_blue_clear_stained_glass": "淺藍色玻璃",
+    "block.tconstruct.yellow_clear_stained_glass": "黃色玻璃",
+    "block.tconstruct.lime_clear_stained_glass": "淺綠色玻璃",
+    "block.tconstruct.pink_clear_stained_glass": "粉紅色玻璃",
+    "block.tconstruct.gray_clear_stained_glass": "灰色玻璃",
+    "block.tconstruct.light_gray_clear_stained_glass": "淺灰色玻璃",
+    "block.tconstruct.cyan_clear_stained_glass": "青色玻璃",
+    "block.tconstruct.purple_clear_stained_glass": "紫色玻璃",
+    "block.tconstruct.blue_clear_stained_glass": "藍色玻璃",
+    "block.tconstruct.brown_clear_stained_glass": "棕色玻璃",
+    "block.tconstruct.green_clear_stained_glass": "綠色玻璃",
+    "block.tconstruct.red_clear_stained_glass": "紅色玻璃",
+    "block.tconstruct.black_clear_stained_glass": "黑色玻璃",
+    
+    "block.tconstruct.white_clear_stained_glass_pane": "白色玻璃片",
+    "block.tconstruct.orange_clear_stained_glass_pane": "橙色玻璃片",
+    "block.tconstruct.magenta_clear_stained_glass_pane": "洋紅色彩色玻璃片",
+    "block.tconstruct.light_blue_clear_stained_glass_pane": "淺藍色彩色玻璃片",
+    "block.tconstruct.yellow_clear_stained_glass_pane": "黃色玻璃片",
+    "block.tconstruct.lime_clear_stained_glass_pane": "淺綠色彩色玻璃片",
+    "block.tconstruct.pink_clear_stained_glass_pane": "粉紅玻璃片",
+    "block.tconstruct.gray_clear_stained_glass_pane": "灰色玻璃窗格",
+    "block.tconstruct.light_gray_clear_stained_glass_pane": "淺灰色彩色玻璃片",
+    "block.tconstruct.cyan_clear_stained_glass_pane": "青色彩色玻璃片",
+    "block.tconstruct.purple_clear_stained_glass_pane": "紫色彩色玻璃片",
+    "block.tconstruct.blue_clear_stained_glass_pane": "藍色玻璃片",
+    "block.tconstruct.brown_clear_stained_glass_pane": "棕色彩色玻璃片",
+    "block.tconstruct.green_clear_stained_glass_pane": "綠色玻璃片",
+    "block.tconstruct.red_clear_stained_glass_pane": "紅色玻璃片",
+    "block.tconstruct.black_clear_stained_glass_pane": "黑色玻璃片",
+
+    "block.tconstruct.soul_glass": "靈魂玻璃",
+    "block.tconstruct.soul_glass_pane": "靈魂玻璃片",
+
+    "block.tconstruct.glow": "輝光",
+    "block.tconstruct.silky_jewel_block": "絲綢寶石",
+    "block.tconstruct.silky_jewel_block.tooltip": "可用作信標庫",
+    
+    
+    "__comment": "礦石金屬",
+    
+    "block.tconstruct.copper_ore": "銅礦",
+    "block.tconstruct.copper_block": "銅方塊",
+    "block.tconstruct.copper_block.tooltip": "可用作信標庫",
+    "item.tconstruct.copper_ingot": "銅錠",
+    "item.tconstruct.copper_nugget": "銅塊",
+
+    "block.tconstruct.cobalt_ore": "鈷礦",
+    "block.tconstruct.cobalt_block": "鈷塊",
+    "block.tconstruct.cobalt_block.tooltip": "可用作信標庫",
+    "item.tconstruct.cobalt_ingot": "鈷錠",
+    "item.tconstruct.cobalt_nugget": "鈷塊",
+    
+    
+    "__comment": "3級金屬",
+    
+    "block.tconstruct.slimesteel_block": "史萊姆鋼塊",
+    "block.tconstruct.slimesteel_block.tooltip": "可用作信標庫",
+    "item.tconstruct.slimesteel_ingot": "史萊姆鋼錠",
+    "item.tconstruct.slimesteel_nugget": "史萊姆鋼塊",
+    
+    "block.tconstruct.tinkers_bronze_block": "匠魂青銅塊",
+    "block.tconstruct.tinkers_bronze_block.tooltip": "可用作信標庫",
+    "item.tconstruct.tinkers_bronze_ingot": "匠魂青銅錠",
+    "item.tconstruct.tinkers_bronze_nugget": "匠魂青銅塊",
+    
+    "block.tconstruct.rose_gold_block": "玫瑰金塊",
+    "block.tconstruct.rose_gold_block.tooltip": "可用作信標庫",
+    "item.tconstruct.rose_gold_ingot": "玫瑰金錠",
+    "item.tconstruct.rose_gold_nugget": "玫瑰金塊",
+    
+    "block.tconstruct.pig_iron_block": "生鐵塊(小豬鐵塊)",
+    "block.tconstruct.pig_iron_block.tooltip": "可用作信標庫",
+    "item.tconstruct.pig_iron_ingot": "生鐵錠(小豬鐵錠)",
+    "item.tconstruct.pig_iron_nugget": "生鐵塊(小豬鐵塊)",
+
+    
+    "__comment": "4級金屬",
+    
+    "block.tconstruct.manyullyn_block": "瑪玉靈塊",
+    "block.tconstruct.manyullyn_block.tooltip": "可用作信標庫",
+    "item.tconstruct.manyullyn_ingot": "瑪玉靈碇",
+    "item.tconstruct.manyullyn_nugget": "瑪玉靈塊",
+    
+    "block.tconstruct.hepatizon_block": "肝素塊",
+    "block.tconstruct.hepatizon_block.tooltip": "可用作信標庫",
+    "item.tconstruct.hepatizon_ingot": "肝素碇",
+    "item.tconstruct.hepatizon_nugget": "肝素塊",
+    
+    "block.tconstruct.queens_slime_block": "女王史萊姆塊",
+    "block.tconstruct.queens_slime_block.tooltip": "可用作信標庫",
+    "item.tconstruct.queens_slime_ingot": "女王史萊姆碇",
+    "item.tconstruct.queens_slime_nugget": "女王史萊姆塊",
+    
+    "block.tconstruct.soulsteel_block": "魂鋼塊",
+    "block.tconstruct.soulsteel_block.tooltip": "可用作信標庫",
+    "item.tconstruct.soulsteel_ingot": "魂鋼碇",
+    "item.tconstruct.soulsteel_nugget": "魂鋼塊",
+    
+    "item.tconstruct.netherite_nugget": "獄髓塊",
+
+    
+    "__comment": "5級金屬",
+    
+    "block.tconstruct.knightslime_block": "騎士史萊姆塊",
+    "block.tconstruct.knightslime_block.tooltip": "可用作信標庫",
+    "item.tconstruct.knightslime_ingot": "騎士史萊姆碇",
+    "item.tconstruct.knightslime_ingot.tooltip": "又粘又金屬又石頭？ 太迷人了！",
+    "item.tconstruct.knightslime_nugget": "騎士史萊姆塊",
+    
+
+    "item.tconstruct.book": "材料與你",
+    "item.tconstruct.book.tooltip": "每個工匠都需要的書\nby Skyla",
+
+    "item.tconstruct.sky_slime_ball": "天空史萊姆球",
+    "item.tconstruct.ender_slime_ball": "終界史萊姆球",
+    "item.tconstruct.blood_slime_ball": "凝血史萊姆球",
+    "item.tconstruct.ichor_slime_ball": "神血史萊姆球",
+    
+    "item.tconstruct.bacon": "培根",
+    "item.tconstruct.beef_jerky": "牛肉乾",
+    "item.tconstruct.beef_jerky.tooltip": "飽食！！",
+    "item.tconstruct.chicken_jerky": "雞肉乾",
+    "item.tconstruct.chicken_jerky.tooltip": "飽食！！",
+    "item.tconstruct.pork_jerky": "培根肉乾",
+    "item.tconstruct.pork_jerky.tooltip": "飽食！！",
+    "item.tconstruct.mutton_jerky": "羊肉乾",
+    "item.tconstruct.mutton_jerky.tooltip": "飽食！！",
+    "item.tconstruct.rabbit_jerky": "兔子乾",
+    "item.tconstruct.rabbit_jerky.tooltip": "飽食！！",
+    "item.tconstruct.fish_jerky": "鱈魚乾",
+    "item.tconstruct.fish_jerky.tooltip": "飽食！！",
+    "item.tconstruct.salmon_jerky": "三文魚乾",
+    "item.tconstruct.salmon_jerky.tooltip": "飽食！！",
+    "item.tconstruct.clownfish_jerky": "熱帶魚乾",
+    "item.tconstruct.clownfish_jerky.tooltip": "豐富多彩的！",
+    "item.tconstruct.pufferfish_jerky": "河豚乾",
+    "item.tconstruct.pufferfish_jerky.tooltip": "安全食用！",
+    "item.tconstruct.monster_jerky": "怪物乾",
+    "item.tconstruct.monster_jerky.tooltip": "安全食用!",
+    
+    "item.tconstruct.earth_slime_drop": "史萊姆黏液滴",
+    "item.tconstruct.sky_slime_drop": "天空史萊姆黏液滴",
+    "item.tconstruct.ichor_slime_drop": "神血黏液滴",
+    "item.tconstruct.ender_slime_drop": "終界史萊姆黏液滴",
+    "item.tconstruct.blood_slime_drop": "凝血滴",
+
+    "item.tconstruct.seared_brick": "焦磚",
+    "item.tconstruct.mud_brick": "泥磚",
+    "item.tconstruct.mud_brick.tooltip": "大大小小的積木",
+    "item.tconstruct.dried_brick": "乾燥粘土磚",
+    
+    "item.tconstruct.earth_slime_crystal": "史萊姆水晶",
+    "item.tconstruct.earth_slime_crystal.tooltip": "用於過大的工具",
+    "item.tconstruct.sky_slime_crystal": "天空史萊姆水晶",
+    "item.tconstruct.sky_slime_crystal.tooltip": "用於過大的工具",
+    "item.tconstruct.ichor_slime_crystal": "神血水晶",
+    "item.tconstruct.ichor_slime_crystal.tooltip": "用於過大的工具",
+    "item.tconstruct.ender_slime_crystal": "終界史萊姆水晶",
+    "item.tconstruct.ender_slime_crystal.tooltip": "用於過大的工具",
+    
+    "item.tconstruct.ichor_expander": "神血擴展器",
+    "item.tconstruct.ichor_expander.tooltip": "第一個擴展器",
+    "item.tconstruct.ender_expander": "終界擴展器",
+    "item.tconstruct.ender_expander.tooltip": "第二個擴展器",
+    
+    "item.tconstruct.reinforcement": "加強",
+    "item.tconstruct.reinforcement.tooltip": "減少工具損壞的機會",
+    "item.tconstruct.silky_cloth": "絲綢布",
+    "item.tconstruct.silky_jewel": "絲綢寶石",
+    "item.tconstruct.silky_jewel.tooltip": "防止工具損壞木塊掉落",
+    "item.tconstruct.necrotic_bone": "凋零骨頭",
+    "item.tconstruct.creative_upgrade": "創造升級",
+    "item.tconstruct.creative_upgrade.tooltip": "向工具添加額外的升級插槽",    
+    "item.tconstruct.creative_ability": "創造能力",
+    "item.tconstruct.creative_ability.tooltip": "向工具添加額外的能力槽",  
+    
+    "item.tconstruct.copper_can": "銅罐",
+    "item.tconstruct.copper_can.tooltip": "可堆疊的容器，可容納1個流體錠",
+    "item.tconstruct.copper_can.contents": "包含：1 個錠%s",
+    
+    
+    "_comment": "金模板",
+    
+    "item.tconstruct.blank_cast": "空白金模板",
+    "item.tconstruct.ingot_cast": "碇金模板",
+    "item.tconstruct.nugget_cast": "粒金模板",
+    "item.tconstruct.gem_cast": "寶石金模板",
+    "item.tconstruct.gear_cast": "齒輪金模板",
+    
+    "item.tconstruct.sharpening_kit_cast": "銳化套件金模板",
+    
+    "_comment": "小頭金模板",
+    
+    "item.tconstruct.pickaxe_head_cast": "鎬頭金模板",
+    "item.tconstruct.axe_head_cast": "斧刃金模板",
+    "item.tconstruct.kama_head_cast": "園藝鐮刀金模板",
+    "item.tconstruct.sword_blade_cast": "劍刃金模板",
+    "item.tconstruct.sign_head_cast": "告示牌金模板",
+    "item.tconstruct.bow_limb_cast": "弓臂金模板",
+    
+    "_comment": "大板金模板",
+    
+    "item.tconstruct.hammer_head_cast": "錘頭金模板",
+    "item.tconstruct.broad_axe_head_cast": "寬斧刃金模板",
+    "item.tconstruct.scythe_head_cast": "鐮刀頭金模板",
+    "item.tconstruct.large_sword_blade_cast": "寬劍刃金模板",
+    
+    "_comment": "綁定結金模板",
+    
+    "item.tconstruct.tool_binding_cast": "工具裝訂金模板",
+    "item.tconstruct.large_plate_cast": "大板金模板",
+    
+    "_comment": "手柄金模板",
+    
+    "item.tconstruct.tool_rod_cast": "手柄金模板",
+    "item.tconstruct.tough_tool_rod_cast": "堅韌手柄金模板",
+    
+    
+    "_comment": "沙模板",
+    
+    "item.tconstruct.blank_sand_cast": "空白沙模板",
+    "item.tconstruct.ingot_sand_cast": "碇沙模板",
+    "item.tconstruct.nugget_sand_cast": "粒沙模板",
+    "item.tconstruct.gem_sand_cast": "寶石沙模板",
+    "item.tconstruct.gear_sand_cast": "齒輪沙模板",
+    
+    "item.tconstruct.sharpening_kit_sand_cast": "銳化套件沙模板",
+    
+    "_comment": "小頭沙模板",
+    
+    "item.tconstruct.pickaxe_head_sand_cast": "鎬頭沙模板",
+    "item.tconstruct.axe_head_sand_cast": "斧刃沙模板",
+    "item.tconstruct.kama_head_sand_cast": "園藝鐮刀沙模板",
+    "item.tconstruct.sword_blade_sand_cast": "劍刃沙模板",
+    "item.tconstruct.sign_head_sand_cast": "告示牌沙模板",
+    "item.tconstruct.bow_limb_sand_cast": "弓臂沙模板",
+    
+    "_comment": "大板沙模板",
+    
+    "item.tconstruct.hammer_head_sand_cast": "錘頭沙模板",
+    "item.tconstruct.broad_axe_head_sand_cast": "寬斧刃沙模板",
+    "item.tconstruct.scythe_head_sand_cast": "鐮刀頭沙模板",
+    "item.tconstruct.large_sword_blade_sand_cast": "寬劍刃沙模板",
+    
+    "_comment": "綁定結沙模板",
+    
+    "item.tconstruct.tool_binding_sand_cast": "工具裝訂沙模板",
+    "item.tconstruct.large_plate_sand_cast": "大板沙模板",
+    
+    "_comment": "手柄沙模板",
+    
+    "item.tconstruct.tool_rod_sand_cast": "手柄沙模板",
+    "item.tconstruct.tough_tool_rod_sand_cast": "堅韌手柄沙模板",
+    
+    
+    "_comment": "紅沙模板",
+    
+    "item.tconstruct.blank_red_sand_cast": "空白紅沙模板",
+    "item.tconstruct.ingot_red_sand_cast": "碇紅沙模板",
+    "item.tconstruct.nugget_red_sand_cast": "粒紅沙模板",
+    "item.tconstruct.gem_red_sand_cast": "寶石紅沙模板",
+    "item.tconstruct.gear_red_sand_cast": "齒輪紅沙模板",
+    
+    "item.tconstruct.sharpening_kit_red_sand_cast": "銳化套件紅沙模板",
+    
+    "_comment": "小頭紅沙模板",
+    
+    "item.tconstruct.pickaxe_head_red_sand_cast": "鎬頭紅沙模板",
+    "item.tconstruct.axe_head_red_sand_cast": "斧刃紅沙模板",
+    "item.tconstruct.kama_head_red_sand_cast": "園藝鐮刀紅沙模板",
+    "item.tconstruct.sword_blade_red_sand_cast": "劍刃紅沙模板",
+    "item.tconstruct.sign_head_red_sand_cast": "告示牌紅沙模板",
+    "item.tconstruct.bow_limb_red_sand_cast": "弓臂紅沙模板",
+    
+    "_comment": "大板紅沙模板",
+    
+    "item.tconstruct.hammer_head_red_sand_cast": "錘頭紅沙模板",
+    "item.tconstruct.broad_axe_head_red_sand_cast": "寬斧刃紅沙模板",
+    "item.tconstruct.scythe_head_red_sand_cast": "鐮刀頭紅沙模板",
+    "item.tconstruct.large_sword_blade_red_sand_cast": "寬劍刃紅沙模板",
+    
+    "_comment": "綁定結紅沙模板",
+    
+    "item.tconstruct.tool_binding_red_sand_cast": "工具裝訂紅沙模板",
+    "item.tconstruct.large_plate_red_sand_cast": "大板紅沙模板",
+    
+    "_comment": "手柄紅沙模板",
+    
+    "item.tconstruct.tool_rod_red_sand_cast": "手柄紅沙模板",
+    "item.tconstruct.tough_tool_rod_red_sand_cast": "堅韌手柄紅沙模板",
+
+    
+    "_comment": "匠魂流體",
+
+    "fluid.tconstruct.milk": "牛奶",
+
+    "block.tconstruct.molten_blaze_fluid": "熔融液",
+    "fluid.tconstruct.molten_blaze": "熔融之火",
+    "fluid.tconstruct.flowing_molten_blaze": "流動熔融液",
+    "item.tconstruct.molten_blaze_bucket": "熔融桶",
+    
+    "_comment": "史萊姆",
+
+    "block.tconstruct.blood_fluid": "血液",
+    "fluid.tconstruct.blood": "血液",
+    "fluid.tconstruct.flowing_blood": "流動血液",
+    "item.tconstruct.blood_bucket": "血液桶",
+
+    "block.tconstruct.earth_slime_fluid": "史萊姆液",
+    "fluid.tconstruct.earth_slime": "史萊姆",
+    "fluid.tconstruct.flowing_earth_slime": "流動史萊姆液",
+    "item.tconstruct.earth_slime_bucket": "史萊姆桶",
+
+    "block.tconstruct.sky_slime_fluid": "天空史萊姆液",
+    "fluid.tconstruct.sky_slime": "天空史萊姆",
+    "fluid.tconstruct.flowing_sky_slime": "流動天空史萊姆液",
+    "item.tconstruct.sky_slime_bucket": "天空史萊姆桶",
+
+    "block.tconstruct.magma_cream_fluid": "熔岩史萊姆液",
+    "fluid.tconstruct.magma_cream": "熔岩史萊姆",
+    "fluid.tconstruct.flowing_magma_cream": "流動熔岩史萊姆液",
+    "item.tconstruct.magma_cream_bucket": "熔岩史萊姆桶",
+    
+    "block.tconstruct.ender_slime_fluid": "終界史萊姆液",
+    "fluid.tconstruct.ender_slime": "終界史萊姆",
+    "fluid.tconstruct.flowing_ender_slime": "流動終界史萊姆液",
+    "item.tconstruct.ender_slime_bucket": "終界史萊姆桶",
+    
+    "_comment": "石頭",
+
+    "block.tconstruct.seared_stone_fluid": "焦黑石液",
+    "fluid.tconstruct.seared_stone": "焦黑石頭",
+    "fluid.tconstruct.flowing_seared_stone": "流動焦黑石液",
+    "item.tconstruct.seared_stone_bucket": "焦黑石液桶",
+
+    "block.tconstruct.molten_clay_fluid": "熔融黏土",
+    "fluid.tconstruct.molten_clay": "熔融黏土",
+    "fluid.tconstruct.flowing_molten_clay": "流動熔融黏土",
+    "item.tconstruct.molten_clay_bucket": "熔融黏土桶",
+
+    "block.tconstruct.molten_glass_fluid": "熔融玻璃",
+    "fluid.tconstruct.molten_glass": "熔融玻璃",
+    "fluid.tconstruct.flowing_molten_glass": "流動熔融玻璃",
+    "item.tconstruct.molten_glass_bucket": "熔融玻璃桶",
+
+    "block.tconstruct.liquid_soul_fluid": "靈魂液",
+    "fluid.tconstruct.liquid_soul": "靈魂液",
+    "fluid.tconstruct.flowing_liquid_soul": "流動靈魂液",
+    "item.tconstruct.liquid_soul_bucket": "靈魂液桶",
+
+    "block.tconstruct.molten_obsidian_fluid": "熔融黑曜石",
+    "fluid.tconstruct.molten_obsidian": "熔融黑曜石",
+    "fluid.tconstruct.flowing_molten_obsidian": "流動熔融黑曜石",
+    "item.tconstruct.molten_obsidian_bucket": "熔融黑曜石桶",
+
+    "block.tconstruct.molten_emerald_fluid": "熔融綠寶石",
+    "fluid.tconstruct.molten_emerald": "熔融綠寶石",
+    "fluid.tconstruct.flowing_molten_emerald": "流動熔融綠寶石",
+    "item.tconstruct.molten_emerald_bucket": "熔融綠寶石桶",
+
+    "block.tconstruct.molten_ender_fluid": "熔融末影",
+    "fluid.tconstruct.molten_ender": "熔融末影",
+    "fluid.tconstruct.flowing_molten_ender": "流動熔融末影",
+    "item.tconstruct.molten_ender_bucket": "熔融末影桶",
+    
+    "_comment": "礦物",
+
+    "block.tconstruct.molten_iron_fluid": "熔融鐵",
+    "fluid.tconstruct.molten_iron": "熔融鐵",
+    "fluid.tconstruct.flowing_molten_iron": "流動熔融鐵",
+    "item.tconstruct.molten_iron_bucket": "熔融鐵桶",
+
+    "block.tconstruct.molten_gold_fluid": "熔融金",
+    "fluid.tconstruct.molten_gold": "熔融金",
+    "fluid.tconstruct.flowing_molten_gold": "流動熔融金",
+    "item.tconstruct.molten_gold_bucket": "熔融金桶",
+
+    "block.tconstruct.molten_copper_fluid": "熔融銅",
+    "fluid.tconstruct.molten_copper": "熔融銅",
+    "fluid.tconstruct.flowing_molten_copper": "流動熔融銅",
+    "item.tconstruct.molten_copper_bucket": "熔融銅桶",
+
+    "block.tconstruct.molten_cobalt_fluid": "熔融鈷",
+    "fluid.tconstruct.molten_cobalt": "熔融鈷",
+    "fluid.tconstruct.flowing_molten_cobalt": "流動熔融鈷",
+    "item.tconstruct.molten_cobalt_bucket": "熔融鈷桶",
+
+    "block.tconstruct.molten_debris_fluid": "熔渣",
+    "fluid.tconstruct.molten_debris": "熔渣",
+    "fluid.tconstruct.flowing_molten_debris": "流動熔渣",
+    "item.tconstruct.molten_debris_bucket": "熔渣桶",
+    
+    "_comment": "3級合金",
+
+    "block.tconstruct.molten_slimesteel_fluid": "熔融史萊姆鋼",
+    "fluid.tconstruct.molten_slimesteel": "熔融史萊姆鋼",
+    "fluid.tconstruct.flowing_molten_slimesteel": "流動熔融史萊姆鋼",
+    "item.tconstruct.molten_slimesteel_bucket": "熔融史萊姆鋼桶",
+
+    "block.tconstruct.molten_tinkers_bronze_fluid": "熔融青銅",
+    "fluid.tconstruct.molten_tinkers_bronze": "熔融青銅",
+    "fluid.tconstruct.flowing_molten_tinkers_bronze": "流動熔融青銅",
+    "item.tconstruct.molten_tinkers_bronze_bucket": "熔融青銅桶",
+
+    "block.tconstruct.molten_rose_gold_fluid": "熔融玫瑰金",
+    "fluid.tconstruct.molten_rose_gold": "熔融玫瑰金",
+    "fluid.tconstruct.flowing_molten_rose_gold": "流動熔融玫瑰金",
+    "item.tconstruct.molten_rose_gold_bucket": "熔融玫瑰金桶",
+
+    "block.tconstruct.molten_pig_iron_fluid": "熔融生鐵",
+    "fluid.tconstruct.molten_pig_iron": "熔融生鐵",
+    "fluid.tconstruct.flowing_molten_pig_iron": "流動熔融生鐵",
+    "item.tconstruct.molten_pig_iron_bucket": "熔融生鐵桶",
+    
+    "_comment": "四級合金",
+
+    "block.tconstruct.molten_manyullyn_fluid": "熔融瑪玉靈",
+    "fluid.tconstruct.molten_manyullyn": "熔融瑪玉靈",
+    "fluid.tconstruct.flowing_molten_manyullyn": "流動熔融瑪玉靈",
+    "item.tconstruct.molten_manyullyn_bucket": "熔融瑪玉靈桶",
+
+    "block.tconstruct.molten_hepatizon_fluid": "熔融肝素",
+    "fluid.tconstruct.molten_hepatizon": "熔融肝素",
+    "fluid.tconstruct.flowing_molten_hepatizon": "流動熔融肝素",
+    "item.tconstruct.molten_hepatizon_bucket": "熔融肝素桶",
+
+    "block.tconstruct.molten_queens_slime_fluid": "熔融皇后史萊姆",
+    "fluid.tconstruct.molten_queens_slime": "熔融皇后史萊姆",
+    "fluid.tconstruct.flowing_molten_queens_slime": "流動熔融皇后史萊姆",
+    "item.tconstruct.molten_queens_slime_bucket": "熔融皇后史萊姆桶",
+
+    "block.tconstruct.molten_soulsteel_fluid": "熔融靈魂鋼",
+    "fluid.tconstruct.molten_soulsteel": "熔融靈魂鋼",
+    "fluid.tconstruct.flowing_molten_soulsteel": "流動熔融靈魂鋼",
+    "item.tconstruct.molten_soulsteel_bucket": "熔融靈魂鋼桶",
+
+    "block.tconstruct.molten_netherite_fluid": "熔融獄髓",
+    "fluid.tconstruct.molten_netherite": "熔融獄髓",
+    "fluid.tconstruct.flowing_molten_netherite": "流動熔融獄髓",
+    "item.tconstruct.molten_netherite_bucket": "熔融獄髓桶",
+
+    "block.tconstruct.molten_knightslime_fluid": "熔融騎士史萊姆",
+    "fluid.tconstruct.molten_knightslime": "熔融騎士史萊姆",
+    "fluid.tconstruct.flowing_molten_knightslime": "流動熔融騎士史萊姆",
+    "item.tconstruct.molten_knightslime_bucket": "熔融騎士史萊姆桶",
+    
+    "_comment": "相容礦石",
+
+    "block.tconstruct.molten_tin_fluid": "熔融錫",
+    "fluid.tconstruct.molten_tin": "熔融錫",
+    "fluid.tconstruct.flowing_molten_tin": "流動熔融錫",
+    "item.tconstruct.molten_tin_bucket": "熔融錫桶",
+
+    "block.tconstruct.molten_aluminum_fluid": "熔融鋁",
+    "fluid.tconstruct.molten_aluminum": "熔融鋁",
+    "fluid.tconstruct.flowing_molten_aluminum": "流動熔融鋁",
+    "item.tconstruct.molten_aluminum_bucket": "熔融鋁桶",
+
+    "block.tconstruct.molten_lead_fluid": "熔融鉛",
+    "fluid.tconstruct.molten_lead": "熔融鉛",
+    "fluid.tconstruct.flowing_molten_lead": "流動熔融鉛",
+    "item.tconstruct.molten_lead_bucket": "熔融鉛桶",
+
+    "block.tconstruct.molten_silver_fluid": "熔融銀",
+    "fluid.tconstruct.molten_silver": "熔融銀",
+    "fluid.tconstruct.flowing_molten_silver": "流動熔融銀",
+    "item.tconstruct.molten_silver_bucket": "熔融銀桶",
+
+    "block.tconstruct.molten_nickel_fluid": "熔融鎳",
+    "fluid.tconstruct.molten_nickel": "熔融鎳",
+    "fluid.tconstruct.flowing_molten_nickel": "流動熔融鎳",
+    "item.tconstruct.molten_nickel_bucket": "熔融鎳桶",
+
+    "block.tconstruct.molten_zinc_fluid": "熔融鋅",
+    "fluid.tconstruct.molten_zinc": "熔融鋅",
+    "fluid.tconstruct.flowing_molten_zinc": "流動熔融鋅",
+    "item.tconstruct.molten_zinc_bucket": "熔融鋅桶",
+
+    "block.tconstruct.molten_platinum_fluid": "熔融鉑金",
+    "fluid.tconstruct.molten_platinum": "熔融鉑金",
+    "fluid.tconstruct.flowing_molten_platinum": "流動熔融鉑金",
+    "item.tconstruct.molten_platinum_bucket": "熔融鉑金桶",
+
+    "block.tconstruct.molten_tungsten_fluid": "熔融鎢",
+    "fluid.tconstruct.molten_tungsten": "熔融鎢",
+    "fluid.tconstruct.flowing_molten_tungsten": "流動熔融鎢",
+    "item.tconstruct.molten_tungsten_bucket": "熔融鎢桶",
+
+    "block.tconstruct.molten_osmium_fluid": "熔融鋨",
+    "fluid.tconstruct.molten_osmium": "熔融鋨",
+    "fluid.tconstruct.flowing_molten_osmium": "流動熔融鋨",
+    "item.tconstruct.molten_osmium_bucket": "熔融鋨桶",
+
+    "block.tconstruct.molten_uranium_fluid": "熔融鈾",
+    "fluid.tconstruct.molten_uranium": "熔融鈾",
+    "fluid.tconstruct.flowing_molten_uranium": "流動熔融鈾",
+    "item.tconstruct.molten_uranium_bucket": "熔融鈾桶",
+    
+    "_comment": "相容合金",
+
+    "block.tconstruct.molten_bronze_fluid": "熔融青銅",
+    "fluid.tconstruct.molten_bronze": "熔融青銅",
+    "fluid.tconstruct.flowing_molten_bronze": "流動熔融青銅",
+    "item.tconstruct.molten_bronze_bucket": "熔融青銅桶",
+
+    "block.tconstruct.molten_brass_fluid": "熔融黃銅",
+    "fluid.tconstruct.molten_brass": "熔融黃銅",
+    "fluid.tconstruct.flowing_molten_brass": "流動熔融黃銅",
+    "item.tconstruct.molten_brass_bucket": "熔融黃銅桶",
+
+    "block.tconstruct.molten_electrum_fluid": "熔融琥珀金",
+    "fluid.tconstruct.molten_electrum": "熔融琥珀金",
+    "fluid.tconstruct.flowing_molten_electrum": "流動熔融琥珀金",
+    "item.tconstruct.molten_electrum_bucket": "熔融琥珀金桶",
+
+    "block.tconstruct.molten_invar_fluid": "熔融因瓦合金",
+    "fluid.tconstruct.molten_invar": "熔融因瓦合金",
+    "fluid.tconstruct.flowing_molten_invar": "流動熔融因瓦合金",
+    "item.tconstruct.molten_invar_bucket": "熔融因瓦合金桶",
+
+    "block.tconstruct.molten_constantan_fluid": "熔融康斯坦丁合金",
+    "fluid.tconstruct.molten_constantan": "熔融康斯坦丁合金",
+    "fluid.tconstruct.flowing_molten_constantan": "流動熔融康斯坦丁合金",
+    "item.tconstruct.molten_constantan_bucket": "熔融康斯坦丁合金桶",
+
+    "block.tconstruct.molten_steel_fluid": "熔融鋼",
+    "fluid.tconstruct.molten_steel": "熔融鋼",
+    "fluid.tconstruct.flowing_molten_steel": "流動熔融鋼",
+    "item.tconstruct.molten_steel_bucket": "熔融鋼桶",
+    
+
+    "_comment": "匠魂小工具",
+
+    "block.tconstruct.stone_torch": "石柄火把",
+    "block.tconstruct.stone_ladder": "石梯",
+
+    "block.tconstruct.punji": "尖竹釘",
+    "block.tconstruct.punji.tooltip": "尖尖的！ 也粘在牆上。",
+
+    "block.tconstruct.wooden_rail": "木質軌道",
+    "block.tconstruct.wooden_dropper_rail": "木碎片",
+    "block.tconstruct.wooden_dropper_rail.tooltip": "帶有料斗的礦車可以 \n 插入下面的方塊中",
+
+    "block.tconstruct.dried_clay": "乾燥粘土",
+    "block.tconstruct.dried_clay_bricks": "乾燥粘土磚",
+    "block.tconstruct.dried_clay_slab": "乾燥粘土半磚",
+    "block.tconstruct.dried_clay_bricks_slab": "乾燥粘土磚半磚",
+    "block.tconstruct.dried_clay_stairs": "乾燥粘土階梯",
+    "block.tconstruct.dried_clay_bricks_stairs": "乾燥粘土磚階梯",
+
+    "item.tconstruct.stone_stick": "石棍",
+
+    "item.tconstruct.jewel_item_frame": "平滑展示框",
+    "item.tconstruct.aluminum_brass_item_frame": "鋁黃銅展示框",
+    "item.tconstruct.cobalt_item_frame": "鈷展示框",
+    "item.tconstruct.manyullyn_item_frame": "瑪玉靈展示框",
+    "item.tconstruct.gold_item_frame": "金制展示框",
+    "item.tconstruct.clear_item_frame": "通透展示框",
+
+    "item.tconstruct.glow_ball": "螢光球",
+    "item.tconstruct.glow_ball.tooltip": "不適合消費。",
+    "item.tconstruct.efln_ball": "EFLN",
+    "item.tconstruct.efln_ball.tooltip": "Explodes! 安全採礦",
+
+    "item.tconstruct.quartz_shuriken": "石英手裡劍",
+    "item.tconstruct.quartz_shuriken.tooltip": "具有更高傷害的可拋武器",
+    "item.tconstruct.flint_shuriken": "燧石手裡劍",
+    "item.tconstruct.flint_shuriken.tooltip": "具有高擊退能力的可拋武器",
+
+    "item.tconstruct.earth_slime_sling": "史萊姆吊索",
+    "item.tconstruct.earth_slime_sling.tooltip": "充電，低頭，猛撲！ \n 如果您珍惜生命，請使用史萊姆靴子！",
+    "item.tconstruct.sky_slime_sling": "天空史萊姆吊索",
+    "item.tconstruct.sky_slime_sling.tooltip": "充電，放手，回到空中！\n 如果您珍惜生命，請使用史萊姆靴子！",
+    "item.tconstruct.ender_slime_sling": "終界史萊姆吊索",
+    "item.tconstruct.ender_slime_sling.tooltip": "充電時，將其指向一堵牆，從另一側出來！\n 蹲下可以進一步控制。",
+    "item.tconstruct.ichor_slime_sling": "神血吊索",
+    "item.tconstruct.ichor_slime_sling.tooltip": "充電，指向一個生物，然後使其飛翔！",
+
+    "item.tconstruct.earth_slime_boots": "史萊姆之靴",
+    "item.tconstruct.earth_slime_boots.tooltip": "著陸時讓您彈跳",
+    "item.tconstruct.sky_slime_boots": "天空史萊姆之靴",
+    "item.tconstruct.sky_slime_boots.tooltip": "著陸時讓您彈跳",
+    "item.tconstruct.ender_slime_boots": "終界史萊姆之靴",
+    "item.tconstruct.ender_slime_boots.tooltip": "著陸時讓您彈跳",
+    "item.tconstruct.blood_slime_boots": "凝血之靴",
+    "item.tconstruct.blood_slime_boots.tooltip": "著陸時讓您彈跳",
+    "item.tconstruct.ichor_slime_boots": "神血之靴",
+    "item.tconstruct.ichor_slime_boots.tooltip": "著陸時讓您彈跳",
+
+    "item.tconstruct.piggy_backpack": "肩托式背包",
+    "item.tconstruct.piggy_backpack.tooltip": "右鍵單擊怪物將其拾取",
+
+    "item.tconstruct.hard_spaghetti": "硬到難以置信的小麥棒",
+    "item.tconstruct.hard_spaghetti.tooltip": "硬到難以置信的小麥棒",
+    "item.tconstruct.soggy_spaghetti": "濕軟麵條",
+    "item.tconstruct.soggy_spaghetti.tooltip": "現在它們都濕了，甚至連義大利麵條的手臂都可以彎曲了。\n 讓我們將它們掛起來並弄乾。",
+    "item.tconstruct.cold_spaghetti": "乾冷麵條",
+    "item.tconstruct.cold_spaghetti.tooltip": "好了，那就更好了，但是它們的味道仍然很濃。\n對它們進行加熱應該可以使其食用。\n 它們甚至可能足以使您擺脫膝蓋的軟弱。",
+
+    "_comment": "匠魂桌子",
+
+    "block.tconstruct.crafting_station": "合成站",
+
+    "block.tconstruct.tinker_station": "工具組裝台",
+    "block.tconstruct.tinkers_anvil": "匠魂鐵砧",
+
+    "block.tconstruct.part_builder": "部件加工台",
+
+    "block.tconstruct.part_chest": "部件箱",
+    "block.tconstruct.part_chest.tooltip": "最多可容納256個不同的工具零件",
+
+    "block.tconstruct.modifier_chest": "部件箱",
+    "block.tconstruct.modifier_chest.tooltip": "最多可容納64個強化",
+
+    "block.tconstruct.cast_chest": "模具櫃",
+    "block.tconstruct.cast_chest.tooltip": "擁有所有相關模板",
+    
+    "item.tconstruct.pattern": "模具",
+    
+    "_comment": "匠魂工具",
+    
+    "item.tconstruct.pickaxe": "鎬",
+    "item.tconstruct.sledge_hammer": "史萊姆碎礦錘",
+    "item.tconstruct.mattock": "鶴嘴鋤",
+    "item.tconstruct.excavator": "開掘鏟",
+    "item.tconstruct.axe": "手斧",
+    "item.tconstruct.kama": "園藝鐮刀",
+    "item.tconstruct.broad_sword": "闊劍",
+    
+    "_comment": "匠魂工具零件",
+
+    "item.tconstruct.pickaxe_head": "鎬頭",
+    "item.tconstruct.hammer_head": "園藝鐮刀頭",
+    "item.tconstruct.axe_head": "斧柄",
+    "item.tconstruct.kama_head": "園藝鐮刀柄",
+    "item.tconstruct.sword_blade": "劍刃",
+    "item.tconstruct.tool_rod": "手柄",
+    "item.tconstruct.tough_tool_rod": "堅韌手柄",
+    "item.tconstruct.tool_binding": "綁定結",
+    "item.tconstruct.large_plate": "大板",
+
+    "_conment": "工具說明",
+
+    "item.tconstruct.pickaxe.description":"鎬是一種精確的採礦工具。 它對石頭和礦石都有效。\n它會打破障礙，好嗎？",
+    "item.tconstruct.sledge_hammer.description": "大錘是一種廣泛的採礦工具。 它可以在廣泛的範圍內收穫塊。\n對不死生物也有效。",
+    "item.tconstruct.mattock.description": "烈焰木鶴嘴鋤是一種多功能農具。 它對木材，污垢，沙子，礫石和植物都有效。\n請不要自己挖墳墓！",
+    "item.tconstruct.excavator.description": "挖掘機是一種廣泛的挖掘工具。 它可以在大範圍內挖掘大面積的土壤和積雪。\n變形！",
+    "item.tconstruct.axe.description": "手斧切碎木頭，使葉子變短。 它還是有效的武器。\n印章！",
+    "item.tconstruct.kama.description": "園藝鐮刀是一種精密收割工具，可以割除植物和修剪動物。\n右鍵單擊：收穫和重新種植農作物",
+    "item.tconstruct.broad_sword.description": "闊劍是一種通用武器。 掃蕩攻擊使敵人成群結隊。\n對蜘蛛網也不錯！",
+
+    "_comment": "匠魂冶煉廠",
+
+    "block.tconstruct.seared_stone": "焦黑石頭",
+    "block.tconstruct.seared_stone.tooltip": "冶煉廠的一部分。 裝飾用的部件。",
+    "block.tconstruct.seared_stone_slab": "焦黑石頭半磚",
+    "block.tconstruct.seared_stone_stairs": "焦黑石頭樓梯",
+    
+    "block.tconstruct.seared_cobble": "焦黑鵝卵石",
+    "block.tconstruct.seared_cobble.tooltip": "冶煉廠的一部分。 裝飾用的部件。",
+    "block.tconstruct.seared_cobble_slab": "焦黑鵝卵石半磚",
+    "block.tconstruct.seared_cobble_stairs": "焦黑鵝卵石樓梯",
+    "block.tconstruct.seared_cobble_wall": "焦黑鵝卵石牆",
+    
+    "block.tconstruct.seared_bricks": "焦黑石磚",
+    "block.tconstruct.seared_bricks.tooltip": "冶煉廠的一部分。 裝飾用的部件。",
+    "block.tconstruct.seared_bricks_slab": "焦黑石磚半磚",
+    "block.tconstruct.seared_bricks_stairs": "焦黑石磚樓梯",
+    "block.tconstruct.seared_bricks_wall": "焦黑石磚牆",
+    
+    "block.tconstruct.seared_paver": "焦黑蓋板石",
+    "block.tconstruct.seared_paver.tooltip": "冶煉廠的一部分。 裝飾用的部件。",
+    "block.tconstruct.seared_paver_slab": "焦黑蓋板石半磚",
+    "block.tconstruct.seared_paver_stairs": "焦黑蓋板石樓梯",
+    
+    "block.tconstruct.seared_cracked_bricks": "裂紋焦黑石磚",
+    "block.tconstruct.seared_cracked_bricks.tooltip": "冶煉廠的一部分。 裝飾用的部件。",
+    "block.tconstruct.seared_fancy_bricks": "平滑焦黑石磚",
+    "block.tconstruct.seared_fancy_bricks.tooltip": "冶煉廠的一部分。 裝飾用的部件。",
+    "block.tconstruct.seared_triangle_bricks": "三角紋焦黑石磚",
+    "block.tconstruct.seared_triangle_bricks.tooltip": "冶煉廠的一部分。 裝飾用的部件。",
+
+    "block.tconstruct.seared_glass": "焦黑玻璃",
+    "block.tconstruct.seared_glass.tooltip": "冶煉廠的一部分。 裝飾用的部件。\n不能儲存液體.",
+    "block.tconstruct.seared_glass_pane": "焦黑通透玻璃",
+    "block.tconstruct.seared_glass_pane.tooltip": "不能在冶煉廠中使用。",
+    
+
+    "block.tconstruct.seared_ladder": "焦黑階梯",
+    "block.tconstruct.seared_ladder.tooltip": "可攀爬的冶煉爐塊。 裝飾用的部件。",
+    
+    "block.tconstruct.seared_tank": "焦黑儲罐",
+    "block.tconstruct.seared_tank.tooltip": "冶煉之心。\n破碎時保留液體.",
+    "block.tconstruct.seared_gauge": "焦黑容器",
+    "block.tconstruct.seared_gauge.tooltip": "理想的金屬，可容納3個熔融塊。\n破碎後保留液體.",
+    "block.tconstruct.seared_window": "焦黑視窗",
+    "block.tconstruct.seared_window.tooltip": "備用冶煉罐。\n破碎時保留液體。",
+    "block.tconstruct.tank.fluid": "液體%s",
+    "block.tconstruct.tank.mb": "%dmb",
+    "block.tconstruct.tank.ingots": "%d錠",
+    "block.tconstruct.tank.mixed": "%d錠, %d mb",
+    
+    "block.tconstruct.faucet": "澆注口",
+    "block.tconstruct.faucet.tooltip": "從冶煉廠和 儲罐s 排乾液體",
+    "block.tconstruct.casting_basin": "鑄造盆",
+    "block.tconstruct.casting_basin.tooltip": "使用冶煉廠的熔融金屬鑄造物品",
+    "block.tconstruct.casting_table": "澆鑄台",
+    "block.tconstruct.casting_table.tooltip": "使用冶煉廠的熔融金屬鑄造物品",
+   
+    "block.tconstruct.channel": "澆注道",
+    "block.tconstruct.channel.tooltip": "分配從澆注口上方倒出的液體。",
+    "block.tconstruct.channel.side.in": "使側面向內流動",
+    "block.tconstruct.channel.side.out": "使側面向外流動",
+    "block.tconstruct.channel.side.none": "不允許側面流動",
+    "block.tconstruct.channel.down.out": "允許向下流動",
+    "block.tconstruct.channel.down.none": "不允許向下流動",
+
+    "block.tconstruct.melter": "冶煉爐",
+    "block.tconstruct.melter.tooltip": "首先進行冶煉爐。\n將其放置在焦黑儲罐或加熱器上方以供燃料。",
+    "gui.tconstruct.melter": "冶煉爐",
+    "gui.tconstruct.melting.capacity": "容量:",
+    "gui.tconstruct.melting.available": "自由:",
+    "gui.tconstruct.melting.used": "已使用:",
+    
+    "block.tconstruct.seared_heater": "焦黑加熱器",
+    "block.tconstruct.seared_heater.tooltip": "冶煉爐的固體燃料來源。",
+    "gui.tconstruct.heater": "焦黑加熱器",
+    
+    "block.tconstruct.smeltery_controller": "冶煉爐控制器",
+    "block.tconstruct.smeltery_controller.tooltip": "冶煉之腦.",
+    "gui.tconstruct.smeltery": "冶煉爐",
+    "death.attack.tconstruct.smeltery_heat": "%1$s 試圖讓玩家變得更酷",
+    "death.attack.tconstruct.smeltery_magic": "%1$s 已與冶煉廠合二為一",
+    
+    "block.tconstruct.seared_drain": "冶煉爐排液口",
+    "block.tconstruct.seared_drain.tooltip": "冶煉爐液輸入及輸出",
+    "block.tconstruct.seared_duct": "冶煉爐材料輸入口",
+    "block.tconstruct.seared_duct.tooltip": "使用銅罐或銅桶過濾的冶煉液輸入和輸出",
+    "gui.tconstruct.duct": "管",
+    "block.tconstruct.seared_chute": "冶煉輸入口",
+    "block.tconstruct.seared_chute.tooltip": "冶煉爐物品輸入與輸出",
+
+    "gui.tconstruct.melting.no_recipe": "物品不能融化.",
+    "gui.tconstruct.melting.no_heat": "沒有足夠的熱量融化該物品。",
+    "gui.tconstruct.melting.no_space": "沒有足夠的可用空間來容納流體。",
+
+    "gui.tconstruct.melting.fuel.no_tank": "結構上沒有水箱",
+    "gui.tconstruct.melting.fuel.empty": "找不到燃料",
+    "gui.tconstruct.melting.fuel.solid": "固體燃料",
+    "gui.tconstruct.melting.fuel.temperature": "溫度: %s°C",
+    "gui.tconstruct.melting.fuel.invalid": "無效的熔化燃料！",
+    
+    "gui.tconstruct.fluid.kilobucket": "%s kb",
+    "gui.tconstruct.fluid.bucket": "%s b",
+    "gui.tconstruct.fluid.millibucket": "%s mb",
+    "gui.tconstruct.fluid.ingot": "%s錠",
+    "gui.tconstruct.fluid.nugget": "%s塊",
+    "gui.tconstruct.fluid.block": "%s方塊",
+    "gui.tconstruct.fluid.pane": "%s窗",
+    "gui.tconstruct.fluid.gem": "%s寶石",
+    "gui.tconstruct.fluid.slimeball": "%s史萊姆球",
+    
+    "gui.tconstruct.fluid.hold_shift": "保持 §e§oShift§r§7 用於水桶",
+    
+    "_comment": "匠魂世界",
+
+    "entity.tconstruct.sky_slime": "天空史萊姆",
+    "item.tconstruct.sky_slime_spawn_egg": "天空史萊姆生怪蛋",
+
+    "block.tconstruct.earth_slime_dirt": "史萊姆土",
+    "block.tconstruct.earth_slime_dirt.tooltip": "好小!，但可以讓您跳得更高!!",
+    "block.tconstruct.sky_slime_dirt": "天空史萊姆土",
+    "block.tconstruct.sky_slime_dirt.tooltip": "好小!，但可以讓您跳得更高!!",
+    "block.tconstruct.ender_slime_dirt": "終界史萊姆土",
+    "block.tconstruct.ender_slime_dirt.tooltip": "好小!，但可以讓您跳得更高!!",
+    "block.tconstruct.ichor_slime_dirt": "神血史萊姆土",
+    "block.tconstruct.ichor_slime_dirt.tooltip": "好小!，但可以讓您跳得更高!!",
+
+    "block.tconstruct.sky_vanilla_slime_grass": "史萊姆草",
+    "block.tconstruct.sky_vanilla_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.blood_vanilla_slime_grass": "史萊姆草",
+    "block.tconstruct.blood_vanilla_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ender_vanilla_slime_grass": "史萊姆草",
+    "block.tconstruct.ender_vanilla_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ichor_vanilla_slime_grass": "史萊姆草",
+    "block.tconstruct.ichor_vanilla_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+
+    "block.tconstruct.sky_earth_slime_grass": "史萊姆草",
+    "block.tconstruct.sky_earth_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.blood_earth_slime_grass": "史萊姆草",
+    "block.tconstruct.blood_earth_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ender_earth_slime_grass": "史萊姆草",
+    "block.tconstruct.ender_earth_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ichor_earth_slime_grass": "史萊姆草",
+    "block.tconstruct.ichor_earth_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+
+    "block.tconstruct.sky_sky_slime_grass": "天空史萊姆草",
+    "block.tconstruct.sky_sky_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.blood_sky_slime_grass": "天空史萊姆草",
+    "block.tconstruct.blood_sky_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ender_sky_slime_grass": "天空史萊姆草",
+    "block.tconstruct.ender_sky_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ichor_sky_slime_grass": "天空史萊姆草",
+    "block.tconstruct.ichor_sky_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+
+    "block.tconstruct.sky_ender_slime_grass": "終界史萊姆草",
+    "block.tconstruct.sky_ender_slime_grass.tooltip": "",
+    "block.tconstruct.blood_ender_slime_grass": "終界史萊姆草",
+    "block.tconstruct.blood_ender_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ender_ender_slime_grass": "終界史萊姆草",
+    "block.tconstruct.ender_ender_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ichor_ender_slime_grass": "終界史萊姆草",
+    "block.tconstruct.ichor_ender_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+
+    "block.tconstruct.sky_ichor_slime_grass": "神血史萊姆草",
+    "block.tconstruct.sky_ichor_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.blood_ichor_slime_grass": "神血史萊姆草",
+    "block.tconstruct.blood_ichor_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ender_ichor_slime_grass": "神血史萊姆草",
+    "block.tconstruct.ender_ichor_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    "block.tconstruct.ichor_ichor_slime_grass": "神血史萊姆草",
+    "block.tconstruct.ichor_ichor_slime_grass.tooltip": "真軟！ 讓你跳得更高",
+    
+    "item.tconstruct.sky_slime_grass_seeds": "史萊姆草種子",
+    "item.tconstruct.sky_slime_grass_seeds.tooltip": "在泥土或史萊姆土上種植，製成粘泥狀的草",
+    "item.tconstruct.blood_slime_grass_seeds": "史萊姆草種子",
+    "item.tconstruct.blood_slime_grass_seeds.tooltip": "在泥土或史萊姆土上種植，製成粘泥狀的草",
+    "item.tconstruct.ichor_slime_grass_seeds": "史萊姆草種子",
+    "item.tconstruct.ichor_slime_grass_seeds.tooltip": "在泥土或史萊姆土上種植，製成粘泥狀的草",
+    "item.tconstruct.ender_slime_grass_seeds": "史萊姆草種子",
+    "item.tconstruct.ender_slime_grass_seeds.tooltip": "在泥土或史萊姆土上種植，製成粘泥狀的草",
+
+    "block.tconstruct.sky_slime_leaves": "史萊姆葉",
+    "block.tconstruct.blood_slime_leaves": "史萊姆葉",
+    "block.tconstruct.ender_slime_leaves": "史萊姆葉",
+    "block.tconstruct.ichor_slime_leaves": "史萊姆葉",
+
+    "block.tconstruct.sky_slime_tall_grass": "長史萊姆草",
+    "block.tconstruct.blood_slime_tall_grass": "長史萊姆草",
+    "block.tconstruct.ender_slime_tall_grass": "長史萊姆草",
+    "block.tconstruct.ichor_slime_tall_grass": "長史萊姆草",
+
+    "block.tconstruct.sky_slime_fern": "史萊姆蕨類",
+    "block.tconstruct.blood_slime_fern": "史萊姆蕨類",
+    "block.tconstruct.ender_slime_fern": "史萊姆蕨類",
+    "block.tconstruct.ichor_slime_fern": "史萊姆蕨類",
+
+    "block.tconstruct.sky_slime_sapling": "天空史萊姆樹苗",
+    "block.tconstruct.sky_slime_sapling.tooltip": "僅生長在史萊姆土或草上",
+    "block.tconstruct.blood_slime_sapling": "血樹苗",
+    "block.tconstruct.blood_slime_sapling.tooltip": "僅生長在史萊姆土或草上",
+    "block.tconstruct.ender_slime_sapling": "終界史萊姆樹苗",
+    "block.tconstruct.ender_slime_sapling.tooltip": "僅生長在史萊姆土或草上",
+    "block.tconstruct.ichor_slime_sapling": "神血史萊姆樹苗",
+    "block.tconstruct.ichor_slime_sapling.tooltip": "僅生長在史萊姆土或草上",
+
+    "block.tconstruct.ender_slime_vine": "史萊姆藤蔓",
+    "block.tconstruct.sky_slime_vine": "史萊姆藤蔓",
+    
+    
+    "__comment": "1級材料",
+    "material.tconstruct.wood": "木頭",
+    "material.tconstruct.wood.format": "木製的 %s",
+    "material.tconstruct.stone": "石頭",
+    "material.tconstruct.flint": "燧石",
+    "material.tconstruct.bone": "骨頭",
+    
+    "__comment": "2級材料",
+    "material.tconstruct.iron": "鐵",
+    "material.tconstruct.seared_stone": "焦黑石頭",
+    "material.tconstruct.copper": "銅",
+    "material.tconstruct.slimewood": "史萊姆木",
+    "material.tconstruct.rose_gold": "玫瑰金",
+    
+    "__comment": "3級材料",
+    "material.tconstruct.slimesteel": "史萊姆鋼",
+    "material.tconstruct.nahuatl": "納瓦特爾",
+    "material.tconstruct.tinkers_bronze": "青銅",
+    "material.tconstruct.pig_iron": "生鐵",
+    
+    
+    "__comment": "地獄材料",
+    "material.tconstruct.cobalt": "鈷",
+    "material.tconstruct.manyullyn": "瑪玉靈",
+    "material.tconstruct.hepatizon": "肝素",
+    "material.tconstruct.queens_slime": "皇后史萊姆",
+    "material.tconstruct.soulsteel": "靈魂鋼",
+    
+    
+    "__comment": "層級一材料",
+    "material.tconstruct.endstone": "終末石",
+    "material.tconstruct.knightslime": "騎士史萊姆",
+    
+    
+    "__comment": "層級二材料",
+    "material.tconstruct.lead": "鉛",
+    "material.tconstruct.silver": "銀",
+    "material.tconstruct.electrum": "琥珀金",
+    
+    "__comment": "層級三材料",
+    "material.tconstruct.bronze": "青銅",
+    "material.tconstruct.steel": "鋼",
+    "material.tconstruct.constantan": "康斯坦丁合金",
+
+    "_comment": "強化",
+
+    "modifier.tconstruct.empty": "無效強化",
+    "modifier.tconstruct.empty.flavor": "丟失!",
+    "modifier.tconstruct.empty.description": "缺少強化時的回退",
+
+    "_comment": "耐用性",
+    "modifier.tconstruct.reinforced": "加強",
+    "modifier.tconstruct.reinforced.flavor": "不間斷!",
+    "modifier.tconstruct.reinforced.description": "工具受損害的可能性較小",
+    "modifier.tconstruct.emerald": "綠寶石",
+    "modifier.tconstruct.emerald.flavor": "平滑!",
+    "modifier.tconstruct.emerald.description": "根據基礎耐用性提高耐用性！ 掠奪者討厭它！",
+    "modifier.tconstruct.diamond": "鑽石",
+    "modifier.tconstruct.diamond.flavor": "有錢!",
+    "modifier.tconstruct.diamond.description": "耐用性和統計數據增加!",
+    "modifier.tconstruct.worldbound": "環遊世界",
+    "modifier.tconstruct.worldbound.flavor": "古老的!",
+    "modifier.tconstruct.worldbound.description": "粗粒的黑陶土，對火焰等外部傷害具有免疫力，但沒有額外的強度",
+    "modifier.tconstruct.soulbound": "靈魂束縛",
+    "modifier.tconstruct.soulbound.flavor": "生命的紐帶!",
+    "modifier.tconstruct.soulbound.description": "工具因死亡而保留在庫存中!",
+    "modifier.tconstruct.netherite": "獄髓",
+    "modifier.tconstruct.netherite.flavor": "精製!",
+    "modifier.tconstruct.netherite.description": "利用古代金屬的力量，使工具更堅固，並且不受火焰等外部損害的影響",
+    "modifier.tconstruct.overslime": "太軟了",
+    "modifier.tconstruct.overslime.flavor": "粘糊糊的!",
+    "modifier.tconstruct.overslime.description": "直到消耗完為止，工具都會消耗過多的粘物而不是耐用性！ 對缺乏粘液的工具不友好",
+
+    "_comment": "工具或收穫",
+    "modifier.tconstruct.experienced": "有經驗的",
+    "modifier.tconstruct.experienced.flavor": "快速學習者!",
+    "modifier.tconstruct.experienced.description": "殺死小怪和採礦塊獲得額外經驗值",
+    "modifier.tconstruct.magnetic": "磁性",
+    "modifier.tconstruct.magnetic.flavor": "磁屬性",
+    "modifier.tconstruct.magnetic.description": "碰東西會吸引附近的物品?!",
+
+    "modifier.tconstruct.haste": "挖掘加速",
+    "modifier.tconstruct.haste.1": "挖掘加速I",
+    "modifier.tconstruct.haste.2": "挖掘加速II",
+    "modifier.tconstruct.haste.3": "挖掘加速III",
+    "modifier.tconstruct.haste.4": "挖掘加速IV",
+    "modifier.tconstruct.haste.5": "挖掘加速V",
+    "modifier.tconstruct.haste.flavor": "科學!",
+    "modifier.tconstruct.haste.description": "神奇的紅色塵埃使工具擺動和挖掘速度更快！",
+
+    "_comment": "武器",
+    "modifier.tconstruct.knockback": "擊退",
+    "modifier.tconstruct.knockback.flavor": "Weeeeee!",
+    "modifier.tconstruct.knockback.description": "擊中東西會使它們飛得更遠!",
+    "modifier.tconstruct.beheading": "斬首",
+    "modifier.tconstruct.beheading.flavor": "閃電苦力怕在棍子上！",
+    "modifier.tconstruct.beheading.description": "可能會立即炸開小怪的腦袋!",
+    "modifier.tconstruct.fiery": "火熱",
+    "modifier.tconstruct.fiery.flavor": "注入地獄之火！",
+    "modifier.tconstruct.fiery.description": "點燃目標",
+    "modifier.tconstruct.necrotic": "壞死的",
+    "modifier.tconstruct.necrotic.flavor": "吸血鬼!",
+    "modifier.tconstruct.necrotic.description": "擊中敵人會耗盡他們的生命來治癒你",
+
+    "_comment": "傷害提升",
+    "modifier.tconstruct.smite": "不死剋星",
+    "modifier.tconstruct.smite.flavor": "死吧，骯髒的生物!",
+    "modifier.tconstruct.smite.description": "不死恐懼瓜的力量!",
+    "modifier.tconstruct.bane_of_arthropods": "節肢剋星",
+    "modifier.tconstruct.bane_of_arthropods.flavor": "如此嚴重!",
+    "modifier.tconstruct.bane_of_arthropods.description": "該工具會對蜘蛛和其他令人毛骨悚然的爬行物造成額外傷害！",
+    "modifier.tconstruct.antiaquatic": "水生剋星",
+    "modifier.tconstruct.antiaquatic.flavor": "基本上是釣魚竿!",
+    "modifier.tconstruct.antiaquatic.description": "工具會對海洋生物造成額外傷害！",
+    "modifier.tconstruct.cooling": "寒霜",
+    "modifier.tconstruct.cooling.flavor": "冰冷!",
+    "modifier.tconstruct.cooling.description": "工具會對基於火焰的生物造成額外傷害!",
+
+    "modifier.tconstruct.sharpness": "鋒利",
+    "modifier.tconstruct.sharpness.1": "鋒利I",
+    "modifier.tconstruct.sharpness.2": "鋒利II",
+    "modifier.tconstruct.sharpness.3": "鋒利III",
+    "modifier.tconstruct.sharpness.4": "鋒利IV",
+    "modifier.tconstruct.sharpness.5": "鋒利V",
+    "modifier.tconstruct.sharpness.flavor": "多麼鋒利？",
+    "modifier.tconstruct.sharpness.description": "工具更加鋒利，造成更大的傷害！",
+
+    "_comment": "能力",
+    "modifier.tconstruct.silky": "絲綢之觸",
+    "modifier.tconstruct.silky.flavor": "像絲綢一樣光滑!",
+    "modifier.tconstruct.silky.description": "開采的方塊掉落本身而不是通常的物品",
+    "modifier.tconstruct.expanded": "擴展",
+    "modifier.tconstruct.expanded.flavor": "沒有跳過腿部一天!",
+    "modifier.tconstruct.expanded.description": "工具的作用範圍比以前大",
+    "modifier.tconstruct.autosmelt": "自動熔煉",
+    "modifier.tconstruct.autosmelt.flavor": "在您的工具中有虛空之火！",
+    "modifier.tconstruct.autosmelt.description": "工具會自動熔煉所有掉落物",
+
+    "modifier.tconstruct.luck": "幸運",
+    "modifier.tconstruct.luck.1": "幸運I",
+    "modifier.tconstruct.luck.2": "幸運II",
+    "modifier.tconstruct.luck.3": "幸運III",
+    "modifier.tconstruct.luck.beyond": "超幸運",
+    "modifier.tconstruct.luck.flavor": "幸運到浮誇!",
+    "modifier.tconstruct.luck.description": "在挖掘或殺死小怪時為您提供更多美好的事物!",
+
+    "_comment": "獎勵修改器插槽",
+    "modifier.tconstruct.creative_upgrade": "創意升級",
+    "modifier.tconstruct.creative_upgrade.flavor": "骯髒的騙子!",
+    "modifier.tconstruct.creative_upgrade.description": "在其他升級插槽中被欺騙",
+    "modifier.tconstruct.creative_ability": "創新能力",
+    "modifier.tconstruct.creative_ability.flavor": "撒謊王座!",
+    "modifier.tconstruct.creative_ability.description": "工具位於無法獲得的額外技能插槽上",
+
+    "__comment": "火焰強化",
+    "modifier.tconstruct.writable": "可寫",
+    "modifier.tconstruct.writable.flavor": "知識分子!",
+    "modifier.tconstruct.writable.description": "更多的話。 更多升級。 這是合乎邏輯的！",
+    "modifier.tconstruct.harmonious": "和諧",
+    "modifier.tconstruct.harmonious.flavor": "像強化交響曲!",
+    "modifier.tconstruct.harmonious.description": "允許進行其他升級，使其與其餘部分和諧相處！",
+    "modifier.tconstruct.recapitated": "重述",
+    "modifier.tconstruct.recapitated.flavor": "重新戴頭上!",
+    "modifier.tconstruct.recapitated.description": "一次升級即可設置此工具!",
+    "modifier.tconstruct.resurrected": "復活",
+    "modifier.tconstruct.resurrected.flavor": "使其重獲新生!",
+    "modifier.tconstruct.resurrected.description": "重新生成此工具的升級插槽之一！",
+    "modifier.tconstruct.gilded": "鍍金",
+    "modifier.tconstruct.gilded.flavor": "等效交易所!",
+    "modifier.tconstruct.gilded.description": "將能力插槽換成兩個升級插槽!",
+    "modifier.tconstruct.draconic": "龍族",
+    "modifier.tconstruct.draconic.flavor": "征服了結局！",
+    "modifier.tconstruct.draconic.description": "偉大的野獸的頭部讓您的工具有了第二種能力！",
+
+    
+    "__comment": "1級特質",
+    "modifier.tconstruct.cultivated": "耕地",
+    "modifier.tconstruct.cultivated.flavor": "經濟!",
+    "modifier.tconstruct.cultivated.description": "維修時工具實際上會增加材料",
+    "modifier.tconstruct.jagged": "鋸齒狀",
+    "modifier.tconstruct.jagged.flavor": "邊緣破損使其鋒利！",
+    "modifier.tconstruct.jagged.description": "每損失一點點耐久性都會增加傷害，但會降低採礦速度",
+    "modifier.tconstruct.stonebound": "結石",
+    "modifier.tconstruct.stonebound.flavor": "您的工具絕對愛石材!",
+    "modifier.tconstruct.stonebound.description": "該工具在磨損時可以更快地開採，但損壞較少",
+    "modifier.tconstruct.damage_speed_trade.suffix": " (%s 促進)",
+    "modifier.tconstruct.fractured": "破碎的",
+    "modifier.tconstruct.fractured.flavor": "斷腿!",
+    "modifier.tconstruct.fractured.description": "由於骨頭破損，工具特別鋒利",
+
+    "__comment": "2級特質",
+    "modifier.tconstruct.searing": "灼熱",
+    "modifier.tconstruct.searing.flavor": "利用冶煉爐!",
+    "modifier.tconstruct.searing.description": "該工具在高溫區域會造成額外的火焰傷害，而在寒冷區域則會造成較小的整體傷害",
+    "modifier.tconstruct.dwarven": "矮人",
+    "modifier.tconstruct.dwarven.flavor": "礦工的朋友!",
+    "modifier.tconstruct.dwarven.description": "工具越深，您的挖掘速度就越快，只是不要太深",
+    "modifier.tconstruct.overgrowth": "過度生長",
+    "modifier.tconstruct.overgrowth.flavor": "真菌類!",
+    "modifier.tconstruct.overgrowth.description": "工具會慢慢變得過軟",
+
+    "modifier.tconstruct.enhanced": "增強型",
+    "modifier.tconstruct.enhanced.flavor": "閃亮的!",
+    "modifier.tconstruct.enhanced.description": "玫瑰金搭配獎勵升級效果更佳!",
+
+    "__comment": "3級特質",
+    "modifier.tconstruct.overcast": "灰濛蒙",
+    "modifier.tconstruct.overcast.flavor": "覆蓋範圍廣!",
+    "modifier.tconstruct.overcast.description": "過度粘滑可以在此工具上做得特別厚",
+    "modifier.tconstruct.lacerating": "撕裂",
+    "modifier.tconstruct.lacerating.flavor": "鋒利的邊緣!",
+    "modifier.tconstruct.lacerating.description": "使目標流血，造成額外傷害",
+    "modifier.tconstruct.maintained": "保養",
+    "modifier.tconstruct.maintained.flavor": "保持鋒利更長的時間!",
+    "modifier.tconstruct.maintained.description": "耐久度更高時，挖掘速度更快",
+    "modifier.tconstruct.maintained.boost": " (+%s 速度)",
+    "modifier.tconstruct.lightweight": "輕的",
+    "modifier.tconstruct.lightweight.flavor": "就像碎片刀！",
+    "modifier.tconstruct.lightweight.description": "工具尺寸輕巧，可以更快地進行攻擊和挖掘",
+    "modifier.tconstruct.tasty": "可口",
+    "modifier.tconstruct.tasty.flavor": "恩喃喃喃",
+    "modifier.tconstruct.tasty.description": "聞起來非常香，你忍不住咬了幾口工具",
+
+    "death.attack.tconstruct.bleed": "%1$s 流血致死",
+    "death.attack.tconstruct.bleed.item": "%1$s 因以下原因造成的受傷流血致死 %2$s",
+
+    "__comment": "4級特質",
+    "modifier.tconstruct.overlord": "霸王",
+    "modifier.tconstruct.overlord.flavor": "富豪!",
+    "modifier.tconstruct.overlord.description": "該工具具有一定的耐用性，是新的過粘項目",
+    "modifier.tconstruct.momentum": "勢頭",
+    "modifier.tconstruct.momentum.flavor": "快!還要更快!!",
+    "modifier.tconstruct.momentum.description": "只要您繼續前進，挖礦塊就可以提高您的速度",
+    "modifier.tconstruct.insatiable": "永不滿足",
+    "modifier.tconstruct.insatiable.flavor": "鮮血滋味!",
+    "modifier.tconstruct.insatiable.description": "在戰鬥中，每次擊中敵人都會造成越來越多的傷害",
+
+    "__comment": "Tier 2 Mod Compat Traits",
+    "modifier.tconstruct.heavy": "重",
+    "modifier.tconstruct.heavy.flavor": "黏稠!",
+    "modifier.tconstruct.heavy.description": "揮舞時很難移動，但打了沉重的一擊",
+    "modifier.tconstruct.holy": "聖",
+    "modifier.tconstruct.holy.flavor": "祝福之刃!",
+    "modifier.tconstruct.holy.description": "L亡靈落到了你的刀刃上",
+
+    "__comment": "Tier 3 Mod Compat Traits",
+    "modifier.tconstruct.sturdy": "結實",
+    "modifier.tconstruct.sturdy.flavor": "防鏽!",
+    "modifier.tconstruct.sturdy.description": "由最長的鋼製成",
+    "modifier.tconstruct.maintained_2": "保養",
+    "modifier.tconstruct.maintained_2.flavor": "變得更容易!",
+    "modifier.tconstruct.maintained_2.description": "耐久度更高時，挖掘速度更快",
+    "modifier.tconstruct.temperate": "溫和的",
+    "modifier.tconstruct.temperate.flavor": "極限採礦！",
+    "modifier.tconstruct.temperate.description": "在極端溫度下，工具開採速度更快",
+
+    "_comment": "統計資料",
+
+    "stat.tconstruct.attack_speed": "攻擊速度:",
+    "stat.tconstruct.attack_speed.description": "計算攻擊速度的基本值。\n大約每秒全強度攻擊。",
+
+    "stat.tconstruct.head": "頭",
+    "stat.tconstruct.head.durability": "耐用性:",
+    "stat.tconstruct.head.durability.description": "耐用性計算的基準值。\n通常是工具整體耐用性的組成部分.",
+    "stat.tconstruct.head.mining_speed": "挖礦速度: ",
+    "stat.tconstruct.head.mining_speed.description": "帶有這種材料的工具頭的工具能多快地挖出塊。\n可能會受到其他工具零件的影響。",
+    "stat.tconstruct.head.harvest_level": "採礦等級: ",
+    "stat.tconstruct.head.harvest_level.description": "具有這種材料的工具頭的工具可以開采的擋塊範圍是多少。",
+    "stat.tconstruct.head.attack": "傷害: ",
+    "stat.tconstruct.head.attack.description": "攻擊計算的基礎值。\n最終結果取決於工具本身和使用的其他組件。",
+
+    "stat.tconstruct.handle": "處理",
+    "stat.tconstruct.handle.durability": "耐用性: ",
+    "stat.tconstruct.handle.durability.description": "工具的總耐用性將乘以此。",
+    "stat.tconstruct.handle.attack_damage": "攻擊傷害: ",
+    "stat.tconstruct.handle.attack_damage.description": "工具的總攻擊傷害將乘以.",
+    "stat.tconstruct.handle.attack_speed": "攻擊速度: ",
+    "stat.tconstruct.handle.attack_speed.description": "工具的總攻擊速度將乘以此.",
+    "stat.tconstruct.handle.mining_speed": "挖礦速度: ",
+    "stat.tconstruct.handle.mining_speed.description": "工具的總開採速度將乘以此.",
+
+    "stat.tconstruct.extra": "額外的",
+    "stat.tconstruct.extra.no_stats": "無統計",
+
+    "stat.tconstruct.mining_level.wood": "木頭",
+    "stat.tconstruct.mining_level.stone": "石頭",
+    "stat.tconstruct.mining_level.iron": "鐵",
+    "stat.tconstruct.mining_level.diamond": "鑽石",
+    "stat.tconstruct.mining_level.netherite": "獄髓",
+
+    "_comment": "工具提示",
+
+    "key.tconstruct.shift": "Shift",
+    "key.tconstruct.ctrl": "Ctrl",
+
+    "tooltip.tconstruct.tool.upgrades": "升級: ",
+    "tooltip.tconstruct.tool.abilities": "能力: ",
+    "tooltip.tconstruct.tool.broken": "破壞",
+    "tooltip.tconstruct.tool.empty": "空的",
+    "tooltip.tconstruct.hold_shift": "保留 %s 的統計資訊",
+    "tooltip.tconstruct.hold_ctrl": "保留 %s 更多",
+
+    "tooltip.part.material_added_by": "%s 添加的材料",
+    "tooltip.part.missing_material": "缺少材料: %s",
+    "tooltip.part.missing_stats": "資料缺少必填的統計資訊:\n{0}",
+    "tooltip.part.missing_info": "零件沒有數據",
+
+    "_comment": "圖形用戶介面",
+
+    "itemGroup.tconstruct.general": "匠魂常規物品",
+    "itemGroup.tconstruct.tools": "匠魂工具",
+    "itemGroup.tconstruct.tool_parts": "匠魂工具零件",
+    "itemGroup.tconstruct.smeltery": "匠魂冶煉爐",
+    "itemGroup.tconstruct.world": "匠魂世界",
+    "itemGroup.tconstruct.gadgets": "匠魂小工具",
+
+    "gui.tconstruct.crafting_station": "合成站",
+
+    "gui.tconstruct.part_builder": "部件加工台",
+    "gui.tconstruct.part_builder.info": "在這裡，您可以製作工具零件，以實現自己的幻想。\n\n要製作零件，只需在左側插槽中放入空白圖案，然後選擇所需的零件即可。 剩餘的插槽可容納您要用來製作零件的材料。",
+    "gui.tconstruct.part_builder.material_value": "材料價值: %s",
+    "gui.tconstruct.part_builder.cost": "圖案成本: %s",
+    "gui.tconstruct.part_builder.trait": "特徵",
+
+    "gui.tconstruct.modifier_chest": "強化組件箱",
+    "gui.tconstruct.cast_chest": "模具櫃",
+    "gui.tconstruct.part_chest": "部件箱",
+
+    "gui.tconstruct.tinker_station": "匠魂組裝台",
+    "gui.tconstruct.tinker_station.repair": "維修和修改",
+    "gui.tconstruct.tinker_station.modifiers": "強化",
+    "gui.tconstruct.tinker_station.components": "組件",
+    "gui.tconstruct.tinker_station.info": "修理或更改工具的主要方法。 將工具和材料放在左側以開始使用。",
+    "gui.tconstruct.tinker_station.no_traits": "沒有任何 :[",
+
+    "recipe.tconstruct.tool_repair.fully_repaired": "工具未損壞",
+
+    "recipe.tconstruct.part_swapping.too_many_parts": "工作臺太小，無法在此工具上交換零件",
+
+    "recipe.tconstruct.modifier.not_enough_upgrades": "需要至少%s個升級槽來添加此修改器",
+    "recipe.tconstruct.modifier.not_enough_abilities": "需要至少%s個技能插槽才能添加此修飾符",
+    "recipe.tconstruct.modifier.max_level": "%s 級別不能高於 %s",
+    "recipe.tconstruct.modifier.requirements_error": "工具狀態對於其中一個修改器無效。 請與您的modpack製造商聯繫，並請求更多描述性錯誤。",
+
+    "recipe.tconstruct.modifier.netherite_requirements": "獄髓要求使用鑽石或祖母綠",
+    "recipe.tconstruct.modifier.ender_expander_requirements": "必須先使用神血擴展器(ichor expander)",
+
+    "_comment": "GUIs Messages",
+
+    "gui.tconstruct.caption": "標題",
+    "gui.tconstruct.error": "錯誤",
+    "gui.tconstruct.warning": "警告",
+    "gui.tconstruct.general.hover": "將鼠標懸停在條目上以獲取更多信息",
+    "gui.tconstruct.error.invalid_pattern": "模式不包含有效的工具零件！",
+    "gui.tconstruct.error.invalid_recipe": "無效的配方！",
+    "gui.tconstruct.error.unknown_material": "未知材料",
+    "gui.tconstruct.error.useless_tool_part": "這部分不能用來製作任何工具！\n\n材料%s缺少某些信息，或者%s沒有工具在製作中使用了",
+    "gui.tconstruct.error.not_enough_durability": "沒有足夠的耐久性來更換零件！\n%d需要更多的耐久性。",
+
+    "_comment": "JEI Strings",
+    "jei.tconstruct.time": "%s s",
+    "jei.tconstruct.temperature": "%s°C",
+    
+    "jei.tconstruct.casting.basin": "Casting Basin",
+    "jei.tconstruct.casting.table": "Casting Table",
+    "jei.tconstruct.casting.cast_kept": "Cast item can be reused in later recipes",
+    "jei.tconstruct.casting.cast_consumed": "Cast item is consumed on casting",
+    
+    "jei.tconstruct.molding.title": "Molding",
+    "jei.tconstruct.molding.pattern_consumed": "Pattern is consumed on crafting",
+    
+    "jei.tconstruct.melting.title": "Melting",
+    "jei.tconstruct.melting.multiplier": "Speed multiplier: %sx",
+    "jei.tconstruct.melting.ore": "Recipe output is boosted based on the controller type",
+    "jei.tconstruct.melting.time": "Melting time: %s s",
+    "jei.tconstruct.melting.smeltery": "In smeltery:",
+    "jei.tconstruct.melting.melter": "In melter:",
+
+    "jei.tconstruct.entity_melting.title": "Entity Melting",
+    "jei.tconstruct.entity_melting.per_hearts": "Per %s Hearts Damage",
+    "jei.tconstruct.entity_melting.per_heart": "Per 1.0 Heart Damage",
+
+    "jei.tconstruct.alloy.title": "合金化",
+
+    "jei.tconstruct.modifiers.title": "強化",
+    "jei.tconstruct.modifiers.ability": "強化需要1個能力插槽才能應用",
+    "jei.tconstruct.modifiers.abilities": "強化需要%s個技能插槽才能應用",
+    "jei.tconstruct.modifiers.upgrade": "強化需要1個升級插槽才能應用",
+    "jei.tconstruct.modifiers.upgrades": "強化需要%s個升級插槽才能應用",
+    "jei.tconstruct.modifiers.free": "無需應用強化槽",
+    "jei.tconstruct.modifiers.incremental": "配方是增量的，您可以應用部分輸入以獲得局部效果",
+    "jei.tconstruct.modifiers.max": "Max: ",
+
+    "jei.tconstruct.beheading.title": "斬首"
+}
+
+
