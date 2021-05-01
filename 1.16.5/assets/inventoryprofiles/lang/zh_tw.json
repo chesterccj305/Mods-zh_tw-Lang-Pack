@@ -34,25 +34,25 @@
     "inventoryprofiles.config.category.debugs": "Debugs",
     "inventoryprofiles.config.category.inventory": "背包",
     "inventoryprofiles.config.category.hotkeys": "熱鍵",
-    "inventoryprofiles.config.category.client_side_tweaks": "用戶端",
+    "inventoryprofiles.config.category.client_side_tweaks": "使用者端",
     "inventoryprofiles.config.category.coming_soon": "即將到來!",
 
 
 
     "inventoryprofiles.config.name.sort_order":                     "排序方式",
-    "inventoryprofiles.config.name.add_interval_between_clicks":    "增加點擊的時間間隔",
+    "inventoryprofiles.config.name.add_interval_between_clicks":    "增加點選的時間間隔",
     "inventoryprofiles.config.name.interval_between_clicks_ms":     "時間間隔(毫秒)",
     "inventoryprofiles.config.name.restock_hotbar":                 "快捷欄補貨",
-    "inventoryprofiles.config.name.sort_at_cursor":                 "整理游標指向的區域",
+    "inventoryprofiles.config.name.sort_at_cursor":                 "整理遊標指向的區域",
     "inventoryprofiles.config.name.stop_at_screen_close":           "背包關閉時停止整理",
     "inventoryprofiles.config.name.debug_logs":                     "除錯輸出",
 
     "inventoryprofiles.config.description.sort_order":                  "背包整理的排序方式",
-    "inventoryprofiles.config.description.add_interval_between_clicks": "整理背包時加入點擊之間的時間，模擬手動點擊。 用\"時間間隔(毫秒)\"設置時間。 可能在延遲較高的伺服器或禁用了inventory. fastclick的伺服器上有用。(要在無法快速點擊背包的伺服器上使用的話，推薦用67毫秒)",
-    "inventoryprofiles.config.description.interval_between_clicks_ms":  "點擊之間的時間 (單位毫秒) (要在無法快速點擊背包的伺服器上使用的話，推薦用67毫秒)",
+    "inventoryprofiles.config.description.add_interval_between_clicks": "整理背包時加入點選之間的時間，模擬手動點選。 用\"時間間隔(毫秒)\"設定時間。 可能在延遲較高的伺服器或禁用了inventory. fastclick的伺服器上有用。(要在無法快速點選背包的伺服器上使用的話，推薦用67毫秒)",
+    "inventoryprofiles.config.description.interval_between_clicks_ms":  "點選之間的時間 (單位毫秒) (要在無法快速點選背包的伺服器上使用的話，推薦用67毫秒)",
     "inventoryprofiles.config.description.restock_hotbar":              "整理背包時順便把快捷欄上物品的數量填滿",
     "inventoryprofiles.config.description.sort_at_cursor":              "用熱鍵會整理滑鼠指向的格子的區域，否則永遠優先整理箱子。",
-    "inventoryprofiles.config.description.stop_at_screen_close":        "背包畫面關閉時停止整理 (例如在\"增加點擊的時間間隔\"啟用時)",
+    "inventoryprofiles.config.description.stop_at_screen_close":        "背包畫面關閉時停止整理 (例如在\"增加點選的時間間隔\"啟用時)",
     "inventoryprofiles.config.description.debug_logs":                  "輸出除錯訊息",
 
 
@@ -66,17 +66,17 @@
     "inventoryprofiles.config.description.show_sort_in_columns_button": "背包畫面上顯示垂直方向分類按鈕",
     "inventoryprofiles.config.description.show_sort_in_rows_button":    "背包畫面上顯示水平方向分類按鈕",
     "inventoryprofiles.config.description.show_move_all_button":        "背包畫面上顯示移動匹配物品按鈕",
-    "inventoryprofiles.config.description.show_button_tooltips":        "游標懸浮在按鈕上時顯示提示",
+    "inventoryprofiles.config.description.show_button_tooltips":        "遊標懸浮在按鈕上時顯示提示",
 
 
-    "inventoryprofiles.config.name.open_config_menu":               "打開配置選單",
+    "inventoryprofiles.config.name.open_config_menu":               "開啟配置選單",
     "inventoryprofiles.config.name.sort_inventory":                 "背包整理",
     "inventoryprofiles.config.name.sort_inventory_in_columns":      "垂直方向分類",
     "inventoryprofiles.config.name.sort_inventory_in_rows":         "水平方向分類",
     "inventoryprofiles.config.name.move_all_items":                 "移動匹配物品",
     "inventoryprofiles.config.name.debug_screen":                   "Debug Screen",
 
-    "inventoryprofiles.config.description.open_config_menu":            "打開此選單的按鍵",
+    "inventoryprofiles.config.description.open_config_menu":            "開啟此選單的按鍵",
     "inventoryprofiles.config.description.sort_inventory":              "一鍵背包整理的按鍵",
     "inventoryprofiles.config.description.sort_inventory_in_columns":   "一鍵垂直方向分類的按鍵",
     "inventoryprofiles.config.description.sort_inventory_in_rows":      "一鍵水平方向分類的按鍵",
@@ -103,7 +103,7 @@
     "inventoryprofiles.enum.sorting_method.default": "預設（創造模式選單）",
     "inventoryprofiles.enum.sorting_method.item_name": "物品名稱",
     "inventoryprofiles.enum.sorting_method.item_id": "物品ID",
-    "inventoryprofiles.enum.sorting_method.translation_key": "翻譯標識符",
+    "inventoryprofiles.enum.sorting_method.translation_key": "翻譯識別符號",
 
     "inventoryprofiles.tooltip.sort_button": "整理物品欄",
     "inventoryprofiles.tooltip.sort_columns_button": "垂直方向分類",

@@ -1,5 +1,5 @@
 {
-    "itemGroup.cfm": "螯蝦先生的家具模組",
+    "itemGroup.cfm": "螯蝦先生的傢俱模組",
     "block.cfm.oak_table": "橡木桌",
     "block.cfm.spruce_table": "杉木桌",
     "block.cfm.birch_table": "樺木桌",
@@ -411,9 +411,9 @@
     "gui.tag_filter.cfm.items": "物品",
     "gui.cfm.mail_box_settings": "更改郵箱名稱",
     "gui.cfm.door_mat_message": "設定門墊訊息",
-    "subtitle.cfm.open_cabinet": "打開櫥櫃",
+    "subtitle.cfm.open_cabinet": "開啟櫥櫃",
     "subtitle.cfm.close_cabinet": "關閉櫥櫃",
-    "subtitle.cfm.open_blinds": "打開百葉窗",
+    "subtitle.cfm.open_blinds": "開啟百葉窗",
     "subtitle.cfm.close_blinds": "關閉百葉窗",
     "subtitle.cfm.trampoline_bounce": "彈跳床彈跳",
     "subtitle.cfm.grill_place": "將食物放在烤架上",

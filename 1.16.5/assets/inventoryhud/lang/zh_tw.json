@@ -1,7 +1,7 @@
 {
   "key.inventoryhud.category": "庫存顯示+",
   "key.inventoryhud.toggle": "切換開/關",
-  "key.inventoryhud.openconfig": "打開配置",
+  "key.inventoryhud.openconfig": "開啟配置",
   "config.inventoryhud.category.armorhud": "顯示盔甲狀態",
   "config.inventoryhud.category.inventoryhud": "顯示庫存",
   "config.inventoryhud.category.potionshud": "藥水顯示",
@@ -29,15 +29,15 @@
   "inventoryhud.config.gui.armview.tt.2": "損壞-物品受損了多少。",
   "inventoryhud.config.gui.armview.tt.3": "DAMAGE_LEFT-物品可以獲得多少傷害。",
   "inventoryhud.config.gui.armview.tt.4": "關閉 - 關閉 numbers.",
-  "inventoryhud.config.gui.armbars": "數據條:",
-  "inventoryhud.config.gui.armbars.tt": "切換打開/關閉覆蓋耐用性條",
+  "inventoryhud.config.gui.armbars": "資料條:",
+  "inventoryhud.config.gui.armbars.tt": "切換開啟/關閉覆蓋耐用性條",
   "inventoryhud.config.gui.armhide": "隱藏在上面:",
   "inventoryhud.config.gui.armhide.tt": "如果耐久性從0到100的百分比高於此值，則隱藏項目",
   "inventoryhud.config.gui.armmove": "移動全部:",
   "inventoryhud.config.gui.armmove.tt.1": "true-一次更改所有項目的位置",
   "inventoryhud.config.gui.armmove.tt.2": "false-更改每個項目的位置",
   "inventoryhud.config.gui.armempty": "顯示為空:",
-  "inventoryhud.config.gui.armempty.tt": "顯示/隱藏空插槽圖標",
+  "inventoryhud.config.gui.armempty.tt": "顯示/隱藏空插槽圖示",
   "inventoryhud.config.gui.pos.inv": "存貨",
   "inventoryhud.config.gui.pos.pot": "藥水",
   "inventoryhud.config.gui.pos.arm": "盔甲",
@@ -48,5 +48,5 @@
   "inventoryhud.config.gui.potmini": "迷你模式:",
   "inventoryhud.config.gui.potmini.tt": "切換開/關藥水顯示迷你模式",
   "inventoryhud.config.gui.potgap": "差距:",
-  "inventoryhud.config.gui.potgap.tt": "效果圖標之間的差距從-5到5"
+  "inventoryhud.config.gui.potgap.tt": "效果圖示之間的差距從-5到5"
 }

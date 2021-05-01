@@ -48,13 +48,13 @@
   "item.adventurez.gilded_netherite_fragment.tooltip2": "升級獄髓套裝所需材料",
   "item.adventurez.stone_golem_armor.tooltip": "§5史詩",
   "item.adventurez.stone_golem_armor.tooltip2": "全套效果",
-  "item.adventurez.stone_golem_armor.tooltip3": "按 %1$s 激活",
+  "item.adventurez.stone_golem_armor.tooltip3": "按 %1$s 啟用",
   "item.adventurez.stone_golem_armor.tooltip4": "§9抗火 (0:30)",
   "item.adventurez.stone_golem_armor.tooltip5": "§c充強 (1:00)",
   "item.adventurez.prime_eye_item": "初始之眼",
 
-  "item.adventurez.moreinfo.tooltip": "§8按住 §6Shift §8查看詳情",
-  "key.adventurez.activatearmor": "激活盔甲",
+  "item.adventurez.moreinfo.tooltip": "§8按住 §6Shift §8檢視詳情",
+  "key.adventurez.activatearmor": "啟用盔甲",
   "category.adventurez.test": "冒險Z 按鍵綁定",
 
   "block.adventurez.stone_holder_block": "浮雕拋光黑石基座",

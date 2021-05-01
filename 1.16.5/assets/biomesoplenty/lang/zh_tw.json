@@ -37,7 +37,7 @@
   "biome.biomesoplenty.marsh": "草本沼澤",
   "biome.biomesoplenty.meadow": "溫帶草甸",
   "biome.biomesoplenty.mire": "泥炭沼澤",
-  "biome.biomesoplenty.mystic_grove": "神秘樹林",
+  "biome.biomesoplenty.mystic_grove": "神祕樹林",
   "biome.biomesoplenty.oasis": "綠洲",
   "biome.biomesoplenty.ominous_woods": "不祥之森",
   "biome.biomesoplenty.orchard": "果樹林",
@@ -379,7 +379,7 @@
   "block.biomesoplenty.yellow_autumn_leaves": "黃秋木樹葉",
   "block.biomesoplenty.yellow_autumn_sapling": "黃秋木樹苗",
  
-  "argument.biomesoplenty.biome.invalid": "無效的生態域參數",
+  "argument.biomesoplenty.biome.invalid": "無效的生態域引數",
   "commands.biomesoplenty.tpbiome.success": "玩家 %s 傳送到生態域：%s，座標（%s, %s, %s）",
   "commands.biomesoplenty.tpbiome.error": "未找到生態域：%s！",
 

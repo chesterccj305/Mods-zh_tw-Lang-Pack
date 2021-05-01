@@ -14,7 +14,7 @@
 	"quark.gui.enchanting.upgrade": "升級: %d/%d",
 	"quark.gui.enchanting.left_click": "按左鍵選擇",
 	"quark.gui.enchanting.right_click": "按右鍵旋轉",
-	"quark.gui.enchanting.merge": "點擊以升級",
+	"quark.gui.enchanting.merge": "點選以升級",
 	"quark.gui.enchanting.pending": "具有待定附魔",
 
 	"quark.gui.keygroup.misc": "夸克雜項",
@@ -170,7 +170,7 @@
    "quarkmisc.dayHasPassed": "一天過去了。",
    "quark.misc.shulker_box_shift": "按住Shift檢視內容物",
    "quark.misc.map_shift": "按住Shift檢視地圖",
-   "quark.misc.rotation_lock": "你已啟動相對位置鎖定，旋轉鎖定。您放置的任何方塊都將朝向您面向的方位。按 [%s]更改或重置它。此消息不會再出現。",
+   "quark.misc.rotation_lock": "你已啟動相對位置鎖定，旋轉鎖定。您放置的任何方塊都將朝向您面向的方位。按 [%s]更改或重置它。此訊息不會再出現。",
   
  
   	"quark.emote.wave": "揮手",
@@ -235,7 +235,7 @@
 	"item.quark.white_shard": "白色玻璃碎片",
 	"item.quark.yellow_shard": "黃色玻璃碎片",
 	"item.quark.clear_shard": "透明玻璃碎片",
-	"item.quark.dirty_shard": "髒污玻璃碎片",
+	"item.quark.dirty_shard": "髒汙玻璃碎片",
 	"item.quark.glass_item_frame": "玻璃物品展示框",
 	"item.quark.black_item_frame": "黑色物品展示框",
 	"item.quark.blue_item_frame": "藍色物品展示框",
@@ -660,8 +660,8 @@
 	"block.quark.smooth_biotite_stairs": "平滑雲母階梯",
 	"block.quark.smooth_biotite_slab": "平滑雲母半磚",
 	"block.quark.smooth_biotite_vertical_slab": "平滑雲母直立半磚",
-	"block.quark.dirty_glass": "髒污玻璃",
-	"block.quark.dirty_glass_pane": "髒污玻璃片",
+	"block.quark.dirty_glass": "髒汙玻璃",
+	"block.quark.dirty_glass_pane": "髒汙玻璃片",
 	"block.quark.ender_watcher": "終界觀測者",
 	"block.quark.basalt": "玄武岩",
 	"block.quark.polished_basalt": "拋光玄武岩",

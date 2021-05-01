@@ -6,12 +6,12 @@
   "tooltip.compactmachines.unknown_player": "未知使用者",
   "tooltip.compactmachines.machine.size": "大小: %1$sx%1$sx%1$s",
   "tooltip.compactmachines.hold_shift.hint": "按住shift獲得詳細信訊",
-  "tooltip.compactmachines.psd.hint": "用作遊戲中的文檔並用於輸入壓縮空間",
+  "tooltip.compactmachines.psd.hint": "用作遊戲中的文件並用於輸入壓縮空間",
   "tooltip.compactmachines.solid_wall.hint": "警告！對於非創造玩家是不可破壞的！",
   "tooltip.compactmachines.machine.hint": "%1$s擁有 %2$s的空間",
 
   "messages.compactmachines.psd.spawnpoint_set": "新的出生點",
-  "messages.compactmachines.no_machine_data": "“未加載機器數據；請報告此。",
+  "messages.compactmachines.no_machine_data": "“未載入機器資料；請報告此。",
 
   "block.compactmachines.machine": "壓縮空間機械",
   "block.compactmachines.machine_tiny": "微型壓縮空間機械",
@@ -23,7 +23,7 @@
 
   "block.compactmachines.solid_wall": "緊實型壓縮空間牆",
   "block.compactmachines.wall": "壓縮空間牆",
-  "block.compactmachines.tunnel_wall": "接口",
+  "block.compactmachines.tunnel_wall": "介面",
 
   "item.compactmachines.machine_tiny": "微型壓縮空間機械",
   "item.compactmachines.machine_small": "小型壓縮空間機械",
@@ -34,9 +34,9 @@
 
   "item.compactmachines.personal_shrinking_device": "個人壓縮裝置",
 
-  "item.compactmachines.item_tunnel": "物品接口",
-  "item.compactmachines.redstone_in_tunnel": "紅石接口(入口)",
-  "item.compactmachines.redstone_out_tunnel": "紅石接口(出口)",
+  "item.compactmachines.item_tunnel": "物品介面",
+  "item.compactmachines.redstone_in_tunnel": "紅石介面(入口)",
+  "item.compactmachines.redstone_out_tunnel": "紅石介面(出口)",
 
   "compactmachines.cannot_enter": "無法找到壓縮空間機械製作器！請更改放置距離！",
 

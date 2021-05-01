@@ -9,7 +9,7 @@
   "block.fabric-furnaces.nether_furnace": "地獄熔爐",
   "block.fabric-furnaces.emerald_furnace": "綠寶石熔爐",
   "block.fabric-furnaces.end_furnace": "終界熔爐",
-  "block.fabric-furnaces.ethereal_furnace": "神秘熔爐",
+  "block.fabric-furnaces.ethereal_furnace": "神祕熔爐",
 
   "block.fabric-furnaces.crystal_fabric_furnace": "水晶織物熔爐",
   "block.fabric-furnaces.crystal_iron_furnace": "水晶鐵熔爐",
@@ -19,7 +19,7 @@
   "block.fabric-furnaces.crystal_nether_furnace": "水晶地獄熔爐",
   "block.fabric-furnaces.crystal_emerald_furnace": "水晶綠寶石熔爐",
   "block.fabric-furnaces.crystal_end_furnace": "水晶終界熔爐",
-  "block.fabric-furnaces.crystal_ethereal_furnace": "水晶神秘熔爐",
+  "block.fabric-furnaces.crystal_ethereal_furnace": "水晶神祕熔爐",
 
   "fabric-furnaces.text.dupelabel": " 雙倍產率: %d",
   "fabric-furnaces.text.speedlabel": " 速度提升: %dx",

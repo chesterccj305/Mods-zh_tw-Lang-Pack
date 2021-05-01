@@ -2,7 +2,7 @@
 	"envirocore": "環境核心",
 	"itemGroup.envirocore.resources": "環境:資源",
 	"itemGroup.envirocore.parts": "環境:零件",
-	"itemGroup.envirocore.components": "環境:組件",
+	"itemGroup.envirocore.components": "環境:元件",
 	"itemGroup.envirocore.ccus": "環境:CCU's",
 	"itemGroup.envirocore.machines": "環境:機器",
 	"itemGroup.envirocore.tools": "環境:工具",
@@ -36,8 +36,8 @@
 	"attribute.envirocore.thermal": "熱量加成",
 	"attribute.envirocore.radiant": "輻射加成",
 
-	"info.envirocore.rgb_controller.one": "潛行+右鍵單擊從多方塊組件複製顏色",
-	"info.envirocore.rgb_controller.two": "右鍵單擊和多方塊組件以應用顏色",
+	"info.envirocore.rgb_controller.one": "潛行+右鍵單擊從多方塊元件複製顏色",
+	"info.envirocore.rgb_controller.two": "右鍵單擊和多方塊元件以應用顏色",
 
 	"component.envirocore.frame_tier_1.types": "框架(層級>=1)",
 	"component.envirocore.frame_tier_2.types": "框架(層級>=2)",
@@ -86,9 +86,9 @@
 	"item.envirocore.aeronite": "艾洛尼",
 	"item.envirocore.parathium": "派洛蒂",
 	"item.envirocore.millirite": "米洛尼",
-	"item.envirocore.microthium": "麥夸尼",
+	"item.envirocore.microthium": "麥誇尼",
 
-	"item.envirocore.redstone_connector": "紅石連接器",
+	"item.envirocore.redstone_connector": "紅石聯結器",
 	"item.envirocore.obsidian_plate": "黑曜石板",
 	"item.envirocore.redstone_imbued_obsidian_plate": "紅石灌注黑曜石板",
 
@@ -97,7 +97,7 @@
 
 	"item.envirocore.litherite_crystal": "萊澤爾水晶",
 	"item.envirocore.litherite_powder": "萊澤爾粉",
-	"item.envirocore.litherite_interconnect": "萊澤爾互連線",
+	"item.envirocore.litherite_interconnect": "萊澤爾互連接",
 	"item.envirocore.litherite_boule": "萊澤爾球",
 	"item.envirocore.litherite_wafer": "萊澤爾晶圓",
 
@@ -135,7 +135,7 @@
 	
 	"item.envirocore.erodium_crystal": "艾洛蒂水晶",
 	"item.envirocore.erodium_powder": "艾洛蒂粉",
-	"item.envirocore.erodium_interconnect": "艾洛蒂互連線",
+	"item.envirocore.erodium_interconnect": "艾洛蒂互連接",
 	"item.envirocore.erodium_boule": "艾洛蒂球",
 	"item.envirocore.erodium_wafer": "艾洛蒂晶圓",
 
@@ -173,7 +173,7 @@
 
 	"item.envirocore.kyronite_crystal": "凱羅尼水晶",
 	"item.envirocore.kyronite_powder": "凱羅尼粉",
-	"item.envirocore.kyronite_interconnect": "凱羅尼互連線",
+	"item.envirocore.kyronite_interconnect": "凱羅尼互連接",
 	"item.envirocore.kyronite_boule": "凱羅尼球",
 	"item.envirocore.kyronite_wafer": "凱羅尼晶圓",
 
@@ -211,7 +211,7 @@
 
 	"item.envirocore.pladium_crystal": "普雷蒂水晶",
 	"item.envirocore.pladium_powder": "普雷蒂粉",
-	"item.envirocore.pladium_interconnect": "普雷蒂互連線",
+	"item.envirocore.pladium_interconnect": "普雷蒂互連接",
 	"item.envirocore.pladium_boule": "普雷蒂球",
 	"item.envirocore.pladium_wafer": "普雷蒂晶圓",
 
@@ -249,7 +249,7 @@
 
 	"item.envirocore.ionite_crystal": "艾恩尼水晶",
 	"item.envirocore.ionite_powder": "艾恩尼粉",
-	"item.envirocore.ionite_interconnect": "艾恩尼互連線",
+	"item.envirocore.ionite_interconnect": "艾恩尼互連接",
 	"item.envirocore.ionite_boule": "艾恩尼球",
 	"item.envirocore.ionite_wafer": "艾恩尼 wafer",
 
@@ -287,7 +287,7 @@
 
 	"item.envirocore.aethium_crystal": "以太水晶",
 	"item.envirocore.aethium_powder": "以太粉",
-	"item.envirocore.aethium_interconnect": "以太互連線",
+	"item.envirocore.aethium_interconnect": "以太互連接",
 	"item.envirocore.aethium_boule": "以太球",
 	"item.envirocore.aethium_wafer": "以太晶圓",
 	
@@ -325,7 +325,7 @@
 
 	"item.envirocore.nanorite_crystal": "奈諾尼水晶",
 	"item.envirocore.nanorite_powder": "奈諾尼粉",
-	"item.envirocore.nanorite_interconnect": "奈諾尼互連線",
+	"item.envirocore.nanorite_interconnect": "奈諾尼互連接",
 	"item.envirocore.nanorite_boule": "奈諾尼球",
 	"item.envirocore.nanorite_wafer": "奈諾尼晶圓",
 
@@ -363,7 +363,7 @@
 
 	"item.envirocore.xerothium_crystal": "尼諾蒂水晶",
 	"item.envirocore.xerothium_powder": "尼諾蒂粉",
-	"item.envirocore.xerothium_interconnect": "尼諾蒂互連線",
+	"item.envirocore.xerothium_interconnect": "尼諾蒂互連接",
 	"item.envirocore.xerothium_boule": "尼諾蒂球",
 	"item.envirocore.xerothium_wafer": "尼諾蒂晶圓",
 	
@@ -440,16 +440,16 @@
 	"block.envirocore.crusher": "粉碎機",
 	"block.envirocore.controller_fab": "製造室控制器",
 	"block.envirocore.ccu_workstation": "CCU工作站",
-	"block.envirocore.module_workstation": "模塊工作站",
+	"block.envirocore.module_workstation": "模組工作站",
 
 	"block.envirocore.laser_core": "雷射核心",
 	"block.envirocore.laser_lens_holder": "雷射透鏡支架",
 	"block.envirocore.lens_grinder": "透鏡研磨器",
 	"item.envirocore.lens": "透鏡",
-	"item.envirocore.laser_diode": "雷射二極管",
+	"item.envirocore.laser_diode": "雷射二極體",
 
 
-	"block.envirocore.memory_programmer": "記憶體編程器",
+	"block.envirocore.memory_programmer": "記憶體程式設計器",
 
 	"block.envirocore.assembler": "組裝器",
 
@@ -469,5 +469,5 @@
 	"item.envirocore.volatile_memory": "揮發性記憶體",
 	"item.envirocore.cpu": "CPU",
 	"item.envirocore.ram": "RAM",
-	"item.envirocore.module": "模塊"
+	"item.envirocore.module": "模組"
 }

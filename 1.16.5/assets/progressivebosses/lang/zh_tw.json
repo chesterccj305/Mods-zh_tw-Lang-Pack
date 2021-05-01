@@ -4,5 +4,5 @@
   "dragon.larva": "幼龍",
   "dragon.minion": "龍奴僕",
   "command.get_player_boss_data": "[%s]\n召喚凋零： %d\n殺死龍: %d",
-  "command.set_player_boss_data": "[%s]\n將 %s 難度設置為: %d"
+  "command.set_player_boss_data": "[%s]\n將 %s 難度設定為: %d"
 }

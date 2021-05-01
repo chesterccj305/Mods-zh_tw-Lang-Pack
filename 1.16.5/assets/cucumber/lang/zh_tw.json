@@ -3,7 +3,7 @@
   "tooltip.cucumber.uses_left": "左鍵使用%s次",
   "tooltip.cucumber.one_use_left": "左鍵使用1次",
   "tooltip.cucumber.unlimited_uses": "無限使用",
-  "tooltip.cucumber.hold_ctrl_for_tags": "按住CTRL可查看標籤",
+  "tooltip.cucumber.hold_ctrl_for_tags": "按住CTRL可檢視標籤",
   "tooltip.cucumber.block_tags": "方塊標籤:",
   "tooltip.cucumber.item_tags": "物品標籤:",
   "tooltip.cucumber.not_yet_implemented": "尚未實施",

@@ -203,10 +203,10 @@
     "item.tconstruct.ender_slime_crystal": "終界史萊姆水晶",
     "item.tconstruct.ender_slime_crystal.tooltip": "用於過大的工具",
     
-    "item.tconstruct.ichor_expander": "神血擴展器",
-    "item.tconstruct.ichor_expander.tooltip": "第一個擴展器",
-    "item.tconstruct.ender_expander": "終界擴展器",
-    "item.tconstruct.ender_expander.tooltip": "第二個擴展器",
+    "item.tconstruct.ichor_expander": "神血擴充套件器",
+    "item.tconstruct.ichor_expander.tooltip": "第一個擴充套件器",
+    "item.tconstruct.ender_expander": "終界擴充套件器",
+    "item.tconstruct.ender_expander.tooltip": "第二個擴充套件器",
     
     "item.tconstruct.reinforcement": "加強",
     "item.tconstruct.reinforcement.tooltip": "減少工具損壞的機會",
@@ -215,9 +215,9 @@
     "item.tconstruct.silky_jewel.tooltip": "防止工具損壞木塊掉落",
     "item.tconstruct.necrotic_bone": "凋零骨頭",
     "item.tconstruct.creative_upgrade": "創造升級",
-    "item.tconstruct.creative_upgrade.tooltip": "向工具添加額外的升級插槽",    
+    "item.tconstruct.creative_upgrade.tooltip": "向工具新增額外的升級插槽",    
     "item.tconstruct.creative_ability": "創造能力",
-    "item.tconstruct.creative_ability.tooltip": "向工具添加額外的能力槽",  
+    "item.tconstruct.creative_ability.tooltip": "向工具新增額外的能力槽",  
     
     "item.tconstruct.copper_can": "銅罐",
     "item.tconstruct.copper_can.tooltip": "可堆疊的容器，可容納1個流體錠",
@@ -632,7 +632,7 @@
     "item.tconstruct.ichor_slime_boots": "神血之靴",
     "item.tconstruct.ichor_slime_boots.tooltip": "著陸時讓您彈跳",
 
-    "item.tconstruct.piggy_backpack": "肩托式背包",
+    "item.tconstruct.piggy_backpack": "肩託式背包",
     "item.tconstruct.piggy_backpack.tooltip": "右鍵單擊怪物將其拾取",
 
     "item.tconstruct.hard_spaghetti": "硬到難以置信的小麥棒",
@@ -688,7 +688,7 @@
 
     "item.tconstruct.pickaxe.description":"鎬是一種精確的採礦工具。 它對石頭和礦石都有效。\n它會打破障礙，好嗎？",
     "item.tconstruct.sledge_hammer.description": "大錘是一種廣泛的採礦工具。 它可以在廣泛的範圍內收穫塊。\n對不死生物也有效。",
-    "item.tconstruct.mattock.description": "烈焰木鶴嘴鋤是一種多功能農具。 它對木材，污垢，沙子，礫石和植物都有效。\n請不要自己挖墳墓！",
+    "item.tconstruct.mattock.description": "烈焰木鶴嘴鋤是一種多功能農具。 它對木材，汙垢，沙子，礫石和植物都有效。\n請不要自己挖墳墓！",
     "item.tconstruct.excavator.description": "挖掘機是一種廣泛的挖掘工具。 它可以在大範圍內挖掘大面積的土壤和積雪。\n變形！",
     "item.tconstruct.axe.description": "手斧切碎木頭，使葉子變短。 它還是有效的武器。\n印章！",
     "item.tconstruct.kama.description": "園藝鐮刀是一種精密收割工具，可以割除植物和修剪動物。\n右鍵單擊：收穫和重新種植農作物",
@@ -962,7 +962,7 @@
     "modifier.tconstruct.emerald.description": "根據基礎耐用性提高耐用性！ 掠奪者討厭它！",
     "modifier.tconstruct.diamond": "鑽石",
     "modifier.tconstruct.diamond.flavor": "有錢!",
-    "modifier.tconstruct.diamond.description": "耐用性和統計數據增加!",
+    "modifier.tconstruct.diamond.description": "耐用性和統計資料增加!",
     "modifier.tconstruct.worldbound": "環遊世界",
     "modifier.tconstruct.worldbound.flavor": "古老的!",
     "modifier.tconstruct.worldbound.description": "粗粒的黑陶土，對火焰等外部傷害具有免疫力，但沒有額外的強度",
@@ -1033,8 +1033,8 @@
     "_comment": "能力",
     "modifier.tconstruct.silky": "絲綢之觸",
     "modifier.tconstruct.silky.flavor": "像絲綢一樣光滑!",
-    "modifier.tconstruct.silky.description": "開采的方塊掉落本身而不是通常的物品",
-    "modifier.tconstruct.expanded": "擴展",
+    "modifier.tconstruct.silky.description": "開採的方塊掉落本身而不是通常的物品",
+    "modifier.tconstruct.expanded": "擴充套件",
     "modifier.tconstruct.expanded.flavor": "沒有跳過腿部一天!",
     "modifier.tconstruct.expanded.description": "工具的作用範圍比以前大",
     "modifier.tconstruct.autosmelt": "自動熔煉",
@@ -1066,7 +1066,7 @@
     "modifier.tconstruct.harmonious.description": "允許進行其他升級，使其與其餘部分和諧相處！",
     "modifier.tconstruct.recapitated": "重述",
     "modifier.tconstruct.recapitated.flavor": "重新戴頭上!",
-    "modifier.tconstruct.recapitated.description": "一次升級即可設置此工具!",
+    "modifier.tconstruct.recapitated.description": "一次升級即可設定此工具!",
     "modifier.tconstruct.resurrected": "復活",
     "modifier.tconstruct.resurrected.flavor": "使其重獲新生!",
     "modifier.tconstruct.resurrected.description": "重新生成此工具的升級插槽之一！",
@@ -1170,9 +1170,9 @@
     "stat.tconstruct.head.mining_speed": "挖礦速度: ",
     "stat.tconstruct.head.mining_speed.description": "帶有這種材料的工具頭的工具能多快地挖出塊。\n可能會受到其他工具零件的影響。",
     "stat.tconstruct.head.harvest_level": "採礦等級: ",
-    "stat.tconstruct.head.harvest_level.description": "具有這種材料的工具頭的工具可以開采的擋塊範圍是多少。",
+    "stat.tconstruct.head.harvest_level.description": "具有這種材料的工具頭的工具可以開採的擋塊範圍是多少。",
     "stat.tconstruct.head.attack": "傷害: ",
-    "stat.tconstruct.head.attack.description": "攻擊計算的基礎值。\n最終結果取決於工具本身和使用的其他組件。",
+    "stat.tconstruct.head.attack.description": "攻擊計算的基礎值。\n最終結果取決於工具本身和使用的其他元件。",
 
     "stat.tconstruct.handle": "處理",
     "stat.tconstruct.handle.durability": "耐用性: ",
@@ -1205,12 +1205,12 @@
     "tooltip.tconstruct.hold_shift": "保留 %s 的統計資訊",
     "tooltip.tconstruct.hold_ctrl": "保留 %s 更多",
 
-    "tooltip.part.material_added_by": "%s 添加的材料",
+    "tooltip.part.material_added_by": "%s 新增的材料",
     "tooltip.part.missing_material": "缺少材料: %s",
     "tooltip.part.missing_stats": "資料缺少必填的統計資訊:\n{0}",
-    "tooltip.part.missing_info": "零件沒有數據",
+    "tooltip.part.missing_info": "零件沒有資料",
 
-    "_comment": "圖形用戶介面",
+    "_comment": "圖形使用者介面",
 
     "itemGroup.tconstruct.general": "匠魂常規物品",
     "itemGroup.tconstruct.tools": "匠魂工具",
@@ -1227,39 +1227,39 @@
     "gui.tconstruct.part_builder.cost": "圖案成本: %s",
     "gui.tconstruct.part_builder.trait": "特徵",
 
-    "gui.tconstruct.modifier_chest": "強化組件箱",
+    "gui.tconstruct.modifier_chest": "強化元件箱",
     "gui.tconstruct.cast_chest": "模具櫃",
     "gui.tconstruct.part_chest": "部件箱",
 
     "gui.tconstruct.tinker_station": "匠魂組裝台",
     "gui.tconstruct.tinker_station.repair": "維修和修改",
     "gui.tconstruct.tinker_station.modifiers": "強化",
-    "gui.tconstruct.tinker_station.components": "組件",
+    "gui.tconstruct.tinker_station.components": "元件",
     "gui.tconstruct.tinker_station.info": "修理或更改工具的主要方法。 將工具和材料放在左側以開始使用。",
     "gui.tconstruct.tinker_station.no_traits": "沒有任何 :[",
 
     "recipe.tconstruct.tool_repair.fully_repaired": "工具未損壞",
 
-    "recipe.tconstruct.part_swapping.too_many_parts": "工作臺太小，無法在此工具上交換零件",
+    "recipe.tconstruct.part_swapping.too_many_parts": "工作台太小，無法在此工具上交換零件",
 
-    "recipe.tconstruct.modifier.not_enough_upgrades": "需要至少%s個升級槽來添加此修改器",
-    "recipe.tconstruct.modifier.not_enough_abilities": "需要至少%s個技能插槽才能添加此修飾符",
+    "recipe.tconstruct.modifier.not_enough_upgrades": "需要至少%s個升級槽來新增此修改器",
+    "recipe.tconstruct.modifier.not_enough_abilities": "需要至少%s個技能插槽才能新增此修飾符",
     "recipe.tconstruct.modifier.max_level": "%s 級別不能高於 %s",
-    "recipe.tconstruct.modifier.requirements_error": "工具狀態對於其中一個修改器無效。 請與您的modpack製造商聯繫，並請求更多描述性錯誤。",
+    "recipe.tconstruct.modifier.requirements_error": "工具狀態對於其中一個修改器無效。 請與您的modpack製造商聯絡，並請求更多描述性錯誤。",
 
     "recipe.tconstruct.modifier.netherite_requirements": "獄髓要求使用鑽石或祖母綠",
-    "recipe.tconstruct.modifier.ender_expander_requirements": "必須先使用神血擴展器(ichor expander)",
+    "recipe.tconstruct.modifier.ender_expander_requirements": "必須先使用神血擴充套件器(ichor expander)",
 
     "_comment": "GUIs Messages",
 
     "gui.tconstruct.caption": "標題",
     "gui.tconstruct.error": "錯誤",
     "gui.tconstruct.warning": "警告",
-    "gui.tconstruct.general.hover": "將鼠標懸停在條目上以獲取更多信息",
+    "gui.tconstruct.general.hover": "將滑鼠懸停在條目上以獲取更多資訊",
     "gui.tconstruct.error.invalid_pattern": "模式不包含有效的工具零件！",
     "gui.tconstruct.error.invalid_recipe": "無效的配方！",
     "gui.tconstruct.error.unknown_material": "未知材料",
-    "gui.tconstruct.error.useless_tool_part": "這部分不能用來製作任何工具！\n\n材料%s缺少某些信息，或者%s沒有工具在製作中使用了",
+    "gui.tconstruct.error.useless_tool_part": "這部分不能用來製作任何工具！\n\n材料%s缺少某些資訊，或者%s沒有工具在製作中使用了",
     "gui.tconstruct.error.not_enough_durability": "沒有足夠的耐久性來更換零件！\n%d需要更多的耐久性。",
 
     "_comment": "JEI Strings",
@@ -1293,7 +1293,7 @@
     "jei.tconstruct.modifiers.upgrade": "強化需要1個升級插槽才能應用",
     "jei.tconstruct.modifiers.upgrades": "強化需要%s個升級插槽才能應用",
     "jei.tconstruct.modifiers.free": "無需應用強化槽",
-    "jei.tconstruct.modifiers.incremental": "配方是增量的，您可以應用部分輸入以獲得局部效果",
+    "jei.tconstruct.modifiers.incremental": "配方是增量的，您可以應用部分輸入以獲得區域性效果",
     "jei.tconstruct.modifiers.max": "Max: ",
 
     "jei.tconstruct.beheading.title": "斬首"

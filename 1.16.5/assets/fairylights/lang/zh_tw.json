@@ -45,15 +45,15 @@
 
     "entity.fairylights.fastener": "扣件",
 
-    "fairylights.editLetteredConnection": "設置彩旗文字",
-    "fairylights.editLetteredConnection.allowed_characters": "允許的字符: %1$s",
+    "fairylights.editLetteredConnection": "設定彩旗文字",
+    "fairylights.editLetteredConnection.allowed_characters": "允許的字元: %1$s",
 
     "recipe.ingredient.tooltip": "§7%s",
-    "recipe.fairylights.ingredient.auxiliary.optional": "(設置)",
+    "recipe.fairylights.ingredient.auxiliary.optional": "(設定)",
     "recipe.fairylights.twinkling_lights.glowstone": "使彩燈閃礫",
-    "recipe.fairylights.hangingLights.light": "添加多個燈光以自定義圖案",
-    "recipe.fairylights.pennantBunting.pennant": "添加多個三角旗以自定義樣式",
-    "recipe.fairylights.hangingLights.string": "添加白色染料以創建白色文字",
+    "recipe.fairylights.hangingLights.light": "新增多個燈光以自定義圖案",
+    "recipe.fairylights.pennantBunting.pennant": "新增多個三角旗以自定義樣式",
+    "recipe.fairylights.hangingLights.string": "新增白色染料以建立白色文字",
 
     "format.fairylights.colored": "%1$s %2$s",
     "format.fairylights.dyed_colored": "已染色 %1$s",
@@ -86,13 +86,13 @@
     "subtitles.block.fairylights.feature.lightTurnOff": "燈關閉",
     "subtitles.block.fairylights.feature.colorChange": "顏色噗通作響",
 
-    "commands.jingler.open.success": "已成功打開 %1$s",
+    "commands.jingler.open.success": "已成功開啟 %1$s",
     "commands.jingler.open.failure.no_hanging_lights": "未選擇吊燈",
-    "commands.jingler.open.failure.device_unavailable": "設備%1$s不可用，可能已被另一個程序使用",
-    "commands.jingler.open.failure.not_found": "沒有名為%1$s的設備",
+    "commands.jingler.open.failure.device_unavailable": "裝置%1$s不可用，可能已被另一個程式使用",
+    "commands.jingler.open.failure.not_found": "沒有名為%1$s的裝置",
     "commands.jingler.close.success.single": "已成功關閉%1$s連接",
     "commands.jingler.close.success.multiple": "已成功關閉%1$s連接",
-    "commands.jingler.close.failure": "沒有要關閉的設備",
+    "commands.jingler.close.failure": "沒有要關閉的裝置",
     "commands.jingler.device.vendor": "供應商: %1$s",
     "commands.jingler.device.description": "說明: %1$s",
 

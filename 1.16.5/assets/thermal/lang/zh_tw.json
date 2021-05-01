@@ -121,14 +121,14 @@
   "info.thermal.redprint.data.RSControl": "紅石控制",
   "info.thermal.redprint.data.Sides": "側面配置",
   "info.thermal.redprint.data.Xfer": "傳輸控制",
-  "info.thermal.redprint.use": "在方塊上使用以複製其設置.",
-  "info.thermal.redprint.use.contents": "在方塊上使用以套用其設置.",
+  "info.thermal.redprint.use": "在方塊上使用以複製其設定.",
+  "info.thermal.redprint.use.contents": "在方塊上使用以套用其設定.",
   "info.thermal.redprint.use.sneak": "潛行使用清除設定.",
 
   "info.thermal.xp_crystal.mode.0": "自動收集關閉",
   "info.thermal.xp_crystal.mode.1": "自動收集啟用",
   "info.thermal.xp_crystal.use": "將經驗轉移至水晶上.",
-  "info.thermal.xp_crystal.use.sneak": "潛行時使用以取回存儲的經驗.",
+  "info.thermal.xp_crystal.use.sneak": "潛行時使用以取回儲存的經驗.",
 
   "item.thermal.redstone_servo": "紅石伺服器",
   "item.thermal.rf_coil": "紅石能量線圈",
@@ -195,7 +195,7 @@
   "item.thermal.phytogro": "植物成長肥料",
   "item.thermal.phytogro.desc": "極有效的肥料.",
   "item.thermal.redprint": "紅圖",
-  "item.thermal.redprint.desc": "在方塊間複製與轉換設置.",
+  "item.thermal.redprint.desc": "在方塊間複製與轉換設定.",
   "item.thermal.wrench": "新月錘",
   "item.thermal.wrench.desc": "旋轉許多方塊. 也被稱為板手.",
   "item.thermal.xp_crystal": "慧眼的水晶",
@@ -342,15 +342,15 @@
   "item.thermal.dynamo_force_coil_augment": "光束投射陣列",
   "item.thermal.dynamo_steam_coil_augment": "蒸汽鍋爐轉換",
 
-  "item.thermal.dynamo_fuel_augment": "多循環噴油器",
+  "item.thermal.dynamo_fuel_augment": "多迴圈噴油器",
   "item.thermal.dynamo_output_augment": "輔助反應室",
 
   "item.thermal.fluid_tank_augment": "擴增儲罐建設",
 
   "item.thermal.machine_catalyst_augment": "催化回收室",
-  "item.thermal.machine_cycle_augment": "循環處理",
-  "item.thermal.machine_cycle_augment.desc": "產物可在程序完成時轉移到輸入端中.",
-  "item.thermal.machine_output_augment": "輔助程序篩",
+  "item.thermal.machine_cycle_augment": "迴圈處理",
+  "item.thermal.machine_cycle_augment.desc": "產物可在程式完成時轉移到輸入端中.",
+  "item.thermal.machine_output_augment": "輔助程式篩",
   "item.thermal.machine_speed_augment": "能量連鎖放大器",
 
   "item.thermal.potion_amplifier_augment": "煉金放大器",
@@ -360,19 +360,19 @@
   "item.thermal.rf_coil_storage_augment": "穩定 RF 線圈",
   "item.thermal.rf_coil_xfer_augment": "高能量 RF 線圈",
 
-  "item.thermal.upgrade_augment_1": "硬化型整體組件",
+  "item.thermal.upgrade_augment_1": "硬化型整體元件",
   "item.thermal.upgrade_augment_1.desc": "改善基本屬性並增加擴充.",
-  "item.thermal.upgrade_augment_2": "加強型整體組件",
+  "item.thermal.upgrade_augment_2": "加強型整體元件",
   "item.thermal.upgrade_augment_2.desc": "改善基本屬性並增加擴充.",
-  "item.thermal.upgrade_augment_3": "振諧整體組件",
+  "item.thermal.upgrade_augment_3": "振諧整體元件",
   "item.thermal.upgrade_augment_3.desc": "改善基本屬性並增加擴充.",
 
-  "item.thermal.upgrade_augment_4": "振諧+ 整體組件",
+  "item.thermal.upgrade_augment_4": "振諧+ 整體元件",
   "item.thermal.upgrade_augment_4.desc": "改善基本屬性並增加擴充.",
 
   "_comment": "========================================================================================================",
   "_comment": "熱力核心 - 外部External",
-  "_comment": "這些“存在”於熱力核心中，但不是預設值，並且已從多個可能的模塊中註冊.",
+  "_comment": "這些“存在”於熱力核心中，但不是預設值，並且已從多個可能的模組中註冊.",
   "_comment": "========================================================================================================",
 
   "block.thermal.device_hive_extractor": "蜂箱漏斗",
@@ -411,7 +411,7 @@
   "info.thermal.fluid_cell.1": "按住 §e§oShift§r 和/或 §e§oCtrl§r 調整量.",
 
   "info.thermal.tinker_bench.0": "多功能的工作台,可進行擴充,充電,補充.",
-  "info.thermal.tinker_bench.1": "可以使用各種的插槽補滿存儲器.",
+  "info.thermal.tinker_bench.1": "可以使用各種的插槽補滿儲存器.",
   "info.thermal.tinker_bench.2": "工匠開啟!",
 
   "info.thermal.tinker_bench_mode_augment": "模式: 擴充",
@@ -436,7 +436,7 @@
   "item.thermal.hazmat_boots": "防護靴",
 
   "item.thermal.drill_head": "鑽頭",
-  "item.thermal.laser_diode": "雷射二極管",
+  "item.thermal.laser_diode": "雷射二極體",
   "item.thermal.saw_blade": "鋸片",
 
   "item.thermal.rf_potato": "電容器",
@@ -476,7 +476,7 @@
 
   "_comment": "========================================================================================================",
   "_comment": "熱力核心 - 香草",
-  "_comment": "這些處理以'香草'為重點的添加.",
+  "_comment": "這些處理以'香草'為重點的新增.",
   "_comment": "========================================================================================================",
 
   "block.thermal.bamboo_block": "竹塊",
@@ -624,7 +624,7 @@
   "info.thermal.basic_sawmill.2": "蒸汽動力-需要燃料和水.",
 
   "_comment": "========================================================================================================",
-  "_comment": "熱力擴展",
+  "_comment": "熱力擴充套件",
   "_comment": "========================================================================================================",
 
   "block.thermal.device_fluid_buffer": "流體分配器",
@@ -664,7 +664,7 @@
   "info.thermal.dynamo_compression.0": "使用可燃流體產生紅石能量.",
 
   "info.thermal.dynamo_lapidary.0": "使用寶石產生紅石能量!!",
-  "info.thermal.dynamo_lapidary.1": "可能是一個傳送門通往一個另類的有著癡迷於發光品的哥布林維度.",
+  "info.thermal.dynamo_lapidary.1": "可能是一個傳送門通往一個另類的有著痴迷於發光品的哥布林維度.",
   "info.thermal.dynamo_lapidary.2": "反正寶石真的只是漂亮的石頭罷了.",
 
   "info.thermal.dynamo_magmatic.0": "使用極熱的流體產生紅石能量.",
@@ -752,7 +752,7 @@
   "info.thermal.magnet.mode.0": "自動吸引已停用",
   "info.thermal.magnet.mode.1": "自動吸引已啟用",
   "info.thermal.magnet.use": "用來在目標位置吸引物品.",
-  "info.thermal.magnet.use.sneak": "潛行時使用以進行設置.",
+  "info.thermal.magnet.use.sneak": "潛行時使用以進行設定.",
 
   "info.thermal.infuser.mode.0": "自動注入已停用",
   "info.thermal.infuser.mode.1": "自動注入已啟用",

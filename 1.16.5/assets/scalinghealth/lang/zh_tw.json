@@ -3,7 +3,7 @@
     "blight.scalinghealth.killedByPlayer": "%s 死於 %s !",
     "block.scalinghealth.heart_crystal_ore": "心之水晶礦石",
     "block.scalinghealth.power_crystal_ore": "力量水晶礦石",
-    "command.scalinghealth.outOfBounds": "該參數必須在 %s 與 %s 之間.",
+    "command.scalinghealth.outOfBounds": "該引數必須在 %s 與 %s 之間.",
     "command.scalinghealth.valueOverMax": "%s / %s",
     "command.scalinghealth.playerName": "玩家: %s %s",
     "command.scalinghealth.playerName.inDimension": "(在 %s 維度)",

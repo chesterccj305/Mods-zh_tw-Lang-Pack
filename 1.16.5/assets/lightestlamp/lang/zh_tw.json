@@ -34,8 +34,8 @@
 	"block.lightestlamp.radon_rod_block":"氡棒方塊",
 
 	"block.lightestlamp.glowing_glass_block":"發光玻璃",
-	"block.lightestlamp.debug_chunk_cleaner":"區塊光照重載器(Debug)",
-	"block.lightestlamp.occ":"OCC塊清理程序(Debug)",
+	"block.lightestlamp.debug_chunk_cleaner":"區塊光照過載器(Debug)",
+	"block.lightestlamp.occ":"OCC塊清理程式(Debug)",
 	"block.lightestlamp.boron_ore":"硼礦",
 
 	"item.lightestlamp.glowing_dust_agglomeratio":"發光的塵埃聚集",
@@ -51,9 +51,9 @@
 	"item.lightestlamp.xenon_centrifuge_filter":"離心機過濾器",
 	"item.lightestlamp.radon_centrifuge_filter":"離心機過濾器",
 
-	"item.lightestlamp.debug_stick":"調試棒 (Debug)",
+	"item.lightestlamp.debug_stick":"除錯棒 (Debug)",
 	"item.lightestlamp.written_book": "明亮的燈手冊",
-	"item.lightestlamp.carbon_nanotube": "納米碳管",
+	"item.lightestlamp.carbon_nanotube": "奈米碳管",
 	"item.lightestlamp.alchemical_dust":"煉金粉",
 	"item.lightestlamp.stickandbowl":"研缽和研杵",
 	"item.lightestlamp.moon_shard":"月之碎片",

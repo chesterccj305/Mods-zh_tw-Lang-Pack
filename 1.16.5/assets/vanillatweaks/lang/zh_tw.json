@@ -43,7 +43,7 @@
   "enchantment.vanillatweaks.veteran.desc": "作用於頭盔上，可以吸引以你為中心的32格球形球體以內的經驗",
   "enchantment.vanillatweaks.blazing.desc": "作用於工具上，自動熔煉礦物",
   "enchantment.vanillatweaks.siphon.desc": "所有掉落的礦物會立即進入你的物品欄",
-  "enchantment.vanillatweaks.homing.desc": "作用於弓上，你的箭會自動瞄准你的目標",
+  "enchantment.vanillatweaks.homing.desc": "作用於弓上，你的箭會自動瞄準你的目標",
 
   "_comment": "keybinds",
   "key.category.vt": "原版修復",

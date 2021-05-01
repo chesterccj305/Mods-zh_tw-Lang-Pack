@@ -33,7 +33,7 @@
   "gui.krate.filter.nbt.false": "NBT:忽略",
   "gui.krate.filter.clear": "清除",
   "gui.krate.reset": "重製",
-  "gui.krate.visualize": "可視化",
+  "gui.krate.visualize": "視覺化",
   "gui.krate.collecting.setting": "收集設定",
   "gui.krate.hopper.setting": "漏斗設定",
   "gui.krate.compacting.mode": "壓縮: ",
