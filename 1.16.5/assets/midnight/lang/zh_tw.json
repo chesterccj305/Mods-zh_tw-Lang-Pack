@@ -465,7 +465,7 @@
 
   "_comment": "Config",
 
-  "config.midnight.title.client": "午夜配置-用戶端",
+  "config.midnight.title.client": "午夜配置-使用者端",
   "config.midnight.title.compat": "午夜配置-相容性",
   "config.midnight.title.server_logic": "夜配置-伺服器端",
   "config.midnight.title.worldgen": "午夜配置-世界生成",
@@ -477,8 +477,8 @@
   "config.midnight.header.lightning": "閃電",
   "config.midnight.header.general": "一般",
 
-  "config.midnight.category.client": "用戶端設定",
-  "config.midnight.category.client.tooltip": "僅適用於用戶端，不做任何伺服器端設定的設定",
+  "config.midnight.category.client": "使用者端設定",
+  "config.midnight.category.client.tooltip": "僅適用於使用者端，不做任何伺服器端設定的設定",
   "config.midnight.category.compat": "相容性設定",
   "config.midnight.category.compat.tooltip": "關於午夜模組如何與其他模組和原版一起運作的設定",
   "config.midnight.category.server": "伺服器端設定",

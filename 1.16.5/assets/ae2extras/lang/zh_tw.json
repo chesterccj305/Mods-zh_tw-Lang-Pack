@@ -5,13 +5,13 @@
   "block.ae2extras.16m_crafting_storage": "16m 合成儲存裝置",
   "itemGroup.ae2extras" : "AE2 附加",
 
-  "item.ae2extras.1m_cell_component": "1m ME存儲組件",
-  "item.ae2extras.4m_cell_component": "4m ME存儲組件",
-  "item.ae2extras.16m_cell_component": "16m ME存儲組件",
-  "item.ae2extras.256k_cell_component": "256k ME存儲組件",
+  "item.ae2extras.1m_cell_component": "1m ME儲存元件",
+  "item.ae2extras.4m_cell_component": "4m ME儲存元件",
+  "item.ae2extras.16m_cell_component": "16m ME儲存元件",
+  "item.ae2extras.256k_cell_component": "256k ME儲存元件",
 
-  "item.ae2extras.1m_storage_cell": "1m ME存儲單元",
-  "item.ae2extras.4m_storage_cell": "4m ME存儲單元",
-  "item.ae2extras.16m_storage_cell": "16m ME存儲單元",
-  "item.ae2extras.256k_storage_cell": "256k ME存儲單元"
+  "item.ae2extras.1m_storage_cell": "1m ME儲存單元",
+  "item.ae2extras.4m_storage_cell": "4m ME儲存單元",
+  "item.ae2extras.16m_storage_cell": "16m ME儲存單元",
+  "item.ae2extras.256k_storage_cell": "256k ME儲存單元"
 }

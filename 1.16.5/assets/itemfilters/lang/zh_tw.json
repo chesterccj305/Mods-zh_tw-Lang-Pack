@@ -21,7 +21,7 @@
 	"item.itemfilters.mod": "Mod Filter",
 	"item.itemfilters.mod.description": "Use Mod ID",
 	"item.itemfilters.id_regex": "ID RegEx Filter",
-	"item.itemfilters.id_regex.description": "使用正則表達式檢查項目 ID",
+	"item.itemfilters.id_regex.description": "使用正規表示式檢查項目 ID",
 	"item.itemfilters.damage": "損壞過濾器",
 	"item.itemfilters.damage.description": "檢查物品損壞",
 	"item.itemfilters.block": "塊過濾器",

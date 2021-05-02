@@ -43,7 +43,7 @@
   "info.cofh.optional_catalyst": "可選擇催化劑",
   "info.cofh.output": "輸出",
   "info.cofh.receive": "接收",
-  "info.cofh.send": "發送",
+  "info.cofh.send": "傳送",
   "info.cofh.single_block": "單一方塊",
   "info.cofh.transfer": "傳送",
   "info.cofh.type": "類型",
@@ -114,7 +114,7 @@
   "effect.cofh_core.chilled": "冷凝",
   "effect.cofh_core.clarity": "清晰",
   "effect.cofh_core.eagle_eye": "鷹眼",
-  "effect.cofh_core.enderference": "干擾",
+  "effect.cofh_core.enderference": "幹擾",
   "effect.cofh_core.explosion_resistance": "爆炸抗性",
   "effect.cofh_core.lightning_resistance": "衝擊抗性",
   "effect.cofh_core.love": "愛",
@@ -125,7 +125,7 @@
   "effect.cofh_core.sundered": "破爛的",
   "effect.cofh_core.wrenched": "扭動的!",
 
-  "enchantment.cofh_core.holding": "保存",
+  "enchantment.cofh_core.holding": "儲存",
   "enchantment.cofh_core.holding.desc": "增加特定物品的儲存容量.",
 
   "fluid.cofh_core.experience": "知識精華",
@@ -136,8 +136,8 @@
 
   "item.cofh_core.ectoplasm": "細胞外質",
 
-  "key.cofh.mode_change_increment": "前進循環模式",
-  "key.cofh.mode_change_decrement": "反向循環模式",
+  "key.cofh.mode_change_increment": "前進迴圈模式",
+  "key.cofh.mode_change_decrement": "反向迴圈模式",
 
   "_comment": "========================================================================================================",
   "_comment": "麥塊",
@@ -183,7 +183,7 @@
 
   "item.minecraft.lingering_potion.effect.amplification": "放大滯留藥水",
   "item.minecraft.lingering_potion.effect.clarity": "清晰滯留藥水",
-  "item.minecraft.lingering_potion.effect.enderference": "干擾滯留藥水",
+  "item.minecraft.lingering_potion.effect.enderference": "幹擾滯留藥水",
   "item.minecraft.lingering_potion.effect.explosion_resistance": "爆炸抗性滯留藥水",
   "item.minecraft.lingering_potion.effect.lightning_resistance": "衝擊抗性滯留藥水",
   "item.minecraft.lingering_potion.effect.love": "愛的滯留藥水",
@@ -191,7 +191,7 @@
   "item.minecraft.lingering_potion.effect.panacea": "滯留的萬靈丹",
   "item.minecraft.potion.effect.amplification": "放大藥水",
   "item.minecraft.potion.effect.clarity": "清晰藥水",
-  "item.minecraft.potion.effect.enderference": "干擾藥水",
+  "item.minecraft.potion.effect.enderference": "幹擾藥水",
   "item.minecraft.potion.effect.explosion_resistance": "爆炸抗性藥水",
   "item.minecraft.potion.effect.lightning_resistance": "衝擊抗性藥水",
   "item.minecraft.potion.effect.love": "愛的藥水",
@@ -199,7 +199,7 @@
   "item.minecraft.potion.effect.panacea": "萬靈丹",
   "item.minecraft.splash_potion.effect.amplification": "飛濺放大藥水",
   "item.minecraft.splash_potion.effect.clarity": "飛濺清晰藥水",
-  "item.minecraft.splash_potion.effect.enderference": "飛濺干擾藥水",
+  "item.minecraft.splash_potion.effect.enderference": "飛濺幹擾藥水",
   "item.minecraft.splash_potion.effect.explosion_resistance": "飛濺爆炸抗性藥水",
   "item.minecraft.splash_potion.effect.lightning_resistance": "飛濺衝擊抗性藥水",
   "item.minecraft.splash_potion.effect.love": "飛濺愛的藥水",
@@ -207,7 +207,7 @@
   "item.minecraft.splash_potion.effect.panacea": "飛濺萬靈丹",
   "item.minecraft.tipped_arrow.effect.amplification": "放大箭矢",
   "item.minecraft.tipped_arrow.effect.clarity": "清晰箭矢",
-  "item.minecraft.tipped_arrow.effect.enderference": "干擾箭矢",
+  "item.minecraft.tipped_arrow.effect.enderference": "幹擾箭矢",
   "item.minecraft.tipped_arrow.effect.explosion_resistance": "爆炸抗性箭矢",
   "item.minecraft.tipped_arrow.effect.lightning_resistance": "衝擊抗性箭矢",
   "item.minecraft.tipped_arrow.effect.love": "愛的箭矢",

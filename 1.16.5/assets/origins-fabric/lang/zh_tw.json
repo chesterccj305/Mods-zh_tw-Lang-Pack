@@ -167,7 +167,7 @@
   "category.origins": "起源",
   "key.origins.primary_active": "啟動能力（主要）",
   "key.origins.secondary_active": "啟動能力 (次要)",
-  "key.origins.view_origin": "查看起源",
+  "key.origins.view_origin": "檢視起源",
 
   "text.autoconfig.origins.title": "起源設定",
   "text.autoconfig.origins.option.xOffset": "冷卻欄偏移X",
@@ -186,13 +186,13 @@
   "origins.gui.choose_origin.title": "選擇你的 %s.",
   "origins.gui.view_origin.title": "這是你的 %s.",
   "origins.gui.view_origin.empty": "你沒有任何起源。",
-  "origins.gui.view_origin.not_installed": "服務器未安裝起源。",
+  "origins.gui.view_origin.not_installed": "伺服器未安裝起源。",
   "origins.gui.impact.impact": "影響",
   "origins.gui.impact.none": "沒有",
   "origins.gui.impact.low": "低",
   "origins.gui.impact.medium": "中",
   "origins.gui.impact.high": "高",
-  "origins.gui.version_mismatch": "該服務器正在運行其他版本的起源 (v%1$s) 與您所安裝的不兼容 (v%2$s).",
+  "origins.gui.version_mismatch": "該伺服器正在執行其他版本的起源 (v%1$s) 與您所安裝的不相容 (v%2$s).",
 
   "origin.origins.random.name": "隨機",
   "origin.origins.random.description": "您將被分配以下內容之一：",
@@ -209,8 +209,8 @@
   "death.attack.genericDamageOverTime.player": "%1$s在跟%2$s被持續性傷害效果殺死了",
 
   "commands.origin.origin_not_found": "未知的起源: %s",
-  "commands.origin.set.success.single": "設置%s在%s層中的起源為%s.",
-  "commands.origin.set.success.multiple": "設置%s個目標在%s層中的起源為%s.",
+  "commands.origin.set.success.single": "設定%s在%s層中的起源為%s.",
+  "commands.origin.set.success.multiple": "設定%s個目標在%s層中的起源為%s.",
 
   "origins.avian_sleep_fail": "你需要新鮮的空氣才能入睡"
 }

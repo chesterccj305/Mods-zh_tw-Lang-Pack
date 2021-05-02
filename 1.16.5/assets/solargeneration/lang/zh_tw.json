@@ -30,7 +30,7 @@
     "block.solargeneration.solar_panel_ultimate": "終極太陽能板",
     
     "advancements.solargeneration.root": "太陽能發電",
-    "advancements.solargeneration.root.desc": "通過創建一個光伏面板來開始您的太陽能之旅",
+    "advancements.solargeneration.root.desc": "通過建立一個光伏面板來開始您的太陽能之旅",
 
     "advancements.solargeneration.solar_panel_leadstone": "從基礎開始",
     "advancements.solargeneration.solar_panel_leadstone.desc": "製作一個鉛石太陽能板",
@@ -38,7 +38,7 @@
     "advancements.solargeneration.solar_panel_hardened.desc": "製作一個強化太陽能板",
     "advancements.solargeneration.solar_panel_redstone": "能量不足",
     "advancements.solargeneration.solar_panel_redstone.desc": "製作一個紅石太陽能板",
-    "advancements.solargeneration.solar_panel_signalum": "正在尋找信號",
+    "advancements.solargeneration.solar_panel_signalum": "正在尋找訊號",
     "advancements.solargeneration.solar_panel_signalum.desc": "製作一個信素太陽能板",
     "advancements.solargeneration.solar_panel_resonant": "權力升級",
     "advancements.solargeneration.solar_panel_resonant.desc": "製作一個諧振太陽能板",
@@ -53,7 +53,7 @@
     "advancements.solargeneration.solar_helmet_hardened.desc": "製作一個強化太陽頭盔",
     "advancements.solargeneration.solar_helmet_redstone": "電心",
     "advancements.solargeneration.solar_helmet_redstone.desc": "製作一個紅石太陽頭盔",
-    "advancements.solargeneration.solar_helmet_signalum": "腦信號",
+    "advancements.solargeneration.solar_helmet_signalum": "腦訊號",
     "advancements.solargeneration.solar_helmet_signalum.desc": "製作一個信素太陽頭盔",
     "advancements.solargeneration.solar_helmet_resonant": "共鳴",
     "advancements.solargeneration.solar_helmet_resonant.desc": "製作一個諧振太陽頭盔",

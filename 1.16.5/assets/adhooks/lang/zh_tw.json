@@ -19,6 +19,6 @@
 	"tooltip.adhooks.launcher.loosen": "%%1$s鬆開：%2$s（按下）",
 	"tooltip.adhooks.launcher.boost_up": "%1$s上推：當拉的時候，按下 %2$s 或者 %3$s",
 	"tooltip.adhooks.launcher.release": "%1$s釋放：當按住 %3$s 時按 %2$s",
-	"tooltip.adhooks.launcher.more_info": "%1$s按下%2$s %3$s%1$s 查看更多資訊",
-	"tooltip.adhooks.launcher.controls": "%1$s按下%2$s %3$s%1$s 查看控制說明"
+	"tooltip.adhooks.launcher.more_info": "%1$s按下%2$s %3$s%1$s 檢視更多資訊",
+	"tooltip.adhooks.launcher.controls": "%1$s按下%2$s %3$s%1$s 檢視控制說明"
 }

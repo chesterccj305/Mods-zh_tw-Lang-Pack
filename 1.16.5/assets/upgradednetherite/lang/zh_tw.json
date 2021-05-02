@@ -304,8 +304,8 @@
   "upgradednetherite.Ender_Weapon.TT": "§7• §6禁止傳送§7 §610秒§7",
   "upgradednetherite.Ender_Weapon2.TT": "§7• 對§6終界使者§7的§6傷害§7提高§61§7",
   "upgradednetherite.Ender_Tool.TT": "§7• §6戰利品§7傳送到目標儲物箱",
-  "upgradednetherite.Ender_ToolReq.TT": "§b§n潛行§r §f+ §b§n右擊§r§f 設置目標儲物箱",
-  "upgradednetherite.Ender_ToolTar.TT": "按住§b§nShift§r§f查看目標訊息",
+  "upgradednetherite.Ender_ToolReq.TT": "§b§n潛行§r §f+ §b§n右擊§r§f 設定目標儲物箱",
+  "upgradednetherite.Ender_ToolTar.TT": "按住§b§nShift§r§f檢視目標訊息",
   "upgradednetherite.Ender_Dim.TT": "§7• §c目標儲物箱位於另一個維度",
   "upgradednetherite.Ender_Shield.TT": "§7• 可能對§6終界使者§7造成 §61§7點 §6傷害§7",
   "upgradednetherite.Ender_Shield2.TT": "§7• 可能造成§6禁止傳送§7 §610秒§7",
@@ -341,9 +341,9 @@
   "upgradednetherite.Enchanted_Netherite_Apple5.TT": "§5§o力量IV 20秒",
 
   "upgradednetherite.Blank.TT": "",
-  "upgradednetherite.HoldShift.TT": "按住§b§nShift§r§f查看訊息",
+  "upgradednetherite.HoldShift.TT": "按住§b§nShift§r§f檢視訊息",
   "upgradednetherite.Bonus.TT": "§a§l獎利",
-  "upgradednetherite.SetBonus.TT": "§a§l設置獎利",
+  "upgradednetherite.SetBonus.TT": "§a§l設定獎利",
   "upgradednetherite.OnHit.TT": "§e§l命中",
   "upgradednetherite.WhenBlocking.TT": "§e§l封鎖時",
   "upgradednetherite.Target.TT": "§3§l目標"

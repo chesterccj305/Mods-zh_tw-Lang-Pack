@@ -32,39 +32,39 @@
   
   "_comment": "超多生物群系丨https://github.com/Glitchfiend/BiomesOPlenty/blob/BOP-1.16.4-13.x.x/src/main/resources/assets/biomesoplenty/lang/zh_tw.json",
   
-  "item.extraboats.cherry_chest_boat": "樱木箱子船",
+  "item.extraboats.cherry_chest_boat": "櫻木箱子船",
   "item.extraboats.dead_chest_boat": "垂死木箱子船",
   "item.extraboats.fir_chest_boat": "紅杉木箱子船",
-  "item.extraboats.hellbark_chest_boat": "地狱皮木箱子船",
+  "item.extraboats.hellbark_chest_boat": "地獄皮木箱子船",
   "item.extraboats.jacaranda_chest_boat": "藍花楹木箱子船",
   "item.extraboats.magic_chest_boat": "魔法木箱子船",
   "item.extraboats.mahogany_chest_boat": "桃花心木箱子船",
   "item.extraboats.palm_chest_boat": "棕櫚木箱子船",
-  "item.extraboats.redwood_chest_boat": "红木箱子船",
+  "item.extraboats.redwood_chest_boat": "紅木箱子船",
   "item.extraboats.umbran_chest_boat": "暗影木箱子船",
   "item.extraboats.willow_chest_boat": "柳木箱子船",
   
-  "item.extraboats.cherry_furnace_boat": "樱木動力船",
+  "item.extraboats.cherry_furnace_boat": "櫻木動力船",
   "item.extraboats.dead_furnace_boat": "垂死木動力船",
   "item.extraboats.fir_furnace_boat": "紅杉木動力船",
   "item.extraboats.hellbark_furnace_boat": "地獄皮木動力船",
   "item.extraboats.jacaranda_furnace_boat": "藍花楹木動力船",
-  "item.extraboats.magic_furnace_boat": "魔法木动力船",
+  "item.extraboats.magic_furnace_boat": "魔法木動力船",
   "item.extraboats.mahogany_furnace_boat": "桃花心木動力船",
   "item.extraboats.palm_furnace_boat": "棕櫚木動力船",
-  "item.extraboats.redwood_furnace_boat": "红木動力船",
+  "item.extraboats.redwood_furnace_boat": "紅木動力船",
   "item.extraboats.umbran_furnace_boat": "暗影木動力船",
   "item.extraboats.willow_furnace_boat": "柳木動力船",
   
-  "item.extraboats.large_cherry_boat": "樱木大型船",
+  "item.extraboats.large_cherry_boat": "櫻木大型船",
   "item.extraboats.large_dead_boat": "垂死木大型船",
   "item.extraboats.large_fir_boat": "杉木大型船",
-  "item.extraboats.large_hellbark_boat": "地狱皮木大型船",
+  "item.extraboats.large_hellbark_boat": "地獄皮木大型船",
   "item.extraboats.large_jacaranda_boat": "藍花楹木大型船",
   "item.extraboats.large_magic_boat": "魔法木大型船",
   "item.extraboats.large_mahogany_boat": "桃花心木大型船",
-  "item.extraboats.large_palm_boat": "棕榈木大型船",
-  "item.extraboats.large_redwood_boat": "红木大型船",
+  "item.extraboats.large_palm_boat": "棕櫚木大型船",
+  "item.extraboats.large_redwood_boat": "紅木大型船",
   "item.extraboats.large_umbran_boat": "暗影木大型船",
   "item.extraboats.large_willow_boat": "柳木大型船",
   
@@ -83,9 +83,9 @@
   
   "_comment": "Bamboo Blocks丨It only has translation that was not made by native speakers and needs to be reviewed and updated丨https://github.com/team-abnormals/bamboo-blocks/blob/master/src/main/resources/assets/bamboo_blocks/lang/zh_cn.json",
   
-  "item.extraboats.bamboo_chest_boat": "竹制箱子船",
-  "item.extraboats.bamboo_furnace_boat": "竹制動力船",
-  "item.extraboats.large_bamboo_boat": "竹制大型船",
+  "item.extraboats.bamboo_chest_boat": "竹製箱子船",
+  "item.extraboats.bamboo_furnace_boat": "竹製動力船",
+  "item.extraboats.large_bamboo_boat": "竹製大型船",
   
   
   "_comment": "Endergetic Expansion丨It has no official CHS translation so I left them here丨https://github.com/team-abnormals/endergetic/tree/1.16.x/src/main/resources/assets/endergetic/lang",
@@ -105,9 +105,9 @@
   "item.extraboats.env_willow_furnace_boat": "柳木動力船",
   "item.extraboats.large_env_willow_boat": "柳木大型船",
   
-  "item.extraboats.env_cherry_chest_boat": "樱木箱子船",
+  "item.extraboats.env_cherry_chest_boat": "櫻木箱子船",
   "item.extraboats.env_cherry_furnace_boat": "櫻木動力船",
-  "item.extraboats.large_env_cherry_boat": "樱木大型船",
+  "item.extraboats.large_env_cherry_boat": "櫻木大型船",
   
   
   "_comment": "Atmospheric丨It has no official CHS translation so I left them here丨https://github.com/team-abnormals/atmospheric/tree/master/src/main/resources/assets/atmospheric/lang",
@@ -158,7 +158,7 @@
 
   "_comment": "Hanami丨It has no official CHS translation丨https://github.com/teamauroramods/Hanami/tree/master/src/main/resources/assets/hanami/lang",
 
-  "item.extraboats.sakura_chest_boat": "樱花木箱子船",
-  "item.extraboats.sakura_furnace_boat": "樱花木動力船",
-  "item.extraboats.large_sakura_boat": "樱花木大型船"
+  "item.extraboats.sakura_chest_boat": "櫻花木箱子船",
+  "item.extraboats.sakura_furnace_boat": "櫻花木動力船",
+  "item.extraboats.large_sakura_boat": "櫻花木大型船"
 }

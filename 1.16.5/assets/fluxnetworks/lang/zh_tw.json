@@ -40,13 +40,13 @@
 	"info.fluxnetworks.network.energy": "能量類型",
 	"info.fluxnetworks.network.color": "顏色",
 
-	"info.fluxnetworks.denied.access": "拒絕存取：無權限",
+	"info.fluxnetworks.denied.access": "拒絕存取：無許可權",
 	"info.fluxnetworks.denied.occupy": "拒絕存取：另一名玩家正在使用",
-	"info.fluxnetworks.denied.removal": "拒絕移除：無權限",
+	"info.fluxnetworks.denied.removal": "拒絕移除：無許可權",
 
 	"info.fluxnetworks.click": "點上方的",
 	"info.fluxnetworks.above": "以上",
-	"info.fluxnetworks.clickabove": "點擊上方的%s",
+	"info.fluxnetworks.clickabove": "點選上方的%s",
 
 	"info.fluxnetworks.error.noselected": "尚未選擇網路",
 	"info.fluxnetworks.error.nonetwork": "無可用網路",
@@ -98,8 +98,8 @@
 	"info.fluxnetworks.gui.setuser": "設為使用者",
 	"info.fluxnetworks.gui.setadmin": "設為管理員",
 	"info.fluxnetworks.gui.playername": "玩家名字",
-	"info.fluxnetworks.gui.playeraccess": "存取權限",
-	"info.fluxnetworks.gui.cancelmembership": "撤銷成員權限",
+	"info.fluxnetworks.gui.playeraccess": "存取許可權",
+	"info.fluxnetworks.gui.cancelmembership": "撤銷成員許可權",
 	"info.fluxnetworks.gui.you": "你",
 
 	"info.fluxnetworks.gui.sort.smart": "智慧",

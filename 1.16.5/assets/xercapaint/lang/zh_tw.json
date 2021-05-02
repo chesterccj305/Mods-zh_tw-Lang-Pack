@@ -1,7 +1,7 @@
 {
   "itemGroup.paint_tab": "繪畫",
 
-  "item.xercapaint.item_palette": "調色板",
+  "item.xercapaint.item_palette": "調色盤",
   "item.xercapaint.item_canvas": "畫布",
   "item.xercapaint.item_canvas_large": "大畫布",
   "item.xercapaint.item_canvas_long": "長畫布",
@@ -9,7 +9,7 @@
 
   "palette.basic_count": "%1$s基本顏色",
   "palette.custom_count": "%1$s自訂顏色",
-  "palette.empty": "空調色板",
+  "palette.empty": "空調色盤",
 
   "canvas.empty": "空畫布",
   "canvas.byAuthor": "by %1$s",

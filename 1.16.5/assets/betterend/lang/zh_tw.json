@@ -76,16 +76,16 @@
 	"item.betterend.leather_stripe": "皮革條",
 	"item.betterend.leather_wrapped_stick": "皮革棒",
 	
-	"effect.betterend.end_veil": "終界面紗",
-	"enchantment.betterend.end_veil": "終界面紗",
-	"item.minecraft.potion.effect.end_veil": "終界面紗藥水",
-	"item.minecraft.potion.effect.long_end_veil": "終界面紗藥水",
-	"item.minecraft.splash_potion.effect.end_veil": "飛濺 終界面紗藥水",
-	"item.minecraft.splash_potion.effect.long_end_veil": "飛濺 終界面紗藥水",
-	"item.minecraft.lingering_potion.effect.end_veil": "滯留 終界面紗藥水",
-	"item.minecraft.lingering_potion.effect.long_end_veil": "滯留 終界面紗藥水",
-	"item.minecraft.tipped_arrow.effect.end_veil": "終界面紗之箭",
-	"item.minecraft.tipped_arrow.effect.long_end_veil": "終界面紗之箭",
+	"effect.betterend.end_veil": "終介面紗",
+	"enchantment.betterend.end_veil": "終介面紗",
+	"item.minecraft.potion.effect.end_veil": "終介面紗藥水",
+	"item.minecraft.potion.effect.long_end_veil": "終介面紗藥水",
+	"item.minecraft.splash_potion.effect.end_veil": "飛濺 終介面紗藥水",
+	"item.minecraft.splash_potion.effect.long_end_veil": "飛濺 終介面紗藥水",
+	"item.minecraft.lingering_potion.effect.end_veil": "滯留 終介面紗藥水",
+	"item.minecraft.lingering_potion.effect.long_end_veil": "滯留 終介面紗藥水",
+	"item.minecraft.tipped_arrow.effect.end_veil": "終介面紗之箭",
+	"item.minecraft.tipped_arrow.effect.long_end_veil": "終介面紗之箭",
 	
 	"block.betterend.mossy_glowshroom_sapling": "苔光菇樹苗",
 	"block.betterend.mossy_glowshroom_cap": "苔光菇菌蓋",
@@ -290,7 +290,7 @@
 	
 	"block.betterend.murkweed": "黝黑草",
 	"block.betterend.needlegrass": "針芒草",
-	"block.betterend.twisted_vine": "卷曲藤",
+	"block.betterend.twisted_vine": "捲曲藤",
 	
 	"block.betterend.shadow_berry": "暗影莓種子",
 	"item.betterend.shadow_berry_cooked": "熟暗影莓",
@@ -355,7 +355,7 @@
 	"block.betterend.pink_moss": "粉紅苔石",
 	"block.betterend.pink_moss_path": "粉紅苔石徑",
 	
-	"block.betterend.twisted_moss": "卷曲苔蘚",
+	"block.betterend.twisted_moss": "捲曲苔蘚",
 	
 	"block.betterend.bulb_vine": "球莖藤",
 	"block.betterend.bulb_vine_seed": "球莖藤種子",
@@ -503,8 +503,8 @@
 	"block.betterend.charnia_green": "綠色加尼亞海草",
 	"block.betterend.vent_bubble_column": "氣泡柱",
 	"block.betterend.respawn_obelisk": "重生碑",
-	"message.betterend.set_spawn": "\u00A7b\u00A7l你的重生點已設置於此處",
-	"message.betterend.fail_spawn": "\u00A7c\u00A7l你需要手持6個琥珀寶石才能設置重生點",
+	"message.betterend.set_spawn": "\u00A7b\u00A7l你的重生點已設定於此處",
+	"message.betterend.fail_spawn": "\u00A7c\u00A7l你需要手持6個琥珀寶石才能設定重生點",
 	
 	"block.betterend.dragon_tree_composter": "龍鱗木堆肥箱",
 	"block.betterend.end_lotus_composter": "終界蓮堆肥箱",
@@ -514,7 +514,7 @@
 	"block.betterend.pythadendron_composter": "紫頌木堆肥箱",
 	"block.betterend.tenanea_composter": "十紋木堆肥箱",
 	
-	"biome.betterend.old_bulbis_gardens": "古老布爾比斯花園",
+	"biome.betterend.old_bulbis_gardens": "古老布林比斯花園",
 	"block.betterend.ivis_moss": "伊維斯苔蘚",
 	"block.betterend.ivis_vine": "伊維斯藤",
 	"block.betterend.silk_moth_nest": "蠶蛾巢",
