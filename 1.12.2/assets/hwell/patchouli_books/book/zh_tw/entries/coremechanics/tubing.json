@@ -44,7 +44,7 @@
 	        "input1": "hwell:furnace_tube",
 	        "input2": "hwell:myst_dust_block",
 	        "output": "hwell:fluid_liquid_souls",
-	        "text": "一個神秘粉塵塊可以變成液態靈魂. 不要驚慌."
+	        "text": "一個神祕粉塵塊可以變成液態靈魂. 不要驚慌."
         }
             
     ]

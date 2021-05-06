@@ -1,0 +1,259 @@
+{
+  "_comment": "Global",
+  "maessentials.cooldown": "§c你需要等 §4%s§c 秒才能重新使用這個指令",
+  "maessentials.provide.player": "§c請輸入玩家名",
+  "maessentials.provide.player.new": "§c請輸入新玩家名",
+  "maessentials.specify.player": "§c請指定玩家名",
+  "maessentials.invaild_gamemode": "§c無效的遊戲模式",
+  "maessentials.invaild_gamemode.player": "§c玩家 §4%s§c 處在無效的遊戲模式",
+  "maessentials.illegal_date": "§c無效的遊戲模式",
+  "maessentials.invalid.location": "§c無效的位置",
+  "maessentials.provide.location": "§c請輸入位置",
+  "maessentials.only.single": "§c這個指令只能在單人模式使用",
+
+  "_comment": "Back",
+  "back.maessentials.not_found": "§c找不到返回位置",
+
+  "back.maessentials.success": "正在傳送到上一個位置...",
+  "back.maessentials.success.wait": "正在傳送到上一個位置, 請等待 §c%s§r 秒...",
+
+  "back.maessentials.death": "死亡後,你可以使用 §8/back§r 傳送到上一次死亡的地點",
+
+  "_comment": "Time",
+  "day.maessentials.success": "已設為白天",
+  "night.maessentials.success": "已設為夜晚",
+
+
+  "_comment": "Weather",
+  "sun.maessentials.success": "設定天氣為晴朗",
+  "rain.maessentials.success": "設定天氣為下雨",
+  "thunder.maessentials.success": "設定天氣為雷暴",
+
+  "_comment": "Spawn",
+  "spawn.maessentials.success": "正在傳送到出生點...",
+  "spawn.maessentials.success.wait": "正在傳送到出生點, 請等待 §c%s§r 秒...",
+
+  "setspawn.maessentials.success": "已設定出生點位置",
+
+
+  "_comment": "Home",
+  "home.maessentials.no_homes": "§c你未設定家. 使用 §4/sethome <name> §c設定一個新家!",
+  "home.maessentials.not_exist": "§c家 §4%s§c 不存在",
+
+  "delhome.maessentials.specify_name": "§c請指定家的名字",
+  "delhome.maessentials.done": "已刪除家 §a%s§r ",
+
+  "home.maessentials.teleport": "正在傳送到家 §a%s§r...",
+  "home.maessentials.teleport.wait": "正在傳送到家 §a%s§r, 請等待 §c%s§r 秒...",
+
+  "sethome.maessentials.max_homes": "§c你不能設定超過 §4%s§c 個家",
+  "sethome.maessentials.done": "已設定家 §a%s§r ",
+
+
+  "_comment": "Warp",
+  "warp.maessentials.not_exist": "§c傳送點 §4%s§c 不存在",
+  "warp.maessentials.specify_name": "§c請指定傳送點的名字",
+
+  "delwarp.maessentials.success": "已刪除§c傳送點 §a%s§r ",
+
+  "warp.maessentials.list": "所有的傳送點 (§c%s§r): ",
+  "warp.maessentials.list.warp": "§a%s§r",
+
+  "warp.maessentials.success": "正在傳送到 §a%s§r...",
+  "warp.maessentials.success.wait": "正在傳送到 §a%s§r, 請等待 §c%s§r 秒...",
+
+  "setwarp.maessentials.success": "已設定傳送點 §a%s§r ",
+  "setwarp.maessentials.exist": "§c傳送點 §4%s§c 已存在",
+
+
+  "_comment": "Teleport request",
+  "tpa.maessentials.exist": "§c你已經寄給了 §4%s§r 一個傳送請求",
+  "tpa.maessentials.self": "§c你不能傳送到你自己",
+  "tpa.maessentials.not_found": "§c找不到傳送請求",
+  "tpa.maessentials.no_request": "§c你沒有傳送請求",
+
+  "tpa.maessentials.request": "傳送請求已經寄給 §c%s§r",
+  "tpa.maessentials.request.target": "玩家 §c%s§r 想要傳送到你這裡",
+
+  "tpa.maessentials.request.target.accept.hover": "§a%s§r",
+  "tpa.maessentials.request.target.deny.hover": "§c%s§r",
+
+
+  "tpa.maessentials.request.target.accept": "同意傳送請輸入 §a%s§r",
+  "tpa.maessentials.request.target.deny": "拒絕傳送請輸入 §c%s§r",
+
+  "tpahere.maessentials.request.target": "玩家 §c%s§r 想要把你傳送到他那裡",
+
+
+  "_comment": "Mute",
+  "unmmute.maessentials.not_muted": "§c玩家 §4%s§c 沒有被禁言",
+  "unmmute.maessentials.success": "已經解除玩家 §c%s§r 的禁言",
+  "unmmute.maessentials.success.target": "你已經被禁言",
+
+  "mute.maessentials.already_muted": "§c玩家 §4%s§c 已經被禁言",
+  "mute.maessentials.provide.time": "§c請輸入禁言時長",
+  "mute.maessentials.success": "§c玩家 §4%s§c 被 §4%s§c 禁言,時長 §4%s§c。原因: §4%s§r",
+  "mute.maessentials.success.target": "§c你被禁言了,時長 §4%s§c.",
+  "mute.maessentials.success.target.原因": "§c原因: §4%s§r",
+  "mute.maessentials.success.perm": "§c玩家 §4%s§c 被 §4%s§c 永久禁言。原因: §4%s§c",
+  "mute.maessentials.success.perm.target": "§c你被永久禁言。",
+
+
+  "_comment": "Suicide",
+  "suicide.maessentials.player": "你殺死了 §c%s§r",
+  "suicide.maessentials.player.target": "你被 §c%s§r 殺死了.",
+
+
+  "_comment": "Heal",
+  "heal.maessentials.self": "已治癒自己",
+  "heal.maessentials.player": "你治癒了 §c%s§r",
+  "heal.maessentials.player.target": "你被 §c%s§r 治癒了",
+
+
+  "_comment": "GM",
+  "gm.maessentials.invalid": "§c無效的遊戲模式",
+  "gm.maessentials.self": "你的遊戲模式更改為 §8%s§r",
+  "gm.maessentials.player": "你把 §c%s§r 的遊戲模式更改為 §8%s§r",
+
+
+  "_comment": "Fly",
+  "fly.maessentials.self.enabled": "你現在可以飛行",
+  "fly.maessentials.self.disabled": "關閉飛航模式",
+  "fly.maessentials.player.enabled": "§c%s§r 現在可以飛行",
+  "fly.maessentials.player.disabled": "關閉了 §c%s§r 的飛航模式",
+
+
+  "_comment": "God",
+  "god.maessentials.self.enabled": "啟用上帝模式",
+  "god.maessentials.self.disabled": "關閉上帝模式",
+  "god.maessentials.player.enabled": "為玩家 §c%s§r 啟用上帝模式",
+  "god.maessentials.player.disabled": "關閉了 §c%s§r 的上帝模式",
+
+
+  "_comment": "RNDTP",
+  "rndtp.maessentials.not_found": "§c找不到安全的傳送位置",
+  "rndtp.maessentials.teleport": "正在傳送到隨機位置...",
+  "rndtp.maessentials.teleport.wait": "正在傳送到隨機位置, 請等待 §c%s§r 秒...",
+
+
+  "_comment": "Top",
+  "top.maessentials.teleported": "傳送到了最高的位置",
+
+
+  "_comment": "Teleport",
+  "teleport.maessentials.teleport.failed": "§c傳送失敗!",
+  "teleport.maessentials.active": "你正在傳送!",
+  "teleport.maessentials.moved": "你移動了,傳送取消了!",
+  "teleport.maessentials.teleported": "已傳送!",
+
+  "teleport.maessentials.tpaccept.request": "你被傳送到 §c%s§r",
+  "teleport.maessentials.tpaccept.request.wait": "傳送已被接受, 在 §c%s§r 秒內不要移動...",
+
+  "teleport.maessentials.tpaccept.target": "玩家 §c%s§r 已經傳送到你這裡",
+  "teleport.maessentials.tpaccept.target.wait": "已接受 §c%s§r 的傳送, 正在等待傳送!",
+
+  "teleport.maessentials.tpdeny.request": "玩家 §c%s§r 拒絕了你的傳送請求",
+  "teleport.maessentials.tpdeny.target": "你的傳送請求被 §c%s§r 拒絕",
+
+  "teleport.maessentials.expired.target": "傳送到玩家 §c%s§r 的請求超時了",
+  "teleport.maessentials.expired.request": "來自玩家 §c%s§r 的傳送請求超時了",
+
+  "teleport.maessentials.moved.request": "§c你移動了,傳送取消了!",
+  "teleport.maessentials.moved.target": "§c玩家 §4%s§c 移動了, 傳送取消了!",
+
+
+  "_comment": "Reload",
+  "maereload.maessentials.done": "§aMod資料已過載",
+
+
+  "_comment": "Kit",
+  "kit.maessentials.parse_error": "§c獲取kit失敗,請與伺服器管理員聯絡!",
+  "kit.maessentials.not_exist": "§cKit §4%s§c 不存在!",
+  "kit.maessentials.wait": "§c你需要等待 §4%s§c 以重新獲取kit!",
+
+  "kit.maessentials.list": "可用的kit: ",
+  "kit.maessentials.list.kit": "§a%s§r",
+  "kit.maessentials.received": "已獲取kit §a%s§r",
+
+
+  "_comment": "Speed",
+  "speed.maessentials.max_fly": "§c最大飛行速度為 §4%s§r",
+  "speed.maessentials.max_walk": "§c最大行走速度為 §4%s§r",
+
+  "speed.maessentials.fly.self": "飛行速度更改為 §a%s§r",
+  "speed.maessentials.fly.other": "更改 §c$s§r 的飛行速度為 §a%s§r",
+
+  "speed.maessentials.walk.self": "行走速度更改為 §a%s§r",
+  "speed.maessentials.walk.other": "更改 §c$s§r 的移動速度為 §a%s§r",
+
+
+  "_comment": "Tpall",
+  "tpall.maessentials.teleported": "你被傳送到 §4%s§r",
+  "tpall.maessentials.success": "已將所有玩家傳送到這裡",
+
+
+  "_comment": "Kickall",
+  "kickall.maessentials.success": "已經踢出伺服器所有玩家",
+
+
+  "_comment": "Broadcast",
+  "broadcast.maessentials.no_message": "§c不能廣播空訊息",
+  "broadcast.maessentials.success": "§5§l[廣播] §r§5%s",
+
+
+  "_comment": "Up",
+  "up.maessentials.success.up": "傳送到 §c%s§r 方塊上方",
+  "up.maessentials.success.down": "傳送到 §c%s§r 方塊下方",
+
+
+  "_comment": "AFK",
+  "afk.maessentials.afk.true": "玩家 §c%s§r 暫時離開了",
+  "afk.maessentials.afk.false": "玩家 §c%s§r 回來了",
+
+
+  "_comment": "Kick",
+  "kick.maessentials.done": "§c玩家 §4%s§c 被 §4%s§c 踢出了遊戲. 原因: §4%s",
+
+
+  "_comment": "Endc",
+  "inv.maessentials.open": "%s 的 %s",
+
+
+  "_comment": "Trash",
+  "trash.maessentials.open": "垃圾桶",
+
+
+  "_comment": "Tempban",
+  "unban.maessentials.not_banned": "§c玩家 §4%s§c 未被封禁",
+  "unban.maessentials.success": "已經解除玩家 §c%s§r 的封禁",
+
+  "tempban.maessentials.already_banned": "§c玩家 §4%s§c 已經被封禁",
+  "tempban.maessentials.provide.time": "§c請輸入封禁時間",
+  "tempban.maessentials.success": "§c玩家 §4%s§c 被 §4%s§c 封禁了, 時長 §4%s§c. 原因: §4%s§r",
+  "tempban.maessentials.success.perm": "§c玩家 §4%s§c 被 §4%s§c 永久封禁了. 原因: §4%s§r",
+  "tempban.maessentials.success.target": "§c你被 §4%s§c 封禁了, 時長 §4%s§c. 原因: §4%s§r",
+  "tempban.maessentials.success.perm.target": "§c你被 §4%s§c 永久封禁了. 原因: §4%s§r",
+
+
+  "_comment": "Check",
+  "check.maessentials.player.banned.list": "封禁列表:",
+  "check.maessentials.player.banned.empty": "§c封禁列表是空的!",
+  "check.maessentials.player.banned.perm": "- §c%s§r (§9%s§r): §a永久§r. 原因: §8%s§r",
+  "check.maessentials.player.banned": "- §c%s§r (§9%s§r): §a%s§r. 原因: §8%s§r",
+
+  "check.maessentials.player.muted.list": "禁言列表:",
+  "check.maessentials.player.muted.empty": "§c禁言列表是空的!",
+  "check.maessentials.player.muted.perm": "- §c%s§r (§9%s§r): §a永久§r. 原因: §8%s§r",
+  "check.maessentials.player.muted": "- §c%s§r (§9%s§r): §a%s§r. 原因: §8%s§r",
+
+
+  "_comment": "Head",
+  "head.maessentials.done": "獲得了 §c%s§r 的頭顱",
+
+
+  "_comment": "Invsee",
+  "invsee.maessentials.self": "§c你不能檢視自己的物品欄",
+
+
+  "test.maessentials.test": "%s"
+}

@@ -1,0 +1,48 @@
+{
+    "itemGroup.mysticalagradditions": "神祕農業擴充套件",
+    
+    "block.mysticalagradditions.insanium_block": "究極精華方塊",
+    "block.mysticalagradditions.insanium_ingot_block": "究極精華錠方塊",
+    "block.mysticalagradditions.insanium_gemstone_block": "究極精華寳石方塊",
+    "block.mysticalagradditions.insanium_farmland": "究極耕地",
+    "block.mysticalagradditions.inferium_coal_block": "下級精華煤塊",
+    "block.mysticalagradditions.prudentium_coal_block": "初級精華煤塊",
+    "block.mysticalagradditions.tertium_coal_block": "中級精華煤塊",
+    "block.mysticalagradditions.imperium_coal_block": "高級精華煤塊",
+    "block.mysticalagradditions.supremium_coal_block": "終極精華煤塊",
+    "block.mysticalagradditions.insanium_coal_block": "究極精華煤塊",
+    "block.mysticalagradditions.nether_star_crux": "地獄之星核心",
+    "block.mysticalagradditions.dragon_egg_crux": "龍蛋核心",
+    
+    "item.mysticalagradditions.insanium_essence": "究極精華精華",
+    "item.mysticalagradditions.insanium_ingot": "究極精華錠",
+    "item.mysticalagradditions.insanium_nugget": "究極精華粒",
+    "item.mysticalagradditions.insanium_gemstone": "究極精華寶石",
+    "item.mysticalagradditions.nether_star_shard": "地獄之星碎片",
+    "item.mysticalagradditions.withering_soul": "凋零靈魂碎片",
+    "item.mysticalagradditions.dragon_egg_chunk": "龍蛋塊",
+    "item.mysticalagradditions.dragon_scale": "龍蛋碎片",
+    "item.mysticalagradditions.creative_essence": "創造精華",
+    "item.mysticalagradditions.inferium_coal": "下級精華煤",
+    "item.mysticalagradditions.prudentium_coal": "初級精華煤",
+    "item.mysticalagradditions.tertium_coal": "中級精華煤",
+    "item.mysticalagradditions.imperium_coal": "高級精華煤",
+    "item.mysticalagradditions.supremium_coal": "終極精華煤",
+    "item.mysticalagradditions.insanium_coal": "究極精華煤",
+    
+    "item.mysticalagradditions.inferium_paxel": "下級精華全能工具",
+    "item.mysticalagradditions.prudentium_paxel": "初級精華全能工具",
+    "item.mysticalagradditions.tertium_paxel": "中級精華全能工具",
+    "item.mysticalagradditions.imperium_paxel": "高級精華全能工具",
+    "item.mysticalagradditions.supremium_paxel": "終極精華全能工具",
+    
+    "tooltip.mysticalagradditions.drop_chance": "%s 掉落機率",
+    
+    "jei.desc.mysticalagradditions.withering_soul": "凋靈死亡時有機率掉落。",
+    "jei.desc.mysticalagradditions.dragon_scale": "終界龍死亡有機率掉落。",
+    
+    "cropTier.mysticalagradditions.6": "6",
+    
+    "crop.mysticalagradditions.nether_star": "地獄之星",
+    "crop.mysticalagradditions.dragon_egg": "龍蛋"
+}

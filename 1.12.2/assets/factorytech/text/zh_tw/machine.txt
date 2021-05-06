@@ -57,7 +57,7 @@ $machine TileEntityMagnetCentrifuge
 $end
 $title 坩堝
 $recipe machines/crucible
-對坩堝施加足夠高的溫度就可以是固態物質熔化。它能將原石和地獄巖熔化成巖漿，將螢石熔化成一種能夠合成 Energite 液體的主要液體。如果處於某種奇怪的原因，你需要把冰重新變成水，它也是可以做到的。
+對坩堝施加足夠高的溫度就可以是固態物質熔化。它能將原石和地獄岩熔化成岩漿，將螢石熔化成一種能夠合成 Energite 液體的主要液體。如果處於某種奇怪的原因，你需要把冰重新變成水，它也是可以做到的。
 $machine TileEntityCrucible
 $end
 $title 藥水攪拌機
@@ -103,7 +103,7 @@ $recipe machines/agitator
 液體攪拌器是生產許多資源的關鍵機器，它能將兩種液體混合在一起，產出一種液體或一種物品。但它的主要用途是混合液態硫磺和水生產硫酸。
 $machine TileEntityAgitator
 $page
-水 + 巖漿 -> 石頭
+水 + 岩漿 -> 石頭
 液態硫磺 + 水 -> 硫酸
 液態螢石 + 硫酸 + 怪物粉末 -> Energite
 沙子 + 水 -> 粘土
@@ -114,7 +114,7 @@ $page
 $end
 $title 冰箱
 $recipe machines/refrigerator
-冰箱能將液體冷卻凝固成固體，把水變成冰或將巖漿凝固成黑曜石。奇怪的是，它還能把丙烷轉化成煤炭。
+冰箱能將液體冷卻凝固成固體，把水變成冰或將岩漿凝固成黑曜石。奇怪的是，它還能把丙烷轉化成煤炭。
 $machine TileEntityRefrigerator
 $end
 $title 壓縮室

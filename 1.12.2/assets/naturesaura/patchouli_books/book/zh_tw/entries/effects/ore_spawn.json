@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "text",
-            "text": "使用$(l:creating/generator_limit_remover)創造催化器$()，$(#419600)靈氣$()能超過$(l:items/eye)環境之眼$()的觀測範圍。這種潛能允許一種更高級的失衡效應出現：$(item)礦物集聚$()會在附近有$(l:effects/effect_powder)慷慨之粉$()的時候開始發生。"
+            "text": "使用$(l:creating/generator_limit_remover)創造催化器$()，$(#419600)靈氣$()能超過$(l:items/eye)環境之眼$()的觀測範圍。這種潛能允許一種更高階的失衡效應出現：$(item)礦物集聚$()會在附近有$(l:effects/effect_powder)慷慨之粉$()的時候開始發生。"
         },
         {
             "type": "text",

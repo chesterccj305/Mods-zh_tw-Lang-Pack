@@ -1,15 +1,15 @@
 {
-  "name": "彩虹烽火台",
+  "name": "彩虹烽火臺",
   "icon": "auraddons:block_rainbow_beacon",
   "category": "naturesaura:devices",
   "advancement": "naturesaura:infused_materials",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)烽火台$()能射出照亮天空的光束，但其可用顏色十分有限。只要加上一點$(aura)這個問題很容易就能解決。$(item)彩虹烽火台$()會讓光束顏色在彩虹的各種顏色間循環切換。"
+      "text": "$(item)烽火臺$()能射出照亮天空的光束，但其可用顏色十分有限。只要加上一點$(aura)這個問題很容易就能解決。$(item)彩虹烽火臺$()會讓光束顏色在彩虹的各種顏色間迴圈切換。"
     }, {
       "type": "crafting",
-      "text": "合成$(item)彩虹烽火台$()",
+      "text": "合成$(item)彩虹烽火臺$()",
       "recipe": "auraddons:rainbow_beacon"
     }
   ]

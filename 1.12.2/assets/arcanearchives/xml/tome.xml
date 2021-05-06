@@ -1741,17 +1741,17 @@
                 「山河之淚」是一種由橙色光譜的<link ref="Items:ShapedQuartz">雕琢輻射水晶</link>組成的淚滴形奧術寶石。
             </p>
             <p>
-                可以在最遠40格方塊範圍內召喚出一格巖漿，只需消耗1點充能。
+                可以在最遠40格方塊範圍內召喚出一格岩漿，只需消耗1點充能。
             </p>
             <p condition="ml_astralsorcery">
                 <stack item="astralsorcery:blockwell"/> 
-                當放入一個直面天空的聚星缸時，「山河之淚」會以緩慢的速度生成巖漿。似乎一個「天河之淚」有可能會破碎，但是<span italics="true">在天文學上</span>破碎的可能性是不存在的。為了所有的意圖和目的，「天河之淚」會無限的持續除非聚星缸被打破。
+                當放入一個直面天空的聚星缸時，「山河之淚」會以緩慢的速度生成岩漿。似乎一個「天河之淚」有可能會破碎，但是<span italics="true">在天文學上</span>破碎的可能性是不存在的。為了所有的意圖和目的，「天河之淚」會無限的持續除非聚星缸被打破。
             </p>
             <p condition="ml_astralsorcery">
                 一旦放到聚星缸中，「山河之淚」就無法被取回。
             </p>
             <p>
-                <image src="arcanearchives:items/gems/pendeloque/dun" tw="16" th="16"/> 為了再充能「山河之淚」，只需把它扔到巖漿中。
+                <image src="arcanearchives:items/gems/pendeloque/dun" tw="16" th="16"/> 為了再充能「山河之淚」，只需把它扔到岩漿中。
             </p>
             <horizontal_rule/>
             <p>
@@ -1939,7 +1939,7 @@
                 <stack item="arcanearchives:rivertear"/> <link ref="Gems:Rivertear">「天河之淚」</link> 大約每tick產生兩桶水。它實際上是無限的，但由於技術上的限制，有極小極小的概率破碎。
             </p>
             <p indent="10" condition="arsenal_enabled">
-                <stack item="arcanearchives:mountaintear"/> <link ref="Gems:Mountaintear">「山河之淚」</link> 以中等速度產生巖漿。它實際上是無限的，但由於技術上的限制，有極小極小的概率破碎。
+                <stack item="arcanearchives:mountaintear"/> <link ref="Gems:Mountaintear">「山河之淚」</link> 以中等速度產生岩漿。它實際上是無限的，但由於技術上的限制，有極小極小的概率破碎。
             </p>
             <p indent="10" condition="arsenal_disabled">
                 奧術兵工廠未啟用，此部分的某些功能無法使用。

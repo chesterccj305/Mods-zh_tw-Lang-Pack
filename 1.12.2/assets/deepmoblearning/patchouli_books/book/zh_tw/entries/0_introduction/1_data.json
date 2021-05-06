@@ -1,22 +1,22 @@
 {
-  "name": "數據",
+  "name": "資料",
   "icon": "deepmoblearning:deep_learner",
   "category": "0_introduction",
   "sortnum": 1,
   "pages": [
     {
       "type": "text",
-      "text": "在開始獲得戰利品之前，你需要收集有關怪物的$(item)數據$() ， 使之成為可手持設備 $(item)深度學習器$().$(br2) $(item)深度學習器$() 是一種可以在你對怪物造成致命傷害時進行檢測的設備。”"
+      "text": "在開始獲得戰利品之前，你需要收集有關怪物的$(item)資料$() ， 使之成為可手持裝置 $(item)深度學習器$().$(br2) $(item)深度學習器$() 是一種可以在你對怪物造成致命傷害時進行檢測的裝置。”"
     },
     {
       "type": "recipelookup",
       "recipe": "deepmoblearning:deep_learner",
-      "text": "如果將 $(l:0_introduction/2_data_models)數據模型$() 附加到 $(item)深度學習器$()，它將你與怪物的對戰變成 $(item)數據$()。$(br2) $(item)深度學習器$() 可以在任何給定時間附加4個$(l:0_introduction/2_data_models)數據模型$()。"
+      "text": "如果將 $(l:0_introduction/2_data_models)資料模型$() 附加到 $(item)深度學習器$()，它將你與怪物的對戰變成 $(item)資料$()。$(br2) $(item)深度學習器$() 可以在任何給定時間附加4個$(l:0_introduction/2_data_models)資料模型$()。"
     },
     {
       "type": "spotlight",
       "item": "deepmoblearning:deep_learner",
-      "text": "如果你將 $(item)深度學習器$()放置在 $(item)主手$() 或者 $(item)副手$()時，則將顯示需要多少 $(item)數據$() 才能到達下一個 $(l:0_introduction/2_data_models)數據模型$() $(item)層$()。"
+      "text": "如果你將 $(item)深度學習器$()放置在 $(item)主手$() 或者 $(item)副手$()時，則將顯示需要多少 $(item)資料$() 才能到達下一個 $(l:0_introduction/2_data_models)資料模型$() $(item)層$()。"
     }
   ]
 }

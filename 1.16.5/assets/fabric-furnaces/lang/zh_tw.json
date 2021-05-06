@@ -1,0 +1,28 @@
+{
+  "itemGroup.fabric-furnaces.group": "織物熔爐",
+
+  "block.fabric-furnaces.fabric_furnace": "織物熔爐",
+  "block.fabric-furnaces.iron_furnace": "鐵熔爐",
+  "block.fabric-furnaces.gold_furnace": "金熔爐",
+  "block.fabric-furnaces.diamond_furnace": "鑽石熔爐",
+  "block.fabric-furnaces.obsidian_furnace": "黑曜石熔爐",
+  "block.fabric-furnaces.nether_furnace": "地獄熔爐",
+  "block.fabric-furnaces.emerald_furnace": "綠寶石熔爐",
+  "block.fabric-furnaces.end_furnace": "終界熔爐",
+  "block.fabric-furnaces.ethereal_furnace": "神祕熔爐",
+
+  "block.fabric-furnaces.crystal_fabric_furnace": "水晶織物熔爐",
+  "block.fabric-furnaces.crystal_iron_furnace": "水晶鐵熔爐",
+  "block.fabric-furnaces.crystal_gold_furnace": "水晶金熔爐",
+  "block.fabric-furnaces.crystal_diamond_furnace": "水晶鑽石熔爐",
+  "block.fabric-furnaces.crystal_obsidian_furnace": "水晶黑曜石熔爐",
+  "block.fabric-furnaces.crystal_nether_furnace": "水晶地獄熔爐",
+  "block.fabric-furnaces.crystal_emerald_furnace": "水晶綠寶石熔爐",
+  "block.fabric-furnaces.crystal_end_furnace": "水晶終界熔爐",
+  "block.fabric-furnaces.crystal_ethereal_furnace": "水晶神祕熔爐",
+
+  "fabric-furnaces.text.dupelabel": " 雙倍產率: %d",
+  "fabric-furnaces.text.speedlabel": " 速度提升: %dx",
+  "fabric-furnaces.text.fuellabel": " 燃料用量: %dx",
+  "fabric-furnaces.text.tooltiplabel": "熔爐訊息:"
+}

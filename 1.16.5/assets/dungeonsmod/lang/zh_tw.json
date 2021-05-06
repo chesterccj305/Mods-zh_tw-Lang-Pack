@@ -1,0 +1,160 @@
+{
+	"item.dungeonsmod.anthermite_egg": "花藥生成蛋",
+	"item.dungeonsmod.mimic_egg": "模仿者生成蛋",
+	"item.dungeonsmod.piranha_egg": "食人魚生成蛋",
+	"item.dungeonsmod.rogue_egg": "流氓生成蛋",
+	"item.dungeonsmod.slimond_egg": "斯里蒙德生成蛋",
+	
+	"item.dungeonsmod.haunter_egg": "纏身者生成蛋",
+	"item.dungeonsmod.lordskeleton_egg": "骷髏公爵生成蛋",
+	"item.dungeonsmod.deadhound_egg": "亡命獵犬生成蛋",
+	"item.dungeonsmod.crow_egg": "烏鴉生成蛋",
+	"item.dungeonsmod.notehead_egg": "音符生成蛋",
+	
+	"item.dungeonsmod.winterhunter_egg": "凜冬獵人生成蛋",
+	"item.dungeonsmod.pice_egg": "皮斯生成蛋",
+	"item.dungeonsmod.leech_egg": "水蛭生成蛋",
+	"item.dungeonsmod.pitcher_egg": "投擲者生成蛋",
+	"item.dungeonsmod.whirlwind_egg": "旋風生成蛋",
+	
+	"item.dungeonsmod.crawler_egg": "匍匐者生怪蛋",
+	"item.dungeonsmod.deserted_egg": "荒廢生成蛋",
+	"item.dungeonsmod.ironslime_egg": "金屬史萊姆生成蛋",
+	"item.dungeonsmod.king_egg": "國王生成蛋",
+	"item.dungeonsmod.kraken_egg": "海妖生成蛋",
+	"item.dungeonsmod.sun_egg": "太陽生成蛋",
+	"item.dungeonsmod.voidmaster_egg": "虛空大師生成蛋",
+	
+	"item.dungeonsmod.guard_egg": "守衛生成蛋",
+	"item.dungeonsmod.scientist_egg": "科學家生成蛋",
+	"item.dungeonsmod.slimewolf_egg": "史萊姆狼生成蛋",
+	
+	"filled_map.dungeonsmod:the_house": "房子",
+	"filled_map.dungeonsmod:the_mines": "鐵礦",
+	"filled_map.dungeonsmod:the_ship": "船",
+	"filled_map.dungeonsmod:the_castle": "城堡",
+	"filled_map.dungeonsmod:the_lab": "實驗室",
+	
+	"entity.dungeonsmod.extrapart": "富巴",
+	
+	"entity.dungeonsmod.anthermite": "花藥",
+	"entity.dungeonsmod.mimic": "模仿者",
+	"entity.dungeonsmod.piranha": "食人魚",
+	"entity.dungeonsmod.rogue": "惡棍",
+	"entity.dungeonsmod.slimond": "斯里蒙德",
+	
+	"entity.dungeonsmod.haunter": "纏身者",
+	"entity.dungeonsmod.lordskeleton": "骷髏公爵",
+	"entity.dungeonsmod.deadhound": "亡命獵犬",
+	"entity.dungeonsmod.crow": "烏鴉",
+	"entity.dungeonsmod.notehead": "音符",
+	
+	"entity.dungeonsmod.winterhunter": "凜冬獵人",
+	"entity.dungeonsmod.pice": "皮斯",
+	"entity.dungeonsmod.leech": "水蛭",
+	"entity.dungeonsmod.pitcher": "投擲者",
+	"entity.dungeonsmod.whirlwind": "旋風",
+	
+	"entity.dungeonsmod.crawler": "匍匐者",
+	"entity.dungeonsmod.deserted": "荒廢",
+	"entity.dungeonsmod.ironslime": "金屬史萊姆",
+	"entity.dungeonsmod.king": "國王",
+	"entity.dungeonsmod.kraken": "海妖",
+	"entity.dungeonsmod.sun": "太陽",
+	"entity.dungeonsmod.voidmaster": "虛空大師",
+	
+	"entity.dungeonsmod.guard": "守衛",
+	"entity.dungeonsmod.scientist": "科學家",
+	"entity.dungeonsmod.slimewolf": "史萊姆狼",
+	
+	"entity.minecraft.villager.dungeonsmod.traveler": "旅行者",
+	
+	
+	"item.dungeonsmod.back_pergamine": "後鞍",
+	"enchantment.level.32": "XXXII",
+	"enchantment.level.20": "XX",
+	"enchantment.level.17": "XVII",
+	"filled_map.village": "村莊",
+	"item.dungeonsmod.home_gem": "家傳寶石",
+	"item.dungeonsmod.home_gem.tooltip_1": "已連結",
+	"item.dungeonsmod.sun_overdrive": "太陽過載",
+	"item.dungeonsmod.cooldown": "冷卻： %d 分 %d 秒",
+	"item.dungeonsmod.soul_bottle": "靈魂罐",
+	"item.dungeonsmod.golden_bone": "黃金骸骨",
+	"item.dungeonsmod.piranha_bucket": "食人魚桶",
+	
+	"entity.dungeonsmod.multiplayer_reset": "似乎有人加入了戰鬥",
+	
+	//Translating this will only take place on singleplayer. On server side will always be in english.
+	"item.dungeonsmod.writtenbookside1.page0": "骨頭先生將帶給您優雅以及幸運,只要觸碰他的頭顱或是將鬼魂帶過來. 不要試圖用將鬼魂倒在他的頭上的方式來喚醒骨頭先生.",
+	"item.dungeonsmod.writtenbookside1.page1": "自從骨頭先生死去後薩滿就一直保護他 ",
+	"item.dungeonsmod.writtenbookside1.author": "薩滿",
+	"item.dungeonsmod.writtenbookside1.title": "副職業",
+	
+	"item.dungeonsmod.writtenbookside21.page0": "你曾經聽過凜冬獵人嗎 他以冰雪為家, 他會在所有地方巡邏並瞭解所有的野生動物並且到處留下陷阱.",
+	"item.dungeonsmod.writtenbookside21.page1": "希望你不會落入他的陷阱 因為從來沒有活人可以談論他的陷阱.",
+	"item.dungeonsmod.writtenbookside21.author": "S.-d.",
+	"item.dungeonsmod.writtenbookside21.title": "警告",
+	
+	"item.dungeonsmod.writtenbook0.page0": "我為了煤塊而來, 我一直都是為了煤塊而來, 只要有煤塊掉落我就會知道.",
+	"item.dungeonsmod.writtenbook0.author": "旅行者",
+	"item.dungeonsmod.writtenbook0.title": "尋覓",
+	
+	"item.dungeonsmod.writtenbook1.page0": "有一個法師在村莊內. 他非常的不友善, 有一天他離開了,有傳聞說, 他獨自移居到了沙漠裡不被人發現. 他是個火焰法師擅長操作火焰. 不要在他周圍使用火. ",
+	"item.dungeonsmod.writtenbook1.author": "匿名的村民",
+	"item.dungeonsmod.writtenbook1.title": "孤獨的村莊",
+	
+	"item.dungeonsmod.writtenbook2.page0": "礦工似乎在逃離甚麼. 怪物出現在那些從未見過的礦物附近. 所有的鐵礦都被他吞噬了. 沒有人可以阻止他, 我們是負責封鎖礦洞的人. 我恐怕難以倖存所以我留下這本書來警告之後過來的人.",
+	"item.dungeonsmod.writtenbook2.author": "領班",
+	"item.dungeonsmod.writtenbook2.title": "工程紀錄 第10天",
+	
+	"item.dungeonsmod.writtenbook3.page0": "'. 我嚇到了, 對著觸手開槍... 該死我忘了在港口內補給彈藥已經不足 看來我別無選擇只能進行最後的逃脫了.. ",
+	"item.dungeonsmod.writtenbook3.author": "船長",
+	"item.dungeonsmod.writtenbook3.title": "航海日誌",
+	
+	"item.dungeonsmod.writtenbook4.page0": "他們擁有許多軍物資, 不愧為地球上最強大的國王. 如果你要對抗他你必須自己評估風險.",
+	"item.dungeonsmod.writtenbook4.page1": "他們攻擊任何接近他們的東西. 獲得戰功的人可以獲得國王無上的賞賜.",
+	"item.dungeonsmod.writtenbook4.page2": "那個國王是個矛盾的存在. 他為了獲得黃金而變的瘋狂, 任何接近他的人, 都必須在黑曜石塊上小心的放上禮物, 不然就完了.",
+	"item.dungeonsmod.writtenbook4.page3": "死往降臨",
+	"item.dungeonsmod.writtenbook4.author": "間諜",
+	"item.dungeonsmod.writtenbook4.title": "李察",
+	
+	"item.dungeonsmod.writtenbook5.page0": "要說這裡最奇怪的地方是甚麼, 那就是這裡有個龐大的組織隱藏在這. 很久以前有些村民就在研究一些奇怪的東西.....",
+	"item.dungeonsmod.writtenbook5.page1": "我們決定找到這間祕密實驗室, 這間實驗室裡必定有著先進的科技. 當我們找到時發現裡面有一個巨大的奇怪生物 這個生物可以操縱奇妙的紅石力量使你的物品損壞.",
+	"item.dungeonsmod.writtenbook5.page2": "領導人決定進行大量的實驗, 我們發現每次餵養這個怪物都需要將10個紅石方塊放到石英祭壇上 , 而這些紅石將讓他擁有無盡的生命.",
+	"item.dungeonsmod.writtenbook5.page3": "我們必須在這個生物周遭建造黑曜石牆壁 因為每當他跳躍時周遭的人都會被殺死.",
+	"item.dungeonsmod.writtenbook5.author": "退休科學家",
+	"item.dungeonsmod.writtenbook5.title": "研究紀錄",
+	
+	"item.dungeonsmod.writtenbook6.page0": "我與太陽簽訂契約使我獲得強大的力量. 我很高興我能成為太陽公爵.",
+	"item.dungeonsmod.writtenbook6.page1": "我厭倦了這個村莊, 他們對這塊土地的力量一無所知. 我要去沙漠旅行找到一個幽暗的傳送門.",
+	"item.dungeonsmod.writtenbook6.page2": "為了與我的主融合 我需要6點生命, 右手持有6個鐵方塊還有擁有6點護甲 之後我將走進火中.",
+	"item.dungeonsmod.writtenbook6.page3": "我希望我能在科學家發現以前 解讀這本書 來瞭解太陽祭壇的運作方式.",
+	"item.dungeonsmod.writtenbook6.author": "滅火者",
+	"item.dungeonsmod.writtenbook6.title": "全知全能的神",
+	
+	"item.dungeonsmod.writtenbook7.part0": "祭壇的施工細節.",
+	"item.dungeonsmod.writtenbook7.part1": "\n         O O O O O\n         O O O O O\n         O O A O O\n         O O O O O\n         O O O O O\nO :  25 Packed Ice\nA :  Armor Stand: Full iron armor\nNether\nActivation: Spectral Arrow",
+	"item.dungeonsmod.writtenbook7.author": "摧毀太陽",
+	"item.dungeonsmod.writtenbook7.title": "月亮",
+	
+	"text.autoconfig.dungeonsmod.title": "地下城模組Config",
+	
+	"text.autoconfig.dungeonsmod.category.items": "物品",
+	"text.autoconfig.dungeonsmod.option.items.homeGem": "家傳寶石",
+	"text.autoconfig.dungeonsmod.option.items.homeGem.cooldown.@Tooltip": "時間流逝",
+	"text.autoconfig.dungeonsmod.option.items.homeGem.cooldown": "冷卻時間",
+	
+	"text.autoconfig.dungeonsmod.category.spawn_rates": "生成率",
+	"text.autoconfig.dungeonsmod.option.spawnRates.Piranha": "食人魚生成率",
+	"text.autoconfig.dungeonsmod.option.spawnRates.Rogue": "流氓生成率",
+	"text.autoconfig.dungeonsmod.option.spawnRates.Anthermite": "花藥生成率",
+	
+	"text.autoconfig.dungeonsmod.category.traveler": "旅行者",
+	"text.autoconfig.dungeonsmod.option.traveler.TheOne.@Tooltip": "附近只會有一個旅行者",
+	"text.autoconfig.dungeonsmod.option.traveler.TheOne": "那一位",
+	
+	"text.autoconfig.dungeonsmod.category.world": "世界",
+	"text.autoconfig.dungeonsmod.option.world.enable.@Tooltip": "出現問題時必須禁用.",
+	"text.autoconfig.dungeonsmod.option.world.enable": "Enable"
+}

@@ -1,6 +1,6 @@
 {
   "name": "血魔法附加",
-  "description": "本章將包含使用$(item)血魔法附加$()$(br)$(dmlbm)$(br2)所需的所有信息此$(item)模組$() 可幫助您生成$(item)生命精華$() 而沒有$(item)痛苦的$().$(br2)保持一堆怪物來運行 $(item)Well$()會花費大量$(item)伺服器資源$()。這是一個無滯後的選擇。",
+  "description": "本章將包含使用$(item)血魔法附加$()$(br)$(dmlbm)$(br2)所需的所有資訊此$(item)模組$() 可幫助您生成$(item)生命精華$() 而沒有$(item)痛苦的$().$(br2)保持一堆怪物來運行 $(item)Well$()會花費大量$(item)伺服器資源$()。這是一個無滯後的選擇。",
   "icon": "deepmoblearningbm:digital_agonizer",
   "sortnum": 4,
   "flag": "mod:deepmoblearningbm"

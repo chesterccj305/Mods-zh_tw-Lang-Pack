@@ -1,0 +1,19 @@
+{
+    "block.glassential.glass_dark": "黑暗玻璃",
+    "block.glassential.glass_dark_ethereal": "黑暗空靈玻璃",
+    "block.glassential.glass_dark_ethereal_reverse": "反向黑暗空靈玻璃",
+    "block.glassential.glass_ethereal": "空靈玻璃",
+    "block.glassential.glass_ethereal_reverse": "反向空靈玻璃",
+    "block.glassential.glass_ghostly": "幽靈玻璃",
+    "block.glassential.glass_light": "發光玻璃",
+    "block.glassential.glass_redstone": "紅石玻璃",
+    
+    "tooltip.glassential.dark": "隔絕光線",
+    "tooltip.glassential.ethereal": "對玩家而言不是固體",
+    "tooltip.glassential.ethereal_reverse": "僅對玩家而言是固體",
+    "tooltip.glassential.ghostly": "對實體而言不是固體",
+    "tooltip.glassential.light": "發出光源",
+    "tooltip.glassential.redstone": "發出紅石訊號",
+    
+    "itemGroup.glassential.items": "精緻玻璃"
+}

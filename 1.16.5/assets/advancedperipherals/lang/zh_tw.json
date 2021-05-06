@@ -1,0 +1,13 @@
+{
+  "item.advancedperipherals.chunk_controller": "區塊控制器",
+  "block.advancedperipherals.environment_detector": "“環境檢測器",
+  "block.advancedperipherals.chat_box": "聊天盒",
+  "block.advancedperipherals.player_detector": "玩家檢測器",
+  "block.advancedperipherals.me_bridge": "ME橋",
+  "block.advancedperipherals.rs_bridge": "RS橋",
+  "turtle.advancedperipherals.chat_box_turtle": "聊天",
+  "turtle.advancedperipherals.environment_detector_turtle": "環境",
+  "turtle.advancedperipherals.player_detector_turtle": "玩家",
+  "turtle.advancedperipherals.chunky_turtle": "厚實",
+  "itemGroup.advancedperipheralstab": " 高級周邊裝置"
+}

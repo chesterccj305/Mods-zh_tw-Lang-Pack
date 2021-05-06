@@ -51,9 +51,9 @@ subspecies.void.name=虛空
 #
 #
 # ========== Items ==========
-item.horsearmormetal.name=鐵寵物盔甲
-item.horsearmorgold.name=金寵物盔甲
-item.horsearmordiamond.name=鑽石寵物盔甲
+item.horsearmormetal.name=鐵馬鎧
+item.horsearmorgold.name=金馬鎧
+item.horsearmordiamond.name=鑽石馬鎧
 #
 #
 #

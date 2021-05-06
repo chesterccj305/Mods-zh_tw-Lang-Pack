@@ -832,8 +832,8 @@ enderio.darksteel.upgrade.spoon.tooltip.detailed.line1=有了勺子，誰還要�
 enderio.darksteel.upgrade.hoe.name=叉子
 enderio.darksteel.upgrade.hoe.tooltip.detailed.line1=有了叉子，誰還要鋤頭……
 
-enderio.darksteel.upgrade.tnt.enabled=爆炸啟用
-enderio.darksteel.upgrade.tnt.disabled=爆炸禁用
+enderio.darksteel.upgrade.tnt.0.enabled=爆炸啟用
+enderio.darksteel.upgrade.tnt.0.disabled=爆炸禁用
 
 enderio.darksteel.upgrade.tnt.0.name=爆炸 I
 enderio.darksteel.upgrade.tnt.0.tooltip.detailed.line1=為鎬子新增爆炸之力，在挖掘的時候周圍的方塊就會遭到破壞。

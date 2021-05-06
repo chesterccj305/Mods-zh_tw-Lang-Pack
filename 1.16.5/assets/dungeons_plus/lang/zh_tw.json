@@ -1,0 +1,26 @@
+{
+	"filled_map.dungeons_plus:bigger_dungeon": "地下城地圖",
+	"filled_map.dungeons_plus:leviathan": "利維坦地圖",
+	"filled_map.dungeons_plus:snowy_temple": "冰雪神廟地圖",
+	
+	"dungeons_plus:advancements.adventure.find_tower.title": "戰鬥之塔",
+	"dungeons_plus:advancements.adventure.find_tower.description": "發現並在這不平靜的塔內與怪物戰鬥",
+	
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.title": "嘿!這是個地下城",
+	"dungeons_plus:advancements.adventure.find_bigger_dungeon.description": "這裡的怪物我從未見過. (發現地下城)",
+	
+	"dungeons_plus:advancements.adventure.find_leviathan.title": "古代遺跡",
+	"dungeons_plus:advancements.adventure.find_leviathan.description": "我們必須使他冷靜下來. (找到利維坦)",
+	
+	"dungeons_plus:advancements.adventure.find_snowy_temple.title": "闖入風雪",
+	"dungeons_plus:advancements.adventure.find_snowy_temple.description": "我以為金字塔是在沙漠裡... (找到冰雪神殿)",
+	
+	"dungeons_plus:advancements.end.find_end_ruins.title": "毀滅結局",
+	"dungeons_plus:advancements.end.find_end_ruins.description": "大概不會持續太久. (找到終界廢墟)",
+	
+	"dungeons_plus:advancements.adventure.find_warped_garden.title": "怪怪的感覺",
+	"dungeons_plus:advancements.adventure.find_warped_garden.description": "進去阿有甚麼好怕的 (找到扭曲花園)",
+	
+	"dungeons_plus:advancements.nether.find_soul_prison.title": "籠中的眼淚",
+	"dungeons_plus:advancements.nether.find_soul_prison.description": "他們曾經存在. (找到靈魂監獄)"
+}

@@ -1,0 +1,29 @@
+{
+  "simplybackpacks.shift":"按住<§6§oShift§r>顯示訊息.",
+  "key.simplybackpacks.category":"簡單背包",
+  "key.simplybackpacks.backpackpickup.desc":"切換自動拾起",
+  "key.simplybackpacks.backpackopen.desc":"開啟背包",
+
+  "simplybackpacks.autopickup":"自動拾起",
+  "simplybackpacks.autopickupenabled":"自動拾起: §a啟用§r",
+  "simplybackpacks.autopickupdisabled":"自動拾起: §c禁用§r",
+
+  "simplybackpacks.whitelist":"白名單",
+  "simplybackpacks.nbtdata":"NBT Tags",
+
+  "item.simplybackpacks.commonbackpack": "常見背包",
+  "item.simplybackpacks.commonbackpack.info":"最普通的背包.",
+  "item.simplybackpacks.commonbackpack.info2":"§f有著18格記憶體§r",
+
+  "item.simplybackpacks.uncommonbackpack":"罕見",
+  "item.simplybackpacks.uncommonbackpack.info":"稍微好一點的背包.",
+  "item.simplybackpacks.uncommonbackpack.info2":"§e有著33格記憶體§r",
+
+  "item.simplybackpacks.rarebackpack":"稀有背包",
+  "item.simplybackpacks.rarebackpack.info":"還不錯的背包.",
+  "item.simplybackpacks.rarebackpack.info2":"§b有著66格記憶體§r",
+
+  "item.simplybackpacks.epicbackpack":"傳奇背包",
+  "item.simplybackpacks.epicbackpack.info":"終極背包.",
+  "item.simplybackpacks.epicbackpack.info2":"§d有著99格記憶體§r"
+}

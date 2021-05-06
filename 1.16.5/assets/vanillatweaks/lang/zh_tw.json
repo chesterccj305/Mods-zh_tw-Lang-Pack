@@ -1,0 +1,57 @@
+{
+  "_comment": "blocks",
+  "block.vanillatweaks.flintblock": "燧石塊",
+  "block.vanillatweaks.sugarblock": "糖塊",
+  "block.vanillatweaks.charcoalblock": "木炭塊",
+  "block.vanillatweaks.pedestal": "展示機架",
+
+  "_comment": "items",
+  "item.vanillatweaks.dynamite": "炸藥",
+  "item.vanillatweaks.friedegg": "煎雞蛋",
+  "item.vanillatweaks.pad": "隨身工作台",
+  "item.vanillatweaks.lens": "雙筒望遠鏡鏡片",
+  "item.vanillatweaks.binoculars": "雙筒望遠鏡",
+  "item.vanillatweaks.slime": "史萊姆探測桶",
+  "item.vanillatweaks.binocular_bauble": "雙筒望遠鏡（飾品）",
+
+  "_comment": "advancements",
+  "advancements.vt.pad": "原版調整",
+  "advancements.vt.storage": "儲存方塊",
+  "advancements.vt.zoom": "遠眺",
+  "advancements.vt.boom": "碰!!",
+  "advancements.vt.friedegg": "煎雞蛋!!",
+
+  "_comment": "advancements desc",
+  "advancements.vt.storage.desc": "製作儲存方塊",
+  "advancements.vt.pad.desc": "製作隨身工作台",
+  "advancements.vt.zoom.desc": "製作雙筒望遠鏡",
+  "advancements.vt.boom.desc": "製作炸藥",
+  "advancements.vt.friedegg.desc": "聞到雞蛋的香味",
+
+  "_comment": "enchantments",
+  "enchantment.vanillatweaks.nimble": "靈活移動",
+  "enchantment.vanillatweaks.hops": "靈活跳躍",
+  "enchantment.vanillatweaks.vigor": "生命提升",
+  "enchantment.vanillatweaks.veteran": "經驗吸引",
+  "enchantment.vanillatweaks.blazing": "自動熔煉",
+  "enchantment.vanillatweaks.siphon": "吸取物品",
+  "enchantment.vanillatweaks.homing": "自動瞄準",
+
+  "enchantment.vanillatweaks.nimble.desc": "作用於靴子上，每一級都會增加一些移動速度",
+  "enchantment.vanillatweaks.hops.desc": "作用於靴子上，每一級都會增加一些跳躍高度",
+  "enchantment.vanillatweaks.vigor.desc": "作用於胸甲上，每一級都會增加一顆心的生命上限",
+  "enchantment.vanillatweaks.veteran.desc": "作用於頭盔上，可以吸引以你為中心的32格球形球體以內的經驗",
+  "enchantment.vanillatweaks.blazing.desc": "作用於工具上，自動熔煉礦物",
+  "enchantment.vanillatweaks.siphon.desc": "所有掉落的礦物會立即進入你的物品欄",
+  "enchantment.vanillatweaks.homing.desc": "作用於弓上，你的箭會自動瞄準你的目標",
+
+  "_comment": "keybinds",
+  "key.category.vt": "原版修復",
+  "key.vt:zoom": "縮放鍵",
+
+  "_comment": "misc",
+  "entity.dynamite": "炸藥",
+  "tooltip.entity": "生成s: %s",
+  "slime.chunk": "§a史萊姆區塊",
+  "slime.chunk.false": "不是史萊姆區塊"
+}

@@ -1,20 +1,20 @@
 {
-    "name": "神秘粉",
+    "name": "神祕粉",
     "icon": "hwell:myst_dust",
     "category": "introduction",
     "sortnum": 20,
     "pages": [
         	{	
         	"type": "spotlight",
-            "title": "神秘粉",
+            "title": "神祕粉",
             "item": "hwell:myst_dust",
             "link_recipe": true,
-            "text": "你可以通過用神秘粉填充空棒, 然後再將神秘水晶棒粉碎, 這樣你將可以獲得更多的神秘粉. $(br2)或者, 你可以對著一個草方塊使用神秘粉, 然後等待它長出神秘灌木叢, 以此獲得更多神秘粉."
+            "text": "你可以通過用神祕粉填充空棒, 然後再將神祕水晶棒粉碎, 這樣你將可以獲得更多的神祕粉. $(br2)或者, 你可以對著一個草方塊使用神祕粉, 然後等待它長出神祕灌木叢, 以此獲得更多神祕粉."
         },
 		{
             "type": "crafting",
-			"title": "神秘粉塊",
-			"text": "神秘粉可以製造成塊狀粉, 以此可以用於進一步的製作.",
+			"title": "神祕粉塊",
+			"text": "神祕粉可以製造成塊狀粉, 以此可以用於進一步的製作.",
 			"recipe": "hwell:myst_dust_block"		
         },
 	    {

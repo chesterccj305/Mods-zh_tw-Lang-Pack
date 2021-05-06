@@ -1,6 +1,6 @@
 {
     "name": "Tinker's Forging 指南",
-    "landing_text": "一個為 1.12+ 添加了群巒風格鍛造系統的模組$(br2)作者：$(br)AlcatrazEscapee",
+    "landing_text": "一個為 1.12+ 新增了群巒風格鍛造系統的模組$(br2)作者：$(br)AlcatrazEscapee",
     "version": 1,
     "creative_tab": "tinkersforging.stuff",
     "model": "tinkersforging:guide_book",

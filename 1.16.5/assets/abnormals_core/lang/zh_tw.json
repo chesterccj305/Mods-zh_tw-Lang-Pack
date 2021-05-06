@@ -1,0 +1,18 @@
+{
+	"abnormals_core.config.quark_sign_editing": "夸克編輯器",
+	"abnormals_core.config.require_empty_hand": "您需要空手來使用夸克編輯器",
+	"abnormals_core.config.slabfish_hat.enabled": "板魚帽",
+	"abnormals_core.config.slabfish_hat.enabled.tooltip": "切換板魚帽。適用2級以上贊助者",
+	"abnormals_core.config.slabfish_hat.sweater": "毛衣",
+	"abnormals_core.config.slabfish_hat.sweater.tooltip": "切換板魚帽毛衣。適用2級以上贊助者",
+	"abnormals_core.config.slabfish_hat.backpack": "背包",
+	"abnormals_core.config.slabfish_hat.backpack.tooltip": "切換板魚帽背包。適用3級以上贊助者",
+	"abnormals_core.config.slabfish_hat.type": "類型",
+	"abnormals_core.config.slabfish_hat.type.tooltip": "切換板魚帽的類型。適用3級以上贊助者",
+	"abnormals_core.screen.slabfish_settings": "板魚帽設置...",
+	"abnormals_core.screen.slabfish_settings.title": "板魚帽設置",
+	"abnormals_core.screen.slabfish_settings.tooltip": "為異常(Abnormals)團隊贊助者板魚帽設置。成為 %s 贊助者",
+	"abnormals_core.message.redirect": "重新設置",
+	
+	"entity.abnormals_core.boat": "船"
+}
