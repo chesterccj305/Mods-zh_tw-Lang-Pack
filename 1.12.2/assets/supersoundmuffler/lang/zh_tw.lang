@@ -1,12 +1,12 @@
-item.sound_muffler.tooltip.mode.black_list=模式：§8黑名單
+﻿item.sound_muffler.tooltip.mode.black_list=模式：§8黑名單
 item.sound_muffler.tooltip.mode.white_list=模式：§8白名單
 item.sound_muffler.tooltip.range=範圍：§8%d
 item.sound_muffler.tooltip.sound=§8- %s
 item.sound_muffler.tooltip.sounds.count=已過濾聲音數：§8%d
 item.sound_muffler_bauble.name=超級消音器
 item.sound_muffler_bauble.tooltip.header=§8§o便攜版
-jei.item.sound_muffler_bauble=便攜版超級消音器。右擊打開配置GUI。潛行右擊開啟/關閉消音效果。
-jei.tile.sound_muffler=能消除附近的聲音。可以配置以消除特定的聲音。
+jei.item.sound_muffler_bauble=便攜版超級消音器。右擊打開設定GUI。潛行右擊開啟/關閉消音效果。
+jei.tile.sound_muffler=能消除附近的聲音。可以設定以消除特定的聲音。
 tile.sound_muffler.add_sound.gui.button.add=添加
 tile.sound_muffler.add_sound.gui.button.all=所有
 tile.sound_muffler.add_sound.gui.button.cancel=取消

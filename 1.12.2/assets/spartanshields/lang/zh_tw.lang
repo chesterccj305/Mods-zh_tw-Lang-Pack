@@ -1,4 +1,4 @@
-#Localisation for Spartan Shields version 1.5.x
+﻿#Localisation for Spartan Shields version 1.5.x
 #Items
 item.spartanshields:shield_basic_wood.name=粗礪木盾牌
 item.spartanshields:shield_basic_stone.name=石頭鑲框盾牌
@@ -81,7 +81,7 @@ item.spartanshields:ingotSignalum=信素錠
 item.spartanshields:ingotConstantan=康銅錠
 
 #Other mods
-mod.spartanshields:enderio=終界接口
+mod.spartanshields:enderio=終界介面
 mod.spartanshields:rftools=RF工具
 mod.spartanshields:abyssalcraft=深淵國度
 mod.spartanshields:betterwithmods=Better With Mods
@@ -104,7 +104,7 @@ tooltip.spartanshields:shieldSilver.desc=傷害不死生物
 tooltip.spartanshields:shieldSignalum.desc=對敵人造成（%ds）虛弱效果
 tooltip.spartanshields:shieldLumium.desc=對敵人造成（%ds）發光效果
 tooltip.spartanshields:shieldEnderium.desc=對敵人造成（%ds）緩慢效果
-tooltip.spartanshields:shieldElementium.desc=生成小精靈（%d%%概率）
+tooltip.spartanshields:shieldElementium.desc=生成小精靈（%d%%機率）
 tooltip.spartanshields:rfCapacity=%,d/%,d RF
 tooltip.spartanshields:rfPerDamage=每顆心吸收傷害消耗%,d RF
 tooltip.spartanshields:rfShield.desc=使用RF能量

@@ -1,4 +1,4 @@
-tile.elevator_black.name=黑色電梯
+﻿tile.elevator_black.name=黑色電梯
 tile.elevator_blue.name=藍色電梯
 tile.elevator_brown.name=棕色電梯
 tile.elevator_cyan.name=青色電梯
@@ -15,7 +15,7 @@ tile.elevator_silver.name=淺灰色電梯
 tile.elevator_white.name=白色電梯
 tile.elevator_yellow.name=黃色電梯
 
-jei.description.elevators=用於跨樓層傳送玩家。\n將兩個或更多個電梯方塊放在相同的 X 軸和 Y 軸中，然後通過跳躍或蹲下來傳送。\n\n你也可以手上拿著任意方塊右擊電梯方塊來偽裝電梯。\n空手右擊便可取消偽裝。
+jei.description.elevators=用於跨樓層傳送玩家。\n將兩個或更多個電梯方塊放在相同的 X 軸和 Y 軸中，然後透過跳躍或蹲下來傳送。\n\n你也可以手上拿著任意方塊右擊電梯方塊來偽裝電梯。\n空手右擊便可取消偽裝。
 
 elevatorid.subtitle.teleport=電梯使用
 

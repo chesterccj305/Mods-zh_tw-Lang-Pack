@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 
 itemGroup.dimensional_doors_creative_tab=次元門物品
 
@@ -10,7 +10,7 @@ tile.gold_dimensional_door.name=金製次元門
 tile.quartz_dimensional_door.name=私人次元門
 tile.unstable_dimensional_door.name=不穩定的門
 tile.oak_dimensional_door.name=扭曲之門
-tile.dimensional_trapdoor.name=空間活板門
+tile.dimensional_trapdoor.name=空間暗門
 tile.dimensional_portal.name=瞬息之門
 
 tile.fabric.black.name=現代構造
@@ -49,7 +49,7 @@ tile.ancient_fabric.brown.name=棕色 變化的遠古構造
 tile.ancient_fabric.green.name=綠色 變化的遠古構造
 tile.ancient_fabric.red.name=紅色 變化的遠古構造
 
-tile.eternal_fabric.name=永恒構造
+tile.eternal_fabric.name=永恆構造
 tile.unravelled_fabric.name=邊境構造
 tile.rift.name=裂痕
 
@@ -69,7 +69,7 @@ item.rift_signature.created=創建裂痕
 item.stabilized_rift_signature.name=裂痕印記(穩定)
 item.stabilized_rift_signature.stored=儲存位置
 item.stabilized_rift_signature.created=創建裂痕
-item.rift_configuration_tool.name=快速配置工具
+item.rift_configuration_tool.name=快速設定工具
 item.rift_remover.name=裂痕移除器
 item.rift_remover.closing=裂痕將很快關閉
 item.rift_remover.already_closing=該裂痕已經關閉
@@ -119,7 +119,7 @@ commands.generic.dimdoors.not_in_pocket_dim=You must be in a pocket dimension to
 commands.generic.dimdoors.not_in_pocket=You must be in a pocket to use this command.
 
 rifts.unlinked=這個裂痕不會通往任何地方
-rifts.destinations.escape.cannot_escape_limbo=可以嘗試，但是您需要死掉或者找到一些永恆的面料才能擺脫凌波。
+rifts.destinations.escape.cannot_escape_limbo=可以嘗試，但是您需要死掉或者找到一些永恆的麵料才能擺脫凌波。
 rifts.destinations.escape.not_in_pocket_dim=You can only use this to escape from a pocket dimension!
 rifts.destinations.escape.did_not_use_rift=You didn't use a rift to enter the pocket dimension, so you ended up in Limbo!
 rifts.destinations.escape.rift_has_closed=The rift you used to enter the pocket dimension has closed and you ended up in Limbo!
@@ -132,7 +132,7 @@ tools.rift_miss=您只能在裂痕的核心上使用該物品
 tools.target_became_block=失敗，現在儲存的位置有方塊
 
 dimdoors.general=常規設置
-dimdoors.general.tooltip=模組的常規配置設置
+dimdoors.general.tooltip=模組的常規設定設置
 dimdoors.general.baseDimensionID=基本尺寸ID
 dimdoors.general.baseDimensionID.tooltip=Dimension ID of the first Dimensional Doors dimension. Other dimensions will use consecutive IDs. It is strongly recommended to leave this to the default value.
 dimdoors.general.useStatusBar=Status Bar Messages

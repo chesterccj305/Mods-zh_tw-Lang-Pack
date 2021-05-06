@@ -1,4 +1,4 @@
-potion.stats_keeper.appetite=沒有胃口
+﻿potion.stats_keeper.appetite=沒有胃口
 health.statskeeper.death_remove=糟糕，你失去了%s的血量！
 health.statskeeper.item_add=你獲得了%s的血量！
 health.statskeeper.item_lose=你失去了%s的血量！”

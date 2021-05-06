@@ -1,10 +1,10 @@
-# This language file must be UTF-8 without BOM and LF!
+﻿# This language file must be UTF-8 without BOM and LF!
 container.villager_block=自動交易
 container.villager_block_edit=洗腦
 gui.add_trade=添加
 gui.apply_trade=應用交易
 gui.del_trade=刪除
 item.villager_wand.name=§a村民手杖§r
-tile.villager_block_n.name=空閑的村民方塊
+tile.villager_block_n.name=空閒的村民方塊
 tile.villager_block_slab.name=村民方塊台階
 tile.villager_block_trade.name=村民方塊

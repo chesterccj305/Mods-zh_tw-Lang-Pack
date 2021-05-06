@@ -1,4 +1,4 @@
-tile.futuremc.lantern.name=燈籠
+﻿tile.futuremc.lantern.name=燈籠
 tile.futuremc.barrel.name=木桶
 tile.futuremc.loom.name=紡織機
 tile.futuremc.stonecutter.name=切石機
@@ -189,7 +189,7 @@ futuremc.subtitles.panda_cannot_breed=熊貓大哭
 futuremc.subtitles.panda_death=熊貓死了
 futuremc.subtitles.panda_eat=熊貓進食
 futuremc.subtitles.panda_hurt=熊貓受傷
-futuremc.subtitles.panda_pre_sneeze=熊貓撓痒癢鼻子
+futuremc.subtitles.panda_pre_sneeze=熊貓搔搔癢鼻子
 futuremc.subtitles.panda_sneeze=熊貓打噴嚏
 futuremc.subtitles.panda_step=熊貓走路
 futuremc.subtitles.panda_worried_ambient=熊貓哭泣

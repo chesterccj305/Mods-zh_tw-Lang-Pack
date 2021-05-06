@@ -1,7 +1,7 @@
-malisiscore.commands.modnotfound=沒有模組註冊id %s.
-malisiscore.commands.modversion=當前版本 %s : %s.
-malisiscore.commands.noconfiguration=沒有 %s 可用的配置.
-malisiscore.commands.usage=使用 /malisis <config|version> [modid] 顯示當前版本或模組的配置GUI.
+﻿malisiscore.commands.modnotfound=沒有模組註冊id %s.
+malisiscore.commands.modversion=目前版本 %s : %s.
+malisiscore.commands.noconfiguration=沒有 %s 可用的設定.
+malisiscore.commands.usage=使用 /malisis <config|version> [modid] 顯示目前版本或模組的設定GUI.
 malisiscore.config.sortTileEntities.comment=啟用此選項可在渲染前對 Tile Entities 進行排序。\n這將解決某些 Tile Entities 在另一個 Tile Entities  後面顯示不正確的問題。\n會影響性能。
 malisiscore.config.sortTileEntities=啟用 Tile Entity 排序
-malisiscore.config.title=配置
+malisiscore.config.title=設定

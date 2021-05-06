@@ -1,4 +1,4 @@
-#zh_tw
+﻿#zh_tw
 
 nfo.vanillaplus.satchel.a.0=收集並儲存物品，可以加鎖。
 info.vanillaplus.satchel.a.1=在物品欄中使用，潛行將物品輸入。
@@ -23,7 +23,7 @@ tab.vanillaplus.storage.enchant=可以被附魔以提升容量。
 tab.vanillaplus.storage.satchel.0=這是個背包，可以讓你攜帶更多物品。
 tab.vanillaplus.storage.satchel.1=不會攜帶某些“對象”。
 
-tab.vanillaplus.storage.satchel_filter.0=配置背包可以自動撿起哪些物品。
+tab.vanillaplus.storage.satchel_filter.0=設定背包可以自動撿起哪些物品。
 tab.vanillaplus.storage.satchel_filter.1=回收你的物品欄！
 
 tab.vanillaplus.storage.satchel_v.0=這個背包。你放入的任何東西都會永遠消失。

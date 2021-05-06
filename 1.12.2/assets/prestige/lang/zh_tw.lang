@@ -1,4 +1,4 @@
-chat.prestige.added.reciever=你獲得了%d點聲望！
+﻿chat.prestige.added.reciever=你獲得了%d點聲望！
 chat.prestige.added.sender=%s獲得了%d點聲望！
 chat.prestige.clear.sender=已清除的獎勵：%s
 chat.prestige.confirmed=聲望點數：%d
@@ -16,4 +16,3 @@ prestige.key.category=聲望
 prestige.key.open=打開聲望菜單
 chat.prestige.force.unknown=未知選項 "%s"！
 chat.prestige.force.complete=所有玩家的聲望已被強制為%s！
-

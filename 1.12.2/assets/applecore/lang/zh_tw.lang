@@ -1,2 +1,2 @@
-applecore.commands.hunger.set.hunger.to=設置%s的饑餓值為%d
+﻿applecore.commands.hunger.set.hunger.to=設置%s的饑餓值為%d
 applecore.commands.hunger.usage=/hunger [玩家ID] <數值>

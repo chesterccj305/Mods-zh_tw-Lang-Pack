@@ -1,4 +1,4 @@
-itemGroup.tabFamiliarFauna=熟悉的動物群
+﻿itemGroup.tabFamiliarFauna=熟悉的動物群
 
 config.category.mobSettings.title=生物設定
 config.category.mobSettings.tooltip=啟用/禁用生物生成、繁衍速度等。

@@ -1,4 +1,4 @@
-tooltip.harderfarming:damagebonus=對動物造成 +%d 傷害
+﻿tooltip.harderfarming:damagebonus=對動物造成 +%d 傷害
 tooltip.harderfarming:growsColdWeather=在低溫下能夠興盛
 tooltip.harderfarming:linkedcrop.text=有關作物：
 tooltip.harderfarming:unlink.text=右擊作物取消關聯
@@ -24,7 +24,7 @@ achievement.craftTanner=曬黑的獸皮
 achievement.getLeather=皮革製品
 achievement.saltedHide=鹽漬
 achievement.playAYear=一年之後
-achievement.collectWinterWheat.desc=尋找一個寒冷的生物群系並收獲獎勵
+achievement.collectWinterWheat.desc=尋找一個寒冷的生態域並收穫獎勵
 achievement.cropRotation.desc=種植成行的輪作作物
 achievement.killWeeds.desc=破壞一個雜草方塊
 achievement.weedSuppressor.desc=放置一些地布來抑制雜草生長

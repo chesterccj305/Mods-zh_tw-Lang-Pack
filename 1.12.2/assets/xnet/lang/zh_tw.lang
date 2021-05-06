@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 
 item.xnet.xnet_manual.name=XNet手冊
 item.xnet.connector_upgrade.name=連接升級工具
@@ -51,7 +51,7 @@ message.xnet.router=\
     @f多個頻道 (控制器)
 message.xnet.wireless_router=\
     @f你可以連接到此方塊\n\
-    @f你可以通過路由器網路線纜\n\
+    @f你可以透過路由器網路線纜\n\
     @f將多個頻道\n\
     @f遠程連接到一個普通路由器\n\
     @6這需要一根天線！

@@ -1,4 +1,4 @@
-#############
+﻿#############
 # MEKANISM
 #############
 
@@ -39,12 +39,12 @@ item.LithiumBucket.name=鋰桶
 item.HeavyWaterBucket.name=重水桶
 item.FreeRunners.name=自由助跑器
 item.ArmoredJetpack.name=裝甲噴氣背包
-item.ConfigurationCard.name=配置卡
+item.ConfigurationCard.name=設定卡
 item.SeismicReader.name=地震讀取器
 item.HDPEPellet.name=高密度聚乙烯顆粒
 item.HDPERod.name=高密度聚乙烯棒
 item.HDPESheet.name=高密度聚乙烯紙
-item.PlaStick.name=塑料棒
+item.PlaStick.name=塑膠棒
 item.Substrate.name=基片
 item.Flamethrower.name=噴火器
 item.GaugeDropper.name=滴量器
@@ -105,7 +105,7 @@ tile.BasicBlock.ThermalEvaporationValve.name=熱力蒸餾閥門
 # Basic Block 2 (second ID iteration)
 tile.BasicBlock2.ThermalEvaporationBlock.name=熱力蒸餾方塊
 tile.BasicBlock2.InductionCasing.name=輸導套管
-tile.BasicBlock2.InductionPort.name=輸導端口
+tile.BasicBlock2.InductionPort.name=輸導埠
 tile.BasicBlock2.InductionCellBasic.name=基礎輸導元件
 tile.BasicBlock2.InductionCellAdvanced.name=高級輸導元件
 tile.BasicBlock2.InductionCellElite.name=精英輸導元件
@@ -127,17 +127,17 @@ tile.MachineBlock.Combiner.name=融合機
 tile.MachineBlock.Crusher.name=粉碎機
 tile.MachineBlock.Factory.name=工廠
 tile.MachineBlock.MetallurgicInfuser.name=冶金灌注機
-tile.MachineBlock.PurificationChamber.name=凈化倉
+tile.MachineBlock.PurificationChamber.name=淨化倉
 tile.MachineBlock.EnergizedSmelter.name=充能冶煉爐
 tile.MachineBlock.Teleporter.name=傳送機
 tile.MachineBlock.ElectricPump.name=電動泵
 tile.MachineBlock.PersonalChest.name=私人箱子
 tile.MachineBlock.Chargepad.name=充電台
 tile.MachineBlock.LogisticalSorter.name=物流整理機
-tile.MachineBlock.DigitalMiner.name=數字型采礦機
+tile.MachineBlock.DigitalMiner.name=數字型採礦機
 
 # Machine Block 2 (second ID iteration)
-tile.MachineBlock2.RotaryCondensentrator.name=回旋式氣液轉換機
+tile.MachineBlock2.RotaryCondensentrator.name=迴旋式氣液轉換機
 tile.MachineBlock2.ChemicalOxidizer.name=化學氧化機
 tile.MachineBlock2.ChemicalInfuser.name=化學灌注器
 tile.MachineBlock2.ChemicalCombiner.name=化學組合機
@@ -151,9 +151,9 @@ tile.MachineBlock2.SeismicVibrator.name=地震振動器
 tile.MachineBlock2.PressurizedReactionChamber.name=加壓反應室
 tile.MachineBlock2.PressurizedReactionChamber.short.name=PRC
 tile.MachineBlock2.FluidicPlenisher.name=流體裝填機
-tile.MachineBlock2.Laser.name=激光
-tile.MachineBlock2.LaserAmplifier.name=激光增幅器
-tile.MachineBlock2.LaserTractorBeam.name=激光牽引光束
+tile.MachineBlock2.Laser.name=雷射
+tile.MachineBlock2.LaserAmplifier.name=雷射增幅器
+tile.MachineBlock2.LaserTractorBeam.name=雷射牽引光束
 
 # Machine Block 3 (third ID iteration)
 tile.MachineBlock3.QuantumEntangloporter.name=量子傳送裝置
@@ -164,13 +164,13 @@ tile.MachineBlock3.FormulaicAssemblicator.name=公式裝配器
 tile.MachineBlock3.FuelwoodHeater.name=木料加熱器
 
 # Plastic
-tile.PlasticBlock.name=塑料方塊
-tile.SlickPlasticBlock.name=光滑塑料方塊
-tile.GlowPlasticBlock.name=塑料螢光方塊
-tile.ReinforcedPlasticBlock.name=強化塑料方塊
-tile.RoadPlasticBlock.name=塑料路
+tile.PlasticBlock.name=塑膠方塊
+tile.SlickPlasticBlock.name=光滑塑膠方塊
+tile.GlowPlasticBlock.name=塑膠螢光方塊
+tile.ReinforcedPlasticBlock.name=強化塑膠方塊
+tile.RoadPlasticBlock.name=塑膠路
 
-tile.PlasticFence.name=塑料柵欄
+tile.PlasticFence.name=塑膠柵欄
 
 # Infuse types
 infuse.carbon=碳
@@ -322,14 +322,14 @@ gas.silver=銀漿液
 gas.obsidian=黑曜石漿液
 gas.lead=鉛漿液
 
-gas.cleanIron=純凈鐵漿液
-gas.cleanGold=純凈金漿液
-gas.cleanOsmium=純凈鋨漿液
-gas.cleanCopper=純凈銅漿液
-gas.cleanTin=純凈錫漿液
-gas.cleanSilver=純凈銀漿液
-gas.cleanObsidian=純凈黑曜石漿液
-gas.cleanLead=純凈鉛漿液
+gas.cleanIron=純淨鐵漿液
+gas.cleanGold=純淨金漿液
+gas.cleanOsmium=純淨鋨漿液
+gas.cleanCopper=純淨銅漿液
+gas.cleanTin=純淨錫漿液
+gas.cleanSilver=純淨銀漿液
+gas.cleanObsidian=純淨黑曜石漿液
+gas.cleanLead=純淨鉛漿液
 
 # BC Fuel Gases
 gas.fuel=氣化燃油
@@ -383,7 +383,7 @@ update.newFeatures=新特性
 update.visit=訪問
 update.toDownload=下載
 update.devBuild=正在使用開發者構建版本
-update.outdated=正在使用過期版本的一兩個模塊
+update.outdated=正在使用過期版本的一兩個模組
 
 # Upgrades
 upgrade.energy=能量
@@ -414,15 +414,15 @@ mekanism.configgui.ctgy.general=通用機械常規設定
 mekanism.configgui.ctgy.machines=機器設定
 mekanism.configgui.ctgy.tier=等級設置
 mekanism.configgui.ctgy.usage=能耗設定
-mekanism.configgui.ctgy.client=客戶端設定
+mekanism.configgui.ctgy.client=用戶端設定
 mekanism.configgui.ctgy.storage=能量儲存設定
 
 # Config Tooltips
-mekanism.configgui.ctgy.general.tooltip=通用機械及其下所有模塊的常規設定
+mekanism.configgui.ctgy.general.tooltip=通用機械及其下所有模組的常規設定
 mekanism.configgui.ctgy.machines.tooltip=是否啟用特定機器的設定
 mekanism.configgui.ctgy.tier.tooltip=有關通用機械等級的設置及其相應的值
 mekanism.configgui.ctgy.usage.tooltip=有關機械以及能耗的設定
-mekanism.configgui.ctgy.client.tooltip=通用機械及其下所有模塊在客戶端的特殊設定
+mekanism.configgui.ctgy.client.tooltip=通用機械及其下所有模組在用戶端的特殊設定
 mekanism.configgui.ctgy.storage.tooltip=機器及它們的最大能量儲存的設定
 
 # Gui text
@@ -449,7 +449,7 @@ gui.empty=空
 gui.volume=體積
 gui.start=開始
 gui.stop=停止
-gui.config=配置
+gui.config=設定
 gui.teleport=傳送
 gui.eject=彈射
 gui.input=輸入
@@ -527,7 +527,7 @@ gui.vibrating=振動
 gui.abundancy=豐度
 gui.nextItem=下一物品
 gui.lastItem=上一物品
-gui.oreDictCompat=相容礦物辭典關鍵詞
+gui.oreDictCompat=相容礦物辭典關鍵字
 gui.toggleCooling=切換到冷卻測量
 gui.coolingMeasurements=啟用冷卻
 gui.redstoneOutputMode=紅石模式
@@ -584,7 +584,7 @@ gui.maxWaterOutput=最大水輸出
 gui.stockControl=儲存控制
 gui.allowDefault=允許預設值
 gui.sizeMode=大小模式
-mekanism.gui.sizeModeConflict=當前沒有效果，因為單個項目模式已打開。
+mekanism.gui.sizeModeConflict=目前沒有效果，因為單個項目模式已打開。
 
 gui.reactor.injectionRate=輸入速率
 
@@ -601,9 +601,9 @@ gui.thermalEvaporationController.short=Thermal E. 控制器
 
 gui.dictionary.noKey=無關鍵字.
 
-gui.configuration=配置
-gui.configuration.side=側面配置
-gui.configuration.transporter=傳輸配置
+gui.configuration=設定
+gui.configuration.side=側面設定
+gui.configuration.transporter=傳輸設定
 gui.configuration.strictInput=精確輸入
 
 gui.rotaryCondensentrator.toggleOperation=切換操作
@@ -665,9 +665,9 @@ gui.robit.owner=主人
 
 gui.password.setPassword=設置密碼
 gui.password.enterPassword=輸入密碼
-gui.password.fieldsEmpty=字段為空
+gui.password.fieldsEmpty=欄位為空
 gui.password.notMatching=不匹配
-gui.password.identical=恒等
+gui.password.identical=恆等
 gui.password.invalid=無效
 gui.password=密碼
 
@@ -690,15 +690,15 @@ gui.teleporter.noFreq=無頻率
 
 gui.entangloporter.noAccess=你沒有該傳送器的權限.
 
-gui.digitalMinerConfig=數字型采礦機配置
+gui.digitalMinerConfig=數字型採礦機設定
 
 gui.digitalMiner.autoPull=自動推拉
 gui.digitalMiner.replaceBlock=替換方塊
-gui.digitalMiner.reset=重置
-gui.digitalMiner.silkTouch=精準采集
+gui.digitalMiner.reset=重設
+gui.digitalMiner.silkTouch=精準採集
 gui.digitalMiner.pull=推拉
 gui.digitalMiner.silk=精準
-gui.digitalMiner.toMine=采掘
+gui.digitalMiner.toMine=採掘
 gui.digitalMiner.running=運行
 gui.digitalMiner.inverse=反選模式
 gui.digitalMiner.requireReplace=需要重新放置
@@ -717,23 +717,23 @@ security.private=私有
 security.trusted=專用
 
 # Item and block tooltip text
-tooltip.configurator.configurate=配置
+tooltip.configurator.configurate=設定
 tooltip.configurator.empty=空
 tooltip.configurator.rotate=旋轉
 tooltip.configurator.wrench=扳手
-tooltip.configurator.pumpReset=重置電力泵計數
+tooltip.configurator.pumpReset=重設電力泵計數
 tooltip.configurator.toggleDiverter=分流模式更改為
 tooltip.configurator.toggleMode=被更改到%s運轉狀態
-tooltip.configurator.viewMode=當前%s運轉狀態
+tooltip.configurator.viewMode=目前%s運轉狀態
 tooltip.configurator.noLink=無連結
 tooltip.configurator.linkMsg=綁定到
 tooltip.configurator.dim=位面
 tooltip.configurator.setLink=設置連接至方塊
-tooltip.configurator.plenisherReset=重置流體裝填機計算結果
-tooltip.configurator.inductionPortMode=將端口傳輸模式調為
+tooltip.configurator.plenisherReset=重設流體裝填機計算結果
+tooltip.configurator.inductionPortMode=將埠傳輸模式調為
 tooltip.configurator.toggleColor=顏色切換為
-tooltip.configurator.viewColor=當前顏色
-tooltip.configurator.reactorPortEject=切換反應器端口噴射模式
+tooltip.configurator.viewColor=目前顏色
+tooltip.configurator.reactorPortEject=切換反應器埠噴射模式
 tooltip.configurator.modeChange=連接模式更改為
 mekanism.pipe.connectiontype.normal=正常
 mekanism.pipe.connectiontype.push=輸入
@@ -780,7 +780,7 @@ tooltip.tile=Tile
 tooltip.keysFound=找到關鍵字
 tooltip.noKey=無關鍵字
 tooltip.hp=HP
-mekanism.tooltip.configureState=配置狀態%s
+mekanism.tooltip.configureState=設定狀態%s
 tooltip.outputRate=輸出速率
 tooltip.insufficientFuel=燃料不足
 tooltip.readyForReaction=已準備好反應
@@ -824,7 +824,7 @@ mekanism.tooltip.flamethrower.modeBump=火焰噴射器模式切換為%s
 
 tooltip.seismicReader.needsEnergy=能量不足無法詮釋振動
 tooltip.seismicReader.noVibrations=未能發現任何振動
-tooltip.mekanism.SeismicReader=一種便攜式機器，利用地震振動提供世界不同層的信息。
+tooltip.mekanism.SeismicReader=一種攜帶式機器，利用地震振動提供世界不同層的資訊。
 
 tooltip.Bin=一個能儲存大量單種物品的方塊。
 tooltip.TeleporterFrame=傳送框架用於搭建傳送門結構，允許傳送門在其中打開
@@ -836,10 +836,10 @@ tooltip.ThermalEvaporationController=熱力蒸餾塔的控制器，作為結構�
 tooltip.ThermalEvaporationValve=用於熱力蒸餾塔的閥門，可以使熱力蒸餾塔和外界管道交互
 tooltip.ThermalEvaporationBlock=一種用銅合金製作的用於熱力蒸餾塔的外殼，使用先進的材料來保證熱處理的穩定
 tooltip.InductionCasing=用於輸導矩陣的絕緣外殼
-tooltip.InductionPort=輸導矩陣的接口，允許外界能量管道與矩陣交互
+tooltip.InductionPort=輸導矩陣的介面，允許外界能量管道與矩陣交互
 tooltip.InductionCell=能儲存大量能量的方塊，作為輸導矩陣的儲存元件
 tooltip.InductionProvider=一種先進的能源管理裝置，可以提高輸導矩陣的能源交互量。
-tooltip.SuperheatingElement=一種模塊化的導熱元件，能夠叫熱量高效率地傳導到周邊
+tooltip.SuperheatingElement=一種模組化的導熱元件，能夠叫熱量高效率地傳導到周邊
 tooltip.PressureDisperser=一種能保證蒸汽壓力的多方塊結構方塊，它們應該無間隙的放置來保證蒸汽能平穩傳送。
 tooltip.BoilerCasing=一種耐壓方塊，用於製作鍋爐結構的外殼
 tooltip.BoilerValve=用於鍋爐結構的閥門，能讓水進入鍋爐並導出產生的蒸汽
@@ -849,7 +849,7 @@ tooltip.EnrichmentChamber=一台能將礦石磨成兩份粉末的機器，也可
 tooltip.OsmiumCompressor=一台非常高級的設備，能夠將鋨礦石壓縮成 多種粉末以製造相應金屬錠。
 tooltip.Combiner=A machine 一台用來將粉末與圓石融合為相應礦石的機器。
 tooltip.Crusher=一台用來將金屬錠磨成相應粉末的機器，也可以進行一些其他操作。
-tooltip.DigitalMiner=一台高度先進，以過濾為基礎功能的自動采礦機，它可以挖掘/采集最大32格範圍內的所有方塊。
+tooltip.DigitalMiner=一台高度先進，以過濾為基礎功能的自動採礦機，它可以挖掘/採集最大32格範圍內的所有方塊。
 tooltip.MetallurgicInfuser=一台用來將多種材料的金屬熔煉成合金或其他化合物的設備。
 tooltip.PurificationChamber=一台能夠將礦石加工成三塊礦石疙瘩的高級設備，能夠提供300%的礦石加工效率。
 tooltip.EnergizedSmelter=一台簡單的消耗通用機器能量的熔爐。
@@ -862,24 +862,24 @@ tooltip.RotaryCondensentrator=一台能夠將氣體和其液態形式相互轉�
 tooltip.ChemicalInjectionChamber=一台能夠將礦物處理成4個碎片的精英機器，是四倍產量的第一步。
 tooltip.ElectrolyticSeparator=一台使用電解將特定氣體 分離成兩種不同氣體的機器。
 tooltip.PrecisionSawmill=一台更有效地處理原木和木製品的機器，同時也能獲得鋸屑。
-tooltip.ChemicalDissolutionChamber=一台能夠通過化學手段溶解礦石裏的所有雜質，從而得到未經處理的礦物漿液的終極機器。
+tooltip.ChemicalDissolutionChamber=一台能夠透過化學手段溶解礦石裡的所有雜質，從而得到未經處理的礦物漿液的終極機器。
 tooltip.ChemicalWasher=一台能夠清理未經處理的漿液，為結晶作準備的終極機器。
-tooltip.ChemicalCrystallizer=一台用於結晶凈化過的礦物漿液的終極機器。
+tooltip.ChemicalCrystallizer=一台用於結晶淨化過的礦物漿液的終極機器。
 tooltip.ChemicalOxidizer=一台能夠將固態材料氧化成氣態產物的機器。
 tooltip.ChemicalInfuser=一台能夠通過注入其它兩種氣體產生新的氣體的機器。
 tooltip.SeismicVibrator=一台能夠利用地震震動提供關於這個世界地質結構的機器。
 tooltip.PressurizedReactionChamber=一台能夠處理固體，液體和氣體混合物，並且能產生氣態和固態產物的高級機器。
-tooltip.FluidTank=一個方便，堅固，便攜式的儲罐，可以讓您隨身攜帶多個水桶。也可以作為一個加倍的桶！
+tooltip.FluidTank=一個方便，堅固，攜帶式的儲罐，可以讓您隨身攜帶多個水桶。也可以作為一個加倍的桶！
 tooltip.FluidicPlenisher=一台能夠用液體填充溝壑，從而產生一片湖的機器。
 tooltip.Laser=一種高級的能量傳輸形式，利用平行光線實現能量的直線傳輸。
-tooltip.LaserAmplifier=一個能用於合並，轉向和增幅激光的方塊，易於控制。
-tooltip.LaserTractorBeam=一個用於合並和轉向激光的方塊。會收集它所破壞方塊的掉落物。
+tooltip.LaserAmplifier=一個能用於合併，轉向和增幅雷射的方塊，易於控制。
+tooltip.LaserTractorBeam=一個用於合併和轉向雷射的方塊。會收集它所破壞方塊的掉落物。
 tooltip.SolarNeutronActivator=一個將太陽的中子輻射引入自身腔體的機器，可緩慢製造各種同位素。
-tooltip.Oredictionificator=一個使用礦典統一並翻譯各種物品和方塊的機器。
+tooltip.Oredictionificator=一個使用礦典統一併翻譯各種物品和方塊的機器。
 tooltip.Factory=一台經過工業化升級的機器，能夠一次同時處理多個原料
 tooltip.ResistiveHeater=一台能直接將能量轉化成熱能的機器
 tooltip.FormulaicAssemblicator=一台快速製作成品的機器
-tooltip.FuelwoodHeater=一台通過燃燒可燃物來生產熱量的機器
+tooltip.FuelwoodHeater=一台透過燃燒可燃物來生產熱量的機器
 tooltip.QuantumEntangloporter=一台可以長距離跨維度傳輸物品的高級機器
 
 tooltip.HeatGenerator=一台使用岩漿熱量或者其它可燃資源產生能量的發電機。
@@ -894,15 +894,15 @@ tooltip.ElectromagneticCoil=一塊類似磁鐵的裝置，能使得動能在其�
 tooltip.TurbineCasing=用於工業渦輪的耐壓外殼
 tooltip.TurbineValve=用於輸送蒸汽並導出能量的工業渦輪閥門
 tooltip.TurbineVent=用於將剩餘蒸汽排出的渦輪外殼，它們必須安裝在旋鈕裝置以上的位置。
-tooltip.SaturatingCondenser=一塊可以將工業渦輪機產生的蒸汽處理成水的方塊。 可以放置在覆雜旋鈕裝置上任意位置。
+tooltip.SaturatingCondenser=一塊可以將工業渦輪機產生的蒸汽處理成水的方塊。 可以放置在複雜旋鈕裝置上任意位置。
 
-tooltip.ReactorGlass=能用於聚變反應結構的強化玻璃。
-tooltip.ReactorLaserFocusMatrix=一個可吸收光能並加熱聚變反應堆的強化玻璃板。
-tooltip.ReactorController=整個聚變反應結構的控制方塊。
-tooltip.ReactorFrame=能用於聚變反映結構的強化框架。
-tooltip.ReactorNeutronCapturePlate=一個能用於阻隔聚變輻射或協助氚生成的方塊。
-tooltip.ReactorPort=一個強化的框架方塊，能處理聚變反應堆中氣體和能量的輸送。
-tooltip.ReactorLogicAdapter=一個可以通過紅石信號來對反應堆進行基本監控的的方塊。
+tooltip.ReactorGlass=能用於融合反應結構的強化玻璃。
+tooltip.ReactorLaserFocusMatrix=一個可吸收光能並加熱融合反應爐的強化玻璃板。
+tooltip.ReactorController=整個融合反應結構的控制方塊。
+tooltip.ReactorFrame=能用於融合反映結構的強化框架。
+tooltip.ReactorNeutronCapturePlate=一個能用於阻隔融合輻射或協助氚生成的方塊。
+tooltip.ReactorPort=一個強化的框架方塊，能處理融合反應爐中氣體和能量的輸送。
+tooltip.ReactorLogicAdapter=一個可以透過紅石信號來對反應爐進行基本監控的的方塊。
 
 tooltip.OsmiumOre=一種牢固的材料，它能夠在這個世界任何高度被發現。 它因經常用於機器建造而聞名。
 tooltip.CopperOre=一種常見的導電材料，能夠用於線纜的產出。 它耐高溫的特性也使它成為生成高級機械的重要材料。
@@ -926,7 +926,7 @@ sideData.Discharge=反充能
 control.disabled=禁止
 control.high=高
 control.low=低
-control.pulse=脈沖
+control.pulse=脈衝
 control.disabled.desc=總是啟用
 control.high.desc=有紅石信號時啟用
 control.low.desc=無紅石信號時啟用
@@ -981,9 +981,9 @@ dye.white=白色
 reactor.disabled=關閉
 reactor.disabled.desc=不會輸出信號
 reactor.ready=Ready for 準備開始
-reactor.ready.desc=反應堆已達到需求溫度
+reactor.ready.desc=反應爐已達到需求溫度
 reactor.capacity=熱滿足
-reactor.capacity.desc=反應堆溫度已經趨於穩定
+reactor.capacity.desc=反應爐溫度已經趨於穩定
 reactor.depleted=燃料不足
 reactor.depleted.desc=反應沒有足夠的燃料維持
 
@@ -1007,7 +1007,7 @@ tile.Generator.BioGenerator.name=生物能發電機
 tile.Generator.AdvancedSolarGenerator.name=高級太陽能發電機
 tile.Generator.WindGenerator.name=風力發電機
 tile.Generator.TurbineRotor.name=渦輪轉子
-tile.Generator.RotationalComplex.name=覆雜旋鈕裝置
+tile.Generator.RotationalComplex.name=複雜旋鈕裝置
 tile.Generator.ElectromagneticCoil.name=電磁線圈
 tile.Generator.TurbineCasing.name=渦輪外殼
 tile.Generator.TurbineValve.name=渦輪閥門
@@ -1015,13 +1015,13 @@ tile.Generator.TurbineVent.name=渦輪排氣口
 tile.Generator.SaturatingCondenser.name=飽和冷凝器
 
 tile.Reactor.ReactorController.name=反應控制器
-tile.Reactor.ReactorFrame.name=反應堆框架
+tile.Reactor.ReactorFrame.name=反應爐框架
 tile.Reactor.ReactorNeutronCapturePlate.name=中子吸收板
-tile.Reactor.ReactorPort.name=反應堆端口
+tile.Reactor.ReactorPort.name=反應爐埠
 tile.Reactor.ReactorLogicAdapter.name=反應邏輯適配器
 
 tile.ReactorGlass.ReactorGlass.name=強化玻璃
-tile.ReactorGlass.ReactorLaserFocusMatrix.name=激光聚焦矩陣
+tile.ReactorGlass.ReactorLaserFocusMatrix.name=雷射聚焦矩陣
 
 # Gui text
 gui.heatGenerator.fuel=燃料
@@ -1034,7 +1034,7 @@ gui.active=水冷
 
 gui.minInject=最小輸入率
 gui.ignition=引燃溫度
-gui.maxPlasma=等離子體最高溫度
+gui.maxPlasma=電漿體最高溫度
 gui.maxCasing=殼體最高溫度
 gui.passiveGeneration=被動產能
 gui.steamProduction=蒸汽產量
@@ -1045,7 +1045,7 @@ mekanism.configgui.ctgy.generators.generators=發電機設置
 mekanism.configgui.ctgy.generators.generation=發電設置
 
 # Config Tooltips
-mekanism.configgui.ctgy.generators.general.tooltip=有關通用機械發電設備的常規配置的設置
+mekanism.configgui.ctgy.generators.general.tooltip=有關通用機械發電設備的常規設定的設置
 mekanism.configgui.ctgy.generators.generators.tooltip=於啟用和禁用特定生成器的設置
 mekanism.configgui.ctgy.generators.generation.tooltip=關於發電機能耗的設置
 
@@ -1138,7 +1138,7 @@ mekanism.configgui.ctgy.tools.armor=護甲平衡
 mekanism.configgui.ctgy.tools.tools=工具平衡
 
 # Config Tooltips
-mekanism.configgui.ctgy.tools.general.tooltip=通用機械工具的常規配置設定
+mekanism.configgui.ctgy.tools.general.tooltip=通用機械工具的常規設定設定
 mekanism.configgui.ctgy.tools.armor.tooltip=通用機械護甲的保護值以及平衡的設定
 mekanism.configgui.ctgy.tools.tools.tooltip=通用機械工具的效率值以及平衡的設定
 
@@ -1146,8 +1146,8 @@ mekanism.configgui.ctgy.tools.tools.tooltip=通用機械工具的效率值以及
 cmd.mek.usage=
 cmd.mek.debug.usage=
 cmd.mek.debug=
-cmd.mek.testrules.usage=設置測試的世界規則(沒有怪物生成、日光周期或天氣)
-cmd.mek.testrules=怪物生成，日光周期和天氣禁用!
+cmd.mek.testrules.usage=設置測試的世界規則(沒有怪物生成、日光週期或天氣)
+cmd.mek.testrules=怪物生成，日光週期和天氣禁用!
 cmd.mek.tp.usage=傳送到新的坐標，保存堆棧上的最後一個位置
 cmd.mek.tp=傳送到%d，%d，%d -保存堆棧上的最後一個位置
 cmd.mek.tp.missing.args=傳送需要三個坐標： x, y, z

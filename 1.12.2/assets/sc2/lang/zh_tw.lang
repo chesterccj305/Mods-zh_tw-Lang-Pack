@@ -1,4 +1,4 @@
-//Weapons
+﻿//Weapons
 item.oak_sword.name=橡木劍
 item.oak_sword_lv2.name=橡木劍
 item.oak_sword_lv3.name=橡木劍
@@ -120,7 +120,7 @@ tooltip.tier_2/5=等級 >> 2/5
 tooltip.tier_3/5=等級 >> 3/5
 tooltip.tier_4/5=等級 >> 4/5
 tooltip.tier_5/5=等級 >> 5/5
-tooltip.press_shift=§c按下§nShift§c查看詳細信息
+tooltip.press_shift=§c按下§nShift§c查看詳細資訊
 tooltip.wand_of_healing_1=恢覆生命值半心
 tooltip.wand_of_healing_2=恢覆生命值1心
 tooltip.wand_of_saturation_1=恢覆饑餓值半格

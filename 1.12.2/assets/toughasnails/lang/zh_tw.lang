@@ -1,6 +1,6 @@
-commands.toughasnails.usage=/toughasnails <tempinfo|settemp> [參數]
+﻿commands.toughasnails.usage=/toughasnails <tempinfo|settemp> [參數]
 commands.toughasnails.settemp.success=已將玩家體溫設定為 %s
-commands.toughasnails.settemp.disabled=體溫系統當前已禁用！
+commands.toughasnails.settemp.disabled=體溫系統目前已禁用！
 
 itemGroup.tabToughAsNails=意志堅定
 

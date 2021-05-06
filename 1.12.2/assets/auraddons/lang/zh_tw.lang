@@ -1,4 +1,4 @@
-itemGroup.Auraddons=靈氣拓展
+﻿itemGroup.Auraddons=靈氣拓展
 
 tile.auraddons.block_auto_wrath.name=自動憤怒啟動器
 tile.auraddons.block_ancient_fence.name=荒古木柵欄
@@ -15,12 +15,12 @@ tile.auraddons.block_aura_transporter.name=靈氣傳輸器
 tile.auraddons.block_wither_proofer.name=防凋零裝置
 tile.auraddons.block_rainbow_beacon.name=彩虹烽火台
 
-item.auraddons.item_creative_aura_cache.name=創造模式靈氣緩存
+item.auraddons.item_creative_aura_cache.name=創造模式靈氣快取
 item.auraddons.item_dampening_feather.name=緩落羽毛
 item.auraddons.item_sky_feather.name=天空之羽
 item.auraddons.item_sky_bottle.name=天空之瓶
 
-advancement.auraddons.auto_wrath=工業沖擊波
+advancement.auraddons.auto_wrath=工業衝擊波
 advancement.auraddons.auto_wrath.desc=合成自動傷害周圍生物的自動憤怒啟用器
 advancement.auraddons.dampening_feather=似羽輕盈
 advancement.auraddons.dampening_feather.desc=合成能防止掉落傷害的緩落羽毛
@@ -44,7 +44,7 @@ advancement.auraddons.rainbow_beacon.desc=合成彩虹烽火台以射出彩虹�
 info.auraddons.same_position=這好像是同一個位置……
 info.auraddons.too_far=這個位置好像太遠了……
 info.auraddons.stored_pos=你在腦海中記下了這個位置
-info.auraddons.stored_pos_gone=你腦海中的記錄似乎不太對……
+info.auraddons.stored_pos_gone=你腦海中的紀錄似乎不太對……
 info.auraddons.connected=你連接了傳輸器
 
 auraddons:recipe_quartz_disruption=石英
@@ -52,4 +52,3 @@ auraddons:recipe_concrete_disruption=混凝土粉末
 auraddons:recipe_wood_disruption=木板
 auraddons:recipe_sandstone_disruption=沙子
 auraddons:recipe_ladder_disruption=木棍
-

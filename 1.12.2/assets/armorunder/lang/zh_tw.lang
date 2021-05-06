@@ -1,31 +1,31 @@
-itemGroup.armorunder=裝甲內襯
+﻿itemGroup.armorunder=裝甲內襯
 
-item.auw_mod_icon.name=圖標
+item.auw_mod_icon.name=圖示
 
 item.auw_antifreeze_boots_liner.name=靴子奧托內襯
-tooltip_summ.item.auw_antifreeze_boots_liner=戰利品。可附在靴子裝甲內，增加25%防凍層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_antifreeze_boots_liner=戰利品。可附在靴子裝甲內，增加25%防凍層。安裝一次，不可重複。全套裝甲 則可增加100%!
 item.auw_antifreeze_chestplate_liner.name=胸甲奧托內襯
-tooltip_summ.item.auw_antifreeze_chestplate_liner=戰利品。可附在胸甲裝甲內，增加25%防凍層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_antifreeze_chestplate_liner=戰利品。可附在胸甲裝甲內，增加25%防凍層。安裝一次，不可重複。全套裝甲 則可增加100%!
 item.auw_antifreeze_helmet_liner.name=頭盔奧托內襯
-tooltip_summ.item.auw_antifreeze_helmet_liner=戰利品。可附在頭盔裝甲內，增加25%防凍層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_antifreeze_helmet_liner=戰利品。可附在頭盔裝甲內，增加25%防凍層。安裝一次，不可重複。全套裝甲 則可增加100%!
 item.auw_antifreeze_leggings_liner.name=護腿奧托內襯
-tooltip_summ.item.auw_antifreeze_leggings_liner=戰利品。可附在護腿裝甲內，增加25%防凍層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_antifreeze_leggings_liner=戰利品。可附在護腿裝甲內，增加25%防凍層。安裝一次，不可重複。全套裝甲 則可增加100%!
 
 item.auw_auto_boots_liner.name=靴子奧茲內襯
 item.auw_auto_chestplate_liner.name=胸甲奧茲內襯
-tooltip_summ.item.auw_auto_chestplate_liner=可附在胸甲內並自行調節溫度。安裝一次，不可重覆。每套裝甲只需一個奧茲內襯!
+tooltip_summ.item.auw_auto_chestplate_liner=可附在胸甲內並自行調節溫度。安裝一次，不可重複。每套裝甲只需一個奧茲內襯!
 item.auw_auto_helmet_liner.name=頭盔奧茲內襯
 item.auw_auto_leggings_liner.name=護腿奧茲內襯
-tooltip_summ.item.auw_auto_leggings_liner=可附在護腿內並自行調節溫度。安裝一次，不可重覆。每套裝甲只需一個奧茲內襯!
+tooltip_summ.item.auw_auto_leggings_liner=可附在護腿內並自行調節溫度。安裝一次，不可重複。每套裝甲只需一個奧茲內襯!
 
 item.auw_barrier_boots_liner.name=靴子奧利內襯
-tooltip_summ.item.auw_barrier_boots_liner=可附在靴子裝甲內，增加25%防燒層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_barrier_boots_liner=可附在靴子裝甲內，增加25%防燒層。安裝一次，不可重複。全套裝甲 則可增加100%!
 item.auw_barrier_chestplate_liner.name=胸甲奧利內襯
-tooltip_summ.item.auw_barrier_chestplate_liner=可附在胸甲裝甲內，增加25%防燒層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_barrier_chestplate_liner=可附在胸甲裝甲內，增加25%防燒層。安裝一次，不可重複。全套裝甲 則可增加100%!
 item.auw_barrier_helmet_liner.name=頭盔奧利內襯
-tooltip_summ.item.auw_barrier_helmet_liner=可附在頭盔裝甲內，增加25%防燒層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_barrier_helmet_liner=可附在頭盔裝甲內，增加25%防燒層。安裝一次，不可重複。全套裝甲 則可增加100%!
 item.auw_barrier_leggings_liner.name=護腿奧利內襯
-tooltip_summ.item.auw_barrier_leggings_liner=可附在護腿裝甲內，增加25%防燒層。安裝一次，不可重覆。全套裝甲 則可增加100%!
+tooltip_summ.item.auw_barrier_leggings_liner=可附在護腿裝甲內，增加25%防燒層。安裝一次，不可重複。全套裝甲 則可增加100%!
 
 item.auw_cool_boots_liner.name=靴子涼感內襯
 item.auw_cool_chestplate_liner.name=胸甲涼感內襯

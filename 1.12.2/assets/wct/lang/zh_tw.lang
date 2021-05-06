@@ -1,4 +1,4 @@
-// Items
+﻿// Items
 item.wct:wct.name=無線合成終端
 item.wct:wct_creative.name=創造模式無線合成終端
 item.wct:magnet_card.name=磁鐵卡
@@ -50,4 +50,4 @@ gui.magnetmode=磁鐵模式
 
 // JEI
 jei.wct.desc=AE2合成終端的無線版本。要使用它，需要先將它通過安全終端連結到ME網路。可以在選項... ->按鍵設定... 中設置綁定按鍵來打開介面。
-jei.magnet_card.desc=可以自動將物品輸入連接的ME網路的磁鐵。蹲下+右鍵來更改模式(也可以通過綁定的按鍵來切換模式)。右鍵以打開過濾器介面(也可以使用按鍵綁定)。
+jei.magnet_card.desc=可以自動將物品輸入連接的ME網路的磁鐵。蹲下+右鍵來更改模式(也可以透過綁定的按鍵來切換模式)。右鍵以打開過濾器介面(也可以使用按鍵綁定)。

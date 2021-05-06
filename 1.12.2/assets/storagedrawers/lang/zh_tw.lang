@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 
 itemGroup.storagedrawers=儲物抽屜
 itemGroup.storagedrawersSorting=儲物抽屜|整理
@@ -43,7 +43,7 @@ item.storagedrawers.upgradeRedstone.min.description=根據抽屜物品數量最�
 item.storagedrawers.drawerKey.name=綁定鑰匙
 item.storagedrawers.drawerKey.description=將抽屜與內容物綁定或解鎖。
 item.storagedrawers.shroudKey.name=屏蔽鑰匙
-item.storagedrawers.shroudKey.description=隱藏或顯示抽屜上的物品圖標。
+item.storagedrawers.shroudKey.description=隱藏或顯示抽屜上的物品圖示。
 item.storagedrawers.quantifyKey.name=數量鑰匙
 item.storagedrawers.quantifyKey.description=隱藏或顯示抽屜內儲存的物品的數量。
 item.storagedrawers.personalKey.name=私人鑰匙
@@ -137,7 +137,7 @@ storagedrawers.config.blocks.trim=橋接方塊
 storagedrawers.config.blocks.controllerSlave=管理器傳動方塊
 
 storagedrawers.config.upgrades=升級設定
-storagedrawers.config.upgrades.tooltip=關於升級抽屜的配置。
+storagedrawers.config.upgrades.tooltip=關於升級抽屜的設定。
 
 storagedrawers.config.upgrades.level2Mult=抽屜容量翻倍升級(II)
 storagedrawers.config.upgrades.level3Mult=抽屜容量翻倍升級(III)
@@ -166,7 +166,7 @@ storagedrawers.config.prop.baseStorage.tooltip=設定每個抽屜格中可儲存
 storagedrawers.config.prop.recipeOutput=合成數量
 storagedrawers.config.prop.recipeOutput.tooltip=設定使用預設合成公式可合成多少抽屜。
 storagedrawers.config.prop.enableDrawerUI=允許抽屜UI
-storagedrawers.config.prop.enableDrawerUI.tooltip=在界面中顯示物品信息以及更方便的管理升級組件。
+storagedrawers.config.prop.enableDrawerUI.tooltip=在界面中顯示物品資訊以及更方便的管理升級組件。
 storagedrawers.config.prop.enableSidedInput=允許抽屜輸入
 storagedrawers.config.prop.enableSidedInput.tooltip=允許向抽屜側面輸入物品。
 storagedrawers.config.prop.enableSidedOutput=允許抽屜輸出
@@ -177,8 +177,8 @@ storagedrawers.config.prop.enableFallbackRecipes=允許混用合成配方
 storagedrawers.config.prop.enableFallbackRecipes.tooltip=任何有效木板混用都可以合成橡木材質的抽屜。
 storagedrawers.config.prop.invertShift=Shift設定
 storagedrawers.config.prop.invertShift.tooltip=對換點擊與shift單擊的組合鍵作用.
-storagedrawers.config.prop.enableDebugLogging=允許調試記錄
-storagedrawers.config.prop.enableDebugLogging.tooltip=允許向log文件輸入本模組的更多信息.
+storagedrawers.config.prop.enableDebugLogging=允許除錯記錄
+storagedrawers.config.prop.enableDebugLogging.tooltip=允許向log文件輸入本模組的更多資訊.
 storagedrawers.config.prop.enableTape=允許打包帶
 storagedrawers.config.prop.enableTape.tooltip=可用於快速移動抽屜及其內容物
 storagedrawers.config.prop.wailaStackRemainder=物品數量顯示

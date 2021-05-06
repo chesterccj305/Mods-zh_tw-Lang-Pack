@@ -1,4 +1,4 @@
-bhs.manual_desc.anti_matter=反物質十分昂貴。你基本上需要8十億RF來製造這種材料的一個原子。反物質能摧毀黑洞或關閉空間中兩點的連接。值得注意的是，你需要讓黑洞失去穩定並投入反物質來摧毀它。結果可能不只是爆炸！
+﻿bhs.manual_desc.anti_matter=反物質十分昂貴。你基本上需要8十億RF來製造這種材料的一個原子。反物質能摧毀黑洞或關閉空間中兩點的連接。值得注意的是，你需要讓黑洞失去穩定並投入反物質來摧毀它。結果可能不只是爆炸！
 bhs.manual_desc.atomic_transformer=原子轉換器是你壓縮物品的第一步。你可以用RF來通過機器轉換一些物品。
 bhs.manual_desc.black_hole.1=人工黑洞並不危險，但仍然具有巨大質量並應該被放在一個屏障下。黑洞有著1百萬的屏障上限。隨著黑洞質量的增加，屏障會受損更多，也就需要更多能量。你需要黑洞充能器來為屏障充能。
 bhs.manual_desc.black_hole.2=<IMG>blackholestorage:textures/gui/black_hole.png:1:1:212:118:0.65553535</IMG>
@@ -26,7 +26,7 @@ hc.manual_name.bh.fluid_injector=流體注入器
 hc.manual_name.bh.intro=簡介
 hc.manual_name.bh.rf_ejector=RF噴射器
 hc.manual_name.bh.rf_injector=RF注入器
-hc.manual_text.bh.anti_matter=它怎麽不爆炸？
+hc.manual_text.bh.anti_matter=它怎麼不爆炸？
 hc.manual_text.bh.atomic_transformer=原子層面的重組！
 hc.manual_text.bh.black_hole=物品，一去，不回！
 hc.manual_text.bh.black_hole_charger=預防危險事故

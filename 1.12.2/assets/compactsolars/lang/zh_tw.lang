@@ -1,4 +1,4 @@
-tile.compactsolars:high_voltage_block.name=高壓太陽能陣列
+﻿tile.compactsolars:high_voltage_block.name=高壓太陽能陣列
 tile.compactsolars:medium_voltage_block.name=中壓太陽能陣列
 tile.compactsolars:low_voltage_block.name=低壓太陽能陣列
 

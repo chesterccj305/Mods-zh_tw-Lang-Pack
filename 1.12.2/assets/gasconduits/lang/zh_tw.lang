@@ -1,4 +1,4 @@
-enderio.item_gas_conduit.name=氣體導管
+﻿enderio.item_gas_conduit.name=氣體導管
 enderio.item_gas_conduit_advanced.name=高壓氣體導管
 enderio.item_gas_conduit_ender.name=終界氣體導管
 gasconduits.item_gas_conduit.locked_type=氣體種類鎖定為 %s

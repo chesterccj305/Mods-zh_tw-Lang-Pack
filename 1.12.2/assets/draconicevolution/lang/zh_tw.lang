@@ -1,4 +1,4 @@
-//Tile Information ----------------------------------------------------------------------------------------------------------------------------------------
+﻿//Tile Information ----------------------------------------------------------------------------------------------------------------------------------------
 tile.draconicevolution:celestial_manipulator.name=天象操縱器
 tile.draconicevolution:draconium_ore_normal.name=龍質礦
 tile.draconicevolution:draconium_ore_nether.name=地獄龍質礦
@@ -36,12 +36,12 @@ tile.draconicevolution:item_dislocation_inhibitor.name=傳送磁鐵干擾力場�
 tile.draconicevolution:energy_crystal.relay.basic.name=基本能量中繼水晶
 tile.draconicevolution:energy_crystal.relay.wyvern.name=飛龍能量中繼水晶
 tile.draconicevolution:energy_crystal.relay.draconic.name=神龍能量中繼水晶
-tile.draconicevolution:energy_crystal.crystal_io.basic.name=基本能量收發水晶
-tile.draconicevolution:energy_crystal.crystal_io.wyvern.name=飛龍能量收發水晶
-tile.draconicevolution:energy_crystal.crystal_io.draconic.name=神龍能量收發水晶
-tile.draconicevolution:energy_crystal.wireless.basic.name=基本無線能量收發水晶
-tile.draconicevolution:energy_crystal.wireless.wyvern.name=飛龍無線能量收發水晶
-tile.draconicevolution:energy_crystal.wireless.draconic.name=神龍無線能量收發水晶
+tile.draconicevolution:energy_crystal.crystal_io.basic.name=基本能量收髮水晶
+tile.draconicevolution:energy_crystal.crystal_io.wyvern.name=飛龍能量收髮水晶
+tile.draconicevolution:energy_crystal.crystal_io.draconic.name=神龍能量收髮水晶
+tile.draconicevolution:energy_crystal.wireless.basic.name=基本無線能量收髮水晶
+tile.draconicevolution:energy_crystal.wireless.wyvern.name=飛龍無線能量收髮水晶
+tile.draconicevolution:energy_crystal.wireless.draconic.name=神龍無線能量收髮水晶
 
 
 tile.draconicevolution:fusion_crafting_core.name=聚合裝置核心
@@ -180,7 +180,7 @@ msg.spawnerInfo9.txt=第三級: §3覺醒的核心
 msg.dislocatorUnsafe.txt=目的地不安全， 請再試一次
 msg.dislocatorNoGround.txt=發生找不到世界的錯誤
 msg.range.txt=距離:
-msg.energyStorageCoreUTA.txt=無法啟動(無效的配置)
+msg.energyStorageCoreUTA.txt=無法啟動(無效的設定)
 msg.SpawnDragonToFarFrom00.txt=[錯誤] 距離 0,0 太遠
 msg.SpawnDragonMustBeInTheEnd.txt=你要在終界才能進行這個儀式！
 msg.wrongKey.txt=這把鑰匙不符合這個鎖
@@ -201,7 +201,7 @@ msg.de.dragonDeath.txt=§5龍心被龍死亡時的爆炸給暫時喚醒了
 msg.de.baseSafeAOW.txt=§9(§a範圍性作業安全模式開啟§9) §c因為發現功能性實體方塊而取消動作
 msg.de.guardianAttackBlocked.txt=你的攻擊被防護水晶擋了下來！
 msg.de.shieldDepleted.txt=警告！ 致命的傷害！！！
-msg.de.shockWaveForEnergyBoltsOnly.txt=衝擊波只能由龍吐之箭產生
+msg.de.shockWaveForEnergyBoltsOnly.txt=衝擊波隻能由龍吐之箭產生
 msg.de.explosiveNotForEnergyBolts.txt=龍吐之箭無法產生爆炸力
 msg.de.insufficientPowerToFire.txt=沒有足夠的能量射擊
 msg.de.outOfArrows.txt=沒箭了！！！
@@ -419,7 +419,7 @@ item.draconicevolution:wyvernLeggs.lore=2將龍質注入鑽石護腿\n你感覺�
 item.draconicevolution:wyvernBoots.lore=2你找到加強靴子的方式\n龍質看來能讓你更加敏捷。
 
 item.draconicevolution:draconicPick.lore=2經過持續不斷的研究觀察\n已經讓你能夠直接挖掘更大範圍的面積。
-item.draconicevolution:draconicAxe.lore=2經過反覆的試驗及錯誤\n你現在能夠一次就砍下一整顆樹。
+item.draconicevolution:draconicAxe.lore=2經過反覆的試驗及錯誤\n你現在能夠一次就砍下一整棵樹。
 item.draconicevolution:draconicShovel.lore=2更高的效率\n你可以直接挖掘更大範圍的面積。
 item.draconicevolution:draconicHoe.lore=2龍質還能改進農業\n只要點擊一下就能耕種一整片區域。
 item.draconicevolution:draconicSword.lore=2飛龍劍已經很棒了，\n但神龍武器更強， 還能一次擊中更多敵人。
@@ -960,7 +960,7 @@ gui.draconiumChest.editRegion.btn=編輯區域
 gui.draconiumChest.editDefaultRegion.btn=設定無區域格子的輸入/輸出模式
 gui.draconiumChest.enableRegion.btn=啟用此區域
 gui.draconiumChest.disableRegion.btn=停用此區域
-gui.draconiumChest.regionSelect.info=在箱內存放格上點選並拖曳滑鼠來將指定範圍的存放格標記至這個區域。區域必須先啟用且區域間不能重疊。
+gui.draconiumChest.regionSelect.info=在箱記憶體放格上點選並拖曳滑鼠來將指定範圍的存放格標記至這個區域。區域必須先啟用且區域間不能重疊。
 gui.draconiumChest.ioRegions.btn=輸入/輸出區域
 gui.draconiumChest.ioRegions.info=點擊這裡以設定輸入/輸出區域，讓你標記某個區域的存放格為群組並設定其對於箱子每一面的輸入/輸出模式。你也能指定哪個區域的存放格才能被內建的熔爐使用。 舉個例子:物品從箱子的左側輸入至區域1，然後由熔爐熔煉後輸出至區域2，接著可以從箱子的右側提取出來。
 gui.draconiumChest.pickColour.btn=箱子顏色
@@ -1020,4 +1020,3 @@ info.de.bound_dislocator.in_player_inventory=綁定的傳送器在玩家的身�
 info.de.bound_dislocator.unknown_link=未知的位置
 info.de.bound_dislocator.cant_find_player=綁定的玩家不在線上！
 info.de.bound_dislocator.cant_find_target=找不到綁定的傳送器！
-

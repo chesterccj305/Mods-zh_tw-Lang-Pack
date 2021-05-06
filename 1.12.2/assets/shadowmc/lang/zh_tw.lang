@@ -1,11 +1,11 @@
-redstone.always=總是
+﻿redstone.always=總是
 redstone.high=高
 redstone.low=低
 redstone.never=從不
-redstone.pulse=脈沖
+redstone.pulse=脈衝
 shadowmc.config.gui.category.dev=開發
 shadowmc.config.gui.category.general=常規
-shadowmc.config.gui.title=ShadowMC|配置
+shadowmc.config.gui.title=ShadowMC|設定
 shadowmc.dye.black=黑色
 shadowmc.dye.blue=藍色
 shadowmc.dye.brown=棕色

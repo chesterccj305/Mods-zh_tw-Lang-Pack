@@ -1,5 +1,5 @@
-item.efab.upgrade_armory.name=兵工廠升級
-item.efab.upgrade_digital.name=數字化升級
+﻿item.efab.upgrade_armory.name=兵工廠升級
+item.efab.upgrade_digital.name=數位化升級
 item.efab.upgrade_magic.name=魔法升級
 item.efab.upgrade_power.name=能量升級
 itemGroup.EFab=EFab
@@ -12,7 +12,7 @@ tile.efab.grid.name=EFab 合成終端
 tile.efab.manareceptacle.name=魔力容器
 tile.efab.monitor.name=監測器
 tile.efab.pipes.name=管道
-tile.efab.power_optimizer.name=能量優化器
+tile.efab.power_optimizer.name=能量最佳化器
 tile.efab.processor.name=處理器
 tile.efab.rfcontrol.name=RF 控制器
 tile.efab.rfstorage.name=RF 儲存器

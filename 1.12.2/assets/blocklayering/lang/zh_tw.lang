@@ -1,4 +1,4 @@
-itemGroup.blocklayering=分片化方塊
+﻿itemGroup.blocklayering=分片化方塊
 tile.layer_clay.name=黏土片
 tile.layer_sand.name=沙片
 tile.layer_red_sand.name=紅沙片

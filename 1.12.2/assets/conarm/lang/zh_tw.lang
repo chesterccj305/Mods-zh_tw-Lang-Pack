@@ -1,4 +1,4 @@
-#################
+﻿#################
 # Config #
 #################
 conarm.general.spawnwithbook=獲取指導手冊
@@ -125,7 +125,7 @@ modifier.aquaspeed_armor.desc=§o它開始滲透了！ §r\n護甲將在雨天�
 modifier.autoforge_armor.name=鍛造
 modifier.autoforge_armor.desc=§o難以置信，它正在被修復！ §r\n護甲將在熔岩中修復耐久。
 modifier.baconlicious_armor.name=modifier.baconlicious.name
-modifier.baconlicious_armor.desc=§o培根！ §r\n受到傷害時有概率獲得培根。
+modifier.baconlicious_armor.desc=§o培根！ §r\n受到傷害時有機率獲得培根。
 modifier.blessed_armor.name=神聖
 modifier.blessed_armor.desc=§o小心亡靈§r\n減低亡靈生物的能力。
 modifier.bouncy_armor.name=活潑
@@ -155,8 +155,8 @@ modifier.heavy_armor.desc=§o責任重於泰山§r\n穿戴該護甲時不會被�
 modifier.indomitable_armor.name=不屈不撓
 modifier.indomitable_armor.desc=§o永不放棄！ §r\n你的護甲將更加耐用。
 modifier.infernal_armor.name=煉獄
-modifier.infernal_armor.desc=§o來自深淵的最深處！ §r\n非下界生物造成的傷害將會提供額外的保護。
-modifier.infernal_armor.extra=對非下界生物： +%s
+modifier.infernal_armor.desc=§o來自深淵的最深處！ §r\n非地獄生物造成的傷害將會提供額外的保護。
+modifier.infernal_armor.extra=對非地獄生物： +%s
 modifier.invigorating_armor.name=振興
 modifier.invigorating_armor.desc=§o這感覺很棒！ §r\n不知為何，你感覺更加強健。
 modifier.lightweight_armor.name=modifier.lightweight.name
@@ -168,7 +168,7 @@ modifier.mundane_armor.name=非凡
 modifier.mundane_armor.desc=§o武器助我一臂之力！ §r\n提高對徒手攻擊的防護。
 modifier.mundane1_armor.extra=對徒手攻擊：+%s
 modifier.petravidity_armor.name=愛石
-modifier.petravidity_armor.desc=§o如此多的石頭！ §r\n你的護甲喜歡石頭，它會吸收石頭來回复耐久！
+modifier.petravidity_armor.desc=§o如此多的石頭！ §r\n你的護甲喜歡石頭，它會吸收石頭來回復耐久！
 modifier.prideful_armor.name=傲慢
 modifier.prideful_armor.desc=§o什麼叫自戀？ §r\n你將免疫所有魔法效果。
 modifier.rough_armor.name=殘暴
@@ -217,7 +217,7 @@ modifier.fire_resistant_armor.name=火焰保護
 modifier.fire_resistant_armor.desc=§o獻祭可不好。 §r\n提供額外的火焰保護。
 modifier.frostwalker_armor.name=冰霜行者
 modifier.frostwalker_armor.desc=§o冷酷而又驚艷。 §r\n你的靴子十分寒冷，它會凍結周圍的水。
-modifier.glowing_armor.name=熒光
+modifier.glowing_armor.name=螢光
 modifier.glowing_armor.desc=§o閃閃發光§r\n當你行走在黑暗的地方時，靴子將會消耗耐久點亮周圍。
 modifier.high_stride_armor.name=高跳
 modifier.high_stride_armor.desc=§o野蠻的標誌。 §r\n你能跳得更高。

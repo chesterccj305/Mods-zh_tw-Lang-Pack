@@ -1,4 +1,4 @@
-item.gem_ruby.name=紅寶石
+﻿item.gem_ruby.name=紅寶石
 item.gem_sapphire.name=藍寶石
 item.gem_amethyst.name=紫水晶
 item.gem_topaz.name=黃玉
@@ -229,7 +229,7 @@ tile.block_steel.name=鋼塊
 tile.ore_luminium.name=流明礦石
 tile.block_luminium.name=流明塊
 
-tile.ore_netherite.name=下界礦石
+tile.ore_netherite.name=地獄礦石
 
 tile.block_hellsteel.name=地獄鋼塊
 
@@ -298,13 +298,13 @@ material.prog.hellsteel.name=地獄鋼
 modifier.prog.igniting.name=點燃
 modifier.prog.massive.name=巨量
 modifier.prog.titanstrength.name=泰坦之力
-modifier.prog.dense3.name=致密 III
+modifier.prog.dense3.name=緻密 III
 modifier.prog.expanse.name=廣袤無垠
 
 modifier.prog.igniting.desc=使目標自燃
 modifier.prog.massive.desc=+1 觸及距離
 modifier.prog.titanstrength.desc=潛行成為超人
-modifier.prog.dense3.desc=幾率減少耐久使用
+modifier.prog.dense3.desc=機率減少耐久使用
 modifier.prog.expanse.desc=增加觸及距離
 
 container.smelter=冶金爐

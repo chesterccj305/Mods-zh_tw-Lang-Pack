@@ -1,10 +1,10 @@
-chickenchunks.accessdenied=這個區塊載入器不屬於你.
+﻿chickenchunks.accessdenied=這個區塊載入器不屬於你.
 chickenchunks.gui.chunk=%d個區塊
 chickenchunks.gui.chunks=%d個區塊
-chickenchunks.gui.hidelasers=隱藏鐳射
+chickenchunks.gui.hidelasers=隱藏雷射
 chickenchunks.gui.name=區塊載入器
 chickenchunks.gui.radius=半徑
-chickenchunks.gui.showlasers=顯示鐳射
+chickenchunks.gui.showlasers=顯示雷射
 chickenchunks.shape.circle=圓形
 chickenchunks.shape.linex=X向線形
 chickenchunks.shape.linez=Z向線形

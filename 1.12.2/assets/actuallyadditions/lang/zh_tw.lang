@@ -1,4 +1,4 @@
-#General 一般
+﻿#General 一般
 itemGroup.actuallyadditions=實用擴展
 achievement.page.actuallyadditions=實用擴展
 actuallyadditions.lolWutHowUDoDis.name=這東西出bug了。請扔了它。
@@ -564,7 +564,7 @@ tooltip.actuallyadditions.meta.desc=Meta
 tooltip.actuallyadditions.nbt.desc=NBT資料
 tooltip.actuallyadditions.unlocName.desc=Meta英文原名
 tooltip.actuallyadditions.pressShift.desc=按Shift
-tooltip.actuallyadditions.disablingInfo.desc=如果你不想看到這個訊息，可在實用擴展的配置檔案裡禁用它！
+tooltip.actuallyadditions.disablingInfo.desc=如果你不想看到這個訊息，可在實用擴展的設定檔案裡禁用它！
 tooltip.actuallyadditions.ctrlForMoreInfo.desc=按住Ctrl查看更多資訊
 tooltip.actuallyadditions.extraInfo.desc=更多資訊
 tooltip.actuallyadditions.blockPhantomRange.desc=範圍
@@ -855,7 +855,7 @@ booklet.actuallyadditions.bookmarkButton.noBookmark.pageDesc=點擊書籤跳轉�
 booklet.actuallyadditions.bookmarkButton.bookmark.openDesc=點擊打開
 booklet.actuallyadditions.bookmarkButton.bookmark.removeDesc=Shift點擊移除
 booklet.actuallyadditions.onlineButton.name=線上觀看
-booklet.actuallyadditions.configButton.name=打開配置GUI
+booklet.actuallyadditions.configButton.name=打開設定GUI
 booklet.actuallyadditions.configButton.desc=按下這個用以再遊戲內調節%s。 \n某些修改需要重啟遊戲！
 booklet.actuallyadditions.achievementButton.name=打開進度介面
 booklet.actuallyadditions.achievementButton.desc=點擊這個打開%s進度介面。
@@ -864,7 +864,7 @@ booklet.actuallyadditions.trialFinishButton.uncompleted.name=未完成
 booklet.actuallyadditions.trialsButton.name=挑戰
 
 #Booklet Info
-booklet.actuallyadditions.recipeDisabled=這個物品的合成表在配置檔案裡被禁用了！如過你是多人模式，要伺服器主人同意才能開啟它的配方。如過你是單人模式，點擊上面的"OpenConfig"按鈕開啟合成表！
+booklet.actuallyadditions.recipeDisabled=這個物品的合成表在設定檔案裡被禁用了！如過你是多人模式，要伺服器主人同意才能開啟它的配方。如過你是單人模式，點擊上面的"OpenConfig"按鈕開啟合成表！
 booklet.actuallyadditions.unavailable=1.8.9和1.9版本屬於未完成品，所以部分特性可能無法使用，所以請謹慎使用這個物品！
 booklet.actuallyadditions.clickToSeeRecipe=點擊查看更多資訊
 booklet.actuallyadditions.amountOfWordsAndChars=共計：%s詞，%s字。
@@ -937,7 +937,7 @@ booklet.actuallyadditions.chapter.phantomBreaker.name=幻靈方塊破壞器與�
 booklet.actuallyadditions.chapter.phantomBreaker.text.1=<item>幻靈方塊破壞器<r>與<item>放置器<r>有著和<item>幻靈介面<r>相同的工作原理，不過它們的作用是<imp>遠距離的破壞以及放置方塊<r>。其預設最大識別範圍為<imp><range>格方塊<r>。欲使其連接並破壞一個方塊，你需要按照<imp>幻靈介面章節<r>中描述的方法去操作。當它前方是空氣方塊時，僅僅只會機械地放置方塊，然後又破壞掉方塊。<n>當手拿<item>紅石火把<r>右鍵單擊它時，它會在<imp>接受紅石訊號停用<r>和<imp>接收紅石脈衝工作<r>兩種模式之間切換。
 
 booklet.actuallyadditions.chapter.esd.name=ESD
-booklet.actuallyadditions.chapter.esd.text.1=<item>ESD<r>是一種工作方式<imp>類似於漏斗<r>的方塊，但是<imp>它的功能比漏斗多的多<r>。<n>你可以選擇從方塊的哪一面來輸入和輸出，而且還可以<imp>精確地配置<r>進行輸入輸出的格子的範圍！<n>為了獲得關於<item>ESD<r>的更多準確訊息，你可以<imp>將滑鼠懸浮在它的GUI的元素上<r>！<n><n>它們能夠判定一個物品欄最初的<imp>格子數量<r>，不過<tifisgrin>並不適合變化格子數的物品欄<r>。當相連的物品欄格子數量發生了變化，比如說<item>物品介面<r>時就無法識別多出的格子，所以你可以在ESD的GUI裡面把數值設大一些，來避免有格子被忽略了。
+booklet.actuallyadditions.chapter.esd.text.1=<item>ESD<r>是一種工作方式<imp>類似於漏斗<r>的方塊，但是<imp>它的功能比漏斗多的多<r>。<n>你可以選擇從方塊的哪一面來輸入和輸出，而且還可以<imp>精確地設定<r>進行輸入輸出的格子的範圍！<n>為了獲得關於<item>ESD<r>的更多準確訊息，你可以<imp>將滑鼠懸浮在它的GUI的元素上<r>！<n><n>它們能夠判定一個物品欄最初的<imp>格子數量<r>，不過<tifisgrin>並不適合變化格子數的物品欄<r>。當相連的物品欄格子數量發生了變化，比如說<item>物品介面<r>時就無法識別多出的格子，所以你可以在ESD的GUI裡面把數值設大一些，來避免有格子被忽略了。
 
 booklet.actuallyadditions.chapter.xpSolidifier.name=經驗固化器
 booklet.actuallyadditions.chapter.xpSolidifier.text.1=<item>經驗固化器<r>可以把玩家的經驗值轉變成<item>固態經驗<r>，而手拿固態經驗<imp>右鍵單擊<r>又可以讓儲存在裡面的經驗值回到玩家身上。 （Shift右擊可以使用一組！）<n>除此之外，你還可以把<item>經驗固化機<r>調節為固化模式，這樣它能夠<imp>撿起任何掉落在地面上的經驗球<r>，並將其轉換成<item>固態經驗<r>。<n><item>固態經驗<r>有時也會從怪物身上掉落。
@@ -1061,7 +1061,7 @@ booklet.actuallyadditions.chapter.hairBalls.text.2=<item>毛球<r>是一件會�
 booklet.actuallyadditions.chapter.laserIntro.name=雷射中繼器的介紹
 booklet.actuallyadditions.chapter.laserIntro.text.1=<item>雷射中繼器<r>存在<imp>很多變種<r>，但是都擁有相似的功能。使用<item>中繼器扳手<r>能夠將<n>一個<item>雷射中繼器<r>和其他中繼器相連。只需要<imp>右擊<r>第一個中繼器後再右擊另一個即可連接。連接<imp>沒有上限<r>，你可以稱呼它為<item>網路<r>或者<item>系統<r>。這樣的網路系統沒有預定的終點或者起點。
 booklet.actuallyadditions.chapter.laserIntro.text.2=每一個<item>雷射中繼器<r>都能夠用多種方式<imp>和其他的中繼器互動<r>。<n>但是連接兩個<item>雷射中繼器<r>卻有一些限制條件。首先兩個相互連接的<item>雷射中繼器<r><imp>至多只能相距<range>個方塊遠<r>。<n>除此之外，兩個<item>雷射中繼器<r>的類型<imp>必須相同<r>。<n><n><i>繼續瀏覽這章的其他條目查看不同類型的雷射中繼器！
-booklet.actuallyadditions.chapter.laserIntro.text.3=用中繼器扳手<imp>懸停<r>在中繼器上面能夠看到很多有用的資訊，比如<imp>能量流配置<r>或者<imp>優先度<r>。<n><n>除此之外，嘗試連接兩個<imp>已經連接<r>雷射中繼器能夠使其<imp>斷開連接<r>。
+booklet.actuallyadditions.chapter.laserIntro.text.3=用中繼器扳手<imp>懸停<r>在中繼器上面能夠看到很多有用的資訊，比如<imp>能量流設定<r>或者<imp>優先度<r>。<n><n>除此之外，嘗試連接兩個<imp>已經連接<r>雷射中繼器能夠使其<imp>斷開連接<r>。
 
 booklet.actuallyadditions.chapter.laserRelays.name=能量雷射中繼器
 booklet.actuallyadditions.chapter.laserRelays.text.1=<item>能量雷射中繼器<r>是一台能夠<imp>無線傳輸CF<r>的裝置，這只需要把它用<item>中繼器扳手<r>右擊連接並生成網路即可。<n>把產能機器或接收能量的機器放置在中繼器旁，即可讓它從網路中的<imp>其它中繼器<r>輸出或接收能量。<n>在能量傳輸過程中會存在輕微的<imp>能量損失<r>，但是完全不用擔心。因為損失的計算是以<imp>每次傳輸<r>衡量的，所以不必擔心兩台機器間有多少個中繼器，損失<imp>始終都是一樣的<r>。
@@ -1141,7 +1141,7 @@ booklet.actuallyadditions.chapter.itemInterfaces.text.1=<item>物品傳輸介面
 booklet.actuallyadditions.chapter.itemInterfaces.text.2=這也意味著你可以<imp>使用漏斗<r>或者其他傳輸裝置向物品傳輸介面傳輸東西，就像儲物箱那樣，能夠<imp>接收物品<r>或者從<imp>雷射中繼器網路<r>中<imp>抽出<r>物品。<n><n>想要<imp>連接入網路<r>中，只需要在<item>物品雷射中繼器<r>旁邊<imp>擺一個<r>物品傳輸介面就行。
 
 booklet.actuallyadditions.chapter.itemRelaysAdvanced.name=進階物品雷射中繼器
-booklet.actuallyadditions.chapter.itemRelaysAdvanced.text.1=很快你就發現了，你需要<imp>白名單或者黑名單<r>相關物品。<n><item>進階物品雷射中繼器<r>就可以做到，當<imp>右擊<r>打開GUI的時候，可以配置<imp>白名單或者黑名單<r>。<n>列表有兩側，<imp>進站<r>就是指「物品嚐試進入中繼器所連接的容器」。 <imp>出站<r>就是指「物品嚐試從中繼器所連接的容器中抽出」。
+booklet.actuallyadditions.chapter.itemRelaysAdvanced.text.1=很快你就發現了，你需要<imp>白名單或者黑名單<r>相關物品。<n><item>進階物品雷射中繼器<r>就可以做到，當<imp>右擊<r>打開GUI的時候，可以設定<imp>白名單或者黑名單<r>。<n>列表有兩側，<imp>進站<r>就是指「物品嘗試進入中繼器所連接的容器」。 <imp>出站<r>就是指「物品嘗試從中繼器所連接的容器中抽出」。
 booklet.actuallyadditions.chapter.itemRelaysAdvanced.text.2=這不單單作用於網路中的<imp>儲存容器<r>，還能夠作用於<item>物品傳輸介面<r>，也意味著你能夠製作一個只允許抽出特殊物品的儲存系統。
 
 booklet.actuallyadditions.chapter.itemInterfacesHopping.name=漏斗型物品傳輸介面

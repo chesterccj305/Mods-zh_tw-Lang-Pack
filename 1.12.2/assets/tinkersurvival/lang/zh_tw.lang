@@ -1,4 +1,4 @@
-# Constructs Armory
+﻿# Constructs Armory
 # Messages
 # Potion Effects
 # Tooltips
@@ -16,14 +16,14 @@ item.knife.desc=用來切割物品。
 item.knife.name=小刀
 item.ointment.name=藥膏
 item.plant_paste.name=植物漿
-item.reinforced_jelled_slime_boots.name=加固的史萊姆靴子
-item.reinforced_jelled_slime_chestplate.name=加固的史萊姆胸甲
-item.reinforced_jelled_slime_helmet.name=加固的史萊姆頭盔
-item.reinforced_jelled_slime_leggings.name=加固的史萊姆護腿
-item.reinforced_wool_boots.name=加固的羊毛靴子
-item.reinforced_wool_chestplate.name=加固的羊毛胸甲
-item.reinforced_wool_helmet.name=加固的羊毛頭盔
-item.reinforced_wool_leggings.name=加固的羊毛護腿
+item.reinforced_jelled_slime_boots.name=強化的史萊姆靴子
+item.reinforced_jelled_slime_chestplate.name=強化的史萊姆胸甲
+item.reinforced_jelled_slime_helmet.name=強化的史萊姆頭盔
+item.reinforced_jelled_slime_leggings.name=強化的史萊姆護腿
+item.reinforced_wool_boots.name=強化的羊毛靴子
+item.reinforced_wool_chestplate.name=強化的羊毛胸甲
+item.reinforced_wool_helmet.name=強化的羊毛頭盔
+item.reinforced_wool_leggings.name=強化的羊毛護腿
 item.rock_andesite.name=小塊安山岩
 item.rock_diorite.name=小塊閃長岩
 item.rock_granite.name=小塊花崗岩
@@ -35,11 +35,11 @@ itemGroup.tinkersurvival=匠魂生存
 jei.description.flint_shard=燧石碎片可以通過在任意石質方塊表面敲擊燧石獲得。用燧石擊打任意石質方塊，它也許會碎成兩塊燧石碎片。
 jei.description.grass_fiber=植物纖維會在用小刀破壞草時掉落。它們可以製作用於工具的植物繩和用於繃帶藥膏的植物漿。
 jei.description.rock=可以在地上找到這些小塊石頭。這些石頭可以與小刀合成得到燧石碎片。
-jei.description.stick=木棍可以在破壞樹葉時掉落。用任意的小刀可以使獲得木棍的幾率加倍。
+jei.description.stick=木棍可以在破壞樹葉時掉落。用任意的小刀可以使獲得木棍的機率加倍。
 material.jelledslime.name=凍結史萊姆
 material.wool.name=羊毛
 message.notice=注意
-message.spawn_set=一點都不困，只是設置了重生點！
+message.spawn_set=一點都不睏，只是設置了重生點！
 message.tool_broke=你的 %s 壞了。
 message.warning=警告
 message.wrong_tool2=嗯... %s ？
@@ -51,56 +51,56 @@ potion.zombieessence=僵屍精華
 tile.loose_rock.andesite.name=散亂的石堆（安山岩）
 tile.loose_rock.diorite.name=散亂的石堆（閃長岩）
 tile.loose_rock.granite.name=散亂的石堆（花崗岩）
-tile.loose_rock.stone.name=松散的石堆（石頭）
+tile.loose_rock.stone.name=鬆散的石堆（石頭）
 tooltip.cxp=可用於合成
 tooltip.uselessArmor1=既定尺碼：加加加大號。似乎不合身。
 tooltip.uselessBow1=這把弓的弓弦被拉斷了！
-tooltip.uselessHoe1=這把鋤頭什麽都鋤不動！
-tooltip.uselessTool1=這個工具什麽都挖不了！
+tooltip.uselessHoe1=這把鋤頭什麼都鋤不動！
+tooltip.uselessTool1=這個工具什麼都挖不了！
 tooltip.uselessTool2=只能用於合成。
-tooltip.uselessWeapon1=這把武器用起來像一根濕面條！
+tooltip.uselessWeapon1=這把武器用起來像一根濕麵條！
 # Advancements
 advancements.tinkersurvival.crude_knife.desc=你的第一把刀。看起來不很尖銳，但是也許你可以用它來割草。
-advancements.tinkersurvival.crude_saw.desc=在 TinkerSurvival 配置中啟用後可將原木分成木板，木板分成木棍。 否則沒有效果。
+advancements.tinkersurvival.crude_saw.desc=在 TinkerSurvival 設定中啟用後可將原木分成木板，木板分成木棍。 否則沒有效果。
 advancements.tinkersurvival.flint_shard.desc=空手挖掘沙礫以獲得燧石。然後在岩石表面粉碎燧石（右鍵石頭等）以獲得 2 個燧石碎片。 小心他們的尖銳邊緣！
 advancements.tinkersurvival.getting_wood.desc=我獲得了一些木頭。
 modifier.insulated_armor.desc=在裝甲零件上添加 +1 加熱調節劑。不可堆疊。
-modifier.chilling_armor.desc=在裝甲零件上添加 -1 制冷調節器。不可堆疊。
-advancements.tinkersurvival.crude_hatchet.desc=粗製斧頭可以讓你收獲木材和其他基本材料。
+modifier.chilling_armor.desc=在裝甲零件上添加 -1 製冷調節器。不可堆疊。
+advancements.tinkersurvival.crude_hatchet.desc=粗製斧頭可以讓你收穫木材和其他基本材料。
 advancements.tinkersurvival.getting_wood.title=收集木材
 advancements.tinkersurvival.rock.title=我找到了一塊石頭……
-advancements.tinkersurvival.rock.desc=它們會四處躺著，或者可以通過挖掘泥土獲得。它似乎什麽也做不了……或許如果我有四個？
+advancements.tinkersurvival.rock.desc=它們會四處躺著，或者可以通過挖掘泥土獲得。它似乎什麼也做不了……或許如果我有四個？
 advancements.tinkersurvival.root.desc=匠魂生存合成配方提示：從挖掘一些砂礫開始！
 advancements.tinkersurvival.stick.title=一個“棘手”的情況。
-advancements.tinkersurvival.toolforge.desc=讓我們製造一些更加覆雜、漂亮的工具。
+advancements.tinkersurvival.toolforge.desc=讓我們製造一些更加複雜、漂亮的工具。
 # Configuration
 tools=工具
 armor=護甲
 balance=平衡
 ENABLE_ROCKGEN.tooltip=開啟生成在主世界的石頭堆。預設為開啟
-ROCKGEN_CHANCE.tooltip=石頭在主世界的生成概率。預設 1.0D（= 100%）
+ROCKGEN_CHANCE.tooltip=石頭在主世界的生成機率。預設 1.0D（= 100%）
 ENABLE_ROCK_FROM_DIRT.tooltip=開啟岩石能在打破泥土後獲得。預設為不開啟
-ROCK_FROM_DIRT_CHANCE.tooltip=石頭從空手打破泥土中的獲得幾率。預設 0.4（= 40%）
-FLINT_CHANCE.tooltip=成功打落燧石的幾率。預設 60% - 0.6D
-GRASS_FIBER_CHANCE.tooltip=高草叢掉落植物纖維的概率。預設 60% - 0.6D。刀子的效率提高 40%。
+ROCK_FROM_DIRT_CHANCE.tooltip=石頭從空手打破泥土中的獲得機率。預設 0.4（= 40%）
+FLINT_CHANCE.tooltip=成功打落燧石的機率。預設 60% - 0.6D
+GRASS_FIBER_CHANCE.tooltip=高草叢掉落植物纖維的機率。預設 60% - 0.6D。刀子的效率提高 40%。
 HEAL_RATE.tooltip=繃帶的治療率。粗製繃帶的效果降低 50%。
 features=遊戲特點
 GRIEFING_WHITELIST.tooltip=好吧，我喜歡終界使者，讓他們撿起這些東西。如果 NO_GRIEFING = true
 SLOW_DOWN_DIRT_PUNCHING.tooltip=包括泥土空手挖掘速度也變慢。預設為開啟
 ENABLE_SAW.tooltip=鋸子能夠製作木板。預設為開啟
 FORCE_SAW_FOR_PLANKS.tooltip=從遊戲中去掉木板和木棍的配方，只有鋸子才能夠製作它們。預設為開啟
-client=客戶端
+client=用戶端
 ENABLE_FAIL_SOUND.tooltip=如果使用錯誤的工具，那就播放失敗的聲音。
 advancements.tinkersurvival.grass_string.desc=如果被用來製作褲子，當你......時會發出嗶嗶聲......感覺
 advancements.tinkersurvival.stenciltable.desc=用來製作模具。
 advancements.tinkersurvival.stick.desc=如果去打一些樹葉，你可能會發現一些木棍。木棍和石子可能會打破我的骨頭，但是語言也會……傷害我，因為每個人都在乎別人當面說的話。
-MOD_TOOL_WHITELIST.tooltip=依然能使用的模組工具列表。而其他模組的工具將變成“濕面條”。
+MOD_TOOL_WHITELIST.tooltip=依然能使用的模組工具列表。而其他模組的工具將變成“濕麵條”。
 TOOLS_WHITELIST.tooltip=仍然能使用的個別工具列表。格式 [工具類型-模組ID：物品]
 MOD_ARMOR_WHITELIST.tooltip=仍然能合成和使用的模組盔甲列表。而其他模組的盔甲不能裝備或合成。
 ARMOR_WHITELIST.tooltip=仍然能使用的個別盔甲列表。格式 [模組ID：物品]
-ARMOR_TEMP_MODIFIERS.tooltip=所有有溫度調節功能的盔甲列表。格式[模組ID：物品=系數]
-INSULATED_MODIFIER.tooltip=匠魂盔甲羊毛的保溫系數值。
-CHILLING_MODIFIER.tooltip=匠魂盔甲凍結史萊姆的降溫系數值。
+ARMOR_TEMP_MODIFIERS.tooltip=所有有溫度調節功能的盔甲列表。格式[模組ID：物品=係數]
+INSULATED_MODIFIER.tooltip=匠魂盔甲羊毛的保溫係數值。
+CHILLING_MODIFIER.tooltip=匠魂盔甲凍結史萊姆的降溫係數值。
 SLOW_DOWN_MULTIPLIER.tooltip=調整使用錯誤工具時的緩慢效果。預設 1.0）
 NO_GRIEFING.tooltip=禁止終界使者破壞地形，wtf Notch。
 NO_SLEEPING.tooltip=在晚上，我哭著想去睡覺......

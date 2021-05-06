@@ -1,8 +1,8 @@
-generator.noodle=面條地形
-gui.noodle.custom.type=面條類型：%s
+﻿generator.noodle=麵條地形
+gui.noodle.custom.type=麵條類型：%s
 gui.noodle.density=密度：
 gui.noodle.longtime=這個數值過高，這將會花費很長的時間進行地形的預載入。
-gui.dimensions.dimensionBlocks.comment=這是覆層方塊。格式為“dimension~blockname#meta”。舉個例子“4~minecraft:stone#3”將會將維度 4 的面條部分方塊設置為 meta 為 3 的石頭。如果沒有設定 meta，將會為預設值 0。可以多次堆疊而後隨機選擇。
+gui.dimensions.dimensionBlocks.comment=這是覆層方塊。格式為“dimension~blockname#meta”。舉個例子“4~minecraft:stone#3”將會將維度 4 的麵條部分方塊設置為 meta 為 3 的石頭。如果沒有設定 meta，將會為預設值 0。可以多次堆疊而後隨機選擇。
 gui.noodle.default=預設
 gui.noodle.straight=直線
-gui.noodle.curly=卷曲
+gui.noodle.curly=捲曲

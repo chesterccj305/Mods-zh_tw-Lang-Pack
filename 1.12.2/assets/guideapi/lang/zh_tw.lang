@@ -1,4 +1,4 @@
-#Creative Tab
+﻿#Creative Tab
 itemGroup.guideapi.creativeTab=Guide-API
 
 #Item
@@ -30,9 +30,3 @@ text.open.failed=有東西阻止了你打開這本書
 test.guide.format=這是\n一個格式\n\t測試
 test.category.name=測試類別
 test.entry.name=測試條目
-
-
-
-
-
-

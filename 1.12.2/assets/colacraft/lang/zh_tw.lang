@@ -1,8 +1,8 @@
-item.can.name=易拉罐
-item.gold_can.name=黃金易拉罐
-item.holy_can.name=聖潔易拉罐
-item.demonic_can.name=邪惡易拉罐
-item.ancient_can.name=遠古易拉罐
+﻿item.can.name=易開罐
+item.gold_can.name=黃金易開罐
+item.holy_can.name=聖潔易開罐
+item.demonic_can.name=邪惡易開罐
+item.ancient_can.name=遠古易開罐
 
 item.aluminum_ingot.name=鋁錠
 

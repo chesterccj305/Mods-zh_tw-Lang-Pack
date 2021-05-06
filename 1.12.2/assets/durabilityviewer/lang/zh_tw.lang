@@ -1,4 +1,4 @@
-durabilityviewer.subtitle.toolBreaking=物品即將損毀
+﻿durabilityviewer.subtitle.toolBreaking=物品即將損毀
 key.categories.durabilityviewer=耐久查看
 key.duraview=顯示/隱藏耐久
 tooltip.durability=耐久：

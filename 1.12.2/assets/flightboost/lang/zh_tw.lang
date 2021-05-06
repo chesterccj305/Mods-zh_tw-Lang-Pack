@@ -1,4 +1,4 @@
-item.flightboost.boost_charm_basic.name=基礎鞘翅增強飾品
+﻿item.flightboost.boost_charm_basic.name=基礎鞘翅增強飾品
 item.flightboost.boost_charm_powered.name=充能鞘翅增強飾品
 item.flightboost.boost_charm_infinite.name=無限鞘翅增強飾品
 flightboost.charm_basic.power=能量 %s / %s

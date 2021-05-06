@@ -1,4 +1,4 @@
-item.modcurrency:banknote_0.name=不要用我，換成一美元硬幣
+﻿item.modcurrency:banknote_0.name=不要用我，換成一美元硬幣
 item.modcurrency:banknote_1.name=五美元鈔票
 item.modcurrency:banknote_2.name=十美元鈔票
 item.modcurrency:banknote_3.name=二十美元鈔票
@@ -18,7 +18,7 @@ item.modcurrency:upgrade_3.name=庫存升級 II
 item.modcurrency:upgrade_4.name=庫存升級 III
 item.modcurrency:upgrade_5.name=庫存升級 IV
 item.modcurrency:wallet.name=錢包
-tile.modcurrency:blockatm.name=自動取款機
+tile.modcurrency:blockatm.name=自動提款機
 tile.modcurrency:blockexchanger.name=兌換機
 tile.modcurrency:blockvending.name=自動銷售機
 tile.modcurrency:gui.playerinventory=背包

@@ -1,4 +1,4 @@
-language.name=Traditional Chinese
+﻿language.name=Traditional Chinese
 language.region=tw
 language.code=zh_tw
 
@@ -46,7 +46,7 @@ tile.edensteelore.name=伊甸星鋼礦
 tile.edenplatinumore.name=伊甸星鉑礦
 tile.edenuraniumore.name=伊甸星鈾礦
 tile.edencyaniteore.name=伊甸星藍晶礦
-tile.edenludacriteore.name=伊甸星鑥礦
+tile.edenludacriteore.name=伊甸星鎦礦
 tile.edenviriore.name=伊甸星維爾因礦
 tile.edencobaltore.name=伊甸星鈷礦
 tile.edeneveniumore.name=伊甸星伊文礦
@@ -163,16 +163,16 @@ tile.shinestonecrystal.name=發光石水晶
 tile.polishedshinestone.name=拋光的發光石
 tile.shinestonecrystalbricks.name=閃石水晶磚
 
-tile.xantheonrock.name=贊比昂表層岩
-tile.xantheonstone.name=贊比昂石頭
-tile.xantheonchrome.name=贊比昂灰燼石
-tile.xantheonplutoniumore.name=贊比昂鈽礦
-tile.xantheonironore.name=贊比昂鐵礦
-tile.xantheoncoalore.name=贊比昂煤礦
-tile.xantheonnickelore.name=贊比昂鎳礦
-tile.xantheoncopperore.name=贊比昂銅礦
-tile.xantheonfueltoniumore.name=贊比昂鈾礦
-tile.xantheonamaranthore.name=贊比昂紫莧礦
+tile.xantheonrock.name=讚比昂表層岩
+tile.xantheonstone.name=讚比昂石頭
+tile.xantheonchrome.name=讚比昂灰燼石
+tile.xantheonplutoniumore.name=讚比昂鈽礦
+tile.xantheonironore.name=讚比昂鐵礦
+tile.xantheoncoalore.name=讚比昂煤礦
+tile.xantheonnickelore.name=讚比昂鎳礦
+tile.xantheoncopperore.name=讚比昂銅礦
+tile.xantheonfueltoniumore.name=讚比昂鈾礦
+tile.xantheonamaranthore.name=讚比昂紫莧礦
 tile.plutoniumblock.name=鈽磚
 tile.fueltoniumblock.name=鈾磚
 tile.constructblock.name=構造塊
@@ -219,7 +219,7 @@ tile.endrock.name=終界岩
 tile.heartblock.name=醫療站
 tile.blueprintblock.name=藍圖維修站
 
-tile.spacestationblock.name=空間站方塊
+tile.spacestationblock.name=太空站方塊
 tile.loreblock.name=知識方塊
 
 tile.compressedprometheanblock.name=緻密普羅米修斯塊
@@ -261,7 +261,7 @@ item.alienbaconraw.name=外星生培根
 item.alienbaconcooked.name=外星熟培根
 item.fruitofeden.name=伊甸果
 
-item.creamball.name=奶油球
+item.creamball.name=奶精
 item.rawchocolate.name=生巧克力
 item.chocolatebar.name=巧克力棒
 item.brownie.name=果仁巧克力
@@ -284,7 +284,7 @@ item.ingotevenium.name=伊文錠
 item.purgotcrystal.name=普高星水晶
 
 item.prometheancrystal.name=普羅米修斯水晶
-item.plutoniumcrystal.name=鈈水晶
+item.plutoniumcrystal.name=鈽水晶
 
 item.purgotessence.name=綠洲星寶石
 
@@ -422,7 +422,7 @@ planet.atheon=艾松星
 planet.meztli=梅茲特利星
 planet.centotl=森特奧特爾星
 planet.toci=托奇星
-planet.tlaloc=特拉洛克星
+planet.tlaloc=特拉洛剋星
 
 planet.ares=白羊座
 planet.prometheus=普羅米修斯星
@@ -457,7 +457,7 @@ satellite.space_station.purgot=普高星太空站
 satellite.space_station.eden=伊甸星太空站
 satellite.space_station.xathius=蒼耳星太空站
 satellite.space_station.oasis=綠洲星太空站
-satellite.space_station.xantheon=贊比昂太空站
+satellite.space_station.xantheon=讚比昂太空站
 satellite.space_station.candora=坎德拉太空站
 satellite.space_station.atheon=艾松星太空站
 

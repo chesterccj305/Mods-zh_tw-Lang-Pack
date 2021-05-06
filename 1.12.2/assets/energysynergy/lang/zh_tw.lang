@@ -1,4 +1,4 @@
-config.energysynergy.CoFHAPI=RF API
+﻿config.energysynergy.CoFHAPI=RF API
 config.energysynergy.IC2=IC2
 config.energysynergy.core.tooltip=核心設置
 config.energysynergy.core=核心設置
@@ -14,4 +14,4 @@ config.energysynergy.general=常規設置
 config.energysynergy.modcompat.tooltip=Mod相容設置
 config.energysynergy.modcompat=Mod相容設置
 config.energysynergy.tesla=特斯拉
-config.energysynergy=%s配置文件
+config.energysynergy=%s設定文件

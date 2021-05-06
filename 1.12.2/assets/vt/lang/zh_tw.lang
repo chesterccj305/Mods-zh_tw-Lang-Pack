@@ -1,4 +1,4 @@
-#blocks
+﻿#blocks
 tile.flintblock.name=燧石塊
 tile.sugarblock.name=糖塊
 tile.charcoalblock.name=木炭塊
@@ -20,7 +20,7 @@ item.pad.name=合成墊
 item.lens.name=雙目鏡
 item.binoculars.name=雙筒望遠鏡
 item.slime.name=史萊姆查找器
-item.binocular_bauble.name=雙筒望遠鏡（小玩意）
+item.binocular_bauble.name=雙筒望遠鏡（小東西）
 
 #advancement
 advancements.vt.pad=香草調整

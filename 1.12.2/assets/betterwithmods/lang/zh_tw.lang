@@ -1,4 +1,4 @@
-tile.bwm:stokedFire.name=猛火
+﻿tile.bwm:stokedFire.name=猛火
 tile.bwm:hand_crank.name=手推曲柄
 tile.bwm:wooden_axle.name=木質傳動軸
 tile.bwm:steel_axle.name=鋼質傳動軸
@@ -330,7 +330,7 @@ item.bwm:material.scoured_leather_cut.name=切割皮革（光滑）
 item.bwm:material.redstone_latch.name=紅石閂
 item.bwm:material.nether_sludge.name=地獄淤泥
 item.bwm:material.flour.name=麵粉
-item.bwm:material.haft.name=手柄
+item.bwm:material.haft.name=手把
 item.bwm:material.soul_dust.name=靈魂之塵
 item.bwm:material.charcoal_dust.name=木炭粉
 item.bwm:material.sharpening_stone.name=銳化燧石
@@ -369,7 +369,7 @@ item.bwm:cooked_omelet.name=蘑菇煎蛋捲
 item.bwm:ham_and_eggs.name=雞蛋火腿
 item.bwm:tasty_sandwich.name=美味三明治
 item.bwm:beef_dinner.name=牛排大餐
-item.bwm:beef_potatoes.name=土豆燴牛排
+item.bwm:beef_potatoes.name=馬鈴薯燴牛排
 item.bwm:chicken_soup.name=雞湯
 item.bwm:chocolate.name=巧克力
 item.bwm:chowder.name=魚雜燴
@@ -435,7 +435,7 @@ item.bwm:broadhead_arrow.name=寬頭箭
 item.bwm:breeding_harness.name=動物育種套
 item.bwm:breeding_harness_kf.name=動物拘束器
 
-item.bwm:arcane_scroll.name=奧術捲軸
+item.bwm:arcane_scroll.name=奧術卷軸
 
 item.bwm:stump_remover.name=樹墩抹消劑
 
@@ -460,9 +460,9 @@ material.soulforgedsteel.ability=靈魂吸取
 fluid.molten.hellfire=熔融煉獄之火
 fluid.molten.soulforge=熔融熔魂鋼
 
-message.bwm:async.enabled=啟用異步定時器
-message.bwm:async.disabled=禁用異步計時器
-message.bwm:async.unavailable=無法切換異步定時器：世界時間不會提前。
+message.bwm:async.enabled=啟用非同步定時器
+message.bwm:async.disabled=禁用非同步計時器
+message.bwm:async.unavailable=無法切換非同步定時器：世界時間不會提前。
 
 bwm.message.spawn_beacon.already_set=生成已設置
 bwm.message.spawn_beacon.set=生成位置設置
@@ -527,7 +527,7 @@ bwm.message.immersive.0=只能用來橋接機械動力
 bwm.message.immersive.1=和應用於沉浸工程的動能發電機
 bwm.message.exhaustion=你太疲憊不堪了。
 
-bwm.message.needs_bait=魚可能不會咬鉤，需要一些誘餌。
+bwm.message.needs_bait=魚可能不會上鉤，需要一些誘餌。
 bwm.message.needs_open_sky=沒有抓到任何東西，應該嘗試在其上部放置水源。
 bwm.message.needs_deep_water=沒有抓到任何東西，這個水源太淺了。
 
@@ -537,13 +537,13 @@ bwm.message.vertical_windmill.0=沒有足夠的空間放置風車。需要一個
 bwm.message.vertical_windmill.1=這裡需要垂直放置一些軸（需要7根）。
 
 bwm.config.hardcore.tooltip=硬核功能
-bwm.config.debug.tooltip=某些功能的調試信息
+bwm.config.debug.tooltip=某些功能的除錯資訊
 bwm.config.vanilla_tweaks.tooltip=原版Minecraft的變化
 bwm.config.pulley.tooltip=滑車能影響的平台的大小
 bwm.hcfurnace.cook_time.tooltip=燒製所需時間：%s秒（%s個物品）
 
 bwm.random_output.tooltip=計數：%s-%s
-bwm.chance_output.tooltip=概率：%d%%
+bwm.chance_output.tooltip=機率：%d%%
 
 bwm.millstone_blocked.message=阻斷
 bwm.millstone_blocked.tooltip=磨石周圍有太多的實體方塊。
@@ -579,8 +579,8 @@ bwm.effect.looting=掠奪
 
 bwm.item.containment=包含：
 
-config.sync.restart=對伺服器的配置更改需要客戶端重新啟動。很抱歉。
-config.sync.ok=更改配置成功。如果您看不到重新啟動客戶端的提示，請將其報告給伺服器管理員，以便他們能夠報告對配置文件所做的更改。
+config.sync.restart=對伺服器的設定更改需要用戶端重新啟動。很抱歉。
+config.sync.ok=更改設定成功。如果您看不到重新啟動用戶端的提示，請將其報告給伺服器管理員，以便他們能夠報告對設定文件所做的更改。
 
 tile.bed.tooRestless=你太焦躁不安，無法入睡
 
@@ -593,13 +593,13 @@ tooltip.bwm_book.name=唯一之書
 
 
 bwm.manual.message=您已獲得Better With Mods手冊。這個mod可能與你期望的有所不同。請馬上閱讀入門部分。
-bwm.manual.warning.missing.block=圖片丟失： %s
+bwm.manual.warning.missing.block=圖片遺失： %s
 
-bwm.manual.home=主頁
+bwm.manual.home=首頁
 bwm.manual.blocks=方塊
 bwm.manual.items=物品
 bwm.manual.mechanical=機械動力
-bwm.manual.error.0=文檔無法找到：
+bwm.manual.error.0=文件無法找到：
 bwm.manual.error.1=請向此處報告：%s
 bwm.manual.error.2=或者重新進行嘗試：%s
 
@@ -617,8 +617,8 @@ bwm.enchantment.type.breakable=工具
 bwm.enchantment.type.fishing_rod=釣竿
 bwm.enchantment.type.all=任何東西
 
-advancement.betterwithmods.crucible.desc=女巫的玩意
-advancement.betterwithmods.cauldron.desc=不是女巫的玩意
+advancement.betterwithmods.crucible.desc=女巫的東西
+advancement.betterwithmods.cauldron.desc=不是女巫的東西
 advancement.betterwithmods.turntable.desc=你旋轉我右轉...
 advancement.betterwithmods.screw_pump.desc=越來越好
 advancement.betterwithmods.companion_cubecompanion_cube.desc=它將陪伴你度過整個實驗
@@ -660,7 +660,7 @@ advancement.betterwithmods.horizo​​ntal_windmill.desc=水，地球，火，_
 advancement.betterwithmods.waterwheel.desc=必須增建額外的水車
 advancement.betterwithmods.planter.name=種植
 advancement.betterwithmods.planter.desc=救救植物，去吃素食主義者
-advancement.betterwithmods.tanned_leather.desc=真正的奶牛在製作過程中沒有受到傷害。
+advancement.betterwithmods.tanned_leather.desc=真正的乳牛在製作過程中沒有受到傷害。
 advancement.betterwithmods.hemp.desc=420 Blaze It
 advancement.betterwithmods.detector.desc=誰看著看守人？
 advancement.betterwithmods.glue.desc=馬？
@@ -677,7 +677,7 @@ advancement.betterwithmods.corner_wood.desc=躲在角落裡
 advancement.betterwithmods.wool_armor.desc=用奶奶的愛製作
 advancement.betterwithmods.tanned_leather_armor.name=皮甲
 advancement.betterwithmods.tanned_leather_armor.desc=一位友善的老人的禮物
-advancement.betterwithmods.well_bucket.desc=桶上升，桶下降。你無法解釋這玩意的原理！
+advancement.betterwithmods.well_bucket.desc=桶上升，桶下降。你無法解釋這東西的原理！
 advancement.betterwithmods.steel_bellows.desc=是金屬的！
 advancement.betterwithmods.overpower_hopper.name=可愛的朋友
 advancement.betterwithmods.overpower_hopper.desc=下次給漏斗供電

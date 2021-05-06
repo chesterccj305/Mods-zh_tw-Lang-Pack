@@ -1,4 +1,4 @@
-command.reload_resources.no_name=未找到註冊名！
+﻿command.reload_resources.no_name=未找到註冊名！
 command.reload_resources.usage=/reload_resources <name|#group|$ [id]>
 command.reload_resources.reloaded_name=註冊表“%s”已在%s中重新載入！
 command.reload_resources.no_group=找不到註冊表組！

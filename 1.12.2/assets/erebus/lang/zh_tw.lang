@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 
 #########
 # ITEMS #
@@ -491,9 +491,9 @@ tile.erebus.small_plant.fern.name=蕨類
 tile.erebus.small_plant.fiddle_head.name=捲曲蕨菜
 tile.erebus.thorns.name=荊棘
 tile.erebus.wall_plants.moss_down.name=苔蘚
-tile.erebus.wall_plants.mould_down.name=霉菌絲
+tile.erebus.wall_plants.mould_down.name=黴菌絲
 tile.erebus.wall_plants_cultivated.moss_down_cultivated.name=栽培的苔蘚
-tile.erebus.wall_plants_cultivated.mould_down_cultivated.name=栽培的霉菌絲
+tile.erebus.wall_plants_cultivated.mould_down_cultivated.name=栽培的黴菌絲
 tile.erebus.algae.name=沼澤藻
 tile.erebus.glowshroom.name=螢光菇 (可放置)
 tile.erebus.glowshroom_stalk_main.name=螢光菇柄
@@ -610,7 +610,7 @@ tile.erebus.dung_spawner_fly.name=蒼蠅生怪磚
 tile.erebus.locust_spawner.name=蝗蟲生怪磚
 
 # Utility Blocks
-tile.erebus.petrified_crafting_table.name=木化石工作台
+tile.erebus.petrified_crafting_table.name=木化石工作檯
 tile.erebus.petrified_wood_chest.name=木化石箱子
 tile.erebus.bamboo_crate.name=竹製儲物箱
 tile.erebus.bamboo_crate.default.name=竹製儲物箱
@@ -1018,7 +1018,7 @@ advancement.erebus.agriculture.beetle_breed.desc=餵食兩隻甲蟲蕪菁、讓�
 advancement.erebus.agriculture.bamboo=有用的植物
 advancement.erebus.agriculture.bamboo.desc=獲得竹子以及竹筍.
 
-advancement.erebus.agriculture.bamboo_extender=倫敦”竹”橋垮下來
+advancement.erebus.agriculture.bamboo_extender=倫敦“竹”橋垮下來
 advancement.erebus.agriculture.bamboo_extender.desc=製作出竹製吊橋架橋器.
 advancement.erebus.agriculture.bamboo_bridge=橫越深谷
 advancement.erebus.agriculture.bamboo_bridge.desc=製作出竹製吊橋.

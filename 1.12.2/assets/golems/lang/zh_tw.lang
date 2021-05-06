@@ -1,4 +1,4 @@
-entity.golems.golem_bedrock.name=基岩傀儡
+﻿entity.golems.golem_bedrock.name=基岩傀儡
 entity.golems.golem_bone.name=骨頭傀儡
 entity.golems.golem_bookshelf.name=書架傀儡
 entity.golems.golem_clay.name=黏土傀儡
@@ -81,7 +81,7 @@ tooltip.to_remove_it=用於清除
 tooltip.use_on_existing=作用於現存的%s
 tooltip.use_to_spawn=用來生成%s
 entity.golems.golem_concrete.name=混凝土傀儡
-entitytip.heals=緩慢愈合
+entitytip.heals=緩慢癒合
 entitytip.grows_crops=種植附近的作物
 entitytip.splits_upon_death=分裂成兩個！
 # Vanilla fix

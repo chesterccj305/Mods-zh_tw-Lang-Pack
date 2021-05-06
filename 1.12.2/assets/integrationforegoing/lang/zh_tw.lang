@@ -1,12 +1,12 @@
-fluid.integrationforegoing.molten_reinforced_pink_slime=熔融強化粉紅史萊姆
+﻿fluid.integrationforegoing.molten_reinforced_pink_slime=熔融強化粉紅史萊姆
 material.integrationforegoing.pink_slime.name=粉色史萊姆
-material.integrationforegoing.plastic.name=塑料
+material.integrationforegoing.plastic.name=塑膠
 material.integrationforegoing.reinforced_pink_slime.name=強化粉紅史萊姆
 text.integrationforegoing.plant.agricraft_crops=- 來自 AgriCraft 的任何作物
 text.integrationforegoing.plant.botania_tall_mystical_flowers=- 任何來自植物魔法的高神秘花
 text.integrationforegoing.plant.ender_lilly=來自Extra Utilities 2的終界百合
-text.integrationforegoing.plant.hemp_no_replant=- 來自沈浸式工程的工業大麻 §o（僅限收獲頂部方塊）
-text.integrationforegoing.plant.hemp_replant=- 來自沈浸工程的工業大麻§o(收貨兩個方塊)
+text.integrationforegoing.plant.hemp_no_replant=- 來自沉浸式工程的工業大麻 §o（僅限收穫頂部方塊）
+text.integrationforegoing.plant.hemp_replant=- 來自沉浸工程的工業大麻§o(收貨兩個方塊)
 text.integrationforegoing.plant.natura_berry_bush=-  Natura的任何漿果灌木
 text.integrationforegoing.plant.natura_crops_no_replant=- 來自Natura的任何農作物 §o（不需要再種植）
 text.integrationforegoing.plant.natura_crops_replant=- 來自Natura的任何農作物（需要補種）

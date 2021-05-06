@@ -1,4 +1,4 @@
-item.hooked:hook_diamond.name=鑽石鉤子
+﻿item.hooked:hook_diamond.name=鑽石鉤子
 item.hooked:hook_ender.name=終界勾爪
 item.hooked:hook_iron.name=鐵製鉤子
 item.hooked:hook_red.name=紅石勾爪
@@ -22,4 +22,4 @@ tooltip.hooked:hook_iron.info=朝兩個不同的點發射勾爪，能夠懸浮�
 tooltip.hooked:hook_red.controls=按下 %1$s 鍵發射勾爪。\n雙擊空格來收回所有勾爪。\n對著勾爪，潛行+按下 %1$s 鍵來收回它。
 tooltip.hooked:hook_red.info=在勾爪所控制的範圍內，進行創造模式般的飛行
 tooltip.hooked:hook_wood.controls=按下 %1$s 鍵發射勾爪。\n跳躍來收回勾爪。\n對著勾爪，潛行+按下 %1$s 鍵來收回它。
-tooltip.hooked:hook_wood.info=一種輕松翻越深溝，攀爬樹木的工具
+tooltip.hooked:hook_wood.info=一種輕鬆翻越深溝，攀爬樹木的工具

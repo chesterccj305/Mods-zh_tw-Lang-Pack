@@ -1,7 +1,7 @@
-commands.sereneseasons.usage=/sereneseasons <setseason> [季節]
+﻿commands.sereneseasons.usage=/sereneseasons <setseason> [季節]
 commands.sereneseasons.setseason.success=設定季節為 %s
 commands.sereneseasons.setseason.fail=無效的季節參數 %s
-commands.sereneseasons.setseason.disabled=季節變化當前已禁用！
+commands.sereneseasons.setseason.disabled=季節變化目前已禁用！
 
 itemGroup.tabSereneSeasons=寧靜的季節
 
@@ -10,6 +10,6 @@ tile.season_sensor_spring.name=季節感應器（春）
 tile.season_sensor_summer.name=季節感應器（夏）
 tile.season_sensor_autumn.name=季節感應器（秋）
 tile.season_sensor_winter.name=季節感應器（冬）
-item.ss_icon.name=寧靜的季節_圖標
+item.ss_icon.name=寧靜的季節_圖示
 
 item.season_clock.name=季節鐘

@@ -1,4 +1,4 @@
-gui.seconds=秒
+﻿gui.seconds=秒
 gui.delay=延時：
 gui.flight=飛行時間：
 gui.fwmodes.3=§a持續開啟
@@ -8,13 +8,12 @@ gui.fwmodes.1=§c紅石 §a反轉
 gui.fwmode=模式：
 gui.fwmodes.4=§5自動§5（§c白天§5/§a晚上§5）
 gui.fwmodes.5=§5自動§5（§a白天§5/§c晚上§5）
-gui.fireworks.title=煙花設置
+gui.fireworks.title=煙火設置
 gui.fwmodes=§c未知！
 gui.fwtype=形狀：
 gui.fwtype0=隨機
-tab.fireworks.name=煙花
-tile.block.fireworkshooter.name=煙花發射器
-lore.shooter.1=§5自動發射隨機煙花
+tab.fireworks.name=煙火
+tile.block.fireworkshooter.name=煙火發射器
+lore.shooter.1=§5自動發射隨機煙火
 lore.shooter.2=§6右鍵打開設置
 lore.storedData=儲存數據：
-

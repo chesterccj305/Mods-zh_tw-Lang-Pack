@@ -1,10 +1,10 @@
-tile.aether_lever.name=神聖石控制桿
+﻿tile.aether_lever.name=神聖石控制桿
 tile.holystone_button.name=神聖石按鈕
 tile.holystone_pressure_plate.name=神聖石壓力板
 tile.skyroot_bed.name=天根木床
 tile.skyroot_button.name=天根木按鈕
 tile.skyroot_chest.name=天根木儲物箱
-tile.skyroot_crafting_table.name=天根木工作台
+tile.skyroot_crafting_table.name=天根木工作檯
 tile.skyroot_door.name=天根木門
 tile.skyroot_ladder.name=天根木梯子
 tile.skyroot_pressure_plate.name=天根木壓力板

@@ -1,4 +1,4 @@
-camping.tent.clearall=清除所有
+﻿camping.tent.clearall=清除所有
 camping.tent.inventory=庫存
 camping.tent.manage=查看
 camping.tent.plural=\t
@@ -25,7 +25,7 @@ item.camping:kit_kit.name=空工具箱
 item.camping:kit_pan.name=烹飪鍋工具箱
 item.camping:kit_spit.name=簡易燒烤工具箱
 item.camping:kit_useless.name=無用的工具箱
-item.camping:knife.name=瑞士軍刀
+item.camping:knife.name=瑞士刀
 item.camping:lantern_off.name=空提燈
 item.camping:lantern_on.name=提燈
 item.camping:logseat.name=原木座椅

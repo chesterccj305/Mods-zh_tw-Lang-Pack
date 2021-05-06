@@ -1,4 +1,4 @@
-itemGroup.rebornstorage=再生儲存
+﻿itemGroup.rebornstorage=再生儲存
 
 #Items Disks
 item.rebornstorage.storagecell.256k.name=256k 儲存硬碟
@@ -29,5 +29,4 @@ tile.rebornstorage.multicrafter.heat.name=散熱器
 tile.rebornstorage.multicrafter.frame.name=合成器框架
 tile.rebornstorage.multicrafter.cpu.name=合成器CPU
 tile.rebornstorage.multicrafter.storage.name=合成器儲存
-tile.rebornstorage.multicrafter.io.name=IO端口
-
+tile.rebornstorage.multicrafter.io.name=IO埠

@@ -1,4 +1,4 @@
-# Creative Tabs
+﻿# Creative Tabs
 
 itemGroup.fossils_items=化石考古模組 物品
 itemGroup.fossils_blocks=化石考古模組 方塊
@@ -71,7 +71,7 @@ item.bone_unique_item.icthyosaurus.name=魚龍眼骨
 item.bone_unique_item.henodus.name=無齒龍龜殼
 item.bone_unique_item.megaloceros.name=大角鹿鹿角
 item.bone_unique_item.megalania.name=巨齒蜥爪子
-item.bone_unique_item.platybelodon.name=鏟齒象牙齒
+item.bone_unique_item.platybelodon.name=鏟齒像牙齒
 item.bone_unique_item.tiktaalik.name=提塔利克魚臂腕
 item.bone_unique_item.crassigyrinus.name=厚蛙螈尾骨
 item.bone_unique_item.diplocaulus.name=笠頭螈尾骨
@@ -818,10 +818,10 @@ anu.hello=阿努: 朕終於復活啦！你們都給朕跪倒在朕的面前！
 anu.bareHand=阿努: 空手跟朕打？有骨氣...但是愚蠢！
 anu.draw=阿努: 拔劍吧，懦夫！
 anu.coward=阿努: 弓箭是沒種的人在用的！是下等人用的武器！
-anu.leartHere=阿努: 看看朕學到了些甚麼？
-anu.leartThere=阿努: 看看朕學到了些甚麼？
-anu.unknownRanged=阿努: 你用的那是甚麼妖術道具？
-anu.unknownMelee=阿努: 哈！那玩意可傷不了朕！
+anu.leartHere=阿努: 看看朕學到了些什麼？
+anu.leartThere=阿努: 看看朕學到了些什麼？
+anu.unknownRanged=阿努: 你用的那是什麼妖術道具？
+anu.unknownMelee=阿努: 哈！那東西可傷不了朕！
 anu.summon=阿努: 御林軍！速速護駕！
 anu.trans=阿努: 來人！給朕將他殺了！
 anu.qi=阿努: 劍氣！
@@ -852,7 +852,7 @@ item.tar_fossil.jei_desc=焦油化石可以放進分析儀，會有機率可以�
 tile.feeder.jei_desc=餵食器可以放入各種肉類和植物，可以用來自動餵養處於飢餓狀態的史前生物.
 item.scarab_gem.jei_desc=聖甲蟲寶石可以將金製工具升級，變成性能相當優異的傳說工具；也能用來馴服兇猛的史前生物(像是暴龍和異特龍).
 item.aquatic_scarab_gem.jei_desc=海洋聖甲蟲寶石可以用來馴服兇猛的水中史前生物(像是蛇頸龍和滄龍).
-item.stone_tablet.jei_desc=古代石版畫可以當作繪畫一樣，可直接掛在牆上當作展示品 (據說各種畫中會透露出一些信息).
+item.stone_tablet.jei_desc=古代石版畫可以當作繪畫一樣，可直接掛在牆上當作展示品 (據說各種畫中會透露出一些資訊).
 item.toy.jei_desc=玩具可以放置在史前生物旁邊，牠們非常喜歡玩，可以提升性情好感度.
 item.whip.jei_desc=鞭子可以強制性的使野生史前生物馴服聽話的道具.
 item.ancient_sword.jei_desc=具有古老的神祕力量製成的魔劍，當與古代頭盔一起使用的時候可以將豬和殭屍豬人變成你的小嘍囉使喚…
@@ -1013,7 +1013,7 @@ advancements.fossil.scarab_gem.description=從化石礦中獲得一個聖甲蟲�
 advancements.fossil.broken_sword.title=碎裂成沙
 advancements.fossil.broken_sword.description=從化石礦中獲得破損的古代劍或是古代頭盔
 advancements.fossil.worktable.title=這些屬於博物館
-advancements.fossil.worktable.description=製作一個考古工作台
+advancements.fossil.worktable.description=製作一個考古工作檯
 advancements.fossil.ancient_sword.title=喚雷者
 advancements.fossil.ancient_sword.description=重新修復一個古代劍或是古代頭盔
 advancements.fossil.figurine.title=古代公仔

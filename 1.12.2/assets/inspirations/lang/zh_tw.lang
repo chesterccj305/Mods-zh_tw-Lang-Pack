@@ -1,4 +1,4 @@
-############
+﻿############
 # Shared #
 ############
 
@@ -37,7 +37,7 @@ tile.inspirations.path.round.name=石頭路徑
 tile.inspirations.path.bricks.name=磚塊路徑
 
 tile.inspirations.flower.rose.name=玫瑰
-tile.inspirations.flower.syringa.name=歐丁香
+tile.inspirations.flower.syringa.name=歐紫丁香
 tile.inspirations.flower.paeonia.name=牡丹
 tile.inspirations.flower.cyan.name=青花
 
@@ -88,22 +88,22 @@ inspirations.unlock.success=容器已解鎖
 inspirations.unlock.fail.no_match=鑰匙不匹配此鎖
 inspirations.unlock.fail.unlocked=此容器未被上鎖
 
-tile.inspirations.carpeted_trapdoor_white.name=白色地毯活板門
-tile.inspirations.carpeted_trapdoor_orange.name=橙色地毯活板門
-tile.inspirations.carpeted_trapdoor_magenta.name=洋紅色地毯活板門
-tile.inspirations.carpeted_trapdoor_light_blue.name=淺藍色地毯活板門
-tile.inspirations.carpeted_trapdoor_yellow.name=黃色地毯活板門
-tile.inspirations.carpeted_trapdoor_lime.name=淺綠色地毯活板門
-tile.inspirations.carpeted_trapdoor_pink.name=粉紅色地毯活板門
-tile.inspirations.carpeted_trapdoor_gray.name=灰色地毯活板門
-tile.inspirations.carpeted_trapdoor_silver.name=淺灰色地毯活板門
-tile.inspirations.carpeted_trapdoor_cyan.name=青色地毯活板門
-tile.inspirations.carpeted_trapdoor_purple.name=紫色地毯活板門
-tile.inspirations.carpeted_trapdoor_blue.name=藍色地毯活板門
-tile.inspirations.carpeted_trapdoor_brown.name=棕色地毯活板門
-tile.inspirations.carpeted_trapdoor_green.name=綠色地毯活板門
-tile.inspirations.carpeted_trapdoor_red.name=紅色地毯活板門
-tile.inspirations.carpeted_trapdoor_black.name=黑色地毯活板門
+tile.inspirations.carpeted_trapdoor_white.name=白色地毯暗門
+tile.inspirations.carpeted_trapdoor_orange.name=橙色地毯暗門
+tile.inspirations.carpeted_trapdoor_magenta.name=洋紅色地毯暗門
+tile.inspirations.carpeted_trapdoor_light_blue.name=淺藍色地毯暗門
+tile.inspirations.carpeted_trapdoor_yellow.name=黃色地毯暗門
+tile.inspirations.carpeted_trapdoor_lime.name=淺綠色地毯暗門
+tile.inspirations.carpeted_trapdoor_pink.name=粉紅色地毯暗門
+tile.inspirations.carpeted_trapdoor_gray.name=灰色地毯暗門
+tile.inspirations.carpeted_trapdoor_silver.name=淺灰色地毯暗門
+tile.inspirations.carpeted_trapdoor_cyan.name=青色地毯暗門
+tile.inspirations.carpeted_trapdoor_purple.name=紫色地毯暗門
+tile.inspirations.carpeted_trapdoor_blue.name=藍色地毯暗門
+tile.inspirations.carpeted_trapdoor_brown.name=棕色地毯暗門
+tile.inspirations.carpeted_trapdoor_green.name=綠色地毯暗門
+tile.inspirations.carpeted_trapdoor_red.name=紅色地毯暗門
+tile.inspirations.carpeted_trapdoor_black.name=黑色地毯暗門
 
 tile.inspirations.collector.name=採集器
 gui.inspirations.collector.name=採集器

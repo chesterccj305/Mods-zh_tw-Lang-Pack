@@ -1,5 +1,5 @@
-microblock.missing=下列小方塊未安裝在客戶端：%s
-multipart.missing=下列多方塊部件未安裝在客戶端：%s
+﻿microblock.missing=下列小方塊未安裝在用戶端：%s
+multipart.missing=下列多方塊部件未安裝在用戶端：%s
 
 itemGroup.microblockcbe=微塊 CBE
 

@@ -1,4 +1,4 @@
-material.aluminium.name=鋁
+﻿material.aluminium.name=鋁
 material.chrome.name=鉻
 material.iridium.name=銥
 material.manganese.name=錳
@@ -15,7 +15,7 @@ material.uranium235.name=鈾-235
 material.brass.name=黃銅
 material.invar.name=殷鋼
 material.magnalium.name=鎂鋁合金
-material.stainless_steel.name=不銹鋼
+material.stainless_steel.name=不鏽鋼
 material.ultimet.name=哈氏合金
 material.wrought_iron.name=鍛鐵
 material.osmiridium.name=銥鋨合金

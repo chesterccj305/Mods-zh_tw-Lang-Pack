@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 # ^ having this in the first line allows us to use "\uXXXX" escapes in this file
 
 #***  Ender IO Conduits *****#
@@ -8,7 +8,7 @@
 
 # Conduits
 enderio.block_conduit_bundle=導管束
-tile.block_conduit_bundle.name=導管接口
+tile.block_conduit_bundle.name=導管介面
 
 enderio.item_power_conduit.name=能量導管
 enderio.item_power_conduit_enhanced.name=強化能量導管
@@ -39,11 +39,11 @@ enderio.item_item_conduit.name=物品導管
 tile.block_cap_bank.creative.name=創造模式電容庫
 tile.block_cap_bank.simple.name=基礎電容庫
 tile.block_cap_bank.activated.name=電容庫
-tile.block_cap_bank.vibrant.name=脈沖電容庫
+tile.block_cap_bank.vibrant.name=脈衝電容庫
 tile.block_cap_bank.tooltip.detailed.line1=多方塊能量儲存。
 tile.block_cap_bank.tooltip.detailed.line2=可以給使用能量的物品充能（棄用）
 tile.block_cap_bank.tooltip.detailed.line3=空手shift右擊一面
-tile.block_cap_bank.tooltip.detailed.line4=來改變顯示的信息
+tile.block_cap_bank.tooltip.detailed.line4=來改變顯示的資訊
 tile.block_cap_bank.tooltip.has_items=§6包含 §4{0,number,integer}§6 {0,choice,1#item|1<items>}
 
 # TODO dedupe these?
@@ -86,16 +86,16 @@ enderio.gui.power_monitor.engine_section5=多或等於
 enderio.gui.power_monitor.of=占
 enderio.gui.power_monitor.conduit_storage=導管緩衝
 enderio.gui.power_monitor.capbank_storage=電容庫儲量
-enderio.gui.power_monitor.machine_buffer=機器緩存
+enderio.gui.power_monitor.machine_buffer=機器快取
 enderio.gui.power_monitor.average_output=5秒平均輸出
 enderio.gui.power_monitor.average_input=5秒平均輸入
 enderio.gui.power_monitor.no_network_error=未找到可用導管網路連接。能量監控器必須與導管網路連接，方能讀取到所需數據。
 
 # Conduit Probe
 enderio.gui.conduit_probe.network_heading=能量網路
-enderio.gui.conduit_probe.conduit_buffer=內部緩存
+enderio.gui.conduit_probe.conduit_buffer=內部快取
 enderio.gui.conduit_probe.request_range=每刻請求範圍
-enderio.gui.conduit_probe.current_request=當前請求
+enderio.gui.conduit_probe.current_request=目前請求
 enderio.gui.conduit_probe.item_heading=物品導管
 enderio.gui.conduit_probe.item_no_connections=沒有外部連接
 enderio.gui.conduit_probe.no_power_from_side=無法從這一側接收能量
@@ -153,7 +153,7 @@ enderio.gui.item_function_upgrade=速度調節
 enderio.gui.item_function_upgrade2=最多 15 個速度升級
 enderio.gui.item_function_upgrade3=最多 1 個速度降級
 enderio.gui.signal_color=信號顏色
-enderio.gui.priority=優先級
+enderio.gui.priority=優先度
 
 enderio.gui.liquid_auto_extract=自動提取
 enderio.gui.liquid_filter=過濾器

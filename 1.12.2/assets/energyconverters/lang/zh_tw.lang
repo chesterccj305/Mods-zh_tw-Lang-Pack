@@ -1,4 +1,4 @@
-tile.energy_bridge.name=能量橋
+﻿tile.energy_bridge.name=能量橋
 tile.energy_producer_eu.lv.name=低壓 EU能量產生器
 tile.energy_producer_eu.mv.name=中壓 EU能量產生器
 tile.energy_producer_eu.hv.name=高壓 EU能量產生器
@@ -26,5 +26,5 @@ itemGroup.energy_converters=能量轉換器
 energyconverters.energybridge.stored=能量儲存： %s
 
 energyconverters.rf_warning=§C您不需要此功能的機率約為99 %%！ 請改用Forge能量轉換器（FE）。§r
-energyconverters.mj_hint=§A使用木製能量管道從該模塊中提取能量。§r
+energyconverters.mj_hint=§A使用木製能量管道從該模組中提取能量。§r
 energyconverters.fe_hint=§A與聲稱需要“ RF”的模組相容率為99%§r

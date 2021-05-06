@@ -1,4 +1,4 @@
-gui.equivadditions.emcpt=EMC/tick
+﻿gui.equivadditions.emcpt=EMC/tick
 item.equivadditions:blue_matter.name=藍物質
 item.equivadditions:zeitheron_fuel.name=Zeitheron 燃料
 itemGroup.equivadditions=Equivalent Additions

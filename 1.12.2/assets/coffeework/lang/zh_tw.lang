@@ -1,4 +1,4 @@
-
+﻿
 #Coffeeeeeeeeeeee
 item.coffeework.espresso.name=濃縮咖啡
 
@@ -130,7 +130,7 @@ tile.coffeework.bag_coffee.name=咖啡豆袋
 tile.coffeework.bag_coffee_powder.name=咖啡粉袋
 tile.coffeework.bag_cocoa.name=可可豆袋
 tile.coffeework.bag_cocoa_powder.name=可可粉袋
-tile.coffeework.bag_flour.name=面粉袋
+tile.coffeework.bag_flour.name=麵粉袋
 tile.coffeework.bag_sugar.name=砂糖袋
 item.coffeework.bag.name=麻袋
 
@@ -159,7 +159,7 @@ tile.coffeework.cake_coffee.name=拿鐵蛋糕
 tile.coffeework.double_bag_coffee_powder.name=咖啡粉兩袋
 tile.coffeework.double_bag_cocoa.name=可可豆兩袋
 tile.coffeework.double_bag_cocoa_powder.name=可可粉兩袋
-tile.coffeework.double_bag_flour.name=面粉兩袋
+tile.coffeework.double_bag_flour.name=麵粉兩袋
 tile.coffeework.double_bag_sugar.name=砂糖兩袋
 tile.coffeework.double_bag_coffee_raw.name=咖啡生豆兩袋
 tile.coffeework.double_bag_coffee.name=咖啡豆兩袋
@@ -175,9 +175,9 @@ item.coffeework.cocoa_bean.name=烘焙可可豆
 item.coffeework.coffee_powder.name=咖啡粉
 item.coffeework.cocoa_powder.name=可可粉
 item.coffeework.cocoa_batter.name=可可糊
-item.coffeework.flour.name=面粉
+item.coffeework.flour.name=麵粉
 item.coffeework.dough.name=麵團
-item.coffeework.dough_cookie.name=曲奇麵團
+item.coffeework.dough_cookie.name=餅乾麵團
 item.coffeework.dough_baguette.name=法棍麵團
 item.coffeework.chocolate_bar.name=巧克力板
 item.coffeework.chocolate_chip.name=巧克力碎
@@ -213,9 +213,9 @@ item.coffeework.soda_drink_apple.name=蘋果蘇打
 item.coffeework.soda_drink_chocolate.name=可可蘇打
 
 item.coffeework.sandwich_blt.name=BLT三明治
-item.coffeework.sandwich_club.name=俱樂部三明治
+item.coffeework.sandwich_club.name=總匯三明治
 item.coffeework.sandwich_blt_large.name=大號BLT三明治
-item.coffeework.sandwich_club_large.name=大號俱樂部三明治
+item.coffeework.sandwich_club_large.name=大號總匯三明治
 item.coffeework.sandwich_bacon_egg.name=培根蛋三明治
 item.coffeework.sandwich_beef_cheese.name=起司漢堡
 item.coffeework.sandwich_ham_cheese.name=火腿起司貝果
@@ -267,7 +267,7 @@ item.coffeework.custard.name=卡士達醬
 item.coffeework.spices.name=香料
 item.coffeework.gelatin.name=吉利丁
 item.coffeework.dough_ginger.name=薑餅麵團
-item.coffeework.plate_dough_ginger.name=薑餅麵板
+item.coffeework.plate_dough_ginger.name=薑餅面板
 item.coffeework.plate_ginger.name=薑餅板
 item.coffeework.ginger_bread.name=薑餅
 item.coffeework.ginger_bread_man_raw.name=生薑餅人
@@ -546,7 +546,7 @@ achievement.coffeework.first.desc=得到 咖啡種子
 achievement.coffeework.roastbean.desc=烘焙幾個咖啡豆
 achievement.coffeework.blackcoffee.desc=製作一杯黑咖啡
 achievement.coffeework.coffee_milk.desc=製作一杯牛奶咖啡
-achievement.coffeework.espresso.desc=用你的咖啡機做一杯意式濃縮
+achievement.coffeework.espresso.desc=用你的咖啡機做一杯義式濃縮
 achievement.coffeework.coffee_master.desc=同時擁有五種花式咖啡
 
 achievement.coffeework.cocoa.desc=製作一杯熱可可

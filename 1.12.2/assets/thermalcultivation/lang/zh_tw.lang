@@ -1,4 +1,4 @@
-#zh_tw
+﻿#zh_tw
 
 info.thermalcultivation.scythe.a.0=收穫完全成熟的作物.
 info.thermalcultivation.scythe.b.0=§e按 (%s) 來調整區域.§r
@@ -13,7 +13,7 @@ info.thermalcultivation.watering_can.c.0=要按住Shift來裝水.
 tab.thermalcultivation.storage.satchel.0=收集和播種種子.
 tab.thermalcultivation.storage.satchel.1=一次只能儲存一種種子.
 
-tab.thermalcultivation.storage.enchant=可以通過附魔來增加儲存量.
+tab.thermalcultivation.storage.enchant=可以透過附魔來增加儲存量.
 
 item.thermalcultivation.watering_can.creative.name=澆水壺(創造)
 item.thermalcultivation.watering_can.standard0.name=澆水壺(基礎)

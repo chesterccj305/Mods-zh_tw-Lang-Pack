@@ -1,4 +1,4 @@
-itemGroup.rarmor=功能裝甲
+﻿itemGroup.rarmor=功能裝甲
 
 item.rarmor:item_rarmor_helmet.name=裝甲頭盔
 item.rarmor:item_rarmor_chest.name=裝甲胸甲
@@ -13,22 +13,22 @@ item.rarmor:item_solar_cell.name=太陽能電池板
 item.rarmor:item_generator.name=燃燒發電機
 item.rarmor:item_battery.name=電池
 
-item.rarmor:item_module_storage.name=儲存模塊
-item.rarmor:item_module_ender.name=終界儲存模塊
-item.rarmor:item_module_furnace.name=冶煉模塊
-item.rarmor:item_module_solar.name=太陽能模塊
-item.rarmor:item_module_generator.name=燃燒發電機模塊
-item.rarmor:item_module_speed.name=速度模塊
-item.rarmor:item_module_jump.name=跳躍模塊
-item.rarmor:item_module_movement.name=運動模塊
-item.rarmor:item_module_protection_iron.name=護甲模塊（鐵）
-item.rarmor:item_module_protection_gold.name=護甲模塊（金）
-item.rarmor:item_module_protection_diamond.name=護甲模塊（鑽石）
+item.rarmor:item_module_storage.name=儲存模組
+item.rarmor:item_module_ender.name=終界儲存模組
+item.rarmor:item_module_furnace.name=冶煉模組
+item.rarmor:item_module_solar.name=太陽能模組
+item.rarmor:item_module_generator.name=燃燒發電機模組
+item.rarmor:item_module_speed.name=速度模組
+item.rarmor:item_module_jump.name=跳躍模組
+item.rarmor:item_module_movement.name=運動模組
+item.rarmor:item_module_protection_iron.name=護甲模組（鐵）
+item.rarmor:item_module_protection_gold.name=護甲模組（金）
+item.rarmor:item_module_protection_diamond.name=護甲模組（鑽石）
 
 rarmor.back=返回初始背包
 rarmor.open=打開裝甲面板
 
-rarmor.installedModules=安裝模塊
+rarmor.installedModules=安裝模組
 rarmor.stackId=識別ID
 rarmor.storedEnergy=能量儲存
 rarmor.noDataYet=暫無數據
@@ -37,7 +37,7 @@ rarmor.needsShoes=需要鞋子
 rarmor.generating=太陽能發電中
 rarmor.notGenerating=沒有陽光
 rarmor.full=能量充足
-rarmor.compoundOf=覆合模塊
+rarmor.compoundOf=覆合模組
 
 module.rarmorMain.name=控制面板
 module.rarmorStorage.name=儲存背包
@@ -45,17 +45,17 @@ module.rarmorEnder.name=終界箱
 module.rarmorFurnace.name=電熱熔爐
 module.rarmorSolar.name=太陽能板
 module.rarmorGenerator.name=燃燒發電機
-module.rarmorSpeed.name=速度模塊
-module.rarmorJump.name=跳躍模塊
-module.rarmorProtectionIron.name=護甲模塊（鐵）
-module.rarmorProtectionGold.name=護甲模塊（金）
-module.rarmorProtectionDiamond.name=護甲模塊（鑽石）
+module.rarmorSpeed.name=速度模組
+module.rarmorJump.name=跳躍模組
+module.rarmorProtectionIron.name=護甲模組（鐵）
+module.rarmorProtectionGold.name=護甲模組（金）
+module.rarmorProtectionDiamond.name=護甲模組（鑽石）
 module.rarmorColor.name=顏色調整
 
-rarmor.checkFailed=%s 的更新檢查失敗！有關詳細信息，請參閱日志！
+rarmor.checkFailed=%s 的更新檢查失敗！有關詳細資訊，請參閱日誌！
 rarmor.notifyUpdate.1=%s 有可用更新！
-rarmor.notifyUpdate.2=當前版本：%s
+rarmor.notifyUpdate.2=目前版本：%s
 rarmor.notifyUpdate.3=最新版本：%s
-rarmor.clickInfo.1=單擊以查看更新日志
+rarmor.clickInfo.1=單擊以查看更新日誌
 rarmor.clickInfo.2=按住 Shift 鍵並單擊下載
 rarmor.clickInfo.3=按住 Ctrl 鍵單擊以關閉此消息

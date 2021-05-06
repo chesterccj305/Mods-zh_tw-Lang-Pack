@@ -1,7 +1,7 @@
-clienttweaks.off=關
+﻿clienttweaks.off=關
 clienttweaks.on=開
 gui.clienttweaks.mipmapConfirm=你真的想要調整 mipmap 級別嗎？
 gui.clienttweaks.mipmapWarning=當安裝大量模組時此操作可能需要幾分鐘時間。
-key.categories.clienttweaks=客戶端修改
+key.categories.clienttweaks=用戶端修改
 key.clienttweaks.disable_step_assist=切換禁用自動跳躍
 key.clienttweaks.hide_offhand_item=切換隱藏副手物品

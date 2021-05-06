@@ -1,4 +1,4 @@
-#################
+﻿#################
 #     Config    #
 #################
 culinaryconstruct.general.maxsaturation=最大原料飽和度
@@ -7,8 +7,8 @@ culinaryconstruct.general.maxfood=最大成分食物
 culinaryconstruct.general.maxfood.tooltip=將食品價值超過此最大值的成分列入黑名單，-1禁用
 culinaryconstruct.general.blacklist=黑名單
 culinaryconstruct.general.blacklist.tooltip=列入三明治原料黑名單的物品
-culinaryconstruct.general.breaditems=其他面包物品
-culinaryconstruct.general.breaditems.tooltip=作為面包的附加物品清單
+culinaryconstruct.general.breaditems=其他麵包物品
+culinaryconstruct.general.breaditems.tooltip=作為麵包的附加物品清單
 culinaryconstruct.general.maxsandwichnesting=最大三明治嵌套
 culinaryconstruct.general.maxsandwichnesting.tooltip=三明治可以放入三明治的最大次數
 

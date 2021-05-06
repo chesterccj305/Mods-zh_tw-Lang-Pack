@@ -1,4 +1,4 @@
-tile.nethermetals.nether_aluminum_ore.name=地獄鋁礦石
+﻿tile.nethermetals.nether_aluminum_ore.name=地獄鋁礦石
 tile.nethermetals.nether_antimony_ore.name=地獄銻礦石
 tile.nethermetals.nether_bismuth_ore.name=地獄鉍礦石
 tile.nethermetals.nether_cadmium_ore.name=地獄鎘礦石
@@ -18,7 +18,7 @@ tile.nethermetals.nether_mercury_ore.name=地獄汞礦石
 tile.nethermetals.nether_nickel_ore.name=地獄鎳礦石
 tile.nethermetals.nether_osmium_ore.name=地獄鋨礦石
 tile.nethermetals.nether_platinum_ore.name=地獄鉑礦石
-tile.nethermetals.nether_plutonium_ore.name=地獄鈈礦石
+tile.nethermetals.nether_plutonium_ore.name=地獄鈽礦石
 tile.nethermetals.nether_redstone_ore.name=地獄紅石礦石
 tile.nethermetals.nether_rutile_ore.name=地獄金紅石礦石
 tile.nethermetals.nether_silver_ore.name=地獄銀礦石

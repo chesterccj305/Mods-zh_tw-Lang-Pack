@@ -1,7 +1,7 @@
-fluid.seedoil=植物油
+﻿fluid.seedoil=植物油
 hungrymechanics.jei.blender=攪拌機
 hungrymechanics.jei.millstone=磨石
-hungrymechanics.jei.thresher=打谷機
+hungrymechanics.jei.thresher=打穀機
 item.hungrymechanics.belt.name=皮帶
 item.hungrymechanics.blade.name=葉片
 item.hungrymechanics.compositewoodcasing.name=覆合木材框
@@ -21,4 +21,4 @@ tile.hungrymechanics.crankplayer.name=小型曲柄
 tile.hungrymechanics.fluid.seedoil.name=植物油
 tile.hungrymechanics.millstone.name=磨石
 tile.hungrymechanics.poppy.name=罌粟
-tile.hungrymechanics.thresher.name=打谷機
+tile.hungrymechanics.thresher.name=打穀機

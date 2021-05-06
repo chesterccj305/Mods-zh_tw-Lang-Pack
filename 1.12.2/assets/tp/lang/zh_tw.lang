@@ -1,4 +1,4 @@
-#Shears
+﻿#Shears
 item.wooden_shears.name=木剪刀
 item.golden_shears.name=金剪刀
 item.diamond_shears.name=鑽石剪刀
@@ -156,10 +156,10 @@ item.wub_gem.name=烏布寶石
 tooltip.wubgem_1=用於製作烏布果汁
 tile.wub_ore.name=烏布礦
 tile.nether_wub_ore.name=地獄烏布礦
-item.wub_paxel.name=烏布镐尖斧
+item.wub_paxel.name=烏布鎬尖斧
 tooltip.wubhammer_1=開採 3x3
 item.wub_hammer.name=烏布鍾
-item.wub_pickaxe.name=烏布镐
+item.wub_pickaxe.name=烏布鎬
 item.wub_axe.name=烏布斧
 item.wub_spade.name=烏布鏟
 item.wub_sword.name=烏布劍
@@ -549,7 +549,7 @@ tile.lamp.name=燈籠
 #Extra Food
 item.raw_bacon.name=生培根
 item.cooked_bacon.name=熟培根
-item.monster_jerky.name=怪物乾
+item.monster_jerky.name=怪物幹
 item.toasted_bread.name=烤麵包
 item.fried_egg.name=煎蛋
 item.cooked_mushroom_brown.name=烤蘑菇

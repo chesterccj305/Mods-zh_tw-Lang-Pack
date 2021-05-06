@@ -1,8 +1,8 @@
-tile.ac.name=溫度調節器
+﻿tile.ac.name=溫度調節器
 tile.heater.name=溫度調節器
 tile.temp_regulator.name=溫度調節器
 
-item.portable_temp_regulator.name=便攜式溫度調節器
+item.portable_temp_regulator.name=攜帶式溫度調節器
 item.thirst_quencher.name=止渴儀
 
 name.TRINKET=小飾品
@@ -14,12 +14,12 @@ tooltip.tanaddons.thirstquencher.desc2=需要水和RF運行。
 tooltip.tanaddons.thirstquencher.desc3=自動淨水
 tooltip.tanaddons.thirstquencher.desc4=和鍛造能源
 tooltip.tanaddons.thirstquencher.desc5=去運行。
-tooltip.tanaddons.ptempregulator.desc=保持玩家溫度在最佳水平
+tooltip.tanaddons.ptempregulator.desc=保持玩家溫度在最佳水準
 tooltip.tanaddons.ptempregulator.desc2=需要RF才能生效
 tooltip.tanaddons.holdshift=<按住%s查看詳情>
 tooltip.tanaddons.baublesitem=可以用在%s飾品欄
 tooltip.tanaddons.redstone_rclick.desc=空手右擊以設置紅石模式
-tooltip.tanaddons.redstone_rclick.desc2=(潛行+右擊以查看能量信息)
+tooltip.tanaddons.redstone_rclick.desc2=(潛行+右擊以查看能量資訊)
 tooltip.tanaddons.redstone_mode=紅石模式
 tooltip.tanaddons.energy=能量
 tooltip.tanaddons.energy2=能量/每刻 調節玩家溫度

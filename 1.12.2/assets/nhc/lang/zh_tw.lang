@@ -1,4 +1,4 @@
-//---Creative Tab---//
+﻿//---Creative Tab---//
 itemGroup.nhcore=NHAVE 核心
 
 //---Items---//
@@ -32,13 +32,13 @@ tooltip.nhc.energypearl=這顆珍珠可持續生產微小的能量。;足以給�
 tooltip.nhc.error.missingnbt=!!缺失 NBT 數據!!
 tooltip.nhc.details.shift1=按住
 tooltip.nhc.details.shift2=Shift
-tooltip.nhc.details.shift3=查看詳細信息
+tooltip.nhc.details.shift3=查看詳細資訊
 tooltip.nhc.details.alt1=按住
 tooltip.nhc.details.alt2=Alt
 tooltip.nhc.details.alt3=查看模組
 tooltip.nhc.details.ctrl1=按住
 tooltip.nhc.details.ctrl2=Ctrl
-tooltip.nhc.details.ctrl3=查看更多信息
+tooltip.nhc.details.ctrl3=查看更多資訊
 tooltip.nhc.chroma=用來將受支持物品的顏色改變為%color%。
 tooltip.nhc.chroma.rainbow=在彩虹色間切換顏色的虹晶。
 tooltip.nhc.chroma.tracker=當怪物靠近時改變顏色的虹晶。
@@ -77,10 +77,10 @@ color.nhc.tracker=追蹤
 //---Config---//
 key.nhc.category=NHAVE 的模組
 key.nhc.toggle=切換模式
-cfg.nhc.title.main=NHAVE 核心 配置菜單
-cfg.nhc.title.client=NHAVE 核心 客戶端配置
-cfg.nhc.entry.client=客戶端配置
-cfg.nhc.entry.client.tooltip=所有客戶端選項
-cfg.nhc.title.common=NHAVE 核心 公共配置
-cfg.nhc.entry.common=公共配置
+cfg.nhc.title.main=NHAVE 核心 設定菜單
+cfg.nhc.title.client=NHAVE 核心 用戶端設定
+cfg.nhc.entry.client=用戶端設定
+cfg.nhc.entry.client.tooltip=所有用戶端選項
+cfg.nhc.title.common=NHAVE 核心 公共設定
+cfg.nhc.entry.common=公共設定
 cfg.nhc.entry.common.tooltip=所有公共選項

@@ -1,4 +1,4 @@
-itemGroup.chickens=雞
+﻿itemGroup.chickens=雞
 
 item.morechickens.solidxp.name=凝固經驗
 
@@ -65,8 +65,8 @@ entity.osmiumChicken.name=鋨雞
 
 entity.yelloriumChicken.name=黃鈾雞
 entity.cyaniteChicken.name=藍晶雞
-entity.blutoniumChicken.name=藍鈈雞
-entity.ludicriteChicken.name=鑥雞
+entity.blutoniumChicken.name=藍鈽雞
+entity.ludicriteChicken.name=鎦雞
 entity.graphiteChicken.name=石墨雞
 
 entity.electricalSteelChicken.name=磁鋼雞
@@ -74,7 +74,7 @@ entity.energeticAlloyChicken.name=充能合金雞
 entity.vibrantAlloyChicken.name=諧振合金雞
 entity.redstoneAlloyChicken.name=紅石合金雞
 entity.conductiveIronChicken.name=導電鐵雞
-entity.pulsatingIronChicken.name=脈沖鐵雞
+entity.pulsatingIronChicken.name=脈衝鐵雞
 entity.darkSteelChicken.name=玄鋼雞
 entity.soulariumChicken.name=魂金雞
 entity.sulfurchicken.name=硫磺雞
@@ -83,7 +83,7 @@ entity.saltpeterchicken.name=硝石雞
 entity.basalzRodChicken.name=岩石棒雞
 entity.blitzRodChicken.name=狂風棒雞
 entity.blizzRodChicken.name=暴雪棒雞
-entity.cinnabarChicken.name=朱砂雞
+entity.cinnabarChicken.name=硃砂雞
 entity.enderiumChicken.name=終界錠雞
 entity.iridiumChicken.name=銥雞
 entity.lumiumChicken.name=流明雞
@@ -133,4 +133,3 @@ text.morechickens.breedable=可繁育
 text.morechickens.spawnType=出生類型
 text.morechickens.layitem=產出物品：%1$s
 text.morechickens.nolayitem=產出物品：無
-

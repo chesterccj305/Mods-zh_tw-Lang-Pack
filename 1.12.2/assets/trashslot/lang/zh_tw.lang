@@ -1,4 +1,4 @@
-key.categories.trashslot=垃圾桶
+﻿key.categories.trashslot=垃圾桶
 key.trashslot.delete=刪除物品
 key.trashslot.deleteAll=刪除同類型所有物品
 key.trashslot.toggle=切換格子

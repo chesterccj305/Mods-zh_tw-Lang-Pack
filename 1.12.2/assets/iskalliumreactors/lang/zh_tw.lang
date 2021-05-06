@@ -1,9 +1,9 @@
-item.iskallium_essence.name=能量物質
+﻿item.iskallium_essence.name=能量物質
 item.steel_ingot.name=鋼錠
 tile.iskallium_ore.name=能量物質塊
 tile.iskallium_stone_ore.name=能量物質礦石
 tile.iskallium_glass.name=保護玻璃
 tile.steel_casing.name=鋼塊
-tile.steel_controller.name=能量物質反應堆控制器
-tile.steel_powertap.name=能量物質反應堆接口
+tile.steel_controller.name=能量物質反應爐控制器
+tile.steel_powertap.name=能量物質反應爐介面
 itemGroup.iskalliumReactors=能量物質

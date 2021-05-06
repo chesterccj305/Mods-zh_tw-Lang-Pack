@@ -1,7 +1,7 @@
-creeperhostserver.command.pregen.added=預生成任務已添加！
-creeperhostserver.command.pregen.alreadyexists=當前維度已存在預生成任務。每個維度僅允許最大一個任務存在！
+﻿creeperhostserver.command.pregen.added=預生成任務已添加！
+creeperhostserver.command.pregen.alreadyexists=目前維度已存在預生成任務。每個維度僅允許最大一個任務存在！
 creeperhostserver.command.pregen.dimensionnoexists=找不到該維度
-creeperhostserver.command.pregen.noexists=當前維度沒有預生成任務。
+creeperhostserver.command.pregen.noexists=目前維度沒有預生成任務。
 creeperhostserver.command.pregen.removed=預生成任務已添加！
 creeperhostserver.command.pregen.usage1=/chpregen current|dimID xDiameter zDiameter [chunksPerTick, 預設 5] [是否防止加入, 預設開啟]
 creeperhostserver.command.pregen.usage2=- OR -

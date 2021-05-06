@@ -1,4 +1,4 @@
-itemGroup.mysticalworld=神秘世界
+﻿itemGroup.mysticalworld=神秘世界
 
 entity.entity_fox.name=狐貍
 entity.entity_frog.name=青蛙
@@ -153,7 +153,7 @@ tile.mud_brick_button.name=泥磚按鈕
 tile.mud_brick_pressure_plate.name=泥磚壓力板
 tile.mud_brick_fence.name=泥磚柵欄
 
-# Caminite方鎂礬(不知道為啥有余燼的材料)
+# Caminite方鎂礬(不知道為什麼有餘燼的材料)
 tile.caminite.name=方鎂礬塊
 tile.caminite_stairs.name=方鎂礬樓梯
 tile.caminite_slab.name=方鎂礬台階
@@ -178,8 +178,8 @@ advancement.mysticalworld.root=神秘的世界
 advancement.mysticalworld.root.desc=在一個一個全新的，神秘的世界呼吸！
 advancement.mysticalworld.amethyst=清醒測試
 advancement.mysticalworld.amethyst.desc=找一顆比鑽石更神聖的寶石！
-advancement.mysticalworld.aubergine=這不是胡蘿卜......
-advancement.mysticalworld.aubergine.desc=曾經，紫色的胡蘿卜風靡一時。但這是一個茄子。
+advancement.mysticalworld.aubergine=這不是胡蘿蔔......
+advancement.mysticalworld.aubergine.desc=曾經，紫色的胡蘿蔔風靡一時。但這是一個茄子。
 advancement.mysticalworld.epic_squid=史詩級魷魚！
 advancement.mysticalworld.epic_squid.desc=感受史詩魷魚的美味。
 

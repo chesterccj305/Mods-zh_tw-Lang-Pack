@@ -1,5 +1,5 @@
-# Configuration
-config.commoncapabilities=%s 配置
+﻿# Configuration
+config.commoncapabilities=%s 設定
 
 ## Recipe components
 recipecomponent.minecraft.itemstack=物品
@@ -33,6 +33,5 @@ config.commoncapabilities.general.versionChecker=版本檢查
 
 ## Mod compatibility settings
 config.commoncapabilities.forestry=林業
-config.commoncapabilities.CharsetWrench=字符集扳手
+config.commoncapabilities.CharsetWrench=字元集扳手
 config.commoncapabilities.tconstruct=匠魂
-

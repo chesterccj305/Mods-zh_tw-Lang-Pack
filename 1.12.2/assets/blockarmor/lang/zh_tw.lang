@@ -1,4 +1,4 @@
-config.armorSets=護甲設置
+﻿config.armorSets=護甲設置
 config.setEffects=設置效果
 itemGroup.tabBlockArmorModded=方塊護甲：改裝護甲
 itemGroup.tabBlockArmorVanilla=方塊護甲：原版護甲

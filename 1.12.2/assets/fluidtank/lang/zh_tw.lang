@@ -1,4 +1,4 @@
-tile.fluidtank.blocktank1.wood.name=木質儲罐
+﻿tile.fluidtank.blocktank1.wood.name=木質儲罐
 tile.fluidtank.blocktank2.stone.name=石質儲罐
 tile.fluidtank.blocktank2.copper.name=銅質儲罐
 tile.fluidtank.blocktank2.tin.name=錫質儲罐
@@ -28,7 +28,7 @@ tile.fluidtank.blocktank7.star.invisible.name=隱形地獄之星儲罐
 itemGroup.FluidTank=流體儲罐
 fluidtank.recipe.tooltip=製作一個儲罐
 
-option.fluidtank.waila.tankinfo=顯示儲罐信息
+option.fluidtank.waila.tankinfo=顯示儲罐資訊
 option.fluidtank.waila.shortinfo=較短的
 fluidtank.waila.tier=等級：%s
 fluidtank.waila.content=包含: %s

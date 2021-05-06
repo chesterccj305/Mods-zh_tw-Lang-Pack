@@ -1,4 +1,4 @@
-# Command usage/error
+﻿# Command usage/error
 command.veinminer=/veinminer mode/blocklist/toollist/blocklimit/radius/per_tick/saveconfig/help
 command.veinminer.enable=/veinminer mode auto/sneak/no_sneak
 command.veinminer.blocklist=/veinminer blocklist %s add/remove :
@@ -7,13 +7,13 @@ command.veinminer.toollist=/veinminer toollist %s add/remove
 command.veinminer.hasclient=你的伺服端似乎安裝有連鎖挖礦. 請使用 /veinminerc 指令
 
 # Client command usage
-command.veinminerc.set.disabled=已禁用連鎖挖礦的熱鍵
-command.veinminerc.set.pressed=已設置連鎖挖礦的熱鍵為按下時啟用
-command.veinminerc.set.released=已設置連鎖挖礦的熱鍵為按下時不啟用
+command.veinminerc.set.disabled=已禁用連鎖挖礦的快速鍵
+command.veinminerc.set.pressed=已設置連鎖挖礦的快速鍵為按下時啟用
+command.veinminerc.set.released=已設置連鎖挖礦的快速鍵為按下時不啟用
 
 # Command result/Mode status
 command.veinminer.set.disable=已禁用連鎖挖礦
-command.veinminer.set.auto=已設定連鎖挖礦為熱鍵模式
+command.veinminer.set.auto=已設定連鎖挖礦為快速鍵模式
 command.veinminer.set.sneak=已設定連鎖挖礦為潛行模式
 command.veinminer.set.nosneak=已設定連鎖挖礦為非潛行模式
 
@@ -36,14 +36,14 @@ command.veinminer.range.set=已設定破壞方塊的最大半徑為 %d 個方塊
 command.veinminer.pertick=/veinminer per_tick
 command.veinminer.pertick.set=已設定破壞方塊的速度為每 tick %d 個方塊
 
-command.veinminer.saveconfig=已將設定保存到配置文件
+command.veinminer.saveconfig=已將設定保存到設定文件
 command.veinminer.loadconfig=已從配定文件重新載入設置
 
 command.veinminer.cannotuse=非玩家不能使用連鎖挖礦指令
 command.veinminer.permissionDenied=你沒有許可權使用該指令
 
 # Preferred mode confirmation
-mod.veinminer.preferredmode.auto=連鎖挖礦正在使用熱鍵模式, 詳情請查看選項
+mod.veinminer.preferredmode.auto=連鎖挖礦正在使用快速鍵模式, 詳情請查看選項
 mod.veinminer.preferredmode.sneak=連鎖挖礦正在使用潛行模式
 mod.veinminer.preferredmode.nosneak=連鎖挖礦正在使用非潛行模式
 
@@ -62,11 +62,11 @@ command.veinminer.help4='toollist': 向工具列表添加或刪除方塊
 command.veinminer.help5='blocklimit': 設定連鎖挖礦破壞方塊的最大數量
 command.veinminer.help6='radius': 設定連鎖挖礦破壞方塊的最大半徑
 command.veinminer.help7='per_tick': 設定連鎖挖礦破壞方塊的速度
-command.veinminer.help8='saveconfig': 保存設置到配置文件
-command.veinminer.help9='reloadconfig': 從配置文件載入設置
-command.veinminer.help10='help': 顯示幫助菜單
+command.veinminer.help8='saveconfig': 保存設置到設定文件
+command.veinminer.help9='reloadconfig': 從設定文件載入設置
+command.veinminer.help10='help': 顯示幫助選單
 command.veinminer.help.enable1=可選模式:
-command.veinminer.help.enable2='auto': 熱鍵模式 (伺服端: 當客戶端沒有本模組時無效)
+command.veinminer.help.enable2='auto': 快速鍵模式 (伺服端: 當用戶端沒有本模組時無效)
 command.veinminer.help.enable3='sneak': 潛行模式
 command.veinminer.help.enable4='no_sneak': 非潛行模式
 
@@ -74,8 +74,8 @@ command.veinminer.help.enable4='no_sneak': 非潛行模式
 gui.veinminer.back=返回
 gui.veinminer.config=連鎖挖礦選項
 gui.veinminer.config.disabled=已禁用
-gui.veinminer.config.pressed=按下熱鍵時
-gui.veinminer.config.released=放開熱鍵時
+gui.veinminer.config.pressed=按下快速鍵時
+gui.veinminer.config.released=放開快速鍵時
 gui.veinminer.config.sneak=潛行時
 gui.veinminer.config.nosneak=非潛行時
 gui.veinminer.config.enable.text=已啟用連鎖挖礦:
@@ -86,8 +86,8 @@ gui.veinminer.config.toolTypes=工具類型
 gui.veinminer.config.blocklist=方塊列表
 gui.veinminer.config.toollist=工具列表
 gui.veinminer.config.multiplayer1=您正在使用多人遊戲。
-gui.veinminer.config.multiplayer2=使用/ veinminer命令配置伺服器。
-gui.veinminer.config.multiplayer3=從主菜單配置單個玩家。
+gui.veinminer.config.multiplayer2=使用/ veinminer命令設定伺服器。
+gui.veinminer.config.multiplayer3=從主選單設定單個玩家。
 gui.veinminer.config.multiplayer4=（或在單人遊戲中）
 ggui.veinminer.unknown=<Unknown>
 gui.veinminer.item.delete=從列表中刪除

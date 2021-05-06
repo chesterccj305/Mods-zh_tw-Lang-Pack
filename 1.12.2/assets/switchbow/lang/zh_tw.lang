@@ -1,4 +1,4 @@
-itemGroup.tabCreativTabSwitchbow=終界弓模組
+﻿itemGroup.tabCreativTabSwitchbow=終界弓模組
 
 tile.ArrowDispenser.name=射箭器
 tile.Podest.name=附魔基座
@@ -24,7 +24,7 @@ item.ArrowDiamond.name=加強箭矢
 item.ArrowLove.name=愛之箭矢
 item.ArrowFire.name=火焰箭矢
 item.ArrowBone.name=骨粉箭矢
-item.ArrowFirework.name=煙花箭矢
+item.ArrowFirework.name=煙火箭矢
 item.ArrowSplitLove.name=愛之箭矢（AOE）
 item.ArrowLuck.name=幸運箭矢
 item.ArrowRedstone.name=紅石箭矢
@@ -58,8 +58,8 @@ enchantment.cooldownReduce=快速填裝
 tooltips.inventory=儲存：
 
 category.switchbow=終界弓模組
-key.switchbow.switchup=下一支箭矢
-key.switchbow.switchdown=上一支箭矢
+key.switchbow.switchup=下一枝箭矢
+key.switchbow.switchdown=上一枝箭矢
 
 achievement.startswitchbow=終界弓
 achievement.startswitchbow.desc=被神秘閃爍包裹之弓。

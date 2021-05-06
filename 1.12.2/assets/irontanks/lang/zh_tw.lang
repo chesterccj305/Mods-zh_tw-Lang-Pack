@@ -1,4 +1,4 @@
-irontanks.tooltip.capacity=持有%s個桶
+﻿irontanks.tooltip.capacity=持有%s個桶
 irontanks.tooltip.creative_tank=能夠無限提供流體
 irontanks.tooltip.void_tank=銷毀流體
 item.irontanks.copper_iron_upgrade.name=儲罐升級：銅>鐵

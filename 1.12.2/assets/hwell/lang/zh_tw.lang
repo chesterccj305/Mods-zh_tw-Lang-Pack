@@ -1,4 +1,4 @@
-item.hwell.dust.name=石粉
+﻿item.hwell.dust.name=石粉
 item.hwell.myst_dust.name=神秘粉
 item.hwell.myst_fertilizer.name=神秘肥料
 item.hwell.heavy_mesh.name=未燒製的混合錠
@@ -56,8 +56,8 @@ item.hwell.soulsteel_ingot.name=靈魂鋼錠
 item.hwell.asul_ingot.name=Asul合金錠
 item.hwell.asul_nugget.name=一小撮Asul合金粉
 item.hwell.soul_dust.name=靈魂粉
-item.hwell.raw_repairing_paste.name=未燒製的修複膏
-item.hwell.repairing_paste.name=修複膏
+item.hwell.raw_repairing_paste.name=未燒製的修復膏
+item.hwell.repairing_paste.name=修復膏
 item.hwell.seed_of_life.name=生命之種
 item.hwell.seed_of_the_nether.name=地獄之種
 item.hwell.seed_of_the_end.name=終界之種

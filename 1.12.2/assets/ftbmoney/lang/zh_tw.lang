@@ -1,10 +1,10 @@
-sidebar_button.ftbmoney.shop=商店
+﻿sidebar_button.ftbmoney.shop=商店
 key.ftbmoney.shop=打開商店
 ftbmoney.balance=餘額
 ftbmoney.buy=購買
 ftbmoney.sell=出售
 ftbmoney.shop.tab.title=標題
-ftbmoney.shop.tab.icon=圖標
+ftbmoney.shop.tab.icon=圖示
 ftbmoney.shop.tab.lock=鎖定
 ftbmoney.shop.tab.sort=分類
 ftbmoney.shop.tab.sort.price_h_l=價格從高到低

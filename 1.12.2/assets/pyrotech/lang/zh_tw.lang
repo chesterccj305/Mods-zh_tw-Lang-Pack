@@ -1,4 +1,4 @@
-itemGroup.pyrotech=火種科技
+﻿itemGroup.pyrotech=火種科技
 
 #------------------------------------------------------------------------------
 # Module: Bucket
@@ -23,7 +23,7 @@ item.pyrotech.bucket.wood.milk.name=木牛奶桶
 
 item.pyrotech.bow.drill.name=弓鑽
 item.pyrotech.flint.and.tinder.name=燧石和火絨
-item.pyrotech.matchstick.name=火柴棍
+item.pyrotech.matchstick.name=火柴棒
 
 tile.pyrotech.igniter.stone.name=石點火器
 tile.pyrotech.igniter.brick.name=耐火磚點火器
@@ -56,8 +56,8 @@ item.pyrotech.tinder.name=火絨
 
 tile.pyrotech.kiln_pit.name=坑窯
 tile.pyrotech.campfire.name=篝火
-tile.pyrotech.drying_rack.crude.name=簡陋的晾乾架
-tile.pyrotech.drying_rack.normal.name=晾乾架
+tile.pyrotech.drying_rack.crude.name=簡陋的晾幹架
+tile.pyrotech.drying_rack.normal.name=晾幹架
 tile.pyrotech.chopping_block.name=砧板
 tile.pyrotech.anvil_granite.name=花崗岩砧
 tile.pyrotech.anvil_iron_plated.name=複合砧
@@ -248,7 +248,7 @@ tile.pyrotech.refractory_glass.name=耐火玻璃
 tile.pyrotech.slag_glass.name=爐渣玻璃
 tile.pyrotech.fossil_ore.name=化石礦
 tile.pyrotech.dense_coal_ore.name=緻密煤礦
-tile.pyrotech.dense_nether_coal_ore.name=下界緻密煤礦
+tile.pyrotech.dense_nether_coal_ore.name=地獄緻密煤礦
 tile.pyrotech.cobblestone.andesite.name=碎安山岩
 tile.pyrotech.cobblestone.diorite.name=碎閃長岩
 tile.pyrotech.cobblestone.granite.name=碎花崗岩
@@ -380,7 +380,7 @@ gui.pyrotech.jei.category.wither.forge=凋零鍛造爐
 
 gui.pyrotech.jei.info.campfire=要搭建篝火，需先將火絨放在地面，再添加木頭，最後點燃它。
 gui.pyrotech.jei.info.pit.kiln=要使用坑窯，需先在地上挖個洞然後把坑窯放進去。接下來將想要加工的物品放在坑窯上，再放上一個稻草方塊和三個木頭。最後，點燃坑窯並確保燃燒時保持乾燥！
-gui.pyrotech.jei.info.burn=填坑焚燒的步驟：將方塊放入坑內並用完整、不可燃的方塊包裹，只留上面見光。接下來點燃方塊并快速蓋住洞。當坑上停止冒煙時，說明焚燒已經結束。在方塊下方放置收集器可以收集產生的流體。
+gui.pyrotech.jei.info.burn=填坑焚燒的步驟：將方塊放入坑內並用完整、不可燃的方塊包裹，只留上面見光。接下來點燃方塊並快速蓋住洞。當坑上停止冒煙時，說明焚燒已經結束。在方塊下方放置收集器可以收集產生的流體。
 gui.pyrotech.jei.info.refractory=耐火磚焚燒與填坑焚燒類似，但燃燒方塊必須完全被有效的耐火磚塊包裹。在方塊下方放置有效的耐火收集器可以收集產生的流體。
 
 #------------------------------------------------------------------------------
@@ -449,14 +449,14 @@ advancement.pyrotech.bloomery=鍛造爐
 advancement.pyrotech.bloomery.desc=製作鍛造爐
 advancement.pyrotech.iron.ingot=鐵錠
 advancement.pyrotech.iron.ingot.desc=製作鐵錠
-advancement.pyrotech.crafting.table=工作台
-advancement.pyrotech.crafting.table.desc=製作工作台
+advancement.pyrotech.crafting.table=工作檯
+advancement.pyrotech.crafting.table.desc=製作工作檯
 advancement.pyrotech.brick.machines=改進設備
 advancement.pyrotech.brick.machines.desc=製作所有的耐火燃燒設備
 advancement.pyrotech.furnace=熔爐
 advancement.pyrotech.furnace.desc=製作熔爐
-advancement.pyrotech.nether=恐怖的下界
-advancement.pyrotech.nether.desc=搭建、點亮並進入下界傳送門
+advancement.pyrotech.nether=恐怖的地獄
+advancement.pyrotech.nether.desc=搭建、點亮並進入地獄傳送門
 advancement.pyrotech.wither.forge=罪惡鍛造
 advancement.pyrotech.wither.forge.desc=製作凋零鍛造爐
 advancement.pyrotech.tools.obsidian=黑曜石鎬
@@ -467,9 +467,8 @@ advancement.pyrotech.tools.obsidian.desc=製作黑曜石鎬
 # Misc
 #------------------------------------------------------------------------------
 
-gui.pyrotech.disconnect.module.mismatch=於客戶端啟用的模塊與服務端不匹配。服務端需要：%s。
+gui.pyrotech.disconnect.module.mismatch=於用戶端啟用的模組與服務端不匹配。服務端需要：%s。
 
 gui.pyrotech.restart=[火種科技] 請重啟遊戲。
 gui.pyrotech.missing.wood.compat=[火種科技] 生成的木頭配方將在下次遊戲啟動生效。
 gui.pyrotech.missing.ore.compat=[火種科技] 生成的礦石配方將在下次遊戲啟動生效。
-

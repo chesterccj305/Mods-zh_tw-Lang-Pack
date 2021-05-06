@@ -1,4 +1,4 @@
-modifier.informations=資訊
+﻿modifier.informations=資訊
 
 material.basalt.name=玄武岩
 material.dilithium.name=二鋰
@@ -342,7 +342,7 @@ modifier.mutate.desc=§o有一些使用上的風險。§r\n至少他不是不穩
 modifier.reviving.name=復活
 modifier.reviving.desc=§o請殺了他！§r\n他們像殭屍般的復活！
 modifier.melting.name=熔化
-modifier.melting.desc=§o爆幹熱！§r\n用熔岩將方塊熔下！
+modifier.melting.desc=§o爆乾熱！§r\n用熔岩將方塊熔下！
 modifier.cursed.name=詛咒
 modifier.cursed.desc=§o我感到不舒服！§r\n殺越多敵人， 越容易有機率得到隨機的痛苦。
 modifier.superheavy.name=超級重

@@ -1,4 +1,4 @@
-itemGroup.tesla_core_lib=特斯拉核心
+﻿itemGroup.tesla_core_lib=特斯拉核心
 
 item.teslacorelib.gear_wood.name=木齒輪
 item.teslacorelib.gear_stone.name=石齒輪
@@ -50,9 +50,9 @@ item.teslacorelib.powder_magnesium.name=鎂粉
 item.teslacorelib.powder_manganese.name=錳粉
 item.teslacorelib.powder_nichrome.name=鎳鉻粉
 item.teslacorelib.powder_osmium.name=鋨粉
-item.teslacorelib.powder_plutonium.name=鈈粉
+item.teslacorelib.powder_plutonium.name=鈽粉
 item.teslacorelib.powder_rutile.name=金紅石粉
-item.teslacorelib.powder_stainless_steel.name=不銹鋼粉
+item.teslacorelib.powder_stainless_steel.name=不鏽鋼粉
 item.teslacorelib.powder_tantalum.name=鉭粉
 item.teslacorelib.powder_titanium.name=鈦粉
 item.teslacorelib.powder_tungsten.name=鎢粉

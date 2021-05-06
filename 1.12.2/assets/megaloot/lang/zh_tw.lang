@@ -1,4 +1,4 @@
-container.disenchanter.title=錘煉台
+﻿container.disenchanter.title=錘煉台
 container.evolution_chamber.title=寶箱鍛造器
 container.skin_table.title=外觀改變器
 item.armor_boots.dragon.name=龍靴子
@@ -78,7 +78,7 @@ weaponeffect.magnetic.description=磁力
 weaponeffect.magnetic.name=磁力
 weaponeffect.multi.description=多功能工具
 weaponeffect.multi.name=多工具
-weaponeffect.multishot.description=發射 %2$s 支箭
+weaponeffect.multishot.description=發射 %2$s 枝箭
 weaponeffect.multishot.name=萬箭齊發
 weaponeffect.night_vision.description=夜視狀態
 weaponeffect.night_vision.name=夜視

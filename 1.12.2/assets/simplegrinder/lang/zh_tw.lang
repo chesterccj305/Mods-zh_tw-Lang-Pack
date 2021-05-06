@@ -1,4 +1,4 @@
-#NEI
+﻿#NEI
 nei.recipe.coalgrinder=研磨
 #CreativeTabs
 itemGroup.simplegrinder=簡易研磨機
@@ -11,11 +11,11 @@ container.grinder=燃煤研磨機
 tile.coal_grinder.name=燃煤研磨機
 tile.machine_core.name=機器核心
 #Item
-item.mash_potato.name=土豆泥
-item.mash_carrot.name=胡蘿卜泥
+item.mash_potato.name=馬鈴薯泥
+item.mash_carrot.name=胡蘿蔔泥
 item.dust_iron.name=鐵粉
 item.dust_gold.name=金粉
-item.flour.name=面粉
+item.flour.name=麵粉
 item.i_fuel.name=高級燃料
 item.wood_chips.name=碎木片
 item.omlete.name=雞蛋餅

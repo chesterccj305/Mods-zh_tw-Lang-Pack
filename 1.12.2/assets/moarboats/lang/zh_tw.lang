@@ -1,8 +1,8 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 inventory.chest.name=箱子
 inventory.furnace_engine.name=熔爐引擎
 item.rope.name=拖繩
-item.modular_boat.name=模塊化船
+item.modular_boat.name=模組化船
 item.rope.notToSelf=你不能把船連接至本體！
 item.rope.backOccupied=無法後退
 item.rope.frontOccupied=無法往前
@@ -10,15 +10,15 @@ item.helm.name=船舵
 gui.engine.remainingCurrent=剩餘運行時間
 gui.engine.estimatedTime=預計運行時間
 gui.engine.lock=鎖定到位
-itemGroup.moarboats=模塊化船
+itemGroup.moarboats=模組化船
 
 # 1.2.0
-inventory.fishing.name=釣魚模塊
+inventory.fishing.name=釣魚模組
 gui.fishing.missingStorage=缺少儲存空間！
 item.rope.description=先選擇鏈中的後一條船, 然後選擇之前所述鏈中的前一條船!
 item.seat.name=船座
 inventory.seat.name=船座
-gui.seat.nothingToDo=無需配置！
+gui.seat.nothingToDo=無需設定！
 gui.seat.enjoy=坐下來享受騎行吧！
 item.seat.description=用空手點擊坐下！
 gui.engine.lockedByRedstone=被紅石鎖定！
@@ -29,7 +29,7 @@ gui.anchor.deploy=部署錨點
 gui.anchor.deployed=帶回錨
 gui.anchor.moving=船錨移動中，等一會……
 gui.anchor.spawnPointSet=出生點設置！
-inventory.anchor.name=錨模塊
+inventory.anchor.name=錨模組
 
 # 1.3.0
 inventory.solar_engine.name=太陽能引擎
@@ -48,7 +48,7 @@ general.spot.navigation=控制航向
 
 item.icebreaker.name=破冰器
 inventory.icebreaker.name=破冰器
-inventory.sonar.name=聲納模塊
+inventory.sonar.name=聲納模組
 
 gui.dispenser.bottom_row=底部
 gui.dispenser.middle_row=中間
@@ -102,7 +102,7 @@ moarboats.tile.waterborne_comparator.description=可浮性的增加，使得該�
 item.waterborne_comparator.name=漂浮比較器
 
 moarboats.tank_level=%1$s / %2$s mB 的 %3$s
-moarboats.only_usable_on_boat=僅適用於船只
+moarboats.only_usable_on_boat=僅適用於船隻
 
 # 4.0.0.0
 moarboats.item_path.description=%s 路徑點
@@ -140,10 +140,10 @@ moarboats.gui.rudder.blocking=阻斷引擎
 moarboats.gui.rudder.nonblocking=不阻斷引擎
 
 # Config
-moarboats.chunkloader=區塊載入模塊
-moarboats.dispensermodule=分配器模塊
-moarboats.fluidunloader=流體卸載模塊
-moarboats.fluidloader=流體裝載模塊
+moarboats.chunkloader=區塊載入模組
+moarboats.dispensermodule=分配器模組
+moarboats.fluidunloader=流體卸載模組
+moarboats.fluidloader=流體裝載模組
 moarboats.fluidtank=流體儲罐
 moarboats.energyloader=充電器
 moarboats.energyunloader=防電器
@@ -157,7 +157,7 @@ moarboats.fishing.speedmultiplier=速度倍率
 moarboats.fishing.remainingusesbeforeremoval=移除之前剩餘使用次數
 
 # 4.1.0.0
-item.opencomputers_holder.name=開放式電腦模塊
+item.opencomputers_holder.name=開放式電腦模組
 
 # 4.1.2.0
 gui.path_editor.path_properties.reverse_course=反向課程結束
@@ -165,7 +165,7 @@ inventory.oar_engine.name=槳
 item.oars.name=槳
 
 # 4.1.2.1
-entity.moarboats.modular_boat.name=模塊化船
+entity.moarboats.modular_boat.name=模組化船
 entity.moarboats.animal_boat.name=動物船
 
 item.cargo_stopper.name=漂浮壓力器

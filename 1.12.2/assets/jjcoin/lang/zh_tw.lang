@@ -1,4 +1,4 @@
-#KEYBINDING
+﻿#KEYBINDING
 category.jjcoin=JJ幣
 #BLOCK
 tile.coffer.name=保險箱
@@ -30,6 +30,4 @@ command.coin_error=錯誤的命令。使用/硬幣正確使用
 command.coin_your_balance=您的保險箱裡的硬幣總數:
 command.coin_balance_player=玩家保險箱中的硬幣總數:
 command.coin_coffer=您的保險箱位於坐標處:
-command.coin_player_not_fond=請求的玩家不存在或不在線
-
-
+command.coin_player_not_fond=請求的玩家不存在或不在線上

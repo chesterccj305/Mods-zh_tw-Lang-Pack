@@ -1,4 +1,4 @@
-#zh_TW
+﻿#zh_TW
 
 gui.thermalexpansion.device.factorizer.modeCombine=模式：合併
 gui.thermalexpansion.device.factorizer.modeSplit=模式：分割
@@ -9,10 +9,10 @@ gui.thermalexpansion.device.item_buffer.incInput=按一下使輸入量增加
 gui.thermalexpansion.device.item_buffer.incOutput=按一下使輸出量增加
 
 gui.thermalexpansion.device.mob_catcher.modeAll=捕獲全部生物
-gui.thermalexpansion.device.mob_catcher.modeFriendly=只捕獲被動生物
-gui.thermalexpansion.device.mob_catcher.modeHostile=只捕獲敵對生物
+gui.thermalexpansion.device.mob_catcher.modeFriendly=隻捕獲被動生物
+gui.thermalexpansion.device.mob_catcher.modeHostile=隻捕獲敵對生物
 
-gui.thermalexpansion.jei.centrifuge.mobChance=基礎概率
+gui.thermalexpansion.jei.centrifuge.mobChance=基礎機率
 gui.thermalexpansion.jei.centrifuge.mobNotice=最多只能輸出顯示的數量。
 gui.thermalexpansion.jei.factorizer.modeCombine=結合
 gui.thermalexpansion.jei.factorizer.modeSplit=分割
@@ -104,7 +104,7 @@ info.thermalexpansion.augment.machineBrewerReagent.b.0=運行時的功耗也會�
 info.thermalexpansion.augment.machineCentrifugeMobs.0=離心機：模擬刀具
 info.thermalexpansion.augment.machineCentrifugeMobs.a.0=可以加工生物球。
 info.thermalexpansion.augment.machineCentrifugeMobs.a.1=可以用生物球從它捕捉的生物中提取出掉落物。
-info.thermalexpansion.augment.machineCentrifugeMobs.b.0=只能“加工”生物球。
+info.thermalexpansion.augment.machineCentrifugeMobs.b.0=隻能“加工”生物球。
 info.thermalexpansion.augment.machineCentrifugeMobs.c.0=並不能支持一切生物。
 
 info.thermalexpansion.augment.machineChargerRepair.0=能量灌注機：通量修復
@@ -131,11 +131,11 @@ info.thermalexpansion.augment.machineCompactorGear.a.0=允許高效地製作齒�
 info.thermalexpansion.augment.machineCompactorGear.a.1=齒輪可以用於不少用途。
 info.thermalexpansion.augment.machineCompactorGear.c.0=機器不會製造板材.
 
-info.thermalexpansion.augment.machineCrafterInput.0=循環裝配台：智能輸入
-info.thermalexpansion.augment.machineCrafterInput.a.0=添加智能自動輸入容器。
+info.thermalexpansion.augment.machineCrafterInput.0=循環裝配台：智慧輸入
+info.thermalexpansion.augment.machineCrafterInput.a.0=添加智慧自動輸入容器。
 info.thermalexpansion.augment.machineCrafterInput.c.0=每個合成格子會被指派兩個容器槽。
 
-info.thermalexpansion.augment.machineCrafterTank.0=循環裝配台：液體緩存
+info.thermalexpansion.augment.machineCrafterTank.0=循環裝配台：液體快取
 info.thermalexpansion.augment.machineCrafterTank.a.0=為機器添加了液體儲存槽。
 info.thermalexpansion.augment.machineCrafterTank.a.1=槽中的液體可以用於那些涉及流體的合成。
 info.thermalexpansion.augment.machineCrafterTank.c.0=並不能支持所有合成。
@@ -178,7 +178,7 @@ info.thermalexpansion.augment.machineInsolatorFertilizer.a.0=有機率不消耗�
 info.thermalexpansion.augment.machineInsolatorFertilizer.b.0=工作時需要消耗更多能量。
 
 info.thermalexpansion.augment.machineInsolatorMonoculture.0=有機灌注器：種子循環
-info.thermalexpansion.augment.machineInsolatorMonoculture.a.0=非肥料的輸入將不被消耗，優化自動化。
+info.thermalexpansion.augment.machineInsolatorMonoculture.a.0=非肥料的輸入將不被消耗，最佳化自動化。
 info.thermalexpansion.augment.machineInsolatorMonoculture.a.1=也有小機率不消耗肥料。
 info.thermalexpansion.augment.machineInsolatorMonoculture.b.0=工作時需要消耗更多能量。
 info.thermalexpansion.augment.machineInsolatorMonoculture.b.1=同時副產產出率相當降低。
@@ -225,7 +225,7 @@ info.thermalexpansion.augment.machineSecondaryNull.a.0=銷毀全部副產物。
 info.thermalexpansion.augment.machineSecondaryNull.b.0=這不是玩笑。這是事實。沒有副產了。
 
 info.thermalexpansion.augment.machineSmelterFlux.0=感應爐：爐渣催化
-info.thermalexpansion.augment.machineSmelterFlux.a.0=一定概率不消耗爐渣。
+info.thermalexpansion.augment.machineSmelterFlux.a.0=一定機率不消耗爐渣。
 info.thermalexpansion.augment.machineSmelterFlux.b.0=需要額外能量運轉。
 
 info.thermalexpansion.augment.machineSmelterPyrotheum.0=感應爐：火煉真金
@@ -323,7 +323,7 @@ info.thermalexpansion.reservoir.d.2=重新裝填設備
 
 info.thermalexpansion.satchel.a.0=收集並儲存物品，可以加鎖。
 info.thermalexpansion.satchel.a.1=在物品欄中使用，潛行將物品輸入。
-info.thermalexpansion.satchel.a.2=潛行右擊使用以配置。
+info.thermalexpansion.satchel.a.2=潛行右擊使用以設定。
 info.thermalexpansion.satchel.a.c=儲存無限量單種物品，可加鎖。
 info.thermalexpansion.satchel.a.v=將物品歸於虛無，可以加鎖。
 info.thermalexpansion.satchel.b.0=§b按下（%s）開啟自動收集。 §r
@@ -458,18 +458,18 @@ tab.thermalexpansion.device.heat_sink.2=不同的冷卻劑有不同的冷卻效�
 tab.thermalexpansion.device.item_buffer.0=儲存傳輸物品。能自動提取。
 tab.thermalexpansion.device.item_buffer.1=真的比漏斗更好用！
 tab.thermalexpansion.device.item_buffer.2=按下 Shift 或者 Ctrl 調整流量。
-tab.thermalexpansion.device.item_buffer.3=空手潛行右擊來配置過濾。
-tab.thermalexpansion.device.item_buffer_filter.0=配置哪些些物品是這個方塊允許的。
+tab.thermalexpansion.device.item_buffer.3=空手潛行右擊來設定過濾。
+tab.thermalexpansion.device.item_buffer_filter.0=設定哪些些物品是這個方塊允許的。
 tab.thermalexpansion.device.item_buffer_filter.1=看見了？這比一個漏斗好。
 tab.thermalexpansion.device.item_collector.0=在臨近的區域裡撿起物品。
-tab.thermalexpansion.device.item_collector.1=可以配置以限制它要撿起什麼東西。
+tab.thermalexpansion.device.item_collector.1=可以設定以限制它要撿起什麼東西。
 tab.thermalexpansion.device.item_collector.2=是的，這個方塊很爛。
-tab.thermalexpansion.device.item_collector.3=空手潛行右擊來配置過濾。
-tab.thermalexpansion.device.item_collector_filter.0=配置哪些物品是這個方塊要撿起的。
+tab.thermalexpansion.device.item_collector.3=空手潛行右擊來設定過濾。
+tab.thermalexpansion.device.item_collector_filter.0=設定哪些物品是這個方塊要撿起的。
 tab.thermalexpansion.device.item_collector_filter.1=技術層面上，這也不完全很爛。
 tab.thermalexpansion.device.lexicon.0=轉換相同礦物詞典的物品。
-tab.thermalexpansion.device.lexicon.1=在轉換格子中按照次序排列物品可以設定優先級。
-tab.thermalexpansion.device.lexicon.2=物品會按照優先級高的進行轉換。
+tab.thermalexpansion.device.lexicon.1=在轉換格子中按照次序排列物品可以設定優先度。
+tab.thermalexpansion.device.lexicon.2=物品會按照優先度高的進行轉換。
 tab.thermalexpansion.device.mob_catcher.0=使用生物球捕捉附近的怪物。
 tab.thermalexpansion.device.mob_catcher.1=點擊按鈕更改捕捉偏好。
 tab.thermalexpansion.device.mob_catcher.2=需要把他們全都抓到！
@@ -485,21 +485,21 @@ tab.thermalexpansion.device.xp_collector.0=收集附近一定區域的經驗球�
 tab.thermalexpansion.device.xp_collector.1=經驗會被轉換成一種通用的流體形式。
 tab.thermalexpansion.device.xp_collector.2=某些催化劑能夠提升產量。
 
-tab.thermalexpansion.dynamo.0=能量产生随能量需求变化而变化。
-tab.thermalexpansion.dynamo.compression.0=使用流体燃料产生红石通量。
-tab.thermalexpansion.dynamo.compression.1=更高的冷却剂使效率更高.
-tab.thermalexpansion.dynamo.enervation.0=直接从天然物质或RF容器中提取红石通量。
-tab.thermalexpansion.dynamo.magmatic.0=使用高温流体生产红石通量。
-tab.thermalexpansion.dynamo.numismatic.0=借助套利产生红石通量。
-tab.thermalexpansion.dynamo.numismatic.1=可能是把吝啬鬼送到另一个世界的门路。
-tab.thermalexpansion.dynamo.numismatic.2=别想啦，赶紧投币吧。
-tab.thermalexpansion.dynamo.reactant.0=借助炼金术（原文如此）生产红石通量。
-tab.thermalexpansion.dynamo.reactant.1=需要提供固体反应物和流体燃料。
-tab.thermalexpansion.dynamo.steam.0=使用蒸汽生产红石通量。
-tab.thermalexpansion.dynamo.steam.1=固体燃料和水能被用于生产蒸汽。
+tab.thermalexpansion.dynamo.0=能量產生隨能量需求變化而變化。
+tab.thermalexpansion.dynamo.compression.0=使用流體燃料產生紅石通量。
+tab.thermalexpansion.dynamo.compression.1=更高的冷卻劑使效率更高.
+tab.thermalexpansion.dynamo.enervation.0=直接從天然物質或RF容器中提取紅石通量。
+tab.thermalexpansion.dynamo.magmatic.0=使用高溫流體生產紅石通量。
+tab.thermalexpansion.dynamo.numismatic.0=借助套利產生紅石通量。
+tab.thermalexpansion.dynamo.numismatic.1=可能是把吝嗇鬼送到另一個世界的門路。
+tab.thermalexpansion.dynamo.numismatic.2=別想啦，趕緊投幣吧。
+tab.thermalexpansion.dynamo.reactant.0=借助鍊金術（原文如此）生產紅石通量。
+tab.thermalexpansion.dynamo.reactant.1=需要提供固體反應物和流體燃料。
+tab.thermalexpansion.dynamo.steam.0=使用蒸汽生產紅石通量。
+tab.thermalexpansion.dynamo.steam.1=固體燃料和水能被用於生產蒸汽。
 
 tab.thermalexpansion.machine.brewer.0=釀造藥水，浸泡流體。
-tab.thermalexpansion.machine.brewer.1=你可能需要放一排這玩意。
+tab.thermalexpansion.machine.brewer.1=你可能需要放一排這東西。
 tab.thermalexpansion.machine.brewer.2=不含玻璃瓶。
 tab.thermalexpansion.machine.centrifuge.0=將物品分解成其組分。
 tab.thermalexpansion.machine.centrifuge.1=一些物品會被分解成流體。
@@ -563,9 +563,9 @@ tab.thermalexpansion.storage.satchel.1=不會攜帶某些“對象”。
 
 tab.thermalexpansion.storage.satchel_c.0=這應該是個背包吧，它可以無限產出你放進去的東西。
 tab.thermalexpansion.storage.satchel_c.1=不會攜帶某些“對象”。
-tab.thermalexpansion.storage.satchel_c.2=在生存模式下使用這玩意可不是很聰明。
+tab.thermalexpansion.storage.satchel_c.2=在生存模式下使用這東西可不是很聰明。
 
-tab.thermalexpansion.storage.satchel_filter.0=配置背包可以自動撿起哪些物品。
+tab.thermalexpansion.storage.satchel_filter.0=設定背包可以自動撿起哪些物品。
 tab.thermalexpansion.storage.satchel_filter.1=回收你的物品欄！
 
 tab.thermalexpansion.storage.satchel_v.0=這應該是個背包吧，它可以清空你放進去的東西。
@@ -580,7 +580,7 @@ tab.thermalexpansion.storage.tank.1=可以自動從底面輸出。
 tile.thermalexpansion.apparatus.breaker.name=方塊破壞器
 tile.thermalexpansion.apparatus.collector.name=物品採集器
 
-tile.thermalexpansion.device.diffuser.name=藥水霧化器
+tile.thermalexpansion.device.diffuser.name=藥水噴霧器
 tile.thermalexpansion.device.factorizer.name=公式處理器
 tile.thermalexpansion.device.fisher.name=水產捕撈器
 tile.thermalexpansion.device.fluid_buffer.name=流體分配器

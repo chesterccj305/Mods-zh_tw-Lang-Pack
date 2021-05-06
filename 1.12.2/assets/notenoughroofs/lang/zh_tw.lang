@@ -1,4 +1,4 @@
-#Items
+﻿#Items
 
 item.terracotta.name=赤陶
 item.slate_brick.name=板岩磚頭
@@ -392,8 +392,8 @@ tile.slate_tiles_cobblestone_mossy.name=板岩屋頂-青苔鵝卵石基底
 tile.slate_tiles_conn_cobblestone_mossy.name=板岩屋脊-青苔鵝卵石基底
 tile.slate_tiles_diamond_block.name=板岩屋頂-鑽石塊基底
 tile.slate_tiles_conn_diamond_block.name=板岩屋脊-鑽石塊基底
-tile.slate_tiles_dirt.name=板岩屋頂-泥制基底
-tile.slate_tiles_conn_dirt.name=板岩屋脊-泥制基底
+tile.slate_tiles_dirt.name=板岩屋頂-泥製基底
+tile.slate_tiles_conn_dirt.name=板岩屋脊-泥製基底
 tile.slate_tiles_dirt_podzol_side.name=板岩屋頂-灰壤基底
 tile.slate_tiles_conn_dirt_podzol_side.name=板岩屋脊-灰壤基底
 tile.slate_tiles_emerald_block.name=板岩屋頂-綠寶石基底
@@ -572,8 +572,8 @@ tile.terracotta_cobblestone_mossy.name=陶製屋頂-青苔鵝卵石基底
 tile.terracotta_conn_cobblestone_mossy.name=陶製屋脊-青苔鵝卵石基底
 tile.terracotta_diamond_block.name=陶製屋頂-鑽石塊基底
 tile.terracotta_conn_diamond_block.name=陶製屋脊-鑽石塊基底
-tile.terracotta_dirt.name=陶製屋頂-泥制基底
-tile.terracotta_conn_dirt.name=陶製屋脊-泥制基底
+tile.terracotta_dirt.name=陶製屋頂-泥製基底
+tile.terracotta_conn_dirt.name=陶製屋脊-泥製基底
 tile.terracotta_dirt_podzol_side.name=陶製屋頂-灰壤基底
 tile.terracotta_conn_dirt_podzol_side.name=陶製屋脊-灰壤基底
 tile.terracotta_emerald_block.name=陶製屋頂-綠寶石基底

@@ -1,4 +1,4 @@
-#Creative Tab
+﻿#Creative Tab
 itemGroup.redstonerepository.creativeTab=紅石軍械庫
 
 #Items
@@ -9,7 +9,7 @@ item.redstonerepository.material.ingotGelidEnderium.name=極寒終界錠
 item.redstonerepository.material.nuggetGelidEnderium.name=極寒終界粒
 item.redstonerepository.material.plateGelidEnderium.name=極寒終界板
 item.redstonerepository.material.plateArmorGelidEnderium.name=極寒護甲防護板
-item.redstonerepository.material.rodGelid.name=極寒黑曜石手柄
+item.redstonerepository.material.rodGelid.name=極寒黑曜石手把
 item.redstonerepository.material.stringFluxed.name=充能紅石線
 
 tile.redstonerepository.storage.blockGelidEnderium.name=極寒終界塊
@@ -19,7 +19,7 @@ item.redstonerepository.bauble.feeder.name=自動餵食腰帶
 item.redstonerepository.bauble.ring.effect.name=藥水停頓戒指
 item.redstonerepository.bauble.ring.base.name=空白戒指
 item.redstonerepository.bauble.ring.mining.name=飛行破壞戒指
-item.redstonerepository.bauble.capacitor.gelid.name=便攜式極寒電容
+item.redstonerepository.bauble.capacitor.gelid.name=攜帶式極寒電容
 
 #Tools
 item.redstonerepository.tool.enderium.gelid.axe.name=極寒終界斧
@@ -40,7 +40,7 @@ info.redstonerepository.capacitor.title=啟用可為你背包中的物品充能�
 info.redstonerepository.feeder.title=啟用可為你提供飽食度回覆，必須裝備在飾品欄以生效
 info.redstonerepository.feeder.short=裝備在飾品欄自動餵食
 info.redstonerepository.hungerPoints=儲存飽食度
-info.redstonerepository.ring.effect.title=啟用可為你凍結當前所有藥水狀態，啟用時無法獲得新的效果
+info.redstonerepository.ring.effect.title=啟用可為你凍結目前所有藥水狀態，啟用時無法獲得新的效果
 info.redstonerepository.ring.mining.title=在空中採礦速度不會減慢
 
 #Equipment Tooltip Various
@@ -81,4 +81,4 @@ info.redstonerepository.console.recipes.remove.vanilla.armor=原版護甲
 info.redstonerepository.console.compat.thermalexpansion=啟用與ThermalExpansion（熱力膨脹）的相容
 
 #Config
-config.redstonerepository.title=RedstoneRepository配置
+config.redstonerepository.title=RedstoneRepository設定

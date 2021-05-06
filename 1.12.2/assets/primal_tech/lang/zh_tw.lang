@@ -1,4 +1,4 @@
-item.primal_tech.bone_axe.name=骨斧
+﻿item.primal_tech.bone_axe.name=骨斧
 item.primal_tech.bone_club.name=骨棒
 item.primal_tech.bone_knife.name=骨刀
 item.primal_tech.bone_pickaxe.name=骨鎬
@@ -39,7 +39,7 @@ tooltip.clubs=最原始的多用途工具，用於破壞方塊與擊碎頭骨。
 tooltip.fire_sticks_1=雙手分別持握並右擊一個方塊。
 tooltip.fire_sticks_2=便能在指向的方塊上點火。為一次性消耗品。
 tooltip.leaf_bed=一經破壞便無法回收。
-tooltip.mallet_1=用來敲擊石砧。只是一塊綁在木棍上的精制石頭而已。
+tooltip.mallet_1=用來敲擊石砧。只是一塊綁在木棍上的精製石頭而已。
 tooltip.stick_bundle=用原版的木棍右擊直至其被點燃。
 tooltip.stone_anvil=在其上放置物品，並使用石槌擊打。
 tooltip.stone_grill=小容量的爐子，需要在下方燃起火焰才會工作。

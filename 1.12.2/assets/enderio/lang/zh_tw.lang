@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 # ^ having this in the first line allows us to use "\uXXXX" escapes in this file
 
 #***  Ender IO *****#
@@ -83,7 +83,7 @@ item.item_conduit_probe.name=導管探測器
 item.item_conduit_probe.tooltip.detailed.line1=探測模式下對導管右鍵
 item.item_conduit_probe.tooltip.detailed.line2=顯示其網路的詳情
 item.item_conduit_probe.tooltip.detailed.line3=複製/貼上模式下 Shift 右鍵
-item.item_conduit_probe.tooltip.detailed.line4=複製導管的連接設定
+item.item_conduit_probe.tooltip.detailed.line4=複制導管的連接設定
 item.item_conduit_probe.tooltip.detailed.line5=右鍵以貼上
 item.item_conduit_probe.tooltip.detailed.line6=使用 Shift 加滑鼠滾輪或Y鍵切換模式
 
@@ -192,7 +192,7 @@ item.item_ender_food.enderios.tooltip.common.line1=均衡早餐的一部分！
 item.item_ender_food.enderios.tooltip.detailed.line1=不怎麼健康，包含 253g 糖，53g 脂肪，和 394g 終界珍珠粉。
 item.item_ender_food.enderios.tooltip.detailed.line2=終界珍珠粉的副作用包括：噁心，頭暈，混亂和隨機傳送。
 
-item.item_location_printout.name=坐標列印機
+item.item_location_printout.name=坐標印表機
 item.item_location_printout.tooltip.detailed.line1=使用坐標選擇儀製作
 item.item_location_printout.tooltip.detailed.line2=可為傳送台新增坐標
 item.item_location_printout.chat.setTarget=目標設定為
@@ -204,11 +204,11 @@ item.item_magnet.name=電磁鐵
 item.item_magnet.tooltip.detailed.line1=將附近的物品拉向你
 item.item_magnet.tooltip.detailed.line2=用 Shift+右鍵 來開關
 item.item_magnet.tooltip.detailed.line3=必須被充能，打開後
-item.item_magnet.tooltip.detailed.line4=放在快捷欄或飾品欄才能起效
+item.item_magnet.tooltip.detailed.line4=放在快捷欄或飾品欄才能奏效
 item.item_magnet.everywhere.tooltip.detailed.line1=將附近的物品拉向你
 item.item_magnet.everywhere.tooltip.detailed.line2=用 Shift+右鍵 來開關
 item.item_magnet.everywhere.tooltip.detailed.line3=必須被充能，啟用
-item.item_magnet.everywhere.tooltip.detailed.line4=並放在快捷欄或飾品欄才能起效
+item.item_magnet.everywhere.tooltip.detailed.line4=並放在快捷欄或飾品欄才能奏效
 item.item_magnet.enabled=啟用電磁鐵
 item.item_magnet.disabled=禁用電磁鐵
 
@@ -246,8 +246,8 @@ item.item_material.powder_tin.name=錫粉
 item.item_material.powder_soul.name=靈魂金粉
 item.item_material.precient_crystal.name=預知水晶
 item.item_material.precient_powder.name=預知水晶粉
-item.item_material.pulsating_crystal.name=脈衝水晶
-item.item_material.pulsating_powder.name=脈衝水晶粉
+item.item_material.pulsating_crystal.name=脈沖水晶
+item.item_material.pulsating_powder.name=脈沖水晶粉
 item.item_material.silicon.name=矽
 item.item_material.skull_ender_resonator.name=終界共振器
 item.item_material.skull_sentient_ender.name=意識終界共振器
@@ -255,7 +255,7 @@ item.item_material.skull_skeletal_contractor.name=骷髏契約板
 item.item_material.skull_zombie_controller.name=Z-邏輯控制器
 item.item_material.skull_zombie_electrode.name=殭屍電極
 item.item_material.skull_zombie_frankenstien.name=人造殭屍
-item.item_material.skull_guardian_diode.name=守衛者電子二極管
+item.item_material.skull_guardian_diode.name=守衛者電子二極體
 item.item_material.vibrant_crystal.name=充能水晶
 item.item_material.vibrant_powder.name=充能水晶粉末
 item.item_material.weather_crystal.name=天氣水晶
@@ -278,7 +278,7 @@ item.item_material.machine_dye.tooltip.detailed.line2=§7不可食用。避免�
 item.item_material.simple_machine_chassi.name=機器框架模具
 # Note: Misspelling below is on purpose. Trying for "chenglish"
 item.item_material.simple_machine_chassi.tooltip.detailed.line1=高品質的封裝工具包，用於構建您自己的機器。德國製造！高品質，我的朋友！
-item.item_material.simple_machine_chassi.tooltip.detailed.line2=§7不防銹，遠離潮濕環境，在中國的德國城製造。
+item.item_material.simple_machine_chassi.tooltip.detailed.line2=§7不防鏽，遠離潮濕環境，在中國的德國城製造。
 item.item_material.soul_machine_chassi.name=靈魂機器框架
 item.item_material.soul_machine_chassi.tooltip.detailed.line1=一個集鋼的強度和靈魂的彈性於一體的複雜的結構框架
 item.item_material.soul_machine_chassi.tooltip.detailed.line2=§7如果你的機器開始發出尖叫的聲音，請致電1800GHASTS的惡魂剋星
@@ -309,7 +309,7 @@ item.item_material.infinity_rod.name=無盡之桿
 item.item_material.glazed_nether_brick.name=釉製地獄磚
 item.item_material.infinity_goop.name=無盡試劑
 item.item_material.infinity_goop.tooltip.detailed.line1=一種無盡的、黏稠的物質，用於傳導能量。
-item.item_material.infinity_goop.tooltip.detailed.line2=有一次，Randalf 得到了些這玩意，使他被困旅行權杖之上長達六個月……
+item.item_material.infinity_goop.tooltip.detailed.line2=有一次，Randalf 得到了些這東西，使他被困旅行權杖之上長達六個月……
 item.item_material.clayed_glowstone.name=黏土包覆螢石粉
 item.item_material.black_paper.name=黑紙
 
@@ -359,7 +359,7 @@ item.item_soul_vial.tooltip.color=顏色：%s
 item.item_soul_vial.tooltip.empty=空
 
 item.item_travel_staff.name=旅行權杖
-item.item_travel_staff.tooltip.detailed.line1=手持旅行錨與終界接口時
+item.item_travel_staff.tooltip.detailed.line1=手持旅行錨與終界介面時
 item.item_travel_staff.tooltip.detailed.line2=可以透視錨點，並通過
 item.item_travel_staff.tooltip.detailed.line3= 右鍵 直接傳送
 item.item_travel_staff.tooltip.detailed.line4=Shift+右鍵
@@ -569,11 +569,11 @@ tile.block_painted_pressure_plate.iron.silent.name=重量測重壓力板（無�
 tile.block_painted_pressure_plate.iron.silent.tooltip.detailed.line1=可變訊號輸出：1實體可增加1訊號強度。
 tile.block_painted_pressure_plate.iron.silent.tooltip.detailed.line2=可在塗裝機內塗裝，當使用純淨玻璃塗裝時，重量測重壓力板（無聲）會隱形
 tile.block_painted_pressure_plate.soularium.name=靈魂金壓力板
-tile.block_painted_pressure_plate.soularium.tooltip.detailed.line1=只能被敵對生物啟用。
+tile.block_painted_pressure_plate.soularium.tooltip.detailed.line1=隻能被敵對生物啟用。
 tile.block_painted_pressure_plate.soularium.tooltip.detailed.line2=可在塗裝機內塗裝，當使用純淨玻璃塗裝時，靈魂金壓力板會隱形
 tile.block_painted_pressure_plate.soularium.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.soularium.silent.name=靈魂金壓力板（無聲）
-tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line1=只能被敵對生物啟用。
+tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line1=隻能被敵對生物啟用。
 tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line2=可在塗裝機內塗裝，當使用純淨玻璃塗裝時，靈魂金壓力板（無聲）會隱形
 tile.block_painted_pressure_plate.soularium.silent.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.stone.name=石製壓力板
@@ -583,12 +583,12 @@ tile.block_painted_pressure_plate.stone.silent.name=石製壓力板（無聲）
 tile.block_painted_pressure_plate.stone.silent.tooltip.detailed.line1=只能被生物和玩家啟用。
 tile.block_painted_pressure_plate.stone.silent.tooltip.detailed.line2=可在塗裝機內塗裝，當使用純淨玻璃塗裝時，石製壓力板（無聲）會隱形
 tile.block_painted_pressure_plate.tuned.name=靈魂金壓力板（已設定）
-tile.block_painted_pressure_plate.tuned.tooltip.detailed.line1=只能被指定敵對生物啟用。
+tile.block_painted_pressure_plate.tuned.tooltip.detailed.line1=隻能被指定敵對生物啟用。
 tile.block_painted_pressure_plate.tuned.tooltip.detailed.line2=可在塗裝機內塗裝，當使用純淨玻璃塗裝時，靈魂金壓力板（已設定）會隱形
 tile.block_painted_pressure_plate.tuned.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.tuned.tooltip=調頻至：%s
 tile.block_painted_pressure_plate.tuned.silent.name=靈魂金壓力板（已設定）（無聲）
-tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line1=只能被指定敵對生物啟用。
+tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line1=隻能被指定敵對生物啟用。
 tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line2=可在塗裝機內塗裝，當使用純淨玻璃塗裝時，靈魂金壓力板（已設定）（無聲）會隱形
 tile.block_painted_pressure_plate.tuned.silent.tooltip.detailed.line3=可在靈魂綁定器中調整設定。
 tile.block_painted_pressure_plate.wood.name=木製壓力板
@@ -609,7 +609,7 @@ tile.block_painted_stone_slab.name=塗裝石半磚
 tile.block_painted_stone_stair.name=塗裝石階梯
 tile.block_painted_wall.name=塗裝牆
 tile.block_painted_wooden_trapdoor.name=塗裝木製地板門
-tile.block_painted_workbench.name=塗裝工作台
+tile.block_painted_workbench.name=塗裝工作檯
 tile.block_painted_reinforced_obsidian.name=塗裝強化黑曜石
 tile.block_painted_reinforced_obsidian.tooltip.common.line1=能夠抵禦凋零爆炸
 
@@ -749,7 +749,7 @@ description.enchantment.enderio.witherweapon=給予目標凋零效果|適用於�
 enchantment.enderio.repellent=驅散傳送
 description.enchantment.enderio.repellent=有可能將攻擊者傳送走|越進階的附魔，傳送的機率越高、（距離使用者）越遠
 enchantment.enderio.shimmer=微光
-description.enchantment.enderio.shimmer=當它被附魔在一個物品上時會使物品發光。 |就這麼多。 |真的。 |沒什麼其他的了。 |是的，它一點兒沒用。 |我知道。
+description.enchantment.enderio.shimmer=當它被附魔在一個物品上時會使物品發光。 |就這麼多。 |真的。 |沒什麼其他的了。 |是的，它一點沒用。 |我知道。
 
 potion.effect.enderio.withering=腐爛藥水
 splash_potion.effect.enderio.withering=飛濺 腐爛藥水
@@ -769,7 +769,7 @@ tipped_arrow.effect.enderio.floating=飄浮之箭
 
 enderio.farm.note.outputFull=輸出槽已滿
 enderio.farm.note.noSeeds=缺失種子
-enderio.farm.note.noAxe=缺失斧子
+enderio.farm.note.noAxe=缺失斧頭
 enderio.farm.note.noHoe=缺失鋤頭
 enderio.farm.note.noShears=缺失剪刀
 enderio.farm.note.noTreetap=缺失木龍頭
@@ -1038,7 +1038,7 @@ enderio.top.channel.none=§7無
 
 enderio.top.progress.outofpower=§4能量耗盡
 
-enderio.top.redstone.header.pre=§e當前狀態：§f
+enderio.top.redstone.header.pre=§e目前狀態：§f
 enderio.top.redstone.header.post=
 enderio.top.redstone.true=開
 enderio.top.redstone.false=關
@@ -1114,7 +1114,7 @@ item.item_big_item_filter.tooltip.detailed.line1=過濾更多種類的物品
 item.item_big_advanced_item_filter.tooltip.detailed.line1=過濾更多種類的物品
 item.item_big_advanced_item_filter.tooltip.detailed.line2=擁有更詳細的設定選項
 
-item.item_fluid_filter.tooltip.detailed.line1=通過黑白名單來過濾流體
+item.item_fluid_filter.tooltip.detailed.line1=透過黑白名單來過濾流體
 
 enderio.item_item_filter_upgrade.configured=%s已設定
 enderio.item_item_filter_upgrade.clear_config_method=%s放入合成格中清除設定
@@ -1125,7 +1125,7 @@ enderio.gui.generic.loss=洩露：%s
 enderio.gui.generic.progress=進度%s%%
 enderio.gui.generic.ioMode.overlay.tooltip=設定 IO
 enderio.gui.generic.ioMode.overlay.tooltip.visible.line1=設定 IO
-enderio.gui.generic.ioMode.overlay.tooltip.visible.line2=Shift+單擊可重置所有面
+enderio.gui.generic.ioMode.overlay.tooltip.visible.line2=Shift+單擊可重設所有面
 enderio.gui.generic.ioMode.overlay.tooltip.visible.line3=預設設定
 enderio.gui.generic.nocap.line1=§3電容缺漏
 enderio.gui.generic.nocap.line2=插入任意電容
@@ -1255,7 +1255,7 @@ enderio.loot.capacitor.title.12=一塊電容，也許是吧
 enderio.loot.capacitor.title.13=天上掉下來的禮物
 enderio.loot.capacitor.title.14=不要打開它，保持距離！
 enderio.loot.capacitor.title.15=既不是藍色的，也不是個盒子。
-enderio.loot.capacitor.title.16=令人震驚的新玩意兒
+enderio.loot.capacitor.title.16=令人震驚的新東西
 enderio.loot.capacitor.title.17=科技奇蹟
 enderio.loot.capacitor.title.18=沒命名的東西
 enderio.loot.capacitor.title.19=東西
@@ -1281,11 +1281,11 @@ enderio.keybind.fovplus=拉遠鏡頭
 enderio.keybind.fovminus=縮進鏡頭
 enderio.keybind.fovplusfast=快速拉遠鏡頭
 enderio.keybind.fovminusfast=快速縮進鏡頭
-enderio.keybind.fovreset=重置鏡頭
+enderio.keybind.fovreset=重設鏡頭
 key.category.darksteelarmor=暗鋼盔甲
 key.category.tools=工具
 
-enderio.gui.probe.copied=複製導管設定
+enderio.gui.probe.copied=複制導管設定
 enderio.gui.probe.pasted=貼上導管設定
 
 # unless we want to copy the sound, it will always show this subtitle.
@@ -1353,9 +1353,9 @@ enderio.gui.existing.item_filter.merge=合併
 enderio.gui.existing.item_filter.clear=清空
 enderio.gui.existing.item_filter.show=顯示
 enderio.gui.existing.item_filter.snapshot2=可選：如果未設定快照，則庫存內容將用作過濾器
-enderio.gui.existing.item_filter.merge2=將當前快照合併為一個新快照
+enderio.gui.existing.item_filter.merge2=將目前快照合併為一個新快照
 enderio.gui.existing.item_filter.clear2=清空快照
-enderio.gui.existing.item_filter.show2=顯示當前快照
+enderio.gui.existing.item_filter.show2=顯示目前快照
 enderio.item.item_existing_item_filter.filter_not_updated=過濾器未升級
 enderio.item.item_existing_item_filter.filter_updated=過濾器已升級
 
@@ -1401,7 +1401,7 @@ enderio.gui.infinity_recipe_dimensions.multi=某些維度
 enderio.gui.infinity_recipe_dimensions.these=能在如下維度合成：
 enderio.gui.infinity_recipe_dimensions.list.here=- %s <-- 你在這裡
 enderio.gui.infinity_recipe_dimensions.list=- %s
-enderio.gui.infinity_recipe_dimensions.nothere=你當前所處不在其中
+enderio.gui.infinity_recipe_dimensions.nothere=你目前所處不在其中
 
 item.item_basic_item_filter.name=基礎物品過濾器
 item.item_advanced_item_filter.name=進階物品過濾器
@@ -1456,7 +1456,7 @@ item.item_inventory_charger.tooltip.detailed.line1=充能物品欄所有物品�
 item.item_inventory_charger_vibrant.name=共振物品欄充能器
 item.item_inventory_charger_vibrant.tooltip.detailed.line1=充能物品欄所有物品。右鍵啟用/禁用。
 
-enderio.network.bad_config=錯誤：Ender IO 在客戶端端與伺服端數值「%s.%s」不同，這個數值決定著遊戲如何開始，現在使用伺服端數據已經過晚，繼續無法進行。為了修復此問題，請手動同步伺服端與客戶端 Ender IO 設定，或者把這個數值手動設定為「%s」。
+enderio.network.bad_config=錯誤：Ender IO 在用戶端端與伺服端數值「%s.%s」不同，這個數值決定著遊戲如何開始，現在使用伺服端數據已經過晚，繼續無法進行。為了修復此問題，請手動同步伺服端與用戶端 Ender IO 設定，或者把這個數值手動設定為「%s」。
 enderio.network.autosync.connected=§4§l這個數值右伺服端決定！ \n§e%s
 enderio.network.autosync.offline=%s\n§o這個數值必須與伺服端保持同步！
 enderio.network.manusync=%s\n§o這個數值將由伺服端決定。
@@ -1471,7 +1471,7 @@ enderio.network.manusync=%s\n§o這個數值將由伺服端決定。
 
 # Conduits
 enderio.block_conduit_bundle=導管束
-tile.block_conduit_bundle.name=導管接口
+tile.block_conduit_bundle.name=導管介面
 
 enderio.item_power_conduit.name=能量導管
 enderio.item_power_conduit_enhanced.name=強化能量導管
@@ -1780,7 +1780,7 @@ enderio.darksteel.upgrade.apiarist_armor.legs.tooltip.detailed.line1=提供保�
 enderio.darksteel.upgrade.apiarist_armor.feet.name=養蜂人之鞋
 enderio.darksteel.upgrade.apiarist_armor.feet.tooltip.detailed.line1=提供保護以減少蜜蜂的傷害
 
-enderio.config.items.darksteel.upgrades.forestry=林業聯動升級
+enderio.config.items.darksteel.upgrades.forestry=林業同步升級
 
 item.item_species_item_filter.name=物種物品過濾器
 
@@ -2096,7 +2096,7 @@ tile.block_relocator_obelisk.name=重定向方尖碑
 tile.block_relocator_obelisk.tooltip.detailed.line1=重定向在其工作範圍內產生的怪物並朝向它
 
 tile.block_weather_obelisk.name=氣象方尖碑
-tile.block_weather_obelisk.tooltip.detailed.line1=改變當前天氣
+tile.block_weather_obelisk.tooltip.detailed.line1=改變目前天氣
 tile.block_weather_obelisk.tooltip.detailed.line2=需要大量能量和一種催化劑流體
 
 tile.block_experience_obelisk.name=經驗交換方尖碑
@@ -2240,7 +2240,7 @@ tile.block_simple_crafter.name=簡易合成器
 tile.block_lava_generator.name=熔岩熱交換器
 tile.block_lava_generator.tooltip.detailed.line1=通過冷卻熔岩產生能量。
 tile.block_lava_generator.tooltip.detailed.line2=確保它不會過熱！
-tile.block_lava_generator.tooltip.detailed.line3=可以通過在其周圍放置冷的流體或冰塊來冷卻。
+tile.block_lava_generator.tooltip.detailed.line3=可以透過在其周圍放置冷的流體或冰塊來冷卻。
 enderio.gui.lavagen.heat=熱量
 
 tile.block_niard.name=尼爾(The Niard)
@@ -2280,9 +2280,9 @@ enderio.jei.stirling_generator.notSimple.line1=這種燃料不可用於
 enderio.jei.stirling_generator.notSimple.line2=簡易斯特林發電機
 enderio.jei.alloy_smelter.notSimple.line1=這個合成無法在
 enderio.jei.alloy_smelter.notSimple.line2=簡易合金爐中進行
-enderio.jei.grinding_ball.main.line1=雙倍所有產出的概率
-enderio.jei.grinding_ball.bonus.line1=提升副產物出現的概率，不會超過 100%
-enderio.jei.grinding_ball.bonus.line2=計算方式：原概率 * 研磨球概率加成。
+enderio.jei.grinding_ball.main.line1=雙倍所有產出的機率
+enderio.jei.grinding_ball.bonus.line1=提升副產物出現的機率，不會超過 100%
+enderio.jei.grinding_ball.bonus.line2=計算方式：原機率 * 研磨球機率加成。
 enderio.jei.grinding_ball.power.line1=影響每次工作所需的能量，會改變機器的工作速度
 enderio.jei.recipe=合成表：「%s」
 enderio.jei.lavagen.cooling=冷卻與否為可選
@@ -2301,7 +2301,7 @@ enderio.darksteel.upgrade.solar_3.name=太陽能板 III 型
 enderio.darksteel.upgrade.solar_3.tooltip.detailed.line1=利用陽光產能。
 
 enderio.config.capacitor=電容數值
-enderio.config.client=客戶端設定
+enderio.config.client=用戶端設定
 
 enderio.config.soulbinder=靈魂綁定器
 enderio.config.spawner=電動生怪磚
@@ -2362,7 +2362,7 @@ enderio.advancement.sagmill.8_blue.name=鑽石迷情
 enderio.advancement.sagmill.8_blue.desc=研磨青金石
 
 enderio.advancement.sagmill.9_white.name=鑽石迷情 II
-enderio.advancement.sagmill.9_white.desc=研磨下界石英
+enderio.advancement.sagmill.9_white.desc=研磨地獄石英
 
 enderio.advancement.sagmill.a_powder_coating.name=經典色彩
 enderio.advancement.sagmill.a_powder_coating.desc=製作一些機器塗料
@@ -2372,4 +2372,3 @@ enderio.advancement.stirling.1_stirling_generator_get.desc=製作一個簡易斯
 
 enderio.advancement.machines.root.name=Ender IO 機械
 enderio.advancement.machines.root.desc=開始你的自動化冒險
-

@@ -1,7 +1,7 @@
-screen.button.waila=Waila
-screen.button.modules=模塊
+﻿screen.button.waila=Waila
+screen.button.modules=模組
 screen.label.scale=縮放
-screen.label.dragtuto=拖拽擡頭顯示（HUD）標簽為其設置位置。
+screen.label.dragtuto=拖拽抬頭顯示（HUD）標籤為其設置位置。
 
 screen.button.default=預設
 screen.button.cancel=取消
@@ -13,16 +13,16 @@ screen.button.hidden=隱藏
 screen.button.visible=可見
 screen.button.maintained=保持
 screen.button.toggled=切換
-screen.hwyla.warning=§c警告：§r你正在使用一個叫做Hwyla的Waila分支。你可以通過點擊螢幕左上角的按鈕來查看更改列表（基本完成）。
+screen.hwyla.warning=§c警告：§r你正在使用一個叫做Hwyla的Waila分支。你可以透過點擊螢幕左上角的按鈕來查看更改列表（基本完成）。
 
 choice.showhidewaila=顯示/隱藏Waila
 choice.showhideidmeta=顯示ID：元數據
-choice.toggledmaintained=切換/保持顯示信息
+choice.toggledmaintained=切換/保持顯示資訊
 choice.showliquids=流體
-choice.shifttoggledblock=潛行切換方塊信息
-choice.shifttoggledents=潛行切換實體信息
+choice.shifttoggledblock=潛行切換方塊資訊
+choice.shifttoggledents=潛行切換實體資訊
 choice.hidefromlist=從玩家列表中隱藏
-choice.hidefromdebug=在調試菜單中隱藏
+choice.hidefromdebug=在除錯菜單中隱藏
 choice.showitem=顯示物品
 choice.tts=敘述方塊
 choice.format.modname=模組名稱
@@ -38,7 +38,7 @@ screen.button.configureaspect=自訂外觀......
 screen.button.configureformat=格式目錄……
 screen.button.exporttheme=輸出主題
 
-waila.keybind.wailaconfig=配置螢幕
+waila.keybind.wailaconfig=設定螢幕
 waila.keybind.wailadisplay=顯示/隱藏
 waila.keybind.liquid=顯示流體
 waila.keybind.recipe=顯示配方

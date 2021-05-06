@@ -1,4 +1,4 @@
-#Creative Tab
+﻿#Creative Tab
 itemGroup.tabHeroicArmory=英雄武器庫
 #
 #lotr 魔戒
@@ -21,7 +21,7 @@ item.lozGoldenSword.name=金劍
 item.lozFlameblade.name=火焰劍
 item.lozDarknutSwordTp.name=暗黑劍
 item.lozGhirahimSword.name=吉拉希姆劍
-item.lozFierceDietySword.name=凶神劍
+item.lozFierceDietySword.name=兇神劍
 item.lozZeldaSword.name=薩爾達之劍
 item.lozBokoStick.name=波克棒
 item.lozCaneofByrna.name=拜拉杖
@@ -170,7 +170,7 @@ item.rsSaradominGodsword.name=薩拉多姆神劍
 item.rsBarrelchestAnchor.name=桶形錨
 #
 #dmc 惡魔獵人
-item.dmcRedQueen.name=绯红女皇
+item.dmcRedQueen.name=緋紅女皇
 item.dmcRebellion.name=反逆
 item.dmcYamato.name=閻魔刀
 #
@@ -192,7 +192,7 @@ item.khKeyblade.name=鑰刃
 #
 #bleach 死神
 item.bleachZabimaru.name=蛇尾丸
-item.bleachZangestsu.name=斩月
+item.bleachZangestsu.name=斬月
 #
 #ds 黑暗靈魂
 item.dsGreatswordofArtorias.name=亞爾特留斯的大劍
@@ -209,8 +209,8 @@ item.bayonettaShuraba.name=修羅刃
 item.bayonettaAngelSlayer.name=天使殺手
 #
 #gow 戰神
-item.gowLeviathanUpgraded.name=利维坦之斧
-item.gowLeviathan.name=利维坦之斧
+item.gowLeviathanUpgraded.name=利維坦之斧
+item.gowLeviathan.name=利維坦之斧
 item.gowBladeofOlympus.name=奧林匹斯之劍
 item.gowBladeofChaos.name=混沌之刃
 #

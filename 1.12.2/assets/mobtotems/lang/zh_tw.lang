@@ -1,4 +1,4 @@
-entity.mobtotems:spirit_wolf.name=幽靈狼
+﻿entity.mobtotems:spirit_wolf.name=幽靈狼
 item.carving_knife.name=雕刻刀
 item.totemic_focus.name=圖騰法杖
 item.wolf_totem_bauble.name=狼圖騰項鏈
@@ -11,7 +11,7 @@ mobtotems:gui.carving.leftclick=[左鍵單擊選擇]
 mobtotems:gui.carving.rightclick=[右鍵單擊關閉]
 mobtotems:gui.offering_box.chargelevel=充能等級
 mobtotems:gui.offering_box.totems=圖騰配件
-tiles.mobtotems:incense_kindling_box.name=熏香盒
+tiles.mobtotems:incense_kindling_box.name=薰香盒
 tiles.mobtotems:offering_box.name=供盤
 tiles.mobtotems:sacred_light.name=聖光圖騰
 tiles.mobtotems:totem_wood.blaze.name=烈焰圖騰

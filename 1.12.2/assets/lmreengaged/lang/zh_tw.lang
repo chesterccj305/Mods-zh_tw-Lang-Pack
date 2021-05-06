@@ -1,4 +1,4 @@
-entity.LittleMaid.name=女僕
+﻿entity.LittleMaid.name=女僕
 
 item.lmreengaged:spawn_littlemaid_egg.name=生成 女僕
 item.lmreengaged:registerkey.name=§e物品模式添加器
@@ -37,7 +37,7 @@ achievement.ashikubi=哎喲！這傷害:(
 achievement.ashikubi.desc=「只是傷到了腿？拜託，你都快死了耶。」
 
 achievement.boost=變得更熱吧！
-achievement.boost.desc=「想拿這玩意代替糖？想～都～別～想～」
+achievement.boost.desc=「想拿這東西代替糖？想～都～別～想～」
 
 achievement.myfavorite=我最喜歡的東西
 achievement.myfavorite.desc=「那銀白色的糖融化在嘴裡...」
@@ -129,7 +129,7 @@ littleMaidMob.chat.text.changeregistermode=要添加的模式更改為： %s
 littleMaidMob.chat.text.readyregistration=現在右鍵單擊要添加的物品： %s
 littleMaidMob.chat.text.cancelregistration=取消添加。
 littleMaidMob.chat.text.addtrigger=物品模式添加： %s
-littleMaidMob.chat.text.removetrigger=物品模式删除： %s
+littleMaidMob.chat.text.removetrigger=物品模式刪除： %s
 littleMaidMob.chat.text.warningcount=警告！該物品使用次數剩餘： %d
 littleMaidMob.chat.text.endcount=耐久已耗盡，請重新製作。
 littleMaidMob.chat.text.death=你的 %s 被 %s 殺死了

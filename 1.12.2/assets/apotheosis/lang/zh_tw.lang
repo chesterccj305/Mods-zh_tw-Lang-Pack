@@ -1,4 +1,4 @@
-//Spawner Module
+﻿//Spawner Module
 enchantment.spw.capturing=捕捉
 
 enchantment.apotheosis.capturing.desc=使生物有機會掉落它們的刷怪蛋.
@@ -30,7 +30,7 @@ jei.spw.ignoreplayers=忽略附近玩家
 jei.spw.changeentity=更改生成的實體
 jei.spw.ignorecap=忽略區域刷怪限制
 jei.spw.redstone=啟用紅石控制
-jei.spw.instructions=手持各種物品右擊生怪磚可以調節生怪磚.\\n某個物品可以反轉此行為, 導致反方向調節生怪磚的數據.\\n使用精准採集可以獲得生怪磚%s.
+jei.spw.instructions=手持各種物品右擊生怪磚可以調節生怪磚.\\n某個物品可以反轉此行為, 導致反方向調節生怪磚的數據.\\n使用精準採集可以獲得生怪磚%s.
 jei.spw.capturing=捕捉附魔有機會讓怪物掉落它們的刷怪蛋.\\n每個附魔等級增加+0.4% 的機率.
 
 //Enchantment Module
@@ -66,7 +66,7 @@ enchantment.apotheosis.icy_thorns.desc=使攻擊者受到緩慢效果.
 
 death.apotheosis.corrupted=%1$s 的生命被腐化附魔耗盡了.
 
-item.apotheosis.prismatic_web.name=棱柱形蜘蛛網
+item.apotheosis.prismatic_web.name=稜柱形蜘蛛網
 info.apotheosis.prismatic_cobweb=可以用來消除一件裝備中的所有腐化附魔.
 
 item.apotheosis.null_book.name=其他寶典

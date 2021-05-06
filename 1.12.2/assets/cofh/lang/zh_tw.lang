@@ -1,4 +1,4 @@
-#zh_TW
+﻿#zh_TW
 
 chat.cofh.command.clearblocks.failure=沒有方塊可清除。
 chat.cofh.command.clearblocks.start=清除 %s 方塊範圍從 %s:%s:%s 到 %s:%s:%s。
@@ -30,8 +30,8 @@ chat.cofh.command.help=這個指令用來幫助您了解其他指令!
 
 chat.cofh.command.killall.noHostile=找不到任何敵對生物!
 chat.cofh.command.killall.noMatch=找不到吻合的生物!
-chat.cofh.command.killall.success=已移除 %d 隻生物。(%s)
-chat.cofh.command.killall.successHostile=已移除 %d 隻敵對生物。(%s)
+chat.cofh.command.killall.success=已移除 %d 只生物。(%s)
+chat.cofh.command.killall.successHostile=已移除 %d 只敵對生物。(%s)
 chat.cofh.command.killall.syntax=/cofh killall [部分名稱]
 chat.cofh.command.killall=殺死所有指定名稱的生物, 預設會殺死所有敵對的生物。
 
@@ -98,8 +98,8 @@ enchantment.cofhcore.vorpal=斬殺
 enchantment.cofhcore.holding.desc=增加特定物品的儲存容量。
 enchantment.cofhcore.insight.desc=增加使用物品時所獲得的經驗值。
 enchantment.cofhcore.leech.desc=殺死生物時可吸取其生命值。
-enchantment.cofhcore.multishot.desc=使每次射箭時能射出額外的箭矢,卻只消耗一支箭。
-enchantment.cofhcore.smashing.desc=使收獲礦物時直接將其粉碎以提高產量。
+enchantment.cofhcore.multishot.desc=使每次射箭時能射出額外的箭矢,卻只消耗一枝箭。
+enchantment.cofhcore.smashing.desc=使收穫礦物時直接將其粉碎以提高產量。
 enchantment.cofhcore.smelting.desc=使收穫方塊時自動像熔爐般進行熔煉。
 enchantment.cofhcore.soulbound.desc=使物品在玩家死亡重生後仍保留在身上。
 enchantment.cofhcore.vorpal.desc=隨機施展致命一擊並斬首。
@@ -179,8 +179,8 @@ info.cofh.filter.list.off=黑名單
 info.cofh.filter.list.on=白名單
 info.cofh.filter.metadata.off=忽略中繼資料
 info.cofh.filter.metadata.on=使用中繼資料
-info.cofh.filter.nbt.off=忽略二進制命名標籤
-info.cofh.filter.nbt.on=使用二進制命名標籤
+info.cofh.filter.nbt.off=忽略二進位制命名標籤
+info.cofh.filter.nbt.on=使用二進位制命名標籤
 info.cofh.filter.oreDict.off=忽略礦石辭典
 info.cofh.filter.oreDict.on=使用礦石辭典
 info.cofh.filter=過濾

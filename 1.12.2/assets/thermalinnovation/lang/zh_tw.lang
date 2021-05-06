@@ -1,4 +1,4 @@
-#zh_tw
+﻿#zh_tw
 
 info.thermalinnovation.drill.a.0=使用 RF 能源來挖掘礦物。
 info.thermalinnovation.drill.b.0=§e按下（%s）鍵來調整挖掘區域。 §r
@@ -10,7 +10,7 @@ info.thermalinnovation.drill.c.4=區域：5x5
 
 info.thermalinnovation.magnet.a.0=將物品吸取至使用者。
 info.thermalinnovation.magnet.a.1=左擊將物品吸取至指定位置。
-info.thermalinnovation.magnet.a.2=潛行左擊進行配置。
+info.thermalinnovation.magnet.a.2=潛行左擊進行設定。
 info.thermalinnovation.magnet.b.0=§b按下（%s）啟用。 §r
 info.thermalinnovation.magnet.b.1=§e按下（%s）禁用。 §r
 info.thermalinnovation.magnet.c.0=吸取禁用
@@ -49,12 +49,12 @@ item.thermalinnovation.drill.standard2.name=通量電鑽（強化）
 item.thermalinnovation.drill.standard3.name=通量電鑽（信素）
 item.thermalinnovation.drill.standard4.name=通量電鑽（諧振）
 
-item.thermalinnovation.laser.creative.name=挖掘激光束 (創造)
-item.thermalinnovation.laser.standard0.name=挖掘激光束 (基礎)
-item.thermalinnovation.laser.standard1.name=挖掘激光束 (硬化)
-item.thermalinnovation.laser.standard2.name=挖掘激光束 (強化)
-item.thermalinnovation.laser.standard3.name=挖掘激光束 (信素)
-item.thermalinnovation.laser.standard4.name=挖掘激光束 (諧振)
+item.thermalinnovation.laser.creative.name=挖掘雷射 (創造)
+item.thermalinnovation.laser.standard0.name=挖掘雷射 (基礎)
+item.thermalinnovation.laser.standard1.name=挖掘雷射 (硬化)
+item.thermalinnovation.laser.standard2.name=挖掘雷射 (強化)
+item.thermalinnovation.laser.standard3.name=挖掘雷射 (信素)
+item.thermalinnovation.laser.standard4.name=挖掘雷射 (諧振)
 
 item.thermalinnovation.magnet.creative.name=通量磁鐵（創造）
 item.thermalinnovation.magnet.name=通量磁鐵

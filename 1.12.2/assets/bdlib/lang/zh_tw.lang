@@ -1,4 +1,4 @@
-bdlib.multiblock.face.north=北方
+﻿bdlib.multiblock.face.north=北方
 bdlib.multiblock.face.south=南方
 bdlib.multiblock.face.east=東方
 bdlib.multiblock.face.west=西方
@@ -8,9 +8,9 @@ bdlib.multiblock.face.down=底部
 bdlib.multiblock.disabled=停用
 bdlib.multiblock.incomplete=這台多方塊結構機器未搭建完成，它至少需要安裝一個：
 bdlib.multiblock.notconnected=未連接有效機器
-bdlib.multiblock.toomanyoutputs=連接的輸出接口過多，無法連接新的接口
+bdlib.multiblock.toomanyoutputs=連接的輸出介面過多，無法連接新的介面
 bdlib.multiblock.tip.module=可以被安裝在：
-bdlib.multiblock.tip.controller=可用的模塊：
+bdlib.multiblock.tip.controller=可用的模組：
 bdlib.multiblock.tip.module.range=* %s（%s - %s）
 bdlib.multiblock.tip.module.max=*%s（最多%s）
 

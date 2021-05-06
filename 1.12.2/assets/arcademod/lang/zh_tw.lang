@@ -1,4 +1,4 @@
-mod.arcademod：name.locale=街機模組
+﻿mod.arcademod：name.locale=街機模組
 
 item.arcademod：coin.name=遊樂場硬幣
 item.arcademod：ticket.name=獎劵
@@ -6,7 +6,7 @@ item.arcademod：ticket.name=獎劵
 tile.arcademod：arcade_machine.snake.name=遊戲機台（貪食蛇）
 tile.arcademod：arcade_machine.tetrominoes.name=遊戲機台（俄羅斯方塊）
 tile.arcademod：arcade_machine.pacman.name=遊戲機台（吃豆人）
-tile.arcademod：arcade_machine.pong.name=遊戲機台（乒乓球）
+tile.arcademod：arcade_machine.pong.name=遊戲機台（桌球）
 tile.arcademod：arcade_machine.spaceinvaders.name=遊戲機台（太空入侵者）
 
 tile.arcademod：plushie.creeper.name=苦力怕玩偶
@@ -53,7 +53,7 @@ option.arcademod：difficulty.extreme.locale=極難
 game.arcademod：snake.name=貪食蛇
 game.arcademod：tetrominoes.name=俄羅斯方塊
 game.arcademod：pacman.name=吃豆人
-game.arcademod：pong.name=乒乓球
+game.arcademod：pong.name=桌球
 game.arcademod：spaceinvaders.name=太空入侵者
 
 control.arcademod：up.name=上

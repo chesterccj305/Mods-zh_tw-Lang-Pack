@@ -1,5 +1,5 @@
-#PARSE_ESCAPES
-command.simulatednights.arguments.dimension=維度參數是必需的且必須是一個有效的維度id， '%s' 為當前維度， '%s' 為所有維度。
+﻿#PARSE_ESCAPES
+command.simulatednights.arguments.dimension=維度參數是必需的且必須是一個有效的維度id， '%s' 為目前維度， '%s' 為所有維度。
 command.simulatednights.arguments.first=必需的第一參數必須是 '%s' 或 '%s'。
 command.simulatednights.arguments.ticks=/%s %s 後必須添加模擬的刻數。
 command.simulatednights.arguments.time=/%s %s 後必須添加 '%s' 或 '%s'。
@@ -16,9 +16,9 @@ command.simulatednights.result.blocks.tileentities=%s%s 已載入區塊中的所
 command.simulatednights.result.tileentities=%s%s 中的所有TileEntity已模擬完畢。
 command.simulatednights.usage="/simulate\n         - <ticks : time>\n             - ticks: <模擬的刻數>\n             - time: <set : add>\n                 - set: <day : night : 設置的時間>\n                 - add: <增加的時間>\n         - <維度 id : 'all' : 'this' 為所有維度>\n         - [tileentities : allentities : blocks（模擬單獨一項）]\n         - [每伺服器刻模擬的刻數（缺失預設）]\n         - ['singletick' 在一伺服器刻中進行模擬]
 config.simulatednights.blacklist.tileentity=TileEntity方塊黑名單
-config.simulatednights.command.client.localization=客戶端翻譯命令信息
+config.simulatednights.command.client.localization=用戶端翻譯命令資訊
 config.simulatednights.command.permissionlevel=命令權限級別
-config.simulatednights.mod.client.missingmod=允許客戶端缺失模組
+config.simulatednights.mod.client.missingmod=允許用戶端缺失模組
 config.simulatednights.mod.disable=禁用夜晚模擬
 config.simulatednights.night.deepsleep=進入深度睡眠
 config.simulatednights.night.sounds.fade=入睡時聲音漸弱

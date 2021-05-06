@@ -1,9 +1,9 @@
-string.lootcapacitortooltips.area=方尖碑範圍：
+﻿string.lootcapacitortooltips.area=方尖碑範圍：
 string.lootcapacitortooltips.alloy_smelter=合金爐：
 string.lootcapacitortooltips.combustion=燃燒發電機：
 string.lootcapacitortooltips.enhanced_combustion=強化燃燒發電機：
 string.lootcapacitortooltips.energy_intake=能量輸入：
-string.lootcapacitortooltips.energy_buffer=能量緩存：
+string.lootcapacitortooltips.energy_buffer=能量快取：
 string.lootcapacitortooltips.farm_station=種植站範圍：
 string.lootcapacitortooltips.painter=噴塗機：
 string.lootcapacitortooltips.powered_spawner=電動生怪磚：

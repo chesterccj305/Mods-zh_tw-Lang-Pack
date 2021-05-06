@@ -1,4 +1,4 @@
-geolosys.cluster.aluminum.name=鋁礦簇
+﻿geolosys.cluster.aluminum.name=鋁礦簇
 geolosys.cluster.copper.name=銅礦簇
 geolosys.cluster.gold.name=金礦簇
 geolosys.cluster.iron.name=鐵礦簇
@@ -18,46 +18,46 @@ geolosys.coal.peat.name=泥炭
 geolosys.field_manual.name=野外探礦手冊
 geolosys.field_manual.tooltip=一切關於在 Geolosys 中挖礦的內容，盡在這本手冊中！
 geolosys.guide.chapter.actually_additions.name=Actually Additions
-geolosys.guide.chapter.actually_additions.text=若安裝了 Actually Additions，石英礦會有 8% 概率掉落焦黑石英。
+geolosys.guide.chapter.actually_additions.text=若安裝了 Actually Additions，石英礦會有 8% 機率掉落焦黑石英。
 geolosys.guide.chapter.applied_energistics.name=Applied Energistics
-geolosys.guide.chapter.applied_energistics.text=若安裝了 Applied Energistics，石英礦會有 8% 概率掉落賽特斯石英，以及 4% 的概率掉落充能賽特斯石英。
+geolosys.guide.chapter.applied_energistics.text=若安裝了 Applied Energistics，石英礦會有 8% 機率掉落賽特斯石英，以及 4% 的機率掉落充能賽特斯石英。
 geolosys.guide.chapter.autunite.name=鈣鈾雲母
-geolosys.guide.chapter.autunite.text=鈣鈾雲母是鈾的主要來源，若配置文件裏允許了，也會產出黃鈾。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
+geolosys.guide.chapter.autunite.text=鈣鈾雲母是鈾的主要來源，若設定文件裡允許了，也會產出黃鈾。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.azurite.name=藍銅礦
 geolosys.guide.chapter.azurite.text=藍銅礦是一種難發現的大型礦物，可用於提煉銅。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.bauxite.name=鋁土礦
 geolosys.guide.chapter.bauxite.text=鋁土礦是種大型鋁礦，根據 Mod 的不同可產出鋁或鋁土。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要木鎬挖掘。§0
 geolosys.guide.chapter.beryl.name=綠柱石
-geolosys.guide.chapter.beryl.text=Geolosys 的綠柱石是更貼近現實的原版綠寶石礦替代品，可在任意生物群系的§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
+geolosys.guide.chapter.beryl.text=Geolosys 的綠柱石是更貼近現實的原版綠寶石礦替代品，可在任意生態域的§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.better_with_mods.name=Better with Mods
 geolosys.guide.chapter.better_with_mods.text=若安裝了 Better With Mods，所有燒煉合成都會輸出粒而非錠。
 geolosys.guide.chapter.cassiterite.name=錫石
 geolosys.guide.chapter.cassiterite.text=錫石是一種易發現的小型礦物（至少設定如此），適合從中提煉錫。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
-geolosys.guide.chapter.cinnabar.name=朱砂
-geolosys.guide.chapter.cinnabar.text=朱砂可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到；安裝有熱能擴展時會掉落朱砂,而安裝有更多實用設備時則會掉落共振紅石水晶，掉落受時運影響。§4需要鐵鎬挖掘。§0
+geolosys.guide.chapter.cinnabar.name=硃砂
+geolosys.guide.chapter.cinnabar.text=硃砂可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到；安裝有熱能擴展時會掉落硃砂,而安裝有更多實用設備時則會掉落共振紅石水晶，掉落受時運影響。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.coal.name=煤炭
 geolosys.guide.chapter.coal.text=煤炭可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到；若有其他 Mod 添加了硫磺，煤炭礦脈也會產出硫磺。除普通煤炭外，煤礦石也會掉落泥炭、褐煤、煙煤或無煙煤，具體掉落哪一種與你所在的§l深度§r§0有關。上文中掉落物是按出現高度從高到低，以及在熔爐中燃燒時間從短到長的順序排列的。
 geolosys.guide.chapter.cofh_mods.name=Thermal Foundation
-geolosys.guide.chapter.cofh_mods.text=若安裝了 Thermal Foundation，朱砂礦會有 3.33% 概率靠落朱砂。
+geolosys.guide.chapter.cofh_mods.text=若安裝了 Thermal Foundation，硃砂礦會有 3.33% 機率靠落硃砂。
 geolosys.guide.chapter.extra_utils.name=Extra Utilities 2
-geolosys.guide.chapter.extra_utils.text=若安裝了 Extra Utilities 2，朱砂礦會有 3.33% 概率掉落共振紅石水晶。
+geolosys.guide.chapter.extra_utils.text=若安裝了 Extra Utilities 2，硃砂礦會有 3.33% 機率掉落共振紅石水晶。
 geolosys.guide.chapter.extreme_reactors.name=Extreme Reactors
-geolosys.guide.chapter.extreme_reactors.text=若在配置文件中啟用對應選項，鈣鈾雲母將不再只掉落鈾，而是各有 50% 的概率分別掉落鈾和黃鈾。
+geolosys.guide.chapter.extreme_reactors.text=若在設定文件中啟用對應選項，鈣鈾雲母將不再只掉落鈾，而是各有 50% 的機率分別掉落鈾和黃鈾。
 geolosys.guide.chapter.galena.name=方鉛礦
 geolosys.guide.chapter.galena.text=方鉛礦是種大型的銀礦兼鉛礦。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.getting_started.name=起步
-geolosys.guide.chapter.getting_started.text=Geolosys 是一個致力於提高挖礦難度的 Mod，其風格和群巒傳說 Mod 相近。一言以蔽之，Geolosys 使礦石生成更接近現實。你首先需要尋找散落在地表的礦物樣本，這代表在發現樣本的地點下方有礦藏。找到以後就可以開始挖了！參閱“探礦”一章了解更多關於尋找礦脈的信息。
+geolosys.guide.chapter.getting_started.text=Geolosys 是一個致力於提高挖礦難度的 Mod，其風格和群巒傳說 Mod 相近。一言以蔽之，Geolosys 使礦石生成更接近現實。你首先需要尋找散落在地表的礦物樣本，這代表在發現樣本的地點下方有礦藏。找到以後就可以開始挖了！參閱“探礦”一章了解更多關於尋找礦脈的資訊。
 geolosys.guide.chapter.gold.name=金礦
 geolosys.guide.chapter.gold.text=Geolosys 的金礦與原版的金礦相像，可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。 §4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.hematite.name=赤鐵礦
 geolosys.guide.chapter.hematite.text=赤鐵礦是一種易發現的小型礦物（至少設定如此），適合從中提煉鐵。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
 geolosys.guide.chapter.immersive_engineering.name=Immersive Engineering
-geolosys.guide.chapter.immersive_engineering.text=除了煤炭會掉落硫磺之外，巖芯鑽井和鬥輪挖掘機也會檢測並挖掘 Geolosys 的§o礦石§r方塊。
+geolosys.guide.chapter.immersive_engineering.text=除了煤炭會掉落硫磺之外，岩芯鑽井和鬥輪挖掘機也會檢測並挖掘 Geolosys 的§o礦石§r方塊。
 geolosys.guide.chapter.introduction.name=簡介
 geolosys.guide.chapter.journeymap.name=JourneyMap
 geolosys.guide.chapter.journeymap.text=右擊某個樣本時，Geolosys 會自動向 JourneyMap 小地圖中添加對應的路徑點。
-geolosys.guide.chapter.kimberlite.name=金伯利巖
-geolosys.guide.chapter.kimberlite.text=Geolosys 的金伯利巖是更貼近現實的原版鑽石礦替代品，可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
+geolosys.guide.chapter.kimberlite.name=金伯利岩
+geolosys.guide.chapter.kimberlite.text=Geolosys 的金伯利岩是更貼近現實的原版鑽石礦替代品，可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.lapis.name=青金石
 geolosys.guide.chapter.lapis.text=Geolosys 的青金石礦與原版的青金石礦相像，可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
 geolosys.guide.chapter.limonite.name=褐鐵礦
@@ -65,37 +65,37 @@ geolosys.guide.chapter.limonite.text=褐鐵礦是一種難發現的大型礦物�
 geolosys.guide.chapter.malachite.name=孔雀石
 geolosys.guide.chapter.malachite.text=孔雀石是一種易發現的小型礦物（至少設定如此），適合從中提煉銅。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
 geolosys.guide.chapter.mekanism.name=Mekanism
-geolosys.guide.chapter.mekanism.text=若在配置文件中啟用對應選項，鉑礦將不再只掉落鉑，而是各有 50% 的概率分別掉落鉑和鋨。若鋨是§o唯一§r啟用的礦物，鉑礦將只掉落鋨。
+geolosys.guide.chapter.mekanism.text=若在設定文件中啟用對應選項，鉑礦將不再只掉落鉑，而是各有 50% 的機率分別掉落鉑和鋨。若鋨是§o唯一§r啟用的礦物，鉑礦將只掉落鋨。
 geolosys.guide.chapter.mod_compat.name=跨 Mod 相容
 geolosys.guide.chapter.modded_ores.name=Mod 資源
-geolosys.guide.chapter.modded_ores.text=Geolosys 也添加了對若幹其他 Mod 的礦石的支持，它們的樣本和礦簇也會一並加入世界生成。
+geolosys.guide.chapter.modded_ores.text=Geolosys 也添加了對若干其他 Mod 的礦石的支持，它們的樣本和礦簇也會一併加入世界生成。
 geolosys.guide.chapter.nuclearcraft.name=NuclearCraft
-geolosys.guide.chapter.nuclearcraft.text=若安裝了 NuclearCraft，Geolosys 的原版礦石變種將會按和 NuclearCraft 相同的概率掉落 NuclearCraft 添加的掉落。
+geolosys.guide.chapter.nuclearcraft.text=若安裝了 NuclearCraft，Geolosys 的原版礦石變種將會按和 NuclearCraft 相同的機率掉落 NuclearCraft 添加的掉落。
 geolosys.guide.chapter.ore_converter.name=Ore Converter
 geolosys.guide.chapter.ore_converter.text=Ore Converter 的特性可令區塊種所有非 Geolosys 的礦石轉換成 Geolosys 中的對應礦石。這個轉換過程只會在玩家第一次進入某個區塊時發生§o一次§r。
 geolosys.guide.chapter.platinum.name=鉑礦
-geolosys.guide.chapter.platinum.text=鉑礦是鉑的主要來源，若配置文件裏允許了，也會產出鋨。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
+geolosys.guide.chapter.platinum.text=鉑礦是鉑的主要來源，若設定文件裡允許了，也會產出鋨。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.propick.name=探礦鎬
-geolosys.guide.chapter.propick_1.text=探礦鎬是個可以讓你不用再在地下漫無目的地打洞的實用工具。製作這玩意需要一些鐵，但它物有所值。
-geolosys.guide.chapter.propick_2.text=首先，（若啟用了對應的配置選項）它可以顯示區塊邊界。有鑒於樣本和礦藏會生成在同一區塊裡，這個特性可以幫助你確定在哪開始挖，挖到哪停止。（若啟用了對應的配置選項）它還會顯示當前海拔 Y 值。
-geolosys.guide.chapter.propick_3.text=此外，在海平面之上手持探礦鎬右擊地面時，它會提示當前區塊有哪種礦脈。在地表沒有樣本的時候這個特性可以幫你尋找礦藏。若是在海平面之下，它則會提示在你視線方向前的一定範圍內（預設是 5x5x5）有沒有礦藏。
+geolosys.guide.chapter.propick_1.text=探礦鎬是個可以讓你不用再在地下漫無目的地打洞的實用工具。製作這東西需要一些鐵，但它物有所值。
+geolosys.guide.chapter.propick_2.text=首先，（若啟用了對應的設定選項）它可以顯示區塊邊界。有鑒於樣本和礦藏會生成在同一區塊裡，這個特性可以幫助你確定在哪開始挖，挖到哪停止。（若啟用了對應的設定選項）它還會顯示目前海拔 Y 值。
+geolosys.guide.chapter.propick_3.text=此外，在海平面之上手持探礦鎬右擊地面時，它會提示目前區塊有哪種礦脈。在地表沒有樣本的時候這個特性可以幫你尋找礦藏。若是在海平面之下，它則會提示在你視線方向前的一定範圍內（預設是 5x5x5）有沒有礦藏。
 geolosys.guide.chapter.prospecting.name=探礦
 geolosys.guide.chapter.quartz.name=石英
 geolosys.guide.chapter.quartz.text=石英礦會在有對應 Mod 安裝的情況下產出各種石英，例如實用擴展的焦黑石英和應用動力的充能賽特斯石英或普通賽特斯石英。石英礦可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要石鎬挖掘。§0
 geolosys.guide.chapter.resources.name=礦產
 geolosys.guide.chapter.samples.name=樣本
-geolosys.guide.chapter.samples_1.text=樣本（見上圖）會生成在地表，相同地點的地下能找到對應的礦脈。配置文件允許時，可右擊或直接破壞樣本，並根據掉落物判斷礦脈的產出。
+geolosys.guide.chapter.samples_1.text=樣本（見上圖）會生成在地表，相同地點的地下能找到對應的礦脈。設定文件允許時，可右擊或直接破壞樣本，並根據掉落物判斷礦脈的產出。
 geolosys.guide.chapter.samples_2.text=某些樣本會掉落和礦脈產出一樣的礦簇，這些礦簇能像其他礦石一樣直接冶煉或進一步加工。
 geolosys.guide.chapter.sphalerite.name=閃鋅礦
 geolosys.guide.chapter.sphalerite.text=閃鋅礦是鋅的主要來源。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.stones.name=岩石
-geolosys.guide.chapter.stones.text=原版的幾種岩石現在以深埋地下的大型巖層出現，而非原版的遍布地下的小型岩石團。
+geolosys.guide.chapter.stones.text=原版的幾種岩石現在以深埋地下的大型岩層出現，而非原版的遍布地下的小型岩石團。
 geolosys.guide.chapter.teallite.name=硫錫鉛礦
 geolosys.guide.chapter.teallite.text=硫錫鉛礦是一種難發現的大型礦物，可用於提煉錫（譯註：雖然名字是硫錫鉛礦，現實中這種礦物也的確含硫和鉛，但在 Geolosys 中它只含錫）。可在§3海拔 Y = <maxY> 到 Y = <minY> §0之間找到。§4需要鐵鎬挖掘。§0
 geolosys.guide.chapter.twilight_forest.name=Twilight Forest
 geolosys.guide.chapter.twilight_forest.text=在暮色森林中，所有礦石的生成均會根據暮色森林的平均海拔而調整生成高度。
 geolosys.guide.chapter.vanilla_ores.name=原版資源
-geolosys.guide.chapter.vanilla_ores.text=若啟用 Geolosys 的對應選項，Geolosys 將會覆蓋原版礦石生成。這意味著你將需要用 Geolosys 的方式來收集像是鐵和煤炭這樣的原版礦物資源。注意：石英也不在下界生成了！什麽你說某些合成配方需要原版礦石？沒問題！精準采集 Geolosys 的礦石可獲得對應的原版礦石。
+geolosys.guide.chapter.vanilla_ores.text=若啟用 Geolosys 的對應選項，Geolosys 將會覆蓋原版礦石生成。這意味著你將需要用 Geolosys 的方式來收集像是鐵和煤炭這樣的原版礦物資源。注意：石英也不在地獄生成了！什麼你說某些合成配方需要原版礦石？沒問題！精準採集 Geolosys 的礦石可獲得對應的原版礦石。
 geolosys.guide.generic.abovesealevel=%1$s 米 於海平面之上
 geolosys.guide.generic.atsealevel=與海平面持平
 geolosys.guide.generic.belowsealevel=%1$s 米 於海平面之下
@@ -134,29 +134,29 @@ geolosys.ore_sample.sphalerite.name=閃鋅礦樣本
 geolosys.ore_sample.teallite.name=硫錫鉛礦樣本
 geolosys.ore_sample_vanilla.beryl.name=綠柱石樣本
 geolosys.ore_sample_vanilla.beryl_vanilla.name=綠寶石樣本
-geolosys.ore_sample_vanilla.cinnabar.name=朱砂樣本
+geolosys.ore_sample_vanilla.cinnabar.name=硃砂樣本
 geolosys.ore_sample_vanilla.cinnabar_vanilla.name=紅石樣本
 geolosys.ore_sample_vanilla.coal.name=煤炭樣本
 geolosys.ore_sample_vanilla.coal_vanilla.name=煤炭樣本
 geolosys.ore_sample_vanilla.gold.name=金礦樣本
 geolosys.ore_sample_vanilla.gold_vanilla.name=金礦樣本
-geolosys.ore_sample_vanilla.kimberlite.name=金伯利巖樣本
+geolosys.ore_sample_vanilla.kimberlite.name=金伯利岩樣本
 geolosys.ore_sample_vanilla.kimberlite_vanilla.name=鑽石樣本
-geolosys.ore_sample_vanilla.lapis.name=青金巖樣本
+geolosys.ore_sample_vanilla.lapis.name=青金岩樣本
 geolosys.ore_sample_vanilla.lapis_vanilla.name=青金石樣本
 geolosys.ore_sample_vanilla.quartz.name=石英樣本
 geolosys.ore_sample_vanilla.quartz_vanilla.name=石英樣本
 geolosys.ore_vanilla.beryl.name=綠柱石
 geolosys.ore_vanilla.beryl_vanilla.name=綠寶石礦石
-geolosys.ore_vanilla.cinnabar.name=朱砂
+geolosys.ore_vanilla.cinnabar.name=硃砂
 geolosys.ore_vanilla.cinnabar_vanilla.name=紅石礦石
 geolosys.ore_vanilla.coal.name=煤炭
 geolosys.ore_vanilla.coal_vanilla.name=煤礦石
 geolosys.ore_vanilla.gold.name=金礦
 geolosys.ore_vanilla.gold_vanilla.name=金礦石
-geolosys.ore_vanilla.kimberlite.name=金伯利巖
+geolosys.ore_vanilla.kimberlite.name=金伯利岩
 geolosys.ore_vanilla.kimberlite_vanilla.name=鑽石礦石
-geolosys.ore_vanilla.lapis.name=青金巖
+geolosys.ore_vanilla.lapis.name=青金岩
 geolosys.ore_vanilla.lapis_vanilla.name=青金石礦石
 geolosys.ore_vanilla.quartz.name=石英
 geolosys.ore_vanilla.quartz_vanilla.name=石英礦石
@@ -172,7 +172,7 @@ geolosys.coal_coke.lignite.name=褐焦煤
 geolosys.coal_coke.bituminous.name=煙焦煤
 geolosys.pro_pick.tooltip.mode.ores=§6 礦石勘探
 geolosys.pro_pick.tooltip.mode.stones=§b 礦脈勘探
-geolosys.guide.chapter.ore.description=在任何生物群系中，%1$s 可以在高度 %2$s 和 %3$s 之間被找到。它具有 %4$s 的幾率生成大約 5$s 塊礦石。此礦物需要的挖掘等級為 %6$s 。
-geolosys.guide.chapter.ore.multi.description=在任何生物群系中，%1$s 可以在高度 %2$s 和 %3$s 之間被找到。它整體上有 %4$s 的幾率生成大約 5$s 塊礦石。此礦物需要的挖掘等級為 %6$s 。
-geolosys.guide.chapter.ore.biome.description=%1$s 只能在 %4$s 生物體系中被發現，此礦物可以在高度 %2$s 和 %3$s 之間被找到。它具有 %5$s 的幾率生成大約 6$s 塊礦石。此礦物需要的挖掘等級為 %7$s 。
-geolosys.guide.chapter.ore.mutli.biome.description=%1$s 只能在 %4$s 生物體系中被發現，此礦物可以在高度 %2$s 和 %3$s 之間被找到。它整體上有 %5$s 的幾率生成大約 6$s 塊礦石。此礦物需要的挖掘等級為 %7$s 。
+geolosys.guide.chapter.ore.description=在任何生態域中，%1$s 可以在高度 %2$s 和 %3$s 之間被找到。它具有 %4$s 的機率生成大約 5$s 塊礦石。此礦物需要的挖掘等級為 %6$s 。
+geolosys.guide.chapter.ore.multi.description=在任何生態域中，%1$s 可以在高度 %2$s 和 %3$s 之間被找到。它整體上有 %4$s 的機率生成大約 5$s 塊礦石。此礦物需要的挖掘等級為 %6$s 。
+geolosys.guide.chapter.ore.biome.description=%1$s 只能在 %4$s 生物體系中被發現，此礦物可以在高度 %2$s 和 %3$s 之間被找到。它具有 %5$s 的機率生成大約 6$s 塊礦石。此礦物需要的挖掘等級為 %7$s 。
+geolosys.guide.chapter.ore.mutli.biome.description=%1$s 只能在 %4$s 生物體系中被發現，此礦物可以在高度 %2$s 和 %3$s 之間被找到。它整體上有 %5$s 的機率生成大約 6$s 塊礦石。此礦物需要的挖掘等級為 %7$s 。

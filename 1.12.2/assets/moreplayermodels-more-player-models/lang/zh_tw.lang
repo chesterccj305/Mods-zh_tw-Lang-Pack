@@ -1,10 +1,10 @@
-menu.mpm=More Player Models
+﻿menu.mpm=More Player Models
 
 gui.normal=正常
 gui.none=無
 gui.save=保存
 gui.load=載入
-gui.config=配置
+gui.config=設定
 gui.entity=實體
 gui.parts=部分
 gui.scale=大小
@@ -31,10 +31,10 @@ scale.shared=共享
 
 part.ears=耳朵
 part.horns=角
-part.hair=頭發
+part.hair=頭髮
 part.mohawk=莫霍克
 part.snout=鼻子
-part.beard=胡子
+part.beard=鬍子
 part.wings=翅膀
 part.claws=爪子
 part.skirt=裙子

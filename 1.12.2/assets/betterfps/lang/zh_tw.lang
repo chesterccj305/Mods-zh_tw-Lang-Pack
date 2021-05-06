@@ -1,4 +1,4 @@
-# Traditional Chinese Contributors
+﻿# Traditional Chinese Contributors
 # jh1226 - jonathanho1226@gmail.com
 
 # Updater
@@ -24,9 +24,9 @@ betterfps.update.phrase.11=因為自動更新可能會把你的遊戲弄得亂�
 betterfps.update.phrase.12=你想要些新東西嗎？看，有一個更新。
 
 # Installer
-betterfps.installer.title=BetterFps安装程序
+betterfps.installer.title=BetterFps安裝程式
 betterfps.installer.versions=版本%s 適用於 Minecraft %s
-betterfps.installer.note.1=此安装程序是為使用官方啟動器的純Minecraft而建。
+betterfps.installer.note.1=此安裝程式是為使用官方啟動器的純Minecraft而建。
 betterfps.installer.note.2=如果你正在使用Forge或LiteLoader，將本檔提取至mods資料夾裡。
 betterfps.installer.note.3=啟動器或許需要被關閉或重啟。
 betterfps.installer.button.install=安裝
@@ -68,7 +68,7 @@ betterfps.options.restart.dialog.2=您想現在就重啟嗎？
 
 # GUI Algorithm Option
 betterfps.options.algorithm.title=演算法
-betterfps.options.algorithm.desc=計算正弦和余弦的演算法
+betterfps.options.algorithm.desc=計算正弦和餘弦的演算法
 betterfps.options.algorithm.action=Shift-點擊我以測試演算法（這需要幾秒鐘的時間）
 
 # GUI Algorithm Option Values

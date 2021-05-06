@@ -1,4 +1,4 @@
-item.magneticraft.guide_book_normal.name=磁場工藝指導手冊
+﻿item.magneticraft.guide_book_normal.name=磁場工藝指導手冊
 
 item.magneticraft.iron_hammer_normal.name=鐵錘
 item.magneticraft.stone_hammer_normal.name=石錘
@@ -144,7 +144,7 @@ gui.magneticraft.shelving_unit.opt0=頂級
 gui.magneticraft.shelving_unit.opt1=中級
 gui.magneticraft.shelving_unit.opt2=低級
 
-gui.magneticraft.config_gui.title=磁場工藝配置
+gui.magneticraft.config_gui.title=磁場工藝設定
 
 item.magneticraft.electric_drill_normal.name=電鑽
 item.magneticraft.electric_chainsaw_normal.name=電鋸
@@ -236,7 +236,7 @@ tile.magneticraft.shelving_unit_inactive_north.name=貨架
 tile.magneticraft.steam_engine_inactive_north.name=蒸汽機
 tile.magneticraft.solar_tower_inactive_north.name=太陽能塔
 tile.magneticraft.solar_mirror_inactive_north.name=太陽能反光鏡
-tile.magneticraft.container_inactive_north.name=集裝箱
+tile.magneticraft.container_inactive_north.name=貨櫃
 tile.magneticraft.pumpjack_inactive_north.name=石油鑽井
 tile.magneticraft.hydraulic_press_inactive_north.name=液壓機
 tile.magneticraft.oil_heater_inactive_north.name=原油加熱器
@@ -340,7 +340,7 @@ fluid.magneticraft.lpg=液化石油氣
 
 fluid.magneticraft.natural_gas=天然氣
 fluid.magneticraft.naphtha=石腦油
-fluid.magneticraft.plastic=液化塑料
+fluid.magneticraft.plastic=液化塑膠
 
 fluid.magneticraft.diesel=柴油
 fluid.magneticraft.kerosene=煤油

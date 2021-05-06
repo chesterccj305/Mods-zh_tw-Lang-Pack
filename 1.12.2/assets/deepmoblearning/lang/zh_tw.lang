@@ -1,4 +1,4 @@
-#
+﻿#
 # Blocks
 #
 tile.deepmoblearning.simulation_chamber.name=模擬室
@@ -15,7 +15,7 @@ item.deepmoblearning.soot_covered_redstone.name=炭灰紅石
 item.deepmoblearning.soot_covered_plate.name=炭灰板材
 item.deepmoblearning.deep_learner.name=§b深度學習器§r
 item.deepmoblearning.creative_model_learner.name=創造模式模型學習器
-item.deepmoblearning.trial_key.name=§b測試密鑰§r
+item.deepmoblearning.trial_key.name=§b測試金鑰§r
 item.deepmoblearning.glitch_heart.name=§b損壞的故障心臟§r
 item.deepmoblearning.glitch_fragment.name=§b不穩定故障碎片§r
 item.deepmoblearning.glitch_infused_ingot.name=§b故障灌注錠§r
@@ -98,12 +98,12 @@ deepmoblearning.data_model.data.collected=§r收集的數據：§7%s/%s§r
 deepmoblearning.data_model.data.killmultiplier=§r每次殺死數據：§7%s§r
 deepmoblearning.data_model.rfcost=§r模擬成本：§7%s RF/t§r
 deepmoblearning.living_matter.exp=§7每個物品的經驗：§a%s§r
-deepmoblearning.trial_key.notattuned=§7該鑰匙當前未調諧§r
-deepmoblearning.trial_key.attunement_go_to_jei=§7在指南中了解關於調諧的更多信息§r
+deepmoblearning.trial_key.notattuned=§7該鑰匙目前未調諧§r
+deepmoblearning.trial_key.attunement_go_to_jei=§7在指南中了解關於調諧的更多資訊§r
 deepmoblearning.trial_key.attuned_type=§r鑰匙調諧到：§7%s§r
 deepmoblearning.trial_key.tier=§r鑰匙等級：§7%s§r
 deepmoblearning.trial_key.affixes=§r詞綴：§7%s§r
-deepmoblearning.trial_key.affix_go_to_jei=§7閱讀更多關於指南中每個詞綴的信息§r
+deepmoblearning.trial_key.affix_go_to_jei=§7閱讀更多關於指南中每個詞綴的資訊§r
 
 deepmoblearning.trial_key.jei.type=§r鑰匙類型：§7%s§r
 deepmoblearning.trial_key.jei.tier=§r鑰匙等級：§7%s§r
@@ -118,7 +118,7 @@ deepmoblearning.jei.category.trial_keystone.tier=§r%s§r
 #
 # GUI
 #
-deepmoblearning.holdshift=§7按下 §r§oShift§r§7 了解更多信息§r
+deepmoblearning.holdshift=§7按下 §r§oShift§r§7 了解更多資訊§r
 
 #
 # Entity

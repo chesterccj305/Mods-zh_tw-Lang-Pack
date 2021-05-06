@@ -1,5 +1,5 @@
-#Blocks
-tile.engineersworkshop:blockTable.name=工作台
+﻿#Blocks
+tile.engineersworkshop:blockTable.name=工作檯
 
 #Upgrade Names
 engineersworkshop:upgrade.blank.name=空白升級
@@ -24,7 +24,7 @@ engineersworkshop:upgrade.axe.name=斧頭升級
 engineersworkshop:upgrade.blank.description=用於製作其他組件
 engineersworkshop:upgrade.auto_crafter.description=能夠自動進行合成
 engineersworkshop:upgrade.storage.description=添加額外的儲存空間
-engineersworkshop:upgrade.charged.description=讓閑置組件充電以供稍後使用
+engineersworkshop:upgrade.charged.description=讓閒置組件充電以供稍後使用
 engineersworkshop:upgrade.speed.description=提高生產速度
 engineersworkshop:upgrade.queue.description=添加輸入候選
 engineersworkshop:upgrade.efficiency.description=提高固體燃料類型的燃料效率
@@ -32,7 +32,7 @@ engineersworkshop:upgrade.lava.description=允許熔岩用作能量來源
 engineersworkshop:upgrade.rf.description=允許RF用作能量來源
 engineersworkshop:upgrade.solar.description=允許將陽光用作能量來源
 #engineersworkshop:upgrade.eu.description=Allows EU to be used as fuel
-engineersworkshop:upgrade.auto_transfer.description=使工作台能夠自動輸出
+engineersworkshop:upgrade.auto_transfer.description=使工作檯能夠自動輸出
 engineersworkshop:upgrade.filter.description=為輸出時添加過濾器
 engineersworkshop:upgrade.transfer.description=提高自動傳輸能力
 engineersworkshop:upgrade.max_power.description=增加最大能量容量

@@ -1,4 +1,4 @@
-# Items 物品
+﻿# Items 物品
 
 item.notreepunching:grass_fiber.name=植物纖維
 item.notreepunching:grass_string.name=纖維繩
@@ -75,7 +75,7 @@ tile.notreepunching:fire_pit.name=火坑
 jei.category.knife_recipe=小刀切割
 jei.category.firepit_recipe=火坑燒煉
 
-jei.description.rock=發現地上有散落的頭石時，可破壞或右鍵將其拾起。
+jei.description.rock=發現地上有散落的頭石時，可破壞或右鍵將其撿起。
 jei.description.grass_fiber=用小刀割斷雜草後，植物纖維就會掉落。
 jei.description.stick=Sticks are dropped ocassionally from leaves. Using a knife increaces the chance of getting sticks.
 jei.description.flint_shard=Flint shards are obtained by knapping (right clicking) a piece of flint on top of any rocky surface. It has a chance to split into two flint shards.

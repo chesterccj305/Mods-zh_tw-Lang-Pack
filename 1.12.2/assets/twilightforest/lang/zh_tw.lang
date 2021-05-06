@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 
 itemGroup.twilightForest=暮光森林
 
@@ -65,7 +65,7 @@ advancement.twilightforest.progress_ur_ghast.desc=觸摸%s的熾熱眼淚，它�
 
 advancement.twilightforest.experiment_115=神秘的肉？
 advancement.twilightforest.experiment_115.desc=儘管它看起來像蛋糕……
-advancement.twilightforest.experiment_115_2=做個記錄：大成功！
+advancement.twilightforest.experiment_115_2=做個紀錄：大成功！
 advancement.twilightforest.experiment_115_2.desc=這實在是太美味多汁了!
 
 # Snow Forest Progression
@@ -166,7 +166,7 @@ tile.twilightforest.Plant.8.name=根鬚
 tile.twilightforest.Plant.9.name=樹葉堆
 tile.twilightforest.Roots.0.name=根莖
 tile.twilightforest.Roots.1.name=活根莖
-tile.twilightforest.UncraftingTable.name=暮光工作台
+tile.twilightforest.UncraftingTable.name=暮光工作檯
 tile.twilightforest.FireJet.0.name=冒煙方塊
 tile.twilightforest.FireJet.1.name=冒煙機關
 tile.twilightforest.FireJet.2.name=冒煙機關
@@ -540,8 +540,8 @@ item.twilightforest.iceSword.name=寒冰劍
 item.twilightforest.glassSword.name=玻璃劍
 item.twilightforest.knightmetalRing.name=騎士金屬環
 item.twilightforest.chainBlock.name=鏈錘
-item.twilightforest.cubeTalisman.name=魔方護符
-item.twilightforest.cubeOfAnnihilation.name=毀滅魔方
+item.twilightforest.cubeTalisman.name=魔術方塊護符
+item.twilightforest.cubeOfAnnihilation.name=毀滅魔術方塊
 item.twilightforest.moonDial.name=月亮懷錶
 
 item.twilightforest.guide.name=旅行者日記
@@ -627,7 +627,7 @@ entity.twilightforest.giant_miner.name=礦工巨人
 entity.twilightforest.armored_giant.name=裝甲巨人
 entity.twilightforest.ice_crystal.name=冰晶
 entity.twilightforest.rising_zombie.name=殭屍
-entity.twilightforest.apocalypse_cube.name=天啟魔方[尚無實作]
+entity.twilightforest.apocalypse_cube.name=天啟魔術方塊[尚無實作]
 entity.twilightforest.adherent.name=信徒 [尚無實作]
 entity.twilightforest.castle_guardian.name=城堡守衛 [尚無實作]
 
@@ -692,7 +692,7 @@ twilightforest.config.leaves_light_opacity.tooltip=如果樹葉不是滿的立�
 twilightforest.config.glacier_packed_ice=由冰磚製成的冰川而不是冰
 twilightforest.config.glacier_packed_ice.tooltip=設定為是將使暮光冰川由冰磚生成，而不是普通的半透明的冰，減少檢查計算光量。
 twilightforest.config.enable_skylight=啟用天窗
-twilightforest.config.enable_skylight.tooltip=如果世界具有每塊的天窗值。禁用此功能將顯著提高世界整體性能，代價是無處不在的平面照明。\n警告：一旦沒有天窗載入方塊，該數據就會丟失，無法輕易重新生成。小心！
+twilightforest.config.enable_skylight.tooltip=如果世界具有每塊的天窗值。禁用此功能將顯著提高世界整體性能，代價是無處不在的平面照明。\n警告：一旦沒有天窗載入方塊，該數據就會遺失，無法輕易重新生成。小心！
 
 twilightforest.config.silent_cicadas=沉默的蟬
 twilightforest.config.silent_cicadas.tooltip=讓蟬保持沉默，為那些有音效函式庫問題，或者發現牠們很煩人的人而設。
@@ -715,7 +715,7 @@ twilightforest.config.portal_lighting.tooltip=如果你不想讓傳送門的閃�
 twilightforest.config.portal_return=傳送門應否生成一個雙向傳送門
 twilightforest.config.portal_return.tooltip=如果為否，則返回傳送門將需要物品啟動。
 twilightforest.config.check_portal_destination=預先檢查傳送門目的地
-twilightforest.config.check_portal_destination.tooltip=確定是否應預先檢查新傳送門的安全性。如果啟用，則門戶將無法形成而不是重定向到安全的備用目標。\n請注意，啟用此選項還會降低執行門戶網站形成檢查的速率。
+twilightforest.config.check_portal_destination.tooltip=確定是否應預先檢查新傳送門的安全性。如果啟用，則門戶將無法形成而不是重定向到安全的備用目標。\n請注意，啟用此選項還會降低執行入口網站形成檢查的速率。
 
 twilightforest.config.progression_default=進度規則預設值
 twilightforest.config.progression_default.tooltip=設置控制強制進度的遊戲規則的預設值。
@@ -730,11 +730,11 @@ twilightforest.config.animate_trophyitem=旋轉項目模型上的獎杯頭顱
 twilightforest.config.animate_trophyitem.tooltip=旋轉項目模型上的獎杯頭顱。完全沒有效能影響。為那些不喜歡有趣的人而設。
 
 twilightforest.config.shield_parry=盾牌格擋
-twilightforest.config.shield_parry.tooltip=我們建議下載盾牌格擋模組（Shield Parry mod）進行格擋，但這些控件保持不用。
+twilightforest.config.shield_parry.tooltip=我們建議下載盾牌格擋模組（Shield Parry mod）進行格擋，但這些控制項保持不用。
 twilightforest.config.parry_non_twilight=格擋非暮光拋射物
 twilightforest.config.parry_non_twilight.tooltip=設定為是以格擋非暮光拋射物。我們建議下載盾牌格擋模組（Shield Parry mod）。
 twilightforest.config.parry_window_arrow=格擋箭矢計時
-twilightforest.config.parry_window_arrow.tooltip=舉起一個盾後多少刻（ticks）可以讓它能夠格擋一支箭矢。1秒內有20刻（ticks）。
+twilightforest.config.parry_window_arrow.tooltip=舉起一個盾後多少刻（ticks）可以讓它能夠格擋一枝箭矢。1秒內有20刻（ticks）。
 twilightforest.config.parry_window_fireball=格擋火球計時
 twilightforest.config.parry_window_fireball.tooltip=舉起一個盾後多少刻（ticks）可以讓它能夠格擋一支火球。1秒內有20刻（ticks）。
 twilightforest.config.parry_window_throwable=格擋拋出物計時
@@ -743,26 +743,26 @@ twilightforest.config.shieldParryTicksBeam=Timing Windowspan for Beams???
 twilightforest.config.shieldParryTicksBeam.tooltip=???
 
 twilightforest.config.loading_screen=載入畫面
-twilightforest.config.loading_screen.tooltip=僅限客戶端：控制載入畫面
-twilightforest.config.loading_icon_enable=啟用載入圖標動畫
-twilightforest.config.loading_icon_enable.tooltip=擺動載入圖標。完全沒有效能影響。為那些不喜歡有趣的人而設。
+twilightforest.config.loading_screen.tooltip=僅限用戶端：控制載入畫面
+twilightforest.config.loading_icon_enable=啟用載入圖示動畫
+twilightforest.config.loading_icon_enable.tooltip=擺動載入圖示。完全沒有效能影響。為那些不喜歡有趣的人而設。
 twilightforest.config.loading_screen_swap_frequency=載入螢幕切換
 twilightforest.config.loading_screen_swap_frequency.tooltip=每個載入螢幕之間相隔多少個ticks產生變化。設定為0則不會循環。
-twilightforest.config.loading_icon_wobble_bounce_frequency=圖標動畫速度
+twilightforest.config.loading_icon_wobble_bounce_frequency=圖示動畫速度
 twilightforest.config.loading_icon_wobble_bounce_frequency.tooltip=搖擺和跳動的頻率。
-twilightforest.config.loading_icon_scale=圖標縮放
-twilightforest.config.loading_icon_scale.tooltip=整個彈性載入圖標的比例。
-twilightforest.config.loading_icon_bounciness=圖標反彈力
-twilightforest.config.loading_icon_bounciness.tooltip=載入圖標反彈多少。
-twilightforest.config.loading_icon_tilting=圖標搖擺度
-twilightforest.config.loading_icon_tilting.tooltip=載入圖標搖擺多遠。
-twilightforest.config.loading_icon_tilt_pushback=圖標傾斜偏移
-twilightforest.config.loading_icon_tilt_pushback.tooltip=將值推回載入圖標的擺動並重新置中。
+twilightforest.config.loading_icon_scale=圖示縮放
+twilightforest.config.loading_icon_scale.tooltip=整個彈性載入圖示的比例。
+twilightforest.config.loading_icon_bounciness=圖示反彈力
+twilightforest.config.loading_icon_bounciness.tooltip=載入圖示反彈多少。
+twilightforest.config.loading_icon_tilting=圖示搖擺度
+twilightforest.config.loading_icon_tilting.tooltip=載入圖示搖擺多遠。
+twilightforest.config.loading_icon_tilt_pushback=圖示傾斜偏移
+twilightforest.config.loading_icon_tilt_pushback.tooltip=將值推回載入圖示的擺動並重新置中。
 
 # Books
 twilightforest.book.lichtower.1=\u00A78[[探險家的筆記本，被怪物啃過]]\u00A70\n\n我已經開始審視這個塔樓周圍的奇怪光環。塔的磚塊受到詛咒的保護，比我之前見過的任何一塊都強。詛咒中的魔法
 twilightforest.book.lichtower.2=正在向周圍地區沸騰。\n\n在我的家鄉，我會有很多選擇來處理這個魔法，但是在這裡我的資源是有限的。我不得不研究……
-twilightforest.book.lichtower.3=\u00A78[[很多條目以後]]\u00A70\n\n一個突破！在我的旅程中，我在裝飾的庭院裡看到了一條巨大的蛇狀怪物。在附近，我拾起了一個磨損、被丟棄的綠色鳞片。\n\n鱗片上的魔法似乎具有
+twilightforest.book.lichtower.3=\u00A78[[很多條目以後]]\u00A70\n\n一個突破！在我的旅程中，我在裝飾的庭院裡看到了一條巨大的蛇狀怪物。在附近，我撿起了一個磨損、被丟棄的綠色鱗片。\n\n鱗片上的魔法似乎具有
 twilightforest.book.lichtower.4=我所需要的詛咒破壞屬性，但魔法太暗淡了。我可能需要直接從生物身上獲取更新鮮的標本。
 
 twilightforest.book.labyrinth.1=\u00A78[[探險家的筆記本，寫在防水紙上]]\u00A70\n\n沼澤中的蚊子令人煩惱，但很奇怪。牠們絕大多數似乎沒有自然資源，似乎也沒有在當地生態中發揮作用。我開始

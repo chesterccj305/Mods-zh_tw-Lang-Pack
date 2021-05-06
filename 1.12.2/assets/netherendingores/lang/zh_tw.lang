@@ -1,5 +1,5 @@
-itemGroup.netherendingores=Netherending Ores
-tile.netherendingores:creative_tab.name=（創造模式物品欄圖標）
+﻿itemGroup.netherendingores=Netherending Ores
+tile.netherendingores:creative_tab.name=（創造模式物品欄圖示）
 tile.netherendingores:ore_end_modded_1.aluminum_ore.name=終界鋁礦石
 tile.netherendingores:ore_end_modded_1.certus_quartz_ore.name=終界賽特斯石英礦石
 tile.netherendingores:ore_end_modded_1.charged_certus_quartz_ore.name=終界充能賽特斯石英礦石
@@ -27,7 +27,7 @@ tile.netherendingores:ore_nether_modded_1.aluminum_ore.name=地獄鋁礦石
 tile.netherendingores:ore_nether_modded_1.certus_quartz_ore.name=地獄賽特斯石英礦石
 tile.netherendingores:ore_nether_modded_1.charged_certus_quartz_ore.name=地獄充能賽特斯石英礦石
 tile.netherendingores:ore_nether_modded_1.copper_ore.name=地獄銅礦石
-tile.netherendingores:ore_nether_modded_1.dilithium_ore.name=下界二鋰礦石
+tile.netherendingores:ore_nether_modded_1.dilithium_ore.name=地獄二鋰礦石
 tile.netherendingores:ore_nether_modded_1.iridium_ore.name=地獄銥礦石
 tile.netherendingores:ore_nether_modded_1.lead_ore.name=地獄鉛礦石
 tile.netherendingores:ore_nether_modded_1.mithril_ore.name=地獄秘銀礦石
@@ -36,7 +36,7 @@ tile.netherendingores:ore_nether_modded_1.osmium_ore.name=地獄鋨礦石
 tile.netherendingores:ore_nether_modded_1.platinum_ore.name=地獄鉑礦石
 tile.netherendingores:ore_nether_modded_1.silver_ore.name=地獄銀礦石
 tile.netherendingores:ore_nether_modded_1.tin_ore.name=地獄錫礦石
-tile.netherendingores:ore_nether_modded_1.tritanium_ore.name=下界三鈦礦石
+tile.netherendingores:ore_nether_modded_1.tritanium_ore.name=地獄三鈦礦石
 tile.netherendingores:ore_nether_modded_1.uranium_ore.name=地獄鈾礦石
 tile.netherendingores:ore_nether_modded_1.yellorite_ore.name=地獄黃鈾礦石
 tile.netherendingores:ore_nether_vanilla.coal_ore.name=地獄煤礦石
@@ -55,4 +55,4 @@ tile.netherendingores:ore_other_1.overworld_quartz_ore.name=石英礦石
 # Modded End Ores 2
 tile.netherendingores:ore_end_modded_2.zinc_ore.name=終界鋅礦石
 # Modded Nether Ores 2
-tile.netherendingores:ore_nether_modded_2.zinc_ore.name=下界鋅礦石
+tile.netherendingores:ore_nether_modded_2.zinc_ore.name=地獄鋅礦石

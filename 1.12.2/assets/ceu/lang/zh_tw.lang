@@ -1,4 +1,4 @@
-ceu.machine.ceu.ulv.1.name=CEU（ULV）
+﻿ceu.machine.ceu.ulv.1.name=CEU（ULV）
 ceu.machine.ceu.ulv.4.name=CEU（ULV）
 ceu.machine.ceu.ulv.9.name=CEU（ULV）
 ceu.machine.ceu.ulv.16.name=CEU（ULV）
@@ -154,5 +154,5 @@ info.infinite_energy.decline=拒絕
 info.button.accept=請按§lENTER§r接受更改
 info.button.decline=按§lESC§r拒絕更改
 tile.broken_ceu.name=§kasdfasdfasagadwewvccxasda§r
-tile.test.ohno.0=哦，不，它出故障了。
+tile.test.ohno.0=哦，不，它故障了。
 tile.test.ohno.1=似乎此方塊是%s/**@已棄用*/§r§7，您應該使用新的無限能源，可在GTCE選項卡中找到，而不是此損壞的機器。

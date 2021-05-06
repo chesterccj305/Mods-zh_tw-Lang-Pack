@@ -1,4 +1,4 @@
-//**********//
+﻿//**********//
 //EXTRACELLS//
 //**********//
 
@@ -55,13 +55,13 @@ extracells.item.oc.upgrade.name=ME升級
 itemGroup.Extra_Cells=Extra Cells 2
 
 //Item Groups
-extracells.fluid.IO=ME流體輸出/輸入總線
+extracells.fluid.IO=ME流體輸出/輸入匯流排
 extracells.fluid.plane=ME流體成型/破壞面板
 
 //Parts
-extracells.part.fluid.export.name=ME流體輸出總線
-extracells.part.fluid.import.name=ME流體輸入總線
-extracells.part.fluid.storage.name=ME流體儲存總線
+extracells.part.fluid.export.name=ME流體輸出匯流排
+extracells.part.fluid.import.name=ME流體輸入匯流排
+extracells.part.fluid.storage.name=ME流體儲存匯流排
 extracells.part.fluid.terminal.name=ME流體終端
 extracells.part.fluid.plane.annihilation.name=ME流體破壞面板
 extracells.part.fluid.plane.formation.name=ME流體成型面板
@@ -70,11 +70,11 @@ extracells.part.drive.name=ME驅動固定器
 extracells.part.battery.name=ME能源元件固定器
 extracells.part.fluid.conversion.monitor.name=ME流體交換監控器
 extracells.part.fluid.monitor.name=ME流體儲存監控器
-extracells.part.oredict.export.name=ME礦物表輸出總線
-extracells.part.gas.export.name=ME氣體輸出總線
-extracells.part.gas.import.name=ME氣體輸入總線
+extracells.part.oredict.export.name=ME礦物表輸出匯流排
+extracells.part.gas.export.name=ME氣體輸出匯流排
+extracells.part.gas.import.name=ME氣體輸入匯流排
 extracells.part.gas.terminal.name=ME氣體終端
-extracells.part.gas.storage.name=ME氣體儲存總線
+extracells.part.gas.storage.name=ME氣體儲存匯流排
 extracells.part.gas.levelemitter.name=ME氣體標準發信器
 extracells.part.gas.conversion.monitor.name=ME氣體交換監控器
 extracells.part.gas.monitor.name=ME氣體儲存監控器
@@ -83,7 +83,7 @@ extracells.part.gas.monitor.name=ME氣體儲存監控器
 extracells.block.certustank=賽特斯石英水槽
 extracells.block.walrus.name=海象
 tile.extracells.block.fluidcrafter.name=ME流體集成室
-tile.extracells.block.fluidinterface.name=ME流體接口
+tile.extracells.block.fluidinterface.name=ME流體介面
 tile.extracells.block.fluidfiller.name=ME流體自動裝填器
 tile.extracells.block.vibrantchamberfluid.name=流體諧振倉
 tile.extracells.block.hardmedrive.name=防爆ME驅動器
@@ -93,13 +93,13 @@ extracells.tooltip.amount=總數
 extracells.tooltip.fluid=流體
 extracells.tooltip.storage.physical.types=%s / %s 物品類型。
 extracells.tooltip.storage.fluid.types=%s / %s 流體類型。
-extracells.tooltip.storage.physical.bytes=%s / %s 物品字節已使用。
-extracells.tooltip.storage.fluid.bytes=%s / %s 流體字節已使用。
+extracells.tooltip.storage.physical.bytes=%s / %s 物品位元組已使用。
+extracells.tooltip.storage.fluid.bytes=%s / %s 流體位元組已使用。
 extracells.tooltip.storage.fluid.content=存有 %s mB桶流體。
 extracells.tooltip.storage.physical.content=存有 %s 個物品。
 extracells.tooltip.storage.gas.bytes=%s / %s 氣體類型。
 extracells.tooltip.storage.gas.content=存有 %s 種氣體。
-extracells.tooltip.storage.gas.types=%s / %s 氣體字節已使用。
+extracells.tooltip.storage.gas.types=%s / %s 氣體位元組已使用。
 extracells.tooltip.direction.0=下
 extracells.tooltip.direction.1=上
 extracells.tooltip.direction.2=北
@@ -122,7 +122,7 @@ extracells.tooltip.crafting=合成
 extracells.tooltip.deprecated1=該物品已被棄用
 extracells.tooltip.deprecated2=已被Applied Energistics 2中的%s取代
 extracells.tooltip.deprecated.part=放置在合成格中以進行轉換
-extracells.tooltip.deprecated.cell=使用ME-IO端口清空該元件，然後分解成其組件以進行轉換
+extracells.tooltip.deprecated.cell=使用ME-IO埠清空該元件，然後分解成其組件以進行轉換
 
 //Buttons
 extracells.gui.craft=合成

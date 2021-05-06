@@ -1,4 +1,4 @@
-#BLOCKS
+﻿#BLOCKS
 tile.bewitchment.blessed_stone.name=祝福之石
 tooltip.bewitchment.blessed_stone=給予無限的祭壇之力，創造模式專屬。
 
@@ -14,18 +14,18 @@ tile.bewitchment.opal_ore.name=蛋白石礦石
 tile.bewitchment.silver_ore.name=銀礦石
 tile.bewitchment.salt_ore.name=鹽礦石
 
-tile.bewitchment.purifying_earth.name=凈化泥土
+tile.bewitchment.purifying_earth.name=淨化泥土
 
 tile.bewitchment.coquina.name=貝殼灰岩
 tile.bewitchment.coquina_bricks.name=貝殼灰岩磚
 tile.bewitchment.chiseled_coquina.name=鏨製貝殼灰岩
 
-tile.bewitchment.nethersteel.name=下界鋼
+tile.bewitchment.nethersteel.name=地獄鋼
 
-tile.bewitchment.perpetual_ice.name=永恒之冰
-tile.bewitchment.perpetual_ice_stairs.name=永恒之冰樓梯
-tile.bewitchment.perpetual_ice_slab.name=永恒之冰台階
-tile.bewitchment.perpetual_ice_fence.name=永恒之冰柵欄
+tile.bewitchment.perpetual_ice.name=永恆之冰
+tile.bewitchment.perpetual_ice_stairs.name=永恆之冰樓梯
+tile.bewitchment.perpetual_ice_slab.name=永恆之冰台階
+tile.bewitchment.perpetual_ice_fence.name=永恆之冰柵欄
 
 tile.bewitchment.embittered_bricks.name=憎惡方磚
 tile.bewitchment.cracked_embittered_bricks.name=破碎憎惡方磚
@@ -79,7 +79,7 @@ tile.bewitchment.red_lantern.name=紅色燈籠
 tile.bewitchment.black_lantern.name=黑色燈籠
 tooltip.lantern_lit=點燃
 
-tile.bewitchment.embergrass.name=余燼草
+tile.bewitchment.embergrass.name=餘燼草
 tile.bewitchment.torchwood.name=火炬木
 
 tile.bewitchment.cypress_sapling.name=柏樹樹苗
@@ -112,10 +112,10 @@ tile.bewitchment.cypress_wood_slab.name=柏木台階
 tile.bewitchment.elder_wood_slab.name=接骨木台階
 tile.bewitchment.juniper_wood_slab.name=杜松木台階
 tile.bewitchment.yew_wood_slab.name=紫杉木台階
-tile.bewitchment.cypress_trapdoor.name=柏木活板門
-tile.bewitchment.elder_trapdoor.name=接骨木活板門
-tile.bewitchment.juniper_trapdoor.name=杜松木活板門
-tile.bewitchment.yew_trapdoor.name=紫杉木活板門
+tile.bewitchment.cypress_trapdoor.name=柏木暗門
+tile.bewitchment.elder_trapdoor.name=接骨木暗門
+tile.bewitchment.juniper_trapdoor.name=杜松木暗門
+tile.bewitchment.yew_trapdoor.name=紫杉木暗門
 tile.bewitchment.cypress_fence_gate.name=柏木柵欄門
 tile.bewitchment.elder_fence_gate.name=接骨木柵欄門
 tile.bewitchment.juniper_fence_gate.name=杜松木柵欄門
@@ -160,7 +160,7 @@ item.bewitchment.cold_iron_chestplate.name=寒鐵胸甲
 item.bewitchment.cold_iron_leggings.name=寒鐵護腿
 item.bewitchment.cold_iron_boots.name=寒鐵靴子
 
-item.bewitchment.witches_cowl.name=女巫鬥篷
+item.bewitchment.witches_cowl.name=女巫斗篷
 item.bewitchment.witches_hat.name=女巫帽
 item.bewitchment.witches_robes.name=女巫長袍
 item.bewitchment.witches_pants.name=女巫褲
@@ -197,14 +197,14 @@ item.bewitchment.fiery_chalk.name=熾熱粉筆
 item.bewitchment.phasing_chalk.name=相位粉筆
 
 item.bewitchment.girdle_of_the_dryads.name=樹神腰帶
-tooltip.bewitchment.girdle_of_the_dryads=這條腰帶通過長出樹皮作為盔甲來保護佩戴者免受傷害。
+tooltip.bewitchment.girdle_of_the_dryads=這條腰帶透過長出樹皮作為盔甲來保護佩戴者免受傷害。
 item.bewitchment.hellish_bauble.name=地獄飾品
 tooltip.bewitchment.hellish_bauble=這個小飾品能獲得惡魔的尊重，並且對火焰和爆炸有天生的抵抗力。
 item.bewitchment.horseshoe.name=馬蹄鐵
-tooltip.bewitchment.horseshoe=馬蹄鐵似乎是相當幸運的小飾品。鬼魂貌似不怎麽喜歡你。
+tooltip.bewitchment.horseshoe=馬蹄鐵似乎是相當幸運的小飾品。鬼魂好像不怎麼喜歡你。
 item.bewitchment.nazar.name=納紮爾邪眼
 tooltip.bewitchment.nazar=一種護身符，可以避免厄運，並對魔法攻擊有一定的免疫力。
-item.bewitchment.token_of_remedies.name=療愈令牌
+item.bewitchment.token_of_remedies.name=療癒令牌
 tooltip.bewitchment.token_of_remedies=其核心的寶石似乎能吸收疾病。
 
 item.bewitchment.grimoire_magia.name=魔導書
@@ -216,8 +216,8 @@ tooltip.bewitchment.juniper_key=授予對 %d、%d、%d、%s 的訪問權
 item.bewitchment.stone_leonard_idol.name=倫納德雕像-石頭
 item.bewitchment.terracotta_leonard_idol.name=倫納德雕像-陶瓦
 item.bewitchment.gold_leonard_idol.name=倫納德雕像-黃金
-item.bewitchment.nether_brick_leonard_idol.name=萊納德雕像-下界磚
-item.bewitchment.nethersteel_leonard_idol.name=倫納德雕像-下界鋼
+item.bewitchment.nether_brick_leonard_idol.name=萊納德雕像-地獄磚
+item.bewitchment.nethersteel_leonard_idol.name=倫納德雕像-地獄鋼
 item.bewitchment.scorned_brick_leonard_idol.name=倫納德雕像-鄙夷之磚
 
 item.bewitchment.bottled_frostfire.name=瓶裝霜火
@@ -246,7 +246,7 @@ item.bewitchment.droplet_of_wisdom.name=智慧液滴
 item.bewitchment.liquid_witchcraft.name=液化魔力
 item.bewitchment.essence_of_vitality.name=生命精髓
 
-item.bewitchment.cleansing_balm.name=凈化藥膏
+item.bewitchment.cleansing_balm.name=淨化藥膏
 item.bewitchment.demonic_elixir.name=惡魔之丹
 item.bewitchment.fiery_unguent.name=熾熱藥膏
 
@@ -353,7 +353,7 @@ bewitchment.modifier.suppressed_particles=受抑制粒子
 
 bewitchment.wednesday=詩神之日
 bewitchment.absence=缺席
-bewitchment.purification=凈化
+bewitchment.purification=淨化
 bewitchment.corruption=腐敗
 bewitchment.magic_resistance=魔法抗性
 bewitchment.magic_weakness=魔法弱點
@@ -363,12 +363,12 @@ bewitchment.rubedo=紅化
 bewitchment.citrinitas=黃化
 bewitchment.desertification=沙漠化
 bewitchment.fertility=肥沃
-bewitchment.harvest=收獲
+bewitchment.harvest=收穫
 bewitchment.spore_cloud=孢子雲
 bewitchment.blight=疫病
 bewitchment.ruin=毀壞
 bewitchment.pesticide=農藥
-bewitchment.arachnophobia=蜘蛛恐懼癥
+bewitchment.arachnophobia=蜘蛛恐懼症
 bewitchment.mending=修補
 bewitchment.holy_water=聖水
 bewitchment.wolfsbane=附子草（烏頭）
@@ -390,14 +390,14 @@ fortune.no_fortune=這個世界沒有永久的秘密
 fortune.bewitchment.bad_luck=你的前途暗淡。
 fortune.bewitchment.good_luck=你的前途確實很光明。
 fortune.bewitchment.illness=虛弱和不幸點綴著你的未來。
-fortune.bewitchment.vitality=傷口會在你需要的時候愈合。
+fortune.bewitchment.vitality=傷口會在你需要的時候癒合。
 fortune.bewitchment.meet_pet=你很快就會遇到一位新朋友。
 fortune.bewitchment.meet_merchant=你會偶然發現一些好交易。
 fortune.bewitchment.meet_demon=一位強大的惡魔看到了你的占卜，對你很感興趣。
 fortune.bewitchment.meet_serpent=一個弱小的惡魔看到了你的占卜，想要馬上挑戰你!
 fortune.bewitchment.meet_blaze=一個弱小的火元素看到了你的占卜，將馬上出現與你戰鬥!
-fortune.bewitchment.meet_dire_wolf=一只狂暴的野獸很快就會碰到你。
-fortune.bewitchment.meet_silverfish=一條骯臟的害蟲藏在路上。
+fortune.bewitchment.meet_dire_wolf=一隻狂暴的野獸很快就會碰到你。
+fortune.bewitchment.meet_silverfish=一條骯髒的害蟲藏在路上。
 fortune.bewitchment.meet_witch=邪惡的東西從這邊來了。
 fortune.bewitchment.meet_zombie=那些躺在地下的人將被喚醒。
 fortune.bewitchment.death=前方的道路看起來非常暗淡。
@@ -415,14 +415,14 @@ ritual.precondition.no_rain=這個儀式不能在下雨的時候舉行
 ritual.precondition.drawing=沒有找到現成的粉筆，或者沒有找到空位
 ritual.precondition.sacrifice=開啟這個儀式需要一個有效的祭品
 ritual.precondition.invalid_location=未找到目標位置
-ritual.precondition.wednesday=今天不是星期三，夥計們
+ritual.precondition.wednesday=今天不是星期三，夥伴們
 
 ritual.bewitchment.solar_glory=焯日榮光儀式
 ritual.bewitchment.high_moon=高月儀式
 ritual.bewitchment.sands_of_time=時之沙的儀式
 ritual.bewitchment.deluge=天傾倒灌儀式
 ritual.bewitchment.teleport=開放之路儀式 --fix it Rite of the Open Way--
-ritual.bewitchment.perception=征收儀式
+ritual.bewitchment.perception=徵收儀式
 ritual.bewitchment.hungry_flames=饑餓之火儀式
 ritual.bewitchment.frenzied_growth=狂暴滋生儀式
 ritual.bewitchment.revealing=啟示儀式
@@ -441,7 +441,7 @@ ritual.bewitchment.crystal_ball=窺視未來儀式
 ritual.bewitchment.tarot_table=建築儀式
 ritual.bewitchment.tarot_cards=篆刻儀式
 ritual.bewitchment.grimoire_magia=認知儀式
-ritual.bewitchment.purifying_earth=凈化儀式
+ritual.bewitchment.purifying_earth=淨化儀式
 ritual.bewitchment.cypress_broom=抽枝儀式
 ritual.bewitchment.elder_broom=抽枝儀式
 ritual.bewitchment.juniper_broom=抽枝儀式

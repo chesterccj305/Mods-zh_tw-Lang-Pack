@@ -1,5 +1,5 @@
-commands.recipes.bigger_space=合成表 %1$s 占更多的空間
-commands.recipes.conflict=在 %1$s 和 %2$s 之間發現沖突
+﻿commands.recipes.bigger_space=合成表 %1$s 占更多的空間
+commands.recipes.conflict=在 %1$s 和 %2$s 之間發現衝突
 commands.recipes.container.false=以下物品被禁用合成：%1$s
 commands.recipes.container.true=以下容器被檢測出有合成空間: %1$s
 commands.recipes.empty_ingredients=合成表 %1$s 沒有成分

@@ -1,4 +1,4 @@
-command.sevtweaks.invalid.option=錯誤：使用無效選項！有效選項：%s
+﻿command.sevtweaks.invalid.option=錯誤：使用無效選項！有效選項：%s
 command.sevtweaks.gsscore.success=成功創建了對遊戲階段的追蹤！
 command.sevtweaks.gsscore.failed=錯誤：已添加對遊戲階段的追蹤！
 command.sevtweaks.gssync.success=成功同步所有已連接玩家的計分板值。

@@ -1,4 +1,4 @@
-# creative tab
+﻿# creative tab
 itemGroup.tinkers_reforged=匠魂再鍛
 
 # blocks
@@ -54,7 +54,7 @@ fluid.infused_iron=熔融蘊魔鐵錠
 fluid.molten_of_the_sky=熔融天空
 fluid.starmetal=星輝
 fluid.blutonium=熔融藍鈽
-fluid.ludicrite=熔融镥
+fluid.ludicrite=熔融鎦
 fluid.qivium=熔融Qivium
 fluid.lavium=熔融Lavium
 fluid.kovar=熔融鐵鈷鎳合金
@@ -102,7 +102,7 @@ material.ref_palis.name=青金石水晶
 
 # Appliedenergistic2 materials
 material.reforged_certus_quartz.name=賽特斯石英
-material.reforged_fluix_crystal.name=福鲁伊克斯水晶
+material.reforged_fluix_crystal.name=福魯伊克斯水晶
 
 # Astralsorcery materials
 material.reforged_starmetal.name=星輝
@@ -126,7 +126,7 @@ material.reforged_amethyst.name=紫水晶
 material.reforged_osmium.name=鋨
 material.reforged_obsidian.name=強化黑曜石
 material.reforged_glowstone.name=強化螢石
-material.reforged_hdpesheet.name=HDPE纸
+material.reforged_hdpesheet.name=HDPE紙
 
 # Roots
 material.reforged_runestone.name=符文石
@@ -134,7 +134,7 @@ material.reforged_runestone.name=符文石
 # Extreme reactor
 material.reforged_yellorium.name=黃鈾
 material.reforged_blutonium.name=藍鈽
-material.reforged_ludicrite.name=镥
+material.reforged_ludicrite.name=鎦
 material.reforged_cyanite.name=藍晶
 
 # custom mats
@@ -149,7 +149,7 @@ modifier.ref_ender.name=終界
 modifier.ref_ender.desc=§o別看他們的眼睛！§r\n對終界生物造成雙倍傷害。
 
 modifier.enderfestation.name=終焉狂喜
-modifier.enderfestation.desc=§o那些小臭蟲，他們到處都是！§r\n挖掘方塊時有機率生成一個終界螨。
+modifier.enderfestation.desc=§o那些小臭蟲，他們到處都是！§r\n挖掘方塊時有機率生成一個終界蟎。
 
 modifier.ref_bright.name=明亮
 modifier.ref_bright.desc=§o太陽賜給我力量！§r\n你的工具在陽光下可造成更多傷害&挖掘的更快。
@@ -172,7 +172,7 @@ modifier.nuclear_waste.desc=§o輻射危機？§r\n在挖掘或攻擊時有機�
 modifier.life_steal.name=生命竊取
 modifier.life_steal.desc=§o你想要更多嗎???§r\n可從實體吸收生命值。
 
-modifier.ref_refined.name=加固
+modifier.ref_refined.name=強化
 modifier.ref_refined.desc=§o別那麼急！§r\n可更快挖掘黑曜石。
 
 modifier.ref_flux.name=通量

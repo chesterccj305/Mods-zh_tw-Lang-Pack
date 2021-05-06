@@ -1,4 +1,4 @@
-itemGroup.vials=儲液瓶
+﻿itemGroup.vials=儲液瓶
 vials.CAPACITY=容積：%d mB
 item.vials.vial_16.name=小型儲液瓶
 item.vials.vial_144.name=標準儲液瓶

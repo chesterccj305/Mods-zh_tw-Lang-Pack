@@ -1,4 +1,4 @@
-# Tabs
+﻿# Tabs
 itemGroup.tabGSMemorials=紀念碑
 itemGroup.tabGSCorpse=屍體
 itemGroup.tabGSOther=墓碑模組物品
@@ -322,7 +322,7 @@ item.corpse.collar.unknown=不明
 item.corpse.dog_type=狗種
 item.corpse.cat_type=貓種
 item.corpse.cat_type.ocelot=山貓
-item.corpse.cat_type.black=西服
+item.corpse.cat_type.black=西裝
 item.corpse.cat_type.red=虎斑
 item.corpse.cat_type.siamese=暹羅
 item.corpse.cat_type.unknown=不明

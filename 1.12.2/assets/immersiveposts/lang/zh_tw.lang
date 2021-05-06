@@ -1,4 +1,4 @@
-#########################
+﻿#########################
 #        Blocks         #
 #########################
 
@@ -72,11 +72,11 @@ ie.manual.category.immersiveposts.name=沉浸長桿
 # PostBase Entries
 ie.manual.entry.immersiveposts.postbase.name=可延長桿
 ie.manual.entry.immersiveposts.postbase.subtext=到天空的盡頭
-ie.manual.entry.immersiveposts.postbase0=用於自定義長度的電線桿桿頭。<br><br>(用法參見<link;immersiveposts.usage;§o§n使用§r;0>)
+ie.manual.entry.immersiveposts.postbase0=用於自訂長度的電線桿桿頭。<br><br>(用法參見<link;immersiveposts.usage;§o§n使用§r;0>)
 
 # Usage Entries
 ie.manual.entry.immersiveposts.usage.name=如何使用
-ie.manual.entry.immersiveposts.usage.p0=你將需要工程師錘和選定一種材料。<br><br>參見<link;immersiveposts.posts;§o§n這裡§r;0> 查看可用材料的詳細列表。<br><br>或者直接將鼠標移到基座上並按住shift (效果和 <link;immersiveposts.postbase;§o§n這裡§r;0>一樣！)
+ie.manual.entry.immersiveposts.usage.p0=你將需要工程師錘和選定一種材料。<br><br>參見<link;immersiveposts.posts;§o§n這裡§r;0> 查看可用材料的詳細列表。<br><br>或者直接將滑鼠移到基座上並按住shift (效果和 <link;immersiveposts.postbase;§o§n這裡§r;0>一樣！)
 ie.manual.entry.immersiveposts.usage.p1=然後手持所選材料右鍵基座，它應該會變成上圖所示的樣子。<br><br>注意：桿的材料必須一直是同一種！例如防腐木桿只能接受§o防腐木柵欄§r而不會接受其他！
 ie.manual.entry.immersiveposts.usage.p2=現在開始你也可以對著桿右擊，使你更容易看見桿已經有多高了。<br><br><br>這不是很簡潔嗎？
 ie.manual.entry.immersiveposts.usage.p3=想得到一格長橫臂，你只需要用工程師錘右擊想要長出橫臂的高度和麵。<br>要移除橫臂，只需要對同一面再右鍵一次。 （或者直接用斧頭破壞橫臂）<br>§n注意：如果有方塊擋住，橫臂不會出現。§r
@@ -100,9 +100,9 @@ ie.manual.entry.immersiveposts.posts_constantan=康銅<br><br><br><br><br><br>�
 ie.manual.entry.immersiveposts.posts_electrum=琥珀金<br><br><br><br><br><br>令人震驚。
 ie.manual.entry.immersiveposts.posts_uranium=鈾<br>也發出一點光。<br>儘管似乎只有紅石火把的亮度。<br><br>長半衰期。
 ie.manual.entry.immersiveposts.posts_aluminium=鋁?不。<br>鋁?算了。<br>鋁。完美。<br><br><br><br>分裂意見。
-ie.manual.entry.immersiveposts.posts_steel=鋼<br><br><br><br><br><br>更强的生锈男孩。
+ie.manual.entry.immersiveposts.posts_steel=鋼<br><br><br><br><br><br>更強的生鏽男孩。
 ie.manual.entry.immersiveposts.posts_concrete=混凝土<br><br><br><br><br><br><br><br><br><br><br><br><br>易碎的。
-ie.manual.entry.immersiveposts.posts_concrete_leaded=鍍鉛混凝土<br><br><br><br><br><br><br><br><br><br><br><br><br>强化易碎的
+ie.manual.entry.immersiveposts.posts_concrete_leaded=鍍鉛混凝土<br><br><br><br><br><br><br><br><br><br><br><br><br>強化易碎的
 
 # Index Pages Stuff
 index.page_0_entry.1=索引 第1頁
@@ -129,4 +129,3 @@ index.page_1_entry.4=混凝土（鍍鉛）
 #########################
 
 immersiveposts.expectedlocal=期望方塊： %s
-

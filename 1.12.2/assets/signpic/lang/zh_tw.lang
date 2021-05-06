@@ -1,4 +1,4 @@
-# Overlay
+﻿# Overlay
 ## Overlay
 ### Mode
 signpic.over.mode.place=放置告示牌
@@ -9,7 +9,7 @@ signpic.over.sign=[§6文本§r] §7[§r%s§7]
 signpic.over.id=[§6連結§r] %s
 signpic.over.size=[§6尺寸§r] §7[§r%s§7] [§d設定大小：§r%s§7×§r%s，§d圖片解析度：§r%s§7×§r%s，§d實際大小：§r%s§7×§r%s§7]
 signpic.over.status=[§6狀態§r] %s
-signpic.over.advmsg=[§6信息§r] %s
+signpic.over.advmsg=[§6資訊§r] %s
 signpic.over.raw=[§6原始§r] [[§r%s§7], [§r%s§7], [§r%s§7], [§r%s§7]]
 signpic.over.local=[§6本地§r] §7[§r%s§7]
 # Chat
@@ -17,8 +17,8 @@ signpic.chat.error.place=[§6告示牌圖片§r] 很抱歉，由於發生錯誤�
 # Item
 signpic.item.hold=§7按住 §3§o%s §7查看詳情
 signpic.item.sign.desc=§d按下 §a%s§d 編輯告示牌圖片
-signpic.item.sign.desc.keyconflict=使用 §a%1$s§c §c打開 §a%2$s§c 並解除按鍵沖突!
-signpic.item.sign.desc.keyconflict.key=§c按鍵沖突 §a%2$s§c 在 §a%1$s
+signpic.item.sign.desc.keyconflict=使用 §a%1$s§c §c打開 §a%2$s§c 並解除按鍵衝突!
+signpic.item.sign.desc.keyconflict.key=§c按鍵衝突 §a%2$s§c 在 §a%1$s
 signpic.item.sign.desc.named=告示牌圖片§r §7(%s)
 signpic.item.sign.desc.named.prop.size=§7大小: %s×%s
 signpic.item.sign.desc.named.prop.offset=§7偏移: ⇨:%s, ⇧:%s, ↗:%s
@@ -57,9 +57,9 @@ signpic.gui.settings.api.upimage.desc=圖片上傳設置
 signpic.gui.settings.api.urlshortener=短連結服務
 signpic.gui.settings.api.urlshortener.desc=短連結服務設置
 signpic.gui.settings.api.type=API 類型
-signpic.gui.settings.api.key=API 密鑰
+signpic.gui.settings.api.key=API 金鑰
 signpic.gui.settings.default=預設
-signpic.gui.settings.config=配置
+signpic.gui.settings.config=設定
 signpic.gui.settings.paas=反防作弊
 signpic.gui.settings.hide=禁用（不顯示圖片）
 ### Sign Option
@@ -132,9 +132,9 @@ signpic.advmsg.format.needreplace=使用“設置”導入並替換！
 signpic.versioning.check.start=開始檢查
 signpic.versioning.check.cooldown=檢查失敗：§7需要冷卻時間
 signpic.versioning.noupdate=沒有可用的更新
-signpic.versioning.updateMessage=["[",{"text":"告示牌圖片","color":"gold"},"] 有新的版本可用：",{"text":"$new$","color":"green"},"."," [",{"text":"下載","color":"green","hoverEvent":{"action":"show_text","value":{"text":"單擊此按鈕可自動下載最新版本","color":"green"}},"clickEvent":$download$},"] [",{"text":"網站","color":"green","hoverEvent":{"action":"show_text","value":{"text":"點擊此處進入此模組的網站","color":"green"}},"clickEvent":$website$},"] [",{"text":"更新日志","color":"green","hoverEvent":{"action":"show_text","value":{"text":"點擊此處查看此版本的更新日志","color":"green"}},"clickEvent":$changelog$},"]"]
+signpic.versioning.updateMessage=["[",{"text":"告示牌圖片","color":"gold"},"] 有新的版本可用：",{"text":"$new$","color":"green"},"."," [",{"text":"下載","color":"green","hoverEvent":{"action":"show_text","value":{"text":"單擊此按鈕可自動下載最新版本","color":"green"}},"clickEvent":$download$},"] [",{"text":"網站","color":"green","hoverEvent":{"action":"show_text","value":{"text":"點擊此處進入此模組的網站","color":"green"}},"clickEvent":$website$},"] [",{"text":"更新日誌","color":"green","hoverEvent":{"action":"show_text","value":{"text":"點擊此處查看此版本的更新日誌","color":"green"}},"clickEvent":$changelog$},"]"]
 signpic.versioning.changelog=[§6告示牌圖片§r] [§a更新§r] %s
-signpic.versioning.startingDownload=[{"text":"開始下載 %s。請勿移除你的硬盤。體驗吧 ","color":"aqua"}]
+signpic.versioning.startingDownload=[{"text":"開始下載 %s。請勿移除你的硬碟。體驗吧 ","color":"aqua"}]
 signpic.versioning.doneDownloading=完成下載 %s。刪除舊版本的 SignPicture.jar 並重新啟動你的遊戲以更新。
 signpic.versioning.doneDownloadingWithFile=已完成下載 %s。刪除 %s 並重新啟動你的遊戲以更新。
 signpic.versioning.downloadedAlready=你已經下載了最新版本。關閉你的遊戲，把 Sign Picture 的舊版本從 mods 文件夾中刪除，然後重新啟動遊戲以完成更新！
@@ -144,7 +144,7 @@ signpic.versioning.disabled=抱歉，此功能目前已停用。
 # Overlay
 ## Overlay
 signpic.over.hub.usage.takerange=[%s]：獲取指定範圍的螢幕截圖
-signpic.over.hub.usage.takeall=[%s]：截屏
+signpic.over.hub.usage.takeall=[%s]：截圖
 signpic.over.hub.usage.takerangewindow=[%s]：獲取指定範圍的窗口截圖
 signpic.over.hub.usage.release=[發布]：打開 SignPicture GUI
 signpic.gui.editor.number.neg=-
@@ -177,8 +177,8 @@ signpic.gui.editor.rotation.neg=-
 signpic.gui.editor.rotation.pos=+
 signpic.gui.editor.rotation.unknown=0
 signpic.gui.update.message.changelog=%s
-signpic.gui.notice.toolongname=URL + 元數據長度必須少於40個字符才能命名！
-signpic.gui.notice.toolongplace=URL + 元數據長度必須小於60個字符才能放置！
+signpic.gui.notice.toolongname=URL + 元數據長度必須少於40個字元才能命名！
+signpic.gui.notice.toolongplace=URL + 元數據長度必須小於60個字元才能放置！
 signpic.gui.notice.screenshot.ingame.error=發生了錯誤。%s
 signpic.gui.notice.screenshot.ingame.capture.error=無法截取螢幕截圖。%s
 signpic.gui.notice.screenshot.window.error=發生了錯誤。%s

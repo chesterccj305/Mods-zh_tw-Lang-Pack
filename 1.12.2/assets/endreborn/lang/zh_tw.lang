@@ -1,4 +1,4 @@
-# Tab -
+﻿# Tab -
 itemGroup.endertab=終界：重生
 
 # Items -
@@ -99,13 +99,13 @@ entity.endlord.name=終界術士巴克萊
 entity.angry_enderman.name=憤怒的終界人
 entity.chronologist.name=年代學者
 entity.end_fireball.name=守衛火球
-entity.Villager.endreborn.nether_explorer.name=下界探險家
+entity.Villager.endreborn.nether_explorer.name=地獄探險家
 entity.Villager.endreborn.end_explorer.name=終界探險家
 entity.Villager.endreborn.overworld_explorer.name=主世界探險家
 
 #Compat
 modifier.endorium.name=暴怒
-modifier.endorium.desc=§oWhere is physics!?§r\n增加暴擊幾率。
+modifier.endorium.desc=§oWhere is physics!?§r\n增加暴擊機率。
 modifier.wolframium.name=月之聲
 modifier.wolframium.desc=§o有人在嗎？§r\n滿月時產生力量效果。
 material.endorium.name=終界錠
@@ -131,7 +131,7 @@ tile.deather_mode.on=斥力
 tile.mirror.tooltip_0=傳送到零坐標
 tile.mirror.tooltip_1=“本公司概不負責”
 tile.soup.tooltip=會對人體產生奇怪的作用，但是很好吃
-tile.flesh.tooltip=改善視力的“美味佳肴”
+tile.flesh.tooltip=改善視力的“美味佳餚”
 tile.dragon_essence.tooltip=緩慢成長的世界裂縫
 tile.essence.tooltip=從黑曜石中出現的物質
 tile.user.tooltip=可疑的機械
@@ -140,7 +140,7 @@ tile.block_forge.tooltip=會燒製在其上方的礦物
 tile.wand.tooltip=將東西轉化為它們被破壞時的樣子
 tile.ender_lord.rage_1=你……你還在戰鬥？
 tile.ender_lord.rage_2=你想要殺死所有人嗎？
-tile.ender_lord.rage_3=你什麽也不了解！
+tile.ender_lord.rage_3=你什麼也不了解！
 tile.ender_lord.rage_4=想要崛起必先墮落！
 tile.ender_lord.wither=你不能將成果和創造者相比！
 tile.ender_lord.lord=這不公平！
@@ -207,7 +207,7 @@ advancements.endreborn.root.description=新的開始
 advancements.endreborn.end_stone.title=紀念品
 advancements.endreborn.end_stone.description=獲取終界石
 
-advancements.endreborn.raw_endorium.title=致密的材料
+advancements.endreborn.raw_endorium.title=緻密的材料
 advancements.endreborn.raw_endorium.description=合成一個終界錠
 
 advancements.endreborn.crop_ender_flower.title=突變
@@ -219,7 +219,7 @@ advancements.endreborn.obsidian_armor.description=穿戴黑曜石護甲
 advancements.endreborn.endermen_curse.title=殺手，很玄幻...
 advancements.endreborn.endermen_curse.description=合成一把終界劍
 
-advancements.endreborn.ender_flesh.title=“美味佳肴”
+advancements.endreborn.ender_flesh.title=“美味佳餚”
 advancements.endreborn.ender_flesh.description=食用終界腐肉
 
 advancements.endreborn.iron_hammer.title=赫菲斯托斯
@@ -255,10 +255,10 @@ advancements.endreborn.food_chorus_soup.description=合成紫頌湯
 advancements.endreborn.end_forge.title=火中的世界
 advancements.endreborn.end_forge.description=合成虛空冶煉爐
 
-advancements.endreborn.dragon_scales.title=EleC0TroN（程序猿）的碎片
+advancements.endreborn.dragon_scales.title=EleC0TroN（程式設計師）的碎片
 advancements.endreborn.dragon_scales.description=獲得龍鱗
 
-advancements.endreborn.entropy.title=通過毀滅來獲得升華
+advancements.endreborn.entropy.title=透過毀滅來獲得升華
 advancements.endreborn.entropy.description=獲得熵之本質
 
 advancements.endreborn.entropy_user.title=最好別碰

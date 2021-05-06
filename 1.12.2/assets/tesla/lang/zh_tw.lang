@@ -1,7 +1,7 @@
-tooltip.tesla.input=輸入：%s Tesla/ŧ
+﻿tooltip.tesla.input=輸入：%s Tesla/ŧ
 tooltip.tesla.output=輸出：%s Tesla/ŧ
 tooltip.tesla.powerinfo=%s/%s Tesla
-tooltip.tesla.showinfo=按%s%s%s獲得詳細信息。
+tooltip.tesla.showinfo=按%s%s%s獲得詳細資訊。
 unit.tesla.et=艾特斯拉
 unit.tesla.gt=吉特斯拉
 unit.tesla.kt=千特斯拉

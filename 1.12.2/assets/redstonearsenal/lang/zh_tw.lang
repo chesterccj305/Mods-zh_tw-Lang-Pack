@@ -1,4 +1,4 @@
-info.redstonearsenal.tool.chargeOff=§e按下（%s）鍵休眠§r
+﻿info.redstonearsenal.tool.chargeOff=§e按下（%s）鍵休眠§r
 info.redstonearsenal.tool.chargeOn=§b按下（%s）鍵充能§r
 info.redstonearsenal.tool.energyPerUse=RF/次使用
 info.redstonearsenal.tool.shovel=潛行時也可作為鋤頭。
@@ -14,8 +14,8 @@ item.redstonearsenal.material.ingotElectrumFlux.name=紅石琥珀金錠
 item.redstonearsenal.material.nuggetElectrumFlux.name=紅石琥珀金粒
 item.redstonearsenal.material.plateArmorFlux.name=紅石護甲防護板
 item.redstonearsenal.material.plateElectrumFlux.name=紅石琥珀金板
-item.redstonearsenal.material.rodObsidian.name=黑曜石手柄
-item.redstonearsenal.material.rodObsidianFlux.name=充能黑曜石手柄
+item.redstonearsenal.material.rodObsidian.name=黑曜石手把
+item.redstonearsenal.material.rodObsidianFlux.name=充能黑曜石手把
 item.redstonearsenal.tool.fluxAxe.name=紅石充能斧
 item.redstonearsenal.tool.fluxBattleWrench.name=紅石充能戰錘
 item.redstonearsenal.tool.fluxBow.name=紅石充能弓

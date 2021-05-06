@@ -1,4 +1,4 @@
-container.bloomery=鍛鐵爐
+﻿container.bloomery=鍛鐵爐
 container.coal_refiner=基礎煤炭精煉爐
 container.peat_drier=泥炭晾幹架
 fluid.bloom=熔融金屬
@@ -15,7 +15,7 @@ item.rockhounding_oretiers:tier_book.name=礦石層級指南
 item.rockhounding_oretiers:tier_items.anthracite.name=無煙煤
 item.rockhounding_oretiers:tier_items.bituminous.name=煙煤
 item.rockhounding_oretiers:tier_items.coalpellet.name=煤球
-item.rockhounding_oretiers:tier_items.drypeat.name=幹燥泥炭
+item.rockhounding_oretiers:tier_items.drypeat.name=乾燥泥炭
 item.rockhounding_oretiers:tier_items.lignite.name=褐煤
 item.rockhounding_oretiers:tier_items.peat.name=濕潤泥炭
 item.rockhounding_oretiers:tier_items.tiercharcoal.name=木炭團

@@ -1,4 +1,4 @@
-itemGroup.fluxnetworks=通量網路
+﻿itemGroup.fluxnetworks=通量網路
 
 tile.fluxnetworks.fluxblock.name=能量塊
 tile.fluxnetworks.fluxcontroller.name=能量網路控制器
@@ -10,8 +10,8 @@ tile.fluxnetworks.gargantuanfluxstorage.name=超大型能量儲存器
 
 item.fluxnetworks.flux.name=能量塵
 item.fluxnetworks.fluxcore.name=能量核心
-item.fluxnetworks.fluxconfigurator.name=能量網路配置器
-item.fluxnetworks.adminconfigurator.name=管理員網路配置器
+item.fluxnetworks.fluxconfigurator.name=能量網路設定器
+item.fluxnetworks.adminconfigurator.name=管理員網路設定器
 
 tooltip.fluxnetworks.flux=通過基岩與黑曜石壓縮紅石獲得
 tooltip.fluxnetworks.fluxcontroller=管理網路與無線充能
@@ -19,7 +19,7 @@ tooltip.fluxnetworks.fluxplug=用於向能量網路中增加能量
 tooltip.fluxnetworks.fluxpoint=用於從能量網路中移除能量
 tooltip.fluxnetworks.fluxstorage=在能量網路中儲存能量
 
-info.fluxnetworks.tab.home=主頁
+info.fluxnetworks.tab.home=首頁
 info.fluxnetworks.tab.selection=網路選擇
 info.fluxnetworks.tab.wireless=無線充能
 info.fluxnetworks.tab.connection=網路連接點
@@ -48,7 +48,7 @@ info.fluxnetworks.above=Above
 info.fluxnetworks.error.noselected=尚未選擇網路
 info.fluxnetworks.error.nonetwork=暫無可用網路
 
-info.fluxnetworks.flux.priority=優先級
+info.fluxnetworks.flux.priority=優先度
 info.fluxnetworks.flux.surgemode=湧流模式
 info.fluxnetworks.flux.disablelimit=禁用限速
 info.fluxnetworks.flux.chunkloading=區塊載入
@@ -57,8 +57,8 @@ info.fluxnetworks.flux.transferlimit=傳輸上限
 info.fluxnetworks.flux.wireless=開啟無線充能
 info.fluxnetworks.flux.energy=能量
 info.fluxnetworks.flux.energystored=能量儲存
-info.fluxnetworks.flux.buffer=緩存
-info.fluxnetworks.flux.internalbuffer=內部緩存
+info.fluxnetworks.flux.buffer=快取
+info.fluxnetworks.flux.internalbuffer=內部快取
 info.fluxnetworks.flux.unlimited=無限制
 info.fluxnetworks.flux.forcedloading=強制區塊載入
 info.fluxnetworks.flux.chunkunloaded=區塊未載入
@@ -82,7 +82,7 @@ info.fluxnetworks.feedback.rejectsome=伺服器拒絕了部分改動
 info.fluxnetworks.gui.sortby=分類方式
 info.fluxnetworks.gui.selected=已選擇
 info.fluxnetworks.gui.singleedit=單個編輯模式
-info.fluxnetworks.gui.batchedit=批量編輯模式
+info.fluxnetworks.gui.batchedit=批次編輯模式
 info.fluxnetworks.gui.editing=正在編輯
 info.fluxnetworks.gui.connections=個連接點
 info.fluxnetworks.gui.customcolor=自訂顏色
@@ -98,7 +98,7 @@ info.fluxnetworks.gui.playeraccess=訪問權限
 info.fluxnetworks.gui.cancelmembership=撤銷成員權限
 info.fluxnetworks.gui.you=你
 
-info.fluxnetworks.gui.sort.smart=智能
+info.fluxnetworks.gui.sort.smart=智慧
 info.fluxnetworks.gui.sort.id=ID
 info.fluxnetworks.gui.sort.name=名稱
 
@@ -152,7 +152,7 @@ item.FluxConfigurator.name=通量網路控制器
 item.AdminConfigurator.name=OP通量網路控制器
 
 //tool tips
-flux.item.flux.tooltip=通過把紅石丟火里或岩漿裡得到
+flux.item.flux.tooltip=透過把紅石丟火裡或岩漿裡得到
 flux.item.fluxcontroller.tooltip=管理通量網路
 flux.item.fluxplug.tooltip=向通量網路中加入通量
 flux.item.fluxpoint.tooltip=從通量網路中輸出通量
@@ -179,7 +179,7 @@ flux.general.cancel=取消
 flux.general.banned=禁止
 flux.general.chunk=區塊
 flux.general.show=顯示
-flux.general.reset=重置
+flux.general.reset=重設
 flux.general.create=創建
 flux.general.savechanges=保存更改
 flux.general.config=設置
@@ -191,7 +191,7 @@ flux.general.type=種類
 flux.general.uuid=UUID
 
 //gui tabs
-network.tab.home=主頁
+network.tab.home=首頁
 network.tab.connections=網路連接情況
 network.tab.networks=網路選擇
 network.tab.statistics=網路狀態
@@ -250,7 +250,7 @@ network.sorting.transfer=通量轉移
 network.sorting.clear=清除過濾設定
 network.sorting.showconnected=顯示連接的方塊
 network.sorting.direction=排序方向
-network.sorting.sortby=排序關鍵詞
+network.sorting.sortby=排序關鍵字
 
 //chunk display options
 network.sorting.both=不載入 & 載入
@@ -299,7 +299,7 @@ network.error.notOwner=只要網路所有者可以刪除這個網路
 network.error.accessDenied=無權限
 network.error.editNetwork=你不允許去編輯這個網路
 network.error.networkMaxReached=你的網路已經滿人了
-network.error.invalidUser=沒有這個用戶名的玩家
+network.error.invalidUser=沒有這個使用者名稱的玩家
 network.error.noplayerscanbeadded=沒有玩家可以被添加
 network.error.unavailableinprivate=私有模式下不可用
 network.error.chunkunloaded=區塊卸載
@@ -311,4 +311,3 @@ network.player.owner=網路所有者
 network.player.sharedOwner=獲得共享的玩家
 network.player.blocked=已阻塞
 network.player.creative=創造玩家
-

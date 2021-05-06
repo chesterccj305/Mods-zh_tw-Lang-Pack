@@ -1,10 +1,10 @@
-item.gear_iron.name=鐵齒輪
+﻿item.gear_iron.name=鐵齒輪
 subtitles.gear.add=齒輪連接
 subtitles.gear.remove=齒輪斷開
 tile.axle_iron.name=鐵質軸
 tile.creative_mech_source.name=創造模式機械能發生器
 tile.gearbox_frame.name=變速箱外殼
-tile.mergebox_frame.name=合並框架
+tile.mergebox_frame.name=合併框架
 item.gear_gold.name=金齒輪
 item.gear_gold_on.name=紅石齒輪 (反向)
 item.gear_gold_off.name=紅石齒輪

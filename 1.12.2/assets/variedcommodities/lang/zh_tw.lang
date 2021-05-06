@@ -1,5 +1,5 @@
-
-block.editIcon=您有10秒鐘的時間放置圖標
+﻿
+block.editIcon=您有10秒鐘的時間放置圖示
 
 itemGroup.vcweapons=各式商品武器
 itemGroup.vcarmors=各式商品防具
@@ -17,7 +17,7 @@ trader.waiting=等待交易開始
 trader.cancelled=交易被取消
 trader.complete=交易成功
 
-tile.carpentry_bench.name=木匠工作台
+tile.carpentry_bench.name=木匠工作檯
 tile.blood_block.name=血跡
 tile.banner.name=旗幟
 tile.wall_banner.name=壁掛旗幟
@@ -137,7 +137,7 @@ item.rapier.name=西洋劍
 item.crowbar.name=撬棍
 item.pipe_wrench.name=管鉗
 item.wrench.name=把手
-item.swiss_army_knife.name=瑞士軍刀
+item.swiss_army_knife.name=瑞士刀
 item.leaf_sword.name=葉刃
 
 item.wooden_shield_round.name=木圓盾
@@ -387,7 +387,7 @@ item.frost_sword.name=冰霜劍
 item.mithril_sword.name=秘銀劍
 
 item.ancient_coin.name=遠古硬幣
-item.ancient_scroll.name=遠古捲軸
+item.ancient_scroll.name=遠古卷軸
 item.artifact.name=遠古遺物
 item.locket.name=項鍊
 item.silk.name=絲綢

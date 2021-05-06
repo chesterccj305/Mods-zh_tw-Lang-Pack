@@ -1,4 +1,4 @@
-itemGroup.firstaid=醫療護理
+﻿itemGroup.firstaid=醫療護理
 item.bandage.name=繃帶
 item.plaster.name=石膏
 item.morphine.name=嗎啡
@@ -13,7 +13,7 @@ gui.right_leg=右腿
 gui.right_foot=右腳
 gui.apply_hint=選擇治療的位置
 gui.morphine_left=嗎啡治療（還剩%s）
-gui.active_item=當前處於活動狀態
+gui.active_item=目前處於活動狀態
 gui.no_sleep_heal =睡眠不恢復任何健康
 gui.sleep_heal_amount =睡眠將恢復最大生命值的%s %%
 
@@ -31,7 +31,7 @@ firstaid.tutorial.line5=可以使用繃帶或石膏（右鍵單擊該項目）�
 firstaid.tutorial.sleephint=如果您躺在床上睡覺，您的身體會自動再生一點。
 firstaid.tutorial.line6=如果關鍵器官的健康（頭部或身體）降至零，則玩家可能會死亡。
 firstaid.tutorial.line7=在這種情況下，無論其他器官的健康狀況如何，玩家都會死亡。
-firstaid.tutorial.line8=如果您想查看當前的健康狀況和活躍的治療者，只需按%s即可打開此界面以顯示您的健康狀況。
+firstaid.tutorial.line8=如果您想查看目前的健康狀況和活躍的治療者，只需按%s即可打開此界面以顯示您的健康狀況。
 firstaid.tutorial.end=到此結束。
 
 firstaid.config.damagesystem=損壞系統
@@ -47,7 +47,7 @@ firstaid.config.debuffs.tooltip=啟用/禁用特定身體部位的指定減益
 firstaid.config.enablesoundsystem=啟用聲音系統
 firstaid.config.enablesoundsystem.tooltip=設置為true以啟用減益聲音。要求enableDebuffs為true
 firstaid.config.scalemaxhealth=最大規模健康
-firstaid.config.scalemaxhealth.tooltip=如果為true，則將最大健康狀況擴展到您的心臟，並且配置條目將獲得乘數以匹配最大健康狀況
+firstaid.config.scalemaxhealth.tooltip=如果為true，則將最大健康狀況擴展到您的心臟，並且設定條目將獲得乘數以匹配最大健康狀況
 firstaid.config.capmaxhealth=最大生命值上限
 firstaid.config.capmaxhealth.tooltip=如果為true，則最大健康上限為每肢6顆心，吸收量為每肢2顆心。如果為假，則健康上限會更高（64顆正常心臟和16顆吸收）
 firstaid.config.experimental=觀看setHealth

@@ -1,10 +1,10 @@
-# MISC
+﻿# MISC
 reskillable.misc.capped=MAX
 reskillable.misc.skills=技能
 reskillable.misc.requirements=需要：
 reskillable.misc.requirements_shift=按住 SHIFT鍵 查看需求
 reskillable.misc.skill_points=%d 技能點數
-reskillable.misc.shift=按住 SHIFT鍵 查看詳細信息
+reskillable.misc.shift=按住 SHIFT鍵 查看詳細資訊
 reskillable.misc.unlocked=已解鎖！
 
 reskillable.misc.locked.item=你沒資格使用該物品 請升級 !
@@ -38,7 +38,7 @@ reskillable.skill.reskillable.magic=魔法
 reskillable.unlock.reskillable.obsidian_smasher=黑曜石破壞者
 reskillable.unlock.reskillable.obsidian_smasher.desc=顯著提高使用鑽石鎬破壞黑曜石的速度
 reskillable.unlock.reskillable.fossil_digger=化石開採者
-reskillable.unlock.reskillable.fossil_digger.desc=在使用不帶有絲綢之觸附魔的鐵鎬或更高等級的鎬子挖掘煤礦時有很小的概率掉落兩個煤炭
+reskillable.unlock.reskillable.fossil_digger.desc=在使用不帶有絲綢之觸附魔的鐵鎬或更高等級的鎬子挖掘煤礦時有很小的機率掉落兩個煤炭
 reskillable.unlock.reskillable.ore_cascade=連鎖挖礦
 reskillable.unlock.reskillable.ore_cascade.desc=切換能力：挖掘一個礦物方塊時將導致整個礦脈都被挖掘下來而鎬子會掉落雙倍的耐久
 reskillable.unlock.reskillable.lucky_fisherman=幸運漁夫
@@ -54,7 +54,7 @@ reskillable.unlock.reskillable.transmutation.desc=解鎖將歌萊果用作可以
 reskillable.unlock.reskillable.perfect_recover=完美復原
 reskillable.unlock.reskillable.perfect_recover.desc=像螢石一樣會掉落其合成材料的方塊將必定掉落足夠的合成材料以重新合成
 reskillable.unlock.reskillable.more_wheat=超多小麥
-reskillable.unlock.reskillable.more_wheat.desc=在收穫完全成熟的小麥作物時有很小的概率收穫兩個小麥
+reskillable.unlock.reskillable.more_wheat.desc=在收穫完全成熟的小麥作物時有很小的機率收穫兩個小麥
 reskillable.unlock.reskillable.green_thumb=綠拇指
 reskillable.unlock.reskillable.green_thumb.desc=擁有此能力的玩家周圍的作物將會生長的更快
 reskillable.unlock.reskillable.hungry_farmer=飢餓農夫

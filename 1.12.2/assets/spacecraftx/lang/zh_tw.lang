@@ -1,4 +1,4 @@
-advancements.spacex.ignited.description=用打火石點著獵鷹9號助推器
+﻿advancements.spacex.ignited.description=用打火石點著獵鷹9號助推器
 advancements.spacex.ignited.title=點火
 advancements.spacex.onegiantleapformankind.description=在火星上邁步
 advancements.spacex.onegiantleapformankind.title=人類的一大步
@@ -35,7 +35,7 @@ gui.status.nofuelunload.name=關閉
 gui.status.nooxygen.name=沒有可泵入的氧氣！
 gui.status.nooxygenunload.name=關閉
 item.combustion_chamber.name=發動機燃燒室
-item.compressed_alli.name=致密鋁鋰合金
+item.compressed_alli.name=緻密鋁鋰合金
 item.compressed_carbonfiber.name=碳纖維板
 item.draco.name=德拉科發動機
 item.dragon.name=“龍”號飛船

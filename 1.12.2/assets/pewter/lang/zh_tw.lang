@@ -1,4 +1,4 @@
-### Materials 用料 ###
+﻿### Materials 用料 ###
 
 material.antimony.name=銻
 
@@ -178,7 +178,7 @@ modifier.peridot.desc=§o找到他們！ §r\n耐久++，速度+
 modifier.peridot_armor.name=橄欖石
 modifier.peridot_armor.desc=§o找到他們！ §r\n耐久++，保護++
 
-modifier.polluted.name=污染
+modifier.polluted.name=汙染
 modifier.polluted.desc=§o略微中毒。 §r\n攻擊敵人有機率釋放咒波。
 
 modifier.quenching.name=淬火

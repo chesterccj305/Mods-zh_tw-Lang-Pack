@@ -1,8 +1,7 @@
-tile.terrainScanner.name=地形掃描儀
-tile.biomeScannerBasic.name=生物群系掃描儀（基礎）
-tile.biomeScannerAdv.name=生物群系掃描儀（高級）
-tile.biomeScannerElite.name=生物群系掃描儀（精英）
-tile.biomeScannerUltimate.name=生物群掃描儀（終極）
+﻿tile.terrainScanner.name=地形掃描器
+tile.biomeScannerBasic.name=生態域掃描器（基礎）
+tile.biomeScannerAdv.name=生態域掃描器（高級）
+tile.biomeScannerElite.name=生態域掃描器（精英）
+tile.biomeScannerUltimate.name=生物群掃描器（終極）
 tile.scannerQueue.name=掃描隊列
 itemGroup.scanner=掃描器
-

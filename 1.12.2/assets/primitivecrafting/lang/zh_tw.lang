@@ -1,4 +1,4 @@
-primitivecrafting.moreoptions=有其他可用的合成配方供選擇。
+﻿primitivecrafting.moreoptions=有其他可用的合成配方供選擇。
 primitivecrafting.cycle=按下 %s 切換合成配方。
 key.primitive.showrecipe.desc=顯示有效的合成配方
 key.primitive.cyclerecipes.desc=切換有效的合成配方

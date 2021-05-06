@@ -1,4 +1,4 @@
-item.inert_bauble.name=空首飾
+﻿item.inert_bauble.name=空首飾
 item.shrinking_bauble.name=縮小首飾
 item.growth_bauble.name=變大首飾
 potion.effect.shrinking=縮放藥水
@@ -13,7 +13,7 @@ effect.shrinking=縮小
 effect.growth=變大
 shrinking.info=縮小藥水
 growth.info=變大藥水
-shift.prompt=<<按下SHIFT查看更多信息>>
+shift.prompt=<<按下SHIFT查看更多資訊>>
 whenworn.string=在生效時：
 item.inert_bauble.info1=在縮小藥水
 item.inert_bauble.info2=或變大藥水有效時使用。

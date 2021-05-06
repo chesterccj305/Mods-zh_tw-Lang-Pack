@@ -1,4 +1,4 @@
-wanionlib.redstone.control=紅石控制
+﻿wanionlib.redstone.control=紅石控制
 wanionlib.redstone.control.state.ignored=忽略
 wanionlib.redstone.control.state.ignored.desc=它將忽略紅石信號
 wanionlib.redstone.control.state.off=關閉

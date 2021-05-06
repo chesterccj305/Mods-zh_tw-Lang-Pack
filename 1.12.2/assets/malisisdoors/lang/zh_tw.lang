@@ -1,4 +1,4 @@
-itemGroup.malisisdoors=更多門
+﻿itemGroup.malisisdoors=更多門
 
 item.wood_sliding_door.name=木框玻璃門
 item.iron_sliding_door.name=鐵框玻璃門
@@ -7,8 +7,8 @@ item.laboratory_door.name=實驗室門
 item.factory_door.name=工廠門
 item.custom_door.name=自訂門
 item.shoji_door.name=障子門
-item.rustyHatch.name=生銹艙門
-item.rustyHandle.name=生銹手輪
+item.rustyHatch.name=生鏽艙門
+item.rustyHandle.name=生鏽手輪
 item.carriage_door.name=宅門
 item.medieval_door.name=中世紀門
 item.forcefieldItem.name=力場控制器
@@ -47,11 +47,11 @@ tile.custom_door.name=自訂門
 tile.shoji_door.name=障子門
 tile.wood_sliding_door.name=木框玻璃門
 tile.iron_sliding_door.name=鐵框玻璃門
-tile.rustyHatch.name=生銹艙門
+tile.rustyHatch.name=生鏽艙門
 tile.carriage_door.name=宅門
 tile.medieval_door.name=中世紀門
 tile.forcefieldDoor.name=力場
-tile.rustyLadder.name=生銹鐵梯
+tile.rustyLadder.name=生鏽鐵梯
 tile.door_spruce.name=杉木門
 tile.door_birch.name=樺木門
 tile.door_jungle.name=叢林木門
@@ -76,7 +76,7 @@ tile.big_door_jungle_3x3.name=叢林木大門
 tile.big_door_acacia_3x3.name=相思木大門
 tile.big_door_dark_oak_3x3.name=黑橡木大門
 tile.big_door_iron_3x3.name=鐵大門
-tile.big_door_rusty_3x3.name=生銹鐵大門
+tile.big_door_rusty_3x3.name=生鏽鐵大門
 
 tile.curtain_white.name=白色窗簾
 tile.curtain_orange.name=橙色窗簾
@@ -95,10 +95,10 @@ tile.curtain_green.name=綠色窗簾
 tile.curtain_red.name=紅色窗簾
 tile.curtain_black.name=黑色窗簾
 
-malisisdoors.command.usage=使用指令/malisisdoors <command>需在command處鍵入配置名或版本
+malisisdoors.command.usage=使用指令/malisisdoors <command>需在command處鍵入設定名或版本
 
 config.modifyVanillaDoors=啟用原版門的修改
-config.modifyVanillaDoors.comment=啟用門,柵欄門和陷阱門的動畫.\r\n這會完全替換掉門,所以當其他模組試圖修改它們時可能會有沖突.
+config.modifyVanillaDoors.comment=啟用門,柵欄門和陷阱門的動畫.\r\n這會完全替換掉門,所以當其他模組試圖修改它們時可能會有衝突.
 config.use3DItems=將門的物品狀態用3D方式渲染
 
 

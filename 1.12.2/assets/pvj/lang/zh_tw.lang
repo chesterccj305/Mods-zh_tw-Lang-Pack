@@ -1,4 +1,4 @@
-itemGroup.tabProjectVibrantJourneys=充滿活力的旅程
+﻿itemGroup.tabProjectVibrantJourneys=充滿活力的旅程
 
 item.slime_droplet.name=史萊姆液滴
 item.cracked_coconut.name=裂開的椰子
@@ -411,7 +411,7 @@ tile.fallenleaves_bop_willow.name=柳落葉
 tile.fallenleaves_bop_pine.name=松落葉
 tile.fallenleaves_bop_mahogany.name=桃花心木落葉
 tile.fallenleaves_bop_ebony.name=檀木落葉
-tile.fallenleaves_bop_eucalyptus.name=尤加利落葉
+tile.fallenleaves_bop_eucalyptus.name=尤加俐落葉
 tile.fallenleaves_bop_red_big_flower.name=巨紅落花瓣
 tile.fallenleaves_bop_yellow_big_flower.name=巨黃落花瓣
 

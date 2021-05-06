@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 itemGroup.tabExoticbirds=珍奇鳥類
 
 //Items
@@ -59,7 +59,7 @@ tile.exoticbirds.birdcage_oak.name=橡木鳥籠
 tile.exoticbirds.birdcage_spruce.name=杉木鳥籠
 
 //Status lines
-item.exoticbirds.egg.tooltip.desc=生成概率: %s%%
+item.exoticbirds.egg.tooltip.desc=生成機率: %s%%
 item.exoticbirds.eggshell.tooltip.desc=可作為骨粉使用
 
 block.exoticbirds.phoenixegg.status=蛋的孵化進度為 %s%%
@@ -132,7 +132,7 @@ book.exoticbirds.tempt.line=引誘物品: %s
 book.exoticbirds.breed.line=繁殖物品: %s
 book.exoticbirds.tame.line=馴服物品: %s
 book.exoticbirds.egg.line=蛋:
-book.exoticbirds.select.line=選擇一個條目以顯示鳥類詳細信息。
+book.exoticbirds.select.line=選擇一個條目以顯示鳥類詳細資訊。
 book.exoticbirds.button.spin=轉動控制
 book.exoticbirds.gender.male=雄性
 book.exoticbirds.gender.female=雌性
@@ -226,7 +226,7 @@ book.exoticbirds.kookaburra.family=翠鳥科
 book.exoticbirds.budgerigar.family=鸚鵡科
 
 //Book info
-book.exoticbirds.cassowary.info=食火雞是在澳大利亞東北部和新幾內亞發現的大型領土鳥類。他們生活在遠離人類的小群落中，如果被激怒，它們將會變得異常危險。被稱作“頭盔”的外延骨骼長在頭部，用於推動密集的植被。
+book.exoticbirds.cassowary.info=食火雞是在澳洲東北部和紐幾內亞發現的大型領土鳥類。他們生活在遠離人類的小群落中，如果被激怒，它們將會變得異常危險。被稱作“頭盔”的外延骨骼長在頭部，用於推動密集的植被。
 book.exoticbirds.flamingo.info=紅鶴是高大的擁有粉色羽毛的涉水禽類。現實世界中有六種。他們經常在靠近水的地方被發現，他們可以以一條腿站立來保持身體中的熱量。它們是群居性質的鳥類，一個鳥群中常常有超過千隻鳥同時狩獵旅行和尋找食物。他們羽毛的粉色來自他們的食物——蝦中存在的天然粉色染料。
 book.exoticbirds.owl.info=貓頭鷹在除南極洲以外的大陸被發現。它們是掠食性的鳥類，具有總是向前的眼睛和鋒利的爪子，用來捕食獵物。貓頭鷹以囓齒動物和小型哺乳動物為食，但有時也捕獵昆蟲，鳴禽和魚類。
 book.exoticbirds.pelican.info=鵜鶘是大型食魚鳥類。他們使用附在它們大嘴上的囊袋將魚蝦撈出水面，然後像篩子一樣篩選，只留下食物。它們經常聚在一起追逐魚群。用熟魚可以馴服鵜鶘！
@@ -234,35 +234,35 @@ book.exoticbirds.kiwi.info=奇異鳥是紐西蘭原產的小型，有絨毛的�
 book.exoticbirds.seagull.info=海鷗是能發出惡劣叫聲的海鳥。他們的食物包括魚，碎屑和幾乎任何他們可以塞進喙裡的東西。它們將巢建立在沿海島嶼和沿岸的岩石上。
 book.exoticbirds.kingfisher.info=翠鳥是一種小型且害羞的鳥類，在沼澤和河流中覓食。他們棲息在水面上，會迅速潛入水中捉取魚，他們會將魚連魚頭整個吞下。
 book.exoticbirds.ostrich.info=鴕鳥是最高最重的鳥類。它們沒有飛行能量，但發出適合跑步，是跑的最快的兩腿動物。他們把蛋，鳥類中最大的蛋產在由具有領導能力的雌性的巢穴中共同孵化。
-book.exoticbirds.emperorpenguin.info=皇帝企鵝是世界上最大的企鵝，是南極洲特有的企鵝。它的飲食純粹由魚類組成，他們可以潛入超過500米（1,600英尺）的深度，並可以在水下停留20分鐘左右。
-book.exoticbirds.magpie.info=喜鵲是世界上最聰明的動物之一。他們可以通過大聲的喋喋不休的叫聲來識別。他們吃各種各樣的食物，包括昆蟲，種子，蛋殼碎片，並以喜歡撿拾有光澤的物體而聞名。
+book.exoticbirds.emperorpenguin.info=皇帝企鵝是世界上最大的企鵝，是南極洲特有的企鵝。它的飲食純粹由魚類組成，他們可以潛入超過500公尺（1,600英尺）的深度，並可以在水下停留20分鐘左右。
+book.exoticbirds.magpie.info=喜鵲是世界上最聰明的動物之一。他們可以透過大聲的喋喋不休的叫聲來識別。他們吃各式各樣的食物，包括昆蟲，種子，蛋殼碎片，並以喜歡撿拾有光澤的物體而聞名。
 book.exoticbirds.pigeon.info=鴿子是小而堅強的鳥類。他們以種子和植物為食。在各種不同的環境中，它們是世界上數量最多的鳥類之一。他們會盡可能地搭建巢穴。吞食大部分食物。
-book.exoticbirds.roadrunner.info=走鵑是一種害羞的沙漠鳥類，能夠跑得非常快。當他們跑起來時，他們將頭向下傾斜，並用長尾引導身體。它主食食肉，包括各色爬行動物，狼蛛和蝎子。
+book.exoticbirds.roadrunner.info=走鵑是一種害羞的沙漠鳥類，能夠跑得非常快。當他們跑起來時，他們將頭向下傾斜，並用長尾引導身體。它主食食肉，包括各色爬行動物，狼蛛和蠍子。
 book.exoticbirds.vulture.info=禿鷹是大型的食肉鳥類，它們用鉤狀喙來撕下獵物上的肉。他們會追逐受傷的動物並攻擊它們，因為受傷的動物能夠輕鬆的獵取。他們使用樹枝，瓦礫和骨骼殘骸在岩石壁架上築巢。
-book.exoticbirds.phoenix.info=鳳凰是從火焰中產生的大型神話生物。這些鳥只能從特殊的卵孵化出來，並且有能力飛翔。他們可以騎，死後會掉落神奇的複活灰燼。據說環境可以改變鳳凰的形態。
+book.exoticbirds.phoenix.info=鳳凰是從火焰中產生的大型神話生物。這些鳥只能從特殊的卵孵化出來，並且有能力飛翔。他們可以騎，死後會掉落神奇的復活灰燼。據說環境可以改變鳳凰的形態。
 book.exoticbirds.woodpecker.info=啄木鳥在高高地樹上鑽孔的聲音可以遠遠的就能聽到，。啄木鳥平均每秒可以啄20次。啄木鳥的飲食由螞蟻，漿果和種子組成。綠色的啄木鳥有一個黏喙以幫助捕捉螞蟻。
 book.exoticbirds.swan.info=天鵝是一種大型的水禽。最大的天鵝是號手天鵝。天鵝可以通過長長的S形脖子，大圓形的鳥嘴和刺耳的喇叭般的叫聲來區分。天鵝是一夫一妻制的鳥; 他們一生只找一個生活伴侶，它們會靠近水邊築巢產卵。
 book.exoticbirds.peafowl.info=孔雀是雉科家庭中的大型鳥類。孔雀的雄性非常艷麗，擁有奢華的尾羽。而雌性長的非常沉悶，所以他們能夠很好地偽裝。它們是雜食性的，吃花，種子，昆蟲，爬行動物和兩棲動物。
 book.exoticbirds.heron.info=蒼鷺經常在湖泊，河流，沼澤和海岸線附近的淺水中被發現。它們是黃昏的覓食者，意味著他們通常在黃昏和黎明期間覓食。它以魚類，小型哺乳動物和昆蟲為食。他們經常被發現棲息在高大的樹木中，在那裡築巢。
 book.exoticbirds.toucan.info=巨嘴鳥是一種中等大小的叢林鳥類，擁有巨大的鳥嘴，不過它的身體的大小非常輕巧。犀鳥的飲食範圍從水果，昆蟲到盜取別的鳥類的蛋。雌性小於雄性，雌性會選擇雄性不能進入的巢穴築巢。
 book.exoticbirds.duck.info=野鴨是大多數家鴨的祖先。繁殖期間的雄性有一個光澤的綠色鴨頭，但非繁殖期的雌性和雄性擁有相同的淺棕色羽毛。雌性的鴨子比雄性叫聲更響亮。他們主要在淺水植被的水面涉足，一般不會潛水。
-book.exoticbirds.hummingbird.info=蜂鳥是世界上最小的鳥類，蜜蜂蜂鳥只有5厘米（2英寸）大。他們長著尖尖的喙，用來從花中吸取花蜜。由於新陳代謝旺盛，他們必須每天吃很多餐，否則他們就會餓死。它們也是已知的唯一可以向後飛行的鳥。嘗試用糖吸引他們！
-book.exoticbirds.gouldianfinch.info=胡錦鳥是在澳大利亞北部發現的小型色彩鮮豔的鳥類。它們主要以草種子為食，並在樹叢中築巢。他們通常在乾燥季節繁殖，因為那時候有很多食物。
-book.exoticbirds.lyrebird.info=琴鳥是澳大利亞本土的地棲鳥類。他們有令人難以置信的模仿能力，能模仿他們的環境中的聲音。雄性琴母擁有長長的琴形尾羽，可以在求偶中抖動。
+book.exoticbirds.hummingbird.info=蜂鳥是世界上最小的鳥類，蜜蜂蜂鳥只有5公分（2英寸）大。他們長著尖尖的喙，用來從花中吸取花蜜。由於新陳代謝旺盛，他們必須每天吃很多餐，否則他們就會餓死。它們也是已知的唯一可以向後飛行的鳥。嘗試用糖吸引他們！
+book.exoticbirds.gouldianfinch.info=胡錦鳥是在澳洲北部發現的小型色彩鮮豔的鳥類。它們主要以草種子為食，並在樹叢中築巢。他們通常在乾燥季節繁殖，因為那時候有很多食物。
+book.exoticbirds.lyrebird.info=琴鳥是澳洲本土的地棲鳥類。他們有令人難以置信的模仿能力，能模仿他們的環境中的聲音。雄性琴母擁有長長的琴形尾羽，可以在求偶中抖動。
 book.exoticbirds.parrot.info=鸚鵡是非常聰明的生物，可以在叢林中找到。他們有很大的喙，能夠粉碎骨頭，用來吃硬殼堅果。它們主要以水果為食，有時也以蝸牛為食。他們是非常喜歡社交的鳥類，經常在各個小型群落中巡遊。用南瓜種子馴服它們！
-book.exoticbirds.booby.info=藍腳鰹鳥是以其明亮的藍色腳命名的海鳥。他們終生一夫一妻，在他們的築巢場所反复求愛，以保持非常強的聯繫。他們的飲食純粹由魚類組成，通常的捕食方法是從高處潛入大海。
+book.exoticbirds.booby.info=藍腳鰹鳥是以其明亮的藍色腳命名的海鳥。他們終生一夫一妻，在他們的築巢場所反覆求愛，以保持非常強的聯繫。他們的飲食純粹由魚類組成，通常的捕食方法是從高處潛入大海。
 book.exoticbirds.cardinal.info=北美紅雀是美國本土的中型鳴禽。雄性除了喙上的黑色外其他均為鮮豔的紅色，，而雌性則是淺黃的橄欖色。紅色越鮮豔，雄性北美紅雀在生育權上越成功。北美紅雀的飲食由種子，穀物和水果組成，但也會吃昆蟲。
 book.exoticbirds.bluejay.info=藍松鴉是北美洲最廣泛的鳥類。他們很容易適應人類，可以很容易的被發現居住在公園和花園中。他們的飲食主要由堅果和種子組成，如橡子，它們會將吃不完的食物隱藏起來。它們的羽毛是藍色的，帶有白色底面和黑色條紋，條紋延伸穿過它的翅膀和尾巴。
 book.exoticbirds.robin.info=知更鳥是一種小型鳴禽，你可以從明亮的橙色胸部羽毛識別它們。儘管看起來很友善，但知更鳥是孤獨的，它們擁有領土並在領土中非常具有侵略性的。它們以昆蟲，蠕蟲，蜘蛛和漿果為食。知更鳥在建築物和樹木的洞中築巢。
 book.exoticbirds.crane.info=白鶴是一種在非洲乾草原地區發現的大型鳥類。與其他鶴不同的是，由於它們長長的後腳趾，它們能夠棲息在樹上。他們的飲食包括植物，種子，昆蟲，青蛙，甚至蛇和魚。他們會在沼澤地建造一個大草窩築巢，並可以生下2-5個蛋。
 book.exoticbirds.kookaburra.info=笑翠鳥是一種與翠鳥同科的小鳥。它們生活在雨林和乾燥的稀樹草原上。與翠鳥不同，笑翠鳥不捕食魚類，而是吃老鼠、蛇、昆蟲、爬行動物和其他鳥類的幼鳥。笑翠鳥經常以其獨特的笑聲而聞名。
-book.exoticbirds.budgerigar.info=虎皮鸚鵡，是世界上最小的鸚鵡種類之一。他們最早只被發現在澳大利亞，而現在已經成為世界範圍內的流行寵物。虎皮鸚鵡可用種子餵養，並且他們即便不喝水也能生活很長一段時間。
+book.exoticbirds.budgerigar.info=虎皮鸚鵡，是世界上最小的鸚鵡種類之一。他們最早只被發現在澳洲，而現在已經成為世界範圍內的流行寵物。虎皮鸚鵡可用種子餵養，並且他們即便不喝水也能生活很長一段時間。
 
 //Species names
 species.exoticbirds.booby.name=藍腳鰹鳥
 species.exoticbirds.cassowary.name=南部食火雞
 species.exoticbirds.duck.name=綠頭鴨
-species.exoticbirds.flamingo0.name=安第斯紅鶴
+species.exoticbirds.flamingo0.name=安地斯紅鶴
 species.exoticbirds.flamingo1.name=加勒比紅鶴
 species.exoticbirds.flamingo2.name=智利紅鶴
 species.exoticbirds.flamingo3.name=大紅鶴

@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 #zh_tw.lang File
 
 itemGroup.bhc=心之罐飾品
@@ -46,6 +46,3 @@ advancements.bhc.relic_apple=拜託了，聖寶石蘋果！
 advancements.bhc.relic_apple.description=獲得一個聖寶石蘋果！
 advancements.bhc.heart_amulet=一勞永逸！
 advancements.bhc.heart_amulet.description=獲得奇妙的心之護符！
-
-
-

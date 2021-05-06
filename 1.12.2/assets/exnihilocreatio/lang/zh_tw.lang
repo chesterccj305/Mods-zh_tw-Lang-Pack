@@ -1,4 +1,4 @@
-item.hammer_wood.name=木錘
+﻿item.hammer_wood.name=木錘
 item.hammer_stone.name=石鎚
 item.hammer_iron.name=鐵鎚
 item.hammer_gold.name=金鎚
@@ -121,7 +121,7 @@ oreingot.name=錠
 
 fluid.witchwater=巫水
 
-jei.sieve.dropChance=掉落概率
+jei.sieve.dropChance=掉落機率
 
 jei.hammer.hammerLevel=錘子等級
 jei.hammer.hammerLevel.0=木頭
@@ -130,7 +130,7 @@ jei.hammer.hammerLevel.2=鐵
 jei.hammer.hammerLevel.3=鑽石
 jei.hammer.hammerLevel.4=最高等級
 
-commands.enreloadconfig.confirm=無中生有配置重載
+commands.enreloadconfig.confirm=無中生有設定重載
 
 itemGroup.exNihilo=無中生有 創造
 

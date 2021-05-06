@@ -1,4 +1,4 @@
-item.energy_core.name=能量核心
+﻿item.energy_core.name=能量核心
 item.energy_shield.name=能量盾
 item.fluid_core.name=流體核心
 item.item_core.name=物品核心
@@ -29,6 +29,6 @@ tile.infinite_barrel.name=無限桶
 tile.infinite_capacitor.name=無限電容器
 tile.infinite_tank.name=無限儲罐
 tile.infinite_water_source.name=無限水源
-tile.item_interface.name=物品接口
-tile.nether_star_block.name=下界之星塊
-tile.player_interface.name=玩家接口
+tile.item_interface.name=物品介面
+tile.nether_star_block.name=地獄之星塊
+tile.player_interface.name=玩家介面

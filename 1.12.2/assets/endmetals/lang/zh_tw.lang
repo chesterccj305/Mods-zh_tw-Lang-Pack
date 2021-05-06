@@ -1,4 +1,4 @@
-tile.endmetals.end_aluminum_ore.name=終界鋁礦石
+﻿tile.endmetals.end_aluminum_ore.name=終界鋁礦石
 tile.endmetals.end_antimony_ore.name=終界銻礦石
 tile.endmetals.end_bismuth_ore.name=終界鉍礦石
 tile.endmetals.end_cadmium_ore.name=終界鎘礦石
@@ -18,7 +18,7 @@ tile.endmetals.end_mercury_ore.name=終界汞礦石
 tile.endmetals.end_nickel_ore.name=終界鎳礦石
 tile.endmetals.end_osmium_ore.name=終界鋨礦石
 tile.endmetals.end_platinum_ore.name=終界鉑礦石
-tile.endmetals.end_plutonium_ore.name=終界鈈礦石
+tile.endmetals.end_plutonium_ore.name=終界鈽礦石
 tile.endmetals.end_redstone_ore.name=終界紅石礦石
 tile.endmetals.end_rutile_ore.name=終界金紅石礦石
 tile.endmetals.end_silver_ore.name=終界銀礦石

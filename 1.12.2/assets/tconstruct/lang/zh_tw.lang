@@ -1,4 +1,4 @@
-################
+﻿################
 #    Blocks    #
 ################
 
@@ -189,7 +189,7 @@ tile.tconstruct.punji.tooltip=非常尖銳！ 也可以裝在牆上。
 tile.tconstruct.glow.name=螢光
 tile.tconstruct.rack.item.name=物品架
 tile.tconstruct.rack.item.tooltip=僅用於展示物品
-tile.tconstruct.rack.drying.name=晾乾架
+tile.tconstruct.rack.drying.name=晾幹架
 tile.tconstruct.rack.drying.tooltip=用來晾乾物品
 
 tile.tconstruct.slime_channel.green.name=史萊姆通道
@@ -263,13 +263,13 @@ item.tconstruct.edible.slimeball_magma.name=史萊姆球
 item.tconstruct.edible.slimeball_pink.name=史萊姆球
 item.tconstruct.edible.jerky_beef.name=牛肉乾
 item.tconstruct.edible.jerky_chicken.name=雞肉乾
-item.tconstruct.edible.jerky_pork.name=培根乾
+item.tconstruct.edible.jerky_pork.name=培根幹
 item.tconstruct.edible.jerky_mutton.name=羊肉乾
 item.tconstruct.edible.jerky_rabbit.name=兔肉乾
 item.tconstruct.edible.jerky_fish.name=魚乾
 item.tconstruct.edible.jerky_salmon.name=鮭魚乾
 item.tconstruct.edible.jerky_clownfish.name=小丑魚乾
-item.tconstruct.edible.jerky_pufferfish.name=河豚乾
+item.tconstruct.edible.jerky_pufferfish.name=河豚幹
 item.tconstruct.edible.jerky_monster.name=怪物肉乾
 item.tconstruct.edible.slimedrop_green.name=史萊姆黏液滴
 item.tconstruct.edible.slimedrop_blue.name=史萊姆黏液滴
@@ -384,7 +384,7 @@ item.tconstruct.kama_head.name=鐮刀頭端
 item.tconstruct.pan_head.name=平底鍋面
 item.tconstruct.sign_head.name=告示牌板
 item.tconstruct.binding.name=接合綁定
-item.tconstruct.tool_rod.name=手柄
+item.tconstruct.tool_rod.name=手把
 item.tconstruct.knife_blade.name=刀刃
 item.tconstruct.sword_blade.name=劍刃
 item.tconstruct.wide_guard.name=寬型護手
@@ -398,7 +398,7 @@ item.tconstruct.excavator_head.name=挖掘鏟頭
 item.tconstruct.broad_axe_head.name=大型斧頭頭端
 item.tconstruct.large_plate.name=大型板子
 item.tconstruct.tough_binding.name=強化接合綁定
-item.tconstruct.tough_tool_rod.name=強化手柄
+item.tconstruct.tough_tool_rod.name=強化手把
 item.tconstruct.scythe_head.name=大鐮刀頭
 item.tconstruct.large_sword_blade.name=大刀刀刃
 
@@ -629,9 +629,9 @@ stat.head.harvestlevel.desc=這個材質的工具頭端可挖掘多大範圍的�
 stat.head.attack.name=攻擊力
 stat.head.attack.desc=計算攻擊力的基準值。\n最終結果取決於工具本身及使用的其它組成元件。
 
-stat.handle.name=手柄
+stat.handle.name=手把
 stat.handle.modifier.name=增強
-stat.handle.modifier.desc=材料作為工具手柄的適合程度。\n工具的總耐久度會乘上這個值。
+stat.handle.modifier.desc=材料作為工具手把的適合程度。\n工具的總耐久度會乘上這個值。
 stat.handle.durability.name=stat.head.durability.name
 stat.handle.durability.desc=這個材質的好握程度。\n工具的耐久度會被這個值改變。
 
@@ -656,7 +656,7 @@ stat.bowstring.modifier.desc=工具的耐久度會乘上這個值。
 
 stat.shaft.name=箭桿
 stat.shaft.modifier.name=增強
-stat.shaft.modifier.desc=每支箭都需要適合的箭芯。這會決定其持續的程度。\n工具的總箭矢數量會乘上這個值。
+stat.shaft.modifier.desc=每枝箭都需要適合的箭芯。這會決定其持續的程度。\n工具的總箭矢數量會乘上這個值。
 stat.shaft.ammo.name=箭矢加成
 stat.shaft.ammo.desc=你可以從中獲得多少箭矢。\n會加上這些數量的相同箭矢。
 
@@ -712,7 +712,7 @@ modifier.fractured.desc=§o好痛！§r\n你工具的損傷增加了。
 modifier.heavy.name=穩重
 modifier.heavy.desc=§o你做過重訓嗎？§r\n抵抗擊退。
 modifier.hellish.name=地獄
-modifier.hellish.desc=§o從下界來的！§r\n對非地獄生物可造成額外的傷害。
+modifier.hellish.desc=§o從地獄來的！§r\n對非地獄生物可造成額外的傷害。
 modifier.hellish.extra=對付非地獄生物: +%s
 modifier.holy.name=神聖
 modifier.holy.desc=§o聖光四射！§r\n對不死生物可造成額外的傷害。
@@ -852,7 +852,7 @@ modifier.webbed.desc=§o噁心！§r\n將敵人纏在蜘蛛網中以使其變慢
 #################
 item.tconstruct.pickaxe.desc=《鎬》是專門用來挖礦的工具，其作用於石頭和礦物。\n『用它破壞方塊好嗎？』
 item.tconstruct.shovel.desc=《鏟》是用來挖土的，其作用於泥土、沙子、礫石和雪。\n『別拿來自掘墳墓就好！』
-item.tconstruct.hatchet.desc=《手斧》用來砍伐木頭，並能快速的處理樹葉，勉強還能做為武器。\n『砍！ 砍！ 砍！』
+item.tconstruct.hatchet.desc=《手斧》用來砍伐木頭，並能快速的處理樹葉，勉強還能作為武器。\n『砍！ 砍！ 砍！』
 item.tconstruct.mattock.desc=《鶴嘴鋤》是多功能的農業工具，其作用於木頭、泥土和農作物，用來戰鬥還能造成重擊。\n滑鼠右鍵: 耕地
 item.tconstruct.kama.desc=《鐮刀》是專門用來收割的工具，可以收割植物及剪下動物的毛。\n滑鼠右鍵: 收割作物並重新種植
 item.tconstruct.broadsword.desc=《寬劍》是種普遍的武器，揮動時可直接攻擊一群敵人。\n也很適合用來清除蜘蛛網！
@@ -1029,7 +1029,7 @@ gui.tinkertank.name==工匠儲液槽
 
 # These GUIs don't appear in game, but the titles can be viewed using the crafting station
 gui.itemrack.name=物品架
-gui.dryingrack.name=晾乾架
+gui.dryingrack.name=晾幹架
 
 # JEI Plugin
 gui.jei.smelting.title=冶煉

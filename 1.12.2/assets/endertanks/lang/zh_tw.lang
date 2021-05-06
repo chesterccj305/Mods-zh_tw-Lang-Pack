@@ -1,4 +1,4 @@
-error.endertanks.bucket.nolink1.txt=無法連接到桶，你不是儲罐擁有者
+﻿error.endertanks.bucket.nolink1.txt=無法連接到桶，你不是儲罐擁有者
 error.endertanks.bucket.nolink2.txt=無法連接到桶，儲罐擁有者未知
 error.endertanks.bucket.nolink3.txt=無法連接到桶，你和儲罐擁有者不處於同一個組
 error.endertanks.bucket.private.disabled.txt=創建私人桶被禁止

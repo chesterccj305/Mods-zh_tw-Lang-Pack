@@ -1,4 +1,4 @@
-Traditional Chinese TW Language file for The Traveller's Backpack Mod!
+﻿Traditional Chinese TW Language file for The Traveller's Backpack Mod!
 
 //Creative Tabs
 itemGroup.travellersbackpack=旅行者背包
@@ -23,7 +23,7 @@ gui.empty.name=空
 backpack.obtain.bat=可在廢棄礦坑或地牢中獲得
 backpack.obtain.iron_golem=可在鐵匠村民的儲物箱中獲得
 backpack.obtain.electric=只能以穿著鑽石背包被雷擊中的方式獲得
-backpack.obtain.pigman=只能以穿著豬背包被雷擊中的方式獲得
+backpack.obtain.pigman=隻能以穿著豬背包被雷擊中的方式獲得
 backpack.obtain.deluxe=可在地獄堡壘中獲得
 backpack.obtain.villager=只能從牧師或圖書管理員那購買東西獲得
 

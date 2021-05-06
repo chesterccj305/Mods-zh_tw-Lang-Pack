@@ -1,4 +1,4 @@
-tile.workbench.name=工作台
+﻿tile.workbench.name=工作檯
 
 item.handgun.name=手槍
 item.shotgun.name=霰彈槍
@@ -33,23 +33,23 @@ info.cgm.damage=傷害：%s
 info.cgm.ammo=彈藥：%s/%s
 info.cgm.ignore_ammo=無限彈藥
 
-config.cgm.title=MrCrayfish 的槍——配置
+config.cgm.title=MrCrayfish 的槍——設定
 
-config.cgm.client=客戶端
+config.cgm.client=用戶端
 
-config.cgm.client.tooltip=僅限客戶端的配置
+config.cgm.client.tooltip=僅限用戶端的設定
 config.cgm.client.sounds=聲音
 config.cgm.client.sounds.tooltip=控制槍聲
 config.cgm.client.sounds.hit_sound=播放命中聲音
 config.cgm.client.sounds.hit_sound.tooltip=如果設為 true，當你成功地用槍擊中玩家時，會發出叮當聲。
 config.cgm.client.display=顯示
-config.cgm.client.display.tooltip=顯示相關選項的配置
-config.cgm.client.display.workbench_animation=工作台動畫
-config.cgm.client.display.workbench_animation.tooltip=如果設為 true，則在工作台中循環物品時執行動畫。
+config.cgm.client.display.tooltip=顯示相關選項的設定
+config.cgm.client.display.workbench_animation=工作檯動畫
+config.cgm.client.display.workbench_animation.tooltip=如果設為 true，則在工作檯中循環物品時執行動畫。
 
 config.cgm.server=伺服器
 
-config.cgm.server.tooltip=僅限伺服器的配置
+config.cgm.server.tooltip=僅限伺服器的設定
 config.cgm.server.aggro=挑釁生物
 config.cgm.server.aggro.tooltip=附近的生物在聽到槍聲後會被激怒和/或受驚嚇。
 config.cgm.server.aggro.enabled=啟用挑釁生物
@@ -87,7 +87,7 @@ config.cgm.server.grenade.stun.deafen.sound.ring=鈴聲音量
 config.cgm.server.grenade.stun.deafen.sound.ring.tooltip=鈴聲的音量，當耳聾時，會在這個音量下播放，最後淡出到 0。
 
 config.cgm.server.grenade.stun.effect_criteria.radius=半徑
-config.cgm.server.grenade.stun.effect_criteria.radius.tooltip=手榴彈必須不超過這幾米遠才能產生效果。
+config.cgm.server.grenade.stun.effect_criteria.radius.tooltip=手榴彈必須不超過這幾公尺遠才能產生效果。
 config.cgm.server.grenade.stun.effect_criteria.duration.max=最長持續時間
 config.cgm.server.grenade.stun.effect_criteria.duration.max.tooltip=如果手榴彈直接對著玩家的眼睛而直接看著它，效果將有這個持續時間（以刻為單位）。
 config.cgm.server.grenade.stun.effect_criteria.duration.min=最小持續時間（按距離）

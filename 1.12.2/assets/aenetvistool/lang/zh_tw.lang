@@ -1,8 +1,8 @@
-item.aenetvistool:net_visualizer.name=進階網路可視化工具
+﻿item.aenetvistool:net_visualizer.name=進階網路可視化工具
 
 gui.netvistool.title=進階網路可視化工具
 
-gui.netvistool.button.colour=顏色配置
+gui.netvistool.button.colour=顏色設定
 gui.netvistool.button.render=渲染設定
 
 gui.netvistool.cfg.cable_node_colour8=線纜顏色
@@ -32,7 +32,7 @@ gui.netvistool.cfg.p2p_colour_6.info=設定P2P-光匯流排的鏈路顏色。
 gui.netvistool.cfg.rand_p2p_colours=隨機P2P顏色
 gui.netvistool.cfg.rand_p2p_colours.info=啟用後每條P2P匯流排的鏈路都會被給予隨機顯示顏色。
 gui.netvistool.cfg.rand_p2p_colour_offset=P2P顏色偏移
-gui.netvistool.cfg.rand_p2p_colour_offset.info=啟用後渲染P2P鏈路會使用微小的色偏移。這樣更容易在覆雜的P2P網路中看清P2P連結到什麼地方。
+gui.netvistool.cfg.rand_p2p_colour_offset.info=啟用後渲染P2P鏈路會使用微小的色偏移。這樣更容易在複雜的P2P網路中看清P2P連結到什麼地方。
 gui.netvistool.cfg.render_no_depth=透過方塊渲染節點
 gui.netvistool.cfg.render_no_depth.info=啟用後可以透過方塊看到所有網路節點和線纜。
 gui.netvistool.cfg.render_p2p_no_depth=透過方塊渲染P2P
@@ -51,4 +51,3 @@ gui.netvistool.cfg.highlight_inactive_buses=突顯閒置匯流排
 gui.netvistool.cfg.highlight_inactive_buses.info=啟用後任何閒置匯流排將以紅色突顯。（用於尋找缺少頻道或者沒有能源的匯流排）
 gui.netvistool.cfg.small_chanel_labels=小頻道標記
 gui.netvistool.cfg.small_chanel_labels.info=啟用後將縮小已使用頻道標記的大小。
-

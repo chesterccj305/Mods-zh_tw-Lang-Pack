@@ -1,4 +1,4 @@
-//---- Entity Filter ----//// ----實體過濾器---- //
+﻿//---- Entity Filter ----//// ----實體過濾器---- //
 gui.entityFilter.filter.txt=過濾器
 gui.entityFilter.button.passive=被動
 gui.entityFilter.button.hostile=敵對
@@ -7,7 +7,7 @@ gui.entityFilter.button.other=其他
 gui.entityFilter.button.whiteList=白名單
 gui.entityFilter.button.blackList=黑名單
 gui.entityFilter.button.editList=編輯列表
-gui.entityFilter.customTip.txt=玩家用戶名必須設置為[player]：username
+gui.entityFilter.customTip.txt=玩家使用者名稱必須設置為[player]：username
 
 //---- Generic ----//// ----通用---- //
 generic.de.Mode.txt=模式
@@ -19,7 +19,7 @@ generic.yes.txt=是
 generic.no.txt=否
 generic.remove.txt=刪除
 generic.edit.txt=編輯
-generic.configureRedstone.txt=配置紅石開關
+generic.configureRedstone.txt=設定紅石開關
 
 //---- Generic Gui Buttons ----//// ----通用Gui按鈕---- //
 gui.de.button.start=開始
@@ -30,7 +30,7 @@ gui.de.button.toggle=切換
 gui.de.button.close=關閉
 gui.button.save=保存
 
-//---- Modular GUI ----//// ----模塊化GUI ---- //
+//---- Modular GUI ----//// ----模組化GUI ---- //
 gui.bc.downloading_image.info=下載圖像
 gui.bc.downloading_image_failed.info=圖片下載失敗！ Shift +左鍵重試。
 

@@ -1,4 +1,4 @@
-itemGroup.demagnetize=消磁器
+﻿itemGroup.demagnetize=消磁器
 tile.demagnetize.demagnetizer.name=消磁器
 tile.demagnetize.demagnetizer_advanced.name=高級消磁
 label.demagnetize.demagnetizer.filter.name=過濾器
@@ -11,4 +11,4 @@ label.demagnetize.demagnetizer.rsoff.name=紅石關閉
 description.demagnetize.demagnetizer.1=消磁器能夠阻止其附近的物品被大多數模組吸引東西撿起。
 description.demagnetize.demagnetizer.2=它能夠添加過濾並被紅石信號控制。
 description.demagnetize.demagnetizer.3=高級消磁器擁有巨大的範圍，更多的過濾槽位。
-tooltip.demagnetize.configured.name=已配置
+tooltip.demagnetize.configured.name=已設定

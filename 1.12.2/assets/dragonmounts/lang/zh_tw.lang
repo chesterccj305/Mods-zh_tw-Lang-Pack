@@ -1,4 +1,4 @@
-commands.dragon.canttame=你不能馴服這隻龍
+﻿commands.dragon.canttame=你不能馴服這隻龍
 commands.dragon.nodragons=沒有龍在你附近
 death.attack.DRAGON_BREATH=被龍息殺死了。
 dragon.aether=乙太

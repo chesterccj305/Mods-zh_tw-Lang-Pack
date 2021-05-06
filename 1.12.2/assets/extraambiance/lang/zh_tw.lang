@@ -1,4 +1,4 @@
-itemGroup.extraambiance=額外氛圍
+﻿itemGroup.extraambiance=額外氛圍
 
 item.light_editor.name=燈編輯器
 
@@ -20,7 +20,7 @@ tile.particle_emitter.cloud.name=粒子生成器（雲）
 tile.particle_emitter.enchantmenttable.name=粒子生成器（附魔台）
 tile.particle_emitter.dragonbreath.name=粒子生成器（龍息）
 tile.particle_emitter.endrod.name=粒子生成器（終界燭）
-tile.particle_emitter.fireworksspark.name=粒子生成器（煙花）
+tile.particle_emitter.fireworksspark.name=粒子生成器（煙火）
 tile.particle_emitter.largeexplode.name=粒子生成器（大爆炸）
 tile.particle_emitter.happyvillager.name=粒子生成器（愉快的村民）
 tile.particle_emitter.heart.name=粒子生成器（心）
@@ -34,7 +34,7 @@ tile.particle_emitter_light.cloud.name=燈光粒子生成器（雲）
 tile.particle_emitter_light.dragonbreath.name=燈光粒子生成器（龍息）
 tile.particle_emitter_light.enchantmenttable.name=燈光粒子生成器（附魔台）
 tile.particle_emitter_light.endrod.name=燈光粒子生成器（終界燭）
-tile.particle_emitter_light.fireworksspark.name=燈光粒子生成器（煙花）
+tile.particle_emitter_light.fireworksspark.name=燈光粒子生成器（煙火）
 tile.particle_emitter_light.flame.name=燈光粒子生成器（火焰）
 tile.particle_emitter_light.happyvillager.name=燈光粒子生成器（愉快的村民）
 tile.particle_emitter_light.heart.name=燈光粒子生成器（心）
@@ -114,10 +114,10 @@ sound.entity_player_levelup=等級提升
 sound.entity_shulker_ambient=界伏蚌旋
 sound.entity_skeleton_ambient=骷髏抖骨
 sound.entity_wither_ambient=凋零攝魂
-text.lighteditor.cleared=信息清除
-text.lighteditor.compatible=儲存信息相容！
-text.lighteditor.incompatible=儲存信息不相容
-text.lighteditor.stored=存有信息
+text.lighteditor.cleared=資訊清除
+text.lighteditor.compatible=儲存資訊相容！
+text.lighteditor.incompatible=儲存資訊不相容
+text.lighteditor.stored=存有資訊
 
 gui.arguments=參數
 gui.back=返回

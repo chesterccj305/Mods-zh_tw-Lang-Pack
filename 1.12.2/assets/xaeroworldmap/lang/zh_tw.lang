@@ -1,4 +1,4 @@
-gui.xaero_open_map=開啟世界地圖
+﻿gui.xaero_open_map=開啟世界地圖
 gui.xaero_open_settings=開啟設定
 gui.xaero_debug=Debug
 gui.xaero_on=ON
@@ -17,5 +17,5 @@ gui.xaero_light_levels=光照等級
 gui.xaero_requires_reload=需要重新載入世界才能生效！降低＝更好的性能。
 gui.xaero_flowers=載入鮮花
 gui.xaero_texture_compression=材質壓縮
-gui.xaero_wm_coordinates=光標坐標
+gui.xaero_wm_coordinates=游標坐標
 gui.xaero_biome_colors=原史生態域

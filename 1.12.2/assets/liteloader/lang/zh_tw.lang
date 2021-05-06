@@ -1,4 +1,4 @@
-# This file MUST be saved as UTF-8
+﻿# This file MUST be saved as UTF-8
 
 key.categories.litemods=§e模組按鍵
 
@@ -48,10 +48,10 @@ gui.mod.providesmixins=Mixins
 gui.mod.usingapi=使用額外的 API
 gui.mod.startuperror=%d 個啟動錯誤
 
-gui.mod.help.tweak=Tweaker 是一種特殊的模組。Tweakers 對遊戲有幾乎無限的控制，並且一般改動基本的遊戲引擎，例如 API 或者類似 Optifine 的性能優化模組。因為它們對遊戲有最大控制，所以遊戲不穩定時最有可能是因為它們中間有沖突。如果遇到崩潰或嚴重問題，請先禁用此類模組。
-gui.mod.help.transformer=Transformer 類模組使用字節碼修改來給遊戲添加 LiteLoader 未提供的功能接口。因為此類模組並不通過 LiteLoader 提供的 API 使用遊戲功能，所以它們可能在與其他同類模組同時使用時出現一些意想不到的影響。如果遇到崩潰或者其他問題，請在移除正常模組前先移除此類模組進行測試，以確認是否是此類模組導致的。Forge 稱其為 §lCoreMod§r。
-gui.mod.help.events=Injector 使用一種受限的方法來進行字節碼修改。它比 Transformer 稍為安全，但是有時仍會導致不穩定。如果遇到崩潰或者其他問題，請在移除正常模組前先移除此類模組進行測試，以確認是否是此類模組導致的。
-gui.mod.help.mixins=一個使用 mixin 的模組通過一種安全的途徑來進行字節碼修改以接入 Minecraft
+gui.mod.help.tweak=Tweaker 是一種特殊的模組。Tweakers 對遊戲有幾乎無限的控制，並且一般改動基本的遊戲引擎，例如 API 或者類似 Optifine 的性能最佳化模組。因為它們對遊戲有最大控制，所以遊戲不穩定時最有可能是因為它們中間有衝突。如果遇到崩潰或嚴重問題，請先禁用此類模組。
+gui.mod.help.transformer=Transformer 類模組使用位元組碼修改來給遊戲添加 LiteLoader 未提供的功能介面。因為此類模組並不通過 LiteLoader 提供的 API 使用遊戲功能，所以它們可能在與其他同類模組同時使用時出現一些意想不到的影響。如果遇到崩潰或者其他問題，請在移除正常模組前先移除此類模組進行測試，以確認是否是此類模組導致的。Forge 稱其為 §lCoreMod§r。
+gui.mod.help.events=Injector 使用一種受限的方法來進行位元組碼修改。它比 Transformer 稍微安全，但是有時仍會導致不穩定。如果遇到崩潰或者其他問題，請在移除正常模組前先移除此類模組進行測試，以確認是否是此類模組導致的。
+gui.mod.help.mixins=一個使用 mixin 的模組透過一種安全的途徑來進行位元組碼修改以接入 Minecraft
 
 gui.settings.title=%s 個設置
 gui.saveandclose=保存並關閉
@@ -62,7 +62,7 @@ gui.updates.status.checking=連接更新網站中……%s
 gui.updates.status.success=§a成功！
 gui.updates.status.failed=§c失敗！
 
-gui.updates.available.title=§n可用更新信息
+gui.updates.available.title=§n可用更新資訊
 gui.updates.available.nonewversion=§7已是最新版本
 gui.updates.available.newversion=§a版本過期
 gui.updates.available.version=版本：§a%s
@@ -76,11 +76,11 @@ gui.downloadupdate=現在下載
 gui.forceupdate=強制更新
 gui.exitgame=退出遊戲
 
-gui.log.button=LiteLoader 日志
-gui.log.title=LiteLoader 日志查看器
+gui.log.button=LiteLoader 日誌
+gui.log.title=LiteLoader 日誌查看器
 gui.log.scalecheckbox=使用預設解析度
-gui.log.postlog=上傳日志
-gui.log.uploading=正在上傳日志，請稍後……
+gui.log.postlog=上傳日誌
+gui.log.uploading=正在上傳日誌，請稍後……
 gui.log.uploadfailed=上傳失敗
 gui.log.uploadsuccess=上傳成功，請到這裡查看：
 gui.log.closedialog=關閉
