@@ -1,21 +1,21 @@
-### Item Groups ###
+﻿### Item Groups ###
 #############################################################################################
-itemGroup.protoss=星際爭霸丨神族
-itemGroup.terran=星際爭霸丨人族
-itemGroup.zerg=星際爭霸丨蟲族
-itemGroup.flora=星際爭霸丨植物
-itemGroup.books=星際爭霸丨日志
-itemGroup.terran.general=星際爭霸丨普通
-itemGroup.terran.machine=星際爭霸丨機器
-itemGroup.terran.decoration=星際爭霸丨裝飾品
-itemGroup.terran.weapons=星際爭霸丨武器
-itemGroup.terran.armors=星際爭霸丨盔甲
-itemGroup.terran.tools=星際爭霸丨工具
+itemGroup.protoss=星海爭霸丨神族
+itemGroup.terran=星海爭霸丨人族
+itemGroup.zerg=星海爭霸丨蟲族
+itemGroup.flora=星海爭霸丨植物
+itemGroup.books=星海爭霸丨日誌
+itemGroup.terran.general=星海爭霸丨普通
+itemGroup.terran.machine=星海爭霸丨機器
+itemGroup.terran.decoration=星海爭霸丨裝飾品
+itemGroup.terran.weapons=星海爭霸丨武器
+itemGroup.terran.armors=星海爭霸丨盔甲
+itemGroup.terran.tools=星海爭霸丨工具
 #############################################################################################
 
 ### Key Bindings ###
 #############################################################################################
-key.categories.starcraft=星際爭霸
+key.categories.starcraft=星海爭霸
 key.terran.marinevisor.toggle=啟用機槍兵盔甲護目鏡
 key.ship.ability.1=艦船能力 1
 key.ship.ability.2=艦船能力 2
@@ -24,7 +24,7 @@ key.ship.ability.3=艦船能力 3
 
 ### Enchantments ###
 #############################################################################################
-enchantment.glowing=熒光
+enchantment.glowing=螢光
 #############################################################################################
 
 ### Commands ###
@@ -70,7 +70,7 @@ tile.protoss.metal.3.dark.name=黑色T3神族金屬
 tile.protoss.metal.3.green.name=綠色T3神族金屬
 tile.protoss.metal.3.blue.name=藍色T3神族金屬
 tile.protoss.metal.3.red.name=紅色T3神族金屬
-tile.protoss.pyloncrystal.pure.name=純凈水晶塔晶體
+tile.protoss.pyloncrystal.pure.name=純淨水晶塔晶體
 tile.protoss.pyloncrystal.dark.name=黑暗水晶塔晶體
 tile.protoss.pyloncrystal.void.name=空間水晶塔晶體
 tile.protoss.wormhole.name=神族蟲洞
@@ -125,38 +125,38 @@ tile.stair.terran.metal.titanium.name=鈦樓梯
 tile.stair.terran.warningtape.name=警告帶樓梯
 tile.stair.terran.neosteel.base.name=合金鋼基地方塊樓梯
 tile.stair.terran.neosteel.frame.name=合金鋼框架樓梯
-tile.terran.paristeel.purple.name=紫色帕裏鋼
-tile.terran.paristeel.brown.name=棕色帕裏鋼
-tile.terran.paristeel.pink.name=粉色帕裏鋼
-tile.terran.paristeel.blue.name=藍色帕裏鋼
-tile.terran.paristeel.cyan.name=青色帕裏鋼
-tile.terran.paristeel.gray.name=灰色帕裏鋼
-tile.terran.paristeel.green.name=綠色帕裏鋼
-tile.terran.paristeel.lightblue.name=淺藍色帕裏鋼
-tile.terran.paristeel.lime.name=青檸色帕裏鋼
-tile.terran.paristeel.magenta.name=洋紅色帕裏鋼
-tile.terran.paristeel.orange.name=橙色帕裏鋼
-tile.terran.paristeel.red.name=紅色帕裏鋼
-tile.terran.paristeel.silver.name=銀色帕裏鋼
-tile.terran.paristeel.white.name=白色帕裏鋼
-tile.terran.paristeel.yellow.name=黃色帕裏鋼
-tile.terran.paristeel.black.name=黑色帕裏鋼
-tile.stair.terran.paristeel.purple.name=紫色帕裏鋼樓梯
-tile.stair.terran.paristeel.brown.name=棕色帕裏鋼樓梯
-tile.stair.terran.paristeel.pink.name=粉色帕裏鋼樓梯
-tile.stair.terran.paristeel.blue.name=藍色帕裏鋼樓梯
-tile.stair.terran.paristeel.cyan.name=青色帕裏鋼樓梯
-tile.stair.terran.paristeel.gray.name=灰色帕裏鋼樓梯
-tile.stair.terran.paristeel.green.name=綠色帕裏鋼樓梯
-tile.stair.terran.paristeel.lightblue.name=淺藍色帕裏鋼樓梯
-tile.stair.terran.paristeel.lime.name=青檸色帕裏鋼樓梯
-tile.stair.terran.paristeel.magenta.name=洋紅色帕裏鋼樓梯
-tile.stair.terran.paristeel.orange.name=橙色帕裏鋼樓梯
-tile.stair.terran.paristeel.red.name=紅色帕裏鋼樓梯
-tile.stair.terran.paristeel.silver.name=銀色帕裏鋼樓梯
-tile.stair.terran.paristeel.white.name=白色帕裏鋼樓梯
-tile.stair.terran.paristeel.yellow.name=黃色帕裏鋼樓梯
-tile.stair.terran.paristeel.black.name=黑色帕裏鋼樓梯
+tile.terran.paristeel.purple.name=紫色帕里鋼
+tile.terran.paristeel.brown.name=棕色帕里鋼
+tile.terran.paristeel.pink.name=粉色帕里鋼
+tile.terran.paristeel.blue.name=藍色帕里鋼
+tile.terran.paristeel.cyan.name=青色帕里鋼
+tile.terran.paristeel.gray.name=灰色帕里鋼
+tile.terran.paristeel.green.name=綠色帕里鋼
+tile.terran.paristeel.lightblue.name=淺藍色帕里鋼
+tile.terran.paristeel.lime.name=青檸色帕里鋼
+tile.terran.paristeel.magenta.name=洋紅色帕里鋼
+tile.terran.paristeel.orange.name=橙色帕里鋼
+tile.terran.paristeel.red.name=紅色帕里鋼
+tile.terran.paristeel.silver.name=銀色帕里鋼
+tile.terran.paristeel.white.name=白色帕里鋼
+tile.terran.paristeel.yellow.name=黃色帕里鋼
+tile.terran.paristeel.black.name=黑色帕里鋼
+tile.stair.terran.paristeel.purple.name=紫色帕里鋼樓梯
+tile.stair.terran.paristeel.brown.name=棕色帕里鋼樓梯
+tile.stair.terran.paristeel.pink.name=粉色帕里鋼樓梯
+tile.stair.terran.paristeel.blue.name=藍色帕里鋼樓梯
+tile.stair.terran.paristeel.cyan.name=青色帕里鋼樓梯
+tile.stair.terran.paristeel.gray.name=灰色帕里鋼樓梯
+tile.stair.terran.paristeel.green.name=綠色帕里鋼樓梯
+tile.stair.terran.paristeel.lightblue.name=淺藍色帕里鋼樓梯
+tile.stair.terran.paristeel.lime.name=青檸色帕里鋼樓梯
+tile.stair.terran.paristeel.magenta.name=洋紅色帕里鋼樓梯
+tile.stair.terran.paristeel.orange.name=橙色帕里鋼樓梯
+tile.stair.terran.paristeel.red.name=紅色帕里鋼樓梯
+tile.stair.terran.paristeel.silver.name=銀色帕里鋼樓梯
+tile.stair.terran.paristeel.white.name=白色帕里鋼樓梯
+tile.stair.terran.paristeel.yellow.name=黃色帕里鋼樓梯
+tile.stair.terran.paristeel.black.name=黑色帕里鋼樓梯
 tile.gas.collector.terran.name=冶煉廠
 tile.terran.barrackscore.name=人族兵營核心
 tile.terran.commandcentercore.name=人族指揮中心核心
@@ -321,12 +321,12 @@ tile.mineral.compressed.rich.name=富礦石
 tile.block.light.name=光照
 tile.block.entityspawner.name=生物生成器
 tile.test.block.name=測試方塊
-tile.block.star.blue.name=藍色恒星表面方塊
-tile.block.star.lightblue.name=淺藍色恒星表面方塊
-tile.block.star.orange.name=橙色恒星星表面方塊
-tile.block.star.yellow.name=黃色恒星表面方塊
-tile.block.star.lightyellow.name=淺黃色恒星表面方塊
-tile.block.star.red.name=紅星恒星表面方塊
+tile.block.star.blue.name=藍色恆星表面方塊
+tile.block.star.lightblue.name=淺藍色恆星表面方塊
+tile.block.star.orange.name=橙色恆星星表面方塊
+tile.block.star.yellow.name=黃色恆星表面方塊
+tile.block.star.lightyellow.name=淺黃色恆星表面方塊
+tile.block.star.red.name=紅星恆星表面方塊
 tile.block.planet.blue.name=藍色行星表面方塊
 tile.block.planet.brown.name=棕色行星表面方塊
 tile.block.planet.cyan.name=青色行星表面方塊
@@ -416,11 +416,11 @@ item.protoss.blade.warp.aiur.name=卡萊Psi刀
 item.protoss.blade.warp.dark.name=黑暗彎刀
 item.protoss.blade.master.name=主宰Psi刀
 item.protoss.weapon.solaritereaper.name=絹雲母彎刀機
-item.protoss.khaydarincrystal.pure.name=純凈凱達琳水晶
+item.protoss.khaydarincrystal.pure.name=純淨凱達琳水晶
 item.protoss.khaydarincrystal.dark.name=黑暗凱達琳水晶
 item.protoss.khaydarincrystal.void.name=空間凱達琳水晶
-item.protoss.upgrade.speed.name=速度模塊
-item.protoss.upgrade.efficiency.name=效率模塊
+item.protoss.upgrade.speed.name=速度模組
+item.protoss.upgrade.efficiency.name=效率模組
 item.container.protoss.name=神族氣體容器
 item.vespene.protoss.name=神族維斯彭氣
 item.terrazine.protoss.name=神族特拉津
@@ -439,7 +439,7 @@ item.terran.riflec14.part.1.name=C14步槍主體
 item.terran.riflec14.part.2.name=C14步槍握柄
 item.terran.flamethrower.part.0.name=火焰噴射器噴嘴
 item.terran.flamethrower.part.1.name=火焰噴射器底座
-item.terran.flamethrower.part.2.name=火焰噴射器手柄
+item.terran.flamethrower.part.2.name=火焰噴射器手把
 item.terran.flamethrower.part.3.name=火焰噴射器房室
 item.terran.magazine.c14.name=C14步槍彈夾
 item.terran.magazine.flamethrower.name=火焰噴色器燃料
@@ -587,7 +587,7 @@ entity.hydralisk.name=刺蛇
 entity.mutalisk.name=飛龍
 entity.mutaliskBroodlord.name=飛龍（家養毒株）
 entity.mutaliskViper.name=飛龍（蝮蛇毒株）
-entity.queen.name=王後
+entity.queen.name=王后
 entity.nafash.name=納法什
 entity.mutaliskPrimal.name=原始飛龍
 entity.zerglingPrimal1.name=原始跳蟲
@@ -662,7 +662,7 @@ gui.buy=購買
 
 ### Advancements ###
 #############################################################################################
-advancements.starcraft.pageStarcraft=星際爭霸
+advancements.starcraft.pageStarcraft=星海爭霸
 advancements.starcraft.pageStarcraft.desc=歡迎來到太空！你將為史詩般的征服做準備，在這太空中三個種族將互相戰鬥到死亡！去征服宇宙…去當一個可怕的惡魔在太空中搖曳……
 advancements.starcraft.mineMinerals.title=哦，閃閃發光！
 advancements.starcraft.mineMinerals.desc=獲取礦物碎片！
@@ -706,18 +706,18 @@ advancements.starcraft.enterShakuras.desc=到達澤勒斯！
 
 ### Config ###
 #############################################################################################
-gui.starcraft.config.main_title=星際爭霸配置
+gui.starcraft.config.main_title=星海爭霸設定
 gui.starcraft.config.category.general=普通
 gui.starcraft.config.category.general.tooltip=普通設置
 gui.starcraft.config.category.dimension.ids=維度ID
 gui.starcraft.config.category.dimension.ids.tooltip=更改維度的ID
 gui.starcraft.config.category.mob.options=生物選擇
-gui.starcraft.config.category.mob.options.tooltip=決定你想在生物身上有什麽選擇
+gui.starcraft.config.category.mob.options.tooltip=決定你想在生物身上有什麼選擇
 # General
 gui.starcraft.config.block.creep.spread.name=蠕變可以蔓延
 gui.starcraft.config.block.creep.spread.comment=蟲族蠕蟲能否傳播
 gui.starcraft.config.block.creep.spread.base.name=蠕變擴展基值
-gui.starcraft.config.block.creep.spread.base.comment=蠕變蔓延的基準值。警告，不要設置這麽高
+gui.starcraft.config.block.creep.spread.base.comment=蠕變蔓延的基準值。警告，不要設置這麼高
 #Dim Ids
 gui.starcraft.config.dimension.char.id.name=查爾ID
 gui.starcraft.config.dimension.char.id.comment=設置行星查爾的ID
@@ -822,7 +822,7 @@ item.axeManalite.name=魔法斧：海藍寶石
 item.bowManalite.name=魔法弓：海藍寶石
 item.elixir.name=萬能藥
 item.elixir.tooltip.mp=治癒多人玩家
-item.elixirAwaken.name=蘇醒萬能藥
+item.elixirAwaken.name=甦醒萬能藥
 item.elixirHigh.name=高級萬能藥
 item.elixirMedium.name=中級萬能藥
 item.magicalBook.compositing.failed=合成魔法已失敗

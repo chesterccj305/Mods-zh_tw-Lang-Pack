@@ -1,4 +1,4 @@
-commands.balance.usage=/balance
+﻿commands.balance.usage=/balance
 commands.balance.success=餘額: %s
 
 commands.wallet.usage=/wallet <give|take|set|balance> <玩家> <數量>
@@ -9,7 +9,7 @@ commands.wallet.take.success=%s 失去了 %s 點金額
 
 commands.pay.usage=/pay <玩家> <數量>
 commands.pay.number_must_be_positive=你不能使用負數來轉帳.
-commands.pay.insufficient_credit=你的餘額不足,無法轉賬。:(
+commands.pay.insufficient_credit=你的餘額不足,無法轉帳。:(
 
 item.enderpay:blank_banknote.name=空白的鈔票
 item.enderpay:filled_banknote.name=鈔票

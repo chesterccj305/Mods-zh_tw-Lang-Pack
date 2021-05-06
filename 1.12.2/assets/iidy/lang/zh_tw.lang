@@ -1,4 +1,4 @@
-iidy.blockstatetask.desc=將一個方塊改變成特定的狀態以完成任務
+﻿iidy.blockstatetask.desc=將一個方塊改變成特定的狀態以完成任務
 iidy.blockstatetask.noblock=你沒有看向任何一個方塊！
 iidy.btn.blockstatetask=方塊狀態任務
 iidy.btn.inventorytask=物品欄任務

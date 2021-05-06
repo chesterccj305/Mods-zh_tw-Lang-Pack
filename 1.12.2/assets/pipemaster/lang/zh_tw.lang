@@ -1,4 +1,4 @@
-itemGroup.pipemaster=管道專家 2000
+﻿itemGroup.pipemaster=管道專家 2000
 item.pipemaster.pipe_goggles.name=管道護目鏡
 pipemaster.pipegoggles.gui.range=選擇範圍
 commands.pipemaster.available=可用的子命令：

@@ -1,4 +1,4 @@
-itemGroup.astralsorcery=星輝魔法
+﻿itemGroup.astralsorcery=星輝魔法
 itemGroup.astralsorcery.papers=[AS]星圖
 itemGroup.astralsorcery.crystals=[AS]共振水晶
 
@@ -13,11 +13,11 @@ jei.category.altar.trait=五彩祭壇
 
 jei.additional_info.starlight=+ 星能
 
-astralsorcery.config.title.overview=星輝魔法配置
+astralsorcery.config.title.overview=星輝魔法設定
 config.astralsorcery.category.astralsorcery=星輝魔法
-config.astralsorcery.category.astralsorcery.tooltip=常規配置
+config.astralsorcery.category.astralsorcery.tooltip=常規設定
 config.astralsorcery.category.amulet_enchantments=飾品附魔
-config.astralsorcery.category.amulet_enchantments.tooltip=定義了璀璨棱鏡的附魔屬性
+config.astralsorcery.category.amulet_enchantments.tooltip=定義了璀璨稜鏡的附魔屬性
 config.astralsorcery.category.aevitas_ore_perk=礦物生成：生息座礦石物化
 config.astralsorcery.category.aevitas_ore_perk.tooltip=定義了該物化所能生成的礦石。
 config.astralsorcery.category.mineralis_ritual=礦物生成：晶金座效應
@@ -78,7 +78,7 @@ misc.craftInformation=§7點擊查看合成
 misc.recipename=祭壇合成的註冊名：%s
 misc.grindstone.double=可能雙倍產出：%s
 misc.transmutation.constellation=需要從 %s 聚焦星能
-misc.knowledge.missing=一個空白潔淨的捲軸
+misc.knowledge.missing=一個空白潔淨的卷軸
 misc.knowledge.inscribed=包含了 %s 的知識
 misc.knowledge.inscribed.creative=包含了大量的知識
 misc.journal.info.1=將滑鼠懸停在一個星區上
@@ -91,11 +91,11 @@ misc.link.unlink=已將%s到%s的連結斷開！
 misc.link.unlink.all=斷開所有連結！
 misc.fragment.container.desc=箱子內似乎有什麼東西在發光。
 misc.fragment.container.open=右鍵打開。
-misc.fragment.constellation.desc.1=這個捲軸上繪製了一個奇怪的星座。
-misc.fragment.constellation.desc.2=對其進行觀測應該能獲得額外的信息。
-misc.fragment.content.desc.1=捲軸上有隱約一些圖案。
+misc.fragment.constellation.desc.1=這個卷軸上繪製了一個奇怪的星座。
+misc.fragment.constellation.desc.2=對其進行觀測應該能獲得額外的資訊。
+misc.fragment.content.desc.1=卷軸上有隱約一些圖案。
 misc.fragment.content.desc.2=右鍵將其添加到你的星芒寶典中。
-misc.fragment.content.empty=捲軸的內容似乎是空白的。
+misc.fragment.content.empty=卷軸的內容似乎是空白的。
 misc.fragment.added.cst= %s 星座消失不見了。
 misc.fragment.added=獲得了關於 %s 的知識
 
@@ -118,7 +118,7 @@ amulet.enchantment.add_to_existing_specific.name=為現有的%3$s附魔+%1$s%2$s
 amulet.enchantment.add_to_existing_all.name=對現有的所有附魔+%s%s
 
 enchantment.astralsorcery.enchantment.as.nightvision.desc=賦予佩戴者夜視效果。
-enchantment.astralsorcery.enchantment.as.smelting.desc=用此附魔開采的方塊將獲得熔煉後的掉落物，就像熔爐那樣。
+enchantment.astralsorcery.enchantment.as.smelting.desc=用此附魔開採的方塊將獲得熔煉後的掉落物，就像熔爐那樣。
 
 gui.journal.bm.research.name=研究
 gui.journal.bm.constellations.name=星座
@@ -132,7 +132,7 @@ death.attack.as.bleed=%1$s失血過多
 enchantment.as.nightvision=夜視
 enchantment.as.smelting=灼熱
 
-progress.missing.knowledge=這似乎記載了什麼，以當前的知識無法理解。
+progress.missing.knowledge=這似乎記載了什麼，以目前的知識無法理解。
 progress.gain.progress.chat=你的學識增長了。
 progress.gain.research.chat=你對'%s'更了解了。
 progress.discover.constellation.chat=發現%s星座！
@@ -153,21 +153,21 @@ astralsorcery.journal.constellation.dst.weak=暗淡的
 astralsorcery.journal.constellation.dst.minor=朦朧的
 
 research.SHRINES.name=古代神殿
-astralsorcery.journal.SHRINES.1.text=世界各地散落著古代文明用大理石修築的古代神殿。 <NL>在高山和丘陵頂部可以很容易發現結構精妙的神殿，沙漠的沙丘里也掩埋著一些較小的神殿。 <NL>起初，它們看起來沒什麼特別的，傳說裡面神殿裡有許多古老的寶藏。但事實上，裡面只找到幾個舊箱子和一個奇怪的浮動水晶。
+astralsorcery.journal.SHRINES.1.text=世界各地散落著古代文明用大理石修築的古代神殿。 <NL>在高山和丘陵頂部可以很容易發現結構精妙的神殿，沙漠的沙丘裡也掩埋著一些較小的神殿。 <NL>起初，它們看起來沒什麼特別的，傳說裡面神殿裡有許多古老的寶藏。但事實上，裡面只找到幾個舊箱子和一個奇怪的浮動水晶。
 
 astralsorcery.journal.SHRINES.2.text=浮動水晶相當怪異。它們在持續不斷的發出怪異而又迷人的光。 <NL>毫無疑問這些水晶是人造的。它們的年代和起源早已無從考據了，在經過一番觀察後發現，水晶能量似乎在與星座對齊的位置上時趨於穩定狀態。
 
 astralsorcery.journal.SHRINES.3.text=即使用最具破壞性的方法也無法從水晶上切下哪怕一絲一毫。 <NL>這些水晶表現的十分奇怪。它們發出的光像水那樣起伏不定並影響著附近的物質。 §3也許在旁邊使用§3合成台會產生一些§3有趣的事情？ §r
 
 research.CPAPER.name=星圖
-astralsorcery.journal.CPAPER.1.text=在一些零散的神殿地上會發現寶箱，探險家們偶爾能發現一些空白捲軸。箱子內的捲軸只要一拿出箱子後就會浮現一個名稱，以及一張與星空中的星星十分相似的奇怪圖案。 <NL>在收集一定數量的捲軸後,各個捲軸都會顯示出不同的圖案，但之後的捲軸將保持空白。
+astralsorcery.journal.CPAPER.1.text=在一些零散的神殿地上會發現寶箱，探險家們偶爾能發現一些空白卷軸。箱子內的卷軸只要一拿出箱子後就會浮現一個名稱，以及一張與星空中的星星十分相似的奇怪圖案。 <NL>在收集一定數量的卷軸後,各個卷軸都會顯示出不同的圖案，但之後的卷軸將保持空白。
 
-astralsorcery.journal.CPAPER.3.text=在進一步觀察後你發現，這些捲軸是以書寫或魔咒的形式出現以避免和已知的內容重複。因此，對於其他學有所成的研究者來說這些目前看似沒有其他用途的空白捲軸必須謹慎的保留下來。 <NL>為了更方便的查看和管理這些星圖捲軸你可以按住shift打開星芒寶典的夾層，將其放入。
+astralsorcery.journal.CPAPER.3.text=在進一步觀察後你發現，這些卷軸是以書寫或魔咒的形式出現以避免和已知的內容重複。因此，對於其他學有所成的研究者來說這些目前看似沒有其他用途的空白卷軸必須謹慎的保留下來。 <NL>為了更方便的查看和管理這些星圖卷軸你可以按住shift打開星芒寶典的夾層，將其放入。
 
 research.WAND.name=共鳴星杖
 astralsorcery.journal.WAND.1.text=當你在分散的古遺址內那奇怪的水晶旁使用合成台時，水晶會將一道星能束聚焦到合成台上。這束光線雖然暗淡，但它似乎影響了合成台上某些材料的密度和延展性。 <NL>這解鎖了一些正常情況下無法實現的合成配方。但一開始能做的最簡單的物品是能和各種星能感應裝置進行交互的基礎星杖。
 
-astralsorcery.journal.WAND.3.text=共鳴星杖有一些非比尋常的特性。在晚上拿著它時，它會顫動著並看似隨意的在周圍的地表發出一束火花。地表看上去並沒有什麼特殊的地方。 §3也許，§3地底深處有什麼東西？ §r
+astralsorcery.journal.WAND.3.text=共鳴星杖有一些非比尋常的特性。在晚上拿著它時，它會顫動著並看似隨意的在周圍的地表發出一束火花。地表看起來並沒有什麼特殊的地方。 §3也許，§3地底深處有什麼東西？ §r
 
 research.ORES.name=礦物
 astralsorcery.journal.ORES.1.text=§7§n水晶石礦石：§r在世界的最深處，因高溫和高壓而形成的稀有而脆弱的晶體，真是令人難以置信！這些水晶有著獨一無二的屬性，它們在星輝下似乎變的非比尋常。那些笨拙的機械設備是無法從堅硬的岩石中獲取這些脆弱的水晶石的，即使用手工方式進行挖掘也需要用最堅硬的材料製作的工具才能保證礦石內部的晶體不會被強大的衝擊力而破壞。
@@ -175,20 +175,20 @@ astralsorcery.journal.ORES.1.text=§7§n水晶石礦石：§r在世界的最深�
 astralsorcery.journal.ORES.2.text=它們是珍稀資源，別想著在地下找到這些礦石，這些水晶石在靠近基岩的位置還會吸引星輝。也許有一個能與星輝進行共鳴以便於勘探礦石的工具？ <NL>§1§n海藍寶石砂岩：§r在星輝長久的照射與水流連續不斷的沖刷下，在河床下的沙內形成的小而脆弱的寶石。通常，可以在被泥沙掩埋的頂部找到它們。
 
 research.ALTAR1.name=星輝合成台
-astralsorcery.journal.ALTAR1.1.text=看起來普通的工作台能和神殿內的水晶發出的星光相互作用，不過效率並不高。根據它們聚集星能的方式，你將其稱為浮動水晶。工作台只能臨時儲存微量的星能。而且受限於木材的材質特性，其內的星能會快速的流逝，必須將合成台盡可能的靠近浮動水晶。
-astralsorcery.journal.ALTAR1.2.text=由最純淨的大理石製作的星輝合成台完美的解決了這兩個問題。它所能吸收利用的星能遠超出普通的工作台。此外，因為它有獨立的星能儲存方式所以無需與浮動水晶連接來收集星能。
+astralsorcery.journal.ALTAR1.1.text=看起來普通的工作檯能和神殿內的水晶發出的星光相互作用，不過效率並不高。根據它們聚集星能的方式，你將其稱為浮動水晶。工作檯只能臨時儲存微量的星能。而且受限於木材的材質特性，其內的星能會快速的流逝，必須將合成台盡可能的靠近浮動水晶。
+astralsorcery.journal.ALTAR1.2.text=由最純淨的大理石製作的星輝合成台完美的解決了這兩個問題。它所能吸收利用的星能遠超出普通的工作檯。此外，因為它有獨立的星能儲存方式所以無需與浮動水晶連接來收集星能。
 
-astralsorcery.journal.ALTAR1.4.text=星輝合成台並非完美無缺的。首先，它要放在地平線以上且可直視天空的地方，以便收集星能。即使在最清晰的天空下它的收集效率也時好時壞。 <NL>離天空越近的地方，所能收集的星能也越多。在兩倍海拔高度時星空的大氣乾擾似乎完全消失了。在夜間它能收集到更多的星能。並顯示在合成格下方的星能儲存欄內。
+astralsorcery.journal.ALTAR1.4.text=星輝合成台並非完美無缺的。首先，它要放在地平線以上且可直視天空的地方，以便收集星能。即使在最清晰的天空下它的收集效率也時好時壞。 <NL>離天空越近的地方，所能收集的星能也越多。在兩倍海拔高度時星空的大氣干擾似乎完全消失了。在夜間它能收集到更多的星能。並顯示在合成格下方的星能儲存欄內。
 astralsorcery.journal.ALTAR1.5.text=要使用星輝合成台，在按合成表擺放好物品後需要用共鳴星杖開始合成。物品在製作完成後將從合成格彈出。 <NL>合成台在世界上不同位置所能收集到的星能有著很大的差異，星能的量從幾乎沒有到超過滿值。
 
 research.HAND_TELESCOPE.name=望遠鏡
-astralsorcery.journal.HAND_TELESCOPE.1.text=儘管星空在持續不斷的移動，但會定期顯現一些固定的圖形。這些圖案與你在各個古遺址找到的捲軸上的圖案非常相似。 <NL>儘管尚未有人確認其重要性，但對於資深觀測者來說這些星座的形狀是非常重要的，務必要將其詳盡記錄下來。對於初學者來說，將天空中的圖案熟記下才是明智之舉。
+astralsorcery.journal.HAND_TELESCOPE.1.text=儘管星空在持續不斷的移動，但會定期顯現一些固定的圖形。這些圖案與你在各個古遺址找到的卷軸上的圖案非常相似。 <NL>儘管尚未有人確認其重要性，但對於資深觀測者來說這些星座的形狀是非常重要的，務必要將其詳盡記錄下來。對於初學者來說，將天空中的圖案熟記下才是明智之舉。
 
 astralsorcery.journal.HAND_TELESCOPE.4.text=雖然望遠鏡是最基礎的觀測設備，但它能提高你對星空的觀測效率。 <NL>只有在清晰的星空下，才有可能定位星座。前提是發現與星座對應的星圖。 <NL>一旦找到類似的圖案，可以按住shift來固定望遠鏡的視角。之後用左鍵仔細用線條將星星連接成星座。
 
 research.GRINDSTONE.name=砂輪
-astralsorcery.journal.GRINDSTONE.1.text=儘管工作台可以使用所有材料，但為了更完全的發揮某些材料的價值，需要用專業工具。它就是由大理石做成的砂輪。它能讓你對不同類型的水晶石的純度和拋光度進行打磨，還能將某些材料磨成粉。 <NL>將物品放置在砂輪上右鍵以進行工作。在空手時shift+右鍵可以取下物品。
-astralsorcery.journal.GRINDSTONE.3.text=在試圖對水晶石進行重塑拋光時發現將水晶石磨製成適當的程度十分麻煩。為了防止把水晶石磨碎最好時不時檢查一番。由於水晶石成型所需要的高精密度，所以無法用機械設備代替人工。 <NL>也許砂輪還能磨製除水晶石之外的其他東西。
+astralsorcery.journal.GRINDSTONE.1.text=儘管工作檯可以使用所有材料，但為了更完全的發揮某些材料的價值，需要用專業工具。它就是由大理石做成的砂輪。它能讓你對不同類型的水晶石的純度和拋光度進行打磨，還能將某些材料磨成粉。 <NL>將物品放置在砂輪上右鍵以進行工作。在空手時shift+右鍵可以取下物品。
+astralsorcery.journal.GRINDSTONE.3.text=在試圖對水晶石進行重塑拋光時發現將水晶石磨製成適當的程度十分麻煩。為了防止把水晶石磨碎最好三不五時檢查一番。由於水晶石成型所需要的高精密度，所以無法用機械設備代替人工。 <NL>也許砂輪還能磨製除水晶石之外的其他東西。
 
 research.TOOLS.name=水晶石工具
 astralsorcery.journal.TOOLS.1.text=經過一番仔細的檢測後，很明顯，在妥善的準備與處理後純淨的水晶石並不像剛挖出來的那樣脆弱。用它們製作的工具比其他普通工具具有更高的耐久。具體來說，它們與正常的使用方式沒有什麼差別。水晶石工具的屬性取決於合成時使用的水晶石，它們的屬性（例如攻擊傷害和挖掘速度）由水晶石的形狀決定。
@@ -196,50 +196,50 @@ astralsorcery.journal.TOOLS.2.text=不幸的是，水晶石工具並不完美。
 astralsorcery.journal.TOOLS.3.text=然而這樣使用人工方式增殖的水晶石工具極易導致晶體畸形且無法控制，而且工具還必需重新打磨。無論在星能液中放入浸沒多少水晶石，水晶石工具的屬性都不可能變的比原來的水晶石還高。
 
 research.ROCK_CRYSTALS.name=水晶石的屬性
-astralsorcery.journal.ROCK_CRYSTALS.1.text=幾乎每一個新開采的水晶石都是獨一無二的。它們的大小，晶體純度以及每個面的形狀都各不相同，沒有辦法在挖掘前確認其屬性。 <NL>雖然目前提升水晶石的純度是不切實際的，但用砂輪把小凸起磨碎以磨製成更合適的形狀。
+astralsorcery.journal.ROCK_CRYSTALS.1.text=幾乎每一個新開採的水晶石都是獨一無二的。它們的大小，晶體純度以及每個面的形狀都各不相同，沒有辦法在挖掘前確認其屬性。 <NL>雖然目前提升水晶石的純度是不切實際的，但用砂輪把小凸起磨碎以磨製成更合適的形狀。
 
 esearch.CRYSTAL_GROWTH.name=水晶生長
 astralsorcery.journal.CRYSTAL_GROWTH.1.text=一旦水晶石浸沒在這種冰冷怪異的易揮發液體中，其中一部分液體將會附著在水晶石上。 <NL>進一步觀察後，看起來星能液幾乎固化在表面了，但在離開星能液後很快就再次融化，那些臨時增加的質量也消失了。也許在液體中浸泡足夠長的時間能永久增加它的大小？如果一個水晶石的形狀變的更大，那就能用一個水晶石來合成更多的物品。
-astralsorcery.journal.CRYSTAL_GROWTH.2.text=水晶石的生長也有著它的上限。你不了解一個生長到極限的水晶石仍然浸沒在星能液內會發生什麼，以及這對水晶石的純度來說意味著什麼。
+astralsorcery.journal.CRYSTAL_GROWTH.2.text=水晶石的生長也有著它的上限。你不了解一個生長到極限的水晶石仍然浸沒在星能液內會發生什麼事，以及這對水晶石的純度來說意味著什麼。
 
 research.MARBLETYPES.name=大理石
 astralsorcery.journal.MARBLETYPES.1.text=在地下挖礦時經常會發現一些原生且會反光的大理石。那些古代神殿也是用這種大理石建成的，它似乎能以一種獨特的方式反射並與星輝中蘊含的能量相互作用。 <NL>如果古代建築師意識到這種大理石在星輝感應結構中的重要性，那也應該明白其他來源的非純淨大理石是無法替代的。大理石上的雕鑿痕跡似乎改變了它引導星能的方式。
 
-research.SOOTYMARBLE.name=熏黑大理石
-astralsorcery.journal.SOOTYMARBLE.1.text=用顏色較深的材料（比如煤）塗覆在大理石的表面能將其原先的反射性質反轉成吸收性質。熏黑大理石在白天受熱吸收日光並在晚上釋放。這種大理石或許會在未來證明它的重要性不亞於普通的白色大理石，因為來自太陽的輻射能似乎增強了附近的星能場。
+research.SOOTYMARBLE.name=燻黑大理石
+astralsorcery.journal.SOOTYMARBLE.1.text=用顏色較深的材料（比如煤）塗覆在大理石的表面能將其原先的反射性質反轉成吸收性質。燻黑大理石在白天受熱吸收日光並在晚上釋放。這種大理石或許會在未來證明它的重要性不亞於普通的白色大理石，因為來自太陽的輻射能似乎增強了附近的星能場。
 
 research.ALTAR2.name=星輝祭壇
-astralsorcery.journal.ALTAR2.1.text=星輝合成台比普通的工作台有著更強的星能聚集能力和星能緩存，就像個升級版。它仍然有改善的空間，可以改造成大型的祭壇結構，擴展的建築結構強化了星能的吸收與利用能力，以獲得更多的星能。 <NL>為了能夠使用這個祭壇，當然需要一個由各種大理石搭建的大型星能收集結構。
+astralsorcery.journal.ALTAR2.1.text=星輝合成台比普通的工作檯有著更強的星能聚集能力和星能快取，就像個升級版。它仍然有改善的空間，可以改造成大型的祭壇結構，擴展的建築結構強化了星能的吸收與利用能力，以獲得更多的星能。 <NL>為了能夠使用這個祭壇，當然需要一個由各種大理石搭建的大型星能收集結構。
 
-astralsorcery.journal.ALTAR2.4.text=星輝祭壇與星輝合成台相比不僅具有更大的星能儲存量。還具有一個特殊的屬性，如果祭壇周圍的結構不正確或者不完整星能儲存條將會變紅。 <NL>新升級的祭壇必須放置在大理石聚能結構的中心，其上能一覽無餘的看到夜空。在合成台上按要求擺放好物品後，用共鳴星杖右鍵開始合成。
+astralsorcery.journal.ALTAR2.4.text=星輝祭壇與星輝合成台相比不僅具有更大的星能儲存量。還具有一個特殊的屬性，如果祭壇周圍的結構不正確或者不完整星能儲存條將會變紅。 <NL>新升級的祭壇必須放置在大理石聚能結構的中心，其上能一覽無余的看到夜空。在合成台上按要求擺放好物品後，用共鳴星杖右鍵開始合成。
 
 research.WELL.name=聚星缸
-astralsorcery.journal.WELL.1.text=在晚上，海藍寶石和水晶石表面凝結了一層奇怪的晶化液體。在仔細觀察後，這種液體似乎是由星輝的純能量凝聚物。 <NL>一個精心雕琢的大理石缸將更方便收集這種液體。這種液體散發著明亮而純淨的光，看上去感覺非常冷，即使滿滿桶也幾乎感覺不到重量。沐浴在星能液中會賦予你夜視能力，直到它蒸發。
+astralsorcery.journal.WELL.1.text=在晚上，海藍寶石和水晶石表面凝結了一層奇怪的晶化液體。在仔細觀察後，這種液體似乎是由星輝的純能量凝聚物。 <NL>一個精心雕琢的大理石缸將更方便收集這種液體。這種液體散發著明亮而純淨的光，看起來感覺非常冷，即使滿滿桶也幾乎感覺不到重量。沐浴在星能液中會賦予你夜視能力，直到它蒸發。
 astralsorcery.journal.WELL.3.text=只有將水晶石或海藍寶石放置在聚星缸頂部，才能將星輝濃縮成液體。用於收集星光的寶石與水晶將不斷溶解，直到完全粉碎為止，這是不可逆的過程。 <NL>這種星能液似乎和水晶石以及其他液體之間會產生有趣的相互作用，不妨實驗下。 <NL>你不禁好奇，將其他材料放在聚星缸內是否會生成其他液體。
 
 research.INFUSED_WOOD.name=聚星木
-astralsorcery.journal.INFUSED_WOOD.1.text=將星能液注入物質之中能增強物質的屬性，強化原木在建築與合成方面有非常強大的通用性價值。 <NL>正因為它是一種有機材料，在將其浸泡在星能液內時其吸收星能液的方式與水晶石有所不同，雖然最終結果是一致的，星輝將被原木完全吸收，雖然分佈並不均勻。這個問題可以之後再進行深入的研究，現在已經足以應付當前的需求了。
+astralsorcery.journal.INFUSED_WOOD.1.text=將星能液注入物質之中能增強物質的屬性，強化原木在建築與合成方面有非常強大的通用性價值。 <NL>正因為它是一種有機材料，在將其浸泡在星能液內時其吸收星能液的方式與水晶石有所不同，雖然最終結果是一致的，星輝將被原木完全吸收，雖然分佈並不均勻。這個問題可以之後再進行深入的研究，現在已經足以應付目前的需求了。
 
 research.ILLUM_POWDER.name=輝光粉
-astralsorcery.journal.ILLUM_POWDER.1.text=螢石和海藍寶石在靠近時會產生共振反應。它們之間會生成微小的不斷閃爍的火焰般的火花。這些火花能散播到離源頭很遠的距離。將海藍寶石磨碎後與螢石粉混合就產生了一種有放射能力的粉塵，它能照亮周圍的空間。這就是相對於普通火把的改進型替代產品，而且並不會因手滑而拆除，只有用方塊才能將光遮擋。
+astralsorcery.journal.ILLUM_POWDER.1.text=螢石和海藍寶石在靠近時會產生共振反應。它們之間會生成微小的不斷閃爍的火焰般的火花。這些火花能散播到離源頭很遠的距離。將海藍寶石磨碎後與螢石粉混合就產生了一種有放射能力的粉塵，它能照亮周圍的空間。這就是相對於普通火把的改良型替代產品，而且並不會因手滑而拆除，只有用方塊才能將光遮擋。
 
 research.NOC_POWDER.name=暗夜粉
-astralsorcery.journal.NOC_POWDER.1.text=黑夜中隱藏著許多危險，還帶來了無數充滿惡意的生物。這些怪物本身並不常見，但它們擁有的東西卻是人人夢寐以求的。 <NL>不幸的是，這些生物要么不在白天時出現，要么在光照下沒有攻擊性。在輝光粉內加入一些添加劑使其變成暗色，這有助於生成這些敵對生物。
+astralsorcery.journal.NOC_POWDER.1.text=黑夜中隱藏著許多危險，還帶來了無數充滿惡意的生物。這些怪物本身並不常見，但它們擁有的東西卻是人人夢寐以求的。 <NL>不幸的是，這些生物要嘛不在白天時出現，要嘛在光照下沒有攻擊性。在輝光粉內加入一些添加劑使其變成暗色，這有助於生成這些敵對生物。
 astralsorcery.journal.NOC_POWDER.3.text=可以右擊一個方塊生成黑暗區域幾秒鐘，但這麼近的距離使用它可不是什麼好主意。它可以想輝光粉一樣直接投射出去，並在掉落點形成黑暗區域。 <NL>由於粉末自身的專一效果，位置太靠近的話會降低效率。
 
 research.SKY_RESO.name=法斯刻共振器
-astralsorcery.journal.SKY_RESO.1.text=用肉眼是無法直接分辨出特定區域的星輝強弱的。然而根據長期使用星輝合成台內的星能緩存庫的經驗，星輝的強弱因地而異，當星輝相互重疊時，星能可能增強或減弱。 <NL>星輝祭壇以及其他需求星輝的結構在這個強星能區域將有更多的星能緩存。
-astralsorcery.journal.SKY_RESO.3.text=想要通過簡單的觀測星空或在不同位置查看祭壇的緩存來找到這樣的位置，既乏味又耗時，而且效率低下。 <NL>一個能與強星能場進行共振並以可見光譜的形式投影到現實的設備將是最好的解決方案。這並不意味著不在需要外出探索，但晚上使用該設備時可以在地表更容易的找到強星能場。早期的計算結果表明強星能場較罕見，其間可能相距數百米。
+astralsorcery.journal.SKY_RESO.1.text=用肉眼是無法直接分辨出特定區域的星輝強弱的。然而根據長期使用星輝合成台內的星能快取庫的經驗，星輝的強弱因地而異，當星輝相互重疊時，星能可能增強或減弱。 <NL>星輝祭壇以及其他需求星輝的結構在這個強星能區域將有更多的星能快取。
+astralsorcery.journal.SKY_RESO.3.text=想要透過簡單的觀測星空或在不同位置查看祭壇的快取來找到這樣的位置，既乏味又耗時，而且效率低下。 <NL>一個能與強星能場進行共振並以可見光譜的形式投影到現實的設備將是最好的解決方案。這並不意味著不在需要外出探索，但晚上使用該設備時可以在地表更容易的找到強星能場。早期的計算結果表明強星能場較罕見，其間可能相距數百米。
 
 research.SPEC_RELAY.name=光波增幅器
-astralsorcery.journal.SPEC_RELAY.1.text=法斯刻共振器能找到強星能場，這緩解了對星能的需求。問題在於把基地搬遷到那附近或遠距離傳輸星能是不切實際的。要對古代歷史做進一步的深入研究，無疑需要越來越多的星能，解決方法是製作一些能收集星能的裝置。
+astralsorcery.journal.SPEC_RELAY.1.text=法斯刻共振器能找到強星能場，這紓解了對星能的需求。問題在於把基地搬遷到那附近或遠距離傳輸星能是不切實際的。要對古代歷史做進一步的深入研究，無疑需要越來越多的星能，解決方法是製作一些能收集星能的裝置。
 astralsorcery.journal.SPEC_RELAY.4.text=或許一個專門為附近祭壇收集星能的小型建築結構能解決這個問題。當然必須要在能直視天空的地方，夜晚時自然會有更強的效果。 <NL>將增幅器放置在祭壇附近的高處時，放上玻璃透鏡就能聚集附近的星輝。星輝會像小火花一樣被引導向最近的祭壇。 <NL>如果有大量聚能祭壇距離過近會使星能分散，可能會導致許多§o不可預測的§r結果。
 
 research.KNOWLEDGE_SHARE.name=知識共享
-astralsorcery.journal.KNOWLEDGE_SHARE.1.text=獲得新知識當然是首要的事，但也可以將其記錄下來與他人共享，或者給幾千年後的另一個踏上同樣道路的文明指引前行的方向並留下你存在的痕跡。 <NL>右鍵或shift右鍵將知識寫入空捲軸或覆寫已經有你的部分知識的捲軸。 <NL>當然也只有先民才可能在他們的聖陵內留下這樣的東西。
+astralsorcery.journal.KNOWLEDGE_SHARE.1.text=獲得新知識當然是首要的事，但也可以將其記錄下來與他人共享，或者給幾千年後的另一個踏上同樣道路的文明指引前行的方向並留下你存在的痕跡。 <NL>右鍵或shift右鍵將知識寫入空卷軸或覆寫已經有你的部分知識的卷軸。 <NL>當然也只有先民才可能在他們的聖陵內留下這樣的東西。
 
 research.QUICK_CHARGE.name=同調充能
-astralsorcery.journal.QUICK_CHARGE.1.text=在對星輝的組成與效果越加深入了解時，對星輝的感知力隨著日月輪轉而變得更加強大。 <NL>在當前形式下，可以用手杖或者更小的星杖來引導這些強大的藍白色能量，需要與星座之間進行深度的共鳴，強化星座的特殊效果才能使用這些能量。
+astralsorcery.journal.QUICK_CHARGE.1.text=在對星輝的組成與效果越加深入了解時，對星輝的感知力隨著日月輪轉而變得更加強大。 <NL>在目前形式下，可以用手杖或者更小的星杖來引導這些強大的藍白色能量，需要與星座之間進行深度的共鳴，強化星座的特殊效果才能使用這些能量。
 
 research.ILLUMINATOR.name=洞穴照明器
 astralsorcery.journal.ILLUMINATOR.1.text=利用由螢石粉與海藍寶石混合的粉末擁有的強大照明能力，想要一個大規模利用這些特性的設備不過是時間問題。使用水晶石大大加劇了螢石粉和海藍寶石的反應，並將火花分割成小型的黃色耀斑而非持續的點亮。這些耀斑能夠穿透任何物質且相互排斥，這使得耀斑能均勻分佈。
@@ -249,11 +249,11 @@ research.ATT_PLAYER.name=共鳴之力
 astralsorcery.journal.ATT_PLAYER.1.text=用星輝和星能液製作的東西的確是個好主意，但你似乎忽略了星輝中一些重要的部分。這些來自於各顆星星射出的星輝很普通，但是某些特定星座發散的星輝對相應的環境以及接觸者有明顯的影響。有些星座的光芒在往不同的方向隨機推動事物，有些則會賦予強大的力量。
 astralsorcery.journal.ATT_PLAYER.2.text=也許可以放大某個特定星座的星能？亦或者收集夠足量的星能來放大星座的星能強度？ <NL>這需要一個專門為共鳴而設計的與傳統星能結構比如合成祭壇等大相徑庭的結構。為了更充分的收集足量的特定星座的星能，它需要有一個極大的結構範圍。
 astralsorcery.journal.ATT_PLAYER.4.text=這種吸收方式需要用光波增幅器強化祭壇結構內的星能並將其聚集到中心點。光波增幅器的放置需要仔細考慮，因為它將決定與祭壇進行共鳴的是哪一個星座。在夜空下拿著星圖，可以看到增幅器放置位置的提示。 <NL>這個結構的最後一部分是一個特殊的祭壇，它是整個建築結構的核心。
-astralsorcery.journal.ATT_PLAYER.6.text=當一切都準備就緒時，到了晚上，共鳴祭壇與光波增幅器的中心將發出亮藍色的光並連接成星座的樣子。根據計算結果，當所有星能都匯聚在中心時，巨量的星能甚至能將祭壇外邊的金色裝飾物從地面抬起。 <NL>唯一的問題是什麼物品可以進行共鳴呢？比如那些水晶石以及水晶石工具？如果人體進入其中，能否承受住強大的星能呢？
+astralsorcery.journal.ATT_PLAYER.6.text=當一切都準備就緒時，到了晚上，共鳴祭壇與光波增幅器的中心將發出亮藍色的光並連接成星座的樣子。根據計算結果，當所有星能都匯聚在中心時，巨量的星能甚至能將祭壇外面的金色裝飾物從地面抬起。 <NL>唯一的問題是什麼物品可以進行共鳴呢？比如那些水晶石以及水晶石工具？如果人體進入其中，能否承受住強大的星能呢？
 
 research.ATT_PERKS.name=特化能力
 astralsorcery.journal.ATT_PERKS.1.text=通過自我調節與特化，一些特定頻率的星能將隨著時間的推移自然而然的湧入體內，並獲得獨特的星能力。雖然初始的星能力深受其根源星座的影響，但它也能通過後天的鍛鍊來改變。只要經過一定的鍛鍊，就能統合體內的星能，並引導其與週天星座共鳴以特化自身的星能力。
-astralsorcery.journal.ATT_PERKS.2.text=通過冥想來強化體內的共振星能，以使體內的星能力日漸壯大。不過這並不是一蹴而就的，只能以獨特的方式來強化星能力，比如給工具和武器附魔、在紙上或手套上銘刻特殊的符文等。就如同光波和聲波在一定頻率下會互相干涉一樣，星能力也會在此時產生天然共振點。 <NL>星芒寶典已為此單獨劃出一個技能標籤以便於管理不斷增長的星能力。
+astralsorcery.journal.ATT_PERKS.2.text=透過冥想來強化體內的共振星能，以使體內的星能力日漸壯大。不過這並不是一蹴而就的，只能以獨特的方式來強化星能力，比如給工具和武器附魔、在紙上或手套上銘刻特殊的符文等。就如同光波和聲波在一定頻率下會互相干涉一樣，星能力也會在此時產生天然共振點。 <NL>星芒寶典已為此單獨劃出一個技能標籤以便於管理不斷增長的星能力。
 astralsorcery.journal.ATT_PERKS.3.text=不幸的是，能力的特化一旦確定就無法更改，只能通過外部工具強制剝離星能力使其重歸混沌狀態，才能再次統合。 <NL>這意味著你將失去擁有的一切星能力。
 
 research.ATT_CRYSTAL.name=水晶共振
@@ -273,14 +273,14 @@ astralsorcery.journal.CHARGED_TOOLS.1.text=雖然用星能液重新生長而成�
 astralsorcery.journal.CHARGED_TOOLS.2.text=事實上，在將§l大量的§r星能液注入惰性工具後，它們似乎在與身後的星空相呼應並發出微弱的光。 <NL>用星能液作為淬火劑來活化工具後，它們看起來與未充能的比起來有了更強大的擴展能力。 <NL>當然，這種強化的力量可能在某些時候宣洩而出，而這種力量應該會在更大的的範圍內產生更多的副作用…………
 
 research.TOOL_WANDS.name=接引頻道
-astralsorcery.journal.TOOL_WANDS.1.text=在嘗試直接空手使用星能的過程中失敗了，除了閃了下光外什麼都沒有。 <NL>憑藉星塵特性製作的星杖可以讓這種能量趨向於熵減狀態。用適當的星杖將更容易把方塊以直線放置或替換成其他方塊。
+astralsorcery.journal.TOOL_WANDS.1.text=在嘗試直接空手使用星能的過程中失敗了，除了閃了一下光外什麼都沒有。 <NL>憑藉星塵特性製作的星杖可以讓這種能量趨向於熵減狀態。用適當的星杖將更容易把方塊以直線放置或替換成其他方塊。
 astralsorcery.journal.TOOL_WANDS.3.text=按住shift時右鍵選擇想要放置或替換的方塊類型。將直接使用背包內的方塊。 <NL>將一部分縹緲的星能接引到星杖內，這使得使用者感覺有些虛弱。在使用這類工具時若與星座進行過共鳴，將有助於避免星能超載或不足的問題。
 
 research.GRAPPLE_WAND.name=衝擊星杖
 astralsorcery.journal.GRAPPLE_WAND.1.text=如果終界珍珠不那麼難獲得且不會在使用中受傷的話將是一個極好的道具。 <NL>基於對這些星能的奇特圖形的研究結果，可以製作一種能將星能注入終界珍珠來維持一個更安全的傳送方式的星杖。 <NL>與珍珠的不同之處在於它的範圍有限，且不是直接傳送到目標而是給使用者一種推力。
 
 research.RIT_PEDESTAL.name=效應放大器
-astralsorcery.journal.RIT_PEDESTAL.1.text=雖然共鳴水晶石幾乎可以直接投影星座的力量，但要真正讓其生效還額外需要一個放大器來聚集散亂的星能。 <NL>作為投影星座力量的代價就是水晶石將受到強大的應力，隨著時間推移將會產生裂縫。放大器內部的星能液緩存可以適當的減弱應力，當然這種減弱應力的方式也有著一定的限制，如果水晶石已經開始產生裂縫，那就只能手動將其泡在星能液中進行修復。
+astralsorcery.journal.RIT_PEDESTAL.1.text=雖然共鳴水晶石幾乎可以直接投影星座的力量，但要真正讓其生效還額外需要一個放大器來聚集散亂的星能。 <NL>作為投影星座力量的代價就是水晶石將受到強大的應力，隨著時間推移將會產生裂縫。放大器內部的星能液快取可以適當的減弱應力，當然這種減弱應力的方式也有著一定的限制，如果水晶石已經開始產生裂縫，那就只能手動將其泡在星能液中進行修復。
 
 research.TELESCOPE.name=天文望遠鏡
 astralsorcery.journal.TELESCOPE.1.text=手持望遠鏡雖然使用方便，但一直拿著太累了，看的也不清晰。而且一晚很難觀測到一個以上的星座，想找到所有星圖上的星座不知道要到什麼時候。 <NL>望遠鏡或許需要一個固定裝置。這樣一來，應該更容易深入天空，尋找更遙遠的星星和星座。
@@ -289,7 +289,7 @@ astralsorcery.journal.TELESCOPE.4.text=如今新發現的這些星座看起來�
 
 research.ALTAR3.name=天輝祭壇
 astralsorcery.journal.ALTAR3.1.text=正如你所懷疑的那樣，星塵有著比星輝錠更有趣的特性。以靜止的物品作為參照物，比如地面，來觀察一堆星塵，可以看到其後有一個滿是繁星的黑暗天空。它的光譜屬性是獨一無二的。
-astralsorcery.journal.ALTAR3.4.text=得益於這些獨特的屬性，天輝祭壇的星能收集能力更加強大了。像之前一樣，將它與海藍寶石，大理石以及水晶石進行額外的強化，以應對大量的星能需求。 <NL>不幸的是，目前的大理石結構對星能的利用不高，不適合天輝祭壇。一個由更多熏黑大理石搭建的更大的結構應該能在天空下收集到更多的星能以達到更好的效果。
+astralsorcery.journal.ALTAR3.4.text=得益於這些獨特的屬性，天輝祭壇的星能收集能力更加強大了。像之前一樣，將它與海藍寶石，大理石以及水晶石進行額外的強化，以應對大量的星能需求。 <NL>不幸的是，目前的大理石結構對星能的利用不高，不適合天輝祭壇。一個由更多燻黑大理石搭建的更大的結構應該能在天空下收集到更多的星能以達到更好的效果。
 
 research.LENS.name=水晶透鏡
 astralsorcery.journal.LENS.1.text=星輝源到目標的路徑十分曲折。星源的位置可能不太合適，又或者距離目的地太遠。 <NL>突然靈光一現，用透鏡陣列將星輝聚集並重定向，聚集足量的星能以便能隨時取用。
@@ -313,23 +313,23 @@ astralsorcery.journal.LINKTOOL.4.text=要選擇星能源，只需先右鍵單擊
 
 research.ILLUMINATION_WAND.name=照明星杖
 astralsorcery.journal.ILLUMINATION_WAND.1.text=在不斷試圖強化與星座之間的共鳴以獲得更強大的力量時，顯而易見的是，這種能量的內在性質也可以用來照亮世界。 <NL>通過聚集環境中游離的星能，並將其注入方塊或在空氣中凝聚，可以強化它們以抵禦幾乎任何程度的傷害，或者單純作為一個光源而存在。
-astralsorcery.journal.ILLUMINATION_WAND.3.text=當充能完成時，按住shift右鍵一個方塊會將其變為發光狀態或恢復為正常狀態。右鍵則會生成一個與熒光粉類似的小耀斑。再同一個方塊上再次右鍵會移除耀斑。 <NL>可以用染料合成會改變星杖及耀斑的顏色。
+astralsorcery.journal.ILLUMINATION_WAND.3.text=當充能完成時，按住shift右鍵一個方塊會將其變為發光狀態或恢復為正常狀態。右鍵則會生成一個與螢光粉類似的小耀斑。再同一個方塊上再次右鍵會移除耀斑。 <NL>可以用染料合成會改變星杖及耀斑的顏色。
 
 research.SHIFT_STAR.name=更替之星
-astralsorcery.journal.SHIFT_STAR.1.text=雖然與星座進行共鳴能獲得強大的力量。但體內的星能力的總量有著上限，有時人們希望能夠改變星能力的屬性或改變它們的特化方式。但這也意味著必須破壞與外界的共鳴星能。 <NL>這種含有特殊能量的專用催化劑，能使體內的星能力弱化並恢復至混沌狀態來重新開始，不過這是一次性用品。
+astralsorcery.journal.SHIFT_STAR.1.text=雖然與星座進行共鳴能獲得強大的力量。但體內的星能力的總量有著上限，有時人們希望能夠改變星能力的屬性或改變它們的特化方式。但這也意味著必須破壞與外界的共鳴星能。 <NL>這種含有特殊能量的專用催化劑，能使體內的星能力弱化並恢復至混沌狀態來重新開始，不過這是免洗用品。
 
 research.STARMETAL_ORE.name=鐵礦轉化
 astralsorcery.journal.STARMETAL_ORE.1.text=這些星能束除了美觀之外必然還有其他的用途，或許能直接影響世界。用連結器將星能束從強星源處聚集在鐵礦石上應該就能解決這個疑問。在神殿內遺留下的聚能水晶上方清理出一條直達天空的通道應該能作為星輝束的來源。 <NL>一段時間後，鐵礦石就會因星輝的照射而改變其內部的基本結構。
 
 research.TRANSMUTATION_ORES.name=方塊轉化
-astralsorcery.journal.TRANSMUTATION_ORES.1.text=根據鐵礦石的測試結果，其他方塊應該也能被轉化。星芒寶典本身也提供了關於其他可能性的提示，雖然不知道這些信息的來源。 <NL>至於這些轉化是否有益就是另一回事了。
+astralsorcery.journal.TRANSMUTATION_ORES.1.text=根據鐵礦石的測試結果，其他方塊應該也能被轉化。星芒寶典本身也提供了關於其他可能性的提示，雖然不知道這些資訊的來源。 <NL>至於這些轉化是否有益就是另一回事了。
 
 research.STARMETAL_RES.name=星輝礦石
 astralsorcery.journal.STARMETAL_RES.1.text=星輝礦石與頭頂的星空一般，閃爍著孤寂、冰冷的藍色光芒，當鐵礦石與藍色的星能粒子融合時，它就從普通的灰鐵轉變為閃閃發光的金屬了。 <NL>在大多數情況下，它似乎和鐵沒什麼差別。將一塊錠放置夜空下，它就像星星的發射鏡一樣閃閃發光。
 astralsorcery.journal.STARMETAL_RES.2.text=然而，這塊金屬錠看起來沒什麼特殊之處，除了看起來十分漂亮外沒有任何反應。用砂輪把錠磨成粉或許會得到更有用的東西？
 
-research.PRISM.name=水晶棱鏡
-astralsorcery.journal.PRISM.1.text=雖然水晶透鏡很好用，但同時也想將星輝束同時指向到多個方位。 <NL>經過一些測試後，得出了新的結論：將水晶石打磨成棱鏡讓散射的星輝均勻的分佈在各個面上才是最高效的。它和水晶透鏡的功能類似，不過能將星輝平均分散到所有位置。
+research.PRISM.name=水晶稜鏡
+astralsorcery.journal.PRISM.1.text=雖然水晶透鏡很好用，但同時也想將星輝束同時指向到多個方位。 <NL>經過一些測試後，得出了新的結論：將水晶石打磨成稜鏡讓散射的星輝均勻的分佈在各個面上才是最高效的。它和水晶透鏡的功能類似，不過能將星輝平均分散到所有位置。
 
 research.COLL_CRYSTAL.name=聚能水晶
 astralsorcery.journal.COLL_CRYSTAL.1.text=在對共鳴水晶石的性質越加深入了解後，或許可能仿製出在神殿內所發現的那些東西。單個共鳴水晶石已被證明不足以傳輸像大型浮動水晶那樣大量的星能。 <NL>將共鳴水晶石進行強化就應該能得到與浮動水晶十分相似的聚能水晶。通過改變其內的基礎水晶石，甚至性能比神殿水晶更強大。
@@ -343,7 +343,7 @@ astralsorcery.journal.CEL_CRYSTALS.1.text=當水晶簇生長完成後就產出�
 
 research.PED_ACCEL.name=效應增強
 astralsorcery.journal.PED_ACCEL.1.text=雖然效應放大器能將星座能量重定向，但它太過笨重了，效率緩慢，還要從天空收集星能。 <NL>看起來它只接受起源星座的星能，所以最好用透鏡陣列傳輸同源星能，這樣還能增強效應的效果。
-astralsorcery.journal.PED_ACCEL.2.text=由於晶體的性質，將星輝束髮射到效應放大器上並不是個好主意，這會導致大量的星能從共鳴水晶石中流失。最好用水晶透鏡將星能束聚集到效應放大器上防止星能的流失並增強效應放大的效果。 <NL>雖然這種星能束的數量有限，但也意味著共鳴水晶石還能繼續接收額外的星能，不過將受到更大的晶體應力風險。
+astralsorcery.journal.PED_ACCEL.2.text=由於晶體的性質，將星輝束發射到效應放大器上並不是個好主意，這會導致大量的星能從共鳴水晶石中流失。最好用水晶透鏡將星能束聚集到效應放大器上防止星能的流失並增強效應放大的效果。 <NL>雖然這種星能束的數量有限，但也意味著共鳴水晶石還能繼續接收額外的星能，不過將受到更大的晶體應力風險。
 astralsorcery.journal.PED_ACCEL.3.text=用5個透鏡注入額外的星能將導致星能的溢出並使水晶石的碎裂程度超出效應放大器的控制範圍。這並不會影響儀式效應，不過，隨著時間的推移，水晶石上的裂縫將不斷增加，儀式範圍內將出現異常的粒子，當晶體碎裂程度達到100%時，水晶石將被破壞。聚焦的星能束越多，裂縫產生的越快。
 
 research.CELESTIAL_GATEWAY.name=天體星門
@@ -354,19 +354,19 @@ research.ENHANCED_COLLECTOR.name=強效聚能水晶
 astralsorcery.journal.ENHANCED_COLLECTOR.1.text=用優質的天體水晶石製作而成的聚能水晶並不能阻止因為白天下雨或星座消失而衰減的星能。用結構平台應該能解決星能流量的平衡問題，但它還需要星能液來維持水晶的共振。結構與晶體間需要一個空隙才行。 <NL>然而這並不能解決晶體間的干涉問題。
 
 research.SPECTRAL_LENS.name=匯聚透鏡
-astralsorcery.journal.SPECTRAL_LENS.1.text=準確的星能傳輸對增幅儀式，裝置和星能源的特殊效果至關重要。在開闊的天空下可以更輕鬆自如的進行星能的傳輸，但在幽暗的地下室或密閉空間進行的想法是不切實際的。通過將星塵注入到輝光粉中並用共振寶石進行調和，最終可以使星輝穿透路徑上的任何固體物質，當然這是以降低星能為代價的。
+astralsorcery.journal.SPECTRAL_LENS.1.text=準確的星能傳輸對增幅儀式，裝置和星能源的特殊效果至關重要。在開闊的天空下可以更輕鬆自如的進行星能的傳輸，但在幽暗的地下室或密閉空間進行的想法是不切實際的。透過將星塵注入到輝光粉中並用共振寶石進行調和，最終可以使星輝穿透路徑上的任何固體物質，當然這是以降低星能為代價的。
 
 research.DRAWING_TABLE.name=群星映射台
-astralsorcery.journal.DRAWING_TABLE.1.text=對星座的效應屬性的深入研究產生了新的思路。現在起可以製作能夠映射所有已知星座能量的映射台了，它能通過一系列的方式將星輝折射到玻璃板上，將星輝聚集到中心區域，使其能夠強化附魔。由於這種聚集的強度較大，它可能超過所有已知的附魔等級。
-astralsorcery.journal.DRAWING_TABLE.2.text=在重疊的星輝產生嚴重的光污染前，這個台子最多能同時容納多達3個不同的星座。另外，映射台必須要深夜才能使用，且要消除天空上多餘的其他的干擾光源。 <NL>星座的放置位置影響它們在最終階段的主導地位。各個星座之間的重疊部分越少，映射的存在值就越高。
-astralsorcery.journal.DRAWING_TABLE.4.text=利用海藍寶石吸收星輝的能力而專門製作的羊皮紙可以刻錄下映射的星座。 <NL>這需要一個能容納星座特殊屬性的特殊玻璃。基於彩色透鏡變化的性質，並進一步加入星輝錠與共振寶石，就做出了既堅固又靈敏的星輝聚能玻璃。
-astralsorcery.journal.DRAWING_TABLE.6.text=將羊皮紙與聚能玻璃嵌入映射台，並將星座的投影聚集到羊皮紙上，就在其上創建了一個可以互聯的主星座。 <NL>在黎明與黃昏時有太多的光線乾擾，將增加羊皮紙無法吸收這種原始能量從而損毀的機率，一旦所有3個星座都映射到羊皮紙上且羊皮紙沒有起火燒毀，那麼這個圖形將被蝕刻在玻璃上。
+astralsorcery.journal.DRAWING_TABLE.1.text=對星座的效應屬性的深入研究產生了新的思路。現在起可以製作能夠映射所有已知星座能量的映射台了，它能透過一系列的方式將星輝折射到玻璃板上，將星輝聚集到中心區域，使其能夠強化附魔。由於這種聚集的強度較大，它可能超過所有已知的附魔等級。
+astralsorcery.journal.DRAWING_TABLE.2.text=在重疊的星輝產生嚴重的光汙染前，這個台子最多能同時容納多達3個不同的星座。另外，映射台必須要深夜才能使用，且要消除天空上多餘的其他的干擾光源。 <NL>星座的放置位置影響它們在最終階段的主導地位。各個星座之間的重疊部分越少，映射的存在值就越高。
+astralsorcery.journal.DRAWING_TABLE.4.text=利用海藍寶石吸收星輝的能力而專門製作的羊皮紙可以燒錄下映射的星座。 <NL>這需要一個能容納星座特殊屬性的特殊玻璃。基於彩色透鏡變化的性質，並進一步加入星輝錠與共振寶石，就做出了既堅固又靈敏的星輝聚能玻璃。
+astralsorcery.journal.DRAWING_TABLE.6.text=將羊皮紙與聚能玻璃嵌入映射台，並將星座的投影聚集到羊皮紙上，就在其上創建了一個可以互聯的主星座。 <NL>在黎明與黃昏時有太多的光線干擾，將增加羊皮紙無法吸收這種原始能量從而損毀的機率，一旦所有3個星座都映射到羊皮紙上且羊皮紙沒有起火燒毀，那麼這個圖形將被蝕刻在玻璃上。
 astralsorcery.journal.DRAWING_TABLE.7.text=最後的步驟就是將這些星座的圖案轉化為可附魔的物品。最適合星座所給予的魔咒力的還是書、以及大部分的護甲和武器，只要附魔與物品合適，就能附魔。
 astralsorcery.journal.DRAWING_TABLE.8.text=事實上，也可以直接進行附魔。只要在台子上放置一瓶水：平凡的，濃稠的，粗製的藥水都行，星輝將會凝結出最純淨的星之釀。 <NL>用這種方式來製作藥水和書有可能因為此種方式涉及的原始力量不穩定而破壞蝕刻玻璃，直接附魔的話可以確定其必定會受到磨損。
 
 research.ALTAR4.name=五彩祭壇
-astralsorcery.journal.ALTAR4.1.text=雖然天輝祭壇達到目前的使用要求，但它當下也有著非常明顯的缺陷。根據製作群星映射台時的經驗而產生了新的想法，即聚焦特定星座的星能可能比吸收任意種類的星能更加強大。 <NL>但以當前的祭壇結構是無法做到這一點的。利用熏黑大理石與共振寶石的塑形特性，以及新發明的更堅固的天體水晶石可以解決這個問題。
-astralsorcery.journal.ALTAR4.4.text=新設計不僅有與古代神殿十分相似的複雜結構，還需要在合成時額外添加其他材料。為了應對這個問題，必須將光波增幅器放置在祭壇結構中的熏黑大理石上。 <NL>在合成時，聚能水晶將發射一束彩色光線到附近空的光波增幅器上，顯示用於繼續進行合成需求的物品投影。根據測試的結果，這些物品只能在需求時才能放置，提前放是無效的。
+astralsorcery.journal.ALTAR4.1.text=雖然天輝祭壇達到目前的使用要求，但它當下也有著非常明顯的缺陷。根據製作群星映射台時的經驗而產生了新的想法，即聚焦特定星座的星能可能比吸收任意種類的星能更加強大。 <NL>但以目前的祭壇結構是無法做到這一點的。利用燻黑大理石與共振寶石的塑形特性，以及新發明的更堅固的天體水晶石可以解決這個問題。
+astralsorcery.journal.ALTAR4.4.text=新設計不僅有與古代神殿十分相似的複雜結構，還需要在合成時額外添加其他材料。為了應對這個問題，必須將光波增幅器放置在祭壇結構中的燻黑大理石上。 <NL>在合成時，聚能水晶將發射一束彩色光線到附近空的光波增幅器上，顯示用於繼續進行合成需求的物品投影。根據測試的結果，這些物品只能在需求時才能放置，提前放是無效的。
 
 research.CRAFTING_FOCUS_HINT.name=聚焦合成
 astralsorcery.journal.CRAFTING_FOCUS_HINT.1.text=新的五彩祭壇比它的舊版有另外有一些重大的升級。首先，那些由於白天的星能過少而中斷的合成將在有足夠星能後繼續進行。 <NL>其次，同時也是最重要的區別是，祭壇上方浮動的水晶能在合成時聚集特定星座的星輝。
@@ -378,7 +378,7 @@ astralsorcery.journal.ATT_CAPE.3.text=除了顯現出的對魔咒的強大親和
 astralsorcery.journal.ATT_CAPE.4.text=更有針對性的聚焦合成應該足以實現這一點。然而，披風每次只能與一個星座進行共鳴。在進行與原先不同的共鳴合成時舊的共鳴能力將會失效，並轉變為新的共鳴能力。 <NL>每個星座的頁面內都附加了關於各個星座的披風效果更詳細的細節頁面。
 
 research.ATT_WANDS.name=調諧共鳴星杖
-astralsorcery.journal.ATT_WANDS.1.text=鑑於在利用星輝輔助合成方面的新發現，也許可以稍微改變下這個只能用來找水晶石的小星杖，讓它兼具更多的功能。 <NL>在強大的星能覆蓋下向星杖注入各種材料能獲得更加強大的效果。
+astralsorcery.journal.ATT_WANDS.1.text=鑑於在利用星輝輔助合成方面的新發現，也許可以稍微改變一下這個只能用來找水晶石的小星杖，讓它兼具更多的功能。 <NL>在強大的星能覆蓋下向星杖注入各種材料能獲得更加強大的效果。
 astralsorcery.journal.ATT_WANDS.2.text=這是一個十分微妙的過程，星杖的內部星能結構並不適合改變，與星斗披風不同的是這種行為是不可逆的也不能被其他的注能方式修改。
 
 research.ATT_WAND_ARMARA.name=遁甲座共鳴星杖
@@ -403,26 +403,26 @@ astralsorcery.journal.C_CHALICE.4.text=這種遏制能力並不能阻止流體�
 astralsorcery.journal.C_CHALICE.5.text=用更多的共振寶石抵消流體精粹的逃逸會破壞聖杯的穩定性，使其變成廢品。當然，可以給予器紅石信號提升聖杯的穩定性以防止流體逃逸。
 
 research.BORE_CORE.name=萬象泉
-astralsorcery.journal.BORE_CORE.1.text=星能液是混沌星能在外力干擾下的高濃度外在顯態，它的凝聚態是惰性的。 <NL>以可控的方式釋放星能液中所蘊藏的能量對其他方面應該大有裨益。
+astralsorcery.journal.BORE_CORE.1.text=星能液是混沌星能在外力干擾一下的高濃度外在顯態，它的凝聚態是惰性的。 <NL>以可控的方式釋放星能液中所蘊藏的能量對其他方面應該大有裨益。
 astralsorcery.journal.BORE_CORE.2.text=這種能夠承受因釋放星能液中的能量而導致的壓力的裝置需要用最新的祭壇才能製作。即便如此，也需要一個建立在星能流動理論基礎上的聚能環防止核心裝置損壞。 <NL>不過，任何放置在聚能環內的物品都會在強大的混沌能量下泯滅。
 astralsorcery.journal.BORE_CORE.4.text=由於這種星能“噴泉”是利用星能液運行的，因此不需要露天。隨著將星能液逐步轉化為純淨的星能，這需要十分謹慎小心的操作以防止災難發生，只要給噴泉正上方的聖杯提供星能液就行。 <NL>在完成星能的轉化後還需要一個噴口來發射星能。因為聚能環的原因，噴口的位置必須放在正確的位置上。
 
 research.BORE_HEAD_LIQUID.name=納耳狂曼噴口
 astralsorcery.journal.BORE_HEAD_LIQUID.1.text=流體的本源精華狀態十分特殊，正所謂水往低處流，不外如是。這些精華很可能積累在基岩下方，只要你能找到，就能輕易的掠奪這些精華。 <NL>納耳狂曼噴口不僅能爆破通往基岩路上的所有方塊，還能穿透基岩，掠奪基岩下的流體本源精華並儲存到中央的噴泉核心內。
 astralsorcery.journal.BORE_HEAD_LIQUID.2.text=雖然噴泉核心不能進行機械式交互，但可以用空的聖杯從噴泉核心抽取回收的流體精華，這樣就可以用機械方式提取了。 <NL>不要感到困惑，其實大部分的流體精華都是水。水會填充其他流體精華留下的空隙，所以一旦這些儲存的流體精華抽完，剩下的都將是水。 <NL>短距離內的生成結果差異巨大，光是安置噴泉結構查看其結果就頗為破費且令人厭煩。
-astralsorcery.journal.BORE_HEAD_LIQUID.4.text=由於無法確定地下到底蘊藏的是哪種流體精華，厭倦了不斷的轉移萬象泉結構的行為，還為了節約珍貴的星能液資源。為此對法斯刻共振器進行了修改，讓其擁有對大面積區域的流體信息採樣的能力。 <NL>改進型的艾克斯共振器仍然只能在夜間使用，它藉用了共振寶石的力量與流體進行共鳴。新的艾克斯共振器和舊的法斯刻共振器可以通過shift右鍵切換模式。
+astralsorcery.journal.BORE_HEAD_LIQUID.4.text=由於無法確定地下到底蘊藏的是哪種流體精華，厭倦了不斷的轉移萬象泉結構的行為，還為了節約珍貴的星能液資源。為此對法斯刻共振器進行了修改，讓其擁有對大面積區域的流體資訊採樣的能力。 <NL>改良型的艾克斯共振器仍然只能在夜間使用，它藉用了共振寶石的力量與流體進行共鳴。新的艾克斯共振器和舊的法斯刻共振器可以通過shift右鍵切換模式。
 
 research.BORE_HEAD_VORTEX.name=費薩利德噴口
 astralsorcery.journal.BORE_HEAD_VORTEX.1.text=操縱噴泉能量的基本原則是利用星能間相互吸引的自然傾向對其進行誘導。 <NL>當納耳狂曼噴口將能量形成一道垂直的光束並從基岩內吸取流體精華時，你相信你已經找到了另一種用於增強局部能量漩渦的方法。
 astralsorcery.journal.BORE_HEAD_VORTEX.3.text=當它們自身完成加速並回歸時，這些能量會以奇怪的方式與生物發生感應：將它們吸入渦流中心並“固定”在那個位置直到作為能量來源的星能液耗光。 <NL>當生物被困在這個漩渦中後，這些生物似乎很大程度上無法保護自身安全，儘管星能的消耗量深受漩渦中生物用其自身的力量試圖掙脫漩渦的影響。
 astralsorcery.journal.BORE_HEAD_VORTEX.4.text=即使是神話生物也會被這個噴口控制，儘管這需要噴口集中全力才能做到。 <NL>此外，有些生物看起來需要消耗遠比聚星缸長時間能提供的量還要多的多的星能液，所以只有噴泉內部儲存的星能液耗光，某些生物就無法長時間固定在漩渦中心。
 
-research.ENCHANTMENT_AMULET.name=璀璨棱鏡
+research.ENCHANTMENT_AMULET.name=璀璨稜鏡
 astralsorcery.journal.ENCHANTMENT_AMULET.1.text=關於星能的實驗表明，更替之星會對星座產生奇怪的反應，在受到特殊的星輝照射後將停止發射其內的混沌魔能。 <NL>隨著散發的能量不斷變化，或許比把能量集中更有益。 <NL>將這些能量注入終界之眼後，會使它們向外發射輕微的短距輻射並再往外彌散一段距離，而不會對環境造成破壞。
-astralsorcery.journal.ENCHANTMENT_AMULET.3.text=在佩戴時，這種棱鏡會給佩戴者身上的其他裝備增加或賦予特殊的魔法效果。 <NL>所獲得的效果是完全隨機的，這些效果完全基於鎖定更替之星時的奇特頻率。 <NL>將其他頻率的星輝照射在這個棱鏡上會改變其與原先星體間的鎖定頻率並更換星體，最終由更替之星內那不可控制的混沌方式來決定獲得的神奇效果。
+astralsorcery.journal.ENCHANTMENT_AMULET.3.text=在佩戴時，這種稜鏡會給佩戴者身上的其他裝備增加或賦予特殊的魔法效果。 <NL>所獲得的效果是完全隨機的，這些效果完全基於鎖定更替之星時的奇特頻率。 <NL>將其他頻率的星輝照射在這個稜鏡上會改變其與原先星體間的鎖定頻率並更換星體，最終由更替之星內那不可控制的混沌方式來決定獲得的神奇效果。
 
 research.SEXTANT.name=六分儀
-astralsorcery.journal.SEXTANT.1.text=由於控制星能所需要的高度精密結構，一旦結構錯誤，檢查結構的過程令人抓狂。 <NL>通過與神奇的星能共振來對六分儀的導航方式進行修正，最終的成品不僅能用導航尋找特殊結構還能對現有結構進行檢測糾正。
+astralsorcery.journal.SEXTANT.1.text=由於控制星能所需要的高度精密結構，一旦結構錯誤，檢查結構的過程令人抓狂。 <NL>透過與神奇的星能共振來對六分儀的導航方式進行修正，最終的成品不僅能用導航尋找特殊結構還能對現有結構進行檢測糾正。
 astralsorcery.journal.SEXTANT.3.text=六分儀能夠根據虛空中殘留的能量痕跡感知到遠古遺蹟的存在，並引領你前行。 <NL>如果不是因為手持六分儀而極端強化的感知是無法發覺那些未知之物所具有的微弱牽引力。
 astralsorcery.journal.SEXTANT.4.text=在使用六分儀時，你會發現那些能量在星空中凝結為星形。若是所拖拽的建築構型與有色星星的顯現一致的話，六分儀將鎖定這個位置。這讓你在夜間可以更方便的探索。更換星形的話六分儀的目標也會跟著改變。所以想像一下一手一個六分儀的情景。
 
@@ -431,15 +431,15 @@ astralsorcery.journal.SEXTANT_UPGRADE.1.text=在六分儀與那些遠古能量�
 
 research.OBSERVATORY.name=瞭望台
 astralsorcery.journal.OBSERVATORY.1.text=雖然天文望遠鏡在搜尋暗淡的星座時大有助益，但你仍然認為有所遺漏。 <NL>根據你對星能的使用方面的經驗你堅信你能構建出世界型的探索裝置，雖然這需要使用大量的濾鏡和活性粉末。
-astralsorcery.journal.OBSERVATORY.3.text=瞭望台擁有比望遠鏡要大得多的廣闊視野，無論距離遠還是近，都能通過通過星輝的路徑來返本還源。在星界的深處，有許多星座在不斷的發出朦朧的光，它們看起來與環境噪點十分相似，幾乎無法區分。
+astralsorcery.journal.OBSERVATORY.3.text=瞭望台擁有比望遠鏡要大得多的廣闊視野，無論距離遠還是近，都能透過通過星輝的路徑來返本還源。在星界的深處，有許多星座在不斷的發出朦朧的光，它們看起來與環境噪點十分相似，幾乎無法區分。
 astralsorcery.journal.OBSERVATORY.4.text=雖然這些朦朧的星光在到達你附近時以不足以支撐效應放大器的使用，但用於群星映射台還是沒問題的。對於水晶共鳴來說，這段距離太過漫長了，無法進行共鳴，但天無絕人之路。
 
 research.ATT_TRAIT.name=強化水晶共鳴
 astralsorcery.journal.ATT_TRAIT.1.text=你先前對朦朧星座的懷疑已被證實是正確的，它們的光線太過微弱而無法給效應放大器或水晶共鳴提供總量的星能。你認為可以根據它們那獨特的光譜對共鳴祭壇進行強化可以解決這個問題。 <NL>當所需的朦朧星座出現在深空時，按要求將光波增幅器放置在正確的方位上，共鳴祭壇將對它們的星能做出反應。
-astralsorcery.journal.ATT_TRAIT.2.text=將共鳴過的共鳴水晶放入共鳴祭壇，那些朦朧星座的星能將改變共鳴水晶的屬性，並修改它們的放大效應。 <NL>有關的適用特質信息將添加到星座選項卡內的朦朧星座中。
+astralsorcery.journal.ATT_TRAIT.2.text=將共鳴過的共鳴水晶放入共鳴祭壇，那些朦朧星座的星能將改變共鳴水晶的屬性，並修改它們的放大效應。 <NL>有關的適用特質資訊將添加到星座選項卡內的朦朧星座中。
 
 research.ENH_SHIFTING_STAR.name=輻射之星
-astralsorcery.journal.ENH_SHIFTING_STAR.1.text=更替之星的問題在於它把體內的所有星能全部清除了。 <NL>將更替之星的能量集中到一個視星等為明亮的星座上進行修正，可以適當地減少星能的流失，因為根源星座被修正到新的星座上。這允許引導體內殘餘的星能重新通過冥想進行自身的特化，而不必重頭開始。
+astralsorcery.journal.ENH_SHIFTING_STAR.1.text=更替之星的問題在於它把體內的所有星能全部清除了。 <NL>將更替之星的能量集中到一個視星等為明亮的星座上進行修正，可以適當地減少星能的流失，因為根源星座被修正到新的星座上。這允許引導體內殘餘的星能重新透過冥想進行自身的特化，而不必從頭開始。
 
 research.RESONATOR_AREA_SIZE.name=多米刻共振器
 astralsorcery.journal.RESONATOR_AREA_SIZE.1.text=通過對共振器的進一步改造，現在共振器能顯示星輝場的範圍。這使得原來空靈的領域變的可見，與肥皂泡導致的折射光完全不同，它揭示了自然中的星能受建築物和效應放大儀式的干擾程度，在手持這個共振器時可以引導或改變星能的狀態。 <NL>Shift右鍵仍將像以前一樣循環切換模式。
@@ -451,7 +451,7 @@ research.KNOWLEDGE_FRAGMENT.name=流星
 astralsorcery.journal.KNOWLEDGE_FRAGMENT.1.text=偶爾能看見天空中劃過的流星。在其撞擊後所留下的東西對星象學者而言具有極大的價值。
 
 research.ATT_PERK_GEMS.name=活力寶石
-astralsorcery.journal.ATT_PERK_GEMS.1.text=利用水晶儲存星能的唯一問題是它會像光一樣逃逸。通過在晶體內摻雜適當的催化劑，可以在某種程度上儲存星能。在星能液中投入水晶石與熒光粉，會形成一個在生長過程中不斷吸納能量的水晶簇。 <NL>出於儲存能量的原因，其內的能量同樣難以直接使用。
+astralsorcery.journal.ATT_PERK_GEMS.1.text=利用水晶儲存星能的唯一問題是它會像光一樣逃逸。通過在晶體內摻雜適當的催化劑，可以在某種程度上儲存星能。在星能液中投入水晶石與螢光粉，會形成一個在生長過程中不斷吸納能量的水晶簇。 <NL>出於儲存能量的原因，其內的能量同樣難以直接使用。
 astralsorcery.journal.ATT_PERK_GEMS.2.text=被佔用的星能仍會影響附近的星能感應頻率，而這已確認為獲取儲存星能的關鍵。 <NL>將寶石嵌入肉體時，用意念與其溝通，並使其加入個人共鳴能量的魔法迴路中，以進一步強化共鳴的自然之力。在這個結構中，寶石是與肉體相連的。
 
 astralsorcery.journal.recipe.starlight=合成時需要星能
@@ -459,7 +459,7 @@ astralsorcery.journal.recipe.nighttime=只能在夜間製作
 astralsorcery.journal.recipe.constellation=需要與 %s 星座進行聚焦
 astralsorcery.journal.recipe.upgrade=升級到下一級
 astralsorcery.journal.recipe.attunement=調用水晶：%s
-astralsorcery.journal.recipe.removalinfo=§c此合成已在當前的整合包內移除！請通過其他信息來源查找合成方式！
+astralsorcery.journal.recipe.removalinfo=§c此合成已在目前的整合包內移除！請透過其他資訊來源查找合成方式！
 astralsorcery.journal.recipe.amt.desc=需要星能：
 
 astralsorcery.journal.recipe.amt.lowest=幾乎不需要
@@ -500,7 +500,7 @@ entity.EntityAquamarine.name=海藍寶石
 entity.EntityCrystal.name=水晶
 entity.EntityFlare.name=耀斑
 entity.EntityStarburst.name=星爆
-entity.EntityIlluminationSpark.name=熒光火花
+entity.EntityIlluminationSpark.name=螢光火花
 entity.EntityCrystalTool.name=水晶石工具
 entity.EntitySpectralTool.name=光譜調整器
 entity.EntityLiquidSpark.name=液態火花
@@ -539,20 +539,20 @@ item.itemshiftingstar.name=更替之星
 item.itemshiftingstar.enhanced.name=輻射之星
 item.iteminfusedglass.name=聚能玻璃
 item.iteminfusedglass.active.name=蝕刻玻璃
-item.itemknowledgeshare.name=知識共享捲軸
+item.itemknowledgeshare.name=知識共享卷軸
 item.itemusabledust.illumination.name=輝光粉
 item.itemusabledust.nocturnal.name=暗夜粉
 item.itemcape.name=星斗披風
 item.itemskyresonator.name=法斯刻共振器
 item.itemsextant.name=六分儀
 item.itemsextant.upgraded=增益型
-item.itemenchantmentamulet.name=璀璨棱鏡
+item.itemenchantmentamulet.name=璀璨稜鏡
 item.itemenchantmentamulet.pure=純淨
 item.itemperkseal.name=封閉印章
-item.itemknowledgefragment.name=微光捲軸
+item.itemknowledgefragment.name=微光卷軸
 item.itemfragmentcapsule.name=閃光星核
 item.itemperkgem.day.name=伊利姆寶石
-item.itemperkgem.night.name=芙荙姆寶石
+item.itemperkgem.night.name=芙薘姆寶石
 item.itemperkgem.sky.name=奧瑞爾寶石
 
 item.itemskyresonator.starlight.name=法斯刻共振器
@@ -601,14 +601,14 @@ tile.blockattunementrelay.name=光波增幅器
 tile.blockritualpedestal.name=效應放大器
 tile.blockflarelight.name=不穩定耀斑
 tile.blockworldilluminator.name=洞穴照明器
-tile.blockblackmarble.name=熏黑大理石
-tile.blockblackmarble.raw.name=熏黑大理石
-tile.blockblackmarble.bricks.name=熏黑大理石磚
-tile.blockblackmarble.pillar.name=熏黑大理石柱
-tile.blockblackmarble.chiseled.name=雕紋熏黑大理石
-tile.blockblackmarble.arch.name=熏黑大理石橫梁
-tile.blockblackmarble.runed.name=精緻熏黑大理石
-tile.blockblackmarble.engraved.name=凹面熏黑大理石
+tile.blockblackmarble.name=燻黑大理石
+tile.blockblackmarble.raw.name=燻黑大理石
+tile.blockblackmarble.bricks.name=燻黑大理石磚
+tile.blockblackmarble.pillar.name=燻黑大理石柱
+tile.blockblackmarble.chiseled.name=雕紋燻黑大理石
+tile.blockblackmarble.arch.name=燻黑大理石橫梁
+tile.blockblackmarble.runed.name=精緻燻黑大理石
+tile.blockblackmarble.engraved.name=凹面燻黑大理石
 tile.blockinfusedwood.name=聚星木
 tile.blockinfusedwood.raw.name=聚星木
 tile.blockinfusedwood.planks.name=聚星木板
@@ -627,7 +627,7 @@ tile.blockmarble.runed.name=精緻大理石柱
 tile.blockmarble.engraved.name=凹面大理石
 tile.blockmarblestairs.name=大理石樓梯
 tile.blockmarbleslab.bricks.name=大理石台階
-tile.blockprism.name=棱鏡
+tile.blockprism.name=稜鏡
 tile.blocklens.name=透鏡
 tile.blockcelestialcrystals.name=天體水晶簇
 tile.blockcelestialcrystals.stage_0.name=天體水晶簇
@@ -686,8 +686,8 @@ astralsorcery.constellation.vicio=虛御座
 astralsorcery.constellation.vicio.info=運動中的
 astralsorcery.constellation.vicio.effect=沐浴在此星座的光芒中感覺周圍的一切都變慢了，而你無論做什麼都能以很快的速度完成。
 astralsorcery.constellation.vicio.enchantments=此星座的本源星能加快了飲用的速度，經受蝕刻的靴子能降低撞擊地面時的速度。
-astralsorcery.constellation.vicio.ritual=此效應改變了領域內所有矢量屬性，能讓那些沒有翅膀的凡人以不可思議的方式活動。
-astralsorcery.constellation.vicio.capeeffect=這種共振方式通過減輕你的體重來降低旅行時的負擔，乘風而行，放飛自我。
+astralsorcery.constellation.vicio.ritual=此效應改變了領域內所有向量屬性，能讓那些沒有翅膀的凡人以不可思議的方式活動。
+astralsorcery.constellation.vicio.capeeffect=這種共振方式透過減輕你的體重來降低旅行時的負擔，乘風而行，放飛自我。
 astralsorcery.constellation.aevitas=生息座
 astralsorcery.constellation.aevitas.info=創造性的
 astralsorcery.constellation.aevitas.effect=在這個星座的光芒的照耀下，附近的鮮花與植物都欣欣向榮，蓬勃發展。
@@ -728,14 +728,14 @@ astralsorcery.constellation.octans.capeeffect=這個星座與水的親和力意�
 astralsorcery.constellation.bootes=牧夫座
 astralsorcery.constellation.bootes.info=畜牧
 astralsorcery.constellation.bootes.effect=看起來這些微弱的光線使所有的動物感到滿足。
-astralsorcery.constellation.bootes.enchantments=使用這個星座的工具時會讓人癲狂，並精准採集方塊。飲用蝕刻過的星之釀將會暫時消除飢餓感以更好的維持動物們的生命。
+astralsorcery.constellation.bootes.enchantments=使用這個星座的工具時會讓人癲狂，並精準採集方塊。飲用蝕刻過的星之釀將會暫時消除飢餓感以更好的維持動物們的生命。
 astralsorcery.constellation.bootes.ritual=在星輝的照射下，附近的動物似乎更悠閒了，看起來豐饒而肥美，取而代之的是額外的資源消耗。
 astralsorcery.constellation.bootes.capeeffect=穿上此披風，附近的耀斑將追隨你，協助你殺敵。
 astralsorcery.constellation.fornax=天爐座
 astralsorcery.constellation.fornax.info=高溫
 astralsorcery.constellation.fornax.effect=這束星輝上帶有強大的力量和劇烈的熱量，僅僅是注視著它就令你感到口乾舌燥。
 astralsorcery.constellation.fornax.enchantments=直接使用此種共鳴工具並不適合，因為你千辛萬苦所獲得的東西結果可能失誤而燒毀，但喝下此藥水能讓你成為火的化身。
-astralsorcery.constellation.fornax.ritual=利用此星座的效應時需要小心謹慎，防止當前區域發生火災，但持續不斷的熱量會導致附近的方塊著火或熔化。
+astralsorcery.constellation.fornax.ritual=利用此星座的效應時需要小心謹慎，防止目前區域發生火災，但持續不斷的熱量會導致附近的方塊著火或熔化。
 astralsorcery.constellation.fornax.capeeffect=穿著與星座相似的披風，你將浴火重生的力量，火焰不再是你的敵人。此外，多餘的火焰將被導入腳下的大地，或許會使其完全燒焦或熔化。
 astralsorcery.constellation.pelotrio=喚生座
 astralsorcery.constellation.pelotrio.info=召喚
@@ -761,7 +761,7 @@ astralsorcery.constellation.alcara.enchantments=工具內傳導的振動使方�
 astralsorcery.constellation.alcara.trait=利用共振的力量可以大大提高音符的聲音。但哪怕是最微小的雜音也會破壞音樂的整體美感。
 astralsorcery.constellation.vorux=貪狼座
 astralsorcery.constellation.vorux.info=兇猛的
-astralsorcery.constellation.vorux.effect=在此星座的光芒照射下會引發人內心的破壞慾和佔有欲，即使是星界深處的光芒也會如此。
+astralsorcery.constellation.vorux.effect=在此星座的光芒照射下會引發人內心的破壞慾和佔有慾，即使是星界深處的光芒也會如此。
 astralsorcery.constellation.vorux.enchantments=對於擁有此星座能力的武器的使用者來說，進攻就是最好的防禦。這個星座的星之釀經常被稱作“勇氣藥水”。
 astralsorcery.constellation.vorux.trait=在兩端點上蠟燭可以提供更多的光亮，但也會導致黑暗更快到來。
 
@@ -834,7 +834,7 @@ perk.attribute.astralsorcery.attackspeed.name=攻擊速度
 perk.attribute.astralsorcery.reach.name=範圍
 perk.attribute.astralsorcery.dynenchantmenteffect.name=護身加持術
 
-perk.attribute.astralsorcery.liferecovery.name=生命回复
+perk.attribute.astralsorcery.liferecovery.name=生命回復
 perk.attribute.astralsorcery.potionduration.name=藥水效果的持續時間
 perk.attribute.astralsorcery.bleedduration.name=出血時間
 perk.attribute.astralsorcery.bleedamount.name=出血量
@@ -885,7 +885,7 @@ perk.astralsorcery.key_reach_path_node.name=增加範圍
 perk.astralsorcery.key_enrich_path_node.name=提高挖掘速度
 perk.astralsorcery.key_mending_path_node.name=增加閃避機率
 perk.astralsorcery.key_mending_path_node_1.name=增強閃避機率
-perk.astralsorcery.key_growables_path_node.name=增加生命回复速率
+perk.astralsorcery.key_growables_path_node.name=增加生命回復速率
 perk.astralsorcery.key_lastbreath_path_node.name=提升挖掘速度
 perk.astralsorcery.key_digtypes_path_node_inc.name=提升挖掘速度
 perk.astralsorcery.key_digtypes_path_add.name=提升挖掘速度
@@ -1001,7 +1001,7 @@ perk.astralsorcery.major_increased_ats_zeal.name=空明真經
 perk.astralsorcery.major_perk_eff_nt.name=增強技能效果
 perk.astralsorcery.major_perk_exp_nt.name=增強技能經驗
 perk.astralsorcery.major_inc_encheffect.name=增加護身法寶效果
-perk.astralsorcery.major_inc_encheffect.desc.1=璀璨棱鏡附魔強化
+perk.astralsorcery.major_inc_encheffect.desc.1=璀璨稜鏡附魔強化
 perk.astralsorcery.major_inc_encheffect.desc.2=等級增加15%%。
 
 perk.astralsorcery.core.name=奇點
@@ -1015,7 +1015,7 @@ perk.astralsorcery.threshold_vicio.name=查克拉的運動性質
 perk.astralsorcery.epi_evorsio.name=頓悟：毀滅之道
 perk.astralsorcery.epi_evorsio.desc.1=其他“頓悟”技能不受此影響
 perk.astralsorcery.epi_evorsio.desc.2=需要與現有的強化有所聯繫
-perk.astralsorcery.epi_armara.name=頓悟：防御之道
+perk.astralsorcery.epi_armara.name=頓悟：防禦之道
 perk.astralsorcery.epi_armara.desc.1=其他“頓悟”技能不受此影響
 perk.astralsorcery.epi_armara.desc.2=需要與現有的強化有所聯繫
 perk.astralsorcery.epi_vicio.name=頓悟：運動之道
@@ -1103,17 +1103,17 @@ perk.astralsorcery.key_rem_badeffects.name=淨化
 perk.astralsorcery.key_rem_badeffects.desc=再生生命時可能會消除負面狀態效果。
 
 perk.astralsorcery.aevitas.name=根源：生息座
-perk.astralsorcery.aevitas.desc=通過建築來獲得經驗
+perk.astralsorcery.aevitas.desc=透過建築來獲得經驗
 perk.astralsorcery.vicio.name=根源：虛御座
-perk.astralsorcery.vicio.desc=通過環遊世界來獲得經驗
+perk.astralsorcery.vicio.desc=透過環遊世界來獲得經驗
 perk.astralsorcery.evorsio.name=根源：解離座
-perk.astralsorcery.evorsio.desc=通過破壞方塊來獲得經驗
+perk.astralsorcery.evorsio.desc=透過破壞方塊來獲得經驗
 perk.astralsorcery.discidia.name=根源：非攻座
-perk.astralsorcery.discidia.desc=通過攻擊來獲得經驗
+perk.astralsorcery.discidia.desc=透過攻擊來獲得經驗
 perk.astralsorcery.armara.name=根源：遁甲座
-perk.astralsorcery.armara.desc=通過抗擊打鍛鍊來獲得經驗
+perk.astralsorcery.armara.desc=透過抗擊打鍛鍊來獲得經驗
 
-constellation.noInformation=暫無信息！
+constellation.noInformation=暫無資訊！
 
 knowledge.astralsorcery.fragment.discovery.ancientshrine.name=古代神殿的定位
 knowledge.astralsorcery.fragment.discovery.ancientshrine.bookmark=定位
@@ -1125,7 +1125,7 @@ knowledge.astralsorcery.fragment.discovery.resowand.description=雖然指示痕�
 
 knowledge.astralsorcery.fragment.misc.altar.name=祭壇的特色合成
 knowledge.astralsorcery.fragment.misc.altar.bookmark=特色合成
-knowledge.astralsorcery.fragment.misc.altar.description=所有祭壇都能同時製作多個物品，只要將所有材料一次性放上去，且有足夠的星能和時間就行。由於提高了合成速度與內置星能緩存的容量，所有更推薦使用高級的祭壇。
+knowledge.astralsorcery.fragment.misc.altar.description=所有祭壇都能同時製作多個物品，只要將所有材料一次性放上去，且有足夠的星能和時間就行。由於提高了合成速度與內建星能快取的容量，所有更推薦使用高級的祭壇。
 
 knowledge.astralsorcery.fragment.discovery.startable.name=星能網路
 knowledge.astralsorcery.fragment.discovery.startable.bookmark=網路連結
@@ -1157,7 +1157,7 @@ knowledge.astralsorcery.fragment.misc.cannibalism.description=任意星能聚集
 
 knowledge.astralsorcery.fragment.exploration.caveillumplace.name=照明器的放置
 knowledge.astralsorcery.fragment.exploration.caveillumplace.bookmark=放置
-knowledge.astralsorcery.fragment.exploration.caveillumplace.description=使用時，洞穴照明器會嘗試在黑暗區域中形成耀斑，光將從以照明器本身為中心呈螺旋形圖案放置到其最大範圍。它每次將保持同時放置垂直距離為8米內的光層。
+knowledge.astralsorcery.fragment.exploration.caveillumplace.description=使用時，洞穴照明器會嘗試在黑暗區域中形成耀斑，光將從以照明器本身為中心呈螺旋形圖案放置到其最大範圍。它每次將保持同時放置垂直距離為8公尺內的光層。
 
 knowledge.astralsorcery.fragment.exploration.caveillumwand.name=色彩操作
 knowledge.astralsorcery.fragment.exploration.caveillumwand.bookmark=功能
@@ -1173,7 +1173,7 @@ knowledge.astralsorcery.fragment.attunement.starlightchunks.description=沒有�
 
 knowledge.astralsorcery.fragment.attunement.alignmentcharge.name=共振充能率
 knowledge.astralsorcery.fragment.attunement.alignmentcharge.bookmark=充能中
-knowledge.astralsorcery.fragment.attunement.alignmentcharge.description=被各類聚能工具使用的星能會在空閒時自動回复。在室外或晚上時回復效率更高。
+knowledge.astralsorcery.fragment.attunement.alignmentcharge.description=被各類聚能工具使用的星能會在空閒時自動回復。在室外或晚上時回復效率更高。
 
 knowledge.astralsorcery.fragment.attunement.attunement.name=個體強化
 knowledge.astralsorcery.fragment.attunement.attunement.bookmark=個人
@@ -1191,8 +1191,8 @@ knowledge.astralsorcery.fragment.constellation.colorlens.name=透鏡功用
 knowledge.astralsorcery.fragment.constellation.colorlens.bookmark=功用
 knowledge.astralsorcery.fragment.constellation.colorlens.description=燃燒：將光束前方的所有物質點燃，就像熔爐一樣。 <NL>生長：具有和骨粉類似的功能，除非植物不喜歡骨粉，不然都能快速生長。 <NL>破壞：並沒有挖掘等級，也不會撿起物品，只會破壞能挖掘的東西。 <NL>傷害：基於擁有的星能量以一定頻率給予一定量傷害。
 
-knowledge.astralsorcery.fragment.constellation.refractiontable.name=映射優化
-knowledge.astralsorcery.fragment.constellation.refractiontable.bookmark=優化
+knowledge.astralsorcery.fragment.constellation.refractiontable.name=映射最佳化
+knowledge.astralsorcery.fragment.constellation.refractiontable.bookmark=最佳化
 knowledge.astralsorcery.fragment.constellation.refractiontable.description=雖然每次最多能映射3個星座，但重複並沒有任何好處。最完美的佈局應盡量減少星座間的重疊。 <NL>午夜時使用能最大程度降低燒毀的風險，使用它對物品直接附魔的話，可能獲得常規附魔情況下無法得到附魔組合。
 
 knowledge.astralsorcery.fragment.constellation.treebeaconuse.name=烽火的用法
@@ -1213,7 +1213,7 @@ knowledge.astralsorcery.fragment.constellation.illumwand.description=被轉換�
 
 knowledge.astralsorcery.fragment.constellation.prism.name=附魔改進
 knowledge.astralsorcery.fragment.constellation.prism.bookmark=附魔
-knowledge.astralsorcery.fragment.constellation.prism.description=每個璀璨棱鏡都有3個附魔屬性，每個屬性可為一或多個附魔提供最高+3的增益。可以增強現有的附魔或增加新的附魔。但是，任何增強現有附魔的屬性將佔據2個屬性位。 <NL>棱鏡的顏色是隨機的，不過白色的更為稀有。
+knowledge.astralsorcery.fragment.constellation.prism.description=每個璀璨稜鏡都有3個附魔屬性，每個屬性可為一或多個附魔提供最高+3的增益。可以增強現有的附魔或增加新的附魔。但是，任何增強現有附魔的屬性將佔據2個屬性位。 <NL>稜鏡的顏色是隨機的，不過白色的更為稀有。
 
 knowledge.astralsorcery.fragment.constellation.clusterbonus.name=晶體產量提升
 knowledge.astralsorcery.fragment.constellation.clusterbonus.bookmark=生長量
@@ -1221,7 +1221,7 @@ knowledge.astralsorcery.fragment.constellation.clusterbonus.description=測試�
 
 knowledge.astralsorcery.fragment.constellation.clusterspeed.name=提高生長速度
 knowledge.astralsorcery.fragment.constellation.clusterspeed.bookmark=生長率
-knowledge.astralsorcery.fragment.constellation.clusterspeed.description=如果在室外或通過星能網路提供星能束，水晶簇將加快生長。
+knowledge.astralsorcery.fragment.constellation.clusterspeed.description=如果在室外或透過星能網路提供星能束，水晶簇將加快生長。
 
 knowledge.astralsorcery.fragment.constellation.ec3.name=聚能水晶結構
 knowledge.astralsorcery.fragment.constellation.ec3.bookmark=結構的增益
@@ -1229,7 +1229,7 @@ knowledge.astralsorcery.fragment.constellation.ec3.description=除了防止因�
 
 knowledge.astralsorcery.fragment.radiance.fysallidic.name=神話生物的影響
 knowledge.astralsorcery.fragment.radiance.fysallidic.bookmark=神話
-knowledge.astralsorcery.fragment.radiance.fysallidic.description=由於萬象泉的內部液體緩存是有限的，因大量神話生物而劇烈消耗的星能液很可能無法束縛住它們。不過終界使者通常不可能是元兇，除非它們被困住，但像凋靈或終界龍這樣的生物會在被困住時嘗試逃離。以神話生物的強大程度，為了遏制它們的力量束縛的時間將更為短暫。
+knowledge.astralsorcery.fragment.radiance.fysallidic.description=由於萬象泉的內部液體快取是有限的，因大量神話生物而劇烈消耗的星能液很可能無法束縛住它們。不過終界使者通常不可能是元兇，除非它們被困住，但像凋靈或終界龍這樣的生物會在被困住時嘗試逃離。以神話生物的強大程度，為了遏制它們的力量束縛的時間將更為短暫。
 
 knowledge.astralsorcery.fragment.misc.perks.name=在增益上的區別
 knowledge.astralsorcery.fragment.misc.perks.bookmark=增益
@@ -1241,7 +1241,7 @@ knowledge.astralsorcery.fragment.constellation.discidia.potions.description=獲�
 
 knowledge.astralsorcery.fragment.constellation.discidia.enchantments.name=附魔
 knowledge.astralsorcery.fragment.constellation.discidia.enchantments.bookmark=附魔
-knowledge.astralsorcery.fragment.constellation.discidia.enchantments.description=提高武器的鋒利與攻擊力。這可不是普通的低級附魔玩意，這是更高級的版本。
+knowledge.astralsorcery.fragment.constellation.discidia.enchantments.description=提高武器的鋒利與攻擊力。這可不是普通的低級附魔東西，這是更高級的版本。
 
 knowledge.astralsorcery.fragment.constellation.discidia.ritual.name=放大效應
 knowledge.astralsorcery.fragment.constellation.discidia.ritual.bookmark=效應
@@ -1249,7 +1249,7 @@ knowledge.astralsorcery.fragment.constellation.discidia.ritual.description=範�
 
 knowledge.astralsorcery.fragment.constellation.discidia.ritual.corrupted.name=墮反效應
 knowledge.astralsorcery.fragment.constellation.discidia.ritual.corrupted.bookmark=墮反
-knowledge.astralsorcery.fragment.constellation.discidia.ritual.corrupted.description=在墮反之光下，原本的攻擊性武器變成了對敵人的增幅。敵人的傷口將回复，且對額外傷害擁有抗性，而那些曾經受星座保護的人將很快受到攻擊。
+knowledge.astralsorcery.fragment.constellation.discidia.ritual.corrupted.description=在墮反之光下，原本的攻擊性武器變成了對敵人的增幅。敵人的傷口將回復，且對額外傷害擁有抗性，而那些曾經受星座保護的人將很快受到攻擊。
 
 knowledge.astralsorcery.fragment.constellation.discidia.mantle.name=披風的威力
 knowledge.astralsorcery.fragment.constellation.discidia.mantle.bookmark=披風
@@ -1261,7 +1261,7 @@ knowledge.astralsorcery.fragment.constellation.armara.potions.description=獲得
 
 knowledge.astralsorcery.fragment.constellation.armara.enchantments.name=附魔
 knowledge.astralsorcery.fragment.constellation.armara.enchantments.bookmark=附魔
-knowledge.astralsorcery.fragment.constellation.armara.enchantments.description=護甲的防禦力上升了。這可不是普通的低級附魔玩意，這是更高級的版本。
+knowledge.astralsorcery.fragment.constellation.armara.enchantments.description=護甲的防禦力上升了。這可不是普通的低級附魔東西，這是更高級的版本。
 
 knowledge.astralsorcery.fragment.constellation.armara.ritual.name=放大效應
 knowledge.astralsorcery.fragment.constellation.armara.ritual.bookmark=效應
@@ -1281,7 +1281,7 @@ knowledge.astralsorcery.fragment.constellation.vicio.potions.description=獲得�
 
 knowledge.astralsorcery.fragment.constellation.vicio.enchantments.name=附魔
 knowledge.astralsorcery.fragment.constellation.vicio.enchantments.bookmark=附魔
-knowledge.astralsorcery.fragment.constellation.vicio.enchantments.description=減少因摔落而造成的傷害。這可不是普通的低級附魔玩意，這是更高級的版本。
+knowledge.astralsorcery.fragment.constellation.vicio.enchantments.description=減少因摔落而造成的傷害。這可不是普通的低級附魔東西，這是更高級的版本。
 
 knowledge.astralsorcery.fragment.constellation.vicio.ritual.name=放大效應
 knowledge.astralsorcery.fragment.constellation.vicio.ritual.bookmark=效應
@@ -1373,7 +1373,7 @@ knowledge.astralsorcery.fragment.constellation.lucerna.ritual.corrupted.descript
 
 knowledge.astralsorcery.fragment.constellation.lucerna.mantle.name=披風的威力
 knowledge.astralsorcery.fragment.constellation.lucerna.mantle.bookmark=披風
-knowledge.astralsorcery.fragment.constellation.lucerna.mantle.description=披風將附近大約30米範圍內的怪物與刷怪籠的位置高亮出來。
+knowledge.astralsorcery.fragment.constellation.lucerna.mantle.description=披風將附近大約30公尺範圍內的怪物與刷怪籠的位置高亮出來。
 
 knowledge.astralsorcery.fragment.constellation.horologium.showup.name=顯化限制
 knowledge.astralsorcery.fragment.constellation.horologium.showup.bookmark=顯化
@@ -1393,11 +1393,11 @@ knowledge.astralsorcery.fragment.constellation.horologium.ritual.description=雖
 
 knowledge.astralsorcery.fragment.constellation.horologium.ritual.corrupted.name=墮反效應
 knowledge.astralsorcery.fragment.constellation.horologium.ritual.corrupted.bookmark=墮反
-knowledge.astralsorcery.fragment.constellation.horologium.ritual.corrupted.description=當前區域內的生物將被紊亂的時間消除。
+knowledge.astralsorcery.fragment.constellation.horologium.ritual.corrupted.description=目前區域內的生物將被紊亂的時間消除。
 
 knowledge.astralsorcery.fragment.constellation.horologium.mantle.name=披風的威力
 knowledge.astralsorcery.fragment.constellation.horologium.mantle.bookmark=披風
-knowledge.astralsorcery.fragment.constellation.horologium.mantle.description=當它觸發之時，20米內的生物將被影響約9秒。每分鐘可以使用一次能力，但並不是任何攻擊都能觸發的。
+knowledge.astralsorcery.fragment.constellation.horologium.mantle.description=當它觸發之時，20公尺內的生物將被影響約9秒。每分鐘可以使用一次能力，但並不是任何攻擊都能觸發的。
 
 knowledge.astralsorcery.fragment.constellation.octans.potions.name=藥水效果
 knowledge.astralsorcery.fragment.constellation.octans.potions.bookmark=藥水
@@ -1425,7 +1425,7 @@ knowledge.astralsorcery.fragment.constellation.bootes.potions.description=這些
 
 knowledge.astralsorcery.fragment.constellation.bootes.enchantments.name=附魔
 knowledge.astralsorcery.fragment.constellation.bootes.enchantments.bookmark=附魔
-knowledge.astralsorcery.fragment.constellation.bootes.enchantments.description=易碎品能在保存完好的情況下獲得，如同精准採集一樣。
+knowledge.astralsorcery.fragment.constellation.bootes.enchantments.description=易碎品能在保存完好的情況下獲得，如同精準採集一樣。
 
 knowledge.astralsorcery.fragment.constellation.bootes.ritual.name=放大效應
 knowledge.astralsorcery.fragment.constellation.bootes.ritual.bookmark=效應
@@ -1457,7 +1457,7 @@ knowledge.astralsorcery.fragment.constellation.fornax.ritual.corrupted.descripti
 
 knowledge.astralsorcery.fragment.constellation.fornax.mantle.name=披風的威力
 knowledge.astralsorcery.fragment.constellation.fornax.mantle.bookmark=披風
-knowledge.astralsorcery.fragment.constellation.fornax.mantle.description=對於生命回复並不會給予增益，但能夠促進再生效果的發揮。
+knowledge.astralsorcery.fragment.constellation.fornax.mantle.description=對於生命回復並不會給予增益，但能夠促進再生效果的發揮。
 
 knowledge.astralsorcery.fragment.constellation.pelotrio.showup.name=顯化限制
 knowledge.astralsorcery.fragment.constellation.pelotrio.showup.bookmark=顯化
@@ -1505,7 +1505,7 @@ knowledge.astralsorcery.fragment.constellation.ulteria.enchantments.description=
 
 knowledge.astralsorcery.fragment.constellation.ulteria.trait.name=特質效應
 knowledge.astralsorcery.fragment.constellation.ulteria.trait.bookmark=特質
-knowledge.astralsorcery.fragment.constellation.ulteria.trait.description=效應的功效增強到正常的4倍，但范圍也減少到原來的1/5。
+knowledge.astralsorcery.fragment.constellation.ulteria.trait.description=效應的功效增強到正常的4倍，但範圍也減少到原來的1/5。
 
 knowledge.astralsorcery.fragment.constellation.horologium.showup.name=顯化限制
 knowledge.astralsorcery.fragment.constellation.horologium.showup.bookmark=顯化
@@ -1529,7 +1529,7 @@ knowledge.astralsorcery.fragment.constellation.vorux.potions.description=以挖�
 
 knowledge.astralsorcery.fragment.constellation.vorux.enchantments.name=附魔
 knowledge.astralsorcery.fragment.constellation.vorux.enchantments.bookmark=附魔
-knowledge.astralsorcery.fragment.constellation.vorux.enchantments.description=所有敵人都將咋你武器的支配之下，它所造成的攻擊遠遠超過想像。
+knowledge.astralsorcery.fragment.constellation.vorux.enchantments.description=所有敵人都將怎麼你武器的支配之下，它所造成的攻擊遠遠超過想像。
 
 knowledge.astralsorcery.fragment.constellation.vorux.trait.name=特質效應
 knowledge.astralsorcery.fragment.constellation.vorux.trait.bookmark=特質

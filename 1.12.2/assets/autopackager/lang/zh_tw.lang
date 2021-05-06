@@ -1,10 +1,10 @@
-autopackager.config.cycle_delay=“延遲tick”
+﻿autopackager.config.cycle_delay=“延遲tick”
 autopackager.config.energy_cost=“消耗FE”
-autopackager.config.idle_delay=“空閑延遲”
+autopackager.config.idle_delay=“空閒延遲”
 autopackager.config.turbo_cheap=“廉價工人”
 autopackager.config.turbocharged=“快速工作”
 autopackager.mode.cross=3x3 交叉
-autopackager.mode.current=當前模式：
+autopackager.mode.current=目前模式：
 autopackager.mode.hollow=3x3空心
 autopackager.mode.hybrid2=3x3然後2x2
 autopackager.mode.hybrid=2x2然後3x3

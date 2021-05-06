@@ -1,4 +1,4 @@
-container.eggstractor=幸運生成機
+﻿container.eggstractor=幸運生成機
 container.eggstractor.eggs=蛋: %1$d
 container.eggstractor.plastic=塑膠: %1$d
 container.fertilizermixer=糞肥攪拌器
@@ -71,8 +71,8 @@ jei.tile.hatchery.pen=組合雞舍會收集在其裡面的雞的產物。使用�
 jei.tile.hatchery.pen_chicken=組合雞舍會收集在其裡面的雞的產物。使用動物捕獲網將雞放入雞舍。放置兩個雞舍將讓兩隻雞繁殖。雞舍還適用於其他模組加入的雞，允許特殊的育種機制。支援管道／漏斗輸入輸出。
 jei.tile.hatchery.shredder=切割機能夠將羽毛切割成羽毛粉和羽毛纖維。
 text.hatchery.chicken=雞種類
-text.hatchery.chickennetonly=配置設定為僅允許捕獲「雞」。
-text.hatchery.feedonly=配置設定為只允許「雞飼料」。
+text.hatchery.chickennetonly=設定設定為僅允許捕獲「雞」。
+text.hatchery.feedonly=設定設定為隻允許「雞飼料」。
 text.hatchery.hatching=正在孵化
 text.hatchery.inventory=物品欄
 text.hatchery.nochicken=使用「動物捕獲網」捕獲一隻雞

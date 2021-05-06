@@ -1,4 +1,4 @@
-tile.darkQuartzBlock.name=煙晶方塊
+﻿tile.darkQuartzBlock.name=煙晶方塊
 tile.darkQuartzPatterned.pillar.name=柱狀煙晶
 tile.darkQuartzPatterned.chisel.name=浮雕煙晶方塊
 tile.funnel.name=源質漏斗
@@ -64,7 +64,7 @@ ttresearch.page.STABILIZER_BELT.0=基於類似奧術腰帶的技術，你製作�
 #ENDER_DISRUPTER
 ttresearch.name.ENDER_DISRUPTER=終界干擾器
 ttresearch.lore.ENDER_DISRUPTER=別在打鬥時跳來跳去！
-ttresearch.page.ENDER_DISRUPTER.0=在小心地研究中介珍珠後，你發現了終界使者的傳送原理，以及更重要的是如何阻止它。<BR><BR>當你對一個終界珍珠注入污染，污染會干涉終界使者用以傳送的世界維度邊緣，使之關閉。 你推斷當你穿上這個護符便能阻止它們在你周圍傳送。<BR><BR>控制污染並將之散播至世界維度邊緣對你身上的護符造成相當大的壓力，它終將分崩離析。
+ttresearch.page.ENDER_DISRUPTER.0=在小心地研究中介珍珠後，你發現了終界使者的傳送原理，以及更重要的是如何阻止它。<BR><BR>當你對一個終界珍珠注入汙染，汙染會干涉終界使者用以傳送的世界維度邊緣，使之關閉。 你推斷當你穿上這個護符便能阻止它們在你周圍傳送。<BR><BR>控制汙染並將之散播至世界維度邊緣對你身上的護符造成相當大的壓力，它終將分崩離析。
 
 #COMET_BOOTS
 ttresearch.name.COMET_BOOTS=彗星之靴

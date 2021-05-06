@@ -1,4 +1,4 @@
-key.colytra.category=Colytra
+﻿key.colytra.category=Colytra
 key.colytra.toggle.desc=切換鞘翅
 tooltip.colytra.broken=損壞
 toggle.colytra.on=啟用鞘翅
@@ -14,4 +14,4 @@ colytra.general.baubles.baubleslot.tooltip=設定鞘翅將使用飾品欄中的�
 colytra.general.baubles.disablebauble=禁用Bauble
 colytra.general.baubles.disablebauble.tooltip=設置為true來取消使用飾品鞘翅
 colytra.general.separatecolytra=允許鞘翅胸甲分離
-colytra.general.separatecolytra.tooltip=如果為 ture 時將允許鞘翅在工作台中分開，否則為 false
+colytra.general.separatecolytra.tooltip=如果為 ture 時將允許鞘翅在工作檯中分開，否則為 false

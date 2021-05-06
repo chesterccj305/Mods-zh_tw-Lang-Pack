@@ -1,4 +1,4 @@
-container.compost_bin=堆肥箱
+﻿container.compost_bin=堆肥箱
 container.truffle_auction=松露拍賣桌
 container.vivarium=溫室
 container.wood_incubator=木材浸漬機
@@ -37,7 +37,7 @@ item.rockhounding_surface:gypsum_items.bonemeal.name=富集骨粉
 item.rockhounding_surface:gypsum_items.compost.name=有機堆肥
 item.rockhounding_surface:gypsum_items.conditioner.name=土壤調節劑
 item.rockhounding_surface:gypsum_items.gypsum.name=石膏粉
-item.rockhounding_surface:gypsum_items.mesquite_flour.name=豆面粉
+item.rockhounding_surface:gypsum_items.mesquite_flour.name=豆麵粉
 item.rockhounding_surface:gypsum_items.sands_map.name=白沙檢查器
 item.rockhounding_surface:mesquite_flower.name=牧豆花
 item.rockhounding_surface:mesquite_fruit.name=牧豆

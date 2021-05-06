@@ -1,4 +1,4 @@
-death.attack.darkness=%1$s被黑暗吞噬了
+﻿death.attack.darkness=%1$s被黑暗吞噬了
 death.attack.darkness.player=%1$s在與%2$s戰鬥的時候被黑暗所吞噬了
 entity.beneath.hand.name=手
 entity.beneath.shadow.name=陰影

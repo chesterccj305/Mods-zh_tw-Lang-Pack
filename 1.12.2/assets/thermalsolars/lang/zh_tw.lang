@@ -1,4 +1,4 @@
-#Blocks
+﻿#Blocks
 tile.thermalsolars.blocksolarpanel1.name=1 級太陽能板
 tile.thermalsolars.blocksolarpanel2.name=2 級太陽能板
 tile.thermalsolars.blocksolarpanel3.name=3 級太陽能板
@@ -8,7 +8,7 @@ tile.thermalsolars.blocksolarpanel6.name=6 級太陽能板
 tile.thermalsolars.blocksolarpanel101.name=1 級月光太陽能板
 tile.thermalsolars.blocksolarpanel102.name=2 級月光太陽能板
 tile.thermalsolars.blocksolarpanel103.name=3 級月光太陽能板
-tile.thermalsolars.blockenderpanel.name=終界模塊太陽能板
+tile.thermalsolars.blockenderpanel.name=終界模組太陽能板
 tile.thermalsolars.blocktitaniumore.name=鈦礦
 tile.thermalsolars.blocklunarorenether.name=月礦
 tile.thermalsolars.blockenderoreend.name=終界礦

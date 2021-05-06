@@ -1,4 +1,4 @@
-# CREATIVE TAB
+﻿# CREATIVE TAB
 #itemGroup.cucumber=黃瓜
 
 # BLOCKS
@@ -15,4 +15,4 @@ tooltip.cu.back=返回
 tooltip.cu.author=作者：%s
 tooltip.cu.uses_left=使用左側：%s
 
-tooltip.cu.hold_shift_for_info=§7按下 §e§oSHIFT §r§7鍵查看更多信息。
+tooltip.cu.hold_shift_for_info=§7按下 §e§oSHIFT §r§7鍵查看更多資訊。

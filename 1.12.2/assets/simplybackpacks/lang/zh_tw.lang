@@ -1,4 +1,4 @@
-simplybackpacks.shift=請按 <§6§oShift§r> 獲取信息。
+﻿simplybackpacks.shift=請按 <§6§oShift§r> 獲取資訊。
 item.simplybackpacks.commonbackpack.name=普通背包
 item.simplybackpacks.commonbackpack.info=這是一個簡陋的背包
 item.simplybackpacks.commonbackpack.info2=§f 可容納 18 組 §r
@@ -18,4 +18,4 @@ simplybackpacks.autopickupenabled=自動拾取: §a 開啟 §r
 simplybackpacks.autopickupdisabled=自動拾取: §c 禁用 §r
 simplybackpacks.whitelist=白名單
 simplybackpacks.metadata=元數據
-simplybackpacks.nbtdata=NBT 標簽
+simplybackpacks.nbtdata=NBT 標籤

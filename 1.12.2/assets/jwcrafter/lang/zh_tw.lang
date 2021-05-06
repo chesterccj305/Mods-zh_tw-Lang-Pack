@@ -1,7 +1,7 @@
-container.crafter=合成
+﻿container.crafter=合成
 
 itemGroup.jwcrafter=只是合成台
 
-jwcrafter.config.title=只是合成台配置
+jwcrafter.config.title=只是合成台設定
 
 tile.crafter.name=合成

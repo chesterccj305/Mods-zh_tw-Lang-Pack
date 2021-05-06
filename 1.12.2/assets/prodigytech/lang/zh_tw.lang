@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 #----------------------------
 #Creative Tabs
 #----------------------------
@@ -16,13 +16,13 @@ tile.prodigytech.explosion_furnace.tooltip=使用爆炸反應\n來處理物品
 tile.prodigytech.magmatic_aeroheater.name=熔岩氣熱爐
 tile.prodigytech.magmatic_aeroheater.tooltip=通過放置於岩漿上持續生成熱空氣
 tile.prodigytech.solid_fuel_aeroheater.name=固體燃料氣熱爐
-tile.prodigytech.solid_fuel_aeroheater.tooltip=通過熔爐中可燃燒的燃料來生成熱空氣\n通過紅石信號來關閉
+tile.prodigytech.solid_fuel_aeroheater.tooltip=透過熔爐中可燃燒的燃料來生成熱空氣\n透過紅石信號來關閉
 tile.prodigytech.energion_aeroheater.name=能源氣熱爐
-tile.prodigytech.energion_aeroheater.tooltip=通過使用能量粉末來生成熱空氣\n通過紅石信號來關閉
+tile.prodigytech.energion_aeroheater.tooltip=透過使用能量粉末來生成熱空氣\n透過紅石信號來關閉
 tile.prodigytech.tartaric_aeroheater.name=冥界氣熱爐
-tile.prodigytech.tartaric_aeroheater.tooltip=通過熔爐中可燃燒的燃料和冥燃粉來生成相當高溫的空氣\n升溫的時候消耗燃料更快\n通過紅石信號來關閉
+tile.prodigytech.tartaric_aeroheater.tooltip=透過熔爐中可燃燒的燃料和冥燃粉來生成相當高溫的空氣\n升溫的時候消耗燃料更快\n透過紅石信號來關閉
 tile.prodigytech.capacitor_aeroheater.name=熱容器氣熱爐
-tile.prodigytech.capacitor_aeroheater.tooltip=從熱容器中釋放熱空氣\n升溫和降溫都非常快\n通過紅石信號來關閉
+tile.prodigytech.capacitor_aeroheater.tooltip=從熱容器中釋放熱空氣\n升溫和降溫都非常快\n透過紅石信號來關閉
 
 #Heat
 tile.prodigytech.incinerator.name=焚化爐
@@ -33,7 +33,7 @@ tile.prodigytech.rotary_grinder.name=旋轉粉碎機
 tile.prodigytech.rotary_grinder.tooltip=碾碎物品
 tile.prodigytech.heat_sawmill.name=熱力鋸木機
 tile.prodigytech.heat_sawmill.tooltip=比用手鋸木頭更加高效
-tile.prodigytech.food_purifier.name=食物凈化機
+tile.prodigytech.food_purifier.name=食物淨化機
 tile.prodigytech.food_purifier.tooltip=從食物中移除副作用，當然正面狀態也會被去除
 
 tile.prodigytech.solderer.name=焊機
@@ -45,35 +45,35 @@ tile.prodigytech.magnetic_reassembler.tooltip=使粒子重新組合在一起
 tile.prodigytech.ore_refinery.name=礦石精煉機
 tile.prodigytech.ore_refinery.tooltip=處理礦石又快又好
 tile.prodigytech.automatic_crystal_cutter.name=晶體自動切割機
-tile.prodigytech.automatic_crystal_cutter.tooltip=自動采集機器面前的能量晶體
+tile.prodigytech.automatic_crystal_cutter.tooltip=自動採集機器面前的能量晶體
 tile.prodigytech.capacitor_charger.name=蓄熱器
 tile.prodigytech.capacitor_charger.tooltip=給熱容器注入熱能
 tile.prodigytech.fuel_processor.name=燃料加工機
 tile.prodigytech.fuel_processor.tooltip=把熔爐燃料打碎壓縮成燃料丸
 tile.prodigytech.food_enricher.name=食物富集機
-tile.prodigytech.food_enricher.tooltip=讓凈化的食物更加有營養，濃縮才是精華
+tile.prodigytech.food_enricher.tooltip=讓淨化的食物更加有營養，濃縮才是精華
 
 #Energion
 tile.prodigytech.primordialis_reactor.name=原基反應器
 tile.prodigytech.primordialis_reactor.tooltip=把種植的作物轉化成原基\n混合使用多種作物來增加效率
 tile.prodigytech.atomic_reshaper.name=原子重塑機
-tile.prodigytech.atomic_reshaper.tooltip=通過使用原基\n來把一個物質轉化成另一個物質
+tile.prodigytech.atomic_reshaper.tooltip=透過使用原基\n來把一個物質轉化成另一個物質
 tile.prodigytech.zorra_altar.name=佐拉祭壇
 tile.prodigytech.zorra_altar.tooltip=為佐拉鋼的裝備\n應用或者升級附魔
 
 #Logistics
 #Funnels
 tile.prodigytech.air_funnel.name=空氣管道
-tile.prodigytech.air_funnel.tooltip=傳輸熱空氣\n通過紅石信號來關閉
+tile.prodigytech.air_funnel.tooltip=傳輸熱空氣\n透過紅石信號來關閉
 tile.prodigytech.wormhole_funnel.name=蟲洞管道
 tile.prodigytech.wormhole_funnel.tooltip=傳送到另一個蟲洞管道中\n使用蟲洞連接器來連接\n右鍵點擊可查看已連接的管道
 #Extractors
 tile.prodigytech.linear_extractor.name=線性提取器
-tile.prodigytech.linear_extractor.tooltip=從機器前面的容器中抽取\n然後輸入到另一面的容器中\n通過紅石信號來關閉
+tile.prodigytech.linear_extractor.tooltip=從機器前面的容器中抽取\n然後輸入到另一面的容器中\n透過紅石信號來關閉
 tile.prodigytech.funnelling_extractor.name=漏斗型提取器
-tile.prodigytech.funnelling_extractor.tooltip=從每個面中的容器提取物品\n然後往前輸出\n通過紅石信號來關閉
+tile.prodigytech.funnelling_extractor.tooltip=從每個面中的容器提取物品\n然後往前輸出\n透過紅石信號來關閉
 tile.prodigytech.dispersing_extractor.name=分散型提取器
-tile.prodigytech.dispersing_extractor.tooltip=從正面的容器中提取物品\n然後向其他的所有面循環輸出\n通過紅石信號來關閉
+tile.prodigytech.dispersing_extractor.tooltip=從正面的容器中提取物品\n然後向其他的所有面循環輸出\n透過紅石信號來關閉
 
 #Zorra
 tile.prodigytech.zorra_log.name=佐拉樹原木
@@ -103,7 +103,7 @@ item.prodigytech.ferramic_ingot.name=瓷鐵錠
 item.prodigytech.ferramic_nugget.name=瓷鐵粒
 item.prodigytech.ferramic_gear.name=瓷鐵齒輪
 item.prodigytech.ash.name=灰
-item.prodigytech.purified_food.name=凈化的食物
+item.prodigytech.purified_food.name=淨化的食物
 item.prodigytech.purified_food.tooltip=飽食度：%d\n營養值：%.2f
 item.prodigytech.coal_dust.name=煤粉
 item.prodigytech.ferramic_dust.name=瓷鐵粉
@@ -114,8 +114,8 @@ item.prodigytech.gold_dust.name=金粉
 item.prodigytech.gold_dust_tiny.name=小撮金粉
 item.prodigytech.diamond_dust.name=鑽石粉
 item.prodigytech.emerald_dust.name=綠寶石粉
-item.prodigytech.quartz_dust.name=下界石英粉
-item.prodigytech.flour.name=面粉
+item.prodigytech.quartz_dust.name=地獄石英粉
+item.prodigytech.flour.name=麵粉
 item.prodigytech.meat_ground.name=肉餡
 item.prodigytech.meat_patty.name=肉餅
 item.prodigytech.sawdust.name=鋸屑
@@ -127,11 +127,11 @@ item.prodigytech.sugar_cube.name=方糖
 
 item.prodigytech.circuit_plate.name=電路板
 item.prodigytech.circuit_crude.name=粗糙電路
-item.prodigytech.circuit_refined.name=精致電路
+item.prodigytech.circuit_refined.name=精緻電路
 item.prodigytech.circuit_perfected.name=完美電路
 
 item.prodigytech.pattern_circuit_crude.name=粗糙電路模板
-item.prodigytech.pattern_circuit_refined.name=精致電路模板
+item.prodigytech.pattern_circuit_refined.name=精緻電路模板
 item.prodigytech.pattern_circuit_perfected.name=完美電路模板
 
 item.prodigytech.heat_capacitor_0.name=125°C 熱容器
@@ -151,7 +151,7 @@ item.prodigytech.energion_crystal_seed.tooltip=能被直接種植在地面上\n�
 item.prodigytech.energion_dust.name=能量粉
 
 item.prodigytech.primordium.name=原基
-item.prodigytech.aeternus_crystal.name=永恒晶體
+item.prodigytech.aeternus_crystal.name=永恆晶體
 
 
 item.prodigytech.zorra_leaf.name=佐拉葉片
@@ -162,7 +162,7 @@ item.prodigytech.tartaric_stoker.tooltip=是冥界氣熱爐的第二個燃料
 
 #Tools
 item.prodigytech.crystal_cutter.name=晶體切割器
-item.prodigytech.crystal_cutter.tooltip=能夠安全地采集生長的能量晶體\n右擊能夠只采集生長好的晶體
+item.prodigytech.crystal_cutter.tooltip=能夠安全地採集生長的能量晶體\n右擊能夠只採集生長好的晶體
 item.prodigytech.wormhole_linker.name=蟲洞連接器
 item.prodigytech.wormhole_linker.tooltip=把蟲洞管道連接在一起\n右擊其中一個然後再右擊另一個即可完成連接
 item.prodigytech.wormhole_linker.tooltip.linking=連接中
@@ -174,7 +174,7 @@ item.prodigytech.zorrasteel_handbow.name=佐拉鋼手弓
 #----------------------------
 #UI
 #----------------------------
-tooltip.prodigytech.shift=§7按下 §fSHIFT§7 查看信息§r
+tooltip.prodigytech.shift=§7按下 §fSHIFT§7 查看資訊§r
 tooltip.prodigytech.temperature.max=§6最高溫度：§f %d°C§r
 tooltip.prodigytech.temperature.max.variable=§6最高溫度：§f可變的§r
 tooltip.prodigytech.temperature.min=§6最低溫度：§f %d°C§r
@@ -191,7 +191,7 @@ container.prodigytech.incinerator=焚化爐
 container.prodigytech.blower_furnace=烘烤爐
 container.prodigytech.rotary_grinder=旋轉粉碎機
 container.prodigytech.heat_sawmill=熱力鋸木機
-container.prodigytech.food_purifier=食品凈化機
+container.prodigytech.food_purifier=食品淨化機
 
 container.prodigytech.solderer=焊機
 
@@ -252,15 +252,15 @@ container.prodigytech.jei.ptrefinery=礦石精煉機
 container.prodigytech.jei.ptfuelprocessor=燃料加工機
 container.prodigytech.jei.ptprimordialis=原基反應器
 container.prodigytech.jei.ptreshaper=原子重塑機
-container.prodigytech.jei.ptreshaper.chance=概率：%d%%
-container.prodigytech.jei.ptreshaper.chance.low=概率：< 1%%
+container.prodigytech.jei.ptreshaper.chance=機率：%d%%
+container.prodigytech.jei.ptreshaper.chance.low=機率：< 1%%
 
 #----------------------------
 #Advancements
 #----------------------------
 #Main line
 advancements.prodigytech.main.root.title=奇才妙械
-advancements.prodigytech.main.root.description=奇跡在等你
+advancements.prodigytech.main.root.description=奇蹟在等你
 advancements.prodigytech.main.guide.title=閱讀使你變得更強
 advancements.prodigytech.main.guide.description=用一本書和沙子做出奇才妙械手冊
 advancements.prodigytech.main.explosion_furnace.title=這是一個真的會爆炸的熔爐
@@ -276,7 +276,7 @@ advancements.prodigytech.main.energion_aeroheater.description=做一個能源氣
 advancements.prodigytech.main.primordium.title=（差不多的）UU物質
 advancements.prodigytech.main.primordium.description=做一個原基反應器來製作原基，以及一個原子重塑機來使用它
 advancements.prodigytech.main.zorra_leaf.title=如刀鋒一樣鋒利
-advancements.prodigytech.main.zorra_leaf.description=重塑一個樹苗讓他變成佐拉樹苗，然後再采集他的葉片來製作佐拉鋼
+advancements.prodigytech.main.zorra_leaf.description=重塑一個樹苗讓他變成佐拉樹苗，然後再採集他的葉片來製作佐拉鋼
 advancements.prodigytech.main.tartaric_aeroheater.title=焮天鑠地
 advancements.prodigytech.main.tartaric_aeroheater.description=做一個冥界氣熱爐
 advancements.prodigytech.main.zorra_altar.title=感受寧靜
@@ -302,4 +302,4 @@ advancements.prodigytech.main.fuel_pellet_64.description=把64個燃料丸合成
 #Guide
 #----------------------------
 guide.prodigytech.title=奇才妙械手冊
-guide.prodigytech.landing=歡迎來到這個充滿奇跡和天才的時代！奇才妙械將會帶領你探索無數的革新機械和科技。當你在完成這Mod的成就時，這書裏的各個項目將會逐漸解鎖。
+guide.prodigytech.landing=歡迎來到這個充滿奇蹟和天才的時代！奇才妙械將會帶領你探索無數的革新機械和科技。當你在完成這Mod的成就時，這書裡的各個項目將會逐漸解鎖。

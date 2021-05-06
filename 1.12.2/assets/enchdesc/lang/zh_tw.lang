@@ -1,4 +1,4 @@
-#Enchantment Descriptions 附魔說明繁體中文檔
+﻿#Enchantment Descriptions 附魔說明繁體中文件
 
 #Enchantment Tooltip
 tooltip.enchdesc.name=附魔
@@ -22,7 +22,7 @@ enchantment.minecraft.frost_walker.desc=在水上行走時會產生霜冰。
 enchantment.minecraft.infinity.desc=射箭不會消耗箭矢（但是要保證物品欄內至少有一根箭）。
 enchantment.minecraft.knockback.desc=增加擊退的距離。
 enchantment.minecraft.looting.desc=生物死亡時能掉落更多物品。
-enchantment.minecraft.luck_of_the_sea.desc=降低釣到垃圾的幾率。
+enchantment.minecraft.luck_of_the_sea.desc=降低釣到垃圾的機率。
 enchantment.minecraft.lure.desc=減少釣魚的等待時間。
 enchantment.minecraft.mending.desc=用經驗來修補工具和護甲的耐久值。
 enchantment.minecraft.power.desc=增加弓箭造成的傷害。
@@ -43,12 +43,10 @@ enchantment.endercore.autosmelt.desc=挖掘的物品將以它們燒製後的狀�
 enchantment.endercore.xpboost.desc=生物死亡時掉落更多經驗值。
 
 #Extra Utilities 2
-enchantment.extrautils2.xu.bladerang.desc=提高回旋鏢的傷害值。
-enchantment.extrautils2.xu.burnerang.desc=回旋鏢造成火焰傷害。
-enchantment.extrautils2.xu.kaboomerang.desc=回旋鏢能打破或收獲方塊。
-enchantment.extrautils2.xu.zoomerang.desc=回旋鏢移動更快。
+enchantment.extrautils2.xu.bladerang.desc=提高迴旋鏢的傷害值。
+enchantment.extrautils2.xu.burnerang.desc=迴旋鏢造成火焰傷害。
+enchantment.extrautils2.xu.kaboomerang.desc=迴旋鏢能打破或收穫方塊。
+enchantment.extrautils2.xu.zoomerang.desc=迴旋鏢移動更快。
 
 #Random Things
 enchantment.randomthings.magnetic.desc=擁有磁性附魔的工具，挖掘出的掉落物將直接進入你的物品欄，而不是落在地上。
-
-

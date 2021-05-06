@@ -1,4 +1,4 @@
-# Items
+﻿# Items
 item.heart.name=愛心
 item.beer.name=啤酒
 item.iron_hammer.hammer=鐵匠鐵鎚
@@ -22,7 +22,7 @@ item.prof_miner.name=職業-礦工
 item.prof_rancher.name=職業-牧場主
 item.prof_teacher.name=職業-教師
 item.prof_nitwit.name=職業-傻子
-item.prof_nomad.name=職業-游牧人
+item.prof_nomad.name=職業-遊牧人
 item.prof_captain.name=職業-隊長
 item.structure_tavern.name=區域-酒吧
 item.structure_townhall.name=區域-市政廳
@@ -47,7 +47,7 @@ item.tipped_arrow.effect.tektopia:village_bless.name=村民祝福之箭
 effect.village_bless.name=村民的祝福
 
 # Generated this string from an online book generator like https://minecraft.tools/en/book.php
-starter_book.nbt={pages:["[\"\",{\"text\":\"歡迎來到TekTopia!\",\"color\":\"red\"},{\"text\":\"\\n\\nTekTopia是一個大型村莊模組，擁有20多種村民職業和18種  不同的建築，可以讓你的村莊更多采多姿!\\n \",\"color\":\"reset\"}]","[\"\",{\"text\":\"在開始遊玩TekTopia之前請來看看我們的Wiki來了解如何經營村莊\\n\\n\"},{\"text\":\"  \",\"bold\":true,\"color\":\"red\"},{\"text\":\"點擊這裡開始!\",\"bold\":true,\"underlined\":true,\"color\":\"red\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://sites.google.com/view/tektopia/home/getting-started\"}},{\"text\":\"\\n\\n(相信我，這會比看書簡單)\",\"color\":\"reset\"}]"],title:"TekTopia新手指導",author:Tango,display:{Lore:["歡迎來到TekTopia!"]}}
+starter_book.nbt={pages:["[\"\",{\"text\":\"歡迎來到TekTopia!\",\"color\":\"red\"},{\"text\":\"\\n\\nTekTopia是一個大型村莊模組，擁有20多種村民職業和18種  不同的建築，可以讓你的村莊更多彩多姿!\\n \",\"color\":\"reset\"}]","[\"\",{\"text\":\"在開始遊玩TekTopia之前請來看看我們的Wiki來了解如何經營村莊\\n\\n\"},{\"text\":\"  \",\"bold\":true,\"color\":\"red\"},{\"text\":\"點擊這裡開始!\",\"bold\":true,\"underlined\":true,\"color\":\"red\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://sites.google.com/view/tektopia/home/getting-started\"}},{\"text\":\"\\n\\n(相信我，這會比看書簡單)\",\"color\":\"reset\"}]"],title:"TekTopia新手指導",author:Tango,display:{Lore:["歡迎來到TekTopia!"]}}
 
 
 
@@ -294,7 +294,7 @@ entity.Miner.name=礦工
 entity.Rancher.name=牧場主
 entity.Teacher.name=教師
 entity.Captain.name=隊長
-entity.Nomad.name=游牧人
+entity.Nomad.name=遊牧人
 entity.Tradesman.name=轉職商人
 
 entity.necromancer=死靈

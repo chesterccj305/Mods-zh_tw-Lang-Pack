@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 mobtotems.GuideBook.title=古老的知識
 mobtotems.text.guide.baubles_category_name=飾品
 mobtotems.text.guide.carving_knife_entry_name=雕刻刀
@@ -13,7 +13,7 @@ mobtotems.text.guide.offering_box_page_4=一個完成的3層的高圖騰
 mobtotems.text.guide.offering_box_page_5=物品將轉換為能量
 mobtotems.text.guide.sacred_light_entry_name=聖光圖騰
 mobtotems.text.guide.sacred_light_example=一個完整的圖騰與上面的聖光圖騰
-mobtotems.text.guide.sacred_light_page_1=把一個聖光圖騰放置在一個完整的圖騰上使其充滿能量，聖光圖騰會使圖騰的作用範圍內不會刷怪\n\n（有一個配置文件，可以設置將其的合成配方變得更容易）
+mobtotems.text.guide.sacred_light_page_1=把一個聖光圖騰放置在一個完整的圖騰上使其充滿能量，聖光圖騰會使圖騰的作用範圍內不會刷怪\n\n（有一個設定文件，可以設置將其的合成配方變得更容易）
 mobtotems.text.guide.totem_type_page_name_10=兔（圖騰附加效果）
 mobtotems.text.guide.totem_type_page_name_1=苦力怕（直接效果）
 mobtotems.text.guide.totem_type_page_name_2=終界（直接效果）
@@ -27,11 +27,11 @@ mobtotems.text.guide.totem_type_page_name_9=羊駝（圖騰附加效果）
 mobtotems.text.guide.totem_types_category_name=圖騰類型
 mobtotems.text.guide.totem_types_page_10=你的整個圖騰柱中的每個兔圖騰會將圖騰效果的觸發間隔速度提高1/4秒。
 mobtotems.text.guide.totem_types_page_1=苦力怕圖騰會阻止怪物（主動攻擊型生物）生成\n\n範圍：32\n速度：N/A\n傷害：N/A
-mobtotems.text.guide.totem_types_page_2=如果終界使者在這個圖騰作用範圍內傳送，那麽它們會被強制傳送到這個圖騰旁邊\n\n範圍：32\n速度：N/A\n傷害：N/A
+mobtotems.text.guide.totem_types_page_2=如果終界使者在這個圖騰作用範圍內傳送，那麼它們會被強制傳送到這個圖騰旁邊\n\n範圍：32\n速度：N/A\n傷害：N/A
 mobtotems.text.guide.totem_types_page_3=在烈焰圖騰作用範圍內的怪物會著火\n\n範圍:32\n速度：1秒\n傷害：0
 mobtotems.text.guide.totem_types_page_4=蜘蛛圖騰作用範圍內的怪物會中毒\n\n範圍:32\n速度：1秒\n傷害：1
 mobtotems.text.guide.totem_types_page_5=牛圖騰的作用範圍內不會生成動物（被動生物）\n\n範圍：32\n速度：N/A\n傷害：N/A
-mobtotems.text.guide.totem_types_page_6=（註：此圖騰尚未製作完成）\n\n幽靈狼圖騰會產生一只幽靈狼來對抗圖騰作用範圍內的怪物，它限制在圖騰範圍內\n\n範圍:32\n速度：N/A\n傷害：4
+mobtotems.text.guide.totem_types_page_6=（註：此圖騰尚未製作完成）\n\n幽靈狼圖騰會產生一隻幽靈狼來對抗圖騰作用範圍內的怪物，它限制在圖騰範圍內\n\n範圍:32\n速度：N/A\n傷害：4
 mobtotems.text.guide.totem_types_page_7=你的整個圖騰柱中的每個豹貓圖騰都會將你的圖騰效果的範圍增加16
 mobtotems.text.guide.totem_types_page_8=你的整個圖騰柱中的每個女巫圖騰都會將你的圖騰效果的範圍減小16
 mobtotems.text.guide.totem_types_page_9=你的整個圖騰柱中的每個羊駝圖騰都會對圖騰的效果影響的目標增加2點傷害。
@@ -41,5 +41,5 @@ mobtotems.text.guide.totems_category_name=圖騰
 mobtotems.text.guide.welcome=怪物圖騰
 mobtotems.text.guide.wolf_bauble_entry_name=狼圖騰項鏈
 mobtotems.text.guide.wolf_bauble_page_1=如果你安裝了Baubles mod，你可以使用新的狼圖騰項鏈護身符召喚幽靈狼在你身邊戰鬥。\n\n預設情況下，按“h”鍵啟用物品
-mobtotems.text.guide.wolf_bauble_page_2=想要召喚幽靈狼，你的項鏈需要充能\n\n這個情況下便需要熏香盒
-mobtotems.text.guide.wolf_bauble_page_3=如果你站在熏香盒附近，項鏈將會被充能，可以通過按'h'鍵啟用\n\n熏香盒會燃燒，很快便會消失，所以不要浪費它們。
+mobtotems.text.guide.wolf_bauble_page_2=想要召喚幽靈狼，你的項鏈需要充能\n\n這個情況下便需要薰香盒
+mobtotems.text.guide.wolf_bauble_page_3=如果你站在薰香盒附近，項鏈將會被充能，可以透過按'h'鍵啟用\n\n薰香盒會燃燒，很快便會消失，所以不要浪費它們。

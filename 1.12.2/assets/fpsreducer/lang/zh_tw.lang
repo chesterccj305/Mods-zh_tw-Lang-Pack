@@ -1,4 +1,4 @@
-FpsReducer.key.guiOpen=打開配置GUI
+﻿FpsReducer.key.guiOpen=打開設定GUI
 
 key.categories.FpsReducer=FPS減速機
 
@@ -23,7 +23,7 @@ fpsreducer.config.menu.waitingTimeSec=等候時間（秒）
 fpsreducer.config.menu.waitingTime=等候時間 (分:秒)
 fpsreducer.config.menu.idleFPS=閒置FPS
 fpsreducer.config.menu.returnToGame=完成
-fpsreducer.config.playerConfig=玩家配置
-fpsreducer.config.globalConfig=全局配置
+fpsreducer.config.playerConfig=玩家設定
+fpsreducer.config.globalConfig=全局設定
 fpsreducer.config.ON=開
 fpsreducer.config.OFF=關

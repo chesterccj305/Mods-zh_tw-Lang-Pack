@@ -1,4 +1,4 @@
-
+﻿
 spell.extra_spells:time_manipulator=時間操縱者
 spell.extra_spells:time_manipulator.desc=時間操縱者
 spell.extra_spells:time_manipulator.night=黑夜即將降臨...
@@ -35,7 +35,7 @@ spell.extra_spells:magic_shield.desc=保護施咒者
 spell.extra_spells:return=返回
 spell.extra_spells:return.desc=將施咒者傳送回施咒者的床旁邊
 spell.extra_spells:time_travel=時間旅行
-spell.extra_spells:time_travel.desc=時間旅行。還有什麽要說的?
+spell.extra_spells:time_travel.desc=時間旅行。還有什麼要說的?
 spell.extra_spells:pacifism=和平主義
 spell.extra_spells:pacifism.desc=放緩他們
 spell.extra_spells:photosynthesis=光合作用

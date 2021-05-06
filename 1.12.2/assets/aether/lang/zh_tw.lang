@@ -1,4 +1,4 @@
-# Aether Blocks
+﻿# Aether Blocks
 tile.aether.aether_dirt.dirt.name=天壤
 tile.aether.aether_dirt.coarse_dirt.name=粗天壤
 tile.aether.aether_grass.normal.name=空葉草方塊
@@ -41,9 +41,9 @@ tile.aether.tall_aether_grass.normal.name=空葉草叢
 tile.aether.tall_aether_grass.long.name=高空葉草
 tile.aether.quicksoil.name=速沙
 tile.aether.ferrosite_sand.name=磁沙
-tile.aether.aether_crafting_table.name=天根工作台
-tile.aether.skyroot_trapdoor.name=天根木活板門
-tile.aether.secret_skyroot_trapdoor.name=偽裝天根木活板門
+tile.aether.aether_crafting_table.name=天根工作檯
+tile.aether.skyroot_trapdoor.name=天根木暗門
+tile.aether.secret_skyroot_trapdoor.name=偽裝天根木暗門
 tile.aether.skyroot_ladder.name=天根木梯
 tile.aether.skyroot_pressure_plate.name=天根木壓力板
 tile.aether.wisproot_pressure_plate.name=天纖木壓力板
@@ -258,7 +258,7 @@ tile.aether.therawood_decorative.highlight.name=細紋
 tile.aether.therawood_decorative.top_planks.name=頂板
 tile.aether.therawood_decorative.top_beam.name=頂梁
 tile.aether.therawood_decorative.floorboards.name=地板
-tile.aether.therawood_beam.name=坻星木樑
+tile.aether.therawood_beam.name=坻星木梁
 tile.aether.therawood_log.name=坻星原木
 tile.aether.therawood_leaves.name=坻星樹葉
 tile.aether.skyroot_planks.name=天根木板
@@ -271,7 +271,7 @@ tile.aether.skyroot_decorative.top_beam.name=頂梁
 tile.aether.skyroot_decorative.floorboards.name=地板
 tile.aether.skyroot_decorative.tiles.name=木瓦
 tile.aether.skyroot_decorative.tiles_small.name=細木瓦
-tile.aether.skyroot_beam.name=天根木樑
+tile.aether.skyroot_beam.name=天根木梁
 tile.aether.dark_skyroot_planks.name=天碩木板
 tile.aether.dark_skyroot_decorative.name=飾紋天碩木板
 tile.aether.dark_skyroot_decorative.base_planks.name=木板
@@ -282,7 +282,7 @@ tile.aether.dark_skyroot_decorative.top_beam.name=頂梁
 tile.aether.dark_skyroot_decorative.floorboards.name=木地板
 tile.aether.dark_skyroot_decorative.tiles.name=木瓦
 tile.aether.dark_skyroot_decorative.tiles_small.name=細木瓦
-tile.aether.dark_skyroot_beam.name=天碩木樑
+tile.aether.dark_skyroot_beam.name=天碩木梁
 tile.aether.light_skyroot_planks.name=天纖木板
 tile.aether.light_skyroot_decorative.name=飾紋天纖木板
 tile.aether.light_skyroot_decorative.base_planks.name=木板
@@ -293,7 +293,7 @@ tile.aether.light_skyroot_decorative.top_beam.name=頂梁
 tile.aether.light_skyroot_decorative.floorboards.name=木地板
 tile.aether.light_skyroot_decorative.tiles.name=木瓦
 tile.aether.light_skyroot_decorative.tiles_small.name=細木瓦
-tile.aether.light_skyroot_beam.name=天纖木樑
+tile.aether.light_skyroot_beam.name=天纖木梁
 tile.aether.quicksoil_glass_pane.name=速沙玻璃板
 tile.aether.quicksoil_glass_pane_decorative.name=鑲框速沙玻璃板
 tile.aether.quicksoil_glass_pane_decorative.arkenium_frame.name=阿肯鋼邊框
@@ -320,7 +320,7 @@ tile.aether.aether_teleporter.name=天境之門
 tile.aether.thera_dirt.dirt.name=坻星土
 tile.aether.thera_grass.normal.name=坻星草方塊
 tile.aether.ferrosite.name=磁岩
-tile.aether.rusted_ferrosite.name=銹磁岩
+tile.aether.rusted_ferrosite.name=鏽磁岩
 tile.aether.highlands_snow.name=空原雪
 tile.aether.highlands_snow_layer.name=空原雪
 tile.aether.highlands_ice.name=空原冰
@@ -504,11 +504,11 @@ item.aether.taegore_hide.name=探戈毛皮
 item.aether.burrukai_rib_cut.name=布魯牛肋
 item.aether.burrukai_ribs.name=布魯烤肋
 item.aether.burrukai_pelt.name=布魯牛皮
-item.aether.kirrid_loin.name=科里后腰
-item.aether.kirrid_cutlet.name=科里羊排
+item.aether.kirrid_loin.name=科裡後腰
+item.aether.kirrid_cutlet.name=科裡羊排
 item.aether.valkyrie_wings.name=武神草穗
 item.aether.brettl_cane.name=布雷特蔗
-item.aether.brettl_grass.name=布雷特干草
+item.aether.brettl_grass.name=布雷特乾草
 item.aether.wrapping_paper.bow.black.name=黑色蝴蝶結
 item.aether.wrapping_paper.bow.red.name=紅色蝴蝶結
 item.aether.wrapping_paper.bow.green.name=綠色蝴蝶結
@@ -537,7 +537,7 @@ item.aether.wrapping_paper.box.light_blue.name=淺藍禮物盒
 item.aether.wrapping_paper.box.magenta.name=品紅禮物盒
 item.aether.wrapping_paper.box.orange.name=橙色禮物盒
 item.aether.wrapping_paper.box.white.name=白色禮物盒
-item.aether.wrapping_paper.tooltip.craft=在工作台上把物品包裝起來！
+item.aether.wrapping_paper.tooltip.craft=在工作檯上把物品包裝起來！
 item.aether.present.tooltip.empty=空
 item.aether.present.tooltip.hasitem=裡面有神秘的小驚喜哦！
 
@@ -676,7 +676,7 @@ entity.aether.aechor_plant.name=箭毒花
 entity.aether.aerbunny.name=天躍兔
 entity.aether.carrion_sprout.name=食腐苗
 entity.aether.cockatrice.name=雞蛇
-entity.aether.kirrid.name=科里雲羊
+entity.aether.kirrid.name=科裡雲羊
 entity.aether.moa.name=恐鳥
 entity.aether.aerwhale.name=雲鯨
 entity.aether.zephyr.name=西風嘯雲
@@ -684,7 +684,7 @@ entity.aether.tempest.name=風暴怒雲
 entity.aether.taegore.name=探戈野豬
 entity.aether.detonation_sentry.name=爆破哨石
 entity.aether.battle_sentry.name=戰鬥哨石
-entity.aether.tracking_sentry.name=追踪哨石
+entity.aether.tracking_sentry.name=追蹤哨石
 entity.aether.chest_mimic.name=擬箱怪
 entity.aether.battle_golem.name=戰爭魔像
 entity.aether.swet.name=史維特
@@ -708,11 +708,11 @@ entity.aether.burrukai.name=布魯犛牛
 entity.aether.necromancer.name=巫魂
 entity.aether.josediya.name=喬瑟迪婭
 entity.aether.tivalier.name=泰瓦爾
-entity.aether.icehog.name=冰川刺猬
+entity.aether.icehog.name=冰川刺蝟
 entity.aether.mysterious_figure.name=神秘人
 entity.aether.varanys.name=冰穴巨蜥
 entity.aether.skyroot_lizard.name=天根樹蜥
-entity.aether.glactrix.name=冰川刺猬
+entity.aether.glactrix.name=冰川刺蝟
 entity.aether.sheepuff.name=雲跳羊
 
 # Creative Tabs
@@ -753,7 +753,7 @@ subtitles.aether.portal.glowstone.trigger=傳送門:活動
 subtitles.aether.portal.glowstone.travel=傳送門:傳送
 subtitles.aether.portal.labyrinth_totem.drone=圖騰:嗡鳴
 subtitles.aether.portal.labyrinth_totem.woosh=圖騰:呼嘯
-subtitles.aether.block.aercloud.bounce=境雲:反沖
+subtitles.aether.block.aercloud.bounce=境雲:反衝
 subtitles.aether.mob.aerbunny.ambient=天躍兔:吱吱
 subtitles.aether.mob.aerbunny.hurt=天躍兔:受傷
 subtitles.aether.mob.aerbunny.death=天躍兔:死亡
@@ -770,7 +770,7 @@ subtitles.aether.mob.tempest.angry=風暴怒雲:聚能
 subtitles.aether.mob.tempest.electric_shock=風暴怒雲:雷擊
 subtitles.aether.mob.zephyr.ambient=西風嘯雲:呼嘯
 subtitles.aether.mob.zephyr.puff=西風嘯雲:呼氣
-subtitles.aether.mob.tracking_sentry.alarm=跟踪哨石:警報
+subtitles.aether.mob.tracking_sentry.alarm=跟蹤哨石:警報
 subtitles.aether.mob.sentry.ambient=哨石:低吼
 subtitles.aether.mob.sentry.hurt=哨石:受傷
 subtitles.aether.mob.sentry.death=哨石:死亡
@@ -781,9 +781,9 @@ subtitles.aether.random.detonate=炸藥:爆炸
 subtitles.aether.random.dart_shooter.fire=吹箭筒:發射
 subtitles.aether.mob.moa.ambient=恐鳥:鳴叫
 subtitles.aether.mob.moa.hurt=恐鳥:受傷
-subtitles.aether.mob.kirrid.ambient=科里雲羊:咩咩
-subtitles.aether.mob.kirrid.hurt=科里雲羊:受傷
-subtitles.aether.mob.kirrid.death=科里雲羊:死亡
+subtitles.aether.mob.kirrid.ambient=科裡雲羊:咩咩
+subtitles.aether.mob.kirrid.hurt=科裡雲羊:受傷
+subtitles.aether.mob.kirrid.death=科裡雲羊:死亡
 subtitles.aether.mob.taegore.ambient=探戈野豬:響鼻
 subtitles.aether.mob.taegore.hurt=探戈野豬:受傷
 subtitles.aether.mob.taegore.death=探戈野豬:死亡
@@ -867,7 +867,7 @@ statusEffect.aether.toxin=毒素
 
 intro.prologue=在那位孤獨的勇士擊敗殘暴的烈陽巨靈卡爾圖爾的二百年後，一位新的旅行者來到了天境……
 intro.tip1=免責聲明:\n\n此版本仍未完成，BUG賊多\n\n空原的正式版本發布日期未定。 \n\n若不希望獲得較差的遊戲體驗，我們強烈建議您等待官方正式版。 \n\n很多生物——包括試驗性的——都暫未添加。我們以測試和嚐鮮為目的發布這一開發中版本。
-intro.tip2=本模組仍未加入地下城。我們仍在設計開發相關的技術工具，這一技術工具模組被命名為Orbis。將相關內容加入模組是需要花費時間的。現階段你可以體驗到的內容以探索新的生物群系和地形為主，還可以欣賞我們的藝術作品和新近構建的模型。
+intro.tip2=本模組仍未加入地下城。我們仍在設計開發相關的技術工具，這一技術工具模組被命名為Orbis。將相關內容加入模組是需要花費時間的。現階段你可以體驗到的內容以探索新的生態域和地形為主，還可以欣賞我們的藝術作品和新近構建的模型。
 intro.tip3=你將前往的世界將從背景、時間和空間三個方面與主世界完全分開……
 intro.tip4=開始旅程？
 intro.holdToSkip=點擊跳過
@@ -956,7 +956,7 @@ tab.guidebook.equipment=裝備
 tab.guidebook.status=身分
 tab.guidebook.loretome=天境傳說
 tab.guidebook.discovery=發現
-tab.bug_report=漏洞反饋
+tab.bug_report=漏洞回饋
 tab.backpack.name=背包
 tab.patron_rewards=贊助獎勵
 
@@ -966,20 +966,20 @@ chat.aether.resurrected=不死英靈讓它的主人%s起死回生了！
 # In Development Menu
 indev.button=來吧!
 indev.line1=心急如焚的玩家，你好！
-indev.line2=感謝您對本模組的關注！在繼續遊戲之前，我們先講清楚一點事情。你正游玩的天境版本是個開發中的預覽版。也就是說你可能遇見某些嚴重的問題，比如：
+indev.line2=感謝您對本模組的關注！在繼續遊戲之前，我們先講清楚一點事情。你正遊玩的天境版本是個開發中的預覽版。也就是說你可能遇見某些嚴重的問題，比如：
 indev.line3=世界錯誤與崩潰
-indev.line4=生物丟失材質和模型
+indev.line4=生物遺失材質和模型
 indev.line5=遊戲損壞
 indev.line6=最重要的，成噸的Bug！
 indev.line7=歡迎試玩天境二的預覽版，而我們誠摯地希望您在我們開發的過程中給予我們耐心和支持。
 indev.line8=點擊下方的按鈕，也就表明您了解了以上事項，要是您的遊戲長出腿帶著您的咖啡跑了，可不要怪在我們的頭上哦。
 
 # Bug Report Menu
-bug_report.button=打開Issue追踪器
+bug_report.button=打開Issue追蹤器
 bug_report.line1=你好，又見面了！
-bug_report.line2=遇到什麼問題了嗎？如果是的，請使用Issue追踪器幫助我們優化天境二！
-bug_report.line3=想要反饋Bug或是其它問題，Issue無疑是最合適的手段，它架起了普通用戶和開發者或志願者之間的橋樑。
-bug_report.line4=點擊下方按鈕即可打開我們的Issue追踪網址。馬上註冊，一起清理天境二的Bug吧！
+bug_report.line2=遇到什麼問題了嗎？如果是的，請使用Issue追蹤器幫助我們最佳化天境二！
+bug_report.line3=想要回饋Bug或是其它問題，Issue無疑是最合適的手段，它架起了普通用戶和開發者或志願者之間的橋梁。
+bug_report.line4=點擊下方按鈕即可打開我們的Issue追蹤網址。馬上註冊，一起清理天境二的Bug吧！
 
 aether.warning.deprecated_item=§c千萬別！這東西等著被刪除呢！
 aether.warning.operator_item=需要管理員權限
@@ -1071,7 +1071,7 @@ necromancer.us.leadtheway=感謝指點，後會有期。
 ###########################
 ##=======================##
 
-edison.greet.start_not_introduced=新來的，你遲到了。我在這兒等了你好幾個小時了。
+edison.greet.start_not_introduced=新來的，你遲到了。我在這裡等了你好幾個小時了。
 
 edison.greet.option.expecting=你在等我嗎？
 edison.greet.option.who=請問你是？
@@ -1085,12 +1085,12 @@ edison.greet.option.died=我還以為我死定了……
 
 edison.greet.option.fine=我很好。
 edison.greet.option.thanks=愛迪生，謝謝你。
-edison.greet.option.okay_sale=我會沒事的。你這有啥好貨嗎？
+edison.greet.option.okay_sale=我會沒事的。你這有什麼好貨嗎？
 edison.greet.option.okay_holiday_sale=我很好。已經節日假期了，有沒有特供的商品啊？
 
 edison.greet.start=嘿，朋友，最近過得還順利嗎？要不要買點什麼？
 
-edison.greet.option.sale=你有啥好貨嗎？
+edison.greet.option.sale=你有什麼好貨嗎？
 edison.greet.option.holiday_sale=這個節日假期有沒有特供商品？
 
 edison.greet.option.okay_goodbye=我覺得我過得不錯。再見。
@@ -1111,10 +1111,10 @@ edison.greet.who5=你還有什麼要問的嗎？
 
 edison.greet.option.you_know_who=那個…「你知道是誰」的…人？
 
-edison.greet.map1=哈哈！你可真算不上討人喜歡不是嗎？沒准我真該多袖手旁觀一會。
+edison.greet.map1=哈哈！你可真算不上討人喜歡不是嗎？也許我真該多袖手旁觀一會。
 edison.greet.map2=找到你沒費多大工夫，雖說我們還以為你掉下去了。
 
-edison.greet.what1=「這個地方」？你還真善於提出模棱兩可的問題啊！
+edison.greet.what1=「這個地方」？你還真善於提出模稜兩可的問題啊！
 edison.greet.what2=我猜你對你剛抵達的這個地方多少知道點，但你得問得更具體點，我才能回答啊。
 edison.greet.what3=你是指我們所在的這座建築物呢，還是這個真真切切的異世界？
 
@@ -1139,8 +1139,8 @@ edison.greet.no_we_talked4=如今，我堅信知識就是世界上最強的力�
 edison.greet.no_we_talked5=你還有什麼要問的嗎？
 
 edison.greet.you_know_who1=當然是巫魂了。你知道「又高又黑又嚇人」先生嗎？
-edison.greet.you_know_who2=我們時不時地會互相聯繫，他還讓我在必要時把你帶回安全的地方，並且付給我一大筆錢。
-edison.greet.you_know_who3=話是這麼說，但他經常在送出一些帶著便條的小禮品。翻翻你的旅行指南沒準就能找到一份呢。
+edison.greet.you_know_who2=我們三不五時地會互相聯繫，他還讓我在必要時把你帶回安全的地方，並且付給我一大筆錢。
+edison.greet.you_know_who3=話是這麼說，但他經常在送出一些帶著便條的小禮品。翻翻你的旅行指南說不定就能找到一份呢。
 
 edison.greet.building1=啊，這是個有些年頭的旅者前哨營地了！在很久以前是女武神族修建的神聖墓地。
 edison.greet.building2=自從人們開始攀登這裡的山脈，這裡就成了觀賞天境風景的人們真正意義上的庇護所。
@@ -1154,7 +1154,7 @@ edison.greet.world2=你所處的就是古代女武神族的哨營之一，如果
 
 edison.greet.valkyries1=她們有點像這裡的城管，但是…呃…嗯…特別強大。要是你讓她抓著把柄，一名武神士兵就能把你撕成碎片。
 edison.greet.valkyries2=還好，雖說她們不太健談，但一般還算友好。你會發現她們在大部分的城鎮和鄉村周邊巡邏。某種神聖契約驅使他們保護人們和別的什麼東西。
-edison.greet.valkyries3=實際上我也不能搞清楚她們到底是啥……你最好問問本地人，或者直接私下里找位女武神問問！想見不到她們還真的有點難呢。
+edison.greet.valkyries3=實際上我也不能搞清楚她們到底是什麼……你最好問問本地人，或者直接私下裡找位女武神問問！想見不到她們還真的有點難呢。
 edison.greet.valkyries4=你還想問點什麼？
 
 ##=======================##
@@ -1166,32 +1166,32 @@ edison.greet.valkyries4=你還想問點什麼？
 ##=======================##
 
 edison.shop.greetings1=歡迎光臨！今天我這裡可都是好貨。新到了一些真正獨一無二的寶貝，來看看吧。
-edison.shop.greetings2=我向你保證，這兒商品的價格絕對公道，但是……嗯，按照我們公司的條款，恕不退換！
+edison.shop.greetings2=我向你保證，這裡商品的價格絕對公道，但是……嗯，按照我們公司的條款，恕不退換！
 
-edison.shop.enchanted_wyndberry=食腐苗是種有點危險的植物，但我有個伙計負責採集這種小傢伙們的果實並添加神能晶體，讓它們更有料。
-edison.shop.enchanted_blueberry=藍莓是種很容易弄到的食物，但我這兒的都經過神能晶體滋養提味，是你身體不適時的好選擇。
+edison.shop.enchanted_wyndberry=食腐苗是種有點危險的植物，但我有個伙伴負責採集這種小傢伙們的果實並添加神能晶體，讓它們更有料。
+edison.shop.enchanted_blueberry=藍莓是種很容易弄到的食物，但我這裡的都經過神能晶體滋養提味，是你身體不適時的好選擇。
 edison.shop.ambrosium_shard=如今，神能晶體已經成為了一種真真正正用途廣泛的特殊材料：修理工具裝備，為食物提味，抑或是當作燃料。要是使用得當，它甚至能入藥治病，神能晶體也因此為人們所熟知。
 edison.shop.skyroot_stick=我直說了吧，這些木棍實際上算不得我們的商品。但如果你想要的話，當然可以買走了。
-edison.shop.skyroot_pickaxe=原住民認為天根木是一種具備「特別的精確性」的材料並加以尊敬，用它做的鎬子敲石頭的確挺不錯。要我說，用這玩意挺累人的，但如果你要開始挖礦事業的話，它會是很不錯的入門工具。
-edison.shop.skyroot_axe=拿起木頭來砍樹，好像有點不大對勁。啊，好吧，這把做工不錯的斧子能讓你無需赤手空拳對付木頭。
+edison.shop.skyroot_pickaxe=原住民認為天根木是一種具備「特別的精確性」的材料並加以尊敬，用它做的鎬子敲石頭的確挺不錯。要我說，用這東西挺累人的，但如果你要開始挖礦事業的話，它會是很不錯的入門工具。
+edison.shop.skyroot_axe=拿起木頭來砍樹，好像有點不大對勁。啊，好吧，這把做工不錯的斧頭能讓你無需赤手空拳對付木頭。
 edison.shop.skyroot_sword=考慮防身問題？這片土地上的野生動物倒真有那麼點血性。隨身帶把劍吧，為人身安全投資永遠是聰明的選擇。
 edison.shop.skyroot_shovel=要是進攻這條路走不通，那何不給自己挖個小型藏身洞呢！一把鍬自然能讓你的挖掘事半功倍。
-edison.shop.therawood_leaves=實際上這是我的一位伙計用布雷特蔗製作的，通過恰當的上色處理，讓它們看起來就如同坻星森林的樹葉一樣。
+edison.shop.therawood_leaves=實際上這是我的一位伙伴用布雷特蔗製作的，通過恰當的上色處理，讓它們看起來就如同坻星森林的樹葉一樣。
 edison.shop.therawood_log=我們的朋友根據他的經驗，讓我帶上點樹苗栽下。結果呢，樹葉因為空氣的原因變得蒼白，不過木材的品質還是不錯的。
 edison.shop.thera_dirt=我自己很喜歡一項小研究，那就是看看這裡的地質情況與家鄉有什麼不同，為此我專門配製出了成分和坻星一致的泥土。完全是浪費時間，不過讓人思鄉。
 edison.shop.thera_grass=折騰了好久才種出來和坻星草相仿的植物，我總覺得還是故土的草地更綠。
 edison.shop.therastone_brick=呃，這些是我仿製的又老又高又黑又嚇人的那位的塔樓的建材，就是普通的天冶石而已，不過，我弄出來的磨損和裂紋讓它們基本一模一樣。
 
-edison.shop.holiday_notice=半價甩賣！ \n節日特供
+edison.shop.holiday_notice=半價拋售！ \n節日特供
 
 edison.shop.greetings_holiday=歡迎光臨我的假日商店！這些商品都是限時出售，抓緊時間買點什麼吧，可別錯過了後悔喲。
 
 edison.shop.candy_cane=這些甜食可是假日的一大享受啊。別把它們和真的拐杖搞混了，那些來自遠方的廣袤空域的人們常用它來裝飾我的變異樹種——而且你正巧趕上了樹苗優惠出售！
-edison.shop.candy_cane_block=你有沒有想過「哇，要是能把一大堆糖果做成超級大的一塊該多棒啊」？我也沒想過。不過嘛，現在這玩意減價了——為什麼不趁機買下這最後一批貨嘗個鮮呢？
+edison.shop.candy_cane_block=你有沒有想過「哇，要是能把一大堆糖果做成超級大的一塊該多棒啊」？我也沒想過。不過嘛，現在這東西減價了——為什麼不趁機買下這最後一批貨嘗個鮮呢？
 edison.shop.candy_cane_wall=我猜你大概能能用這個……擋住世界上所有不愛甜食的人？我都弄糊塗了，但是這些東西這兩天賣得特別好。坦率地說我也不想搞明白為什麼，賣得好就得了唄。
 edison.shop.mutant_sapling=它們讓我回憶起了一些事情。不好意思，我可不能告訴你這些奇妙的樹苗是怎麼做出來的。我們只是說它是節日中的又一種好東西，是會長出燈泡的哦。
-edison.shop.winter_hat=下面世界的市民們就喜歡這個，就沒有哪怕一個節日的夜晚不會有人戴著它到處亂竄。沒什麼實用價值，不過人們說衣櫃里當然得有這麼件趕時髦的東西。
-edison.shop.eggnog=事情是這樣的：我喜歡蛋奶酒，喝起來味道真不錯——可我要是喝上那麼幾杯，就老是有一群小兔子纏著我！只有我這樣嗎？
+edison.shop.winter_hat=下面世界的市民們就喜歡這個，就沒有哪怕一個節日的夜晚不會有人戴著它到處亂竄。沒什麼實用價值，不過人們說衣櫃裡當然得有這麼件趕時髦的東西。
+edison.shop.eggnog=事情是這樣的：我喜歡蛋奶酒，喝起來味道真不錯——但我要是喝上那麼幾杯，就老是有一群小兔子纏著我！只有我這樣嗎？
 edison.shop.yule_log=有沒有​​想過嚐嚐原木的味道？那你運氣真不錯，這可是僅有的一次啃木頭還不覺得難吃的機會！
 
 ##=======================##
@@ -1211,7 +1211,7 @@ josediya.greet.option.take_me=你能帶我去嗎？
 
 josediya.greet.option.winged_beast=這只有翼的奇獸是……？
 josediya.greet.option.fly=你騎他飛翔？
-josediya.greet.option.moa=我也能養只恐鳥嗎？
+josediya.greet.option.moa=我也能養隻恐鳥嗎？
 
 josediya.greet.option.who=請問你是…？
 josediya.greet.option.friends=你是那光頭漢子的朋友？
@@ -1231,10 +1231,10 @@ josediya.greet.moa=想騎恐鳥，你得讓它信任你。恐鳥蛋可不好弄�
 josediya.greet.who=能帶你翱翔天境的女孩。我叫喬瑟迪婭，航運從業者，那邊的那個禿子叫我來幫你。
 josediya.greet.friends=愛迪生和我相處得很好，我們結識的這幾年來，他一直是個很有幫助的伙伴，但我還是覺得他不太可信，只是共同的利益讓我們共事而已。
 josediya.greet.paying=不，我只是還欠別人的一個情而已，你才是那個該付錢的。對了，我不收你們那裡的錢，只收空鍍幣。
-josediya.greet.white_gold=問題出在你身上。我也得掙錢糊口，所以呢不關心你怎麼掙錢。去農民們那邊打打工或者找點別的什麼活吧。
+josediya.greet.white_gold=問題出在你身上。我也得賺錢餬口，所以呢不關心你怎麼賺錢。去農民們那邊打打工或者找點別的什麼事吧。
 josediya.greet.services=你要是已經安好家的話，到隨便哪個哨營來找我，我能把你帶回家。當然，得付夠錢。
 josediya.greet.home=如果你指的是介元的話，我可不是帶你回那的。先在天境定居下來吧。
-josediya.greet.walk_home=想試就試，我不攔著。提醒一句，天境空島間的距離可是很遠的，讓我帶你的話可就又快又省事兒了。是，島間的雲床是挺結實的，夠你在上面蹦噠了，但你不會覺得沒保護措施就在雲彩上走很安全吧。
+josediya.greet.walk_home=想試就試，我不攔著。提醒一句，天境空島間的距離可是很遠的，讓我帶你的話可就又快又省事了。是，島間的雲床是挺結實的，夠你在上面蹦噠了，但你不會覺得沒保護措施就在雲彩上走很安全吧。
 
 josediya.greet.travel=好的，想去哪？
 josediya.greet.option.travel_to=返回住處
@@ -1249,19 +1249,19 @@ josediya.greet.option.travel=出發
 ####################################
 ##================================##
 
-mysterious_figure.greet.start=我看見了一位新來的旅行家!歡迎，歡迎……看看我從遙遠國度進口的稀罕玩意吧————各式各樣值得一嚐的甜點！
+mysterious_figure.greet.start=我看見了一位新來的旅行家!歡迎，歡迎……看看我從遙遠國度進口的稀罕東西吧————各式各樣值得一嚐的甜點！
 mysterious_figure.greet.option.who_are_you=你是誰？
 mysterious_figure.greet.option.why_plumproots=你為什麼要在肩膀上扛個腴根？
 mysterious_figure.greet.option.sale=我能看看你都賣點什麼嗎？
 mysterious_figure.greet.who_are_you=你想知道我的名字？但這可是個秘密！所有人都忘記了，甚至連歷史都忘記了它！
-mysterious_figure.greet.why_plumproots=你知道這些漂漂亮亮的腴根都能派上多棒的用場嗎？煮著吃，燉著吃，多采點來跟我換糖吃！你的口腔感受過腴根派的絕頂滋味嗎？人生一世，一定要試！
+mysterious_figure.greet.why_plumproots=你知道這些漂漂亮亮的腴根都能派上多棒的用場嗎？煮著吃，燉著吃，多採點來跟我換糖吃！你的口腔感受過腴根派的絕頂滋味嗎？人生一世，一定要試！
 mysterious_figure.greet.sale=多好啊，多好啊，你出腴根我做糖！
 mysterious_figure.shop.greetings=腴根，腴根，腴根！腴根才能換我糖，除非貨比長靴棒！
 mysterious_figure.shop.candy_corn=猜猜什麼和玉米最配？腴根！ ……當然還有糖，我猜的。
 mysterious_figure.shop.cocoatrice=製作時未曾殘害哪怕一隻雞蛇！
 mysterious_figure.shop.wrapped_chocolates=這些巧克力是我親手包裝的!如含微量骨骼，無需驚訝，請放心食用。
 mysterious_figure.shop.jelly_plumproot=我不知道你分不分得清楚，但它們可和我最愛的口糧差遠了。
-mysterious_figure.shop.blueberry_lollipop=許多小孩都很喜歡這種小零食，吃了以後沒準會把你變成一顆大藍莓。
+mysterious_figure.shop.blueberry_lollipop=許多小孩都很喜歡這種小零食，吃了以後說不定會把你變成一顆大藍莓。
 mysterious_figure.shop.orange_lollipop=味道和橙子一模一樣！ P.S：不含任何橙子成分。
 mysterious_figure.shop.icestone_poprocks=不是拿冰石做成的糖，放心啦。
 mysterious_figure.shop.ginger_bread_man=我曾聽說過一位薑餅糕點師的故事。據傳說，在那個恐怖月份的前夜，他們吃下人形的薑餅後，就變成了他們剛吃下的東西。覺不覺得自己運氣真好?

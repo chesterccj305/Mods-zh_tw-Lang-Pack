@@ -1,4 +1,4 @@
-#Chat
+﻿#Chat
 #Cookie Descriptions
 #Item Names
 #Mob Candy Descriptions
@@ -13,7 +13,7 @@ item.neverenoughcandy.candy.skull.name=黏性頭顱
 item.neverenoughcandy.candy.spider.name=花生醬蜘蛛眼
 item.neverenoughcandy.candy.witch.name=泡糖女巫
 item.neverenoughcandy.candy.witchy.name=包裝糖果
-item.neverenoughcandy.cookie.name=曲奇
+item.neverenoughcandy.cookie.name=餅乾
 item.neverenoughcandy.magic.bean.name=黑人公園的每一個風味豆
 tooltip.neverenoughcandy.batty.description=味道會讓你發瘋的!
 tooltip.neverenoughcandy.bean.description=你想要小心他們。當他們說“every flavor”時，意思是每種口味。

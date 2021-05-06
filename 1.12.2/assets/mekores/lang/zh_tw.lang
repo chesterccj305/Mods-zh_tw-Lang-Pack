@@ -1,4 +1,4 @@
-itemGroup.mekores=通用機械礦石
+﻿itemGroup.mekores=通用機械礦石
 
 item.mekores:crystal.name=%s晶體
 item.mekores:shard.name=%s碎片
@@ -71,7 +71,7 @@ mekores.ore.vanadium=釩
 mekores.ore.baronyte=硫鐵鉀
 mekores.ore.blazium=虛空
 mekores.ore.elecanium=鈦
-mekores.ore.emberstone=余燼
+mekores.ore.emberstone=餘燼
 mekores.ore.ghastly=陰森
 mekores.ore.ghoulish=恐懼
 mekores.ore.limonite=褐鐵
@@ -83,5 +83,5 @@ mekores.ore.varsium=鎂
 mekores.ore.tritanium=三鈦
 
 mekores.misc.slurry=%s漿液
-mekores.misc.slurry_clean=純凈%s漿液
+mekores.misc.slurry_clean=純淨%s漿液
 mekores.misc.ore=%s礦石

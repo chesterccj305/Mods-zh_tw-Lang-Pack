@@ -1,4 +1,4 @@
-item.survivalist.chainmail.name=鎖鍊片
+﻿item.survivalist.chainmail.name=鎖鍊片
 item.survivalist.iron_nugget.name=鐵粒
 item.survivalist.copper_nugget.name=銅粒
 item.survivalist.tin_nugget.name=錫粒
@@ -34,7 +34,7 @@ enchantment.survivalist.scraping=報廢回收
 text.survivalist.scraping.message1=你的 %s 損壞了，但你幸運回收了%dx%s ！
 tooltip.survivalist.scraping.disabled= - 報廢回收功能被禁止，此附魔不會起作用
 
-tile.survivalist.rack.name=曬乾架
+tile.survivalist.rack.name=曬幹架
 text.survivalist.rack.title=曬乾
 
 tile.survivalist.chopping_block.name=砧板
@@ -67,4 +67,4 @@ tile.survivalist.sawmill.name=鋸木爐
 text.survivalist.sawmill=鋸木爐
 
 text.survivalist.jei.category.chopping=砧板
-text.survivalist.jei.category.drying=曬乾架
+text.survivalist.jei.category.drying=曬幹架

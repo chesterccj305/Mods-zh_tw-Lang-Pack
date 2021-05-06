@@ -1,4 +1,4 @@
-# Blocks
+﻿# Blocks
 tile.atum.portal.name=沙漠次元傳送門
 tile.atum.chestSpawner.name=石灰岩儲物箱
 tile.atum.sand.name=沙漠次元沙子
@@ -654,7 +654,7 @@ item.atum.nuitsVanishing.line2=當持有者站立不動時可以隱形
 item.atum.nuitsVanishing.line3=匿蹤
 
 item.atum.nuitsDuality.line1=古埃及星空之神努特的神弓
-item.atum.nuitsDuality.line2=可以一次射出兩支箭矢
+item.atum.nuitsDuality.line2=可以一次射出兩枝箭矢
 item.atum.nuitsDuality.line3=二連矢
 
 item.atum.nuitsIre.line1=古埃及星空之神努特的彎刀
@@ -852,7 +852,7 @@ item.atum.idolOfLabor.19=道歉的時候要露出胸部是基本常識…
 item.atum.idolOfLabor.20=腦袋空空不要緊、關鍵是不要進水！
 item.atum.idolOfLabor.21=為什麼你要代替你爹？！
 item.atum.idolOfLabor.22=站得更高，尿得更遠！
-item.atum.idolOfLabor.23=畫甚麼同人誌？做成年番不就好了？！
+item.atum.idolOfLabor.23=畫什麼同人誌？做成年番不就好了？！
 item.atum.idolOfLabor.24=現在連逛麥塊版都不能喝茶了...
 item.atum.idolOfLabor.25=他說麥塊是抄襲泰拉瑞亞的…
 item.atum.idolOfLabor.26=男的也好，不會懷孕…
@@ -863,7 +863,7 @@ item.atum.idolOfLabor.30=那麼來細數你的罪惡吧！
 item.atum.idolOfLabor.31=我本來不想用這一招的！
 item.atum.idolOfLabor.32=孔子不能解決的問題，老子幫你解決！
 item.atum.idolOfLabor.33=若你媽看到你這樣子，她會很擔心！
-item.atum.idolOfLabor.34=名花雖有主，我來鬆鬆土！
+item.atum.idolOfLabor.34=名花雖有主，我來松鬆土！
 item.atum.idolOfLabor.35=你想發財嗎？你想當官嗎？不要瞎想了！好好唸書吧！
 item.atum.idolOfLabor.36=長的帥有*用啊？能到銀行能用臉刷卡嗎？
 item.atum.idolOfLabor.37=思想有多遠，你就給我滾多遠！
@@ -975,4 +975,3 @@ mods.tips.atum.2=你可以自己製作秘石傀儡和秘石守衛來防禦自家
 mods.tips.atum.3=每位法老都擁有不同的能力和技能
 mods.tips.atum.4=有時，砍下枯樹原木時會跑出甲蟲
 mods.tips.atum.5=沙漠民族帽子可以讓你的視野清晰一些
-

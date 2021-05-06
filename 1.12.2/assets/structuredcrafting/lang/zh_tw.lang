@@ -1,4 +1,4 @@
-config.structuredcrafting=%s 配置
+﻿config.structuredcrafting=%s 設定
 config.structuredcrafting.block=方塊設置
 config.structuredcrafting.block.tooltip=方塊設置
 config.structuredcrafting.core=核心設置
@@ -11,4 +11,4 @@ config.structuredcrafting.general.tooltip=常規設置
 config.structuredcrafting.general.version=版本
 config.structuredcrafting.general.versionChecker=版本檢查
 itemGroup.structuredcrafting=結構化製作
-tile.blocks.structuredcrafting.structured_crafter.name=結構化工作台
+tile.blocks.structuredcrafting.structured_crafter.name=結構化工作檯

@@ -1,4 +1,4 @@
-#Creative Tabs
+﻿#Creative Tabs
 itemGroup.SpaceItemsTab=額外行星：物品
 itemGroup.SpaceBlocksTab=額外行星：方塊
 itemGroup.SpaceToolsTab=額外行星：工具
@@ -11,25 +11,25 @@ galaxy.black_eye=黑眼星系
 galaxy.proxima_centauri=比鄰星系
 
 #Solar Systems
-solarsystem.kepler22=開普勒-22星系
-solarsystem.kepler47=開普勒-47星系
-solarsystem.kepler62=開普勒-62星系
-solarsystem.kepler69=開普勒-69星系
+solarsystem.kepler22=克卜勒-22星系
+solarsystem.kepler47=克卜勒-47星系
+solarsystem.kepler62=克卜勒-62星系
+solarsystem.kepler69=克卜勒-69星系
 
 solarsystem.xenos157=途人-157星系
-solarsystem.deltiri10=迪爾塔裏-10星系 ##音譯##
-solarsystem.vendrizi161=旺德裏奇-161星系 ##音譯##
+solarsystem.deltiri10=迪爾塔里-10星系 ##音譯##
+solarsystem.vendrizi161=旺德里奇-161星系 ##音譯##
 solarsystem.epsilonSolaria=日中天苑星系
 
 #Stars
-star.kepler22=開普勒-22
-star.kepler47=開普勒-47
-star.kepler62=開普勒-62
-star.kepler69=開普勒-69
+star.kepler22=克卜勒-22
+star.kepler47=克卜勒-47
+star.kepler62=克卜勒-62
+star.kepler69=克卜勒-69
 
 star.xenos157=途人-157
-star.deltiri10=迪爾塔裏-10 ##音譯##
-star.vendrizi161=旺德裏奇-161 ##音譯##
+star.deltiri10=迪爾塔里-10 ##音譯##
+star.vendrizi161=旺德里奇-161 ##音譯##
 star.epsilonSolaria=日中天苑星
 
 #Planets
@@ -51,16 +51,16 @@ planet.JupiterEP=木星 2.0
 planet.NeptuneEP=海王星 2.0
 planet.PlutoEP=冥王星 2.0
 
-planet.kepler62b=開普勒-62b
-planet.kepler62c=開普勒-62c
-planet.kepler62d=開普勒-62d
-planet.kepler62e=開普勒-62e
-planet.kepler62f=開普勒-62f
-planet.kepler22b=開普勒-22b
-planet.kepler47b=開普勒-47b
-planet.kepler47c=開普勒-47c
-planet.kepler69b=開普勒-69b
-planet.kepler69c=開普勒-69c
+planet.kepler62b=克卜勒-62b
+planet.kepler62c=克卜勒-62c
+planet.kepler62d=克卜勒-62d
+planet.kepler62e=克卜勒-62e
+planet.kepler62f=克卜勒-62f
+planet.kepler22b=克卜勒-22b
+planet.kepler47b=克卜勒-47b
+planet.kepler47c=克卜勒-47c
+planet.kepler69b=克卜勒-69b
+planet.kepler69c=克卜勒-69c
 
 planet.tatooine=塔圖因星
 planet.crait=克賴特
@@ -204,65 +204,65 @@ tile.eris.dungeon_brick.name=鬩神星地牢磚
 tile.eris.ore_dark_iron.name=鬩神星玄鐵礦石
 tile.eris.dark_iron_block.name=玄鐵塊
 
-tile.kepler22b.dirt.name=開普勒-22b泥土
-tile.kepler22b.stone.name=開普勒-22b石頭
-tile.kepler22b_grass.name=開普勒-22b草方塊
-tile.kepler22b_blue_grass.name=開普勒-22b藍色草方塊
-tile.kepler22b_purple_grass.name=開普勒-22b紫色草方塊
-tile.kepler22b_red_grass.name=開普勒-22b紅色草方塊
-tile.kepler22b_yellow_grass.name=開普勒-22b黃色草方塊
-tile.kepler22b_infected_grass.name=開普勒-22b被汙染的草方塊
-tile.kepler22b.ore_iron.name=開普勒-22b鐵礦石
-tile.kepler22b.ore_tin.name=開普勒-22b錫礦石
-tile.kepler22b.ore_copper.name=開普勒-22b銅礦石
-tile.kepler22b.ore_dense_coal.name=開普勒-22b密集煤礦石
-tile.kepler22b.ore_blue_diamonds.name=開普勒-22b藍色鑽石礦石
-tile.kepler22b.ore_red_diamonds.name=開普勒-22b紅色鑽石礦石
-tile.kepler22b.ore_purple_diamonds.name=開普勒-22b紫色鑽石礦石
-tile.kepler22b.ore_yellow_diamonds.name=開普勒-22b黃色鑽石礦石
-tile.kepler22b.ore_green_diamonds.name=開普勒-22b綠色鑽石礦石
-tile.kepler22b_planks.plank_maple_blue.name=開普勒-22b藍色木板
-tile.kepler22b_planks.plank_maple_red.name=開普勒-22b紅色木板
-tile.kepler22b_planks.plank_maple_purple.name=開普勒-22b紫色木板
-tile.kepler22b_planks.plank_maple_yellow.name=開普勒-22b黃色木板
-tile.kepler22b_planks.plank_maple_green.name=開普勒-22b綠色木板
-tile.kepler22b_planks.plank_maple_brown.name=開普勒-22b棕色木板
-tile.kepler22b.stone_bricks.name=開普勒-22b石磚
-tile.kepler22b_maple_logs.maple_blue_log.name=開普勒-22b藍色楓樹原木
-tile.kepler22b_maple_logs.maple_red_log.name=開普勒-22b紅色楓樹原木
-tile.kepler22b_maple_logs.maple_purple_log.name=開普勒-22b紫色楓樹原木
-tile.kepler22b_maple_logs.maple_yellow_log.name=開普勒-22b黃色楓樹原木
-tile.kepler22b_maple_logs2.maple_green_log.name=開普勒-22b綠色楓樹原木
-tile.kepler22b_maple_logs2.maple_brown_log.name=開普勒-22b棕色楓樹原木
-tile.kepler22b_maple_saplings.blue_maple_sapling.name=開普勒-22b藍色楓樹樹苗
-tile.kepler22b_maple_saplings.red_maple_sapling.name=開普勒-22b紅色楓樹樹苗
-tile.kepler22b_maple_saplings.purple_maple_sapling.name=開普勒-22b紫色楓樹樹苗
-tile.kepler22b_maple_saplings.yellow_maple_sapling.name=開普勒-22b黃色楓樹樹苗
-tile.kepler22b_maple_saplings.green_maple_sapling.name=開普勒-22b綠色楓樹樹苗
-tile.kepler22b_maple_saplings.brown_maple_sapling.name=開普勒-22b棕色楓樹樹苗
-tile.kepler22b_new_maple_leaves.blue_maple_leaf.name=開普勒-22b藍色楓樹樹葉
-tile.kepler22b_new_maple_leaves.red_maple_leaf.name=開普勒-22b紅色楓樹樹葉
-tile.kepler22b_new_maple_leaves.purple_maple_leaf.name=開普勒-22b紫色楓樹樹葉
-tile.kepler22b_new_maple_leaves.yellow_maple_leaf.name=開普勒-22b黃色楓樹樹葉
-tile.kepler22b_new_maple_leaves_2.green_maple_leaf.name=開普勒-22b綠色楓樹樹葉
-tile.kepler22b_new_maple_leaves_2.brown_maple_leaf.name=開普勒-22b棕色楓樹樹葉
-tile.kepler22b_flowers.blue_maple_short_grass.name=開普勒-22b藍色矮草
-tile.kepler22b_flowers.blue_maple_med_grass.name=開普勒-22b藍色中草
-tile.kepler22b_flowers.blue_maple_tall_grass.name=開普勒-22b藍色高草
-tile.kepler22b_flowers.red_maple_short_grass.name=開普勒-22b紅色矮草
-tile.kepler22b_flowers.red_maple_med_grass.name=開普勒-22b紅色中草
-tile.kepler22b_flowers.red_maple_tall_grass.name=開普勒-22b紅色高草
-tile.kepler22b_flowers.yellow_maple_short_grass.name=開普勒-22b黃色矮草
-tile.kepler22b_flowers.yellow_maple_med_grass.name=開普勒-22b黃色中草
-tile.kepler22b_flowers.yellow_maple_tall_grass.name=開普勒-22b黃色高草
-tile.kepler22b_flowers.purple_maple_short_grass.name=開普勒-22b紫色矮草
-tile.kepler22b_flowers.purple_maple_med_grass.name=開普勒-22b紫色中草
-tile.kepler22b_flowers.purple_maple_tall_grass.name=開普勒-22b紫色高草
-tile.kepler22b_flowers.green_maple_short_grass.name=開普勒-22b綠色矮草
-tile.kepler22b_flowers.green_maple_med_grass.name=開普勒-22b綠色中草
-tile.kepler22b_flowers.green_maple_tall_grass.name=開普勒-22b綠色高草
-tile.kepler22b.cobblestone.name=開普勒-22b圓石
-tile.kepler22b.ore_platinum.name=開普勒-22b鉑礦石
+tile.kepler22b.dirt.name=克卜勒-22b泥土
+tile.kepler22b.stone.name=克卜勒-22b石頭
+tile.kepler22b_grass.name=克卜勒-22b草方塊
+tile.kepler22b_blue_grass.name=克卜勒-22b藍色草方塊
+tile.kepler22b_purple_grass.name=克卜勒-22b紫色草方塊
+tile.kepler22b_red_grass.name=克卜勒-22b紅色草方塊
+tile.kepler22b_yellow_grass.name=克卜勒-22b黃色草方塊
+tile.kepler22b_infected_grass.name=克卜勒-22b被汙染的草方塊
+tile.kepler22b.ore_iron.name=克卜勒-22b鐵礦石
+tile.kepler22b.ore_tin.name=克卜勒-22b錫礦石
+tile.kepler22b.ore_copper.name=克卜勒-22b銅礦石
+tile.kepler22b.ore_dense_coal.name=克卜勒-22b密集煤礦石
+tile.kepler22b.ore_blue_diamonds.name=克卜勒-22b藍色鑽石礦石
+tile.kepler22b.ore_red_diamonds.name=克卜勒-22b紅色鑽石礦石
+tile.kepler22b.ore_purple_diamonds.name=克卜勒-22b紫色鑽石礦石
+tile.kepler22b.ore_yellow_diamonds.name=克卜勒-22b黃色鑽石礦石
+tile.kepler22b.ore_green_diamonds.name=克卜勒-22b綠色鑽石礦石
+tile.kepler22b_planks.plank_maple_blue.name=克卜勒-22b藍色木板
+tile.kepler22b_planks.plank_maple_red.name=克卜勒-22b紅色木板
+tile.kepler22b_planks.plank_maple_purple.name=克卜勒-22b紫色木板
+tile.kepler22b_planks.plank_maple_yellow.name=克卜勒-22b黃色木板
+tile.kepler22b_planks.plank_maple_green.name=克卜勒-22b綠色木板
+tile.kepler22b_planks.plank_maple_brown.name=克卜勒-22b棕色木板
+tile.kepler22b.stone_bricks.name=克卜勒-22b石磚
+tile.kepler22b_maple_logs.maple_blue_log.name=克卜勒-22b藍色楓樹原木
+tile.kepler22b_maple_logs.maple_red_log.name=克卜勒-22b紅色楓樹原木
+tile.kepler22b_maple_logs.maple_purple_log.name=克卜勒-22b紫色楓樹原木
+tile.kepler22b_maple_logs.maple_yellow_log.name=克卜勒-22b黃色楓樹原木
+tile.kepler22b_maple_logs2.maple_green_log.name=克卜勒-22b綠色楓樹原木
+tile.kepler22b_maple_logs2.maple_brown_log.name=克卜勒-22b棕色楓樹原木
+tile.kepler22b_maple_saplings.blue_maple_sapling.name=克卜勒-22b藍色楓樹樹苗
+tile.kepler22b_maple_saplings.red_maple_sapling.name=克卜勒-22b紅色楓樹樹苗
+tile.kepler22b_maple_saplings.purple_maple_sapling.name=克卜勒-22b紫色楓樹樹苗
+tile.kepler22b_maple_saplings.yellow_maple_sapling.name=克卜勒-22b黃色楓樹樹苗
+tile.kepler22b_maple_saplings.green_maple_sapling.name=克卜勒-22b綠色楓樹樹苗
+tile.kepler22b_maple_saplings.brown_maple_sapling.name=克卜勒-22b棕色楓樹樹苗
+tile.kepler22b_new_maple_leaves.blue_maple_leaf.name=克卜勒-22b藍色楓樹樹葉
+tile.kepler22b_new_maple_leaves.red_maple_leaf.name=克卜勒-22b紅色楓樹樹葉
+tile.kepler22b_new_maple_leaves.purple_maple_leaf.name=克卜勒-22b紫色楓樹樹葉
+tile.kepler22b_new_maple_leaves.yellow_maple_leaf.name=克卜勒-22b黃色楓樹樹葉
+tile.kepler22b_new_maple_leaves_2.green_maple_leaf.name=克卜勒-22b綠色楓樹樹葉
+tile.kepler22b_new_maple_leaves_2.brown_maple_leaf.name=克卜勒-22b棕色楓樹樹葉
+tile.kepler22b_flowers.blue_maple_short_grass.name=克卜勒-22b藍色矮草
+tile.kepler22b_flowers.blue_maple_med_grass.name=克卜勒-22b藍色中草
+tile.kepler22b_flowers.blue_maple_tall_grass.name=克卜勒-22b藍色高草
+tile.kepler22b_flowers.red_maple_short_grass.name=克卜勒-22b紅色矮草
+tile.kepler22b_flowers.red_maple_med_grass.name=克卜勒-22b紅色中草
+tile.kepler22b_flowers.red_maple_tall_grass.name=克卜勒-22b紅色高草
+tile.kepler22b_flowers.yellow_maple_short_grass.name=克卜勒-22b黃色矮草
+tile.kepler22b_flowers.yellow_maple_med_grass.name=克卜勒-22b黃色中草
+tile.kepler22b_flowers.yellow_maple_tall_grass.name=克卜勒-22b黃色高草
+tile.kepler22b_flowers.purple_maple_short_grass.name=克卜勒-22b紫色矮草
+tile.kepler22b_flowers.purple_maple_med_grass.name=克卜勒-22b紫色中草
+tile.kepler22b_flowers.purple_maple_tall_grass.name=克卜勒-22b紫色高草
+tile.kepler22b_flowers.green_maple_short_grass.name=克卜勒-22b綠色矮草
+tile.kepler22b_flowers.green_maple_med_grass.name=克卜勒-22b綠色中草
+tile.kepler22b_flowers.green_maple_tall_grass.name=克卜勒-22b綠色高草
+tile.kepler22b.cobblestone.name=克卜勒-22b圓石
+tile.kepler22b.ore_platinum.name=克卜勒-22b鉑礦石
 tile.kepler22b.platinum_block.name=鉑塊
 
 #Moon Blocks
@@ -272,7 +272,7 @@ tile.callisto.stone.name=木衛四石頭
 tile.callisto.ore_iron.name=木衛四鐵礦石
 tile.callisto.ore_tin.name=木衛四錫礦石
 tile.callisto.ore_copper.name=木衛四銅礦石
-tile.callisto.dried_oil.name=木衛四幹性油
+tile.callisto.dried_oil.name=木衛四乾性油
 tile.callisto.shale_oil.name=木衛四頁岩油
 
 tile.deimos.surface.name=火衛二地表岩石
@@ -431,7 +431,7 @@ tile.advanced_launch_pad.powered.rocket.desc=將其擺成 5x5 的形狀，用以
 tile.advanced_fuel_loader.name=高級燃料裝載機
 tile.ultimate_fuel_loader.name=終極燃料裝載機
 tile.vehicle_charger.name=漫遊車充能器
-tile.basic_purifier.name=基礎凈化器
+tile.basic_purifier.name=基礎淨化器
 tile.basic_densifier.name=基礎濃縮機
 tile.basic_decontamination_unit.name=基礎輻射消除裝置
 tile.basic_decontamination_unit_fake_block.name=基礎輻射消除裝置
@@ -445,7 +445,7 @@ tile.basic_crystallizer.description=用於將結晶水轉化為碘鹽
 tile.basic_smasher.description=用於將方塊粉碎成碎片
 tile.basic_chemical_injector.description=用於將方塊/物品結合成化學藥品
 tile.basic_solar_evaporation_chamber.description=用於蒸發所輸入的物品
-tile.basic_purifier.description=用於凈化汙染水和放射性水
+tile.basic_purifier.description=用於淨化汙染水和放射性水
 tile.basic_densifier.description=用於將液體濃縮成物品
 tile.vehicle_charger.description=放在漫遊車充能平台或電力火箭充能平台旁以為載具充能
 
@@ -466,7 +466,7 @@ container.advanced.fuelloader.name=高級燃料裝載機
 container.ultimate.fuelloader.name=終極燃料裝載機
 container.basic.solar.evaporation.chamber.name=基礎太陽能蒸發室
 container.vehicle.charger.name=漫遊車充能器
-container.basic.purifier.name=基礎凈化器
+container.basic.purifier.name=基礎淨化器
 container.basic.densifier.name=基礎濃縮機
 container.basic.decontamination.unit.name=基礎輻射消除裝置
 
@@ -488,7 +488,7 @@ gui.message.power.rocket.name=電力火箭
 gui.message.power.message.name=能量
 gui.button.loadpower.name=充能
 gui.powered.inv.name=物品欄/能量
-gui.status.purifiering.name=凈化中
+gui.status.purifiering.name=淨化中
 gui.radioactive_water_tank.desc.4=放射性水箱
 gui.message.radioactive_water.name=放射性水
 gui.infected_water_tank.desc.4=汙染水箱
@@ -509,8 +509,8 @@ gui.bucket.message.finding.2.radioactive_water_fluid=谷神星和木衛二得到
 gui.bucket.message.finding.2.nitrogen_fluid=海王星得到這種液體
 gui.bucket.message.finding.2.glowstone_fluid=土星得到這種液體
 gui.bucket.message.finding.2.magma_fluid=木星和木衛一得到這種液體
-gui.bucket.message.finding.2.liquid_caramel_fluid=開普勒-22b得到這種液體
-gui.bucket.message.finding.2.liquid_chocolate_fluid=開普勒-22b得到這種液體
+gui.bucket.message.finding.2.liquid_caramel_fluid=克卜勒-22b得到這種液體
+gui.bucket.message.finding.2.liquid_chocolate_fluid=克卜勒-22b得到這種液體
 gui.bucket.message.finding.2.liquid_hydrocarbon_fluid=土星得到這種液體
 gui.bucket.message.finding.2.salt_fluid=谷神星和木衛二得到這種液體
 gui.bucket.message.finding.2.methane_fluid=土衛六得到這種液體
@@ -529,9 +529,9 @@ gui.message.general.tank.name=液體水箱
 gui.message.general.tank.fluid.name=液體
 gui.status.densifier.name=濃縮中
 gui.bucket.message.extreme.reactors.compact=這種液體有 Extreme Reactors 相關相容
-gui.radiation.reduced.message=你的輻射等級從你最初/當前的等級中降低了
+gui.radiation.reduced.message=你的輻射等級從你最初/目前的等級中降低了
 gui.radiation.reduced.message.2=。
-gui.radiation.current.message=你當前的輻射等級是
+gui.radiation.current.message=你目前的輻射等級是
 gui.radiation.subject.message=你現在受制於
 gui.radiation.reverse.message=你可以使用以下方法來幫助你減少所受的傷害：睡覺、輻射消除裝置、防輻射藥劑
 gui.radiation.type.message=的輻射
@@ -541,15 +541,15 @@ gui.message.finding.volcanic.rock=木星和木衛一找到
 gui.message.decontamination.unit=減少了 10% 的輻射等級
 gui.battery_slot.desc.custom=建議使用究極電池
 gui.radiation.cancel.message=你可以使用帶有環境溫度控制器升級的氧氣供給機來充分保護你不受輻射和壓強的影響
-currently.unused.name=當前未被使用！
+currently.unused.name=目前未被使用！
 wafter.uses.information=用於太空站配方
 gui.rover.information=需要在漫遊車充能平台使用
 gui.rover.information.2=將漫遊車充能平台與充能器相連來為漫遊車充能
 
 #Celestial Selection Screen GUI Components
 gui.celestial_details.name=天體細節
-gui.general_features_details.name=總體特征
-gui.atmosphere_details.name=大氣特征
+gui.general_features_details.name=總體特徵
+gui.atmosphere_details.name=大氣特徵
 gui.general_details.name=總體細節
 gui.parent_solar_system_details.name=所處星系
 gui.new_galaxies.name=新星系
@@ -577,50 +577,50 @@ gui.celestial_body_has_dungeon.name=有無地牢
 
 #GUI Controls/Keybinds
 keybind.vehicle_inv.name=打開電力漫遊車物品欄
-keybind.module.manager.name=打開模塊管理器
+keybind.module.manager.name=打開模組管理器
 keybind.module.pre.launch.name=打開發射檢查表 GUI
-keybind.module.nasa.workbench.name=打開便攜式 NASA 工作台 GUI
+keybind.module.nasa.workbench.name=打開攜帶式 NASA 工作檯 GUI
 
 #GUI Module Manager
-gui.module_manager.name=模塊管理器
-gui.modules_helmet.name=頭盔模塊
-gui.modules_chest.name=胸甲模塊
-gui.modules_leggings.name=護腿模塊
-gui.modules_boots.name=靴子模塊
-gui.module_list.name=模塊列表
+gui.module_manager.name=模組管理器
+gui.modules_helmet.name=頭盔模組
+gui.modules_chest.name=胸甲模組
+gui.modules_leggings.name=護腿模組
+gui.modules_boots.name=靴子模組
+gui.module_list.name=模組列表
 gui.button.install.name=安裝
 gui.button.uninstall.name=卸載
 gui.button.disable_module.name=啟用
 gui.button.enable_module.name=禁用
 gui.module_cost.name=消耗
-gui.module.installed.name=已安裝模塊！
-gui.module.missing_requirements.name=對不起，你不符合安裝此模塊的要求！
-gui.module.already_installed.name=你已經安裝了此模塊！
+gui.module.installed.name=已安裝模組！
+gui.module.missing_requirements.name=對不起，你不符合安裝此模組的要求！
+gui.module.already_installed.name=你已經安裝了此模組！
 gui.module.missing_armour.name=由於太空服裝甲部件缺失，無法安裝！
-gui.module.description.name=模塊描述
-gui.module.name.name=模塊名稱
-gui.module.type.name=模塊類型
+gui.module.description.name=模組描述
+gui.module.name.name=模組名稱
+gui.module.type.name=模組類型
 gui.module.type.helmet.name=頭盔
 gui.module.type.chest.name=胸甲
 gui.module.type.leggings.name=護腿
 gui.module.type.boots.name=靴子
-gui.module.power.name=模塊能量
+gui.module.power.name=模組能量
 
 gui.module.sensor_glasses.name=探測目鏡
 gui.module.no_fall_damage.name=無摔落傷害
 gui.module.geiger_counter.name=蓋氏計量器
-gui.module.test.name=測試模塊
+gui.module.test.name=測試模組
 gui.module.pre_launch_checklist.name=發射檢查表
-gui.module.nasa_workbench.name=便攜式 NASA 工作台
+gui.module.nasa_workbench.name=攜帶式 NASA 工作檯
 gui.module.oxygen_tank_switch.name=氧氣罐自動交換器
 gui.module.auto_space_gear_equip.name=太空齒輪自動裝備
 
 gui.module.sensor_glasses.desc=功能與星系的探測目鏡相同
 gui.module.no_fall_damage.desc=移除玩家的摔落傷害
-gui.module.geiger_counter.desc=在HUD/螢幕上顯示當前的輻射量
-gui.module.test.desc=測試模塊
-gui.module.pre_launch_checklist.desc=允許輕松訪問星系的發射檢查表，請參見控制按鍵以打開它
-gui.module.nasa_workbench.desc=允許便攜地訪問星系的 NASA 工作台，請參見控制按鍵以打開它
+gui.module.geiger_counter.desc=在HUD/螢幕上顯示目前的輻射量
+gui.module.test.desc=測試模組
+gui.module.pre_launch_checklist.desc=允許輕鬆訪問星系的發射檢查表，請參見控制按鍵以打開它
+gui.module.nasa_workbench.desc=允許便攜地訪問星系的 NASA 工作檯，請參見控制按鍵以打開它
 gui.module.oxygen_tank_switch.desc=將裝備好的空罐與物品欄中任何可用的非空氧氣罐互換
 gui.module.auto_space_gear_equip.desc=在你的物品欄中自動裝備任何與太空相關的裝備
 
@@ -669,7 +669,7 @@ tile.cake_blocks.white_icing_red_dots.name=紅點裝飾的白色糖衣
 tile.cake_blocks.white_icing_green_dots.name=綠點裝飾的白色糖衣
 tile.cake_blocks.white_icing_pink_dots.name=粉紅點裝飾的白色糖衣
 tile.cake_blocks.white_icing_orange_dots.name=橙點裝飾的白色糖衣
-tile.cake_blocks.cookie_rocks.name=曲奇岩石
+tile.cake_blocks.cookie_rocks.name=餅乾岩石
 
 tile.white_sugar_cane.name=白色甘蔗
 
@@ -805,17 +805,17 @@ tier9.heavy_duty_plate.name=九階
 tier10.heavy_duty_plate.name=十階
 
 #Compressed Items
-item.tier4_items.compressed_carbon.name=致密碳板
-item.tier5_items.compressed_palladium.name=致密鈀板
-item.tier6_items.compressed_magnesium.name=致密鎂板
-item.tier7_items.compressed_reinforced_crystal.name=強化致密水晶板
-item.tier7_items.compressed_crystal.name=致密水晶板
-item.tier8_items.compressed_zinc.name=致密鋅板
-item.tier5_items.compressed_nickel.name=致密鎳板
-item.compressed_mercury.name=致密汞板
-item.tier9_items.compressed_tungsten.name=致密鎢板
-item.tier10_items.compressed_dark_iron.name=致密玄鐵板
-item.tier11_items.compressed_platinum.name=致密鉑板
+item.tier4_items.compressed_carbon.name=緻密碳板
+item.tier5_items.compressed_palladium.name=緻密鈀板
+item.tier6_items.compressed_magnesium.name=緻密鎂板
+item.tier7_items.compressed_reinforced_crystal.name=強化緻密水晶板
+item.tier7_items.compressed_crystal.name=緻密水晶板
+item.tier8_items.compressed_zinc.name=緻密鋅板
+item.tier5_items.compressed_nickel.name=緻密鎳板
+item.compressed_mercury.name=緻密汞板
+item.tier9_items.compressed_tungsten.name=緻密鎢板
+item.tier10_items.compressed_dark_iron.name=緻密玄鐵板
+item.tier11_items.compressed_platinum.name=緻密鉑板
 
 #Ingots
 item.tier4_items.ingot_carbon.name=碳錠
@@ -1103,8 +1103,8 @@ space.suit.information.extra.4=獲得輻射的速度就越慢
 space.suit.power.info=支持下列能量系統：
 space.suit.power.info.2=RF、通用機械的 Mekanism Joules、星系的 GC Joules、IC2 的 EU
 
-item_desc.spacesuit.shift.name=按下 %s 鍵獲取壓強和輻射信息
-item_desc.spacesuit.module.shift.name=按下 %s 鍵查看已安裝的模塊
+item_desc.spacesuit.shift.name=按下 %s 鍵獲取壓強和輻射資訊
+item_desc.spacesuit.module.shift.name=按下 %s 鍵查看已安裝的模組
 
 item.tier3_thermal_helm.name=三階熱防護頭盔
 item.tier3_thermal_chestplate.name=三階熱防護胸甲
@@ -1144,23 +1144,23 @@ tier2_armor_layer.desc=壓縮機配方：4 個鈦錠
 tier3_armor_layer.desc=壓縮機配方：4 個鈀錠
 tier4_armor_layer.desc=壓縮機配方：4 個鋅錠
 
-module.pressure_module_1.name=一階壓強模塊
-module.pressure_module_1.desc=保護你免受額外行星或星系的星球/月球/空間站的壓力
-module.pressure_module_2.name=二階壓強模塊
-module.pressure_module_2.desc=保護你免受額外行星或星系的星球/月球/空間站的壓力
-module.pressure_module_3.name=三階壓強模塊
-module.pressure_module_3.desc=保護你免受額外行星或星系的星球/月球/空間站的壓力
-module.pressure_module_4.name=四階壓強模塊
-module.pressure_module_4.desc=保護你免受額外行星或星系的星球/月球/空間站的壓力
+module.pressure_module_1.name=一階壓強模組
+module.pressure_module_1.desc=保護你免受額外行星或星系的星球/月球/太空站的壓力
+module.pressure_module_2.name=二階壓強模組
+module.pressure_module_2.desc=保護你免受額外行星或星系的星球/月球/太空站的壓力
+module.pressure_module_3.name=三階壓強模組
+module.pressure_module_3.desc=保護你免受額外行星或星系的星球/月球/太空站的壓力
+module.pressure_module_4.name=四階壓強模組
+module.pressure_module_4.desc=保護你免受額外行星或星系的星球/月球/太空站的壓力
 
-module.radiation_module_1.name=一階輻射模塊
-module.radiation_module_1.desc=保護你免受額外行星或星系的星球/月球/空間站的輻射
-module.radiation_module_2.name=二階輻射模塊
-module.radiation_module_2.desc=保護你免受額外行星或星系的星球/月球/空間站的輻射
-module.radiation_module_3.name=三階輻射模塊
-module.radiation_module_3.desc=保護你免受額外行星或星系的星球/月球/空間站的輻射
-module.radiation_module_4.name=四階輻射模塊
-module.radiation_module_4.desc=保護你免受額外行星或星系的星球/月球/空間站的輻射
+module.radiation_module_1.name=一階輻射模組
+module.radiation_module_1.desc=保護你免受額外行星或星系的星球/月球/太空站的輻射
+module.radiation_module_2.name=二階輻射模組
+module.radiation_module_2.desc=保護你免受額外行星或星系的星球/月球/太空站的輻射
+module.radiation_module_3.name=三階輻射模組
+module.radiation_module_3.desc=保護你免受額外行星或星系的星球/月球/太空站的輻射
+module.radiation_module_4.name=四階輻射模組
+module.radiation_module_4.desc=保護你免受額外行星或星系的星球/月球/太空站的輻射
 
 #UnPrepared Space Suits
 item.tier1_un_prepared_space_suit_helmet.name=一階未完成太空服頭盔
@@ -1184,7 +1184,7 @@ item.tier4_un_prepared_space_suit_legings.name=四階未完成太空服護腿
 item.tier4_un_prepared_space_suit_boots.name=四階未完成太空服靴子
 
 #Module Items
-item.module_items.no_fall_boots.name=無摔落傷害模塊
+item.module_items.no_fall_boots.name=無摔落傷害模組
 item.module_items.oxygen_controller.name=氧氣控制器
 item.module_items.space_gear_controller.name=太空齒輪控制器
 
@@ -1246,7 +1246,7 @@ item.potassium_iodide.name=碘化鉀
 item.potassium.name=鉀
 item.potash_shards.name=草木灰碎片
 item.anti_radiation.name=防輻射藥劑
-anti_radiation.desc=將輻射等級降低當前量的 {PERCENT}
+anti_radiation.desc=將輻射等級降低目前量的 {PERCENT}
 
 #Kits
 item.tier1_kit.full.name=一階全套工具箱
@@ -1315,7 +1315,7 @@ item.thermal_cloth.tier5_thermal_cloth.name=五階熱防護布料
 item.tier5_items.ash.name=粉塵
 item.geiger_counter.name=蓋氏計量器
 item.white_sugar_cane_item.name=白色甘蔗
-geiger.counter.desc=右鍵以查看你當前的輻射等級！
+geiger.counter.desc=右鍵以查看你目前的輻射等級！
 geiger.counter.location.desc=可在水星地牢中獲得！
 item.chocolate_bar.name=巧克力棒
 item.caramel_bar.name=焦糖棒
@@ -1330,7 +1330,7 @@ item.canned_food.dehydrated_beef.name=脫水牛肉
 #Electric Parts
 item.electric_parts.battery_tier1.name=一階電池
 item.electric_parts.battery_tier2.name=二階電池
-item.electric_parts.spark_plug.name=火花塞
+item.electric_parts.spark_plug.name=火星塞
 item.electric_parts.electric_wheels_tier1.name=一階輪子
 item.electric_parts.electric_wheels_tier2.name=二階輪子
 
@@ -1385,7 +1385,7 @@ achievement.uranus_planet=登陸天王星！
 achievement.neptune_planet=登陸海王星！
 achievement.pluto_planet=登陸冥王星！
 achievement.eris_planet=登陸鬩神星！
-achievement.kepler22b_planet=登陸開普勒-22b！
+achievement.kepler22b_planet=登陸克卜勒-22b！
 
 achievement.mercury_planet.desc=乘坐三階火箭到水星
 achievement.ceres_planet.desc=乘坐四階火箭到谷神星
@@ -1395,7 +1395,7 @@ achievement.uranus_planet.desc=乘坐六階火箭到天王星
 achievement.neptune_planet.desc=乘坐七階火箭到海王星
 achievement.pluto_planet.desc=乘坐八階火箭到冥王星
 achievement.eris_planet.desc=乘坐九階火箭到鬩神星
-achievement.kepler22b_planet.desc=乘坐十階火箭到開普勒-22b
+achievement.kepler22b_planet.desc=乘坐十階火箭到克卜勒-22b
 
 achievement.mercury_boss=擊敗水星地牢 Boss！
 achievement.jupiter_boss=擊敗木星地牢 BOSS！
@@ -1479,17 +1479,17 @@ checklist.tier_5_thermal_padding.key=需要五階熱防護服
 
 checklist.space_suit.key=任意階太空服
 
-satellite.space_station.mercury=水星空間站
-satellite.space_station.venus=金星空間站
-satellite.space_station.ceres=谷神星空間站
-satellite.space_station.mars=火星空間站
-satellite.space_station.jupiter=木星空間站
-satellite.space_station.saturn=土星空間站
-satellite.space_station.uranus=天王星空間站
-satellite.space_station.neptune=海王星空間站
-satellite.space_station.pluto=冥王星空間站
-satellite.space_station.eris=鬩神星空間站
-satellite.space_station.kepler22b=開普勒-22b空間站
+satellite.space_station.mercury=水星太空站
+satellite.space_station.venus=金星太空站
+satellite.space_station.ceres=谷神星太空站
+satellite.space_station.mars=火星太空站
+satellite.space_station.jupiter=木星太空站
+satellite.space_station.saturn=土星太空站
+satellite.space_station.uranus=天王星太空站
+satellite.space_station.neptune=海王星太空站
+satellite.space_station.pluto=冥王星太空站
+satellite.space_station.eris=鬩神星太空站
+satellite.space_station.kepler22b=克卜勒-22b太空站
 
 #------------------1.7.10 Only Section------------------
 #Venus Blocks
@@ -1574,11 +1574,11 @@ tile.deimos.ore_lead.name=火衛二鉛礦石
 tile.phobos.ore_lead.name=火衛一鉛礦石
 
 #Other Items
-item.tier4_items.ash_shard.name=余燼碎片
+item.tier4_items.ash_shard.name=餘燼碎片
 item.tier4_items.volcanic_shard.name=火山岩碎片
 item.tier4_items.ingot_volcanic.name=火山岩錠
 item.tier6_items.magnesium_shard.name=鎂碎片
-item.tier4_items.ash.name=余燼
+item.tier4_items.ash.name=餘燼
 item.tier4_items.sledge_hammer.name=雪橇錘
 item.tier4_items.grinding_wheel.name=砂輪
 item.thermal_cloth.tier2_thermal_cloth.name=二階熱防護布料

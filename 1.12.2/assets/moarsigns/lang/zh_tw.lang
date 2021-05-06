@@ -1,16 +1,16 @@
-integration.moarsigns:waila.show_material=顯示材料名稱
+﻿integration.moarsigns:waila.show_material=顯示材料名稱
 # -Gui
 gui.moarsigns:button.title.cut=剪切
 gui.moarsigns:button.title.copy=複製
 gui.moarsigns:button.title.paste=黏貼
 gui.moarsigns:button.title.copysign=複製告示牌內容
 gui.moarsigns:button.title.pastesign=黏貼到告示牌
-gui.moarsigns:button.title.reset=重置
+gui.moarsigns:button.title.reset=重設
 gui.moarsigns:button.title.textstyle=文字樣式
 gui.moarsigns:button.title.lock=鎖定行
 #General names
 itemGroup.moarSigns=更多告示牌
-item.moarsigns.debug.name=調試模式
+item.moarsigns.debug.name=除錯模式
 item.moarsigns.sign.error.name=告示牌 §4錯誤§r
 tile.moarsign.sign.name=告示牌 §4錯誤§r
 crafting.moarsigns.sign.crafting=更多告示牌合成
@@ -30,7 +30,7 @@ gui.moarsigns:button.description.paste=從黏貼板中黏貼文本
 gui.moarsigns:button.description.cutsign=把這個告示牌剪切到[%1]黏貼板, 用來準備[%1]黏貼到另一個告示牌上[%2]如果有些東西隱藏了不顯示的話，Shift+左鍵來獲取[%2]告示牌的大小、位置和陰影
 gui.moarsigns:button.description.copysign=把這個告示牌複製到[%1]黏貼板, 用來準備[%1]黏貼到另一個告示牌上[%2]如果有些東西隱藏了不顯示的話，[%2]Shift+左鍵來獲取[%2]告示牌的大小、位置和陰影
 gui.moarsigns:button.description.pastesign=黏貼在黏貼板中[%1]的一個告示牌的所有文本.
-gui.moarsigns:button.description.reset=擦除告示牌中的所有文本[%1]以及重置所有被隱藏的行[%1]和文字的位置
+gui.moarsigns:button.description.reset=擦除告示牌中的所有文本[%1]以及重設所有被隱藏的行[%1]和文字的位置
 #Factorization
 item.moarsigns.sign.factorization.silver_sign.name=銀製牌子
 crafting.moarsigns.sign.shaped=更多告示牌有序合成
@@ -46,10 +46,10 @@ gui.moarsigns:color.pink=粉色
 gui.moarsigns:color.yellow=黃色
 gui.moarsigns:color.white=白色
 #  Textstyles
-gui.moarsigns:textstyle.example_text=示例文字AaBbCc
+gui.moarsigns:textstyle.example_text=範例文字AaBbCc
 gui.moarsigns:textstyle.random=隨機
 gui.moarsigns:textstyle.bold=加粗
 gui.moarsigns:textstyle.strikethrough=刪除線
 gui.moarsigns:textstyle.underline=下劃線
 gui.moarsigns:textstyle.italic=斜體
-gui.moarsigns:textstyle.reset=重置[%1]取消所有顏色和樣式
+gui.moarsigns:textstyle.reset=重設[%1]取消所有顏色和樣式

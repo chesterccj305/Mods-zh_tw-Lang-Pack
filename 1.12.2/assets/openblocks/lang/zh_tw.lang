@@ -1,4 +1,4 @@
-achievement.openblocks.droppedBrick=哇喔!
+﻿achievement.openblocks.droppedBrick=哇喔!
 achievement.openblocks.droppedBrick.desc=抱歉, 事情就那樣發生了...
 stat.openblocks.bricksDropped=磚塊已掉落
 achievement.openblocks.stackOverflow=堆疊溢出
@@ -17,7 +17,7 @@ enchantment.openblocks.flimflam=欺騙
 openblocks.gui.blocks=方塊
 openblocks.gui.items=物品
 openblocks.gui.misc=雜項
-openblocks.gui.changelogs=更新記錄
+openblocks.gui.changelogs=更新紀錄
 
 openblocks.gui.features=特點
 openblocks.gui.bugfixes=修正
@@ -56,13 +56,13 @@ openblocks.gui.credits.title=致謝表
 openblocks.gui.credits.content=§Lboq,Mikee及NeverCast§R-開放式方塊的主要開發者(我們能感謝自己嗎?)\n§LSinZ和Yoshi2§R-開放模組團隊的創辦成員\n§LVexatos和crafteverywhere§R-主要的模組翻譯員\n§LDirewolf20及其餘ForgeCraft的成員§R-在我們發佈前忍受錯誤和崩潰的問題\n\n還有其他在過去的兩年對程式碼有貢獻的人,以及每個引起大家關注,從開始就一直支持並使用這個模組的朋友們!
 
 openblocks.gui.config.title=方便的編輯控制設定
-openblocks.gui.config.content=開放式模組允許玩家由聊天窗中輸入指令來控制客戶端及伺服端的設定,有些甚至不需要重新啟動遊戲!\n改變伺服器的控制設定指令為'§L/om_config_s§R'(需要op權限),而改變客戶端的控制設定指令為'§L/om_config_c§R'\n例如:\n§L/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§R\n§L/om_config_s save§R\n\n列出所有的指令可輸入: \n§L/help om_config_s§R 或\n§L/help om_config_c§R
+openblocks.gui.config.content=開放式模組允許玩家由聊天窗中輸入指令來控制用戶端及伺服端的設定,有些甚至不需要重新啟動遊戲!\n改變伺服器的控制設定指令為'§L/om_config_s§R'(需要op權限),而改變用戶端的控制設定指令為'§L/om_config_c§R'\n例如:\n§L/om_config_s set OpenBlocks dropblock elevatorDrainsXP false§R\n§L/om_config_s save§R\n\n列出所有的指令可輸入: \n§L/help om_config_s§R 或\n§L/help om_config_c§R
 
 openblocks.gui.restore_inv.title=物品欄備份
 openblocks.gui.restore_inv.content=每個人都有可能發生失誤,但是執行§L/ob_inventory§R指令可以讓你挽回一些狀況。當玩家死亡、墓碑生成或執行§L/ob_inventory store§R指令時會建立物品欄的\n備份,你可以輸入§L/ob_inventory restore <player> <id>§R來還原物品欄,\n指令中的<id>就是備份的檔名(從下面打開存檔資料夾或尋找伺服器上的存檔資料夾中,名稱如§Linventory-*.dat§R的檔案),也可只輸入檔名中§Linventory-§R及§L.dat§R之間的部分。你也可以用定位鍵(tab)來快速完成指令輸入。備份檔案為一般NBT檔案格式,也能用其它的編輯器來開啟。
 
-openblocks.gui.bkey.title=臭名昭著的《Ｂ》鍵
-openblocks.gui.bkey.content=在開放式方塊中'B'是個非常特殊的按鍵。\n\n在客戶端及伺服器的設定檔中,開啟 'tomfoolery'分類下的'weAreSeriousPeople'控制選項,會給予你非常獨有的消化系統。\n\n試著吃些美味黏土,並按下'B'鍵來消化!
+openblocks.gui.bkey.title=惡名昭彰的《Ｂ》鍵
+openblocks.gui.bkey.content=在開放式方塊中'B'是個非常特殊的按鍵。\n\n在用戶端及伺服器的設定檔中,開啟 'tomfoolery'分類下的'weAreSeriousPeople'控制選項,會給予你非常獨有的消化系統。\n\n試著吃些美味黏土,並按下'B'鍵來消化!
 
 openblocks.gui.unstable.title=不穩定附魔
 openblocks.gui.unstable.content=我們收到未經確認的報告,這個附魔會使你在遭受攻擊或跳過某些東西時,身上攜帶的火藥會變得極不穩定。\n\n對此造成的後果恕不負責!
@@ -228,7 +228,7 @@ tile.openblocks.cannon.name=物品投擲砲
 tile.openblocks.cannon.description=當接收到紅石信號時,物品投擲砲就會發射旁邊方塊的物品欄中的物品。用「大砲指示器」來設定大砲投擲的目標位置。
 
 tile.openblocks.rope_ladder.name=繩梯
-tile.openblocks.rope_ladder.description=當你在一處放置繩梯時,它會自動向下捲放至地面。每次放置繩梯只會使用堆疊中的一個物品(Grant:可設定為只用手上這堆繩梯的數量來放下繩梯,且破壞後繩梯還能回收)。
+tile.openblocks.rope_ladder.description=當你在一處放置繩梯時,它會自動向下卷放至地面。每次放置繩梯只會使用堆疊中的一個物品(Grant:可設定為只用手上這堆繩梯的數量來放下繩梯,且破壞後繩梯還能回收)。
 
 tile.openblocks.sprinkler.name=灑水器
 tile.openblocks.sprinkler.description=灑水器能幫4格範圍內的作物施肥。只要將它放在開放式方塊的水槽上面就會開始灑水!你還能添加骨粉來加速作物的生長。\n灑水器也能被當成水源來使用。

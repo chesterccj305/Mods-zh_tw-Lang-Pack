@@ -1,11 +1,11 @@
-item.recipe_reset.name=創建失憶症
+﻿item.recipe_reset.name=創建失憶症
 item.recipe_cure.name=擴展失憶症
 item.amnesia_clock.name=失憶時鐘
 
 tile.golden_soul_sand.name=金魂沙
-tile.memories.name=內存塊
-tile.memories_compressed_1.name=壓縮的內存塊
-tile.memories_compressed_2.name=雙壓縮內存塊
-tile.memories_compressed_3.name=三重壓縮內存塊
+tile.memories.name=記憶體塊
+tile.memories_compressed_1.name=壓縮的記憶體塊
+tile.memories_compressed_2.name=雙壓縮記憶體塊
+tile.memories_compressed_3.name=三重壓縮記憶體塊
 
 itemGroup.amnesia=失憶症

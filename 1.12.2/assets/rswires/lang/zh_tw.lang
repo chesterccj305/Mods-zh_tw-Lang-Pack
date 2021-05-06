@@ -1,4 +1,4 @@
-itemGroup.rswires=RSWires
+﻿itemGroup.rswires=RSWires
 tile.rswires:bundled_cable.0.name=集束線纜
 tile.rswires:bundled_cable.1.name=集束線纜（白色）
 tile.rswires:bundled_cable.10.name=集束線纜（青色）

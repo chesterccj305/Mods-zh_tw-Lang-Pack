@@ -1,4 +1,4 @@
-aromabackuprecovery:button.recover=備份
+﻿aromabackuprecovery:button.recover=備份
 aromabackuprecovery:selectBackup.select=回復到備份
 aromabackuprecovery:selectBackup.name=%s (%s)
 aromabackuprecovery:openFolder=開啟資料夾

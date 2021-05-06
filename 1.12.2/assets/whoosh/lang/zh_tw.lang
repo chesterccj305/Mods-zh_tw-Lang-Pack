@@ -1,4 +1,4 @@
-chat.transporter.dimension.warning=不能跨維度傳送。
+﻿chat.transporter.dimension.warning=不能跨維度傳送。
 chat.transporter.fluid.warning=諧振終界珍珠流體不足。缺少 %s mb。
 chat.transporter.rf.warning=傳送器中 RF 能量不足。缺少%s RF。
 gui.whoosh.transporter=傳送
@@ -17,4 +17,4 @@ item.whoosh.transporter.standard4.name=傳送器（諧振）
 itemGroup.whoosh.creativeTab=Whoosh
 tab.whoosh.transporter.0=允許你傳送到指定位置。
 tab.whoosh.transporter.1=跨維度傳送會消耗流體。
-tab.whoosh.transporter.2=如果你在時空連續體中丟失了肢體，我們不負責任。
+tab.whoosh.transporter.2=如果你在時空連續體中遺失了肢體，我們不負責任。

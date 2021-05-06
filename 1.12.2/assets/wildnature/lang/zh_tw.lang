@@ -1,4 +1,4 @@
-tile.beech_log.name=山毛櫸木
+﻿tile.beech_log.name=山毛櫸木
 tile.beech_planks.name=山毛櫸木板
 tile.beech_stairs_planks.name=山毛櫸木樓梯
 tile.beech_stairs_parquet.name=拼花山毛櫸木樓梯
@@ -90,13 +90,13 @@ tile.cherry_white_leaves.name=白色櫻桃樹葉
 tile.cherry_pink_sapling.name=粉色櫻桃樹苗
 tile.cherry_white_sapling.name=白色櫻桃樹苗
 
-tile.baobab_log.name=猴面包木
-tile.baobab_planks.name=猴面包木板
-tile.baobab_stairs_planks.name=猴面包木樓梯
-tile.baobab_stairs_parquet.name=拼花猴面包木樓梯
-tile.baobab_parquet.name=拼花猴面包木板
-tile.baobab_leaves.name=猴面包樹葉
-tile.baobab_sapling.name=猴面包樹苗
+tile.baobab_log.name=猴麵包木
+tile.baobab_planks.name=猴麵包木板
+tile.baobab_stairs_planks.name=猴麵包木樓梯
+tile.baobab_stairs_parquet.name=拼花猴麵包木樓梯
+tile.baobab_parquet.name=拼花猴麵包木板
+tile.baobab_leaves.name=猴麵包樹葉
+tile.baobab_sapling.name=猴麵包樹苗
 
 tile.ebony_log.name=黑檀木
 tile.ebony_planks.name=黑檀木板
@@ -176,7 +176,7 @@ tile.plant7.name=植物7<WIP>
 tile.brown_grass_block.name=褐色草方塊
 tile.mold_grass_block.name=生黴草方塊
 tile.desert_grass_block.name=沙漠草方塊
-tile.dried_grass_block.name=幹旱草方塊
+tile.dried_grass_block.name=乾旱草方塊
 tile.overgrown_stone.name=雜草叢生的石頭
 tile.browndirt.name=褐土
 tile.molddirt.name=黴土

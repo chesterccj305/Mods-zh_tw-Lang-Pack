@@ -1,4 +1,4 @@
-container.wearablebackpacks.backpack=背包
+﻿container.wearablebackpacks.backpack=背包
 
 item.wearablebackpacks.backpack.name=背包
 
@@ -75,6 +75,6 @@ config.wearablebackpacks.entity.scale.tooltip=控制實體穿戴背包的渲染�
 config.wearablebackpacks.entity.status.entityNotFound=未找到指定實體。這個條目將被忽略。
 
 config.wearablebackpacks.category.cosmetic=外觀設置
-config.wearablebackpacks.category.cosmetic.tooltip=控制不影響遊戲玩法的外觀（僅限客戶端）設置。
+config.wearablebackpacks.category.cosmetic.tooltip=控制不影響遊戲玩法的外觀（僅限用戶端）設置。
 config.wearablebackpacks.cosmetic.enchantEffectOpacity=附魔效果不透明度
 config.wearablebackpacks.cosmetic.enchantEffectOpacity.tooltip=如果背包擁有附魔，可以調控其附魔的不透明度，或者隱藏附魔。

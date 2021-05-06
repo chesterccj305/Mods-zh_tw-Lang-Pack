@@ -1,4 +1,4 @@
-#X-Generator: crowdin.com
+﻿#X-Generator: crowdin.com
 itemGroup.MCA=我的創世人生
 
 enum.agestate.baby=嬰兒
@@ -61,10 +61,10 @@ relation.son=兒子
 ##########################
 reaction.onhit1=哦! 那樣會痛耶!
 reaction.onhit2=我也會那樣來對待你!
-reaction.onhit3=哎喲! 你幹麼打我?
+reaction.onhit3=哎喲! 你幹嘛打我?
 reaction.onhit4=那樣會痛耶, 別再這麼做了!
 reaction.onhit5=哎! 那樣真的很痛!
-reaction.onhit6=喂! 你以為你在幹麼!
+reaction.onhit6=喂! 你以為你在幹嘛!
 reaction.onhit7=哎喲! 那最好不是故意的!
 
 reaction.ranaway1=很好, 你最好跑快一點!
@@ -72,7 +72,7 @@ reaction.ranaway2=你要是敢回來, 我會叫警衛!
 reaction.ranaway3=像個男人一樣回來跟我打啊!
 reaction.ranaway4=要是讓我再看見你, 我一定會揍你一頓!
 reaction.ranaway5=我知道你怕我!
-reaction.ranaway6=你幹麼跑? 會來好讓我可以打你啊!
+reaction.ranaway6=你幹嘛跑? 會來好讓我可以打你啊!
 reaction.ranaway7=要是讓我再看見你, 我就打死你!
 reaction.ranaway8=我要叫人來揍死你!
 
@@ -249,14 +249,14 @@ spouse.interaction.marry.fail.marriedtogiver2=我們已經結婚了, 難道你�
 
 adult.interaction.marry.fail.marriedtoother1=我很抱歉, 但是我已經結婚了。
 adult.interaction.marry.fail.marriedtoother2=噢, 我以為你知道......我已經跟別人結婚了。
-adult.interaction.marry.fail.marriedtoother3=幹麼?! 我已經結婚了啦!
+adult.interaction.marry.fail.marriedtoother3=幹嘛?! 我已經結婚了啦!
 
 adult.interaction.marry.fail.playermarried1=噢......我看見你手上戴的戒指。你已經結婚了!
 adult.interaction.marry.fail.playermarried2=你想要做什麼? 你已經結婚了!
 adult.interaction.marry.fail.playermarried3=什麼? 真的嗎? 我以為你已經結婚了, 不是嗎?
 adult.interaction.marry.fail.playermarried4=我很驚訝! 你已經有配偶了耶。
 
-adult.interaction.marry.fail.lowhearts1=啥? 不! 我不喜歡你!
+adult.interaction.marry.fail.lowhearts1=什麼? 不! 我不喜歡你!
 adult.interaction.marry.fail.lowhearts2=噢, 漂亮的戒指! 呃...等等...這是給我的嗎? 嗯...不要!
 adult.interaction.marry.fail.lowhearts3=這是送我的嗎? 抱歉, 我還不怎麼瞭解你。
 adult.interaction.marry.fail.lowhearts4=我受寵若驚, 但是我跟你還不熟。
@@ -267,7 +267,7 @@ spouse.interaction.engage.success3=有個關於時間的問題...開玩笑啦! �
 spouse.interaction.engage.success4=這...這是真的嗎? 我是說這一刻, 不是指戒指, 不過這個戒指是真的, 是吧?
 
 spouse.interaction.marry.success1=這真是夢想成真! 我會永遠愛你!
-spouse.interaction.marry.success2=我們終於結婚了! 那現在要幹麼?
+spouse.interaction.marry.success2=我們終於結婚了! 那現在要幹嘛?
 spouse.interaction.marry.success3=很高興能跟你結婚, %v1%。
 spouse.interaction.marry.success4=我等不及要開始我們在一起的新生活!
 
@@ -281,7 +281,7 @@ adult.interaction.matchmaker.fail.engaged3=喔, 謝啦......但我認為我很�
 
 adult.interaction.matchmaker.fail.needtwo1=難道你不需要準備一對戒指來結婚嗎?
 adult.interaction.matchmaker.fail.needtwo2=噢, 好吧! 不過你得先準備一對戒指。
-adult.interaction.matchmaker.fail.needtwo3=我和我的另一半都各需要一只戒指, 但你只有一只。
+adult.interaction.matchmaker.fail.needtwo3=我和我的另一半都各需要一只戒指, 但你只有一隻。
 
 adult.interaction.matchmaker.fail.novillagers1=我在附近沒有看到任何人, 你要我跟誰結婚?
 adult.interaction.matchmaker.fail.novillagers2=我不知道......帶我去一個你認為最適合我的人的身邊。
@@ -325,7 +325,7 @@ spouse.interaction.gohome.fail.nohome=再提醒我一下, 我們加在哪裡?
 child.interaction.gohome.fail.nohome=我不記得我住在哪...
 childp.interaction.gohome.fail.nohome=我不記得家在哪裡! 我們搬家太多次了!
 
-child.interaction.ridehorse.fail.notnearby=馬在哪兒? 我要騎!
+child.interaction.ridehorse.fail.notnearby=馬在哪裡? 我要騎!
 childp.interaction.ridehorse.fail.notnearby=我的馬在哪裡? 我希望別又弄丟牠了...
 adult.interaction.ridehorse.fail.notnearby=我沒看到附近有可以騎的馬。
 spouse.interaction.ridehorse.fail.notnearby=親愛的, 我的馬呢? 我找不到。
@@ -469,7 +469,7 @@ child.shakehand.success1=你好! 我知道某人喜歡你...
 child.shakehand.success2=爸爸說這樣做很有禮貌。
 child.shakehand.success3=來擊掌! 舉手, 放下...太慢啦!
 child.shakehand.success4=嗨, 陌生人!
-child.shakehand.success5=*咯咯笑* 我剛剛用這支手清理牛大便。
+child.shakehand.success5=*呵呵笑* 我剛剛用這隻手清理牛大便。
 child.shakehand.fail1=陌生人危險...
 child.shakehand.fail2=爸爸媽媽! 這個人想要綁架我!
 child.shakehand.fail3=別碰我, 我很有名喔!
@@ -491,8 +491,8 @@ child.greeting2=嗨, 你叫什麼名字?
 child.greeting3=唉唷! 你看起來好可怕!
 child.gift.fail1=嘔, 我不喜歡這個!
 child.gift.fail2=噁! 我不要這個!
-child.gift.fail3=你幹麼帶這個來給我? 這很蠢耶!
-child.gift.fail4=我不曉得這是幹麼的!
+child.gift.fail3=你幹嘛帶這個來給我? 這很蠢耶!
+child.gift.fail4=我不曉得這是幹嘛的!
 child.gift.good1=這...這都是要給我的嗎?
 child.gift.good2=這真的是給我的嗎?
 child.gift.good3=這個很酷喔!
@@ -585,7 +585,7 @@ spouse.chat.fail1=雖然我知道我們家不是最窮, 但...
 spouse.chat.fail2=雖然我喜愛待在你身邊, 但是我還是需要一些空間。
 spouse.chat.fail3=有時我真希望有個自己的「洞穴」好逃離你以及每個人。
 spouse.chat.fail4=走開, 我沒心情聊天。
-spouse.chat.fail5=你去哪兒了? 你有看到我背後有人嗎?
+spouse.chat.fail5=你去哪裡了? 你有看到我背後有人嗎?
 spouse.joke.success1=*笑聲* 我就是因為你的風趣才嫁給你的!
 spouse.joke.success2=你下次應該對他丟顆雞蛋!
 spouse.joke.success3=然後這隻狼就愛上了羊。
@@ -614,7 +614,7 @@ spouse.tellstory.success5=哇, 你永遠是最棒的獵人!
 spouse.tellstory.fail1=當你殺了除了無辜的牛以外的其它東西後再跟我說。
 spouse.tellstory.fail2=不要做一些那麼魯莽的事!
 spouse.tellstory.fail3=你要想想你已經有家庭了!
-spouse.tellstory.fail4=...如果你喜歡他們, 那幹麼不去跟他們結婚, 作為替代?
+spouse.tellstory.fail4=...如果你喜歡他們, 那幹嘛不去跟他們結婚, 作為替代?
 spouse.tellstory.fail5=為什麼你要穿這件粉紅色絨毛內衣? 他們又是誰?
 spouse.flirt.success1=*臉紅* 那麼, 我們要不要來做那件事, 接著!
 spouse.flirt.success2=噢, 你在我們第一次見面時也這麼說。
@@ -634,7 +634,7 @@ spouse.hug.success5=讓我們永遠保持這樣!
 spouse.hug.fail1=你怎麼不去抱你的前任那個?
 spouse.hug.fail2=不用, 謝了!
 spouse.hug.fail3=這位先生, 你好臭。
-spouse.hug.fail4=你想幹麼?
+spouse.hug.fail4=你想幹嘛?
 spouse.hug.fail5=去抱別人吧。
 spouse.kiss.success1=當我們嘴唇碰在一起時, 我又再次墜入了愛河!
 spouse.kiss.success2=當我跟你在一起時, 時間彷彿停止了。

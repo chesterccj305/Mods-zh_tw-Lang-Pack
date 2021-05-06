@@ -1,4 +1,4 @@
-item.spiceoflife.bookfoodjournal.name=膳食記錄
+﻿item.spiceoflife.bookfoodjournal.name=膳食記錄
 item.spiceoflife.lunchbag.name=午餐袋
 item.spiceoflife.lunchbox.name=午餐盒
 spiceoflife.gui.alltime.food.eaten=進食總次數
@@ -23,7 +23,7 @@ spiceoflife.tooltip.food.group=食物組：
 spiceoflife.tooltip.food.groups=食物組： 
 spiceoflife.tooltip.food.until.enabled.1=食物恢覆的饑餓值遞減開始在
 spiceoflife.tooltip.food.until.enabled.2=食用任何食物超過%d%s之後
-spiceoflife.tooltip.hold.key.for.details=按住%s獲取詳細信息
+spiceoflife.tooltip.hold.key.for.details=按住%s獲取詳細資訊
 spiceoflife.tooltip.hunger=饑餓度
 spiceoflife.tooltip.not.eaten.recently=最近未曾食用
 spiceoflife.tooltip.nutritional.value=營養價值： 

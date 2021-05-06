@@ -1,4 +1,4 @@
-# Gui
+﻿# Gui
 ## Buttons
 gui.accept=接受
 gui.add=添加
@@ -29,7 +29,7 @@ gui.cut=剪下
 ## Labels
 gui.other=其他
 gui.server_forced=伺服器強制載入：%s
-gui.online=在線
+gui.online=在線上
 gui.offline=離線
 gui.whitelist=白名單
 gui.blacklist=黑名單
@@ -54,7 +54,7 @@ relative_facing.right=右
 ftblib=FTB圖書館
 wip=開發中！
 deprecated=不建議使用這個方法，請使用 %s
-example=示例：
+example=範例：
 click_here=[點擊此處]
 feature_disabled=此功能已停用！
 feature_disabled_server=此功能在伺服器被停用！
@@ -74,15 +74,15 @@ cant_use_now=現在無法使用！
 cant_use_now_cooldown=現在無法使用，冷卻時間：%s
 action_bar=動作欄
 nothing_changed=沒有改變！
-player_must_be_online=玩家必須在線！
+player_must_be_online=玩家必須在線上！
 lat_support=喜歡這個模組嗎？ 點擊以支持我的項目！
 
 ftblib.lang.reload_server_button=重載伺服端
 ftblib.lang.reload_server=FTBLib：伺務端重載耗時 %s
-ftblib.lang.reload_client=FTBLib：客戶端重載耗時 %s
+ftblib.lang.reload_client=FTBLib：用戶端重載耗時 %s
 ftblib.lang.reload_failed=這些 ID 重載失敗：
 
-ftblib.lang.config_command.invalid_key=無法找到配置參數：“%s”！
+ftblib.lang.config_command.invalid_key=無法找到設定參數：“%s”！
 ftblib.lang.config_command.set=“%s”被設置為 %s
 
 ftblib.lang.add_fake_player.invalid_uuid=非法的 UUID！
@@ -102,21 +102,21 @@ ftblib.select_item.display_name=設置顯示名稱
 ftblib.select_team.gui=選擇組
 
 # Config
-ftblib.general.clientless_mode=無客戶端模式
+ftblib.general.clientless_mode=無用戶端模式
 ftblib.general.replace_reload_command=替換/重新載入指令
-ftblib.general.merge_offline_mode_players=合並離線玩家數據
+ftblib.general.merge_offline_mode_players=合併離線玩家數據
 
 ftblib.teams=組
 ftblib.teams.autocreate_sp=單人遊戲自動創建組
 ftblib.teams.autocreate_mp=多人遊戲自動創建組
 
-ftblib.debugging=調試
+ftblib.debugging=除錯
 ftblib.debugging.special_commands=特殊指令
 ftblib.debugging.print_more_info=列印輸出更多資訊
 ftblib.debugging.print_more_errors=列印輸出更多錯誤
 ftblib.debugging.log_network=記錄網路 IO
 ftblib.debugging.log_teleport=記錄傳送資訊
-ftblib.debugging.log_config_editing=記錄配置修改
+ftblib.debugging.log_config_editing=記錄設定修改
 ftblib.debugging.dev_sidebar_buttons=僅開發模式的側邊欄按鈕
 ftblib.debugging.gui_widget_bounds=GUI 小按鈕邊界
 ftblib.debugging.log_events=記錄事件
@@ -126,7 +126,7 @@ ftblib_client.general.item_ore_names=顯示物品礦物詞典名稱
 ftblib_client.general.item_ore_names.item_tooltip=礦物詞典名稱：
 ftblib_client.general.item_nbt=顯示物品 NBT
 ftblib_client.general.replace_vanilla_status_messages=替換原版狀態資訊
-ftblib_client.general.debug_helper=調試幫助
+ftblib_client.general.debug_helper=除錯幫助
 
 # Player Settings
 player_config=我的伺服器設置
@@ -147,7 +147,7 @@ team_config.ftblib.free_to_join.tooltip=沒有邀請，任何人都可以加入
 ftblib.lang.team.no_team=無組
 ftblib.lang.team.created=組“%s”已經創建
 ftblib.lang.team.id_already_exists=ID 已經註冊！
-ftblib.lang.team.id_invalid=ID只能夠包含小寫的 a-z，_ 和 | 字符！
+ftblib.lang.team.id_invalid=ID只能夠包含小寫的 a-z，_ 和 | 字元！
 ftblib.lang.team.deleted=組“%s”已經刪除
 ftblib.lang.team.member_left=%s 離開了你的組！
 ftblib.lang.team.member_joined=%s 加入了你的組！
@@ -201,8 +201,8 @@ ftblib.lang.team_status.owner=組長
 sidebar_button=側邊欄按鈕
 sidebar_button.ftblib.my_team=我的組
 sidebar_button.ftblib.my_team.tooltip=打開組管理的GUI
-sidebar_button.ftblib.settings=客戶端設定
-sidebar_button.ftblib.settings.tooltip=編輯客戶端設定
+sidebar_button.ftblib.settings=用戶端設定
+sidebar_button.ftblib.settings.tooltip=編輯用戶端設定
 sidebar_button.ftblib.notifications=通知
 sidebar_button.ftblib.admin_panel=管理面板
 
@@ -217,7 +217,7 @@ redstone_mode=紅石模式
 redstone_mode.disabled=禁止
 redstone_mode.active_high=高強度信號
 redstone_mode.active_low=低強度信號
-redstone_mode.pulse=脈沖
+redstone_mode.pulse=脈衝
 
 # IO Mode
 io_mode=輸入/輸出模式
@@ -237,7 +237,7 @@ click_action.gui=打開 GUI
 commands.reload.usage=/reload [*|domain:*|domain:id]
 commands.my_settings.usage=/my_settings <設置id> [值]
 commands.team.usage=/team
-commands.team.settings.usage=/team settings <配置 id> [值]
+commands.team.settings.usage=/team settings <設定 id> [值]
 commands.team.create.usage=/team create <id> [顏色]
 commands.team.leave.usage=/team leave
 commands.team.transfer_ownership.usage=/team transfer_ownership <玩家>

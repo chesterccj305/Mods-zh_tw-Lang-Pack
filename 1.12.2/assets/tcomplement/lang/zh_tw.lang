@@ -1,4 +1,4 @@
-################
+﻿################
 #    Common    #
 ################
 
@@ -179,7 +179,7 @@ gui.tcomplement.error.has_chisel_target=添加iChisel之前必須刪除鑿子目
 
 tile.tcomplement.porcelain_casting.basin.name=陶瓷澆築盆
 tile.tcomplement.porcelain_casting.table.name=陶瓷澆築台
-tile.tcomplement.porcelain_casting.tooltip=通過熔爐中的熔融金屬來鑄造物品。
+tile.tcomplement.porcelain_casting.tooltip=透過熔爐中的熔融金屬來鑄造物品。
 
 tile.tcomplement.porcelain_melter.melter.name=微縮陶瓷熔爐
 tile.tcomplement.porcelain_melter.melter.tooltip=微縮版本的冶煉爐。 \n放置在陶瓷加熱器或者儲罐上方供能。
@@ -214,5 +214,3 @@ tcomplement.config.jei=JEI 集成功能
 tcomplement.config.jei.separateMelterTab=分離冶煉爐標籤頁
 tcomplement.config.jei.separateHighOvenTab=單獨高爐標籤
 tcomplement.config.jei.showHighOvenFuel=顯示高爐燃料
-
-

@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 item.death_compass.death_compass.name=死亡指南針
 tooltip.death_compass.death_compass=玩家死亡後給予，用於尋找上一個死亡地點。
 tooltip.death_compass.dimension=維度：%s

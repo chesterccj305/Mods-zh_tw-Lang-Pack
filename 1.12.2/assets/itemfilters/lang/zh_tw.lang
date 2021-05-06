@@ -1,4 +1,4 @@
-item.itemfilters.filter.name=物品過濾器
+﻿item.itemfilters.filter.name=物品過濾器
 item.itemfilters.missing.name=遺失物品
 
 filter.itemfilters.always_true.name=始終為True

@@ -1,4 +1,4 @@
-item.cookingforblockheads:recipe_book_tier0.name=傻瓜烹飪手冊
+﻿item.cookingforblockheads:recipe_book_tier0.name=傻瓜烹飪手冊
 item.cookingforblockheads:recipe_book_tier1.name=傻瓜烹飪手冊 I
 item.cookingforblockheads:recipe_book_tier2.name=傻瓜烹飪手冊 II
 item.cookingforblockheads:heating_unit.name=加熱單元
@@ -21,7 +21,7 @@ tile.cookingforblockheads:fridge.name=冰箱
 tile.cookingforblockheads:sink.name=水槽
 tile.cookingforblockheads:tool_rack.name=廚具架
 tile.cookingforblockheads:milk_jar.name=牛奶罐
-tile.cookingforblockheads:cow_jar.name=罐中奶牛
+tile.cookingforblockheads:cow_jar.name=罐中乳牛
 tile.cookingforblockheads:toaster.name=吐司機
 tile.cookingforblockheads:spice_rack.name=調料架
 tile.cookingforblockheads:counter.name=廚房櫥櫃檯
@@ -107,4 +107,4 @@ Cookingforblockheads:subtitle.toaster_stop =吐司機完成烤製
 
 ###
 
-jei.cookingforblockheads:cow_jar=罐中奶牛
+jei.cookingforblockheads:cow_jar=罐中乳牛

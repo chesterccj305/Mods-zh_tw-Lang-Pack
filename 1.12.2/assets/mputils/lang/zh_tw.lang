@@ -1,4 +1,4 @@
-advMode.toggleBoolean=用“@t”切換（true，false）
+﻿advMode.toggleBoolean=用“@t”切換（true，false）
 mp.buttontext.configfile=編輯MPUtils.cfg
 mp.buttontext.mpinfoedit=編輯MPInfo
 mp.mpinfoedit.title 

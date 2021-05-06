@@ -1,4 +1,4 @@
-#Creative Tab
+﻿#Creative Tab
 itemGroup.tabreadopted=奧法秘術
 #Items
 item_wand_0.name=學徒法杖
@@ -25,7 +25,7 @@ tc.research_category.READOPTION=秘術學
 research_stage.thaumicreadoption:readoption.0=我似乎觸及到了一個嶄新的領域，本章將向我揭示一些既古老而又有趣的魔法裝置。
 #Wand
 research_stage.thaumicreadoption:basicwand.0=
-research_stage.thaumicreadoption:basicwand.1=我創造出了一種便攜式工具來取代世界鹽，我稱之其為"法杖"。它使用起來和世界鹽沒什麽區別，只是需要消耗魔力。
+research_stage.thaumicreadoption:basicwand.1=我創造出了一種攜帶式工具來取代世界鹽，我稱之其為"法杖"。它使用起來和世界鹽沒什麼區別，只是需要消耗魔力。
 item.item_wandcap.name=黃銅杖端
 item.item_wandrod.name=木杖芯
 item_plate_0.name=注入 Aer 的神秘板
@@ -78,7 +78,7 @@ research_stage.thaumicrestoration:restoration.1=這一章節主要講解了神�
 research_stage.thaumicrestoration:trdeco.0=這種蘊含魔力的木頭看起來十分堅固，可以作為很好的裝飾性方塊。
 research_addendum.thaumicrestoration:trdeco.0=將其嵌入這種蘊含魔力的金屬石能使其更加堅固，並且這種木頭極具美觀性。
 #Novice Wand
-research_stage.thaumicrestoration:novicewand.0=昨晚我靈光一閃，如果將魔力直接導入物體會發生什麽？盡管現在這還是未解之謎，我想我需要一種新的設備來引導這些魔力。 
+research_stage.thaumicrestoration:novicewand.0=昨晚我靈光一閃，如果將魔力直接導入物體會發生什麼事？儘管現在這還是未解之謎，我想我需要一種新的設備來引導這些魔力。 
 research_stage.thaumicrestoration:novicewand.1=我找到了一種便捷操縱靈氣的方法：魔杖，其作用與世界鹽完全一致，但製作世界鹽的過程過於浪費時間。也許我還能找到改進魔杖的方法...
 #Transmutations
 research_stage.thaumicrestoration:transmutation.0=它不可能只有世界鹽的性質，一定有些不同之處...

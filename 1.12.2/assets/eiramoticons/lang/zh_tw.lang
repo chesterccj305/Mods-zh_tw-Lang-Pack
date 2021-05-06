@@ -1,4 +1,4 @@
-eiramoticons:command.clearcache=已清除緩存。
+﻿eiramoticons:command.clearcache=已清除快取。
 eiramoticons:command.help.clickHere=這裡
 eiramoticons:command.help=* 點擊%s進入官方的 §oEiraMoticons§r 幫助頁面。
 eiramoticons:command.list.clickHere=這裡
@@ -51,6 +51,6 @@ eiramoticons:group.twitch.prime=Twitch Prime
 eiramoticons:group.twitch.smiley=Twitch Smiley
 eiramoticons:group.twitch.subscriber=頻道：§r%s
 eiramoticons:group.twitch=Twitch Global
-eiramoticons:gui.config.title=EiraMoticons 配置
+eiramoticons:gui.config.title=EiraMoticons 設定
 eiramoticons:tooltip.group=§e%s
 eiramoticons:tooltip.name=§e表情：§r%s

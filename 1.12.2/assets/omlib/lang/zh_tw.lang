@@ -1,4 +1,4 @@
-gui.omtteam.omlib:active=啟用
+﻿gui.omtteam.omlib:active=啟用
 gui.omtteam.omlib:always_off=總是關閉
 gui.omtteam.omlib:always_on=總是開啟
 gui.omtteam.omlib:attack_mobs=攻擊怪物
@@ -21,7 +21,7 @@ gui.omtteam.omlib:shift_detail_start=按下
 gui.omtteam.omlib:true=真
 gui.omtteam.omlib:trusted_players=信任玩家
 gui.omtteam.omlib:yes=是
-item.debug_tool.name=調試工具
+item.debug_tool.name=除錯工具
 gui.omtteam.omlib:add_trusted_player=添加信任玩家
 gui.omtteam.omlib:permissions=權限
 gui.omtteam.omlib:access_level_none=無

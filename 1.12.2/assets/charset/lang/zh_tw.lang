@@ -1,9 +1,9 @@
-# config
+﻿# config
 
 config.charset.title=Charset 選項
 config.charset.profile.name=檔案
-config.charset.categories.name=模塊分類開關
-config.charset.overrides.name=單個模塊開關
+config.charset.categories.name=模組分類開關
+config.charset.overrides.name=單個模組開關
 
 # materials
 
@@ -28,8 +28,8 @@ tooltip.charset.disc.unnamed=未命名唱片
 
 # audio.transport
 
-tile.charset.audioCable.name=音頻線纜
-tile.charset.audioCable.freestanding.name=免支撐音頻線纜
+tile.charset.audioCable.name=音訊線纜
+tile.charset.audioCable.freestanding.name=免支撐音訊線纜
 
 # crafting.cauldron
 
@@ -53,7 +53,7 @@ tile.charset.compression_crafter.name=壓縮合成機
 
 # crafting.pocket
 
-item.charset.pocket_crafting_table.name=口袋工作台
+item.charset.pocket_crafting_table.name=口袋工作檯
 
 # decoration.signs
 
@@ -79,14 +79,14 @@ charset.color.magenta=洋紅色
 charset.color.orange=橙色
 charset.color.white=白色
 
-charset.point.toofar=你夠不到那麽遠的地方！
+charset.point.toofar=你搆不到那麼遠的地方！
 
 charset.text.nothing=沒有東西
 
 notice.charset.fluid=%1$s mB %2$s
 notice.charset.fluid.empty=空
 
-config.charset.lib.expert.name=高級設定
+config.charset.lib.expert.name=進階設定
 config.charset.lib.functionalityregistry.name=功能註冊
 config.charset.lib.general.name=一般設定
 
@@ -116,15 +116,15 @@ tile.charset.scaffold.format=%s腳手架
 
 # optics.laser
 
-tile.charset.beam_torch.name=%s激光火把
+tile.charset.beam_torch.name=%s雷射火把
 tile.charset.crystal.name=%s晶體
-tile.charset.prism.name=棱鏡
+tile.charset.prism.name=稜鏡
 tile.charset.reflector.name=%s反射鏡
 tile.charset.splitter.name=%s分光鏡
 
 # optics.projector
 
-tile.charset.projector.name=投影儀
+tile.charset.projector.name=投影機
 
 # overhaul.oneDimension
 
@@ -164,7 +164,7 @@ tile.charset.water_boiler.name=開水鍋爐
 
 config.charset.storage.barrels.features.name=特性開關
 config.charset.storage.barrels.general.name=一般設定
-config.charset.storage.barrels.render.name=客戶端與渲染
+config.charset.storage.barrels.render.name=用戶端與渲染
 
 item.charset.barrelCart.name=儲物桶車
 item.charset.barrelCart.known.name=%s車
@@ -178,7 +178,7 @@ tile.charset.barrel.name=儲物桶
 tile.charset.barrel.format=%2$s儲物桶
 tile.charset.barrel.format2=%1$s%2$s儲物桶
 tile.charset.barrel.SILKY.name=精密
-tile.charset.barrel.SILKY.silkhint=使用帶絲綢之觸的斧子
+tile.charset.barrel.SILKY.silkhint=使用帶絲綢之觸的斧頭
 tile.charset.barrel.HOPPING.name=漏式
 tile.charset.barrel.STICKY.name=黏性
 tile.charset.barrel.INFINITE.name=無限
@@ -205,7 +205,7 @@ tile.charset.tank.creative.name=無盡儲罐
 
 # tablet
 
-item.charset.tablet.name=信息板
+item.charset.tablet.name=資訊板
 
 # tools.building
 
@@ -215,7 +215,7 @@ item.charset.wrench.name=扳手
 
 # tools.tapemeasure
 
-item.charset.tapeMeasure.name=卷尺
+item.charset.tapeMeasure.name=捲尺
 notice.charset.tapeMeasure.length=%1$s 米
 
 # transport.rails

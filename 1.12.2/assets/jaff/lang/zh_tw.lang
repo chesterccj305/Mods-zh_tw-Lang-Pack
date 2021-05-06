@@ -1,4 +1,4 @@
-itemGroup.jaff=更多魚和水族箱
+﻿itemGroup.jaff=更多魚和水族箱
 
 tile.tank.name=魚缸
 
@@ -27,7 +27,7 @@ rod.info.bait=釣餌: %1$s 的 %2$s
 
 enchantment.fireFishingRod=燒製
 
-subtitles.item.rod.reel=釣魚竿捲軸
+subtitles.item.rod.reel=釣魚竿卷軸
 
 advancements.story.iron_hook.title=最前衛的釣魚技術
 advancements.story.iron_hook.description=製作一個鐵製魚鉤

@@ -1,5 +1,5 @@
-# General
-itemGroup.eapotioncore=永恒能力 - 藥水核心
+﻿# General
+itemGroup.eapotioncore=永恆能力 - 藥水核心
 
 ## Abilities
 ability.abilities.everlastingabilities.archery.name=精準射擊
@@ -71,7 +71,7 @@ ability.abilities.everlastingabilities.dispel.name=祛除
 ability.abilities.everlastingabilities.dispel.info=在你附近的實體的所有正面藥水效果將會消失
 
 # Config Screens
-config.eapotioncore=%s 的配置
+config.eapotioncore=%s 的設定
 
 ## Config categories
 config.eapotioncore.item=物品設置

@@ -1,4 +1,4 @@
-frame.dir.abbreviations.0=B
+﻿frame.dir.abbreviations.0=B
 frame.dir.abbreviations.1=T
 frame.dir.abbreviations.2=N
 frame.dir.abbreviations.3=S
@@ -27,7 +27,7 @@ item.funkylocomotion:wrench_hammer.name=扳手錘
 itemGroup.funkylocomotion=位移框架
 tile.funkylocomotion:booster.name=框架助推器
 tile.funkylocomotion:frame.name=框架方塊
-tile.funkylocomotion:frame_projector.name=框架投影儀
+tile.funkylocomotion:frame_projector.name=框架投影機
 tile.funkylocomotion:mass_frame_corner.name=超級框架角落方塊
 tile.funkylocomotion:mass_frame_edge.name=超級框架邊緣方塊
 tile.funkylocomotion:pusher.0.name=框架推進器

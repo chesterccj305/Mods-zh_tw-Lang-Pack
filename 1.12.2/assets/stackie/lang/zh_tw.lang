@@ -1,4 +1,4 @@
-# gui - config
+﻿# gui - config
 stackie.general.stacklimit=堆疊限制
 stackie.general.interval=時間間隔
 stackie.general.distance=距離

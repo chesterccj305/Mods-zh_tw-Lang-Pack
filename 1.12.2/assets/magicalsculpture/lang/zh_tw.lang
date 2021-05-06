@@ -1,4 +1,4 @@
-#Creative Tab
+﻿#Creative Tab
 itemGroup.magicalsculpture =魔法雕像
 
 #塊
@@ -48,7 +48,7 @@ item.magicalsculpture：relic.10.comment =再挖幾下就能看到鑽石了，�
 item.magicalsculpture：relic.11.name =變質的混合肉排
 item.magicalsculpture：relic.11.comment =看著就噁心
 item.magicalsculpture：relic.12.name =暗影斗篷
-item.magicalsculpture：relic.12.comment =唯一的問題是找不到它被放在哪兒
+item.magicalsculpture：relic.12.comment =唯一的問題是找不到它被放在哪裡
 item.magicalsculpture：relic.13.name =螢石項鍊
 item.magicalsculpture：relic.13.comment =成為黑夜裡的燈塔 - 或是電燈泡
 item.magicalsculpture：relic.14.name =火焰領主的許諾
@@ -104,12 +104,12 @@ item.magicalsculpture：relic.38.comment =不管是怪物還是執法者都束�
 item.magicalsculpture：relic.39.name =紅寶石碎心魔杖
 item.magicalsculpture：relic.39.comment =來自一位法師，時間線因他掀起波瀾
 item.magicalsculpture：relic.40.name =損壞的時停錶
-item.magicalsculpture：relic.40.comment =像兔子一樣......不，這只是一個复刻版
+item.magicalsculpture：relic.40.comment =像兔子一樣......不，這只是一個復刻版
 item.magicalsculpture：relic.41.name =光耀錢幣
 item.magicalsculpture：relic.41.comment =光耀領主親自鑄造的錢幣
 item.magicalsculpture：relic.42.name =素魚
 item.magicalsculpture：relic.42.comment =用草做的魚，也許喜歡嗜齋的貓會喜歡
-item.magicalsculpture：遺物.43.name =倒霉的魚
+item.magicalsculpture：遺物.43.name =倒楣的魚
 item.magicalsculpture：relic.43.comment =估計是被釣上來的時候因為太用力造成的，這條魚的幸運值肯定只有ë
 item.magicalsculpture：relic.44.name =潛水員魚
 item.magicalsculpture：relic.44.comment =你再說一遍這是什麼？
@@ -132,15 +132,15 @@ guide.magicalsculpture：content.relics =尋找聖物
 guide.magicalsculpture：content.amplifier =增幅器
 guide.magicalsculpture：content.notes =後記
 
-guide.magicalsculpture：intro.text1 =看來你已經合成了一個雕像鑿，恭喜你現在你可以通過製作放入聖物後具有光環效果的雕像了使用鑽石，石頭和箱子來製作雕像石和底座！。
+guide.magicalsculpture：intro.text1 =看來你已經合成了一個雕像鑿，恭喜你現在你可以透過製作放入聖物後具有光環效果的雕像了使用鑽石，石頭和箱子來製作雕像石和底座！。
 guide.magicalsculpture：intro.text2 =周遊世界，手工合成，擊殺怪物以及各種方式來獲得聖物具體的內容請繼續閱讀〜
 
 guide.magicalsculpture：structure.text1 =製作2x2x4個雕像石來構築雕像本體
 guide.magicalsculpture：structure.text2 =製作2x2x1個雕像底座來構築雕像的底座
 guide.magicalsculpture：structure.text3 =如圖所示，雕像為多方塊結構將對應方塊如圖擺放擺放完畢後使用雕像鑿輕敲一下即可完成！
 guide.magicalsculpture：structure.text4 =雕像會為一定範圍內的玩家提供BUFF，BUFF的種類取決於被放置其中的聖物。
-guide.magicalsculpture：structure.text5 =右鍵雕像部分，通過在此處放置[聖物]來讓雕像提供對應的效果
-guide.magicalsculpture：structure.text6 =右鍵底座部分，通過在此處放置[增幅器]來提升雕像影響範圍
+guide.magicalsculpture：structure.text5 =右鍵雕像部分，透過在此處放置[聖物]來讓雕像提供對應的效果
+guide.magicalsculpture：structure.text6 =右鍵底座部分，透過在此處放置[增幅器]來提升雕像影響範圍
 
 guide.magicalsculpture：relics.text1 =探索世界，手工合成或是在河邊垂釣來收集更多的[聖物]！
 

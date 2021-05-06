@@ -1,4 +1,4 @@
-tile.waystones:waystone.name=傳送石碑
+﻿tile.waystones:waystone.name=傳送石碑
 
 item.waystones:warp_scroll.name=瞬移卷軸
 item.waystones:warp_scroll_bound.name=瞬移卷軸（已綁定）

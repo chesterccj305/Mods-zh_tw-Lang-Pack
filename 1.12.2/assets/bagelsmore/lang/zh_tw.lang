@@ -1,15 +1,15 @@
-//Bagelsmore
+﻿//Bagelsmore
 item.Clipboard.name=剪貼板
 item.ClipboardEmpty.name=剪貼
 itemGroup.bagelsmore=Bagelsmore
 tile.Bookshelf.name=書架
 tile.CabinetFancy.name=花式櫥櫃
 tile.CabinetStone.name=石質櫥櫃
-tile.CabinetTreated.name=精致櫥櫃
+tile.CabinetTreated.name=精緻櫥櫃
 tile.Candle.name=蠟燭
 tile.DeskFancy.name=花式書桌
 tile.DeskStone.name=石製書桌
-tile.DeskTreated.name=精致書桌
+tile.DeskTreated.name=精緻書桌
 tile.DrawerLarge.name=大儲存抽屜
 tile.DrawerSmall.name=儲存抽屜
 tile.EnderDrawer.name=終界抽屜
@@ -20,4 +20,4 @@ tile.Paper.name=待辦事項列表
 tile.RecyclingDrawer.name=回收抽屜
 tile.SmeltingDrawer.name=冶煉抽屜
 tile.SwordMount.name=劍座
-tile.TreatedPlanks=精致木板
+tile.TreatedPlanks=精緻木板

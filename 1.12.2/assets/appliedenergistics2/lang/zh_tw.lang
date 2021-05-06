@@ -1,4 +1,4 @@
-// 方塊
+﻿// 方塊
 tile.appliedenergistics2.cable_bus.name=AE2 線纜和（或）匯流排
 tile.appliedenergistics2.cell_workbench.name=單元工作臺
 tile.appliedenergistics2.charger.name=充能器
@@ -206,7 +206,7 @@ gui.appliedenergistics2.OfSecondOutput=%1$d%%的機率得到副產物。
 gui.appliedenergistics2.MultipleOutputs=%1$d%%的機率得到第一副產物，%2$d%%的機率得到第二副產物。
 gui.appliedenergistics2.SelectAmount=選擇數量
 gui.appliedenergistics2.CopyMode=複製模式
-gui.appliedenergistics2.CopyModeDesc=控制當取出儲存單元時，是否清空配置格。
+gui.appliedenergistics2.CopyModeDesc=控制當取出儲存單元時，是否清空設定格。
 gui.appliedenergistics2.Next=下一頁
 gui.appliedenergistics2.Lumen=光通
 gui.appliedenergistics2.Empty=空

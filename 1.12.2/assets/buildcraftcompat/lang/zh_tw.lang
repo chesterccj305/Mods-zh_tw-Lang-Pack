@@ -1,4 +1,4 @@
-for.gui.pipe.filter.anything=任意物品
+﻿for.gui.pipe.filter.anything=任意物品
 for.gui.pipe.filter.bee=任意蜜蜂
 for.gui.pipe.filter.cave=穴居
 for.gui.pipe.filter.closed=已關閉
@@ -12,7 +12,7 @@ for.gui.pipe.filter.pure_breed=純種蜜蜂
 for.gui.pipe.filter.pure_cave=純種穴居蜂
 for.gui.pipe.filter.pure_flyer=純種飛蜂
 for.gui.pipe.filter.pure_nocturnal=純種夜行蜜蜂
-for.gui.pipe.filter.queen=蜂後
+for.gui.pipe.filter.queen=蜂后
 gate.trigger.mfr.backstuffed=能夠掉落
 gate.trigger.mfr.conreversed=傳送帶反轉
 gate.trigger.mfr.conrunning=傳送帶運行

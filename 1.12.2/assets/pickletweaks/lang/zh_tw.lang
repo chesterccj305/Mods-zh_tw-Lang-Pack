@@ -1,4 +1,4 @@
-# CREATIVE TAB
+﻿# CREATIVE TAB
 itemGroup.pickletweaks=醃菜調整
 
 # BLOCKS
@@ -37,7 +37,7 @@ item.pt.nightvision_goggles.name=夜視鏡
 item.pt.nightvision_goggles_c.name=增強型夜視鏡
 item.pt.mortar_and_pestle.name=臼和杵
 item.pt.repair_kit.name=修理包
-item.pt.reinforcement.name=加固
+item.pt.reinforcement.name=強化
 
 item.pt.dye_powder_white.name=白色染料粉末
 item.pt.dye_powder_orange.name=橙色染料粉末
@@ -90,9 +90,9 @@ item.pt.coin_gold.name=金幣
 item.pt.coin_diamond.name=鑽石幣
 item.pt.coin_emerald.name=綠寶石幣
 
-item.pt.ppm4_info.name=信息
+item.pt.ppm4_info.name=資訊
 item.pt.ppm4_monkas.name=monkaS
-item.pt.ppm4_paperclip.name=回形針
+item.pt.ppm4_paperclip.name=迴紋針
 
 item.pt.copper_sword.name=銅劍
 item.pt.copper_pickaxe.name=銅鎬
@@ -130,7 +130,7 @@ kit.pt.platinum=白金
 # TOOLTIPS
 tooltip.pt.uses_left=使用左鍵：
 
-tooltip.pt.hold_shift_for_info=保持§e§o SHIFT §r§7的信息
+tooltip.pt.hold_shift_for_info=保持§e§o SHIFT §r§7的資訊
 
 tooltip.pt.mining_level=採礦級別：
 tooltip.pt.mining_speed=採礦速度： 
@@ -163,7 +163,7 @@ tooltip.pt.enabled=啟用
 
 tooltip.pt.unbreakable=不會損壞
 
-tooltip.pt.reinforce=加固值： %s
+tooltip.pt.reinforce=強化值： %s
 tooltip.pt.reinforced=加強 (%s/%s)
 
 desc.item.pt.coal_piece=僅製作一個物品。在爐中烹飪任何東西時，可以更有效地使用燃料。

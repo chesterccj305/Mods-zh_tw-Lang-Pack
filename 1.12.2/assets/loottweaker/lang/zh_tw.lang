@@ -1,4 +1,4 @@
-loottweaker.commands.dump.dumpLink=將戰利品表 %s 扔到 
+﻿loottweaker.commands.dump.dumpLink=將戰利品表 %s 扔到 
 #PARSE_ESCAPES
 loottweaker.commands.dump.desc=§2/ct loottables [mode] <args>\n§3轉儲特定的戰利品表(s)\n§3to <game directory>/dumps
 loottweaker.commands.dump.usage=用法：ct loottables [mode] <args>\n模式：全部 | 目標 | 按名字 | 列表\nArgs：無| 無 | 表名 | 無
@@ -15,9 +15,9 @@ loottweaker.messages.error.unparseableFunctionType=%s不是 IData 或 LootFuncti
 loottweaker.messages.error.unparseableConditionType=%s不是IData或LootCondition的實例！
 loottweaker.messages.error.functionhelper.invalidEnchant=%s不是有效的附魔ID
 loottweaker.messages.error.functionhelper.damageOver100=物品不能超過100%的傷害！
-loottweaker.messages.error.deprecation.warning1=LootTweaker：一個或多個腳本使用不推薦使用的方法。 查看 crafttweaker.log 以獲取更多信息。
+loottweaker.messages.error.deprecation.warning1=LootTweaker：一個或多個腳本使用不推薦使用的方法。 查看 crafttweaker.log 以獲取更多資訊。
 loottweaker.messages.error.deprecation.warning2=%s已棄用
-loottweaker.messages.error.deprecation.warning3=有關詳細信息，請參閱 https://github.com/Leviathan143/LootTweaker/wiki/Deprecations 可以在配置中禁用此警告。
-loottweaker.config.deprecationWarnings=LootTweaker 是否應警告世界負載的棄用方法？ 如果更改了LootTweaker的版本，則重置。
+loottweaker.messages.error.deprecation.warning3=有關詳細資訊，請參閱 https://github.com/Leviathan143/LootTweaker/wiki/Deprecations 可以在設定中禁用此警告。
+loottweaker.config.deprecationWarnings=LootTweaker 是否應警告世界負載的棄用方法？ 如果更改了LootTweaker的版本，則重設。
 loottweaker.config.lastCfgVersion=不要碰！
 loottweaker.commands.dump.unknownSubcommand=未知的子命令 %s

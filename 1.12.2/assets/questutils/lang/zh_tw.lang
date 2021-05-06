@@ -1,4 +1,4 @@
-item.questutils.controlkey.name=控制鍵
+﻿item.questutils.controlkey.name=控制鍵
 itemGroup.questutils=QuestUtils
 tile.questutils.item_comparator.name=物品比較器
 tile.questutils.pedestal.name=基座

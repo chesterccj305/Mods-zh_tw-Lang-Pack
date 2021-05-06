@@ -1,4 +1,4 @@
-#zh_tw
+﻿#zh_tw
 
 chat.thermalfoundation.augment.install.failure=不能安裝升級組件。
 chat.thermalfoundation.augment.install.success=升級組件安裝成功！
@@ -67,8 +67,8 @@ gui.thermalfoundation.lexicon.study=辭典 - 知識
 gui.thermalfoundation.lexicon.transmute=辭典 - 變化
 
 info.thermalfoundation.diagram.erase=潛行時使用可抹去其上的數據。
-info.thermalfoundation.diagram.redprint.0=對著設備使用可複製其配置。
-info.thermalfoundation.diagram.redprint.1=對著設備使用可快速應用該配置。
+info.thermalfoundation.diagram.redprint.0=對著設備使用可複製其設定。
+info.thermalfoundation.diagram.redprint.1=對著設備使用可快速應用該設定。
 
 info.thermalfoundation.offhandUse=拿在手上使你可以在放置方塊的時候使用.
 
@@ -76,7 +76,7 @@ info.thermalfoundation.security.lock=用在可被安全保護的方塊上，或�
 
 info.thermalfoundation.tome.experience.0=在它的書頁裡面儲存經驗.
 info.thermalfoundation.tome.experience.1=曾經在書裡面儲存過知識.
-info.thermalfoundation.tome.experience.2=按住Shift使用它來回复知識.
+info.thermalfoundation.tome.experience.2=按住Shift使用它來回復知識.
 info.thermalfoundation.tome.experience.a.0=§b按 (%s) 來開啟自動收集.§r
 info.thermalfoundation.tome.experience.a.1=§e按 (%s) 來關閉自動收集.§r
 
@@ -94,7 +94,7 @@ info.thermalfoundation.upgrade.full.1=可在任何低級別的方塊上使用。
 info.thermalfoundation.upgrade.incremental.0=將目標方塊提升一個等級。
 info.thermalfoundation.upgrade.incremental.1=目標方塊必須比該升級低一級。
 
-info.thermalfoundation.util.multimeter.0=顯示目標的信息。
+info.thermalfoundation.util.multimeter.0=顯示目標的資訊。
 info.thermalfoundation.util.multimeter.1=某些設備支持用其調整設置（需在潛行時完成）。
 info.thermalfoundation.util.wrench.0=旋轉或拆掉機器.
 info.thermalfoundation.util.wrench.1=它真的是一把扳手，但如果你需要它，可以拿來當錘子用.
@@ -187,7 +187,7 @@ item.thermalfoundation.diagram.formula.name=公式
 item.thermalfoundation.diagram.pattern.name=樣板
 item.thermalfoundation.diagram.redprint.name=紅圖
 item.thermalfoundation.diagram.schematic.name=圖紙
-item.thermalfoundation.diagram.scroll.name=捲軸
+item.thermalfoundation.diagram.scroll.name=卷軸
 
 item.thermalfoundation.dye.dyeBlack.name=黑顏料
 item.thermalfoundation.dye.dyeBlue.name=藍顏料
@@ -601,7 +601,7 @@ itemGroup.thermalseries.creativeTabUtils=熱力系列：道具
 
 tab.thermalfoundation.lexicon.study.0=學習關於這個世界的知識，然後改變你自己的命運。
 tab.thermalfoundation.lexicon.study.1=借助辭典的力量使世界服從你的意識。
-tab.thermalfoundation.lexicon.transmute.0=你可以通過更強大的能量來轉換等價物品。
+tab.thermalfoundation.lexicon.transmute.0=你可以透過更強大的能量來轉換等價物品。
 tab.thermalfoundation.lexicon.transmute.1=壓制此辭典，迫使其放棄對世界的主宰。
 
 tile.thermalfoundation.fluid.aerotheum.name=飛揚之清風
@@ -684,4 +684,3 @@ tile.thermalfoundation.storage.signalum.name=信素塊
 tile.thermalfoundation.storage.silver.name=銀塊
 tile.thermalfoundation.storage.steel.name=鋼塊
 tile.thermalfoundation.storage.tin.name=錫塊
-

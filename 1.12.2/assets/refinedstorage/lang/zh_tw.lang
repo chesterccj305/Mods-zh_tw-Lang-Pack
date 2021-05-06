@@ -1,4 +1,4 @@
-itemGroup.refinedstorage=精緻儲存
+﻿itemGroup.refinedstorage=精緻儲存
 itemGroup.refinedstorage.covers=精緻儲存套
 
 key.refinedstorage.focusSearchBar=選取面板搜尋欄
@@ -70,7 +70,7 @@ gui.refinedstorage:crafting_preview.error.too_complex.1=將會停止避免伺服
 gui.refinedstorage:reader=讀取器
 gui.refinedstorage:writer=書寫器
 gui.refinedstorage:security_manager=安全管理機
-gui.refinedstorage:security_manager.configure=配置
+gui.refinedstorage:security_manager.configure=設定
 gui.refinedstorage:security_manager.permission.0=輸入
 gui.refinedstorage:security_manager.permission.0.tooltip=輸入物品進入網路
 gui.refinedstorage:security_manager.permission.1=輸出

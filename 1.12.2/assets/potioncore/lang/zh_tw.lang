@@ -1,4 +1,4 @@
-potion.potency.3=IV
+﻿potion.potency.3=IV
 potion.potency.4=V
 potion.potency.5=VI
 potion.potency.6=VII
@@ -220,10 +220,10 @@ lingering_potion.effect.repair=滯留 修補藥水
 tipped_arrow.effect.repair=修補之箭
 
 effect.rust=腐蝕
-potion.effect.rust=銹化藥水
-splash_potion.effect.rust=飛濺 銹化藥水
-lingering_potion.effect.rust=滯留 銹化藥水
-tipped_arrow.effect.rust=銹化之箭
+potion.effect.rust=鏽化藥水
+splash_potion.effect.rust=飛濺 鏽化藥水
+lingering_potion.effect.rust=滯留 鏽化藥水
+tipped_arrow.effect.rust=鏽化之箭
 
 effect.extension=延時
 potion.effect.extension=延時藥水

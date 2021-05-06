@@ -1,4 +1,4 @@
-itemGroup.dungeontacticsmain=地下城戰術
+﻿itemGroup.dungeontacticsmain=地下城戰術
 itemGroup.dungeontacticsweapons=地下城戰術武器
 itemGroup.dungeontacticsarmour=地下城戰術裝甲
 itemGroup.dungeontacticsblocks=地下城戰術方塊
@@ -16,7 +16,7 @@ item.dungeontactics:dungeonpedia_volume_8.name=世界
 
 item.dungeontactics:master_hammer_smash.name=大師戰錘「粉碎」
 item.dungeontactics:master_hammer_leap.name=大師戰錘「飛躍」
-item.dungeontactics:master_cutlass_riposte.name=大師佩劍「里波斯特」
+item.dungeontactics:master_cutlass_riposte.name=大師佩劍「裡波斯特」
 item.dungeontactics:master_cutlass_pierce.name=大師佩劍「刺穿」
 item.dungeontactics:master_knife_smokebomb.name=大師匕首「煙霧彈」
 item.dungeontactics:master_knife_multistrike.name=大師匕首「多次打擊」
@@ -195,9 +195,9 @@ item.dungeontactics:flight_goggles.name=飛行員護目鏡
 item.dungeontactics:rocket_pants.name=火箭褲
 item.dungeontactics:bounce_boots.name=彈力靴
 
-item.dungeontactics:tunnelling_device.name=便攜式隧道設備
-item.dungeontactics:piston_glove.name=便攜式活塞設備
-item.dungeontactics:piston_glove_sticky.name=便攜式黏性活塞設備
+item.dungeontactics:tunnelling_device.name=攜帶式隧道設備
+item.dungeontactics:piston_glove.name=攜帶式活塞設備
+item.dungeontactics:piston_glove_sticky.name=攜帶式黏性活塞設備
 item.dungeontactics:engineers_wrench_iron.name=鐵製工程師扳手
 item.dungeontactics:engineers_wrench_steel.name=鋼製工程師扳手
 
@@ -432,12 +432,12 @@ enchantment.dungeontactics:poison_feather=輕盈
 
 enchantment.dungeontactics.ducttaped.desc=此物品與膠帶一起使用，需要在某些時候完整修覆。
 
-enchantment.dungeontactics.biggerboom.desc=增加便攜式隧道設備的爆炸力。
-enchantment.dungeontactics.sonicboom.desc=使便攜式隧道設備創造出魔法的爆炸，消除了對火藥的需求。
+enchantment.dungeontactics.biggerboom.desc=增加攜帶式隧道設備的爆炸力。
+enchantment.dungeontactics.sonicboom.desc=使攜帶式隧道設備創造出魔法的爆炸，消除了對火藥的需求。
 enchantment.dungeontactics.clustered.desc=導致鍋拍的投射物在撞擊時分裂。
 enchantment.dungeontactics.explosive.desc=鍋拍的投射物會爆炸。
 enchantment.dungeontactics.debilitating.desc=將鍋拍的投射物變成腐蝕性的黏液，減緩和傷害目標。
-enchantment.dungeontactics.smelting.desc=開采時冶煉。
+enchantment.dungeontactics.smelting.desc=開採時冶煉。
 enchantment.dungeontactics.berserking.desc=使用者護甲越少，額外傷害越高。
 enchantment.dungeontactics.lifesteal.desc=造成傷害時部分回覆生命值。
 enchantment.dungeontactics.runed.desc=將一部分物理傷害轉變為魔法傷害，繞過盔甲的防護。
@@ -501,24 +501,24 @@ advancements.dungeoneering.framediploma.title=炫耀
 advancements.dungeoneering.framediploma.description=為你的成就驕傲？
 advancements.dungeoneering.getlootbag.title=漂亮的戰利品
 advancements.dungeoneering.getlootbag.description=過會你就會被隨機性拉回現實
-advancements.dungeoneering.eatpotionfish.title=漩渦裏有鍋嗎？
+advancements.dungeoneering.eatpotionfish.title=漩渦裡有鍋嗎？
 advancements.dungeoneering.eatpotionfish.description=效果雖然不好，但是這可真實惠！
 advancements.dungeoneering.eatallpotionfish.title=烹飪冒險
 advancements.dungeoneering.eatallpotionfish.description=黏糊糊的，但是真令人滿意！
 advancements.dungeoneering.getalchemicalcauldron.title=冒泡泡泡泡泡泡
-advancements.dungeoneering.getalchemicalcauldron.description=我喜歡生銹的勺勺勺勺勺子！
+advancements.dungeoneering.getalchemicalcauldron.description=我喜歡生鏽的勺勺勺勺勺子！
 advancements.dungeoneering.gettome.title=給我力量！
 advancements.dungeoneering.gettome.description=你根本沒讀過他，對吧？
 advancements.dungeoneering.getalltomes.title=動的大圖書館
 advancements.dungeoneering.getalltomes.description=你可要小心剪刀。
 advancements.dungeoneering.rocketpants.title=火箭頭
-advancements.dungeoneering.rocketpants.description=他獨自燃燒他的導火索。
+advancements.dungeoneering.rocketpants.description=他獨自燃燒他的導火線。
 advancements.dungeoneering.bounceboots.title=失敗還得從頭再來
 advancements.dungeoneering.bounceboots.description=...或類似的東西..
 advancements.dungeoneering.getgrenade.title=燙手的洋芋
 advancements.dungeoneering.getgrenade.description=花盆適合鮮花與爆炸。
 advancements.dungeoneering.dropgrenade.title=必然會發生
-advancements.dungeoneering.dropgrenade.description=首先，你很開心，那麽你必須數到三。
+advancements.dungeoneering.dropgrenade.description=首先，你很開心，那麼你必須數到三。
 advancements.dungeoneering.killtowerguardian.title=一山不容二虎
 advancements.dungeoneering.killtowerguardian.description=殺死一位高塔守衛者
 advancements.dungeoneering.usephylactery.title=還沒做完
@@ -540,14 +540,14 @@ item.dungeontactics:dungeonpedia.name=腐朽發黴的書籍
 
 item.dungeontactics:slime_bucket.name=史萊姆桶
 
-item.dungeontactics:grenade_concussive.name=手雷
-item.dungeontactics:grenade_concussive_cluster.name=集束手雷
-item.dungeontactics:grenade_pyro.name=爆熾手雷
-item.dungeontactics:grenade_pyro_cluster.name=集束爆熾手雷
-item.dungeontactics:grenade_cryo.name=寒霜手雷
-item.dungeontactics:grenade_cryo_cluster.name=集束寒霜手雷
-item.dungeontactics:grenade_porting.name=傳送手雷
-item.dungeontactics:grenade_porting_cluster.name=集束傳送手雷
+item.dungeontactics:grenade_concussive.name=手榴彈
+item.dungeontactics:grenade_concussive_cluster.name=集束手榴彈
+item.dungeontactics:grenade_pyro.name=爆熾手榴彈
+item.dungeontactics:grenade_pyro_cluster.name=集束爆熾手榴彈
+item.dungeontactics:grenade_cryo.name=寒霜手榴彈
+item.dungeontactics:grenade_cryo_cluster.name=集束寒霜手榴彈
+item.dungeontactics:grenade_porting.name=傳送手榴彈
+item.dungeontactics:grenade_porting_cluster.name=集束傳送手榴彈
 
 item.dungeontactics:gilded_hammer.name=鍍金戰錘
 item.dungeontactics:jewelled_hammer.name=鑲鑽戰錘
@@ -720,7 +720,7 @@ item.dungeontactics:engineer_doorag.name=工程師頭巾
 item.dungeontactics:engineers_wrench_bronze.name=青銅工程師扳手
 
 item.dungeontactics:battle_hat.name=狼皮帽
-item.dungeontactics:battle_harness.name=戰鬥甲胄
+item.dungeontactics:battle_harness.name=戰鬥甲冑
 item.dungeontactics:battle_belt.name=戰鬥皮帶
 item.dungeontactics:battle_boots.name=戰鬥護脛
 
@@ -748,7 +748,7 @@ entity.dungeontactics:flint_entity.name=燧石
 entity.dungeontactics:cherrybomb_entity.name=櫻桃炸彈
 entity.dungeontactics:incindiberry_entity.name=英森迪樹莓
 entity.dungeontactics:glowcurrent_entity.name=螢光果
-entity.dungeontactics:fraggrenade_entity.name=手雷
-entity.dungeontactics:pyrogrenade_entity.name=爆熾手雷
-entity.dungeontactics:portinggrenade_entity.name=傳送手雷
-entity.dungeontactics:cryogrenade_entity.name=寒霜手雷
+entity.dungeontactics:fraggrenade_entity.name=手榴彈
+entity.dungeontactics:pyrogrenade_entity.name=爆熾手榴彈
+entity.dungeontactics:portinggrenade_entity.name=傳送手榴彈
+entity.dungeontactics:cryogrenade_entity.name=寒霜手榴彈

@@ -1,4 +1,4 @@
-item.tinkersforging:hammer.diamond.name=鑽石工匠錘
+﻿item.tinkersforging:hammer.diamond.name=鑽石工匠錘
 item.tinkersforging:hammer.stone.name=石製工匠錘
 item.tinkersforging:hammer.wood.name=木製工匠錘
 itemGroup.tinkersforging.stuff=Tinker's Forging
@@ -88,4 +88,3 @@ item.tinkersforging:ntp_saw.name=鋸刃
 item.tinkersforging:pickaxe_head.name=鎬首
 item.tinkersforging:shovel_head.name=鏟首
 item.tinkersforging:sword_blade.name=劍刃
-

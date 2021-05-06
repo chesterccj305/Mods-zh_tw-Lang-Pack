@@ -1,4 +1,4 @@
-material.glass.name=玻璃
+﻿material.glass.name=玻璃
 material.gold.name=金
 material.topaz.name=黃玉
 material.ruby.name=紅寶石
@@ -33,7 +33,7 @@ modifier.tometinkers_strengthening_armor.desc=給我力量！\n這個護甲使�
 modifier.tometinkers_optimized_armor.name=天生一對
 modifier.tometinkers_optimized_armor.desc=完美！\n你的生命值越低，你的護甲就能吸收更多傷害。
 modifier.tometinkers_reinforced.name=耐久
-modifier.tometinkers_reinforced.desc=如此強大！§r\n每級增加20%的概率在使用工具時不消耗耐久。
+modifier.tometinkers_reinforced.desc=如此強大！§r\n每級增加20%的機率在使用工具時不消耗耐久。
 modifier.xu_xp_boost_armor.name=經驗提升
 modifier.xu_xp_boost_armor.desc=提供額外經驗。
 modifier.xu_withering_armor.name=厄運光環

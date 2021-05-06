@@ -1,4 +1,4 @@
-#ZettaIndustries 
+﻿#ZettaIndustries 
 itemGroup.zettaindustries=澤它重工
 item.zettaindustries.logo.name=澤它重工
 
@@ -13,16 +13,16 @@ item.zettaindustries.itemcardnfc.name=NFC卡片
 item.zettaindustries.itemprivatecardnfc.name=私有NFC卡片
 zettaindustries.text.nfc.message1=NFC已寫入！
 zettaindustries.text.nfc.message2=你不是此卡主人或者此卡沒有主人！
-item.zettaindustries.smartcard.name=智能卡[WIP]
-item.zettaindustries.smartcardterminal.name=智能卡終端[WIP]
-tile.zettaindustries.smartcardterminalblock.name=智能卡終端[WIP]
+item.zettaindustries.smartcard.name=智慧卡[WIP]
+item.zettaindustries.smartcardterminal.name=智慧卡終端[WIP]
+tile.zettaindustries.smartcardterminalblock.name=智慧卡終端[WIP]
 #Battery
-tile.zettaindustries.batterypowertap.name=蓄電池能源接口
+tile.zettaindustries.batterypowertap.name=蓄電池能源介面
 tile.zettaindustries.batteryelectrode.name=蓄電池電極
 tile.zettaindustries.sulfurblock.name=硫磺塊
 tile.zettaindustries.batteryglass.name=蓄電池玻璃
 tile.zettaindustries.batterycontroller.name=蓄電池控制器
-tile.zettaindustries.batterycomputerport.name=蓄電池電腦接口
+tile.zettaindustries.batterycomputerport.name=蓄電池電腦介面
 tile.zettaindustries.sulfurousacid.name=亞硫酸
 tile.zettaindustries.batterywall.name=蓄電池壁
 item.zettaindustries.acidbucket.name=亞硫酸桶
@@ -35,7 +35,7 @@ tooltip.bottom=底面
 tooltip.top=頂面
 tooltip.frame=框架
 tooltip.controller1=一個電池最多有一台控制器
-tooltip.electrode1=必須放置於能源接口下方成一豎列
+tooltip.electrode1=必須放置於能源介面下方成一豎列
 tooltip.electrode2=每一豎列電極高度須與電池內部高度一致
 tooltip.powertap1=必須放置於一豎列電極上方
 tooltip.powertap2=右擊以改變能源流量
@@ -70,7 +70,7 @@ tile.zettaindustries.simpledhd.name=簡易撥號盤
 item.zettaindustries.lightningfirework.name=雷霆火箭
 ie.manual.entry.lightningfirework.name=雷霆火箭
 ie.manual.entry.lightningfirework.subtext=呼喚雷電的火箭
-ie.manual.entry.lightningfirework0=一枚拴有細長銅導線的火箭彈，爆炸後會召喚落雷。需要在高度大於120的地方才有可能奏效。下雨時也可以用，當然在雷暴來臨的時候觸發幾率更高。在沙漠放這個沒什麽用。
+ie.manual.entry.lightningfirework0=一枚拴有細長銅導線的火箭彈，爆炸後會召喚落雷。需要在高度大於120的地方才有可能奏效。下雨時也可以用，當然在雷暴來臨的時候觸發機率更高。在沙漠放這個沒什麼用。
 
 #FU Meter
 tile.zettaindustries.rfmeterblock.name=FU電表
@@ -81,7 +81,7 @@ tile.zettaindustries.blockcontroller.name=超導體控制器
 
 #E-Catalogue
 tile.zettaindustries.ecatalogue.name=電子目錄
-item.zettaindustries.mailmanupgrade.name=郵遞員升級
+item.zettaindustries.mailmanupgrade.name=郵差升級
 item.zettaindustries.mailman.tip=允許機器人或無人機發送信件並查找發信人。
 
 #WireGun
@@ -89,8 +89,8 @@ item.zettaindustries.hook.name=鐵鉤
 item.immersiveengineering.bullet.zettaindustries:hook_bullet.name=鉤彈
 item.immersiveengineering.bullet.zettaindustries:hook_bullet.tip=發射後將線纜連上右手邊的連接器
 ie.manual.entry.wiregun.name=鉤彈
-ie.manual.entry.wiregun.subtext=只是一發帶著鉤子的子彈
-ie.manual.entry.wiregun1=這種子彈可以讓你遠程連接兩個連接器。只需要為你的左輪上這種子彈，然後瞄準連接器打一槍，就可以將線纜連上右手邊的連接器了。雖然沒什麽實戰價值，但對於工程師的日常來說卻是個好東西。
+ie.manual.entry.wiregun.subtext=只是一髮帶著鉤子的子彈
+ie.manual.entry.wiregun1=這種子彈可以讓你遠程連接兩個連接器。只需要為你的左輪上這種子彈，然後瞄準連接器打一槍，就可以將線纜連上右手邊的連接器了。雖然沒什麼實戰價值，但對於工程師的日常來說卻是個好東西。
 
 #ForestryBackpacks
 item.backpack.creativeT1.name=創造模式背包

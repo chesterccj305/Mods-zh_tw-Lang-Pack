@@ -1,4 +1,4 @@
-#Localisation for Spartan Weaponry version beta 1.3.x
+﻿#Localisation for Spartan Weaponry version beta 1.3.x
 
 #Items
 item.spartanweaponry:handle.name=柄
@@ -67,7 +67,7 @@ item.spartanweaponry:proj_tipped.xu2.gravity=重力之%s
 item.spartanweaponry:proj_tipped.xu2.gravity.long=重力之%s
 item.spartanweaponry:proj_tipped.xu2.second.chance=%s of Second Chance
 item.spartanweaponry:proj_tipped.xu2.greek.fire=%s of Greek Fire
-item.spartanweaponry:proj_tipped.oily=油污之%s
+item.spartanweaponry:proj_tipped.oily=油汙之%s
 item.spartanweaponry:proj_tipped.xu2.fizzy.lifting=%s of Fizzy Lifting
 item.spartanweaponry:proj_tipped.xu2.relapse=%s of Relapse
 item.spartanweaponry:proj_tipped.xu2.love=%s of Love
@@ -272,7 +272,7 @@ enchantment.spartanweaponry:throwing_luck=幸運打擊
 enchantment.spartanweaponry.throwing_luck.desc=就像財富/搶劫一樣投擲武器
 
 #Tooltips
-tooltip.spartanweaponry:showDetails=[按 %s 顯示武器詳細信息]
+tooltip.spartanweaponry:showDetails=[按 %s 顯示武器詳細資訊]
 tooltip.spartanweaponry:throwable=可投擲
 tooltip.spartanweaponry:throwable.desc=該武器可以向敵人投擲
 tooltip.spartanweaponry:blocking=格檔
@@ -330,7 +330,7 @@ tooltip.spartanweaponry:quiver_bolt.desc=被動提供用於弩的短箭
 tooltip.spartanweaponry:quiver_capacity=最大容量： %d 個
 tooltip.spartanweaponry:quiver_show_contents=[按%s顯示更多內容]
 tooltip.spartanweaponry:quiver_show_description=[按%s顯示描述]
-tooltip.spartanweaponry:quiver_contains=當前包含：
+tooltip.spartanweaponry:quiver_contains=目前包含：
 tooltip.spartanweaponry:quiver_ammo=- %dx %s
 tooltip.spartanweaponry:quiver_none=- 無!
 tooltip.spartanweaponry:quiver_collect_status=Ammo Collect: %s

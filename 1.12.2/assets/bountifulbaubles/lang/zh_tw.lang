@@ -1,4 +1,4 @@
-
+﻿
 bountifulbaubles.misc.hasPhantomInk=§b淡淡的幻影墨水
 item.bountifulbaubles.modifierBook.none.name=飾品附魔:無
 bountifulbaubles.modifier.none.name=無
@@ -58,7 +58,7 @@ item.bountifulbaubles.modifierBook.violent.name=飾品附魔:暴力
 bountifulbaubles.modifier.violent.name=暴力
 bountifulbaubles.modifier.violent.info=§9暴力: +8% 攻擊速度
 item.bountifulbaubles.modifierBook.tooltip.0=§9可在鐵砧中與飾品結合
-bountifulbaubles.moreinfo=§b按Shift了解更多信息
+bountifulbaubles.moreinfo=§b按Shift了解更多資訊
 bountifulbaubles.broken=§8§o損壞
 bountifulbaubles.creativeonly=§d只能在創造模式下使用
 bountifulbaubles.unimplemented=§d尚未實現
@@ -88,7 +88,7 @@ item.bountifulbaubles.trinketMagicLenses.tooltip.0=§9給予致盲免疫
 item.bountifulbaubles.trinketMagicLenses.tooltip.1=§a耍酷的人不看爆炸
 item.bountifulbaubles.trinketApple.name=禁果
 item.bountifulbaubles.trinketApple.tooltip.0=§9給予抵抗飢餓和噁心的能力
-item.bountifulbaubles.trinketVitamins.name=維生素
+item.bountifulbaubles.trinketVitamins.name=維他命
 item.bountifulbaubles.trinketVitamins.tooltip.0=§9給予抵抗虛弱和挖掘減速的能力
 item.bountifulbaubles.ringOverclocking.name=超頻環
 item.bountifulbaubles.ringOverclocking.tooltip.0=§9給予抵抗緩速的能力並提高7%移動速度
@@ -162,8 +162,8 @@ item.bountifulbaubles.trinketBrokenHeart.tooltip.1=§9睡眠以重生心臟容�
 item.bountifulbaubles.trinketBrokenHeart.tooltip.2=§a這是怎麼發生的？
 item.bountifulbaubles.amuletCross.name=十字架項鍊
 item.bountifulbaubles.amuletCross.tooltip.0=§9增加受損時無敵的時間。
-item.bountifulbaubles.phantomPrism.name=幻影棱鏡
-item.bountifulbaubles.phantomPrism.tooltip.0=§9切換某些裝甲和小玩意的可見性。 （右鍵打開GUI）
+item.bountifulbaubles.phantomPrism.name=幻影稜鏡
+item.bountifulbaubles.phantomPrism.tooltip.0=§9切換某些裝甲和小東西的可見性。 （右鍵打開GUI）
 item.bountifulbaubles.disintegrationTablet.name=崩解片
 item.bountifulbaubles.disintegrationTablet.tooltip.0=§9將特定物品轉化為光譜粉
 item.bountifulbaubles.spectralSilt.name=光譜粉

@@ -1,4 +1,4 @@
-# commands
+﻿# commands
 # gui - config - categories
 # gui - config - general
 tracer.command.clear=清除了 %d 個追蹤的實體。
@@ -8,7 +8,7 @@ tracer.command.unregister.usage=/tracer unregister <entity-name>
 tracer.command.unregister=未註冊“%s”。
 tracer.command.usage=/tracer <register|unregister|clear>
 tracer.config.category.general.tooltip=常用設置。
-tracer.config.category.general=基本配置
+tracer.config.category.general=基本設定
 tracer.config.category.registry.tooltip=實體特定設置。
 tracer.config.category.registry=註冊
 tracer.config.colorAlpha.tooltip=Alpha 顏色分量。

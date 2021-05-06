@@ -1,4 +1,4 @@
-item.hitwithaxe.acacia.name=金合歡樹皮
+﻿item.hitwithaxe.acacia.name=金合歡樹皮
 item.hitwithaxe.ash.name=鐵青木樹皮
 item.hitwithaxe.birch.name=白樺樹皮
 item.hitwithaxe.black_kauri.name=黑貝殼木樹皮
@@ -64,5 +64,5 @@ tile.hitwithaxe.debarked_silverbell.name=剝皮銀鈴木原木
 tile.hitwithaxe.debarked_tiger.name=剝皮核桃木原木
 tile.hitwithaxe.debarked_willow.name=剝皮柳木原木
 tile.hitwithaxe.debarked_ancient.name=剝皮古代原木
-jei.hitwithaxe.harvestlevel=采伐等級 %s
+jei.hitwithaxe.harvestlevel=採伐等級 %s
 jei.hitwithaxe.chopping.name=砍伐中

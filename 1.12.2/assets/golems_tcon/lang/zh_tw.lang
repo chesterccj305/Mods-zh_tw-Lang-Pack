@@ -1,11 +1,11 @@
-# golem names
+﻿# golem names
 entity.golems_tcon.golem_ardite.name=阿迪特魔像
 entity.golems_tcon.golem_brownstone.name=褐色石磚魔像
 entity.golems_tcon.golem_clear_glass.name=通透玻璃魔像
-entity.golems_tcon.golem_cobalt.name=钴魔像
-entity.golems_tcon.golem_congealslime.name=凝血史莱姆魔像
+entity.golems_tcon.golem_cobalt.name=鈷魔像
+entity.golems_tcon.golem_congealslime.name=凝血史萊姆魔像
 entity.golems_tcon.golem_firewood.name=燃燒木魔像
-entity.golems_tcon.golem_knightslime.name=騎士史莱姆魔像
+entity.golems_tcon.golem_knightslime.name=騎士史萊姆魔像
 entity.golems_tcon.golem_manyullyn.name=瑪玉靈魔像
 entity.golems_tcon.golem_pigiron.name=生鐵魔像
 entity.golems_tcon.golem_seared.name=焦黑石磚魔像

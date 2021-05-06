@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 # ^ having this in the first line allows us to use "\uXXXX" escapes in this file
 
 #***  Ender IO AE Conduit *****#
@@ -8,4 +8,4 @@
 
 # Conduits
 enderio.item_me_conduit.name=ME 導管
-enderio.item_me_conduit_dense.name=致密 ME 導管
+enderio.item_me_conduit_dense.name=緻密 ME 導管

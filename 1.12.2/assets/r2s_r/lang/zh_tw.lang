@@ -1,4 +1,4 @@
-#language file made by sir_titi
+﻿#language file made by sir_titi
 
 #Items
 item.radio_receiver.name=無線電波接受器
@@ -57,7 +57,7 @@ MouseOver.button.Repeat=循環
 MouseOver.button.Shuffle=隨機
 MouseOver.button.SkipToFirstSong=頭部
 MouseOver.button.SkipToLastSong=尾部
-MouseOver.button.MakeURL=倆個方框都要填
+MouseOver.button.MakeURL=兩個方框都要填
 MouseOver.button.EditURL=編輯URL
 MouseOver.button.RemoveURL=刪除URL
 MouseOver.text-field.URL=將你歌單放這裡

@@ -1,4 +1,4 @@
-# TODO Fix smoke! Look for the Smoke to see where that is and try again.
+﻿# TODO Fix smoke! Look for the Smoke to see where that is and try again.
 #Achievements
 #Blocks
 #Item Groups
@@ -12,8 +12,8 @@ chat.ropebridge.info.bad_side=你不能在方塊的 %f 建造繩梯。試試邊�
 chat.ropebridge.info.greatslope=對不起，你的橋的坡度太大了。請移步再試一次。
 chat.ropebridge.info.not_solid=方塊的這一面不支持放繩梯。
 chat.ropebridge.info.notcardinal=對不起，你只能在基本的方向上造橋，不能斜著造。請再試一次。
-chat.ropebridge.info.notonground=你必須站在什麽東西上才可以造橋！
-chat.ropebridge.info.obstruction=哎呀！看來有什麽東西擋住了梯級擱板。
+chat.ropebridge.info.notonground=你必須站在什麼東西上才可以造橋！
+chat.ropebridge.info.obstruction=哎呀！看來有什麼東西擋住了梯級擱板。
 chat.ropebridge.info.underfunded_bridge=你需要至少 %f 台階和 %f 繩索來造橋。
 chat.ropebridge.info.underfunded_ladder=你需要至少 %f 台階和 %f 繩索來造繩梯。
 chat.ropebridge.params.bottom=底部

@@ -1,4 +1,4 @@
-tooltip.hotornot.toohot=太熱了，你不能空手拿著它！
+﻿tooltip.hotornot.toohot=太熱了，你不能空手拿著它！
 tooltip.hotornot.toocold=太冷了，你不能空手拿著它！
 tooltip.hotornot.toolight=太輕了，你不能空手拿著它！
 item.hotornot.mitts.name=手套

@@ -1,4 +1,4 @@
-#Commands
+﻿#Commands
 
 commands.gamestage.add.sender=%2$s 的遊戲階段 %1$s 已經解鎖！
 commands.gamestage.add.target=你解鎖了遊戲階段 %s！

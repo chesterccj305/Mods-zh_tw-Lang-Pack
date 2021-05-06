@@ -1,4 +1,4 @@
-#Blocks
+﻿#Blocks
 tile.fyrite_ore.name=鳳凰石礦
 tile.fyrite_block.name=鳳凰石磚
 tile.malachite_ore.name=孔雀石礦
@@ -83,7 +83,7 @@ advancements.illumeniteOreAch.desc=它生於螢光石之中
 advancements.argoniteOreAch=面面俱到
 advancements.argoniteOreAch.desc=紫荊石能生產出極佳的工具
 advancements.dragonstoneOreAch=來自野獸之腹
-advancements.dragonstoneOreAch.desc=看吶！真正的力量在等著懂得利用這種礦石的人
+advancements.dragonstoneOreAch.desc=看啊！真正的力量在等著懂得利用這種礦石的人
 
 advancements.fyriteSetAch=熔岩之證
 advancements.fyriteSetAch.desc=全副武裝，連岩漿都無法傷你分毫
@@ -93,7 +93,7 @@ advancements.ashstoneAxeAch=樹的復仇女神
 advancements.ashstoneAxeAch.desc=樹木從未被砍伐得如此迅速
 advancements.illumeniteSetAch=金剛不壞之身
 advancements.illumeniteSetAch.desc=全副武裝，將克服你對高度的恐懼
-advancements.argoniteSwordAch=怪物獵人最好的朋友
+advancements.argoniteSwordAch=魔物獵人最好的朋友
 advancements.argoniteSwordAch.desc=一把強大的劍永遠不會讓你失望
 advancements.dragonstonePickaxeAch=左右性命的伴侶
 advancements.dragonstonePickaxeAch.desc=別緊張，我們確實就是那個意思

@@ -1,4 +1,4 @@
-# zh_tw
+﻿# zh_tw
 #
 #############
 #   Items   #
@@ -61,9 +61,9 @@ item.avaritia:matter_cluster.full.name=臨界物質團
 ##############
 #
 # Crafting
-tile.avaritia:compressed_crafting_table.name=壓縮工作台
-tile.avaritia:double_compressed_crafting_table.name=二重壓縮工作台
-tile.avaritia:extreme_crafting_table.name=終極工作台
+tile.avaritia:compressed_crafting_table.name=壓縮工作檯
+tile.avaritia:double_compressed_crafting_table.name=二重壓縮工作檯
+tile.avaritia:extreme_crafting_table.name=終極工作檯
 #
 # Resource
 tile.avaritia:block_resource.neutronium.name.name=中子磚
@@ -83,7 +83,7 @@ tile.avaritia:neutronium_compressor.name=中子壓縮機
 tooltip.item.resource.crystal_matrix_ingot.desc=這甚至不是最終型態。
 tooltip.item.resource.neutron_pile.desc=盡量不要去想它。
 tooltip.item.resource.neutron_nugget.desc=大約3560萬噸吧。
-tooltip.item.resource.neutronium_ingot.desc=致密恒星之心，化為一錠。
+tooltip.item.resource.neutronium_ingot.desc=緻密恆星之心，化為一錠。
 tooltip.item.resource.infinity_catalyst.desc=一即全，全即一。
 tooltip.item.resource.infinity_ingot.desc=汝掌心中者，寰宇之力也。
 tooltip.item.resource.record_fragment.desc=一位篤信音樂帶來的自由的人~

@@ -1,4 +1,4 @@
-#Item Localizations
+﻿#Item Localizations
 item.clockworkphase.time_tuner.name=時空調節器
 item.clockworkphase.bug_swatter.name=蒼蠅拍
 item.clockworkphase.brass_ingot.name=黃銅錠
@@ -45,7 +45,7 @@ item.clockworkphase.gear_tin.name=錫齒輪
 item.clockworkphase.oil_bucket.name=油桶
 item.clockworkphase.framework.name=框架
 
-item.clockworkphase.gear_rusty.name=生銹的齒輪
+item.clockworkphase.gear_rusty.name=生鏽的齒輪
 item.clockworkphase.gear_legendary.name=傳奇齒輪
 item.clockworkphase.note_bottle.name=瓶中筆記
 item.clockworkphase.precious_charm.name=珍貴的魔力項鏈
@@ -77,11 +77,11 @@ item.clockworkphase.clockwork_chestplate.name=發條胸甲
 item.clockworkphase.clockwork_leggings.name=發條護腿
 item.clockworkphase.clockwork_boots.name=發條靴子
 
-item.clockworkphase.module_life_walk.name=生命行者模塊
-item.clockworkphase.module_death_walk.name=死亡行者模塊
-item.clockworkphase.module_furnace.name=熔爐模塊
-item.clockworkphase.module_silk_touch.name=精準采集模塊
-item.clockworkphase.module_partial_gravity.name=區域力場模塊
+item.clockworkphase.module_life_walk.name=生命行者模組
+item.clockworkphase.module_death_walk.name=死亡行者模組
+item.clockworkphase.module_furnace.name=熔爐模組
+item.clockworkphase.module_silk_touch.name=精準採集模組
+item.clockworkphase.module_partial_gravity.name=區域力場模組
 
 #Block Localizations
 tile.clockworkphase.brass_block.name=黃銅塊

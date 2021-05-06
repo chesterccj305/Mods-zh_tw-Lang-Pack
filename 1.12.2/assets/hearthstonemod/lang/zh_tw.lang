@@ -1,4 +1,4 @@
-item.hearthstone.name=爐石
+﻿item.hearthstone.name=爐石
 msg.hearthstoneOnCooldown.txt=爐石在冷卻中！
 msg.hearthstoneNoBed.txt=爐石需要連接到一張床！
 msg.hearthstoneMissingBed.txt=您的床不見了！ 爐石連接已斷開！

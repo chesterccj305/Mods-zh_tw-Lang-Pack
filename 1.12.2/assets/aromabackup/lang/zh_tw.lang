@@ -1,4 +1,4 @@
-#Backup
+﻿#Backup
 aromabackup:backup.start.server=開始備份。伺服器可能會有一點LAG。
 aromabackup:backup.start.client=開始備份。世界可能會有一點LAG。
 aromabackup:backup.done.server=伺服器備份完成！

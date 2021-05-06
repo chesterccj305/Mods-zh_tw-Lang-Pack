@@ -1,4 +1,4 @@
-
+﻿
 item.flammpfeil.slashblade.named.sweapon.name=帶鞘直刀
 item.flammpfeil.slashblade.named.slashblade_old.name=太刀
 item.flammpfeil.slashblade.named.louguan_old.name=名刀「觀樓劍」
@@ -13,21 +13,21 @@ item.flammpfeil.slashblade.named.louguan_tx.name=獄界劍「觀樓劍」
 item.flammpfeil.slashblade.named.bailou_tx.name=獄界劍「白樓劍」
 item.flammpfeil.slashblade.named.roukan_xf.name=觀樓旋風刃
 item.flammpfeil.slashblade.named.bailou_xf.name=白樓旋風刃
-item.flammpfeil.slashblade.named.sakuyablade.name=樱之刃
-item.flammpfeil.slashblade.unnamedBlade.name=自铭「起源」
+item.flammpfeil.slashblade.named.sakuyablade.name=櫻之刃
+item.flammpfeil.slashblade.unnamedBlade.name=自銘「起源」
 item.flammpfeil.slashblade.model_Blade.name=模造刀「無魂」
 item.flammpfeil.slashblade.model_Blade_1.name=模造刀「武興」
-item.flammpfeil.slashblade.named.namedblade_basic.name=無铭刀「簡装」
+item.flammpfeil.slashblade.named.namedblade_basic.name=無銘刀「簡裝」
 
-item.flammpfeil.slashblade.named.smith_1.name=自铭「止步」
-item.flammpfeil.slashblade.named.smith_2.name=自铭「迷途」
-item.flammpfeil.slashblade.named.smith_3.name=自铭「平凡」
-item.flammpfeil.slashblade.named.smith_last.name=自命「无念」
+item.flammpfeil.slashblade.named.smith_1.name=自銘「止步」
+item.flammpfeil.slashblade.named.smith_2.name=自銘「迷途」
+item.flammpfeil.slashblade.named.smith_3.name=自銘「平凡」
+item.flammpfeil.slashblade.named.smith_last.name=自命「無念」
 item.flammpfeil.slashblade.named.ginkgoblade.name=杏之刃
-item.flammpfeil.slashblade.named.nanosaber.name=纳米太刀
+item.flammpfeil.slashblade.named.nanosaber.name=奈米太刀
 item.flammpfeil.slashblade.named.quantumsaber.name=量子太刀
 item.flammpfeil.slashblade.named.shouren.name=青蓮
-item.flammpfeil.slashblade.named.yingjian.name=「樱剪」
+item.flammpfeil.slashblade.named.yingjian.name=「櫻剪」
 item.flammpfeil.slashblade.named.wenshi.name=「文始」
 item.flammpfeil.slashblade.named.snowblade.name=雪之刃
 item.flammpfeil.slashblade.named.doubleblade.name=雙之刃
@@ -58,7 +58,7 @@ item.flammpfeil.slashblade.named.Scorn.name=「鎮魂曲」
 
 flammpfeil.swaepon.info.fake=偽
 
-blades.ps.model=這把刀並沒有靈魂，只是随手的粗製濫造
+blades.ps.model=這把刀並沒有靈魂，只是隨手的粗製濫造
 blades.crafter=刀匠
 the_last_smith.name=無名的刀匠
 smith_hammer.name=這是工匠都喜歡用的錘子
@@ -66,15 +66,15 @@ smith_hammer.name.ps=因為質地過硬，這個錘子是不會損壞的
 
 item.flammpfeil.slashblade.named.bamboolight_nice.name=上品「竹光」
 item.flammpfeil.slashblade.named.bamboolight_yin.name=「隱者之竹光」
-item.flammpfeil.slashblade.named.silverbamboolight_nice.name=上品「银纸竹光」
-item.flammpfeil.slashblade.named.silverbamboolight_gold.name=名刀「金纸竹光」
-item.flammpfeil.slashblade.named.silverbamboolight_blood.name=妖刀「血纸竹光」
+item.flammpfeil.slashblade.named.silverbamboolight_nice.name=上品「銀紙竹光」
+item.flammpfeil.slashblade.named.silverbamboolight_gold.name=名刀「金紙竹光」
+item.flammpfeil.slashblade.named.silverbamboolight_blood.name=妖刀「血紙竹光」
 
 slashblade.seffect.name.ManaRepair=魔力修復
 
 flammpfeil.slashblade.specialattack.xianshizhan=人符「現世斬」
 flammpfeil.slashblade.specialattack.relife=新生
-flammpfeil.slashblade.specialattack.sanhua1=樱花劍「閃閃散華」
+flammpfeil.slashblade.specialattack.sanhua1=櫻花劍「閃閃散華」
 flammpfeil.slashblade.specialattack.miwang=斬斷迷惘
 flammpfeil.slashblade.specialattack.miwang2=悟入幻想
 flammpfeil.slashblade.specialattack.spear2=心抄斬
@@ -106,47 +106,47 @@ item.lastsmith.blade_unfinished_5.name=未完成刀片（5/5）
 item.lastsmith.blade_2_unfinished_5.name=未完成刀片（5/5）
 item.lastsmith.blade_3_unfinished_5.name=未完成刀片（5/5）
 
-lastsmith.tip.heatted_blade=在水槽上右键以冷卻刀片
+lastsmith.tip.heatted_blade=在水槽上右鍵以冷卻刀片
 lastsmith.tip.blast_top=上方需要煙囪。
 jei.lastsmith.category.blast=煉鋼爐
 
 item.lastsmith.blade_unfinished.name=未完成刀片
 item.lastsmith.blade_2_unfinished.name=未完成刀片
 item.lastsmith.blade_3_unfinished.name=未完成刀片
-item.lastsmith.smith_hammer.name=工匠锤
-item.lastsmith.sakura.name=樱花瓣
+item.lastsmith.smith_hammer.name=工匠錘
+item.lastsmith.sakura.name=櫻花瓣
 item.lastsmith.tamahagane.name=玉鋼
-item.lastsmith.steel_ingot.name=鋼锭
+item.lastsmith.steel_ingot.name=鋼錠
 item.lastsmith.crashed_iron.name=待冶煉鐵礦
 item.lastsmith.wooden_blade.name=實木刀片
 item.lastsmith.bamboo_blade.name=竹刀片
-item.lastsmith.paper_arthurs.name=製作者名单
-item.lastsmith.sakura_full.name=樱
-item.lastsmith.sakura_ingot_unfinished.name=未精煉樱色鋼錠
-item.lastsmith.sakura_ingot.name=樱色鋼錠
+item.lastsmith.paper_arthurs.name=製作者名單
+item.lastsmith.sakura_full.name=櫻
+item.lastsmith.sakura_ingot_unfinished.name=未精煉櫻色鋼錠
+item.lastsmith.sakura_ingot.name=櫻色鋼錠
 
-item.lastsmith.sakura_sphere.name=樱之寶珠
-tile.sakura_steel_block.name=樱色鋼塊
+item.lastsmith.sakura_sphere.name=櫻之寶珠
+tile.sakura_steel_block.name=櫻色鋼塊
 
 item.lastsmith.yakibatsuchi.name=燒刃土
 item.lastsmith.coal_dust.name=煤粉
 
 
-item.flammpfeil.slashblade.named.yamazakura.kadomatsu.name=山樱睦月「松」
-item.flammpfeil.slashblade.named.yamazakura.ume.name=山樱如月「梅」
-item.flammpfeil.slashblade.named.yamazakura.sakura.name=山樱彌生「樱」
-item.flammpfeil.slashblade.named.yamazakura.uzuki.name=山樱卯月
-item.flammpfeil.slashblade.named.yamazakura.satsuki.name=山樱皋月
-item.flammpfeil.slashblade.named.yamazakura.minazuki.name=山樱「水無月」
-item.flammpfeil.slashblade.named.yamazakura.fumizuki.name=山樱文月
-item.flammpfeil.slashblade.named.yamazakura.hazuki.name=山樱葉月
-item.flammpfeil.slashblade.named.yamazakura.kiku.name=山樱長月「菊」
-item.flammpfeil.slashblade.named.yamazakura.katura.name=山樱神無月「枫」
-item.flammpfeil.slashblade.named.yamazakura.shimotsuki.name=山樱霜月
-item.flammpfeil.slashblade.named.yamazakura.shiwasu.name=山樱「師走」
-item.flammpfeil.slashblade.named.yamazakura.aoi.name=山樱「葵」
+item.flammpfeil.slashblade.named.yamazakura.kadomatsu.name=山櫻睦月「鬆」
+item.flammpfeil.slashblade.named.yamazakura.ume.name=山櫻如月「梅」
+item.flammpfeil.slashblade.named.yamazakura.sakura.name=山櫻彌生「櫻」
+item.flammpfeil.slashblade.named.yamazakura.uzuki.name=山櫻卯月
+item.flammpfeil.slashblade.named.yamazakura.satsuki.name=山櫻皋月
+item.flammpfeil.slashblade.named.yamazakura.minazuki.name=山櫻「水無月」
+item.flammpfeil.slashblade.named.yamazakura.fumizuki.name=山櫻文月
+item.flammpfeil.slashblade.named.yamazakura.hazuki.name=山櫻葉月
+item.flammpfeil.slashblade.named.yamazakura.kiku.name=山櫻長月「菊」
+item.flammpfeil.slashblade.named.yamazakura.katura.name=山櫻神無月「楓」
+item.flammpfeil.slashblade.named.yamazakura.shimotsuki.name=山櫻霜月
+item.flammpfeil.slashblade.named.yamazakura.shiwasu.name=山櫻「師走」
+item.flammpfeil.slashblade.named.yamazakura.aoi.name=山櫻「葵」
 item.flammpfeil.slashblade.named.yamazakura.aoi_fake.name=偽物「葵」
-item.flammpfeil.slashblade.named.yamazakura.tuki.name=山樱「神月」
+item.flammpfeil.slashblade.named.yamazakura.tuki.name=山櫻「神月」
 
 
 item.flammpfeil.slashblade.wooden_saya.name=實木鞘
@@ -154,8 +154,8 @@ item.flammpfeil.slashblade.bamboo_saya.name=竹鞘
 item.flammpfeil.slashblade.named.template_re_fake.name=偽物「蒼梅」
 item.flammpfeil.slashblade.named.template_re2_fake.name=偽物「赤梅」
 
-item.wrap.BambooMod.katana_fake.name=偽物「红玉」
-item.wrap.BambooMod.katana_tls.name=利刀「無名」红玉
+item.wrap.BambooMod.katana_fake.name=偽物「紅玉」
+item.wrap.BambooMod.katana_tls.name=利刀「無名」紅玉
 
 info.flammpfeil.slashblade.tool.chargeOff=§e按下 (%s) to 休眠§r
 info.flammpfeil.slashblade.tool.chargeOn=§b按下 (%s) to 充能§r
@@ -164,28 +164,28 @@ info.flammpfeil.slashblade.tool.user=所有者
 
 itemGroup.lastsmith=最後的太刀匠人
 key.categories.lastsmith=最後的太刀匠人
-key.lastsmith.mode_change=模式切换
+key.lastsmith.mode_change=模式切換
 
 item.flammpfeil.slashblade.named.fortress.thaumium.name=神秘要塞日本刀
-item.flammpfeil.slashblade.named.fortress.void.name=虚空要塞日本刀
+item.flammpfeil.slashblade.named.fortress.void.name=虛空要塞日本刀
 item.flammpfeil.slashblade.named.fortress.elemental.name=元素要塞日本刀
 item.flammpfeil.slashblade.named.fortress.crimson.name=血腥要塞日本刀
 
 item.flammpfeil.slashblade.named.fortress.thaumium.update.name=神秘要塞日本刀
-item.flammpfeil.slashblade.named.fortress.void.update.name=虚空要塞日本刀
+item.flammpfeil.slashblade.named.fortress.void.update.name=虛空要塞日本刀
 item.flammpfeil.slashblade.named.fortress.elemental.update.name=元素要塞日本刀
 item.flammpfeil.slashblade.named.fortress.crimson.update.name=血腥要塞日本刀
 
 tc.research_category.KATANA=刀藝學
 research.FIRSTBLADE.title=第一振刀
-research.WOODENBLADE.title=無铭刀「木偶」
+research.WOODENBLADE.title=無銘刀「木偶」
 research.BLADES.title=不同的刀刃
 research.WHITESHEATH.title=利刀「白鞘」
 research.SLASHBLADE.title=大太刀「」
-research.UNNAMEDBLADE.title=自铭「起源」
+research.UNNAMEDBLADE.title=自銘「起源」
 
 research.NAMEDBALDE.title=名刀
-research.SAKURABALDE.title=樱之刃
+research.SAKURABALDE.title=櫻之刃
 research.ROUKAN.title=「樓觀劍」
 research.HAKUROU.title=「白觀劍」
 research.OLDBLADES.title=古時之刃
@@ -196,7 +196,7 @@ research.HAKUROUSENPUUZIN.title=白樓旋風刃
 
 research.THAUMBLADE.title=要塞日本刀
 
-research.THAUMBLADE.text.stage.1=我從要塞甲胄中得到了一些靈感。而且我需要一些相關的知識。
+research.THAUMBLADE.text.stage.1=我從要塞甲冑中得到了一些靈感。而且我需要一些相關的知識。
 research.THAUMBLADE.text.stage.2=我著手改進這些武器，並且應該是小有成效了<BR>我從刀匠處學習，提出一套全新的理論並設計出這些優美的武器。 <BR>它們擁有更強勁的力量，但更低的耐久。它們也保留著它們自己原本的特性。
 
 research.BLADEUPDATE.title=刀之銘
@@ -204,24 +204,24 @@ research.BLADEUPDATE.title=刀之銘
 research.BLADEUPDATE.text.stage.1=目前的要塞太刀是沒有靈魂的，我需要賜與它一個全新的銘。
 research.BLADEUPDATE.text.stage.2=現在，這些無銘之刃被賜與了新的靈魂。
 
-research.FIRSTBLADE.text.stage.1=這本手冊原本只有一些神秘學的高深玩意，直到我發現手冊後面還有大片的空白。 <BR>總之，成為刀匠的第一步是製作木刀，那麼製作實木的刀片就是第一件事情了。
+research.FIRSTBLADE.text.stage.1=這本手冊原本只有一些神秘學的高深東西，直到我發現手冊後面還有大片的空白。 <BR>總之，成為刀匠的第一步是製作木刀，那麼製作實木的刀片就是第一件事情了。
 research.FIRSTBLADE.text.stage.2=很好，這就是第一振刀的刀刃了。 <BR>我紀錄了一把木刀所需要的配件，以及它們的合成方法。組合起來就是一把木刀了。
 
 research.WOODENBLADE.text.stage.1=有了刀刃，就要準備刀鞘。 <BR>製作一個刀片和一個實木鞘，這樣我就可以做一把嶄新的木刀了。
 research.WOODENBLADE.text.stage.2=不錯，現在只需要組合起來就好了。
-research.WOODENBLADE.text.stage.3=好了，這就是木刀了。 <BR>無銘刀「木偶」，這是曾經的匠人為它起過的名字。為了紀念前輩們，我也這麼起名好了。
+research.WOODENBLADE.text.stage.3=好了，這就是木刀了。 <BR>無銘刀「木偶」，這是曾經的匠人為它取過的名字。為了紀念前輩們，我也這麼起名好了。
 
 research.BLADES.text.stage.1=我應該做幾把鐵刀的，不過我手頭沒有趁手的工具和鋼鐵。 <BR>憑我的手藝，自己重新製作或許會好很多。 <BR>給自己一個煉鋼爐和錘子，這樣我就可以繼續我的工作。
 research.BLADES.text.stage.2=好的，工具和煉鋼爐都齊了。 <BR>需要鋼錠的話我用煉鋼爐把待冶煉鐵礦熔煉出玉鋼，再進行敲打就可以了。 <BR>我應該拿不同的原料製作刀片，這樣可以比轉出不同材料的優越性。
-research.BLADES.text.stage.3=我發現耀魂鐵錠作為刀刃的材料是最為優越的。 <BR>不過，其他的刀刃材料也可以用於批量生產。因為我察覺到這種鐵錠非常的稀有與昂貴。 <BR>配方已經紀錄下來了，這樣我就可以隨時查閱這些資料。
+research.BLADES.text.stage.3=我發現耀魂鐵錠作為刀刃的材料是最為優越的。 <BR>不過，其他的刀刃材料也可以用於批次生產。因為我察覺到這種鐵錠非常的稀有與昂貴。 <BR>配方已經記錄下來了，這樣我就可以隨時查閱這些資料。
 
 research.WHITESHEATH.text.stage.1=這，應該就是我的處女作了吧。 <BR>現在這個木頭刀刃可以扔掉了，我要換上親手打造的最優質的刀刃。
 research.WHITESHEATH.text.stage.2=我現在只要將刀刃取下，換上新的刀刃就可以了。
-research.WHITESHEATH.text.stage.3=現在這把刀就這樣完成了。 <BR>我非常的自豪，但我也應該察覺到我需要的不只是這些。 <BR>嘛，總之先把配方都紀錄下來吧。
+research.WHITESHEATH.text.stage.3=現在這把刀就這樣完成了。 <BR>我非常的自豪，但我也應該察覺到我需要的不只是這些。 <BR>嘛，總之先把配方都記錄下來吧。
 
 research.SLASHBLADE.text.stage.1=有傳言說大太刀的製造需要用斷掉的白鞘來進行。 <BR>我覺得我可以來親自試驗一下，先讓我找一把白鞘出來好了。
 research.SLASHBLADE.text.stage.2=按照別人提供的配方，這樣合成出來就好。
-research.SLASHBLADE.text.stage.3=我的試驗證明了傳言是真實的。 <BR>不過即便這樣這把大太刀的裝具也是非常的普通，而且感覺不到什麼特別的氣息。 <BR>總之先把配方都紀錄下來吧。
+research.SLASHBLADE.text.stage.3=我的試驗證明了傳言是真實的。 <BR>不過即便這樣這把大太刀的裝具也是非常的普通，而且感覺不到什麼特別的氣息。 <BR>總之先把配方都記錄下來吧。
 
 research.UNNAMEDBLADE.text.stage.1=我試著做一把新刀，先拿白鞘下手好了。
 research.UNNAMEDBLADE.text.stage.2=這把白鞘，刀刃的品質不行。 <BR>它輕而易舉的就斷掉了，所以我需要給它換上新的刀條。 <BR>等等，我也許可以改一些小東西。 。 。 。 。 。
@@ -236,7 +236,7 @@ research.SAKURABALDE.text.stage.2=“櫻之刃”——能夠驅除一切邪惡�
 research.ROUKAN.text.stage.1=樓觀劍，據傳是可以斬斷一切的極其鋒利的妖刀。 <BR>值得一提的是，市面上其實有很多掛著樓觀劍牌子的刀都是劣質的仿製品。真品卻無從得知了。
 research.ROUKAN.text.stage.2=仿製品裡，轉為成功的會被稱為觀樓劍。 <BR>而樓觀劍真品，則在西行寺家的庭師手中。 <BR>製作這樣的一把妖刀，是極其耗費財力的。 <BR>我們雖然有能力打造出一把幾乎完全一致的刀，也沒有辦法得到她手裡的那一振了。
 
-research.HAKUROU.text.stage.1=白樓劍，魂魄家的家傳寶刀。 <BR>作為西行寺家的護衛，這振刀的實際用途並不是用於斬殺生靈。 <BR>即便如此，我們也不知道這振刀的其餘信息。
+research.HAKUROU.text.stage.1=白樓劍，魂魄家的家傳寶刀。 <BR>作為西行寺家的護衛，這振刀的實際用途並不是用於斬殺生靈。 <BR>即便如此，我們也不知道這振刀的其餘資訊。
 research.HAKUROU.text.stage.2=這振刀確實沒有很鋒利的刀刃。 <BR>取而代之的是，這振刀能夠解開對方的迷茫，幽靈則直接成佛。 <BR>西行寺家的大小姐為什麼至今未成佛，可能她的心裡根本沒有迷茫而已吧。 。 。 。 。 。
 
 research.OLDBLADES.text.stage.1=有幾把刀是來自於舊版拔刀劍的，不過這裡沒有合成

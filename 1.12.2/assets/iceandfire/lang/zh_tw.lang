@@ -1,4 +1,4 @@
-itemGroup.iceandfire=冰與火龍模組
+﻿itemGroup.iceandfire=冰與火龍模組
 itemGroup.iceandfire_items=冰與火龍模組 道具
 itemGroup.iceandfire_blocks=冰與火龍模組 方塊
 iceandfire.empty =空
@@ -960,4 +960,3 @@ item.banner.sea_serpent.brown=Brown Sea Serpent
 item.banner.sea_serpent.green=Green Sea Serpent
 item.banner.sea_serpent.red=Red Sea Serpent
 item.banner.sea_serpent.black=Black Sea Serpent
-

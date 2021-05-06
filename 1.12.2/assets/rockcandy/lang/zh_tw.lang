@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 #zh_tw.lang File
 
 #Items
@@ -34,7 +34,7 @@ tile.candy_infuser.name=石糖注入器
 tile.candy_block.name=石糖磚
 
 #Debug
-item.rockcandy.hunger_stick.name=調試模式鎖定饑餓值
+item.rockcandy.hunger_stick.name=除錯模式鎖定饑餓值
 
 #Enchants
 enchantment.auto_feed=§4糖來張口

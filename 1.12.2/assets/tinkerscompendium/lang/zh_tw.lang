@@ -1,4 +1,4 @@
-itemGroup.tinkerscompendium=工匠防禦
+﻿itemGroup.tinkerscompendium=工匠防禦
 itemGroup.compendiumtextiles=工匠防禦紡織品
 tile.armorstation.name=裝甲站
 tile.finishinganvil.name=精處理鐵砧
@@ -20,7 +20,7 @@ fluid.tinkerscompendium.pandorium.name=熔融潘多拉金屬
 fluid.tinkerscompendium.platinum.name=熔融鉑
 
 fluid.tinkerscompendium.chorusjuice.name=歌萊果汁
-fluid.tinkerscompendium.vile.name=污穢之液
+fluid.tinkerscompendium.vile.name=汙穢之液
 fluid.tinkerscompendium.vibrant.name=活力之液
 fluid.tinkerscompendium.slush.name=融冰
 fluid.tinkerscompendium.quartz.name=熔融地獄石英
@@ -832,7 +832,7 @@ tile.trapdoor_lead.name=鉛地板門
 tile.trapdoor_steel.name=鋼地板門
 
 //Tools, Armors, & Armorstation Descriptions 工具，裝甲和裝甲站說明
-item.fishingrod.desc=釣魚是遊戲內或多或少的一環，這個模塊化魚竿能夠釣起幾乎所有的東西，除過前不久剛剛掉入水中的靴子。
+item.fishingrod.desc=釣魚是遊戲內或多或少的一環，這個模組化魚竿能夠釣起幾乎所有的東西，除過前不久剛剛掉入水中的靴子。
 
 item.shears.desc=剪刀對於農民來說，是穩定獲取羊毛的有用工具，羊毛能夠用於合成或售賣進行獲利。
 
@@ -843,7 +843,7 @@ item.mallet.name=鍾
 item.mallet.desc=與錘擊台配合使用時，您可以加工礦石以提高冶煉和合金化的效率。
 
 item.firedrill.name=點火器
-item.firedrill.desc=當你沒有燧石、鐵或類似物品時，鑽木取火工具是一個很有用的生火工具，可以通過消耗背包裡的木棍來生火。它的耐久度越高，成功將塊點燃的機率也就越高。
+item.firedrill.desc=當你沒有燧石、鐵或類似物品時，鑽木取火工具是一個很有用的生火工具，可以透過消耗背包裡的木棍來生火。它的耐久度越高，成功將塊點燃的機率也就越高。
 
 item.roundshield.name=圓盾
 item.roundshield.desc=低保護能力的小型盾牌，能夠讓使用者在戰鬥中還保持操縱能力。 \n \n能力：\n計數攻擊：隨著盾牌咚咚咚的響聲，輕而易舉的減緩對手對你的攻擊。 \n身材矮小：只有很小的空間進行強化。
@@ -852,7 +852,7 @@ item.heatershield.name=鬥盾
 item.heatershield.desc=標準盾牌，在移動的情況下仍然能夠保持較高的攻擊保護能力\n \n
 
 item.towershield.name=塔盾
-item.towershield.desc=一個超大體型的盾牌，能夠保護更多攻擊，然而這也會付出相當大的代價。 \n \n能力：\n阻礙：它是一個極為沈重的盾牌，不用雙手操縱是無法做到防禦自身的。
+item.towershield.desc=一個超大體型的盾牌，能夠保護更多攻擊，然而這也會付出相當大的代價。 \n \n能力：\n阻礙：它是一個極為沉重的盾牌，不用雙手操縱是無法做到防禦自身的。
 
 item.zweihander.name=雙手劍
 item.zweihander.desc=一個極棒的雙手劍，能夠擊倒馬匹和騎士，或者長距離情況下攻擊敵人。 \n \n能力：騎乘狀態：對騎乘狀態敵人造成 x2 傷害。 \n大搖大擺：\n使用範圍傷害攻擊靠近你的所有敵人，但會暫時性的讓你獲得虛弱和緩慢效果。
@@ -1148,4 +1148,3 @@ item.td_filigree.name=絲網
 item.td_fabric.name=織物
 item.td_ringShank.name=Ring Shank
 item.td_setting.name=Ring Setting
-

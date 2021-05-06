@@ -1,4 +1,4 @@
-commands.teamislands.island.usage=/teamislands island <team>
+﻿commands.teamislands.island.usage=/teamislands island <team>
 commands.teamislands.lobby.usage=/teamislands lobby
 commands.teamislands.myisland.usage=/teamislands myisland
 teamislands.general.clear_inv_when_team_left=在離開團隊後清空物品欄

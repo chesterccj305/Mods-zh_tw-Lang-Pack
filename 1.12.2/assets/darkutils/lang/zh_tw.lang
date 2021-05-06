@@ -1,4 +1,4 @@
-#Blocks
+﻿#Blocks
 tile.darkutils.trap.tile.poison.name=中毒陷阱
 tile.darkutils.trap.tile.weakness.name=虛弱陷阱
 tile.darkutils.trap.tile.harming.name=傷害陷阱
@@ -153,7 +153,7 @@ item.banner.du_vector_plate.white=白色
 #Misc
 itemGroup.darkutils=黑暗實用物品
 chat.darkutils.focussash=%s你被專注頭巾救了一次!
-chat.darkutils.monolith.spawning=這個墓碑以生成了 %d 隻生物.
+chat.darkutils.monolith.spawning=這個墓碑以生成了 %d 只生物.
 
 #JEI
 jei.tile.darkutils.trap.tile=這些陷阱會對站在上面的生物造成負面效果，如緩速等.....
@@ -226,15 +226,15 @@ jei.tile.darkutils.filter.slime=此方塊只會讓史萊姆通過。
 jei.tile.darkutils.filter.fireres=此方塊只會讓防火生物通過。
 jei.tile.darkutils.filter.boss=此方塊只會讓頭目通過。
 jei.tile.darkutils.filter.inverted.player=此方塊只不會讓玩家通過。
-jei.tile.darkutils.filter.inverted.undead=此方塊只不會讓不死生物通過。
-jei.tile.darkutils.filter.inverted.arthropod=此方塊只不會讓截肢生物通過。
-jei.tile.darkutils.filter.inverted.monster=此方塊只不會讓有敵意的生物通過。
-jei.tile.darkutils.filter.inverted.animal=此方塊只不會讓動物通過。
-jei.tile.darkutils.filter.inverted.water=此方塊只不會讓水生生物通過。
-jei.tile.darkutils.filter.inverted.baby=此方塊只不會讓年幼的動物通過。
-jei.tile.darkutils.filter.inverted.pet=此方塊只不會讓寵物通過。
+jei.tile.darkutils.filter.inverted.undead=此方塊隻不會讓不死生物通過。
+jei.tile.darkutils.filter.inverted.arthropod=此方塊隻不會讓截肢生物通過。
+jei.tile.darkutils.filter.inverted.monster=此方塊隻不會讓有敵意的生物通過。
+jei.tile.darkutils.filter.inverted.animal=此方塊隻不會讓動物通過。
+jei.tile.darkutils.filter.inverted.water=此方塊隻不會讓水生生物通過。
+jei.tile.darkutils.filter.inverted.baby=此方塊隻不會讓年幼的動物通過。
+jei.tile.darkutils.filter.inverted.pet=此方塊隻不會讓寵物通過。
 jei.tile.darkutils.filter.inverted.slime=此方塊只不會讓史萊姆通過。
-jei.tile.darkutils.filter.inverted.fireres=此方塊只不會讓防火生物通過。
+jei.tile.darkutils.filter.inverted.fireres=此方塊隻不會讓防火生物通過。
 jei.tile.darkutils.filter.inverted.boss=此方塊只不會讓頭目通過。
 jei.tile.darkutils.slime.dyed.white=裝飾用史萊姆方塊。
 jei.tile.darkutils.slime.dyed.orange=裝飾用史萊姆方塊。

@@ -1,4 +1,4 @@
-tile.luckyBlock.name=幸運方塊
+﻿tile.luckyBlock.name=幸運方塊
 item.luckyBlock.luck=幸運值
 item.luckyBlock.customDrop=有自訂掉落物
 

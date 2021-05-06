@@ -1,9 +1,9 @@
-container.sc.compressedRockCrusher=壓縮碎石機
-guide.skyresources.compression.compressedAutomation.text=與普通方塊一樣，壓縮方塊可以進行自動化打碎和清晰。這將通過使用<recipe,,sc:compressedrockcrusher:0> 和|WIP 壓縮洗礦機|來完成。這個機器與普通版的工作方式相同，但消耗的能量更多、處理速度更快。
+﻿container.sc.compressedRockCrusher=壓縮碎石機
+guide.skyresources.compression.compressedAutomation.text=與普通方塊一樣，壓縮方塊可以進行自動化打碎和清晰。這將透過使用<recipe,,sc:compressedrockcrusher:0> 和|WIP 壓縮洗礦機|來完成。這個機器與普通版的工作方式相同，但消耗的能量更多、處理速度更快。
 guide.skyresources.compression.compressedAutomation.title=壓縮 - 自動化
 guide.skyresources.compression.compressedCactus.text=Shift右鍵單擊<recipe,,sc:compressedcactus:0>可以獲得9根<recipe,,skyresources:alchemyitemcomponent:0>。同時它也會對你造成嚴重的傷害，你要小心使用這個危險的植物。
 guide.skyresources.compression.compressedCactus.title=壓縮 - 仙人掌刺
-guide.skyresources.compression.compressedwaterextracting.text=使用<recipe,,sc:compressedwaterextractor:0>你可以一次從多達27個方塊中提取水（不包括水源方塊）！此設備將以你當前指向方塊為中心的3x3x3範圍內提取水。 \n \n請注意，這個設備一次只能從一種來源中提取水。比如不能同時從仙人掌和樹葉中提取。 \n \n你也可以使用此設備在<recipe,,sc:compresseddirt:0>中注入1800mB水使其變為<recipe,,sc:compressedclay:0>。
+guide.skyresources.compression.compressedwaterextracting.text=使用<recipe,,sc:compressedwaterextractor:0>你可以一次從多達27個方塊中提取水（不包括水源方塊）！此設備將以你目前指向方塊為中心的3x3x3範圍內提取水。 \n \n請注意，這個設備一次只能從一種來源中提取水。比如不能同時從仙人掌和樹葉中提取。 \n \n你也可以使用此設備在<recipe,,sc:compresseddirt:0>中注入1800mB水使其變為<recipe,,sc:compressedclay:0>。
 guide.skyresources.compression.compressedwaterextracting.title=壓縮 - 抽水器
 guide.skyresources.compression.compression.text=你可以將石頭等方塊壓縮成更緊湊的方塊。如 <recipe,,sc:compressedstone:0> 。 \n \n這些方塊比起普通的方塊能產生更多汙濁的寶石和粉末，但只能用 <recipe,,sc:compressedrockgrinder:0> 打碎。
 guide.skyresources.compression.compression.title=壓縮 - 壓縮一切！

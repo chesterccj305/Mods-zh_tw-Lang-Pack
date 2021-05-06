@@ -1,51 +1,51 @@
-# Lang File Settings
+﻿# Lang File Settings
 language.name=Traditional Chinese 
 language.region=tw
 language.code=zh_tw
 
 #Config
-config.nex=下界拓展 - 配置
-config.nex:client=客戶端設置
-config.nex:client.tooltip=只對客戶端生效
+config.nex=地獄拓展 - 設定
+config.nex:client=用戶端設置
+config.nex:client.tooltip=只對用戶端生效
 config.nex:client.visual=視覺設置
-config.nex:client.visual.tooltip=只影響客戶端視覺效果的設置
-config.nex:client.visual.disableNetherFog=禁用下界霧
-config.nex:client.visual.disableNetherFog.tooltip=在下界是否渲染迷霧
+config.nex:client.visual.tooltip=只影響用戶端視覺效果的設置
+config.nex:client.visual.disableNetherFog=禁用地獄霧
+config.nex:client.visual.disableNetherFog.tooltip=在地獄是否渲染迷霧
 
 config.nex:compatibility=相容性設置
 config.nex:compatibility.tooltip=針對模組相容性的設置
 
-config.nex:compatibility.biomesOPlenty=超多生物群系相容設置
-config.nex:compatibility.biomesOPlenty.tooltip=針對超多生物群系(BOP)的相容性設置
-config.nex:compatibility.biomesOPlenty.enableCompat=啟用超多生物群系相容
-config.nex:compatibility.biomesOPlenty.enableCompat.tooltip=超多生物群系相容是否啟用
+config.nex:compatibility.biomesOPlenty=超多生態域相容設置
+config.nex:compatibility.biomesOPlenty.tooltip=針對超多生態域(BOP)的相容性設置
+config.nex:compatibility.biomesOPlenty.enableCompat=啟用超多生態域相容
+config.nex:compatibility.biomesOPlenty.enableCompat.tooltip=超多生態域相容是否啟用
 
 config.nex:dimension=維度設置
 config.nex:dimension.tooltip=只針對維度的設置
 
-config.nex:dimension.nether=下界維度設置
-config.nex:dimension.nether.tooltip=針對下界維度的設置
-config.nex:dimension.nether.overrideNether=覆蓋下界
-config.nex:dimension.nether.overrideNether.tooltip=是否使下界拓展覆蓋下界
+config.nex:dimension.nether=地獄維度設置
+config.nex:dimension.nether.tooltip=針對地獄維度的設置
+config.nex:dimension.nether.overrideNether=覆蓋地獄
+config.nex:dimension.nether.overrideNether.tooltip=是否使地獄拓展覆蓋地獄
 config.nex:dimension.nether.generateSoulSand=生成靈魂沙
-config.nex:dimension.nether.generateSoulSand.tooltip=靈魂沙平台是否在下界生成
+config.nex:dimension.nether.generateSoulSand.tooltip=靈魂沙平台是否在地獄生成
 config.nex:dimension.nether.generateGravel=生成砂礫
-config.nex:dimension.nether.generateGravel.tooltip=砂礫平台是否在下界生成
+config.nex:dimension.nether.generateGravel.tooltip=砂礫平台是否在地獄生成
 config.nex:dimension.nether.isLavaInfinite=無限岩漿
-config.nex:dimension.nether.isLavaInfinite.tooltip=下界的岩漿是否無限
+config.nex:dimension.nether.isLavaInfinite.tooltip=地獄的岩漿是否無限
 
 config.nex:block=方塊設置
 config.nex:block.tooltip=針對方塊的設置
 
-config.nex:block.netherPortal=下界傳送門設置
-config.nex:block.netherPortal.tooltip=針對下界傳送門方塊的設置
+config.nex:block.netherPortal=地獄傳送門設置
+config.nex:block.netherPortal.tooltip=針對地獄傳送門方塊的設置
 config.nex:block.netherPortal.pigmanSpawnRarity=豬人生成率
-config.nex:block.netherPortal.pigmanSpawnRarity.tooltip=下界傳送門方塊生成豬人的罕見程度
+config.nex:block.netherPortal.pigmanSpawnRarity.tooltip=地獄傳送門方塊生成豬人的罕見程度
 
 config.nex:block.netherrack=地獄岩設置
 config.nex:block.netherrack.tooltip=針對地獄岩的設置
-config.nex:block.netherrack.allowAllShovelsToFlatten=允許任意鏟子鏟平下界巖
-config.nex:block.netherrack.allowAllShovelsToFlatten.tooltip=是否允許任意鏟子鏟平下界巖
+config.nex:block.netherrack.allowAllShovelsToFlatten=允許任意鏟子鏟平地獄岩
+config.nex:block.netherrack.allowAllShovelsToFlatten.tooltip=是否允許任意鏟子鏟平地獄岩
 
 config.nex:block.soulSand=靈魂沙設置
 config.nex:block.soulSand.tooltip=針對靈魂沙的設置
@@ -111,10 +111,10 @@ config.nex:potionEffect.lost.ghastlingSpawnRarity.tooltip=帶有迷失效果的�
 config.nex:entity=實體設置
 config.nex:entity.tooltip=針對實體的設置
 
-config.nex:entity.ember=余燼設置
-config.nex:entity.ember.tooltip=針對余燼的設置
+config.nex:entity.ember=餘燼設置
+config.nex:entity.ember.tooltip=針對餘燼的設置
 config.nex:entity.ember.setPlayerOnFireRarity=點燃玩家罕見度
-config.nex:entity.ember.setPlayerOnFireRarity.tooltip=余燼將玩家點燃的罕見度
+config.nex:entity.ember.setPlayerOnFireRarity.tooltip=餘燼將玩家點燃的罕見度
 
 config.nex:entity.nethermite=地獄蟎設置
 config.nex:entity.nethermite.tooltip=針對地獄蟎的設置
@@ -123,12 +123,12 @@ config.nex:entity.nethermite.spawnRarity.tooltip=地獄蟎從地獄礦石中生�
 config.nex:entity.nethermite.blockWhitelist=方塊白名單
 config.nex:entity.nethermite.blockWhitelist.tooltip=地獄蟎從這些方塊中生成
 
-config.nex:entity.spinout=回旋石英刃設置
-config.nex:entity.spinout.tooltip=針對回旋石英刃的設置
+config.nex:entity.spinout=迴旋石英刃設置
+config.nex:entity.spinout.tooltip=針對迴旋石英刃的設置
 config.nex:entity.spinout.spinTime=旋轉時間
-config.nex:entity.spinout.spinTime.tooltip=回旋石英刃的旋轉時間
+config.nex:entity.spinout.spinTime.tooltip=迴旋石英刃的旋轉時間
 config.nex:entity.spinout.spinCooldown=旋轉冷卻
-config.nex:entity.spinout.spinCooldown.tooltip=回旋石英刃兩次旋轉之間停止旋轉的時長
+config.nex:entity.spinout.spinCooldown.tooltip=迴旋石英刃兩次旋轉之間停止旋轉的時長
 
 config.nex:entity.sporeCreeper=孢子苦力怕設置
 config.nex:entity.sporeCreeper.tooltip=針對孢子苦力怕的設置
@@ -144,8 +144,8 @@ config.nex:entity.spore.creeperSpawnAmount.tooltip=每個孢子能生成的孢�
 
 config.nex:entity.brute=蠻獸設置
 config.nex:entity.brute.tooltip=針對蠻獸的設置
-config.nex:entity.brute.chargeCooldown=沖刺冷卻
-config.nex:entity.brute.chargeCooldown.tooltip=沖刺玩家之後的冷卻時長
+config.nex:entity.brute.chargeCooldown=衝刺冷卻
+config.nex:entity.brute.chargeCooldown.tooltip=衝刺玩家之後的冷卻時長
 
 config.nex:entity.ghast=惡魂設置
 config.nex:entity.ghast.tooltip=針對大多數惡魂的設置
@@ -187,7 +187,7 @@ config.nex:biome.arcticAbyss.mobFreezeRarity=生物凍結罕見度
 config.nex:biome.arcticAbyss.mobFreezeRarity.tooltip=生物在極地深淵群系被凍結的罕見程度
 
 # Creative Tabs
-itemGroup.nex=下界拓展
+itemGroup.nex=地獄拓展
 
 # Effects
 potion.effect.nex:freeze=凍結
@@ -222,7 +222,7 @@ entity.nex:pigtificateLeader.name=豬民領袖
 entity.nex:pigtificateLeader.chief.name=豬民長官
 entity.nex:pigtificate.name=豬民
 entity.nex:pigtificate.hunter.name=豬民獵人
-entity.nex:pigtificate.gatherer.name=豬民采集者
+entity.nex:pigtificate.gatherer.name=豬民採集者
 entity.nex:pigtificate.scavenger.name=豬民清道夫
 entity.nex:pigtificate.armorsmith.name=豬民鑄甲師
 entity.nex:pigtificate.toolsmith.name=豬民工具匠
@@ -237,9 +237,9 @@ entity.nex:salamander.name=火蜥蜴
 entity.nex:salamander.orange.name=火蜥蜴
 entity.nex:salamander.black.name=火蜥蜴
 entity.nex:wight.name=陰魂
-entity.nex:ember.name=余燼
+entity.nex:ember.name=餘燼
 entity.nex:nethermite.name=地獄蟎
-entity.nex:spinout.name=回旋石英刃
+entity.nex:spinout.name=迴旋石英刃
 entity.nex:sporeCreeper.name=孢子苦力怕
 entity.nex:spore.name=孢子
 entity.nex:spore.one.name=一階孢子
@@ -264,8 +264,8 @@ item.nex:witherBone.name=雕靈骨
 item.nex:witherDust.name=雕靈塵
 item.nex:salamanderHide.orange.name=橙火蜥蜴皮
 item.nex:salamanderHide.black.name=黑火蜥蜴皮
-item.nex:amethystCrystal.name=下界紫晶
-item.nex:rimeCrystal.name=下界霜晶
+item.nex:amethystCrystal.name=地獄紫晶
+item.nex:rimeCrystal.name=地獄霜晶
 item.nex:rimeAndSteel.name=霜晶打火石
 item.nex:spore.name=孢子
 item.nex:boneSpiderFang.name=霜凍之牙
@@ -303,14 +303,14 @@ subtitle.nex:sound.salamander.death=火蜥蜴:死亡
 subtitle.nex:sound.wight.ambient=陰魂:低語
 subtitle.nex:sound.wight.hurt=陰魂:呻吟
 subtitle.nex:sound.wight.death=陰魂:死亡
-subtitle.nex:sound.ember.hurt=余燼:消逝
-subtitle.nex:sound.ember.death=余燼:熄滅
+subtitle.nex:sound.ember.hurt=餘燼:消逝
+subtitle.nex:sound.ember.death=餘燼:熄滅
 subtitle.nex:sound.nethermite.ambient=地獄蟎:吱吱
 subtitle.nex:sound.nethermite.hurt=地獄蟎:尖叫
 subtitle.nex:sound.nethermite.death=地獄蟎:死亡
-subtitle.nex:sound.spinout.ambient=回旋石英刃:旋轉
-subtitle.nex:sound.spinout.hurt=回旋石英刃:受傷
-subtitle.nex:sound.spinout.death=回旋石英刃:死亡
+subtitle.nex:sound.spinout.ambient=迴旋石英刃:旋轉
+subtitle.nex:sound.spinout.hurt=迴旋石英刃:受傷
+subtitle.nex:sound.spinout.death=迴旋石英刃:死亡
 subtitle.nex:sound.ghastling.ambient=小惡魂:呻吟
 subtitle.nex:sound.ghastling.hurt=小惡魂:尖叫
 subtitle.nex:sound.ghastling.death=小惡魂:死亡
@@ -348,22 +348,22 @@ tile.nex:hyphae.name=菌絲
 tile.nex:tilledSoulSand.name=靈魂沙耕地·
 tile.nex:soulGlass.name=靈魂玻璃
 tile.nex:soulGlassPane.name=靈魂玻璃板
-tile.nex:amethystBlock.name=下界紫晶塊
-tile.nex:rimeBlock.name=下界冰霜塊
+tile.nex:amethystBlock.name=地獄紫晶塊
+tile.nex:rimeBlock.name=地獄冰霜塊
 tile.nex:frostburnIce.name=凍燃冰
 tile.nex:boneSliver.name=骨板
 tile.nex:boneChunk.name=骨塊
 tile.nex:wornIron.name=磨損鐵塊
 tile.nex:blueFire.name=藍火
-tile.nex:netherPortal.name=下界傳送門
+tile.nex:netherPortal.name=地獄傳送門
 tile.nex:urnOfSorrow.empty.name=哀傷之甕(空)
 tile.nex:urnOfSorrow.full.name=哀傷之甕(滿)
 tile.nex:quartzOre.fiery.name=火焰石英礦石
 tile.nex:quartzOre.icy.name=霜凍石英礦石
 tile.nex:quartzOre.lively.name=鮮活石英礦石
 tile.nex:quartzOre.gloomy.name=灰暗石英礦石
-tile.nex:amethystOre.name=下界紫晶礦石
-tile.nex:rimeOre.name=下界冰霜礦石
+tile.nex:amethystOre.name=地獄紫晶礦石
+tile.nex:rimeOre.name=地獄冰霜礦石
 tile.nex:thornstalk.name=荊棘
 tile.nex:elderMushroom.brown.name=棕色上古蘑菇
 tile.nex:elderMushroom.red.name=紅色上古蘑菇

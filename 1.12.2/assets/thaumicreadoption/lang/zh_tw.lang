@@ -1,4 +1,4 @@
-#Creative Tab
+﻿#Creative Tab
 itemGroup.tabreadopted=奧法秘術
 
 #Items
@@ -31,4 +31,4 @@ tc.research_category.READOPTION=秘術學
 research_stage.thaumicreadoption:readoption.0=我似乎觸及到了一個嶄新的領域，本章將向我揭示一些既古老而又有趣的魔法裝置。
 #Wand
 research_stage.thaumicreadoption:basicwand.0=
-research_stage.thaumicreadoption:basicwand.1=我創造出了一種便攜式工具來取代世界鹽，我稱之其為"法杖"。它使用起來和世界鹽沒什麽區別，只是需要消耗魔力。
+research_stage.thaumicreadoption:basicwand.1=我創造出了一種攜帶式工具來取代世界鹽，我稱之其為"法杖"。它使用起來和世界鹽沒什麼區別，只是需要消耗魔力。

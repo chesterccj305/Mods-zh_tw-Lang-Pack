@@ -1,4 +1,4 @@
-itemGroup.arcanearchives=奧術儲存
+﻿itemGroup.arcanearchives=奧術儲存
 
 item.raw_quartz.name=原石輻射水晶
 item.shaped_quartz.name=雕琢輻射水晶
@@ -7,7 +7,7 @@ item.containment_field.name=結界場
 item.devouring_charm.name=吞噬符咒
 item.gemsocket.name=寶石繩套
 item.manifest.name=奧術清單
-item.material_interface.name=材料接口
+item.material_interface.name=材料介面
 item.matrix_brace.name=支持矩陣
 item.radiant_amphora.name=輻射雙耳瓶
 item.radiant_dust.name=輻射水晶粉
@@ -24,7 +24,7 @@ item.fabrial.name=Fabrial
 item.slaughtergleam.name=§c「猩紅掠奪」§7
 item.murdergleam.name=§e「暴虐殺戮」§7
 item.agegleam.name=§a「生命催生」§7
-item.cleansegleam.name=§9「純凈光華」§7
+item.cleansegleam.name=§9「純淨光華」§7
 item.switchgleam.name=§5「操控瞬息」§7
 item.salvegleam.name=§d「治癒祝福」§7
 item.munchstone.name=§8「蒙克石」§7
@@ -33,7 +33,7 @@ item.mindspindle.name=§a「心靈紡錘」§7
 item.elixirspindle.name=§5「聖水紡錘」§7
 item.mountaintear.name=§6「山河之淚」§7
 item.rivertear.name=§9「天河之淚」§7
-item.parchtear.name=§8「烘幹淚滴」§7
+item.parchtear.name=§8「烘乾淚滴」§7
 item.phoenixway.name=§6「火鳳凰之路」§7
 item.stormway.name=§e「暴風雨之路」§7
 
@@ -45,7 +45,7 @@ tile.storage_shaped_quartz.name=雕琢輻射水晶方塊
 tile.quartz_sliver.name=閃耀的碎片
 tile.raw_quartz_cluster.name=原石輻射晶簇
 
-tile.radiant_crafting_table.name=輻射工作台
+tile.radiant_crafting_table.name=輻射工作檯
 tile.radiant_chest.name=輻射箱子
 tile.radiant_lantern.name=輻射水晶燈
 tile.radiant_resonator.name=輻射諧振台
@@ -74,16 +74,16 @@ arcanearchives.error.notenoughspace=沒有足夠的空間來放置 %s！
 arcanearchives.error.aboveworld= 放置 %s 將超過建築高度限制！
 arcanearchives.error.invaliditemblock=試圖放置具有位置限制但沒有實體類的無效物品！
 arcanearchives.error.invalidnetwork=無效網路。哎呀！
-arcanearchives.error.upgrade_trove_failed=輻射秘寶升級失敗。當前等級是： %d/%d。
-arcanearchives.error.upgrade_tank_failed=輻射儲罐升級失敗。當前等級是： %d/%d。
+arcanearchives.error.upgrade_trove_failed=輻射秘寶升級失敗。目前等級是： %d/%d。
+arcanearchives.error.upgrade_tank_failed=輻射儲罐升級失敗。目前等級是： %d/%d。
 arcanearchives.error.trove_insertion_failed.full=這個輻射秘寶無法接受更多物品。
 arcanearchives.error.trove_insertion_failed.wrong=這個物品無法存入該輻射秘寶中。
 arcanearchives.error.monitoring_crystal=有多個全視水晶被貼在同一個方塊：%d/%d/%d 在緯度 %d 。
 
 arcanearchives.error.tankfull=目標輻射儲罐無法再接更多流體。
-arcanearchives.error.tankmissing=目標輻射儲罐丟失或未被載入。
+arcanearchives.error.tankmissing=目標輻射儲罐遺失或未被載入。
 
-arcanearchives.warning.sneak_to_upgrade=對一個輻射秘寶潛行使用材料接口來升級它。
+arcanearchives.warning.sneak_to_upgrade=對一個輻射秘寶潛行使用材料介面來升級它。
 arcanearchives.warning.sneak_to_upgrade_tank=對一個輻射儲罐潛行使用結界場來升級它。
 
 arcanearchives.success.upgraded_trove=成功將秘寶升級為等級 %d/%d。
@@ -140,15 +140,15 @@ arcanearchives.tooltip.device.radiant_resonator=隨時間產生原石輻射水�
 arcanearchives.tooltip.device.radiant_lantern=一種裝飾。可以作為光源。
 arcanearchives.tooltip.device.radiant_trove=容器。被用來儲存數量龐大的同一種物品。
 arcanearchives.tooltip.device.radiant_crafting_table=合成裝置。物品能留在其中，三個配方可以被保存以便快速合成，選中的配方的合成將會顯示。
-arcanearchives.tooltip.device.gemcutters_table=合成裝置。用來把水晶雕刻成的更加精致。
+arcanearchives.tooltip.device.gemcutters_table=合成裝置。用來把水晶雕刻成的更加精緻。
 arcanearchives.tooltip.device.lectern_manifest=用來顯示儲存在輻射容器中的物品。就像奧術清單一樣。
 arcanearchives.tooltip.device.monitoring_crystal=將非奧術儲存的容器加入到輻射容器列表以便於奧術清單查看。
 
-arcanearchives.tooltip.item.raw_quartz=一種合成原料。也能被用來將箱子和工作台升級為它們的輻射版本。
+arcanearchives.tooltip.item.raw_quartz=一種合成原料。也能被用來將箱子和工作檯升級為它們的輻射版本。
 arcanearchives.tooltip.item.shaped_quartz=一種合成原料。
 arcanearchives.tooltip.item.containment_field=一種合成原料。能被用來第二次升級輻射儲罐。
 arcanearchives.tooltip.item.devouring_charm=銷毀物品和流體。也可以作為一個可選的升級來使輻射儲罐和輻射秘寶能夠銷毀超出容量的物品。
-arcanearchives.tooltip.item.debugorb=能被用來調試奧術網路問題。技術性很強。
+arcanearchives.tooltip.item.debugorb=能被用來除錯奧術網路問題。技術性很強。
 arcanearchives.tooltip.item.letter_invitation=允許你邀請另一個玩家到你的奧術網路。
 arcanearchives.tooltip.item.letter_invitation.named=%s 的一份加入奧術網路的邀請。
 arcanearchives.tooltip.item.letter_resignation=允許你離開一個奧術網路。
@@ -158,9 +158,9 @@ arcanearchives.tooltip.item.manifest=用來顯示儲存在輻射容器中的物�
 arcanearchives.tooltip.item.quartz_sliver=一種火把的替代品。通過原石輻射水晶敲擊方塊獲得。
 arcanearchives.tooltip.item.radiant_amphora=可以用來倒出或收取液體，與輻射儲罐或其他基礎儲罐連接。
 arcanearchives.tooltip.item.radiant_dust=一種合成原料。
-arcanearchives.tooltip.item.radiant_key=可以用來安全的開啟陷阱箱，除此以外還有其他功能。也能用來作為輻射秘寶的可選升級，「鎖定」當前儲存的物品。
-arcanearchives.tooltip.item.raw_quartz_cluster=隨時間在輻射諧振台上生長而成。破壞可收獲原石輻射水晶。也可以被精準采集采集到，作為裝飾方塊使用。
-arcanearchives.tooltip.item.scepter_revelation=查詢魔法裝置與儲存容器的具體信息。當潛行時使用。
+arcanearchives.tooltip.item.radiant_key=可以用來安全的開啟陷阱箱，除此以外還有其他功能。也能用來作為輻射秘寶的可選升級，「鎖定」目前儲存的物品。
+arcanearchives.tooltip.item.raw_quartz_cluster=隨時間在輻射諧振台上生長而成。破壞可收穫原石輻射水晶。也可以被精準採集採集到，作為裝飾方塊使用。
+arcanearchives.tooltip.item.scepter_revelation=查詢魔法裝置與儲存容器的具體資訊。當潛行時使用。
 arcanearchives.tooltip.item.scepter_manipulation=調整方塊的各種屬性。當潛行時使用。
 arcanearchives.tooltip.item.scintillating_inlay=一種合成原料。
 arcanearchives.tooltip.item.storage_raw_quartz=裝飾性方塊。
@@ -215,32 +215,32 @@ arcanearchives.data.tooltip.resonator_progress=進度：
 arcanearchives.data.tooltip.resonator_status.resonating=諧振中
 arcanearchives.data.tooltip.resonator_status.offline=未連接
 arcanearchives.data.tooltip.resonator_status.obstruction=被阻塞
-arcanearchives.data.tooltip.resonator_status.harvestable=可收獲
+arcanearchives.data.tooltip.resonator_status.harvestable=可收穫
 arcanearchives.data.tooltip.trove_count= 包含:
 arcanearchives.data.tooltip.trove_count_waila=%d 個: %s
 arcanearchives.data.tooltip.empty=空的。
 
-arcanearchives.data.scepter.missing_te=發生錯誤: 無法找到實體標簽
+arcanearchives.data.scepter.missing_te=發生錯誤: 無法找到實體標籤
 
 arcanearchives.data.scepter.radiant_chest.unnamed=未命名的輻射箱子。
 arcanearchives.data.scepter.radiant_chest.name=輻射箱子的名字：%s。
 arcanearchives.data.scepter.radiant_chest.slots=有 %d/54 格子是空的。
 
-arcanearchives.data.scepter.radiant_crafting.contains=輻射工作台包含：%s。
-arcanearchives.data.scepter.radiant_crafting.empty=輻射工作台是空的。
+arcanearchives.data.scepter.radiant_crafting.contains=輻射工作檯包含：%s。
+arcanearchives.data.scepter.radiant_crafting.empty=輻射工作檯是空的。
 
 arcanearchives.data.scepter.radiant_trove.empty=輻射秘寶沒有儲存物品。
 arcanearchives.data.scepter.radiant_trove.item=輻射秘寶儲存了 %s。
-arcanearchives.data.scepter.radiant_trove.count=當前物品有：%d/%d。
+arcanearchives.data.scepter.radiant_trove.count=目前物品有：%d/%d。
 arcanearchives.data.scepter.radiant_trove.upgrades=已經升級 %s 個儲存升級，%s 個可選升級。
 
 arcanearchives.data.scepter.radiant_tank.empty=輻射儲罐是空的。
 arcanearchives.data.scepter.radiant_tank.item=輻射儲罐儲存了 %s。
-arcanearchives.data.scepter.radiant_tank.count=當前流體含量：%d/%d。
+arcanearchives.data.scepter.radiant_tank.count=目前流體含量：%d/%d。
 arcanearchives.data.scepter.radiant_tank.upgrades=已經升級次數：%d 次。
 
-arcanearchives.data.scepter.radiant_resonator.progress=輻射諧振台當前進度：%d%%
-arcanearchives.data.scepter.radiant_resonator.status=當前狀態 %s。
+arcanearchives.data.scepter.radiant_resonator.progress=輻射諧振台目前進度：%d%%
+arcanearchives.data.scepter.radiant_resonator.status=目前狀態 %s。
 
 arcanearchives.data.scepter.monitoring_crystal.facing=全視水晶是面朝 %s。
 
@@ -255,7 +255,7 @@ arcanearchives.gui.missing_manifest=你身上沒有可以詳細查看的清單�
 arcanearchives.gui.keybinds.socket=活化寶石繩套
 
 text.copyToClipboard.line1=這本書想複製文字到你的剪貼板上。
-text.copyToClipboard.line2=你確定允許那麽做嗎？
+text.copyToClipboard.line2=你確定允許那麼做嗎？
 text.copyToClipboard.success=文字複製成功。
 cmd.gbook_snapshot.guide.done=重新載入完成
 
@@ -293,8 +293,8 @@ arcanearchives.config.general.tooltip=通用遊戲設置。
 arcanearchives.config.arsenal=奧術兵工廠
 arcanearchives.config.arsenal.tooltip=設置與奧術兵工廠有關。
 
-arcanearchives.message.book_received.bookshelf=有什麽珍貴的東西被藏在那個方塊裡！
-arcanearchives.message.book_received.resonator=你不記得先前那裡有什麽東西，但當你回過神，發現一本書掉在工作台的邊上。
+arcanearchives.message.book_received.bookshelf=有什麼珍貴的東西被藏在那個方塊裡！
+arcanearchives.message.book_received.resonator=你不記得先前那裡有什麼東西，但當你回過神，發現一本書掉在工作檯的邊上。
 arcanearchives.message.usedtorecharge=%s%s 被用於再充能 %s
 arcanearchives.message.invalid_crystal_target=這個設備只能貼附在非奧術儲存設備上。
 advancement.arcanearchives.amphora=Ceci n'est pas un seau
@@ -312,12 +312,12 @@ advancement.arcanearchives.gem_table=浪漫的石頭
 advancement.arcanearchives.gem_table.desc=建造一個寶石切割台，來增加你的合成選擇。
 advancement.arcanearchives.tome=奧術法典
 advancement.arcanearchives.tome.desc=獲取或合成 『奧術法典』，來學習魔法師們的秘密。
-advancement.arcanearchives.lectern_manifest=精致優雅
+advancement.arcanearchives.lectern_manifest=精緻優雅
 advancement.arcanearchives.lectern_manifest.desc=建造一個清單台桌以集中索引儲存。
 advancement.arcanearchives.manifest=顯然如此
 advancement.arcanearchives.manifest.desc=在寶石切割台中製作一個清單來遠程瀏覽你的奧術網路。
 advancement.arcanearchives.material_interface=唯物主義
-advancement.arcanearchives.material_interface.desc=合成一個材料接口用來第二次升級輻射秘寶。
+advancement.arcanearchives.material_interface.desc=合成一個材料介面用來第二次升級輻射秘寶。
 advancement.arcanearchives.matrix_brace=擁抱
 advancement.arcanearchives.matrix_brace.desc=合成一個支持矩陣作為輻射秘寶或輻射儲罐的第一次升級。
 advancement.arcanearchives.network=帶有蜂巢的東西
@@ -325,7 +325,7 @@ advancement.arcanearchives.network.desc=合成邀請信，邀請其他玩家加�
 advancement.arcanearchives.raw_quartz=晶瑩而剔透
 advancement.arcanearchives.raw_quartz.desc=獲取你的第一個原石水晶。
 advancement.arcanearchives.raw_quartz_cluster=精準而優雅
-advancement.arcanearchives.raw_quartz_cluster.desc=使用精準采集來獲取一個美麗的晶瑩剔透的原石輻射晶簇。
+advancement.arcanearchives.raw_quartz_cluster.desc=使用精準採集來獲取一個美麗的晶瑩剔透的原石輻射晶簇。
 advancement.arcanearchives.resonator=振動
 advancement.arcanearchives.resonator.desc=建造一個輻射諧振台 -- 記得把貓趕走。
 advancement.arcanearchives.root=奧術儲存
@@ -334,7 +334,7 @@ advancement.arcanearchives.scepter_manipulation=馬基維利崇拜
 advancement.arcanearchives.scepter_manipulation.desc=合成一柄操縱權杖從而調整你的魔法裝置。
 advancement.arcanearchives.revelation=先知的啟示
 advancement.arcanearchives.revelation.desc=合成一柄啟示權杖以進一步了解世界萬物。 
-advancement.arcanearchives.storage_shaped_quartz=更加精致，更加優雅
+advancement.arcanearchives.storage_shaped_quartz=更加精緻，更加優雅
 advancement.arcanearchives.storage_shaped_quartz.desc=合成一個雕琢輻射水晶方塊用來第三次升級輻射儲罐 & 輻射秘寶。
 advancement.arcanearchives.sliver=釋放你的怒火吧！
 advancement.arcanearchives.sliver.desc=讓仇恨從你身上流動！把原石輻射水晶敲碎成閃耀的碎片。
@@ -343,6 +343,6 @@ advancement.arcanearchives.tank.desc=在寶石切割台中合成一個輻射儲�
 advancement.arcanearchives.trove=珍貴的秘寶
 advancement.arcanearchives.trove.desc=在寶石切割台中合成一個輻射秘寶。將所有的東西都存進去！
 advancement.arcanearchives.crafting_table=如彩虹般合成
-advancement.arcanearchives.crafting_table.desc=使用原石輻射水晶把無聊乏味的工作台變成更持久的東西。
+advancement.arcanearchives.crafting_table.desc=使用原石輻射水晶把無聊乏味的工作檯變成更持久的東西。
 advancement.arcanearchives.monitoring_crystal=老大哥
 advancement.arcanearchives.monitoring_crystal.desc=製作一個全視之眼來追蹤其它容器中的物品。

@@ -1,6 +1,6 @@
-#zh_TW
+﻿#zh_TW
 
-gui.thermaldynamics.transport.config=配置
+gui.thermaldynamics.transport.config=設定
 gui.thermaldynamics.transport.name=旅行管道
 gui.thermaldynamics.transport.noDest=未設定目的地
 gui.thermaldynamics.transport.unnamed=未命名

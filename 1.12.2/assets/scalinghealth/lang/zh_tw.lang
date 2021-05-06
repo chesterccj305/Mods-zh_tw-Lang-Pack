@@ -1,4 +1,4 @@
-itemGroup.scalinghealth=擴增生命
+﻿itemGroup.scalinghealth=擴增生命
 
 ##########
 # Blocks #
@@ -48,7 +48,7 @@ blight.scalinghealth.killedByPlayer=%s 死於 %s !
 ############
 
 command.scalinghealth.outOfBounds=該參數必須在%s與%s之間。
-command.scalinghealth.recalculate.result=重新計算%d實體的難度和狀態，查看日誌以獲取更多信息
+command.scalinghealth.recalculate.result=重新計算%d實體的難度和狀態，查看日誌以獲取更多資訊
 command.scalinghealth.showDifficulty=%s的難度為：%s / %s
 command.scalinghealth.setDifficulty=將玩家%s的難度設置為 %s.
 command.scalinghealth.showHealth=%s生命值: %s / %s (%s)

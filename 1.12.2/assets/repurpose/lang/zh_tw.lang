@@ -1,4 +1,4 @@
-item.repurpose:item_bed_compass.name=床指南針
+﻿item.repurpose:item_bed_compass.name=床指南針
 item.repurpose:item_fluffy_fabric.name=蓬鬆織物
 item.repurpose:item_whetstone.name=磨刀石
 item.repurpose:item_snorkel.name=浮潛鏡
@@ -44,7 +44,7 @@ tile.repurpose:block_dirt_wall.name=泥土牆
 tile.repurpose:block_grass_wall.name=草地牆
 tile.repurpose:block_enriched_farmland.name=濃縮農田
 tile.repurpose:block_mini_redstone.name=迷你紅石塊
-tile.repurpose:block_redstone_scanner.name=紅石掃描儀
+tile.repurpose:block_redstone_scanner.name=紅石掃描器
 tile.repurpose:block_half_glowstone_slab.name=螢光石半磚
 tile.repurpose:block_coffer.name=保險箱
 tile.repurpose:block_charcoal.name=木炭塊

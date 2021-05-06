@@ -1,4 +1,4 @@
-
+﻿
 itemGroup.simplegenerators.creative_tab=簡易發電機
 itemgroup.simplegenerators.creative_tab=簡易發電機
 
@@ -77,4 +77,3 @@ guide.simplegenerators.soul.description=靈魂發電機需要存有怪物靈魂�
 
 guide.simplegenerators.modifier_speed.desc=速度升級將提高發電機運行的速度。請謹慎使用，因為速度和消耗率會同等增加。
 guide.simplegenerators.modifier_efficiency=發電機沒有提升運行速度，但它能使用更少的燃料。
-

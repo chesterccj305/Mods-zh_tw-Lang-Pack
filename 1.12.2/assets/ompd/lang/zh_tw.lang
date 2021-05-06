@@ -1,6 +1,6 @@
-gui.ompd:owner=所有者
-itemGroup.openmodularpassivedefense=開放式模塊化被動防禦
-status.ownership=這個方塊不屬於你，或者你沒有權限這麽做。
+﻿gui.ompd:owner=所有者
+itemGroup.openmodularpassivedefense=開放式模組化被動防禦
+status.ownership=這個方塊不屬於你，或者你沒有權限這麼做。
 tile.fence_tier_five.name=柵欄（5 級）
 tile.fence_tier_four.name=柵欄（4 級）
 tile.fence_tier_one.name=柵欄（1 級）

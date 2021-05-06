@@ -1,4 +1,4 @@
-#
+﻿#
 # Engineer's Decor lang file
 #
 #PARSE_ESCAPES
@@ -14,8 +14,8 @@ engineersdecor.tooltip.massive_speed_boost_with_rf_power=提供RF能量可顯著
 #-----------------------------------------------------------------------------------------------------------
 tile.engineersdecor.clinker_brick_block.name=熟料磚塊
 tile.engineersdecor.clinker_brick_block.help=§6一種放在不同位置貼圖有不同變化的磚塊。§r\n比原版磚看起來顏色更深，色度也更高。
-tile.engineersdecor.clinker_brick_stained_block.name=污漬熟料磚塊
-tile.engineersdecor.clinker_brick_stained_block.help=§6一種放在不同位置貼圖有不同變化的磚塊。§r\n比原版磚看起來顏色更深，色度也更高。有更多可見的污垢或污跡。
+tile.engineersdecor.clinker_brick_stained_block.name=汙漬熟料磚塊
+tile.engineersdecor.clinker_brick_stained_block.help=§6一種放在不同位置貼圖有不同變化的磚塊。§r\n比原版磚看起來顏色更深，色度也更高。有更多可見的汙垢或汙跡。
 tile.engineersdecor.slag_brick_block.name=爐渣磚塊
 tile.engineersdecor.slag_brick_block.help=§6一種放在不同位置貼圖有不同變化的灰棕色磚塊。
 tile.engineersdecor.rebar_concrete.name=鋼筋混凝土
@@ -29,8 +29,8 @@ tile.engineersdecor.rebar_concrete_tile.help=§6鋼強化的混凝土磚。§r�
 #-----------------------------------------------------------------------------------------------------------
 tile.engineersdecor.clinker_brick_slab.name=熟料磚半磚
 tile.engineersdecor.clinker_brick_slab.help=§6熟料磚製作的半磚。§r\n比原版磚看起來顏色更深，色度也更高。
-tile.engineersdecor.clinker_brick_stained_slab.name=污漬熟料磚半磚
-tile.engineersdecor.clinker_brick_stained_slab.help=§6污漬熟料磚製作的半磚
+tile.engineersdecor.clinker_brick_stained_slab.name=汙漬熟料磚半磚
+tile.engineersdecor.clinker_brick_stained_slab.help=§6汙漬熟料磚製作的半磚
 tile.engineersdecor.slag_brick_slab.name=爐渣磚半磚
 tile.engineersdecor.slag_brick_slab.help=§6一種灰棕色磚塊半磚
 tile.engineersdecor.rebar_concrete_slab.name=鋼筋混凝土半磚
@@ -64,8 +64,8 @@ tile.engineersdecor.treated_wood_ladder.help=§6防風防雨的木梯。§r 向�
 #-----------------------------------------------------------------------------------------------------------
 tile.engineersdecor.clinker_brick_stairs.name=熟料磚階梯
 tile.engineersdecor.clinker_brick_stairs.help=§6比原版磚看起來顏色更深，色度也更高。
-tile.engineersdecor.clinker_brick_stained_stairs.name=污漬熟料磚階梯
-tile.engineersdecor.clinker_brick_stained_stairs.help=§6比原版磚看起來顏色更深，色度也更高。有更多可見的污垢或污跡。
+tile.engineersdecor.clinker_brick_stained_stairs.name=汙漬熟料磚階梯
+tile.engineersdecor.clinker_brick_stained_stairs.help=§6比原版磚看起來顏色更深，色度也更高。有更多可見的汙垢或汙跡。
 tile.engineersdecor.slag_brick_stairs.name=爐渣磚階梯
 tile.engineersdecor.slag_brick_stairs.help=§6一種灰棕色磚塊階梯。
 tile.engineersdecor.rebar_concrete_stairs.name=鋼筋混凝土階梯
@@ -107,11 +107,11 @@ tile.engineersdecor.treated_wood_crafting_table.help=§6堅固，防風防雨。
                                                      單擊上/下箭頭按鈕可選擇合成歷史，單擊輸出格自動放置物品，單擊X按鈕 \
                                                      清除合成欄和歷史。 Shift單擊一疊物品：合成格空時轉移到存儲格 \
                                                      非空時到合成欄。會自動分配轉移的物品。 \
-                                                     按Shift-Ctrl: 移動所有相同的堆棧。 鼠標滾輪在製作插槽上：增加/減少製作網格項目。
+                                                     按Shift-Ctrl: 移動所有相同的堆棧。 滑鼠滾輪在製作插槽上：增加/減少製作網格項目。
 tile.engineersdecor.labeled_crate.name=貼標籤的板條箱
 tile.engineersdecor.labeled_crate.help=§6§6具備 9x6 大小格子的木箱，前面自帶一個物品展示框。§r\n將物品放置在 GUI 右下角的框架槽內，可以定義所顯示的標籤。
 tile.engineersdecor.treated_wood_side_table.name=防腐木茶几
-tile.engineersdecor.treated_wood_side_table.help=§6幹完活後需要喝杯茶。
+tile.engineersdecor.treated_wood_side_table.help=§6做完事後需要喝杯茶。
 tile.engineersdecor.iron_inset_light.name=嵌入燈
 tile.engineersdecor.iron_inset_light.help=§6小型螢石光源，能嵌入地板、天花板或牆裡。§r\n\
                                           用於照亮電力光源難以安裝的地方。
@@ -169,22 +169,22 @@ tile.engineersdecor.small_fluid_funnel.name=小型流體收集漏斗
 tile.engineersdecor.small_fluid_funnel.help=§6收集上方的流體。§r有一個三桶大的內部儲罐。會 \
                                             追溯流體到附近的源方塊。流體可被流體運輸系統或桶 \
                                             移出。只會裝滿下方的儲罐（重力傳輸）。與原版 \
-                                            無限水兼容。
+                                            無限水相容。
 #-----------------------------------------------------------------------------------------------------------
 tile.engineersdecor.factory_dropper.name=工廠掉落器
 tile.engineersdecor.factory_dropper.help=§6適用於高級工廠自動化的掉落器。§r有十二個輪詢選擇的儲物格。 \
                                          掉落的力度、角度、一疊數量和冷卻延時可在GUI調節。三個 \
                                          內部比較槽帶有邏輯與或邏輯或功能，可用作內部觸發源。內部觸發 \
                                          還能和外部紅石信號觸發再進行邏輯與或邏輯或。觸發模擬按鈕僅作測試用途。 \
-                                         當內部觸發條件滿足時，預先打開捲簾門。所有符合條件的物品\
+                                         當內部觸發條件滿足時，預先打開卷簾門。所有符合條件的物品\
                                          會同時掉落。點擊GUI的各處來了解如何運作。
 tile.engineersdecor.factory_hopper.name=工廠漏斗
 tile.engineersdecor.factory_hopper.help=§6適用於高級工廠自動化的漏斗。§r 可一次傳輸半組物品，最大收集範圍9x9。\n\
                                         GUI滑動條：控制收集距離（0到4），插入延遲（0.5秒到10秒），插入一疊物品的大小（1到32）。\n\
-                                        GUI紅石控制：不反相/反相（默認），脈沖模式/持續模式（默認）。
+                                        GUI紅石控制：不反相/反相（默認），脈衝模式/持續模式（默認）。
 tile.engineersdecor.factory_placer.name=工廠方塊放置器
 tile.engineersdecor.factory_placer.help=§6能夠放置方塊和種植作物或樹。§r\n\
-                                        GUI紅石控制：不反相/反相（默認），脈沖模式/持續模式（默認）。\n\
+                                        GUI紅石控制：不反相/反相（默認），脈衝模式/持續模式（默認）。\n\
                                         也支持從耕地下方穿透方塊種植。會吐出不能放置或種植的物品。
 tile.engineersdecor.small_block_breaker.name=工廠方塊破壞器
 tile.engineersdecor.small_block_breaker.help=§6破壞其正前方的方塊。§r\n\
@@ -211,15 +211,15 @@ tile.engineersdecor.small_tree_cutter.help=§6砍倒正前方的樹。§r\n\
                                            ${!tree_cuttter_requires_power?engineersdecor.tooltip.massive_speed_boost_with_rf_power}\
                                            ${tree_cuttter_requires_power?engineersdecor.tooltip.requires_rf_power}
 tile.engineersdecor.small_milking_machine.name=小型擠奶機
-tile.engineersdecor.small_milking_machine.help=§6偶爾給奶牛梳理和擠奶。§r\n\
-                                           有一個內置流體儲罐。不會餵食動物。使用桶獲得牛奶。 \
+tile.engineersdecor.small_milking_machine.help=§6偶爾給乳牛梳理和擠奶。§r\n\
+                                           有一個內建流體儲罐。不會餵食動物。使用桶獲得牛奶。 \
                                            從後方或下方的方塊物品欄拉取或存儲牛奶容器物品（偏好 \
                                            從下方輸入，從後方輸出，但也能將裝滿的牛奶容器放回原來 \
                                            的物品欄）支持將牛奶作為流體輸出到下方的儲罐和管道（只要牛奶是流體）。 \
                                            小心牛欄裡不要太擁擠，只有快樂的動物才會自覺地在擠奶機前散步。
 #-----------------------------------------------------------------------------------------------------------
 tile.engineersdecor.sign_decor.name=標誌板（工程師的裝飾）
-tile.engineersdecor.sign_decor.help=§6這不應該可合成或在JEI看到。用於創造模式的物品欄標籤和截屏。
+tile.engineersdecor.sign_decor.help=§6這不應該可合成或在JEI看到。用於創造模式的物品欄標籤和截圖。
 tile.engineersdecor.sign_hotwire.name=指示牌 "小心電線"
 tile.engineersdecor.sign_hotwire.help=§6電氣危害警告。不要忘記在高壓線周圍放置，否則下次審計時你會發現不合格。
 tile.engineersdecor.sign_mindstep.name=指示牌 "小心腳滑"
@@ -254,7 +254,7 @@ tile.engineersdecor.halfslab_sheetmetal_aluminum.help=§6可垂直堆疊的切�
 tile.engineersdecor.testblock.name=ED測試方塊（不要使用）
 tile.engineersdecor.testblock.help=§6不可合成的測試方塊，有著經常變動的測試功能，不要使用，最壞可能會!!
 #-----------------------------------------------------------------------------------------------------------
-engineersdecor.config.title=工程師的裝飾配置
+engineersdecor.config.title=工程師的裝飾設定
 engineersdecor.config.pattern_excludes=模式不包括
 engineersdecor.config.pattern_includes=模式包括
 engineersdecor.config.without_clinker_bricks=不要熟料磚

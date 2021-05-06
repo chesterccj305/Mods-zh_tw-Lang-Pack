@@ -1,4 +1,4 @@
-container.auto_cutting_table=自動切割機
+﻿container.auto_cutting_table=自動切割機
 integration.top.progress=進度: %d%%
 item.cutting_disk.name=切割盤
 item.cutting_tool.name=切割工具
@@ -82,4 +82,4 @@ tile.custom_cobblestone.nether.name=地獄岩圓石
 tile.cutting_table.name=切割台
 tile.finite_block.name=終界塊
 tile.finite_ore.name=終界礦石
-tooltip.portable_stacker.help=(Shift + 滑鼠左鍵 查看更多信息)
+tooltip.portable_stacker.help=(Shift + 滑鼠左鍵 查看更多資訊)

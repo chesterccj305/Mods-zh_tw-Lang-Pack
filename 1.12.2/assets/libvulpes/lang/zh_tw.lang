@@ -1,5 +1,5 @@
-item.Linker.name=連接器
-item.holoProjector.name=全息投影器
+﻿item.Linker.name=連接器
+item.holoProjector.name=全像投影器
 itemGroup.multiBlock=多方塊機器組件
 material.Aluminum.name=鋁
 material.Copper.name=銅

@@ -1,4 +1,4 @@
-igwtab.entry.HMs=HMs
+﻿igwtab.entry.HMs=HMs
 item.thaumiumpokecube.name=寶可夢
 msg.pokedexbuttonforwiki.text=按下 pokedex 左上角的藍色按鈕打開遊戲內的 wiki
 pokecube.power.disabled=§c沒有發現 Tesla，Pokecube 機器不會使用能源，安裝提供 Tesla 的東西來啟用能源。
@@ -6,5 +6,5 @@ pokecube.power.rf=§aRF API 發現，能量虹吸會產生 RF。
 pokecube.power.tesla=§a找到 Tesla，寶可夢機器將需要特斯拉能量來運行，能量虹吸將產生 Tesla 能量。
 tc.research_category.POKECUBE=寶可夢
 tc.research_name.THAUMIUMPOKECUBE=寶可夢
-tc.research_page.THAUMIUMPOKECUBE.1=你發現 Thaumium 中包含的神秘屬性對 Pokecubes 有一個有趣的影響。Thaumium Pokecubes 可注入 essentia，以增加捕獲匹配類型的口袋妖怪的幾率。由於 Thaumium 的某些限制, 當使用 Thaumium Pokecube 時, 只有一個小精靈類型。我想知道是否有辦法改變……
-tc.research_text.THAUMIUMPOKECUBE=[PC] 什麽是 apricorn？
+tc.research_page.THAUMIUMPOKECUBE.1=你發現 Thaumium 中包含的神秘屬性對 Pokecubes 有一個有趣的影響。Thaumium Pokecubes 可注入 essentia，以增加捕獲匹配類型的神奇寶貝的機率。由於 Thaumium 的某些限制, 當使用 Thaumium Pokecube 時, 只有一個小精靈類型。我想知道是否有辦法改變……
+tc.research_text.THAUMIUMPOKECUBE=[PC] 什麼是 apricorn？

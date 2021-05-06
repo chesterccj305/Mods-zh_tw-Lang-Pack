@@ -1,6 +1,6 @@
-itemGroup.metalchests=金屬箱子
+﻿itemGroup.metalchests=金屬箱子
 info.metalchests.chest_info.fail=警告!這個箱子上的擴容附魔等級不足以保留物品!
-info.metalchests.jei_hungry_reminder=使用奧術工作台來合成。
+info.metalchests.jei_hungry_reminder=使用奧術工作檯來合成。
 info.metalchests.jei_hungry_cost=成本和一個普通的饕餮箱子一樣。
 tile.metalchests:metal_chest.copper.name=銅箱子
 tile.metalchests:metal_chest.iron.name=鐵箱子

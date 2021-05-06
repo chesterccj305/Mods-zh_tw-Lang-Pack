@@ -1,4 +1,4 @@
-# Blocks
+﻿# Blocks
 # Configuration
 # JEI Text
 ## Config categories
@@ -23,7 +23,7 @@ config.fluidconverters.machine.tooltip=機器設置
 config.fluidconverters.machine=機器設置
 config.fluidconverters.modcompat.tooltip=Mod相容性設置
 config.fluidconverters.modcompat=Mod相容性設置
-config.fluidconverters=%s 配置
+config.fluidconverters=%s 設定
 info.invalid=無效的轉化器
 itemGroup.fluidconverters=流體轉化器
 jeigui.fluidconverters.loss=損失

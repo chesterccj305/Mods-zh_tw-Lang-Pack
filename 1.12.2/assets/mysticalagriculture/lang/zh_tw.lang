@@ -1,4 +1,4 @@
-# CREATIVE TAB
+﻿# CREATIVE TAB
 itemGroup.mysticalagriculture=神秘農業
 
 # STORAGE BLOCKS
@@ -253,7 +253,7 @@ tile.ma.desh_crop.name=戴斯作物
 
 tile.ma.coralium_crop.name=珊瑚作物
 tile.ma.abyssalnite_crop.name=深淵礦石作物
-tile.ma.dreadium_crop.name=恐惧作物
+tile.ma.dreadium_crop.name=恐懼作物
 
 tile.ma.slimy_bone_crop.name=黏骨作物
 tile.ma.syrmorite_crop.name=賽摩銅作物
@@ -693,7 +693,7 @@ item.ma.topaz_seeds.name=黃玉種子
 item.ma.malachite_seeds.name=孔雀石種子
 item.ma.tanzanite_seeds.name=坦桑石種子
 
-item.ma.blizz_seeds.name=暴雪种子
+item.ma.blizz_seeds.name=暴雪種子
 item.ma.blitz_seeds.name=狂風種子
 item.ma.basalz_seeds.name=地岩種子
 item.ma.signalum_seeds.name=信素種子
@@ -764,7 +764,7 @@ item.ma.desh_seeds.name=戴斯種子
 
 item.ma.coralium_seeds.name=珊瑚種子
 item.ma.abyssalnite_seeds.name=深淵礦石種子
-item.ma.dreadium_seeds.name=恐惧種子
+item.ma.dreadium_seeds.name=恐懼種子
 
 item.ma.slimy_bone_seeds.name=黏骨種子
 item.ma.syrmorite_seeds.name=賽摩銅種子
@@ -958,7 +958,7 @@ tooltip.ma.blast_resistant=防爆
 
 tooltip.ma.fertilized_essence=適用於本模組作物的骨粉。
 tooltip.ma.mystical_fertilizer=讓作物瞬間生長為成熟體。
-tooltip.ma.core_removal=可以使用§c核心替換器§7重新配置。
+tooltip.ma.core_removal=可以使用§c核心替換器§7重新設定。
 tooltip.ma.soulium_dagger=用於獲取§c靈魂碎片§7。
 tooltip.ma.crafting_seed=用於製作，而不用於種植。
 
@@ -989,7 +989,7 @@ tooltip.ma.reprocessor_speed=運行速度: %st
 tooltip.ma.reprocessor_fuel_rate=燃料用量: %s/t
 tooltip.ma.reprocessor_fuel_capacity=燃料容量: %s
 
-tooltip.ma.hold_shift_for_info=按住§e§oSHIFT §r§7了解更多信息。
+tooltip.ma.hold_shift_for_info=按住§e§oSHIFT §r§7了解更多資訊。
 tooltip.ma.hold=按住
 tooltip.ma.for=為
 

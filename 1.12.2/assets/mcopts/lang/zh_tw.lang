@@ -1,7 +1,7 @@
-commands.parameters.biome.invalid=沒有這樣的生物群系
-commands.parameters.biome=生物群系
-commands.parameters.biometype.invalid=沒有這樣的生物群系類型
-commands.parameters.biometype=生物群系類型
+﻿commands.parameters.biome.invalid=沒有這樣的生態域
+commands.parameters.biome=生態域
+commands.parameters.biometype.invalid=沒有這樣的生態域類型
+commands.parameters.biometype=生態域類型
 commands.parameters.block=方塊
 commands.parameters.command=命令
 commands.parameters.dimension.invalid=無此維度

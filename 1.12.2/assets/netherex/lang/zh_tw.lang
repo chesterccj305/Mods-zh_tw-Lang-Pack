@@ -1,34 +1,34 @@
-# Lang File Settings
+﻿# Lang File Settings
 language.name=繁體中文
 language.region=中文
 language.code=zh_tw
 
 # Config
-config.netherex=地獄拓展 - 配置
+config.netherex=地獄拓展 - 設定
 
 config.netherex:internal=內部設置
 config.netherex:internal.tooltip=開發人員做出的更改項
 config.netherex:internal.doNotChange=不要更改
 config.netherex:internal.doNotChange.tooltip=非開發人員不要在此項下做出更改
-config.netherex:internal.doNotChange.warnBreakingChanges=配置發生重大改變的警告
-config.netherex:internal.doNotChange.warnBreakingChanges.tooltip=是否顯示發生配置變化的警告
-config.netherex:internal.doNotChange.configVersion=配置版本
-config.netherex:internal.doNotChange.configVersion.tooltip=配置版本號
+config.netherex:internal.doNotChange.warnBreakingChanges=設定發生重大改變的警告
+config.netherex:internal.doNotChange.warnBreakingChanges.tooltip=是否顯示發生設定變化的警告
+config.netherex:internal.doNotChange.configVersion=設定版本
+config.netherex:internal.doNotChange.configVersion.tooltip=設定版本號
 
-config.netherex:client=客戶端設置
-config.netherex:client.tooltip=只對客戶端生效
+config.netherex:client=用戶端設置
+config.netherex:client.tooltip=只對用戶端生效
 config.netherex:client.visual=視覺設置
-config.netherex:client.visual.tooltip=只影響客戶端視覺效果的設置
+config.netherex:client.visual.tooltip=只影響用戶端視覺效果的設置
 config.netherex:client.visual.disableNetherFog=禁用地獄迷霧效果
 config.netherex:client.visual.disableNetherFog.tooltip=在地獄是否渲染迷霧
 
 config.netherex:compatibility=相容性設置
 config.netherex:compatibility.tooltip=針對模組相容性的設置
 
-config.netherex:compatibility.biomesOPlenty=超多生物群系相容設置
-config.netherex:compatibility.biomesOPlenty.tooltip=針對超多生物群系(BOP)的相容性設置
-config.netherex:compatibility.biomesOPlenty.enableCompatibility=啟用超多生物群系相容
-config.netherex:compatibility.biomesOPlenty.enableCompatibility.tooltip=超多生物群系相容是否啟用
+config.netherex:compatibility.biomesOPlenty=超多生態域相容設置
+config.netherex:compatibility.biomesOPlenty.tooltip=針對超多生態域(BOP)的相容性設置
+config.netherex:compatibility.biomesOPlenty.enableCompatibility=啟用超多生態域相容
+config.netherex:compatibility.biomesOPlenty.enableCompatibility.tooltip=超多生態域相容是否啟用
 
 config.netherex:dimension=維度設置
 config.netherex:dimension.tooltip=只針對維度的設置
@@ -89,49 +89,49 @@ config.netherex:mobEffect=生物效果設置
 config.netherex:mobEffect.tooltip=針對生物效果的設置
 config.netherex:mobEffect.freeze=凍結效果設置
 config.netherex:mobEffect.freeze.tooltip=針對凍結效果的設置
-config.netherex:mobEffect.freeze.thawRarity=解凍幾率
-config.netherex:mobEffect.freeze.thawRarity.tooltip=一個生物從凍結狀態解凍的幾率
+config.netherex:mobEffect.freeze.thawRarity=解凍機率
+config.netherex:mobEffect.freeze.thawRarity.tooltip=一個生物從凍結狀態解凍的機率
 config.netherex:mobEffect.freeze.mobBlacklist=凍結效果黑名單
 config.netherex:mobEffect.freeze.mobBlacklist.tooltip=不會被凍結效果影響的生物
 
 config.netherex:mobEffect.spore=孢子效果設置
 config.netherex:mobEffect.spore.tooltip=只影響孢子效果的設置
-config.netherex:mobEffect.spore.sporeSpawnRarity=孢子生成的幾率
-config.netherex:mobEffect.spore.sporeSpawnRarity.tooltip=帶有孢子效果的實體召喚孢子的幾率
+config.netherex:mobEffect.spore.sporeSpawnRarity=孢子生成的機率
+config.netherex:mobEffect.spore.sporeSpawnRarity.tooltip=帶有孢子效果的實體召喚孢子的機率
 config.netherex:mobEffect.spore.mobBlacklist=孢子效果黑名單
 config.netherex:mobEffect.spore.mobBlacklist.tooltip=不會被孢子效果影響的生物
 
 config.netherex:mobEffect.lost=迷失效果設置
 config.netherex:mobEffect.lost.tooltip=針對迷失效果的設置
-config.netherex:mobEffect.lost.ghastlingSpawnRarity=小惡魂生成的幾率
-config.netherex:mobEffect.lost.ghastlingSpawnRarity.tooltip=帶有迷失效果的實體生成小惡魂的幾率
+config.netherex:mobEffect.lost.ghastlingSpawnRarity=小惡魂生成的機率
+config.netherex:mobEffect.lost.ghastlingSpawnRarity.tooltip=帶有迷失效果的實體生成小惡魂的機率
 
 config.netherex:entity=實體設置
 config.netherex:entity.tooltip=針對實體的設置
 
-config.netherex:entity.ember=余燼設置
-config.netherex:entity.ember.tooltip=針對余燼的設置
-config.netherex:entity.ember.setPlayerOnFireRarity=點燃玩家的幾率
-config.netherex:entity.ember.setPlayerOnFireRarity.tooltip=余燼將玩家點燃的幾率
+config.netherex:entity.ember=餘燼設置
+config.netherex:entity.ember.tooltip=針對餘燼的設置
+config.netherex:entity.ember.setPlayerOnFireRarity=點燃玩家的機率
+config.netherex:entity.ember.setPlayerOnFireRarity.tooltip=餘燼將玩家點燃的機率
 
 config.netherex:entity.nethermite=地獄蟎設置
 config.netherex:entity.nethermite.tooltip=針對地獄蟎的設置
 config.netherex:entity.nethermite.spawnRarity=生成罕見度
-config.netherex:entity.nethermite.spawnRarity.tooltip=地獄蟎從地獄礦石中生成的幾率
+config.netherex:entity.nethermite.spawnRarity.tooltip=地獄蟎從地獄礦石中生成的機率
 config.netherex:entity.nethermite.blockWhitelist=生成方塊白名單
 config.netherex:entity.nethermite.blockWhitelist.tooltip=地獄蟎只會從這些方塊中生成
 
-config.netherex:entity.spinout=回旋石英刃設置
-config.netherex:entity.spinout.tooltip=針對回旋石英刃的設置
+config.netherex:entity.spinout=迴旋石英刃設置
+config.netherex:entity.spinout.tooltip=針對迴旋石英刃的設置
 config.netherex:entity.spinout.spinTime=旋轉時間
-config.netherex:entity.spinout.spinTime.tooltip=回旋石英刃的旋轉時間
+config.netherex:entity.spinout.spinTime.tooltip=迴旋石英刃的旋轉時間
 config.netherex:entity.spinout.spinCooldown=旋轉冷卻
-config.netherex:entity.spinout.spinCooldown.tooltip=回旋石英刃兩次旋轉之間停止旋轉的時長
+config.netherex:entity.spinout.spinCooldown.tooltip=迴旋石英刃兩次旋轉之間停止旋轉的時長
 
 config.netherex:entity.sporeCreeper=孢子苦力怕設置
 config.netherex:entity.sporeCreeper.tooltip=針對孢子苦力怕的設置
-config.netherex:entity.sporeCreeper.sporeSpawnRarity=生成孢子的幾率
-config.netherex:entity.sporeCreeper.sporeSpawnRarity.tooltip=孢子苦力怕死亡時生成孢子的幾率
+config.netherex:entity.sporeCreeper.sporeSpawnRarity=生成孢子的機率
+config.netherex:entity.sporeCreeper.sporeSpawnRarity.tooltip=孢子苦力怕死亡時生成孢子的機率
 
 config.netherex:entity.spore=孢子設置
 config.netherex:entity.spore.tooltip=針對孢子的設置
@@ -142,8 +142,8 @@ config.netherex:entity.spore.creeperSpawnAmount.tooltip=每個孢子能生成的
 
 config.netherex:entity.brute=蠻獸設置
 config.netherex:entity.brute.tooltip=針對蠻獸的設置
-config.netherex:entity.brute.chargeCooldown=沖刺冷卻
-config.netherex:entity.brute.chargeCooldown.tooltip=對玩家沖刺之後的冷卻時長
+config.netherex:entity.brute.chargeCooldown=衝刺冷卻
+config.netherex:entity.brute.chargeCooldown.tooltip=對玩家衝刺之後的冷卻時長
 
 config.netherex:entity.ghastQueen=惡魂女王設置
 config.netherex:entity.ghastQueen.tooltip=針對惡魂女王的設置
@@ -160,14 +160,14 @@ config.netherex:biome.arcticAbyss.tooltip=針對極地深淵群系的設置
 config.netherex:biome.arcticAbyss.canPlayersFreeze=玩家是否會被凍結
 config.netherex:biome.arcticAbyss.canPlayersFreeze.tooltip=玩家是否在極地深淵群系被凍結
 config.netherex:biome.arcticAbyss.mobFreezeRarity=生物凍結罕見度
-config.netherex:biome.arcticAbyss.mobFreezeRarity.tooltip=生物在極地深淵群系被凍結的幾率
+config.netherex:biome.arcticAbyss.mobFreezeRarity.tooltip=生物在極地深淵群系被凍結的機率
 
 # Messages
 information.netherex:breaking_changes.1=NetherEx已將mod id從“nex”更改為“netherex”。
 information.netherex:breaking_changes.2=以前生成的所有NetherEx方塊和物品將會消失。
-information.netherex:breaking_changes.3=事實上，以前的生物群系配置會被延續使用。
-information.netherex:breaking_changes.4=如果以前生物群系被修改過，那麽請重新生成地獄以重新載入。
-information.netherex:breaking_changes.5=如果沒有更改使用的預設配置，請忽略此提示。
+information.netherex:breaking_changes.3=事實上，以前的生態域設定會被延續使用。
+information.netherex:breaking_changes.4=如果以前生態域被修改過，那麼請重新生成地獄以重新載入。
+information.netherex:breaking_changes.5=如果沒有更改使用的預設設定，請忽略此提示。
 
 # Creative Tabs
 itemGroup.netherex=地獄擴展
@@ -211,7 +211,7 @@ entity.netherex:pigtificate_leader_chief.name=豬人村民長官
 entity.netherex:pigtificate.name=豬人村民
 entity.netherex:pigtificate_nincompoop.name=豬人傻瓜
 entity.netherex:pigtificate_hunter.name=豬人獵人
-entity.netherex:pigtificate_gatherer.name=豬人采集者
+entity.netherex:pigtificate_gatherer.name=豬人採集者
 entity.netherex:pigtificate_scavenger.name=豬人清道夫
 entity.netherex:pigtificate_armorsmith.name=豬人鑄甲師
 entity.netherex:pigtificate_toolsmith.name=豬人工具匠
@@ -226,9 +226,9 @@ entity.netherex:salamander.name=火蜥蜴
 entity.netherex:orange_salamander.name=火蜥蜴
 entity.netherex:black_salamander.name=火蜥蜴
 entity.netherex:wight.name=陰魂
-entity.netherex:ember.name=余燼
+entity.netherex:ember.name=餘燼
 entity.netherex:nethermite.name=地獄蟎
-entity.netherex:spinout.name=回旋石英刃
+entity.netherex:spinout.name=迴旋石英刃
 entity.netherex:lost_soul.name=迷失靈魂
 entity.netherex:kind_lost_soul.name=和善的迷失靈魂
 entity.netherex:timid_lost_soul.name=膽怯的迷失靈魂
@@ -256,10 +256,10 @@ fluid.netherex:blood.name=不朽之血
 generator.netherex:netherex=地獄擴展
 
 # Guis
-gui.netherex:select_world.reset=重置
-gui.netherex:select_world.reset_nether=重置地獄
-gui.netherex:select_world.reset_nether_question=你確定要重置地獄%s嗎？
-gui.netherex:select_world.reset_nether_warning=%s的地獄將重置為%s首次創建時的狀態！
+gui.netherex:select_world.reset=重設
+gui.netherex:select_world.reset_nether=重設地獄
+gui.netherex:select_world.reset_nether_question=你確定要重設地獄%s嗎？
+gui.netherex:select_world.reset_nether_warning=%s的地獄將重設為%s首次創建時的狀態！
 
 # Items
 item.netherex:fiery_netherbrick.name=火焰地獄磚
@@ -331,14 +331,14 @@ subtitle.netherex:sound.salamander_death=火蜥蜴:死亡
 subtitle.netherex:sound.wight_ambient=陰魂:低語
 subtitle.netherex:sound.wight_hurt=陰魂:呻吟
 subtitle.netherex:sound.wight_death=陰魂:死亡
-subtitle.netherex:sound.ember_hurt=余燼:消逝
-subtitle.netherex:sound.ember_death=余燼:熄滅
+subtitle.netherex:sound.ember_hurt=餘燼:消逝
+subtitle.netherex:sound.ember_death=餘燼:熄滅
 subtitle.netherex:sound.nethermite_ambient=地獄蟎:吱吱
 subtitle.netherex:sound.nethermite_hurt=地獄蟎:尖叫
 subtitle.netherex:sound.nethermite_death=地獄蟎:死亡
-subtitle.netherex:sound.spinout_ambient=回旋石英刃:旋轉
-subtitle.netherex:sound.spinout_hurt=回旋石英刃:受傷
-subtitle.netherex:sound.spinout_death=回旋石英刃:死亡
+subtitle.netherex:sound.spinout_ambient=迴旋石英刃:旋轉
+subtitle.netherex:sound.spinout_hurt=迴旋石英刃:受傷
+subtitle.netherex:sound.spinout_death=迴旋石英刃:死亡
 subtitle.netherex:sound.ghastling_ambient=小惡魂:呻吟
 subtitle.netherex:sound.ghastling_hurt=小惡魂:尖叫
 subtitle.netherex:sound.ghastling_death=小惡魂:死亡
@@ -387,7 +387,7 @@ tile.netherex:rime_block.name=地獄霜晶塊
 tile.netherex:frostburn_ice.name=凍燃冰
 tile.netherex:bone_sliver.name=骨梁
 tile.netherex:bone_chunk.name=細骨塊
-tile.netherex:worn_iron.name=銹蝕鐵塊
+tile.netherex:worn_iron.name=鏽蝕鐵塊
 tile.netherex:blue_fire.name=藍色火焰
 tile.netherex:nether_portal.name=地獄傳送門
 tile.netherex:urn_of_sorrow.name=哀傷之甕

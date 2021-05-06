@@ -1,4 +1,4 @@
-#CREATIVE TAB
+﻿#CREATIVE TAB
 itemGroup.immersivetech=沉浸科技
 #繁體中文的翻譯是我本人通過簡轉繁製作的，如果有冒犯，煩請繁體中文玩家原諒，謝謝
 
@@ -47,7 +47,7 @@ tile.immersivetech.metal_trash.trash_fluid.name=流體垃圾桶
 tile.immersivetech.metal_trash.trash_energy.name=能量垃圾桶
 tile.immersivetech.metal_barrel.barrel.name=創造模式金屬桶
 tile.immersivetech.metal_barrel.barrel_open.name=無蓋金屬桶
-tile.immersivetech.metal_barrel.barrel_steel.name=鋼制金屬桶
+tile.immersivetech.metal_barrel.barrel_steel.name=鋼製金屬桶
 tile.immersivetech.valve.fluid_valve.name=流體控制閥
 tile.immersivetech.valve.load_controller.name=載荷控制器
 tile.immersivetech.valve.stack_limiter.name=物品控制器
@@ -71,8 +71,8 @@ tile.immersivetech.metal_multiblock.solar_reflector_slave.name=太陽能反射�
 tile.immersivetech.metal_multiblock.steam_turbine_slave.name=蒸汽輪機
 tile.immersivetech.metal_multiblock.boiler_slave.name=蒸汽鍋爐
 tile.immersivetech.metal_multiblock.alternator_slave.name=交流發電機
-tile.immersivetech.metal_multiblock.steel_tank.name=鋼制流體儲罐
-tile.immersivetech.metal_multiblock.steel_tank_slave.name=鋼制流體儲罐
+tile.immersivetech.metal_multiblock.steel_tank.name=鋼製流體儲罐
+tile.immersivetech.metal_multiblock.steel_tank_slave.name=鋼製流體儲罐
 tile.immersivetech.metal_multiblock.cooling_tower.name=冷卻塔
 tile.immersivetech.metal_multiblock.cooling_tower_slave.name=冷卻塔
 tile.immersivetech.metal_multiblock1.gas_turbine.name=燃氣輪機
@@ -114,13 +114,13 @@ gui.immersivetech.boiler.total_heat=總產熱 %s
 gui.immersivetech.fluid_valve.firstline=限制至(留空則禁用)...
 gui.immersivetech.fluid_valve.limitpacket=mB 每個分組中
 gui.immersivetech.fluid_valve.limittime=mB 每秒內
-gui.immersivetech.fluid_valve.limitdestination=mB 在內置輸出儲罐
+gui.immersivetech.fluid_valve.limitdestination=mB 在內建輸出儲罐
 gui.immersivetech.load_controller.limitpacket=IF 每個分組中
 gui.immersivetech.load_controller.limittime=IF 每秒內
-gui.immersivetech.load_controller.limitdestination=IF 在內置輸出緩存
+gui.immersivetech.load_controller.limitdestination=IF 在內建輸出快取
 gui.immersivetech.stack_limiter.limitpacket=個物品在每個分組中
 gui.immersivetech.stack_limiter.limittime=個物品每秒內
-gui.immersivetech.stack_limiter.limitdestination=個物品在內置輸出堆疊
+gui.immersivetech.stack_limiter.limitdestination=個物品在內建輸出堆疊
 gui.immersivetech.generic_multiblock_jei_tooltip=查閱工程師手冊進行搭建
 
 
@@ -136,7 +136,7 @@ desc.immersiveengineering.info.multiblock.IT:SolarReflector=太陽能反射鏡
 desc.immersiveengineering.info.multiblock.IT:SteamTurbine=蒸汽輪機
 desc.immersiveengineering.info.multiblock.IT:Boiler=蒸汽鍋爐
 desc.immersiveengineering.info.multiblock.IT:Alternator=交流發電機
-desc.immersiveengineering.info.multiblock.IT:SteelSheetmetalTank=鋼制液體儲罐
+desc.immersiveengineering.info.multiblock.IT:SteelSheetmetalTank=鋼製液體儲罐
 desc.immersiveengineering.info.multiblock.IT:CoolingTower=冷卻塔
 desc.immersiveengineering.info.multiblock.IT:GasTurbine=燃氣輪機
 desc.immersiveengineering.info.multiblock.IT:HeatExchanger=熱交換器
@@ -168,13 +168,13 @@ ie.manual.entry.alternator2=蒸汽輪機和搭配的交流發電機
 ie.manual.entry.boiler.name=蒸汽鍋爐
 ie.manual.entry.boiler.subtext=柴油的用法
 ie.manual.entry.boiler0=鍋爐是一種多方塊結構，它使用液體燃料和水來生產蒸汽。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊紅石工程塊那一側的正中心的鐵板金屬塊完成搭建。
-ie.manual.entry.boiler1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以通過使用工程師錘右擊紅石控制台來反轉。<br>水可以從左側（裝飾有橙邊方形端）的標有藍點的艙口輸入，而柴油則從機器右側藍點艙口輸入。上方的橙點艙口用於流體輸出。
+ie.manual.entry.boiler1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以透過使用工程師錘右擊紅石控制台來反轉。<br>水可以從左側（裝飾有橙邊方形端）的標有藍點的艙口輸入，而柴油則從機器右側藍點艙口輸入。上方的橙點艙口用於流體輸出。
 ie.manual.entry.boiler2=在將水沸騰成蒸汽前，鍋爐需要預熱，預熱則需要燃料。如果將鍋爐中途關閉或不能提供足夠的燃料，則該鍋爐會緩慢冷卻。至少需要<config;d;boiler_cooldownTime>秒才能從工作溫度完全冷卻。
 
 ie.manual.entry.distiller.name=蒸餾器
 ie.manual.entry.distiller.subtext=比水更清澈
 ie.manual.entry.distiller0=蒸餾器是一種多方塊結構機械，它可以將水蒸餾成蒸餾水和鹽。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊正面中央的鐵板金屬塊完成搭建。
-ie.manual.entry.distiller1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以通過使用工程師錘右擊紅石控制台來反轉。<br>水可以通過機器左側標有藍點的艙口輸入到蒸餾器中。相對的另一側帶有橙點的艙口則用作液體輸出，而另一個橙點艙口作為物品的輸出口。<br>蒸餾器需要能源供應才能將水蒸餾成蒸餾水和鹽。<br>它會將一桶水蒸餾成500mB的蒸餾水。
+ie.manual.entry.distiller1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以透過使用工程師錘右擊紅石控制台來反轉。<br>水可以通過機器左側標有藍點的艙口輸入到蒸餾器中。相對的另一側帶有橙點的艙口則用作液體輸出，而另一個橙點艙口作為物品的輸出口。<br>蒸餾器需要能源供應才能將水蒸餾成蒸餾水和鹽。<br>它會將一桶水蒸餾成500mB的蒸餾水。
 
 ie.manual.entry.fluidValve.name=流體控制閥
 ie.manual.entry.fluidValve.subtext=我只需要一滴
@@ -191,7 +191,7 @@ ie.manual.entry.openBarrel0=§6無蓋金屬桶§r是類似金屬桶的單方塊�
 ie.manual.entry.solarTower.name=太陽能集熱塔
 ie.manual.entry.solarTower.subtext=太陽的力量
 ie.manual.entry.solarTower0=太陽能集熱塔是一種多方塊結構機械，它可以利用陽光，將水轉換成蒸汽。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊正面的紅石工程塊完成搭建。
-ie.manual.entry.solarTower1=太陽能集熱塔可將水或<link;distiller;§n§o蒸餾水§r>轉換成蒸汽。<br>一桶蒸餾水可產生3000mB的蒸汽。<br>一桶水可產生2000mB的蒸汽。<br>水可以通過左側和右側的標有藍點的兩個艙口輸入太陽能集熱塔。背面帶有橙點的艙口用作流體輸出。<br>太陽能集熱塔至少需要一個太陽能反射鏡才能工作。它在白天可被太陽持續加熱，而在晚上不斷降溫，同時其熱度變化受生物群系氣溫影響。
+ie.manual.entry.solarTower1=太陽能集熱塔可將水或<link;distiller;§n§o蒸餾水§r>轉換成蒸汽。<br>一桶蒸餾水可產生3000mB的蒸汽。<br>一桶水可產生2000mB的蒸汽。<br>水可以通過左側和右側的標有藍點的兩個艙口輸入太陽能集熱塔。背面帶有橙點的艙口用作流體輸出。<br>太陽能集熱塔至少需要一個太陽能反射鏡才能工作。它在白天可被太陽持續加熱，而在晚上不斷降溫，同時其熱度變化受生態域氣溫影響。
 ie.manual.entry.solarTower2=太陽能反射鏡是將太陽光反射到太陽能集熱塔中心的多方塊結構機械。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊正面的銀塊完成搭建。
 ie.manual.entry.solarTower3=為了實現工作，反射鏡的中心（銀塊位置）與太陽能塔之間不能有阻隔方塊，反射鏡的中心（銀塊位置）必須對準太陽能塔的中心（塔中間開口位置），反射鏡和太陽能塔之間的距離必須在<config;i;solarTower_minRange>-<config;i;solarTower_maxRange>個方塊之間。顯然，太陽能塔和反射鏡只能在白天工作。
 
@@ -202,24 +202,24 @@ ie.manual.entry.stackLimiter0=§6堆疊限制器§r可以控制通過它的物�
 ie.manual.entry.steamTurbine.name=蒸汽輪機
 ie.manual.entry.steamTurbine.subtext=沸騰的氣息
 ie.manual.entry.steamTurbine0=蒸汽輪機是使用蒸汽來產生能量的多方塊結構機械。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊紅石工程塊那一側的正中心的鋼塊完成搭建。
-ie.manual.entry.steamTurbine1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以通過使用工程師錘右擊紅石控制台來反轉。<br>機器前方的流體管道口為蒸汽的輸入口。動能輸出口位於機器後部（鋼塊處）。你可以從機器的頂部管道把蒸汽冷卻後冷凝殘餘的水排出（不是必要的）。
+ie.manual.entry.steamTurbine1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以透過使用工程師錘右擊紅石控制台來反轉。<br>機器前方的流體管道口為蒸汽的輸入口。動能輸出口位於機器後部（鋼塊處）。你可以從機器的頂部管道把蒸汽冷卻後冷凝殘餘的水排出（不是必要的）。
 ie.manual.entry.steamTurbine2=當供給蒸汽時，蒸汽輪機便會工作，它會不斷加速運轉，並在<config;i;steamTurbine_timeToMax>秒後達到最大運轉速度。將輪機中途關閉或不能提供足夠的蒸汽則會降低輪機的速度，從而降低其輸出功率。<br>你需要在蒸汽輪機的動能軸末端連接一台<link;Alternator;§n§o交流發電機§r>來配合輸出電能。
 
 ie.manual.entry.gasTurbine.name=燃氣輪機
 ie.manual.entry.gasTurbine.subtext=並非來自747
 ie.manual.entry.gasTurbine0=燃氣輪機是使用可燃燃料產生動能的多方塊結構機械。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊紅石工程塊那一側的正中心的鋼塊完成搭建。
-ie.manual.entry.gasTurbine1=為燃氣輪機足夠的燃料，機器將緩慢加速。保持供應燃料，在啟動約30秒後便可達到最大轉速和效率。對於一些燃燒熱低的燃料可能需要通過加壓輸送來維持足夠的供應量。如果在高速運轉狀態將其關閉，燃氣輪機的轉速會緩慢降低，如果其轉速降至1/4以下，則需要重新加速才可繼續使用。燃氣輪機在燃燒燃料期間，排氣量保持不變。<br>你需要在燃氣輪機的動能軸末端連接一台<link;Alternator;§n§o交流發電機§r>來配合輸出電能。
+ie.manual.entry.gasTurbine1=為燃氣輪機足夠的燃料，機器將緩慢加速。保持供應燃料，在啟動約30秒後便可達到最大轉速和效率。對於一些燃燒熱低的燃料可能需要透過加壓輸送來維持足夠的供應量。如果在高速運轉狀態將其關閉，燃氣輪機的轉速會緩慢降低，如果其轉速降至1/4以下，則需要重新加速才可繼續使用。燃氣輪機在燃燒燃料期間，排氣量保持不變。<br>你需要在燃氣輪機的動能軸末端連接一台<link;Alternator;§n§o交流發電機§r>來配合輸出電能。
 ie.manual.entry.gasTurbine2=機器前方的流體管道口為燃料的輸入口，兩側有用作不同目的的電源插口。高壓插口需要提供3072IF/t來啟動燃氣輪機，並將其加速至1/4轉速。但繼續保持該輸入將會導致機器熄火，而不是繼續提速。因此需要斷開該插口轉而使用中壓插口（位於控制台側）供能將燃料點燃（在燃氣輪機啟動階段及不能提供足夠的燃料超過3秒都需要重新點燃）。
 ie.manual.entry.gasTurbine3=與蒸汽輪機類似，燃氣輪機從後部傳動軸輸出動能，氣體輸出口則剛好位於傳動軸下方。這些氣體有特別的作用，因為通過燃燒它們可以增加輪機的效率。儘管燃氣輪機本身的效率會比柴油發電機要差，但是對於搭建更大的而且更複雜的電能輸出系統而言，這才是燃氣輪機的令人矚目的地方。<br>通過<link;gasTurbine;§n§oCCGT§r>（對於船員而言是COGAS）產生的燃氣作為鍋爐的燃料來產生蒸汽動力時，可獲得巨大效益。
 
 
-ie.manual.entry.steelBarrel.name=鋼制金屬桶
+ie.manual.entry.steelBarrel.name=鋼製金屬桶
 ie.manual.entry.steelBarrel.subtext=全力以赴！
-ie.manual.entry.steelBarrel0=§6鋼制金屬桶§r是擁有金屬桶兩倍容量的單方塊儲罐，流體可以直接手持倒入。他的頂部與底部均可通過工程師錘配置輸入與輸出。
+ie.manual.entry.steelBarrel0=§6鋼製金屬桶§r是擁有金屬桶兩倍容量的單方塊儲罐，流體可以直接手持倒入。他的頂部與底部均可通過工程師錘設定輸入與輸出。
 
-ie.manual.entry.steelTank.name=鋼制流體儲罐
+ie.manual.entry.steelTank.name=鋼製流體儲罐
 ie.manual.entry.steelTank.subtext=全力以赴！
-ie.manual.entry.steelTank0=鋼制流體儲罐是提供更大的流體容量的多方塊結構。它可以存儲 <config;i;steelTank_tankSize> mB的任意流體, 它可用管道從頂部或底部輸入，但是流體只能從底部輸出。
+ie.manual.entry.steelTank0=鋼製流體儲罐是提供更大的流體容量的多方塊結構。它可以存儲 <config;i;steelTank_tankSize> mB的任意流體, 它可用管道從頂部或底部輸入，但是流體只能從底部輸出。
 ie.manual.entry.steelTank1=在下方中央方塊提供紅石信號可以讓儲罐自動輸出，紅石比較器可以依據內部容量發出信號。
 
 ie.manual.entry.redstone.name=紅石計時器
@@ -228,13 +228,13 @@ ie.manual.entry.redstone0=§6紅石計時器§r擁有輸出紅石脈衝的功能
 
 ie.manual.entry.coolingTower.name=冷卻塔
 ie.manual.entry.coolingTower.subtext=保持冷靜，朋友！
-ie.manual.entry.coolingTower0=冷卻塔是可以將餘熱蒸汽冷卻成水的多方塊結構。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊重型工程塊完成搭建。
+ie.manual.entry.coolingTower0=冷卻塔是可以將余熱蒸汽冷卻成水的多方塊結構。<br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊重型工程塊完成搭建。
 ie.manual.entry.coolingTower1=餘熱蒸汽輸入口位於重型工程塊的左邊，水或蒸餾水輸入口位於重型工程塊的右邊。冷卻後的水或蒸餾水在背面輸出。
 
 ie.manual.entry.heatExchanger.name=熱交換器
 ie.manual.entry.heatExchanger.subtext=你好，克勞修斯！
 ie.manual.entry.heatExchanger0=熱交換器是一種可以快速將某種流體的熱度轉移到另外一種流體的多方塊結構. <br>具體結構如上圖所示，全部搭建完成後，使用工程師錘右擊位於紅石工程塊一側的正中央的鐵板金屬塊完成搭建
-ie.manual.entry.heatExchanger1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以通過使用工程師錘右擊紅石控制台來反轉。 <br>水和 <link;distiller;§n§o蒸餾水§r> 可以通過頂部標有藍點的輸入口輸入，蒸汽通過標有橙點的輸出口輸出。
+ie.manual.entry.heatExchanger1=正中心紅點的控制台是使用紅石信號控制機器開關的介面，紅石信號的開關與機器的開關的關係可以透過使用工程師錘右擊紅石控制台來反轉。 <br>水和 <link;distiller;§n§o蒸餾水§r> 可以通過頂部標有藍點的輸入口輸入，蒸汽通過標有橙點的輸出口輸出。
 ie.manual.entry.heatExchanger2=<link;gasTurbine;§n§o燃氣§r>通過熱交換器底部的藍色輸入口輸入，然後通過底部的橙色輸出口輸出已經進行過熱交換的燃氣。
 
 ie.manual.entry.computer.steamTurbine.name=蒸汽輪機 ☎
@@ -261,4 +261,4 @@ ie.manual.entry.computer.gasTurbine0=§lgetSpeed()§r:返回燃氣輪機的轉�
 ie.manual.entry.computer.heatExchanger0=§lgetFirstInputTankInfo()§r: 返回一張包含熱交換器頂部輸入儲罐的資訊的表。<br>§lgetSecondInputTankInfo()§r: 返回一張包含熱交換器底部輸入儲罐的資訊的表。
 ie.manual.entry.computer.heatExchanger1=§lgetFirstOutputTankInfo()§r: 返回一張包含熱交換器頂部輸出儲罐的資訊的表。<br>§lgetSecondOutputTankInfo()§r: 返回一張包含熱交換器底部輸出儲罐的資訊的表。
 
-ie.manual.entry.fluidPipes3=為了使泵能提取流體方塊，它需要在頂部有能量輸入和紅石信號。泵也可以用來從儲罐和其他沒有自動輸出的流體容器中抽取。這同樣需要紅石信號，但不會消耗功率，正如預期的那樣。<br><br>泵有了新模式! 通過用工程剪線鉗按右鍵流體泵，可以改變其工作模式。如果運行模式不符合預期，可以切換模式。
+ie.manual.entry.fluidPipes3=為了使泵能提取流體方塊，它需要在頂部有能量輸入和紅石信號。泵也可以用來從儲罐和其他沒有自動輸出的流體容器中抽取。這同樣需要紅石信號，但不會消耗功率，正如預期的那樣。<br><br>泵有了新模式! 透過用工程剪線鉗按右鍵流體泵，可以改變其工作模式。如果運行模式不符合預期，可以切換模式。

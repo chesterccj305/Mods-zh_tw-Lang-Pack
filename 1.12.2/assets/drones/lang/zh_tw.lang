@@ -1,5 +1,5 @@
-entity.drone.name=無人機
-entity.laser.name=無人機激光束
+﻿entity.drone.name=無人機
+entity.laser.name=無人機雷射
 entity.player_drone.name=建造無人機
 entity.saw_blade.name=帶“死亡之翼”的無人機
 item.drones.drone_constructor.name=無人機構造者
@@ -12,4 +12,4 @@ tooltip.disruptor_2=銷毀16格半徑內的所有無人機。
 entity.drones.drone.name=無人機
 entity.drones.player_drone.name=建造的無人機
 entity.drones.saw_blade.name=無人機死亡鋸刃
-entity.drones.laser.name=無人機鐳射光束
+entity.drones.laser.name=無人機雷射光束

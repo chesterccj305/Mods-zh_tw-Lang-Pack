@@ -1,4 +1,4 @@
-tile.chargers.charger.tier_1.name=一級充電器
+﻿tile.chargers.charger.tier_1.name=一級充電器
 tile.chargers.charger.tier_2.name=二級充電器
 tile.chargers.charger.tier_3.name=三級充電器
 tile.chargers.wireless_charger.name=無線充電器
@@ -14,4 +14,3 @@ gui.chargers.energy=%s/%s FE
 gui.chargers.max_in=最大輸入： %s FE/t
 gui.chargers.max_out=最大輸出： %s FE/t
 gui.chargers.io=I/O: %s FE/t
-

@@ -1,4 +1,4 @@
-gui.furnus.AUTO=自動 
+﻿gui.furnus.AUTO=自動 
 gui.furnus.ENABLED=啟用
 gui.furnus.X=禁用
 gui.furnus.back=後方
@@ -21,7 +21,7 @@ item.furnus:upgrade_0.name=速度升級
 item.furnus:upgrade_0.tip=提高速度，增加燃料消耗。
 item.furnus:upgrade_1.name=效率升級
 item.furnus:upgrade_1.tip=降低燃料消耗。
-item.furnus:upgrade_2.name=接口升級
+item.furnus:upgrade_2.name=介面升級
 item.furnus:upgrade_2.tip=解鎖自動選項。
 item.furnus:upgrade_3.name=插槽升級
 item.furnus:upgrade_3.tip=添加一個附加插槽（最多2個）。

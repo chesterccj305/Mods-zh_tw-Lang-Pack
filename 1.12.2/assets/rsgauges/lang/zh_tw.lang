@@ -1,4 +1,4 @@
-#
+﻿#
 # Redstone Gauges and Switches language file
 #
 # - Inventory hover tooltip help/descriptions (when CTRL-SHIFT are down).
@@ -13,7 +13,7 @@
 itemGroup.tabrsgauges=紅石測量與開關
 rsgauges.config.title=紅石測量與開關 設置
 rsgauges.subtitle.soundindicator1=警報器
-rsgauges.tooltip.hint.extended=§8[§o按SHIFT§8查看更多信息]§r
+rsgauges.tooltip.hint.extended=§8[§o按SHIFT§8查看更多資訊]§r
 rsgauges.tooltip.hint.help=§8[§o按CTRL+SHIFT§8查看幫助]§r
 
 #-----------------------------------------------------------------------------------------------------------
@@ -86,14 +86,14 @@ tile.rsgauges.indicator_rustic_flag.help=§6一個小金屬盒，裡面的信號
 #-----------------------------------------------------------------------------------------------------------
 rsgauges.switch.feature.pulseextend.help=能在已啟用時再啟用一次來延長啟用時間。
 rsgauges.switch.feature.hoppermountable.help=能放在漏斗上。
-rsgauges.switch.feature.pulsetime.help=手持一組紅石左鍵可將脈沖間隔固定在0.1秒(1)到6.4秒(64)之間。
-rsgauges.switch.feature.outputconfig.help=空手左鍵可配置輸出(在支持的不同輸出模式間循環)。
+rsgauges.switch.feature.pulsetime.help=手持一組紅石左鍵可將脈衝間隔固定在0.1秒(1)到6.4秒(64)之間。
+rsgauges.switch.feature.outputconfig.help=空手左鍵可設定輸出(在支持的不同輸出模式間循環)。
 rsgauges.switch.feature.projectilesense.help=可用投射物啟用。
 rsgauges.switch.feature.colortinting.help=可用任意染料左鍵來使開關染色。
 rsgauges.switch.feature.linktarget.help=用終界珍珠左鍵此開關來得到與其連接的連接終界珍珠。
 rsgauges.switch.feature.linksource.help=用連接終界珍珠左鍵此開關來使其成為連接源。
 rsgauges.switch.feature.contactmat.offdelay.help=手持一組紅石左鍵來將信號維持時間固定在0.1秒(1)到6.4秒(64)之間。
-rsgauges.switch.feature.contactmat.touch.help=右擊上下箭頭按鈕配置輸出信號強度、實體過濾、實體計數和靈敏度。
+rsgauges.switch.feature.contactmat.touch.help=右擊上下箭頭按鈕設定輸出信號強度、實體過濾、實體計數和靈敏度。
 
 #-----------------------------------------------------------------------------------------------------------
 # Manual bistable switch names
@@ -106,18 +106,18 @@ tile.rsgauges.bistableswitch5.name=雙穩態紅石開關 (反向按鈕)
 tile.rsgauges.bistableswitch6.name=雙穩態紅石開關 (漏斗阻斷開關)
 tile.rsgauges.bistableswitch7.name=雙穩態紅石開關 (機械旋轉拉桿)
 tile.rsgauges.bistableswitch8.name=雙穩態紅石開關 (機械拉桿)
-tile.rsgauges.bistableswitch_oldfancy1.name=雙穩態紅石開關 (老式設計直拉桿)
-tile.rsgauges.bistableswitch_oldfancy2.name=雙穩態紅石開關 (老式設計有角拉桿)
-tile.rsgauges.bistableswitch_oldfancy3.name=雙穩態紅石開關 (老式設計曲臂拉桿)
-tile.rsgauges.bistableswitch_oldfancy4.name=雙穩態紅石開關 (老式設計滑動球形連接器)
-tile.rsgauges.bistableswitch_oldfancy5.name=雙穩態紅石開關 (老式設計旋轉球形連接器)
-tile.rsgauges.bistableswitch_oldfancy6.name=雙穩態紅石開關 (老式設計旋轉球形連接器2)
-tile.rsgauges.bistableswitch_oldfancy7.name=雙穩態紅石開關 (老式設計手動連接器)
+tile.rsgauges.bistableswitch_oldfancy1.name=雙穩態紅石開關 (舊式設計直拉桿)
+tile.rsgauges.bistableswitch_oldfancy2.name=雙穩態紅石開關 (舊式設計有角拉桿)
+tile.rsgauges.bistableswitch_oldfancy3.name=雙穩態紅石開關 (舊式設計曲臂拉桿)
+tile.rsgauges.bistableswitch_oldfancy4.name=雙穩態紅石開關 (舊式設計滑動球形連接器)
+tile.rsgauges.bistableswitch_oldfancy5.name=雙穩態紅石開關 (舊式設計旋轉球形連接器)
+tile.rsgauges.bistableswitch_oldfancy6.name=雙穩態紅石開關 (舊式設計旋轉球形連接器2)
+tile.rsgauges.bistableswitch_oldfancy7.name=雙穩態紅石開關 (舊式設計手動連接器)
 tile.rsgauges.bistableswitch_rustic1.name=雙穩態紅石開關 (鄉村式拉桿)
 tile.rsgauges.bistableswitch_rustic2.name=雙穩態紅石開關 (鄉村式雙柄拉桿)
 tile.rsgauges.bistableswitch_rustic3.name=雙穩態紅石開關 (鄉村式大角拉桿)
 tile.rsgauges.bistableswitch_rustic4.name=雙穩態紅石開關 (鄉村式平衡配重)
-tile.rsgauges.bistableswitch_rustic5.name=雙穩態紅石開關 (鄉村式旋轉手柄)
+tile.rsgauges.bistableswitch_rustic5.name=雙穩態紅石開關 (鄉村式旋轉手把)
 tile.rsgauges.bistableswitch_rustic6.name=雙穩態紅石開關 (鄉村式滑鎖)
 tile.rsgauges.bistableswitch_rustic7.name=雙穩態紅石開關 (鄉村式釘子)
 tile.rsgauges.bistableswitch_glass1.name=雙穩態紅石開關 (星型玻璃開關)
@@ -154,26 +154,26 @@ tile.rsgauges.bistableswitch_glass2.help=${rsgauges.switch.feature.typebistable.
 #-----------------------------------------------------------------------------------------------------------
 # Manual pulse switch names
 #-----------------------------------------------------------------------------------------------------------
-tile.rsgauges.arrowtarget.name=脈沖紅石開關 (箭靶)
-tile.rsgauges.pulseswitch1.name=脈沖紅石開關 (方形機械按鈕)
-tile.rsgauges.pulseswitch2.name=脈沖紅石開關 (封閉圓形機械按鈕)
-tile.rsgauges.pulseswitch3.name=脈沖紅石開關 (機械拉手)
-tile.rsgauges.pulseswitch5.name=脈沖紅石開關 (機械推鈕)
-tile.rsgauges.pulseswitch6.name=脈沖紅石開關 (復古雙桿)
-tile.rsgauges.pulseswitch_oldfancy1.name=脈沖紅石開關 (老式設計按鈕)
-tile.rsgauges.pulseswitch_oldfancy2.name=脈沖紅石開關 (老式設計鏈式開關)
-tile.rsgauges.pulseswitch_oldfancy3.name=脈沖紅石開關 (老式設計彈簧復位手柄)
-tile.rsgauges.pulseswitch_oldfancy4.name=脈沖紅石開關 (老式設計小按鈕)
-tile.rsgauges.pulseswitch_rustic1.name=脈沖紅石開關 (鄉村式推鈕)
-tile.rsgauges.pulseswitch_rustic2.name=脈沖紅石開關 (鄉村式螺栓按鈕)
-tile.rsgauges.pulseswitch_rustic3.name=脈沖紅石開關 (鄉村式鏈子)
-tile.rsgauges.pulseswitch_rustic4.name=脈沖紅石開關 (鄉村式配重鏈子)
-tile.rsgauges.pulseswitch_rustic5.name=脈沖紅石開關 (鄉村式拉手)
-tile.rsgauges.pulseswitch_rustic6.name=脈沖紅石開關 (鄉村式推柄)
-tile.rsgauges.pulseswitch_rustic7.name=脈沖紅石開關 (鄉村式釘子)
-tile.rsgauges.pulseswitch_glass1.name=脈沖紅石開關 (星形玻璃按鈕)
-tile.rsgauges.pulseswitch_glass2.name=脈沖紅石開關 (小型星形玻璃按鈕)
-tile.rsgauges.pulseswitch_glass3.name=脈沖紅石開關 (接觸式玻璃按鈕)
+tile.rsgauges.arrowtarget.name=脈衝紅石開關 (箭靶)
+tile.rsgauges.pulseswitch1.name=脈衝紅石開關 (方形機械按鈕)
+tile.rsgauges.pulseswitch2.name=脈衝紅石開關 (封閉圓形機械按鈕)
+tile.rsgauges.pulseswitch3.name=脈衝紅石開關 (機械拉手)
+tile.rsgauges.pulseswitch5.name=脈衝紅石開關 (機械推鈕)
+tile.rsgauges.pulseswitch6.name=脈衝紅石開關 (復古雙桿)
+tile.rsgauges.pulseswitch_oldfancy1.name=脈衝紅石開關 (舊式設計按鈕)
+tile.rsgauges.pulseswitch_oldfancy2.name=脈衝紅石開關 (舊式設計鏈式開關)
+tile.rsgauges.pulseswitch_oldfancy3.name=脈衝紅石開關 (舊式設計彈簧復位手把)
+tile.rsgauges.pulseswitch_oldfancy4.name=脈衝紅石開關 (舊式設計小按鈕)
+tile.rsgauges.pulseswitch_rustic1.name=脈衝紅石開關 (鄉村式推鈕)
+tile.rsgauges.pulseswitch_rustic2.name=脈衝紅石開關 (鄉村式螺栓按鈕)
+tile.rsgauges.pulseswitch_rustic3.name=脈衝紅石開關 (鄉村式鏈子)
+tile.rsgauges.pulseswitch_rustic4.name=脈衝紅石開關 (鄉村式配重鏈子)
+tile.rsgauges.pulseswitch_rustic5.name=脈衝紅石開關 (鄉村式拉手)
+tile.rsgauges.pulseswitch_rustic6.name=脈衝紅石開關 (鄉村式推柄)
+tile.rsgauges.pulseswitch_rustic7.name=脈衝紅石開關 (鄉村式釘子)
+tile.rsgauges.pulseswitch_glass1.name=脈衝紅石開關 (星形玻璃按鈕)
+tile.rsgauges.pulseswitch_glass2.name=脈衝紅石開關 (小型星形玻璃按鈕)
+tile.rsgauges.pulseswitch_glass3.name=脈衝紅石開關 (接觸式玻璃按鈕)
 #
 # Pulse switch tooltip help
 #
@@ -205,11 +205,11 @@ tile.rsgauges.pulseswitch_glass3.help=${rsgauges.switch.feature.typepulse.help}$
 #-----------------------------------------------------------------------------------------------------------
 tile.rsgauges.contactmat1.name=接觸紅石開關 (門接觸墊)
 tile.rsgauges.contactmat2.name=接觸紅石開關 (靈敏方形接觸墊)
-tile.rsgauges.contactmat3.name=接觸紅石開關 (沖擊感應接觸墊)
+tile.rsgauges.contactmat3.name=接觸紅石開關 (衝擊感應接觸墊)
 tile.rsgauges.contactmat_rustic1.name=接觸紅石開關 (鄉村式門底板)
 tile.rsgauges.contactmat_rustic2.name=接觸紅石開關 (鄉村式壓力板)
-tile.rsgauges.contactmat_rustic3.name=接觸紅石開關 (鄉村式沖擊感應接觸墊)
-tile.rsgauges.contactmat_glass1.name=接觸紅石開關 (觸摸屏可配置玻璃板)
+tile.rsgauges.contactmat_rustic3.name=接觸紅石開關 (鄉村式衝擊感應接觸墊)
+tile.rsgauges.contactmat_glass1.name=接觸紅石開關 (觸摸屏可設定玻璃板)
 tile.rsgauges.contactmat_glass2.name=接觸紅石開關 (玻璃板)
 #
 # Floor contact switch tooltip help
@@ -222,7 +222,7 @@ tile.rsgauges.contactmat2.help=§6一個工業式地板接觸墊，在頂部暴�
                                §r\n\
                                信號會輸出到底部和正面。\
                                ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.contactmat3.help=§6一個工業式地板接觸墊，在暴露於機械沖擊時會發出紅石信號。\
+tile.rsgauges.contactmat3.help=§6一個工業式地板接觸墊，在暴露於機械衝擊時會發出紅石信號。\
                                §r\n\
                                信號會輸出到底部和正面。信號強度總是15。\
                                ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
@@ -234,7 +234,7 @@ tile.rsgauges.contactmat_rustic2.help=§6一個金屬板，在暴露於機械壓
                                §r\n\
                                信號會輸出到底部和正面。\
                                ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.contactmat_rustic3.help=§6一個金屬板，在暴露於機械沖擊時會發出紅石信號。\
+tile.rsgauges.contactmat_rustic3.help=§6一個金屬板，在暴露於機械衝擊時會發出紅石信號。\
                                §r\n\
                                信號會輸出到底部和正面。信號強度總是15。\
                                ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} ${rsgauges.switch.feature.linksource.help}
@@ -250,21 +250,21 @@ tile.rsgauges.contactmat_glass2.help=§6一個玻璃地板，在暴露於機械�
 #-----------------------------------------------------------------------------------------------------------
 # Trapdoor switches
 #-----------------------------------------------------------------------------------------------------------
-tile.rsgauges.trapdoorswitch1.name=活板門開關 (工業式沖擊啟用活板門)
-tile.rsgauges.trapdoorswitch2.name=活板門開關 (工業式沖擊啟用靈敏活板門)
-tile.rsgauges.trapdoorswitch3.name=活板門開關 (工業式物品活板門)
-tile.rsgauges.trapdoorswitch_rustic1.name=活板門開關 (鄉村式沖擊啟用活板門)
-tile.rsgauges.trapdoorswitch_rustic2.name=活板門開關 (鄉村式沖擊啟用靈敏活板門)
-tile.rsgauges.trapdoorswitch_rustic3.name=活板門開關 (鄉村式物品活板門)
+tile.rsgauges.trapdoorswitch1.name=暗門開關 (工業式衝擊啟用暗門)
+tile.rsgauges.trapdoorswitch2.name=暗門開關 (工業式衝擊啟用靈敏暗門)
+tile.rsgauges.trapdoorswitch3.name=暗門開關 (工業式物品暗門)
+tile.rsgauges.trapdoorswitch_rustic1.name=暗門開關 (鄉村式衝擊啟用暗門)
+tile.rsgauges.trapdoorswitch_rustic2.name=暗門開關 (鄉村式衝擊啟用靈敏暗門)
+tile.rsgauges.trapdoorswitch_rustic3.name=暗門開關 (鄉村式物品暗門)
 #
 # Trapdoor switch tooltip help
 #
-tile.rsgauges.trapdoorswitch1.help=§6一個工業式地板活板門，當某人或某物掉在錶面時會打開並發出紅石信號。\
+tile.rsgauges.trapdoorswitch1.help=§6一個工業式地板暗門，當某人或某物掉在錶面時會打開並發出紅石信號。\
                                    §r\n\
                                    信號會輸出到放置的方塊上。\
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                    ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.trapdoorswitch2.help=§6一個工業式地板活板門，當某人或某物掉在其錶面，或有人走在上面卻沒有潛行時會打開並發出紅石信號。\
+tile.rsgauges.trapdoorswitch2.help=§6一個工業式地板暗門，當某人或某物掉在其錶面，或有人走在上面卻沒有潛行時會打開並發出紅石信號。\
                                    §r\n\
                                    信號會輸出到放置的方塊上。\
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
@@ -273,17 +273,17 @@ tile.rsgauges.trapdoorswitch3.help=§6一個工業式感測器框架，當發現
                                    信號會輸出到放置的方塊上。 \
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                    ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.trapdoorswitch_rustic1.help=§6一個金屬地板活板門，當某人或某物掉在錶面時會打開並發出紅石信號。\
+tile.rsgauges.trapdoorswitch_rustic1.help=§6一個金屬地板暗門，當某人或某物掉在錶面時會打開並發出紅石信號。\
                                    §r\n\
                                    信號會輸出到放置的方塊上。\
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                    ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.trapdoorswitch_rustic2.help=§6一個金屬地板活板門，當某人或某物掉在其錶面，或有人走在上面卻沒有潛行時會打開並發出紅石信號。\
+tile.rsgauges.trapdoorswitch_rustic2.help=§6一個金屬地板暗門，當某人或某物掉在其錶面，或有人走在上面卻沒有潛行時會打開並發出紅石信號。\
                                    §r\n\
                                    信號會輸出到放置的方塊上。\
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                    ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.trapdoorswitch_rustic3.help=§6一個金屬活板門，當接觸到實體時會打開並發出紅石信號。§r\n\
+tile.rsgauges.trapdoorswitch_rustic3.help=§6一個金屬暗門，當接觸到實體時會打開並發出紅石信號。§r\n\
                                    信號會輸出到放置的方塊上。\
                                    ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                    ${rsgauges.switch.feature.linksource.help}
@@ -292,14 +292,14 @@ tile.rsgauges.trapdoorswitch_rustic3.help=§6一個金屬活板門，當接觸�
 # Auto switch names
 #-----------------------------------------------------------------------------------------------------------
 tile.rsgauges.automaticswitch1.name=自動紅石開關 (紅外運動探測器)
-tile.rsgauges.automaticswitch2.name=自動紅石開關 (線性激光探測器)
+tile.rsgauges.automaticswitch2.name=自動紅石開關 (線性雷射探測器)
 tile.rsgauges.automaticswitch3.name=自動紅石開關 (局部光感器)
 tile.rsgauges.automaticswitch4.name=自動紅石開關 (日間計時器)
 tile.rsgauges.automaticswitch5.name=自動紅石開關 (雨水感應開關)
 tile.rsgauges.automaticswitch6.name=自動紅石開關 (雷電預測開關)
 tile.rsgauges.automaticswitch7.name=自動紅石開關 (間隔信號計時器)
 tile.rsgauges.detectorswitch_glass1.name=自動紅石開關 (玻璃紅外運動探測器)
-tile.rsgauges.detectorswitch_glass2.name=自動紅石開關 (玻璃線性激光探測器)
+tile.rsgauges.detectorswitch_glass2.name=自動紅石開關 (玻璃線性雷射探測器)
 tile.rsgauges.daytimeswitch_glass1.name=自動紅石開關 (玻璃日間計時器)
 tile.rsgauges.timerswitch_glass1.name=自動紅石開關 (玻璃間隔信號計時器)
 #
@@ -324,7 +324,7 @@ tile.rsgauges.automaticswitch3.help=§6一個小型設備，能測量所處位�
                                     如果開和關的亮度設置完全相同，改變狀態便需要恰好一致的亮度。\
                                     信號會輸出到設備放置的方塊上。\
                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.automaticswitch4.help=§6一個小型設備，會每游戲天從設定好的開始時間到結束時間發出紅石信號。\
+tile.rsgauges.automaticswitch4.help=§6一個小型設備，會每遊戲天從設定好的開始時間到結束時間發出紅石信號。\
                                     §r\n\
                                     發出信號的時間跨度能在設備錶面的按鈕上設置。(24小時制)\
                                     按鈕也能設置輸出信號強度和一個隨機化值。隨機化值\
@@ -341,9 +341,9 @@ tile.rsgauges.automaticswitch6.help=§6一種小型壁掛式設備，擋在空�
                                     信號會輸出到設備放置的方塊上。\
                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
 tile.rsgauges.automaticswitch7.help=§6一種小型設備，能發出自訂高值和低值時間的方波紅石信號。§r\n\
-                                    自訂的時間能用正面的按鈕配置，範圍在0.1秒(2 ticks)\
-                                    到600秒(10分鐘)之間。配置時當前時間值越大，按一次改變的的步長也越大，反之亦然。\
-                                    利用按鈕還能配置輸出信號強度和傾斜值，\
+                                    自訂的時間能用正面的按鈕設定，範圍在0.1秒(2 ticks)\
+                                    到600秒(10分鐘)之間。設定時目前時間值越大，按一次改變的的步長也越大，反之亦然。\
+                                    利用按鈕還能設定輸出信號強度和傾斜值，\
                                     傾斜值能改變紅石信號改變的速度。\
                                     §e設備被放置時預設是待機模式。右擊錶面按鈕可\
                                     設置為運行模式。§r \
@@ -362,7 +362,7 @@ tile.rsgauges.detectorswitch_glass2.help=§6一個小型玻璃設備，如果在
                                     需要的實體數量和實體類型(怪物、玩家、動物等等)。\
                                     信號會輸出到設備放置的方塊上。輸出信號切換時不會發出聲音。\
                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.daytimeswitch_glass1.help=§6一個小型玻璃設備，會每游戲天從設定好的開始時間到結束時間發出紅石信號。\
+tile.rsgauges.daytimeswitch_glass1.help=§6一個小型玻璃設備，會每遊戲天從設定好的開始時間到結束時間發出紅石信號。\
                                     §r\n\
                                     發出信號的時間跨度能在設備錶面的按鈕上設置。(24小時制)\
                                     按鈕也能設置輸出信號強度和一個隨機化值。隨機化值\
@@ -370,9 +370,9 @@ tile.rsgauges.daytimeswitch_glass1.help=§6一個小型玻璃設備，會每游�
                                     信號會輸出到設備放置的方塊上。輸出信號切換時不會發出聲音。\
                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
 tile.rsgauges.timerswitch_glass1.help=§6一種小型玻璃設備，能發出自訂高值和低值時間的方波紅石信號。§r\n\
-                                    自訂的時間能用正面的按鈕配置，範圍在0.1秒(2 ticks)\
-                                    到600秒(10分鐘)之間。配置時當前時間值越大，按一次改變的的步長也越大，反之亦然。\
-                                    利用按鈕還能配置輸出信號強度和傾斜值，\
+                                    自訂的時間能用正面的按鈕設定，範圍在0.1秒(2 ticks)\
+                                    到600秒(10分鐘)之間。設定時目前時間值越大，按一次改變的的步長也越大，反之亦然。\
+                                    利用按鈕還能設定輸出信號強度和傾斜值，\
                                     傾斜值能改變紅石信號改變的速度。\
                                     §e設備被放置時預設是待機模式。右擊錶面按鈕可\
                                     設置為運行模式。§r \
@@ -389,13 +389,13 @@ tile.rsgauges.observerswitch1.name=方塊檢測開關 (工業系列)
 # Observing switch tooltip help
 #
 tile.rsgauges.observerswitch1.help=§6一個開關，在檢測到前方一個或多個方塊符合\
-                                    配置中的種類或類別時發出紅石信號。§r\n\
-                                    可用檢測面反面的按鈕配置檢測的方塊種類。\
-                                    同時還能配置'距離'(檢測多遠)，'閾值'(發出信號需要至少幾個方塊)，\
+                                    設定中的種類或類別時發出紅石信號。§r\n\
+                                    可用檢測面反面的按鈕設定檢測的方塊種類。\
+                                    同時還能設定'距離'(檢測多遠)，'閾值'(發出信號需要至少幾個方塊)，\
                                     '過濾'(條件過濾，例如固體方塊、流體、原木、礦、植物、農作物、成熟農作物和基於礦辭的過濾)，\
-                                    '去抖動'(除顫延遲)和\
+                                    '去抖動'(去顫延遲)和\
                                     輸出'強度'(除了檢測面外的所有面)。\
-                                    註：對於其他模組里的方塊，只有它們\
+                                    註：對於其他模組裡的方塊，只有它們\
                                     正確地註冊了礦物辭典才會被識別。\
                                     §r\n\
                                     ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linksource.help}
@@ -419,40 +419,40 @@ tile.rsgauges.dimmerswitch1.help=§6一個工業式開關，其紅石強度可�
 #-----------------------------------------------------------------------------------------------------------
 tile.rsgauges.relay_bistableswitchrx1.name=開關連接接收器 (工業式)
 tile.rsgauges.relay_bistableswitchrx2.name=方塊型開關連接接收器 (工業式)
-tile.rsgauges.relay_pulseswitchrx1.name=開關連接脈沖接收器 (工業式)
-tile.rsgauges.relay_pulseswitchrx2.name=方塊型開關連接脈沖接收器 (工業式)
+tile.rsgauges.relay_pulseswitchrx1.name=開關連接脈衝接收器 (工業式)
+tile.rsgauges.relay_pulseswitchrx2.name=方塊型開關連接脈衝接收器 (工業式)
 tile.rsgauges.relay_bistableswitchtx1.name=開關連接中繼器 (工業式)
-tile.rsgauges.relay_pulseswitchtx1.name=開關連接脈沖中繼器 (工業式)
+tile.rsgauges.relay_pulseswitchtx1.name=開關連接脈衝中繼器 (工業式)
 #
 # Link relay switch help
 #
-tile.rsgauges.relay_bistableswitchrx1.help=§6一個小型工業式雙穩態開關設備，專為作為開關連接目標優化。\
+tile.rsgauges.relay_bistableswitchrx1.help=§6一個小型工業式雙穩態開關設備，專為作為開關連接目標最佳化。\
                                            §r\n\
                                            內部的繼電器是消音的，因此非常安靜。\
                                            也能像扳手一樣手動開關。\
                                            ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
                                            ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.relay_bistableswitchrx2.help=§6一個用完整方塊包裝的小型工業式雙穩態開關設備，專為作為開關連接目標優化。\
+tile.rsgauges.relay_bistableswitchrx2.help=§6一個用完整方塊包裝的小型工業式雙穩態開關設備，專為作為開關連接目標最佳化。\
                                            §r\n\
                                            內部的繼電器是消音的，因此非常安靜。\
                                            也能像扳手一樣手動開關。\
                                            ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
                                            ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.relay_pulseswitchrx1.help=§6一個小型工業式脈沖開關，專為作為開關連接目標而優化。\
+tile.rsgauges.relay_pulseswitchrx1.help=§6一個小型工業式脈衝開關，專為作為開關連接目標而最佳化。\
                                            §r\n\
                                            像普通開關一樣，當被右擊或開關連接觸發時會短時間啟用。\
                                            \
                                            內部的繼電器是消音的，因此非常安靜。\
                                            ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
                                            ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.pulsetime.help}
-tile.rsgauges.relay_pulseswitchrx2.help=§6一個用完整方塊包裝的小型工業式脈沖開關，專為作為開關連接目標而優化。\
+tile.rsgauges.relay_pulseswitchrx2.help=§6一個用完整方塊包裝的小型工業式脈衝開關，專為作為開關連接目標而最佳化。\
                                            §r\n\
                                            像普通開關一樣，當被右擊或開關連接觸發時會短時間啟用。\
                                            \
                                            內部的繼電器是消音的，因此非常安靜。\
                                            ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} \
                                            ${rsgauges.switch.feature.linksource.help} ${rsgauges.switch.feature.pulsetime.help}
-tile.rsgauges.relay_bistableswitchtx1.help=§6一個小型工業式開關，專為作為有紅石信號輸入的連接中繼器優化。§r\n\
+tile.rsgauges.relay_bistableswitchtx1.help=§6一個小型工業式開關，專為作為有紅石信號輸入的連接中繼器最佳化。§r\n\
                                            該中繼器不能發出紅石信號，但在設備放置的方塊的紅石強度改變時\
                                            設備內部的連接珍珠會啟用。\
                                            空手左鍵雙擊可以改變輸入極性(反相會使得檢測到低信號時啟用)和強度敏感性(預設是弱，調成強會使得需要強信號來啟用連接)。\
@@ -461,7 +461,7 @@ tile.rsgauges.relay_bistableswitchtx1.help=§6一個小型工業式開關，專�
 
 
 
-tile.rsgauges.relay_pulseswitchtx1.help=§6一個小型工業式脈沖開關，專為作為有紅石信號輸入的連接中繼器優化。§r\n\
+tile.rsgauges.relay_pulseswitchtx1.help=§6一個小型工業式脈衝開關，專為作為有紅石信號輸入的連接中繼器最佳化。§r\n\
                                            該中繼器不能發出紅石信號，但在設備放置的方塊的紅石強度改變時\
                                            設備內部的連接珍珠會啟用。\
                                            設備會在輸入信號從0變為任意更高值時短時間啟用。\
@@ -480,12 +480,12 @@ tile.rsgauges.powerplant_red.name=紅色能量植物
 #
 # Power plant help
 #
-tile.rsgauges.powerplant_yellow.help=§6人造的黃色化，看上去非常像蒲公英。\
+tile.rsgauges.powerplant_yellow.help=§6人造的黃色化，看起來非常像蒲公英。\
                                      當被實體觸碰時會向上方方塊和底部方塊發出紅石信號。\
                                      §r\n\
                                      ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
                                      ${rsgauges.switch.feature.linksource.help}
-tile.rsgauges.powerplant_red.help=§6人造的紅色化，看上去非常像罌粟。\
+tile.rsgauges.powerplant_red.help=§6人造的紅色化，看起來非常像罌粟。\
                                      當被實體觸碰時會向上方方塊和底部方塊發出紅石信號。\
                                      §r\n\
                                      ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.contactmat.offdelay.help} \
@@ -494,12 +494,12 @@ tile.rsgauges.powerplant_red.help=§6人造的紅色化，看上去非常像罌�
 #-----------------------------------------------------------------------------------------------------------
 # Knock switch names
 #-----------------------------------------------------------------------------------------------------------
-tile.rsgauges.industrial_knock_button.name=敲擊檢測脈沖開關 (工業式)
+tile.rsgauges.industrial_knock_button.name=敲擊檢測脈衝開關 (工業式)
 tile.rsgauges.industrial_knock_switch.name=敲擊檢測雙穩態開關 (工業式)
 #
 # Knock switch help
 #
-tile.rsgauges.industrial_knock_button.help=§6當其面對的相鄰方塊被點擊時，發出脈沖紅石信號。§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
+tile.rsgauges.industrial_knock_button.help=§6當其面對的相鄰方塊被點擊時，發出脈衝紅石信號。§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.pulseextend.help} ${rsgauges.switch.feature.pulsetime.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
 tile.rsgauges.industrial_knock_switch.help=§6當其面對的相鄰方塊被點擊時，切換開/關狀態。§r ${rsgauges.switch.feature.outputconfig.help} ${rsgauges.switch.feature.linktarget.help} ${rsgauges.switch.feature.linksource.help}
 
 #-----------------------------------------------------------------------------------------------------------
@@ -552,7 +552,7 @@ tile.rsgauges.sensitiveglass_black.help=${rsgauges.sensitiveglass.colored.help}
 # Other blocks
 #-----------------------------------------------------------------------------------------------------------
 tile.rsgauges.qube.name=The qube
-tile.rsgauges.qube.help=這是開發人員模塊，不應該在遊戲中製作或使用。
+tile.rsgauges.qube.help=這是開發人員模組，不應該在遊戲中製作或使用。
 
 #-----------------------------------------------------------------------------------------------------------
 # Items

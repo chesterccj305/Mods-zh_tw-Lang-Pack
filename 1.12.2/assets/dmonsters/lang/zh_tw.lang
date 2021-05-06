@@ -1,4 +1,4 @@
-entity.baby.name=腹中胎兒
+﻿entity.baby.name=腹中胎兒
 entity.climber.name=攀爬者
 entity.entrail.name=黏液飛頭
 entity.freezer.name=霜凍異怪
@@ -10,7 +10,7 @@ entity.topielec.name=異形水鬼
 entity.wideman.name=墮落領袖
 entity.woman.name=血腥少女
 entity.zombieChicken.name=殭屍雞
-item.dmonsters.addInformation.harpoon_1=在水中右擊水有幾率捕到一條魚
+item.dmonsters.addInformation.harpoon_1=在水中右擊水有機率捕到一條魚
 item.dmonsters.addInformation.harpoon_2=對抗水鬼很好的武器
 item.dmonsters.babyEye.name=胎兒之眼
 item.dmonsters.dagon.name=達貢

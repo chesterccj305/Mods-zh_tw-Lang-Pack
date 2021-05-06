@@ -1,4 +1,4 @@
-bettertitlescreen.config.category.general.title=一般
+﻿bettertitlescreen.config.category.general.title=一般
 bettertitlescreen.config.category.general.tooltip=在標題畫面上選擇要顯示的東西（如果有的話）
 bettertitlescreen.config.category.listCustomText.title=自訂文本
 bettertitlescreen.config.category.listCustomText.tooltip=在這裡插入你需要的文本（支援多行）

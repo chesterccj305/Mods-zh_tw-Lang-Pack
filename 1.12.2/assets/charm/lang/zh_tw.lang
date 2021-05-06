@@ -1,4 +1,4 @@
-# Blocks
+﻿# Blocks
 tile.charm:barrel.name=圓桶
 tile.charm:barrel_oak.name=橡木圓桶
 tile.charm:barrel_spruce.name=杉木圓桶
@@ -47,7 +47,7 @@ tile.charm:rune_portal_frame_brown.name=終界傳送門：棕色符文
 tile.charm:rune_portal_frame_green.name=終界傳送門：綠色符文
 tile.charm:rune_portal_frame_red.name=終界傳送門：紅色符文
 tile.charm:rune_portal_frame_black.name=終界傳送門：黑色符文
-tile.charm:variable_redstone_lamp.name=變量紅石燈
+tile.charm:variable_redstone_lamp.name=變數紅石燈
 tile.charm:smooth_glowstone.name=平滑螢光石
 
 # Items
@@ -215,5 +215,5 @@ woodland_mansion=稀有
 # JEI descriptions
 charm.jei.flavoredcake.desc=可口的蛋糕是通過右鍵單擊世界上帶有相應類型的8分鐘藥水的蛋糕製成的。\n\n伺服器也可以使用它們。
 charm.jei.boundcompass.desc=在潛行時右鍵單擊帶有指南針的活動烽火台，將指南針綁定到烽火台的位置。\n\n綁定的指南針可以與砧座中的鐵錠結合使用以斷開連結。
-charm.jei.crates.desc=可以通過添加鐵錠將箱子密封在鐵砧中，從密封的箱子中釋放物品的唯一方法是將其拆開，放置後就無法再撿起，並且其庫存也無法 可以訪問。
+charm.jei.crates.desc=可以透過添加鐵錠將箱子密封在鐵砧中，從密封的箱子中釋放物品的唯一方法是將其拆開，放置後就無法再撿起，並且其庫存也無法 可以訪問。
 charm.jei.moonstone.desc=月光石可以幫助您定位特定的塊坐標或輔助軸對齊。\n\n潛行時右鍵單擊以將月光石綁定到塊上。將自己對準方塊將使月光石變亮，站立在方塊上將使月光石發光。\n\n此操作可跨維度並尊重地獄的空間壓縮/擴展，從而幫助您在兩個方塊之間主世界和地獄精確對齊門戶。

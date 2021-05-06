@@ -1,4 +1,4 @@
-//advancements.atlcraftrecipes.candle01.description=做一個基礎蠟燭。
+﻿//advancements.atlcraftrecipes.candle01.description=做一個基礎蠟燭。
 //advancements.atlcraftrecipes.candle01.title=基礎蠟燭
 //advancements.atlcraftrecipes.root.description=做一支蠟燭！
 //advancements.atlcraftrecipes.root.title=蠟燭工匠
@@ -20,7 +20,7 @@ item.atlcraft_bayberries.name=楊梅
 item.atlcraft_bayberry_juice.name=楊梅汁
 item.atlcraft_bayberry_seeds.name=楊梅種子
 item.atlcraft_castiron_ingot.name=鑄鐵錠
-item.atlcraft_fried_potatoes.name=炸土豆
+item.atlcraft_fried_potatoes.name=炸馬鈴薯
 item.atlcraft_furniturecraftingkit.name=製作工具包
 item.atlcraft_tallow.name=油脂
 item.atlcraft_wax.name=楊梅蠟

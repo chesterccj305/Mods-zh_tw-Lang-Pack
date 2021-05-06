@@ -1,9 +1,9 @@
-potion.effect.dislocation=錯位藥水
+﻿potion.effect.dislocation=錯位藥水
 lingering_potion.effect.dislocation=滯留 型錯位藥水
 splash_potion.effect.dislocation=錯位藥水
 tipped_arrow.effect.dislocation=錯位之箭
 effect.dislocation=錯位
-funny.effect.dislocation=薛定諤的坐標
+funny.effect.dislocation=薛丁格的坐標
 description.effect.dislocation=使生物隨機傳送
  
 potion.effect.dispel=噬魔藥水
@@ -100,14 +100,14 @@ splash_potion.effect.pacifism=飛濺 和平藥水
 tipped_arrow.effect.pacifism=和平之箭
 effect.pacifism=和平
 funny.effect.pacifism=放鬆一下，兄弟!
-description.effect.pacifism=Level I 可抵禦攻擊傷害.Level II 還可抵御其他傷害
+description.effect.pacifism=Level I 可抵禦攻擊傷害.Level II 還可抵禦其他傷害
  
 potion.effect.crumbling=地噬藥水
 lingering_potion.effect.crumbling=滯留 型地噬藥水
 splash_potion.effect.crumbling=飛濺 地噬藥水
 tipped_arrow.effect.crumbling=地噬之箭
 effect.crumbling=地噬
-funny.effect.crumbling=臟爪子
+funny.effect.crumbling=髒爪子
 description.effect.crumbling=破壞你腳下的一些方塊
  
 potion.effect.return=歸還藥水
@@ -132,7 +132,7 @@ splash_potion.effect.photosynthesis=飛濺 光合藥水
 tipped_arrow.effect.photosynthesis=光合之箭
 effect.photosynthesis=光合
 funny.effect.photosynthesis=來當一株植物
-description.effect.photosynthesis=只要在陽光下就可以回复飢餓值
+description.effect.photosynthesis=只要在陽光下就可以回復飢餓值
  
 potion.effect.hurry=急促藥水
 lingering_potion.effect.hurry=滯留 型急促藥水
@@ -140,7 +140,7 @@ splash_potion.effect.hurry=飛濺 急促藥水
 tipped_arrow.effect.hurry=急促之箭
 effect.hurry=急促
 funny.effect.hurry=是在這裡吧？
-description.effect.hurry=使玩家周圍附帶信息的方塊（tile entities）遊戲時（tick）加速且給玩家帶來飢餓效果
+description.effect.hurry=使玩家周圍附帶資訊的方塊（tile entities）遊戲時（tick）加速且給玩家帶來飢餓效果
  
 potion.effect.charged=不穩定藥水
 lingering_potion.effect.charged=滯留 型不穩定的藥水
@@ -167,8 +167,8 @@ description.effect.cheatDeath_quiescent=在效果消失之前將無視死亡，�
 effect.cheatDeath_active=死亡時刻
  
 potion.effect.reincarnation=復甦藥水
-lingering_potion.effect.reincarnation=滯留 型複蘇藥水
-splash_potion.effect.reincarnation=飛濺 複蘇藥水
+lingering_potion.effect.reincarnation=滯留 型複甦藥水
+splash_potion.effect.reincarnation=飛濺 複甦藥水
 tipped_arrow.effect.reincarnation=復甦之箭
 effect.reincarnation=復甦
 funny.effect.reincarnation=在我下次復活時有什麼在等著我？
@@ -222,9 +222,9 @@ effect.pull=引力
 funny.effect.pull=這是引力
 description.effect.pull=將實體拉近自己
  
-recipe.sticky.description=在工作台中間方格放置黏液球，周圍放置2支或者更多藥水，可以使它們的持續時間相加
-recipe.split.vial.description=如果你將細藥水瓶/飛濺 藥水瓶放置在工作台中間方格，周圍放置細玻璃瓶,那麼你將可以得到被稀釋的細藥水瓶,但稀釋後的藥水效果持續時間最短必須超過5秒
-recipe.split.drink.description=如果你將藥水瓶放置在工作台中間方格，周圍放置玻璃瓶,那麼你將可以得到被稀釋的藥水瓶,但稀釋後的藥水效果持續時間最短必須超過5秒
+recipe.sticky.description=在工作檯中間方格放置黏液球，周圍放置2支或者更多藥水，可以使它們的持續時間相加
+recipe.split.vial.description=如果你將細藥水瓶/飛濺 藥水瓶放置在工作檯中間方格，周圍放置細玻璃瓶,那麼你將可以得到被稀釋的細藥水瓶,但稀釋後的藥水效果持續時間最短必須超過5秒
+recipe.split.drink.description=如果你將藥水瓶放置在工作檯中間方格，周圍放置玻璃瓶,那麼你將可以得到被稀釋的藥水瓶,但稀釋後的藥水效果持續時間最短必須超過5秒
  
 item.byproduct=把我稀釋成 (% 秒)
 tile.encased_ice.name=霜凍之冰
@@ -244,10 +244,10 @@ itemGroup.extraalchemy=拓展煉藥
 tooltip.credit=增加 %1$s 效果
 tooltip.credit.uncertain=可能會增加 %1$s 效果
 tooltip.loaded.credit=拓展煉藥增加的物品
-tooltip.togglef3.F3H=[按 F3+H 獲得更多信息]
-tooltip.togglef3.SHIFT=[按 SHIFT 獲得更多信息]
-tooltip.togglef3.ALT=[按 ALT 獲得更多信息]
-tooltip.togglef3.CTRL=[按 CTRL 獲得更多信息]
+tooltip.togglef3.F3H=[按 F3+H 獲得更多資訊]
+tooltip.togglef3.SHIFT=[按 SHIFT 獲得更多資訊]
+tooltip.togglef3.ALT=[按 ALT 獲得更多資訊]
+tooltip.togglef3.CTRL=[按 CTRL 獲得更多資訊]
 death.attack.death_revenge.player=死亡對 %1$s 造成了影響
 extraalchemy.config.options=常規選項
 extraalchemy.config.potions=啟用或禁用藥水

@@ -1,4 +1,4 @@
-# CREATIVE TAB
+﻿# CREATIVE TAB
 itemGroup.ironjetpacks=鐵質飛行背包
 
 # KEYBINDS
@@ -19,7 +19,7 @@ item.ij.capacitor.name=電容
 item.ij.jetpack.name=噴射背包
 
 # TOOLTIPS
-tooltip.ij.hold_shift=§7按下 §e§oSHIFT §r§7鍵查看更多信息。
+tooltip.ij.hold_shift=§7按下 §e§oSHIFT §r§7鍵查看更多資訊。
 
 tooltip.ij.on=開
 tooltip.ij.off=關
@@ -37,11 +37,8 @@ tooltip.ij.vert_accel=垂直加速度： %s
 tooltip.ij.hori_speed=水平速度: %s
 tooltip.ij.hover_speed=懸停速度： %s
 tooltip.ij.desc_speed=下降速度: %s
-tooltip.ij.sprint_mod=沖刺修改器： %s
-tooltip.ij.sprint_fuel=沖刺燃料改性劑: %s
+tooltip.ij.sprint_mod=衝刺修改器： %s
+tooltip.ij.sprint_fuel=衝刺燃料改性劑: %s
 
 tooltip.ij.toggle_engine=切換引擎 
-tooltip.ij.toggle_hover=切換懸停 
-
-
-
+tooltip.ij.toggle_hover=切換懸停

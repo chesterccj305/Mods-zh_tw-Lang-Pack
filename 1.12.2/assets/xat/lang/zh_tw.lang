@@ -1,6 +1,6 @@
-itemGroup.trinketstab=飾品
+﻿itemGroup.trinketstab=飾品
 
-key.xat.category=飾品和小玩意
+key.xat.category=飾品和小東西
 key.xat.trinket_target.desc=循環目標寶藏
 key.xat.trinket_toggle_effect.desc=切換夜視
 key.xat.aux_key.desc=輔助鍵

@@ -1,4 +1,4 @@
-item.useless_item.name=Useless Item
+﻿item.useless_item.name=Useless Item
 
 item.disk_256k.name=256k ME 儲存元件
 item.disk_1M.name=1M ME 儲存元件
@@ -31,10 +31,10 @@ item.motherboard_pcb.name=主板電路板
 item.motherboard.name=§5主板
 item.intel_486.name=§1Intel i486
 item.gold_leads.name=金導線
-item.transistor_array.name=晶體管陣列
+item.transistor_array.name=電晶體陣列
 item.cpu_wafer.name=處理器晶元
-item.pcb_ram.name=內存電路板
-item.ram_256k.name=256K 內存
+item.pcb_ram.name=記憶體電路板
+item.ram_256k.name=256K 記憶體
 
 //press
 item.press.platinum.name=鉑壓印模板
@@ -54,9 +54,9 @@ item.borax_crystal.name=硼砂晶體
 item.lcd.name=LCD
 item.cpu_cover.name=CPU 外殼
 item.carbon_film.name=碳膜
-item.nether_star_shard.name=下界之星碎片
-item.nether_star_plate.name=下界之星板
-item.nether_star_ingot.name=下界之星錠
+item.nether_star_shard.name=地獄之星碎片
+item.nether_star_plate.name=地獄之星板
+item.nether_star_ingot.name=地獄之星錠
 item.can_of_pepsi.name=Can Of Pepsi
 item.can_of_mtn_dew.name=Can Of Mtn Dew
 item.silicon_cylinder.name=矽柱體
@@ -75,7 +75,7 @@ item.diamond_plate_h.name=鑽石板 H
 item.jerry_can.name=簡便油桶
 
 tile.growth_accelerator_af.name=生長加速器 AF
-tile.netherstar_block.name=下界之星方塊
+tile.netherstar_block.name=地獄之星方塊
 tile.digital_glass.name=數據化玻璃
 tile.machine_blouch.name=§e高級機器方塊
 tile.lamp_of_brightness_white.name=白色照明燈

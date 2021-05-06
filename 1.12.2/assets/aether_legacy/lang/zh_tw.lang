@@ -1,4 +1,4 @@
-# Item Names
+﻿# Item Names
 item.lore_book.name=知識之書
 item.blue_moa_egg.name=藍色恐鳥蛋
 item.orange_moa_egg.name=橙色恐鳥蛋
@@ -328,7 +328,7 @@ gui.item.developer_stick.notdev=你的技巧不足以駕馭這個物品！
 gui.slider.notpickaxe=嗯...也許我該用鎬來攻擊它？
 gui.slider.apple=這條消息只是在這裡，因為KingPhygieBoo向Kino要求了一個隨機項目，而他說蘋果。
 
-gui.valkyrie.dialog.1=那啥？你想打架？哇！多麼可愛的小人類。
+gui.valkyrie.dialog.1=那什麼？你想打架？哇！多麼可愛的小人類。
 gui.valkyrie.dialog.2=難道你想挑戰一位強大的女武神？
 gui.valkyrie.dialog.3=我不認為你該來打擾我，你可能真的腦袋秀逗了。
 
@@ -410,7 +410,7 @@ death.attack.icey_ball=%1$s 被 %2$s 的寒冰球冷凍了
 death.attack.lightning_ball=%1$s 被 %2$s 的閃電球摧毀了
 
 # Config
-aether_legacy.config.title=天境配置
+aether_legacy.config.title=天境設定
 aether_legacy.general.dimension=世界設置
 aether_legacy.general.gameplay_changes=遊戲性變化
 aether_legacy.general.gameplay_changes.tooltip=這些選項會影響遊戲玩法，以及某些內容的運作。

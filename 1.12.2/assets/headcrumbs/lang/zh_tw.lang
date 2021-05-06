@@ -1,4 +1,4 @@
-#########
+﻿#########
 # Items #
 #########
 
@@ -25,7 +25,7 @@ item.headcrumbs.ghast.name=地獄幽靈頭顱
 item.headcrumbs.enderDragon.name=終界龍頭顱
 item.headcrumbs.ocelot.name=豹貓頭顱
 item.headcrumbs.ocelotBlack.name=黑貓頭顱
-item.headcrumbs.ocelotRed.name=姜黃貓頭顱
+item.headcrumbs.ocelotRed.name=薑黃貓頭顱
 item.headcrumbs.ocelotSiamese.name=暹羅貓頭顱
 item.headcrumbs.bat.name=蝙蝠頭顱
 item.headcrumbs.slime.name=史萊姆頭顱
@@ -120,7 +120,7 @@ item.headcrumbs.behemoth.name=巨獸頭顱
 item.headcrumbs.belph.name=紅炎戰士頭顱
 
 # Ender Zoo
-item.headcrumbs.concussionCreeper.name=震蕩苦力怕頭顱
+item.headcrumbs.concussionCreeper.name=震盪苦力怕頭顱
 item.headcrumbs.enderminy.name=迷你終界使者頭顱
 item.headcrumbs.fallenKnight.name=墮落騎士頭顱
 item.headcrumbs.witherWitch.name=凋零女巫頭顱
@@ -215,7 +215,7 @@ item.headcrumbs.yeti.name=雪人頭顱
 item.headcrumbs.yukiOnna.name=雪女頭顱
 
 # Laser Creeper Robot Dino Riders From Space
-item.headcrumbs.laserCreeper.name=激光苦力怕的頭
+item.headcrumbs.laserCreeper.name=雷射苦力怕的頭
 item.headcrumbs.roboDino.name=T-R3X 1000 的頭
 item.headcrumbs.jetPackSpider.name=ARTHR0-BORG JETLINER 2000 的頭
 

@@ -1,4 +1,4 @@
-item.wolfarmor.leatherWolfArmor.name=皮革製狼鎧
+﻿item.wolfarmor.leatherWolfArmor.name=皮革製狼鎧
 item.wolfarmor.chainWolfArmor.name=鎖鍊製狼鎧
 item.wolfarmor.ironWolfArmor.name=鐵製狼鎧
 item.wolfarmor.goldWolfArmor.name=黃金製狼鎧
@@ -27,9 +27,9 @@ advancements.husbandry.wolf_pack.description=為你的狼裝備一個箱子
 inventory.wolfarmor.wolf=%1$s
 
 gui.wolfarmor.config=寵物狼裝甲
-gui.wolfarmor.config.subtitle=配置設定
+gui.wolfarmor.config.subtitle=設定設定
 gui.wolfarmor.config.category.general=常規設定
-gui.wolfarmor.config.category.client=客戶端設定
+gui.wolfarmor.config.category.client=用戶端設定
 gui.wolfarmor.config.category.client.render=渲染設定
 gui.wolfarmor.config.category.client.gui=UI設定
 gui.wolfarmor.config.category.behavior=自訂行為
@@ -38,7 +38,7 @@ entity.wolfarmor.wolf_armored.name=狼
 
 #en_us沒有
 gui.wolfarmor.inventory.remove_chest=移除狼包包
-config.wolfarmor.general.chestSize.horizontal=狼包包的水平尺寸
-config.wolfarmor.general.chestSize.horizontal.comment=設定狼包包的水平大小
+config.wolfarmor.general.chestSize.horizontal=狼包包的水準尺寸
+config.wolfarmor.general.chestSize.horizontal.comment=設定狼包包的水準大小
 config.wolfarmor.general.chestSize.vertical=狼包包的垂直尺寸
 config.wolfarmor.general.chestSize.vertical.comment=設定狼包包的垂直大小

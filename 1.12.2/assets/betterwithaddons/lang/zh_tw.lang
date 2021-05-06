@@ -1,4 +1,4 @@
-#it​​emGroup.bwa.name=更好的附加功能
+﻿#it​​emGroup.bwa.name=更好的附加功能
 
 tile.bwm:siding_clay.name=半板
 tile.bwm:siding_ground.name=半板
@@ -34,7 +34,7 @@ tile.world_scale.name=世界守護磚
 tile.world_scale_active.name=精雕的世界守護磚
 tile.elytra_magma.name=潛隱岩漿塊
 tile.extra_grass.name=草塊[WIP]
-tile.lattice.name=鐵柵加固塊
+tile.lattice.name=鐵柵強化塊
 tile.thorns.name=荊棘之藤
 tile.thorn_rose.name=荊棘之藤種子
 tile.chute.name=滑槽漏斗
@@ -244,8 +244,8 @@ item.congealed.mushroom.name=凝結的蘑菇
 item.congealed.wart.name=凝結的地獄疙瘩
 item.bolt.fabric.name=一卷大麻布
 item.bolt.vine.name=一卷蔓藤
-item.bolt.paper.name=一捲紙
-item.bolt.leather.name=一捲皮革
+item.bolt.paper.name=一卷紙
+item.bolt.leather.name=一卷皮革
 item.bolt.scoured_leather.name=一卷光滑皮革
 item.bolt.tanned_leather.name=一卷鞣製皮革
 item.bolt.string.name=一卷線
@@ -414,7 +414,7 @@ tea.type.bancha=番茶
 tea.type.tencha=藤茶
 tea.type.matcha=抹茶
 tea.type.houjicha=福吉茶
-tea.type.nether=下界茶
+tea.type.nether=地獄茶
 tea.type.end=終界茶
 
 item.tea_leaves.name=%s葉
@@ -443,7 +443,7 @@ info.rope.too_far=距離太遠了。
 info.horse.will_wait=你的馬會在此等候你。
 info.horse.your_horse_will_wait=%s會在此等候你。
 
-tooltip.zen_sand=通過用鋤頭右擊對應方塊而成。
+tooltip.zen_sand=透過用鋤頭右擊對應方塊而成。
 tooltip.tatami_full=將榻榻米墊放置在竹欄塊上使用鋤頭右擊即可嵌入。
 
 tooltip.adobe.crafting=混合物

@@ -1,4 +1,4 @@
-olenchantment.RinsPurity=
+﻿olenchantment.RinsPurity=
 
 enchantment.Rune_PiercingCapabilities=符文：穿刺能力
 enchantment.somanyenchantments.rune_piercingcapabilities.desc=符文之一。 每個等級使你的攻擊穿透敵人的盔甲25％。
@@ -82,7 +82,7 @@ enchantment.FieryEdge=燃燒之刃
 enchantment.somanyenchantments.fieryedge.desc=燃燒敵人的時間更長。
 
 enchantment.Culling=跳砍
-enchantment.somanyenchantments.culling.desc=使用斧頭進行攻擊時，如果被攻擊的生物的生命值較低，則可以使你獲得跳躍助力，並允許你在降落時通過跳躍和攻擊來解決該生物。如果成功，該生物就有機會掉落其相應的頭部。如果失敗，會給你額外的傷害，如爆擊。過度使用上述額外的損壞方法會很快耗盡你的飢餓感。（主要適用於斧頭。）
+enchantment.somanyenchantments.culling.desc=使用斧頭進行攻擊時，如果被攻擊的生物的生命值較低，則可以使你獲得跳躍助力，並允許你在降落時透過跳躍和攻擊來解決該生物。如果成功，該生物就有機會掉落其相應的頭部。如果失敗，會給你額外的傷害，如爆擊。過度使用上述額外的損壞方法會很快耗盡你的飢餓感。（主要適用於斧頭。）
 
 enchantment.AdvancedKnockback=超級擊退
 enchantment.somanyenchantments.advancedknockback.desc=高級版的擊退。
@@ -109,7 +109,7 @@ enchantment.somanyenchantments.sunshine.desc=白天和黑夜兩者之一的附�
 enchantment.Thunderstorm=雷暴的恩賜
 enchantment.somanyenchantments.thunderstorm.desc=天氣附魔之一。如果天氣是雷暴，攻擊會對所有人造成額外傷害。如果不滿足天氣條件，則攻擊會造成較弱的傷害，除非下雨，則攻擊將造成正常傷害（不會造成額外傷害）。（主要適用於劍。）
 enchantment.Winter=冬天的恩典
-enchantment.somanyenchantments.winter.desc=天氣附魔之一，雖然它的功能也會作用在低溫下的生物群落。對所有人造成額外傷害，並在命中時產生幾種負面藥水效果。
+enchantment.somanyenchantments.winter.desc=天氣附魔之一，雖然它的功能也會作用在低溫下的生態域。對所有人造成額外傷害，並在命中時產生幾種負面藥水效果。
 
 enchantment.Smelter=冶煉
 enchantment.somanyenchantments.smelter.desc=自動熔煉礦物，可與幸運同時作用。
@@ -359,7 +359,7 @@ enchantment.Rune_ArrowPiercing=符文：箭刺
 enchantment.somanyenchantments.rune_arrowpiercing.desc=箭矢現在會穿破盔甲。
 
 enchantment.CurseAmplifier=詛咒擴大
-enchantment.somanyenchantments.curseamplifier.desc=擴大用戶當前擁有的詛咒。
+enchantment.somanyenchantments.curseamplifier.desc=擴大用戶目前擁有的詛咒。
 
 enchantment.AncientCurseInflicter=遠古封印詛咒
 enchantment.somanyenchantments.ancientcurseinflicter.desc=一種古老的附魔，能使攻擊詛咒一個實體和持有的磨損裝備。
@@ -380,7 +380,7 @@ enchantment.UnderwaterStrider=水下漫遊者
 enchantment.somanyenchantments.underwaterstrider.desc=如果有玩家完全淹沒在地下，游泳速度會更快。
 
 enchantment.Quarrying=採石
-enchantment.somanyenchantments.quarrying.desc=幸運的一種變異，在新增非方塊資源所减少的數量方面有不同的機制。
+enchantment.somanyenchantments.quarrying.desc=幸運的一種變異，在新增非方塊資源所減少的數量方面有不同的機制。
 
 enchantment.Frenzy=不合理
 enchantment.somanyenchantments.frenzy.desc=破壞實體的推理，使其對附近的隨機實體發狂。
@@ -398,13 +398,13 @@ enchantment.Pushing=推動
 enchantment.somanyenchantments.pushing.desc=用於弓箭，在蓄能時能夠推開附近的實體。
 
 enchantment.Unsheathing=劍拔
-enchantment.somanyenchantments.unsheathing.desc=受到傷害（必須有攻擊者）時，劍將自動切換到使用者當前的手上。如果劍不在主快捷欄中則不起作用。
+enchantment.somanyenchantments.unsheathing.desc=受到傷害（必須有攻擊者）時，劍將自動切換到使用者目前的手上。如果劍不在主快捷欄中則不起作用。
 
 enchantment.SwordMastery=精通古劍
 enchantment.somanyenchantments.swordmastery.desc=古老的附魔，在某種程度上使用戶精通其劍。在3級時，它也會使傷害附魔的效果提高1.5倍。可能不適用於其他mod的附魔。
 
 enchantment.TrueStrike=真實打擊
-enchantment.somanyenchantments.truestrike.desc=使用者有75％識破閃避附魔，並防止用戶獲得不准確的附魔詛咒。
+enchantment.somanyenchantments.truestrike.desc=使用者有75％識破閃避附魔，並防止用戶獲得不準確的附魔詛咒。
 
 enchantment.Pandora=潘多拉的詛咒
 
@@ -10777,8 +10777,3 @@ enchantment.level.32767=Max
 enchantment.level.32766=Near to Max
 enchantment.level.-32768=Negative Max
 enchantment.level.-32767=Near to Negative Max
-
-
-
-
-

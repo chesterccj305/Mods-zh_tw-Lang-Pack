@@ -1,4 +1,4 @@
-itemGroup.divergentunderground=散落的石頭
+﻿itemGroup.divergentunderground=散落的石頭
 item.divergentunderground.rock_stone.name=碎石頭
 item.divergentunderground.rock_andesite.name=碎安山岩
 item.divergentunderground.rock_diorite.name=碎閃長岩
@@ -122,4 +122,3 @@ item.divergentunderground.ore_tconstruct_ardite.name=阿迪特礦
 
 tile.divergentunderground.fossil.name=化石
 divergentunderground.subtitle.boulder_falling=岩石搖搖欲墜
-

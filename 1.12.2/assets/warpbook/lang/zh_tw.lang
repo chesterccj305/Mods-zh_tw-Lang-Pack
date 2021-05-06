@@ -1,8 +1,8 @@
-bookcloner.name=傳送之書複製器
-help.cantgoto=有什麽東西阻止你去那裡
-help.cantleave=有什麽東西阻止你離開這裡
+﻿bookcloner.name=傳送之書複製器
+help.cantgoto=有什麼東西阻止你去那裡
+help.cantleave=有什麼東西阻止你離開這裡
 help.legacy=右擊進行升級
-help.nopages=這本書裏沒有書頁. Shift+右擊將已經綁定的書頁添加進去
+help.nopages=這本書裡沒有書頁. Shift+右擊將已經綁定的書頁添加進去
 help.noplayerspecified=必須指定特定的玩家名稱
 help.notawaypoint='%s' 不是有效的路徑點
 help.nowaypointsfound=未找到路徑點

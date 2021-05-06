@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 
 # Block localizations
 tile.tropicraft.chunk.name=凝灰岩
@@ -25,7 +25,7 @@ tile.tropicraft.flower.croton.name=巴豆
 tile.tropicraft.flower.dracaena.name=龍血樹
 tile.tropicraft.flower.fern.name=蕨
 tile.tropicraft.flower.foliage.name=葉
-tile.tropicraft.flower.bromeliad.name=菠蘿植株
+tile.tropicraft.flower.bromeliad.name=鳳梨植株
 tile.tropicraft.log.mahogany.name=紅木原木
 tile.tropicraft.log.palm.name=棕櫚原木
 tile.tropicraft.coral.pink.name=粉珊瑚
@@ -49,13 +49,13 @@ tile.tropicraft.leaves.kapok.name=木棉葉
 tile.tropicraft.leaves.fruit.name=果樹葉
 tile.tropicraft.bamboo_chest.name=竹箱
 tile.tropicraft.bamboo_chest_large.name=大竹箱
-tile.tropicraft.fruitleaves.grapefruit.name=西柚樹葉
+tile.tropicraft.fruitleaves.grapefruit.name=葡萄柚樹葉
 tile.tropicraft.fruitleaves.lemon.name=檸檬樹葉
 tile.tropicraft.fruitleaves.lime.name=酸橙樹葉
 tile.tropicraft.fruitleaves.orange.name=橙樹葉
 tile.tropicraft.sapling.palm.name=棕櫚樹苗
 tile.tropicraft.sapling.mahogany.name=紅木樹苗
-tile.tropicraft.sapling.grapefruit.name=西柚樹苗
+tile.tropicraft.sapling.grapefruit.name=葡萄柚樹苗
 tile.tropicraft.sapling.lemon.name=檸檬樹苗
 tile.tropicraft.sapling.lime.name=酸橙樹苗
 tile.tropicraft.sapling.orange.name=橙樹苗
@@ -66,7 +66,7 @@ tile.tropicraft.sand.volcanic.name=火山砂
 tile.tropicraft.sand.mineral.name=礦砂
 tile.tropicraft.sand.coral.name=珊瑚砂
 tile.tropicraft.iris.name=鳶尾
-tile.tropicraft.pineapple.name=菠蘿
+tile.tropicraft.pineapple.name=鳳梨
 tile.tropicraft.tiki_torch.name=提基火炬
 tile.tropicraft.drink_mixer.name=飲料攪拌機
 tile.tropicraft.sifter.name=篩子
@@ -102,7 +102,7 @@ tile.tropicraft.donation.tooltip=收到捐贈時會煙火！
 item.tropicraft.eudialyte.name=異性石碎片
 item.tropicraft.zircon.name=鋯石晶體
 item.tropicraft.azurite.name=石青晶體
-item.tropicraft.grapefruit.name=西柚
+item.tropicraft.grapefruit.name=葡萄柚
 item.tropicraft.lemon.name=檸檬
 item.tropicraft.lime.name=酸橙
 item.tropicraft.orange.name=橙
@@ -192,7 +192,7 @@ item.tropicraft.shell.turtle.name=龜殼
 item.tropicraft.shell.owned.normal.name=%s貝殼
 item.tropicraft.shell.owned.with_s.name=%s貝殼
 item.tropicraft.cocktail.name=熱帶雞尾酒
-item.tropicraft.pineapple_cubes.name=菠蘿布丁
+item.tropicraft.pineapple_cubes.name=鳳梨布丁
 item.tropicraft.white_pearl.name=白珍珠
 item.tropicraft.black_pearl.name=黑珍珠
 item.tropicraft.fertilizer.name=肥料
@@ -335,7 +335,7 @@ item.tropicraft.mask_ashen_mask5.name=灰白麵具
 itemGroup.tropicraft=熱帶世界
 
 # Config localizations
-tropicraft.config.title=熱帶世界配置
+tropicraft.config.title=熱帶世界設定
 tropicraft.config.generation.title=生成設置
 tropicraft.config.misc.title=局部設置
 tropicraft.config.entity.title=實體設置
@@ -353,7 +353,7 @@ entity.tropicraft.yellowfrog.name=黃色毒樹蛙
 entity.tropicraft.tropicreeper.name=熱帶苦力怕
 entity.tropicraft.monkey.name=草原猴
 entity.tropicraft.failgull.name=Failgull
-entity.tropicraft.PoisonBlot.name=毒液污漬
+entity.tropicraft.PoisonBlot.name=毒液汙漬
 entity.tropicraft.marlin.name=馬林魚
 entity.tropicraft.ashen.name=假面投手
 entity.tropicraft.piranha.name=水虎魚
@@ -410,7 +410,7 @@ fluid.tropicraft.water=熱帶水
 fluid.tropicraft.portal=熱帶世界傳送門
 
 # Misc localizations
-tropicraft.coconutBombWarning=你沒有使用椰子炸彈的權限，請檢查配置文件中的椰子炸彈白名單確保其開啟！
+tropicraft.coconutBombWarning=你沒有使用椰子炸彈的權限，請檢查設定文件中的椰子炸彈白名單確保其開啟！
 portalenchanter.type_0=模式：構建傳送
 portalenchanter.type_1=模式：立即傳送
 
@@ -475,7 +475,7 @@ tropicraft.encyclopedia.section.misc.title=其他
 tropicraft.encyclopedia.section.lovetropics.title=愛情熱帶
 
 tropicraft.encyclopedia.ltinfo.title=什麼是愛情熱帶？
-tropicraft.encyclopedia.ltinfo.desc=愛情熱帶是Tropicraft團隊每年組織的一次慈善活動，旨在支持受自然災害影響的熱帶地區。 去年（2018年），我們為Rubicon團隊籌集了超過35,000美元！\ n \ n每年，我們在本書中捐獻的每一個人的名字都會因其慷慨而永垂不朽。 明年加入我們，與您最喜歡的Mojangstas， streamers，YouTuber和Mod開發人員一起度過美好的時光！\ n \ n請訪問lovetropics.com了解更多信息。
+tropicraft.encyclopedia.ltinfo.desc=愛情熱帶是Tropicraft團隊每年組織的一次慈善活動，旨在支持受自然災害影響的熱帶地區。 去年（2018年），我們為Rubicon團隊籌集了超過35,000美元！\ n \ n每年，我們在本書中捐獻的每一個人的名字都會因其慷慨而永垂不朽。 明年加入我們，與您最喜歡的Mojangstas， streamers，YouTuber和Mod開發人員一起度過美好的時光！\ n \ n請訪問lovetropics.com了解更多資訊。
 tropicraft.encyclopedia.lt17.title=愛情熱帶2017
 tropicraft.encyclopedia.lt18.title=愛情熱帶2018
 
@@ -490,7 +490,7 @@ tropicraft.encyclopedia.anemone.title=銀蓮花
 tropicraft.encyclopedia.anemone.desc=這種漂白的白花添加了一個美麗的天真無邪，平靜的色彩領域。
 
 tropicraft.encyclopedia.orange_anthurium.title=橙色火鶴花
-tropicraft.encyclopedia.orange_anthurium.desc=這種深橙色的花有一種红色的對應物。
+tropicraft.encyclopedia.orange_anthurium.desc=這種深橙色的花有一種紅色的對應物。
 
 tropicraft.encyclopedia.red_anthurium.title=紅色火鶴花
 tropicraft.encyclopedia.red_anthurium.desc=這種深紅色的花有一種橙色的對應物。
@@ -505,7 +505,7 @@ tropicraft.encyclopedia.bamboo.title=竹子
 tropicraft.encyclopedia.bamboo.desc=到目前為止，竹子是熱帶地區用途最多物品。你可以從這一可再生資源中合成武器、方塊和杯子。
 
 tropicraft.encyclopedia.bamboomug.title=竹杯
-tropicraft.encyclopedia.bamboomug.desc=竹杯是用來保存熱帶飲料的好東西。你為什麼不找一個菠蘿和椰子，做一杯清爽的椰林飄香呢？
+tropicraft.encyclopedia.bamboomug.desc=竹杯是用來保存熱帶飲料的好東西。你為什麼不找一個鳳梨和椰子，做一杯清爽的椰林飄香呢？
 
 tropicraft.encyclopedia.bambooblock.title=竹塊
 tropicraft.encyclopedia.bambooblock.desc=這種易於製作的方塊是由可再生的竹子製成的。小心，它不是很堅韌。
@@ -565,7 +565,7 @@ tropicraft.encyclopedia.chunkfencegate.title=凝灰岩柵欄門
 tropicraft.encyclopedia.chunkfencegate.desc=復活節島石像，偶爾可以看到是由這種岩石組成的。這個柵欄門與所有類型的柵欄配合得很好。
 
 tropicraft.encyclopedia.coconut.title=椰子
-tropicraft.encyclopedia.coconut.desc=椰子生長在熱帶地區的棕櫚樹上。通過用劍擊打他們，你可以得到椰子塊，這是一個很好的零食。它們的硬殼很容易碎裂，這使得它們很適合做爆炸物。
+tropicraft.encyclopedia.coconut.desc=椰子生長在熱帶地區的棕櫚樹上。透過用劍擊打他們，你可以得到椰子塊，這是一個很好的零食。它們的硬殼很容易碎裂，這使得它們很適合做爆炸物。
 
 tropicraft.encyclopedia.coconutchunks.title=椰子塊
 tropicraft.encyclopedia.coconutchunks.desc=你可以用劍砸椰子來吃這個美味的東西。加上鳳梨和竹杯，你可以做一杯清爽的椰林飄香。
@@ -583,7 +583,7 @@ tropicraft.encyclopedia.coral.title=珊瑚
 tropicraft.encyclopedia.coral.desc=雖然這些生物發光的生命在海洋中的家，他們是非常適合照亮一個水族館。
 
 tropicraft.encyclopedia.coralsand.title=珊瑚砂
-coralsand.dec =有傳聞說，幾百年前，龍捲風將這些珊瑚沙沖上岸。
+coralsand.dec =有傳聞說，幾百年前，龍捲風將這些珊瑚沙衝上岸。
 
 tropicraft.encyclopedia.crocosmia.title=香鳶尾
 tropicraft.encyclopedia.crocosmia.desc=這些熾熱的小花就像在地上休息的小太陽。
@@ -601,7 +601,7 @@ tropicraft.encyclopedia.dagger.title=匕首
 tropicraft.encyclopedia.dagger.desc=狩獵時或被攻擊時被原史部落圍攻。
 
 #tropicraft.encyclopedia.dart.title=飛鏢
-#tropicraft.encyclopedia.dart.desc=這種神經毒素纏結的飛鏢能夠阻止大多數怪物的踪跡。 但是要小心，效果只是暫時的。 飛鏢可能具有與之相關的各種藥水效果。
+#tropicraft.encyclopedia.dart.desc=這種神經毒素纏結的飛鏢能夠阻止大多數怪物的蹤跡。 但是要小心，效果只是暫時的。 飛鏢可能具有與之相關的各種藥水效果。
 
 tropicraft.encyclopedia.dracaena.title=龍血樹
 tropicraft.encyclopedia.dracaena.desc=這種有趣的桃色和綠色的植物只能在熱帶雨林中找到。
@@ -610,7 +610,7 @@ tropicraft.encyclopedia.easternisles.title=東部群島
 tropicraft.encyclopedia.easternisles.desc=這令人敬畏的鼓和低音軌是由 Frox 製作的，好好欣賞吧。
 
 tropicraft.encyclopedia.encyclopedia.title=關於百科全書
-tropicraft.encyclopedia.encyclopedia.desc=熱帶百科全書是關於熱帶許多物品的信息的來源。這本書是用神奇的墨水印刷出來的，當你得到它的時候，它就會自動書寫。新的條目將是藍色的，並且您可以使用書本兩側的選項卡來導航頁面。可製作的物品將有一個鐵砧標籤。
+tropicraft.encyclopedia.encyclopedia.desc=熱帶百科全書是關於熱帶許多物品的資訊的來源。這本書是用神奇的墨浮水印刷出來的，當你得到它的時候，它就會自動書寫。新的條目將是藍色的，並且您可以使用書本兩側的選項卡來導航頁面。可製作的物品將有一個鐵砧標籤。
 
 tropicraft.encyclopedia.eudialyte.title=異性石
 tropicraft.encyclopedia.eudialyte.desc=這種粉紅色的五顏六色的水晶可以找到當你挖掘Eudialyte礦石，這是發現地下的熱帶雨林領域。這是一種很好的工具材料。
@@ -652,16 +652,16 @@ tropicraft.encyclopedia.froglegscooked.title=青蛙腿，熟的
 tropicraft.encyclopedia.froglegscooked.desc=這種稀有的美味是煮青蛙腿的結果。
 
 tropicraft.encyclopedia.frogskin.title=毒蛙皮
-tropicraft.encyclopedia.frogskin.desc=有毒的樹蛙在皮膚分泌一種麻痺的毒素。通過將此與飛鏢結合，你可以暫時麻痺一個敵人。
+tropicraft.encyclopedia.frogskin.desc=有毒的樹蛙在皮膚分泌一種麻痺的毒素。透過將此與飛鏢結合，你可以暫時麻痺一個敵人。
 
 tropicraft.encyclopedia..title=約克海螺
 tropicraft.encyclopedia.froxconch.desc=以熱帶世界的主題曲“信風”命名的索洛諾克斯貝殼有機會在裡面找到一顆黑色或白色的珍珠，所以要小心！
 
-tropicraft.encyclopedia.grapefruit.title=西柚
-tropicraft.encyclopedia.grapefruit.desc=美味的西柚從西柚樹葉掉落。
+tropicraft.encyclopedia.grapefruit.title=葡萄柚
+tropicraft.encyclopedia.grapefruit.desc=美味的葡萄柚從葡萄柚樹葉掉落。
 
-tropicraft.encyclopedia.grapefruitsapling.title=西柚樹苗
-tropicraft.encyclopedia.grapefruitsapling.desc=生長在西柚樹上，你可以從那裡得到美味的西柚！
+tropicraft.encyclopedia.grapefruitsapling.title=葡萄柚樹苗
+tropicraft.encyclopedia.grapefruitsapling.desc=生長在葡萄柚樹上，你可以從那裡得到美味的葡萄柚！
 
 tropicraft.encyclopedia.foamysand.title=綠砂
 tropicraft.encyclopedia.foamysand.desc=傳說這種稀有的沙子是在熱帶首次從海洋深處出現的很久以前形成的，最常見的是在海草片下面發現的。
@@ -676,7 +676,7 @@ tropicraft.encyclopedia.iris.title=鳶尾
 tropicraft.encyclopedia.iris.desc=這些高高的紫色花朵真是壯觀，他們可以很容易地重新種植。
 
 tropicraft.encyclopedia.kapok.title=木棉葉
-tropicraft.encyclopedia.kapok.desc=這些葉子是在雨林生物群系中罕見的巨型樹木上發現的。
+tropicraft.encyclopedia.kapok.desc=這些葉子是在雨林生態域中罕見的巨型樹木上發現的。
 
 #tropicraft.encyclopedia.koachest.title=原史寶箱
 #tropicraft.encyclopedia.koachest.desc=產生原史的箱子。 用它來填充村莊或平房！
@@ -772,13 +772,13 @@ tropicraft.encyclopedia.pearlw.title=白珍珠
 tropicraft.encyclopedia.pearlw.desc=與原始人部落有較高的交易價值；在索洛諾克斯貝殼中發現。
 
 tropicraft.encyclopedia.pineapple.title=鳳梨
-tropicraft.encyclopedia.pineapple.desc=由於很容易再生，菠蘿是一個很好的食物來源。如果你用劍把它們砍在莖上，你會得到菠蘿布丁。再加上一個竹杯和椰子塊，你就可以做一杯清爽的椰林飄香了。
+tropicraft.encyclopedia.pineapple.desc=由於很容易再生，鳳梨是一個很好的食物來源。如果你用劍把它們砍在莖上，你會得到鳳梨布丁。再加上一個竹杯和椰子塊，你就可以做一杯清爽的椰林飄香了。
 
 tropicraft.encyclopedia.pineapplecubes.title=鳳梨布丁
 tropicraft.encyclopedia.pineapplecubes.desc=這個巨大的食物來源可以很容易地獲得通過削減鳳梨與劍。
 
 tropicraft.encyclopedia.pinacolada.title=椰林飄香
-tropicraft.encyclopedia.pinacolada.desc=這種清爽的飲料是將菠蘿和椰子塊混合在一個竹杯裡製成的。不過，你要小心，猴子和你一樣喜歡吃冰冷凍室(Pina Coladas)。
+tropicraft.encyclopedia.pinacolada.desc=這種清爽的飲料是將鳳梨和椰子塊混合在一個竹杯裡製成的。不過，你要小心，猴子和你一樣喜歡吃冰冷凍室(Pina Coladas)。
 
 tropicraft.encyclopedia.portalstarter.title=蘊魔熱帶世界傳送門
 tropicraft.encyclopedia.portalstarter.desc=這件物品，用迷人的藍晶石和鋯石製成，形成了一個入口，當右鍵點擊裡面充滿水的3x3平面的砂岩時，就可以用來在熱帶和世界之間進行遠距離傳送。
@@ -790,7 +790,7 @@ tropicraft.encyclopedia.reeds.title=蘆葦
 tropicraft.encyclopedia.reeds.desc=在熱帶地區，甘蔗有一個新的用途:蓋茅草。
 
 tropicraft.encyclopedia.rubenautilus.title=魯貝鸚鵡螺
-tropicraft.encyclopedia.rubenautilus.desc=魯貝鸚鵡螺以熱帶世界當前模組製作者之一MrRube的名字命名，魯貝鸚鵡螺實際上是由MrRube在熱帶世界的v1.0版本之前製作的，但從未被使用過...直到現在！
+tropicraft.encyclopedia.rubenautilus.desc=魯貝鸚鵡螺以熱帶世界目前模組製作者之一MrRube的名字命名，魯貝鸚鵡螺實際上是由MrRube在熱帶世界的v1.0版本之前製作的，但從未被使用過...直到現在！
 
 tropicraft.encyclopedia.scaleboots.title=鬣蜥鱗靴子
 tropicraft.encyclopedia.scaleboots.desc=用鬣蜥鱗製成的靴子，為穿著它們的人提供火焰抗性。
@@ -865,7 +865,7 @@ tropicraft.encyclopedia.zircon.desc=這種神秘的紅色水晶可以從鋯石�
 #tropicraft.encyclopedia.zirconium.desc=有傳言稱這種稀有的晶體與石青石結合後可以釋放遠古力量。 也可以製作出具有神秘力量的工具！
 
 tropicraft.encyclopedia.fishingrod.title=竹釣竿
-tropicraft.encyclopedia.fishingrod.desc=一個對任何初露頭角的漁夫來說必須有的工具，這個釣竿有一種輕重量的感覺和人體工程學設計，使釣魚晚餐變得輕而易舉！
+tropicraft.encyclopedia.fishingrod.desc=一個對任何初露頭角的漁夫來說必須有的工具，這個釣竿有一種輕重量的感覺和人體工學設計，使釣魚晚餐變得輕而易舉！
 
 tropicraft.encyclopedia.scubaflippers.title=潛水腳蹼
 tropicraft.encyclopedia.scubaflippers.desc=這些柔軟的腳蹼有兩種不同的顏色：粉紅和黃色！你可以穿著這些壞男孩輕鬆地在熱帶水域滑行。提示：做個桶式翻滾！

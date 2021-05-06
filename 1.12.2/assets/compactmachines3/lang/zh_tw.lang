@@ -1,4 +1,4 @@
-itemGroup.compactmachines3=壓縮空間 3
+﻿itemGroup.compactmachines3=壓縮空間 3
 generator.compactsky=壓縮空島
 
 tile.compactmachines3.machine.tiny.name=微型壓縮空間機械
@@ -8,15 +8,15 @@ tile.compactmachines3.machine.large.name=大型壓縮空間機械
 tile.compactmachines3.machine.giant.name=巨型壓縮空間機械
 tile.compactmachines3.machine.maximum.name=超大型壓縮空間機械
 
-tile.compactmachines3.tunnel.name=接口
-tile.compactmachines3.redstonetunnel.name=紅石接口
+tile.compactmachines3.tunnel.name=介面
+tile.compactmachines3.redstonetunnel.name=紅石介面
 tile.compactmachines3.wallbreakable.name=壓縮空間壁
 tile.compactmachines3.wall.name=緊實型壓縮空間壁
 tile.compactmachines3.fieldprojector.name=壓縮空間機械製作器
 
 item.compactmachines3.psd.name=傳送器
-item.compactmachines3.tunneltool.name=接口
-item.compactmachines3.redstonetunneltool.name=紅石接口
+item.compactmachines3.tunneltool.name=介面
+item.compactmachines3.redstonetunneltool.name=紅石介面
 
 item.compactmachines3.psd.spawnpoint_set=入口已設置在所站的地方！
 
@@ -26,12 +26,12 @@ hint.compactmachines3.currently_crafting=正在壓縮：%s （進度：%s%%）
 hint.compactmachines3.no_recipe_found=未找到合成
 hint.compactmachines3.found_recipe_for=檢測到合成：%s
 hint.compactmachines3.invalid_block_in_field=該區域內有非法的方塊：坐標 %d,%d,%d 名稱 %s
-hint.compactmachines3.cant_sleep_here=你不能在壓縮空間裏睡覺
+hint.compactmachines3.cant_sleep_here=你不能在壓縮空間裡睡覺
 hint.compactmachines3.bed_position_set=將此機械設置為重生點
 hint.compactmachines3.not_permitted_to_enter=你沒有進入到該空間的權限！
 
-hint.compactmachines3.skyworld.no_block_breaking=你不能在該空間裏破壞任何方塊！
-hint.compactmachines3.skyworld.no_block_placing=你不能在該空間裏放置任何方塊！
+hint.compactmachines3.skyworld.no_block_breaking=你不能在該空間裡破壞任何方塊！
+hint.compactmachines3.skyworld.no_block_placing=你不能在該空間裡放置任何方塊！
 hint.compactmachines3.skyworld.only_one_machine_claim=你只能在空間中聲明一台壓縮機器！
 
 top.compactmachines3.currently_crafting=合成：
@@ -40,9 +40,9 @@ top.compactmachines3.found_recipe_for=檢測到合成：
 tooltip.compactmachines3.machine.coords=機械編號：
 tooltip.compactmachines3.machine.coords.unused=未使用
 tooltip.compactmachines3.machine.schema=概要：
-tooltip.compactmachines3.machine.stopitsoaryn=檢測到反饋回路
+tooltip.compactmachines3.machine.stopitsoaryn=檢測到回饋迴路
 
-tooltip.compactmachines3.hold_shift.hint=按 Shift 查看詳細信息。
+tooltip.compactmachines3.hold_shift.hint=按 Shift 查看詳細資訊。
 tooltip.compactmachines3.psd.hint=該模組的手冊，同時也能用於進入壓縮空間。
 tooltip.compactmachines3.fieldprojector.hint=放置4個壓縮空間機械製作器來檢測製作空間。右鍵一個壓縮空間機械製作器來知曉下一個應放在哪裡。
 tooltip.compactmachines3.tunneltool.hint=用於在空間內外進行傳輸。
@@ -74,14 +74,14 @@ commands.compactmachines3.denied=你無權使用此命令。
 
 commands.compactmachines3.schema.description=保存/載入機械的內容
 commands.compactmachines3.schema.save.usage=/compactmachines3 schema save <名稱>
-commands.compactmachines3.schema.save.description=將你所在的機械保存到磁盤中。
+commands.compactmachines3.schema.save.description=將你所在的機械保存到磁碟中。
 commands.compactmachines3.schema.save.exception.not_in_machine_dimension=你必須在壓縮空間中才能使用此命令。
 commands.compactmachines3.schema.save.exception.invalid_file=無法打開的文件“%s”！結構沒有保存！
 commands.compactmachines3.schema.save.exception.not_serializable=無法序列化機械！結構沒有保存！
 commands.compactmachines3.schema.save.success=寫入：%s
 
 commands.compactmachines3.schema.load.usage=/compactmachines3 schema load <名稱>
-commands.compactmachines3.schema.load.description=從磁盤載入指定的結構並將其放置在你所在的機械中。
+commands.compactmachines3.schema.load.description=從磁碟載入指定的結構並將其放置在你所在的機械中。
 commands.compactmachines3.schema.load.exception.not_in_machine_dimension=你必須在壓縮空間中才能使用此命令。
 commands.compactmachines3.schema.load.exception.unknown_schema=沒有為該名稱的結構！
 commands.compactmachines3.schema.load.exception.machine_size_does_not_match=機器的大小與結構不匹配！
@@ -96,12 +96,12 @@ commands.compactmachines3.schema.set.exception.machine_is_already_in_use=機器�
 commands.compactmachines3.schema.set.machine_schema_set_to=已設置為結構：%s
 
 commands.compactmachines3.schema.reload-files.usage=/compactmachines3 schema reload-files
-commands.compactmachines3.schema.reload-files.description=從磁盤和 jar 重新載入所有儲存的結構文件
+commands.compactmachines3.schema.reload-files.description=從磁碟和 jar 重新載入所有儲存的結構文件
 
 
 commands.compactmachines3.recipe.description=與多方塊結構配方相關的東西
 commands.compactmachines3.recipe.unpack-defaults.usage=/compactmachines3 recipe unpack-defaults [force]
-commands.compactmachines3.recipe.unpack-defaults.description=從 .jar 提取預設配方到配置文件夾。 附加“force”來覆蓋現有的文件。
+commands.compactmachines3.recipe.unpack-defaults.description=從 .jar 提取預設配方到設定文件夾。 附加“force”來覆蓋現有的文件。
 
 commands.compactmachines3.recipe.copy-shape.usage=/compactmachines3 recipe copy-shape
 commands.compactmachines3.recipe.copy-shape.description=將你正指向的投影器的製作形狀複製到剪貼板中
@@ -111,7 +111,7 @@ commands.compactmachines3.recipe.copy-shape.success=已經複製！
 commands.compactmachines3.recipe.copy-item.usage=/compactmachines3 recipe copy-item [catalyst|target]
 commands.compactmachines3.recipe.copy-item.description=複製合成到剪貼板
 commands.compactmachines3.recipe.copy-item.exception.missing_type=你需要指定是為催化劑獲取 JSON 還是為被合成物獲取 JSON
-commands.compactmachines3.recipe.copy-item.exception.missing_item=要使這個命令生效，你需要手裏拿著一些東西！
+commands.compactmachines3.recipe.copy-item.exception.missing_item=要使這個命令生效，你需要手裡拿著一些東西！
 commands.compactmachines3.recipe.copy-item.success=已經複製！
 
 commands.compactmachines3.recipe.generate.usage=/compactmachines3 recipe generate <recipe-name>
@@ -120,7 +120,7 @@ commands.compactmachines3.recipe.generate.exception.not_looking_at_block=你沒�
 commands.compactmachines3.recipe.generate.exception.unknown_recipe=給定的配方似乎不存在。
 commands.compactmachines3.recipe.generate.exception.missing_machine_recipe=你需要指定合成的名稱（使用選項卡完成！）
 
-commands.compactmachines3.machines.description=用於恢覆丟失/損壞的機械的命令
+commands.compactmachines3.machines.description=用於恢覆遺失/損壞的機械的命令
 commands.compactmachines3.machines.give.usage=/compactmachines3 machines give <id>
 commands.compactmachines3.machines.give.description=給玩家一個相應的機械。警告：如果機器已經放置，這將會破壞它們！
 commands.compactmachines3.machines.give.warning=警告：如果機器已經放置，這將會破壞它們！
@@ -131,17 +131,17 @@ commands.compactmachines3.machines.view.description=打開一個GUI，查看所�
 commands.compactmachines3.machines.clear.usage=/compactmachines3 machines clear [<id>]
 commands.compactmachines3.machines.clear.description=將指定機械中全部清空
 
-gui.compactmachines3.psd.welcome.welcome=壓縮空間3模組能讓你在單個方塊內構建覆雜的機器裝置！
+gui.compactmachines3.psd.welcome.welcome=壓縮空間3模組能讓你在單個方塊內構建複雜的機器裝置！
 gui.compactmachines3.psd.welcome.chapters=章節：
 
 gui.compactmachines3.psd.machines.label=壓縮空間機械
-gui.compactmachines3.psd.machines.text=壓縮空間機械是一個必需品。它能讓你在一個方塊的空間建立大空間並連接到外部世界。它們的尺寸從3x3x3到13x13x13不等。你可以用接口把外部和內部連接起來，來運輸物品、液體等。你可以用傳送器右擊進入一個壓縮空間機械。請使用JEI來查看合成。
+gui.compactmachines3.psd.machines.text=壓縮空間機械是一個必需品。它能讓你在一個方塊的空間建立大空間並連接到外部世界。它們的尺寸從3x3x3到13x13x13不等。你可以用介面把外部和內部連接起來，來運輸物品、液體等。你可以用傳送器右擊進入一個壓縮空間機械。請使用JEI來查看合成。
 
-gui.compactmachines3.psd.tunnels.label=接口
-gui.compactmachines3.psd.tunnels.text=接口用於將機器內外聯通。 每個外表面只有一個連接，這意味著每台機器總共有6個接口。\n右鍵緊實型壓縮空間壁以放置接口。再次右擊會切換它所連接的外部面。\n接口使用ForgeCapability系統“連接”兩個塊。其他模組需要使用此系統才能使接口正常工作。這是大多數儲存的情況，但多方塊系統很少使用它，因此可能某些管道不能正常工作。
+gui.compactmachines3.psd.tunnels.label=介面
+gui.compactmachines3.psd.tunnels.text=介面用於將機器內外聯通。 每個外表面只有一個連接，這意味著每台機器總共有6個介面。\n右鍵緊實型壓縮空間壁以放置介面。再次右擊會切換它所連接的外部面。\n介面使用ForgeCapability系統“連接”兩個塊。其他模組需要使用此系統才能使介面正常工作。這是大多數儲存的情況，但多方塊系統很少使用它，因此可能某些管道不能正常工作。
 
-gui.compactmachines3.psd.redstone_tunnels.label=紅石接口
-gui.compactmachines3.psd.redstone_tunnels.text=這些可以用來在機器內外傳輸紅石信號。與普通接口相比，它們不是雙向的，需要配置為輸入或輸出。按右上角的按鈕切換模式（紅色=輸入，綠色=輸出）。\n你可以使用它們來啟用/禁用機器內的紅石系統，或在單個方塊內構建覆雜的紅石電路。
+gui.compactmachines3.psd.redstone_tunnels.label=紅石介面
+gui.compactmachines3.psd.redstone_tunnels.text=這些可以用來在機器內外傳輸紅石信號。與普通介面相比，它們不是雙向的，需要設定為輸入或輸出。按右上角的按鈕切換模式（紅色=輸入，綠色=輸出）。\n你可以使用它們來啟用/禁用機器內的紅石系統，或在單個方塊內構建複雜的紅石電路。
 
 gui.compactmachines3.psd.crafting.label=壓縮
 gui.compactmachines3.psd.crafting.text=要製造壓縮空間機械，你需要建立一個壓縮結構。放置4個壓縮空間機械製作器，將它們相對放置，間隔7、11或15個方塊。它們都需要面向中心。一旦放置正確，它們將開始標出一個小框框。創建一個類似於JEI中指定的配方，並將合成材料放入框中以開始製作過程。
@@ -163,5 +163,3 @@ gui.compactmachines3.compactsky.configuration.warning.PleaseSpecifyADescription=
 gui.compactmachines3.compactsky.configuration.small=16 玩家
 gui.compactmachines3.compactsky.configuration.medium=64 玩家
 gui.compactmachines3.compactsky.configuration.large=256 玩家
-
-

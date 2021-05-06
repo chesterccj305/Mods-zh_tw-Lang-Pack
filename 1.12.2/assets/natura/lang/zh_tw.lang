@@ -1,4 +1,4 @@
-##########################
+﻿##########################
 #    Overworld Blocks    #
 ##########################
 
@@ -145,14 +145,14 @@ tile.natura.overworld_berrybush_blueberry.tooltip=又藍又酸\n生長在暖帶�
 tile.natura.overworld_berrybush_blackberry.name=黑莓灌木叢
 tile.natura.overworld_berrybush_blackberry.tooltip=又黑又甜\n生長在潮濕的地區。
 tile.natura.overworld_berrybush_maloberry.name=黃莓灌木叢
-tile.natura.overworld_berrybush_maloberry.tooltip=橘黄又可口\n生長在寒帶地區。
+tile.natura.overworld_berrybush_maloberry.tooltip=橘黃又可口\n生長在寒帶地區。
 
 tile.natura.bluebells_flower.name=藍鈴花
 
 tile.natura.saguaro.name=巨型仙人掌
-tile.natura.saguaro.tooltip=長得像一顆樹\n在暴風雨之後結果。
+tile.natura.saguaro.tooltip=長得像一棵樹\n在暴風雨之後結果。
 tile.natura.saguaro_baby.name=迷你巨型仙人掌
-tile.natura.saguaro_baby.tooltip=長大後像一顆樹\n在暴風雨之後結果。
+tile.natura.saguaro_baby.tooltip=長大後像一棵樹\n在暴風雨之後結果。
 tile.natura.saguaro_fruit.name=仙人掌果
 tile.natura.saguaro_fruit.tooltip=仙人掌的果實。
 
@@ -220,15 +220,15 @@ tile.natura.overworld_bookshelves.hopseed.name=車桑子木書櫃
 tile.natura.overworld_bookshelves.sakura.name=櫻木書櫃
 tile.natura.overworld_bookshelves.redwood.name=紅杉木書櫃
 
-tile.natura.overworld_workbenches.maple.name=楓木工作台
-tile.natura.overworld_workbenches.silverbell.name=銀鈴木工作台
-tile.natura.overworld_workbenches.amaranth.name=紫檀工作台
-tile.natura.overworld_workbenches.tiger.name=非洲胡桃木工作台
-tile.natura.overworld_workbenches.willow.name=楊柳木工作台
-tile.natura.overworld_workbenches.eucalyptus.name=尤加利木工作台
-tile.natura.overworld_workbenches.hopseed.name=車桑子木工作台
-tile.natura.overworld_workbenches.sakura.name=櫻木工作台
-tile.natura.overworld_workbenches.redwood.name=紅杉木工作台
+tile.natura.overworld_workbenches.maple.name=楓木工作檯
+tile.natura.overworld_workbenches.silverbell.name=銀鈴木工作檯
+tile.natura.overworld_workbenches.amaranth.name=紫檀工作檯
+tile.natura.overworld_workbenches.tiger.name=非洲胡桃木工作檯
+tile.natura.overworld_workbenches.willow.name=楊柳木工作檯
+tile.natura.overworld_workbenches.eucalyptus.name=尤加利木工作檯
+tile.natura.overworld_workbenches.hopseed.name=車桑子木工作檯
+tile.natura.overworld_workbenches.sakura.name=櫻木工作檯
+tile.natura.overworld_workbenches.redwood.name=紅杉木工作檯
 
 #######################
 #    Nether Blocks    #
@@ -236,7 +236,7 @@ tile.natura.overworld_workbenches.redwood.name=紅杉木工作台
 
 tile.natura.nether_logs.ghostwood.name=白鬼原木
 tile.natura.nether_logs.ghostwood.tooltip=地獄的樹木\n蒼白色。
-tile.natura.nether_logs.darkwood.name=黑闇原木
+tile.natura.nether_logs.darkwood.name=黑暗原木
 tile.natura.nether_logs.darkwood.tooltip=地獄的樹木。
 tile.natura.nether_logs.fusewood.name=導火原木
 tile.natura.nether_logs.fusewood.tooltip=地獄的樹木\n會爆！
@@ -251,18 +251,18 @@ tile.natura.nether_leaves.bloodwood.tooltip=地獄的樹木\n防火樹葉。
 tile.natura.nether_leaves.fusewood.name=導火樹葉
 tile.natura.nether_leaves.fusewood.tooltip=地獄的樹木\n會爆！
 
-tile.natura.nether_leaves2.darkwood.name=黑闇樹葉
+tile.natura.nether_leaves2.darkwood.name=黑暗樹葉
 tile.natura.nether_leaves2.darkwood.tooltip=地獄的樹木\n蒼白色。
-tile.natura.nether_leaves2.darkwood_flowering.name=黑闇樹葉
+tile.natura.nether_leaves2.darkwood_flowering.name=黑暗樹葉
 tile.natura.nether_leaves2.darkwood_flowering.tooltip=地獄的樹木\n有小花！
-tile.natura.nether_leaves2.darkwood_fruit.name=黑闇樹葉
+tile.natura.nether_leaves2.darkwood_fruit.name=黑暗樹葉
 tile.natura.nether_leaves2.darkwood_fruit.tooltip=地獄的樹木\n有顆蘋果！
 
 tile.natura.nether_sapling.ghostwood.name=白鬼樹苗
 tile.natura.nether_sapling.ghostwood.tooltip=蒼白色。
 tile.natura.nether_sapling.fusewood.name=導火樹苗
 tile.natura.nether_sapling.fusewood.tooltip=易爆。
-tile.natura.nether_sapling.darkwood.name=黑闇樹苗
+tile.natura.nether_sapling.darkwood.name=黑暗樹苗
 tile.natura.nether_sapling.darkwood.tooltip=會結粉筆口味的蘋果？！
 
 tile.natura.nether_sapling2.bloodwood.name=紅血樹苗
@@ -274,7 +274,7 @@ tile.natura.nether_planks.bloodwood.name=血木木材
 tile.natura.nether_planks.bloodwood.tooltip=防火木材。
 tile.natura.nether_planks.fusewood.name=導火木材
 tile.natura.nether_planks.fusewood.tooltip=地獄的樹木\n會爆！
-tile.natura.nether_planks.darkwood.name=黑闇木材
+tile.natura.nether_planks.darkwood.name=黑暗木材
 tile.natura.nether_planks.darkwood.tooltip=地獄的樹木。
 
 tile.natura.nether_slab.ghostwood.name=白鬼木半磚
@@ -283,21 +283,21 @@ tile.natura.nether_slab.bloodwood.name=紅血木半磚
 tile.natura.nether_slab.bloodwood.tooltip=防火木材。
 tile.natura.nether_slab.fusewood.name=導火木半磚
 tile.natura.nether_slab.fusewood.tooltip=地獄的樹木\n會爆。
-tile.natura.nether_slab.darkwood.name=黑闇木半磚
+tile.natura.nether_slab.darkwood.name=黑暗木半磚
 tile.natura.nether_slab.darkwood.tooltip=地獄的樹木。
 
 tile.natura.nether_stairs_ghostwood.name=白鬼木階梯
 tile.natura.nether_stairs_bloodwood.name=紅血木階梯
-tile.natura.nether_stairs_darkwood.name=黑闇木階梯
+tile.natura.nether_stairs_darkwood.name=黑暗木階梯
 tile.natura.nether_stairs_fusewood.name=導火木階梯
 
 tile.natura.nether_glass.soul.name=靈魂玻璃
 tile.natura.nether_glass.soul.tooltip=鬼魅般的。
 tile.natura.nether_glass.heat.name=炙熱玻璃
 
-tile.natura.nether_tainted_soil.tainted_soil.name=污染沙
-tile.natura.nether_tainted_soil.tainted_farmland_dry.name=污染沙
-tile.natura.nether_tainted_soil.tainted_farmland_heated.name=污染沙
+tile.natura.nether_tainted_soil.tainted_soil.name=汙染沙
+tile.natura.nether_tainted_soil.tainted_farmland_dry.name=汙染沙
+tile.natura.nether_tainted_soil.tainted_farmland_heated.name=汙染沙
 
 tile.natura.nether_heat_sand.name=炙熱沙
 
@@ -357,21 +357,21 @@ tile.natura.fusewood_trap_door.name=導火木地板門
 tile.natura.fusewood_fence.name=導火木柵欄
 tile.natura.fusewood_fence_gate.name=導火木柵欄門
 
-tile.natura.darkwood_button.name=黑闇木按鈕
-tile.natura.darkwood_pressure_plate.name=黑闇木壓力板
-tile.natura.darkwood_trap_door.name=黑闇木地板門
-tile.natura.darkwood_fence.name=黑闇木柵欄
-tile.natura.darkwood_fence_gate.name=黑闇木柵欄門
+tile.natura.darkwood_button.name=黑暗木按鈕
+tile.natura.darkwood_pressure_plate.name=黑暗木壓力板
+tile.natura.darkwood_trap_door.name=黑暗木地板門
+tile.natura.darkwood_fence.name=黑暗木柵欄
+tile.natura.darkwood_fence_gate.name=黑暗木柵欄門
 
 tile.natura.nether_bookshelves.ghostwood.name=白鬼書櫃
 tile.natura.nether_bookshelves.bloodwood.name=紅血書櫃
 tile.natura.nether_bookshelves.fusewood.name=導火書櫃
-tile.natura.nether_bookshelves.darkwood.name=黑闇書櫃
+tile.natura.nether_bookshelves.darkwood.name=黑暗書櫃
 
-tile.natura.nether_workbenches.ghostwood.name=白鬼工作台
-tile.natura.nether_workbenches.bloodwood.name=紅血工作台
-tile.natura.nether_workbenches.fusewood.name=導火工作台
-tile.natura.nether_workbenches.darkwood.name=黑闇工作台
+tile.natura.nether_workbenches.ghostwood.name=白鬼工作檯
+tile.natura.nether_workbenches.bloodwood.name=紅血工作檯
+tile.natura.nether_workbenches.fusewood.name=導火工作檯
+tile.natura.nether_workbenches.darkwood.name=黑暗工作檯
 
 ################
 #    Items     #
@@ -434,13 +434,13 @@ item.natura.sticks.hopseed_stick.name=車桑子木木棍
 item.natura.sticks.sakura_stick.name=櫻木棍
 item.natura.sticks.redwood_stick.name=紅杉木棍
 item.natura.sticks.ghostwood_stick.name=白鬼木棍
-item.natura.sticks.darkwood_stick.name=黑闇木棍
+item.natura.sticks.darkwood_stick.name=黑暗木棍
 item.natura.sticks.fusewood_stick.name=導火木棍
 item.natura.sticks.bloodwood_stick.name=紅血木棍
 
 item.natura.empty_bowls.ghostwood_bowl.name=白鬼木碗
 item.natura.empty_bowls.bloodwood_bowl.name=紅血木碗
-item.natura.empty_bowls.darkwood_bowl.name=黑闇木碗
+item.natura.empty_bowls.darkwood_bowl.name=黑暗木碗
 item.natura.empty_bowls.fusewood_bowl.name=導火木碗
 
 item.natura.soups.ghostwood_mushroomstew.name=蘑菇湯
@@ -531,12 +531,12 @@ item.natura.bloodwood_axe.name=紅血木斧
 item.natura.bloodwood_kama.name=紅血木鐮
 item.natura.bloodwood_bow.name=紅血木弓
 
-item.natura.darkwood_sword.name=黑闇木劍
-item.natura.darkwood_pickaxe.name=黑闇木鎬
-item.natura.darkwood_shovel.name=黑闇木鏟
-item.natura.darkwood_axe.name=黑闇木斧
-item.natura.darkwood_kama.name=黑闇木鐮
-item.natura.darkwood_bow.name=黑闇木弓
+item.natura.darkwood_sword.name=黑暗木劍
+item.natura.darkwood_pickaxe.name=黑暗木鎬
+item.natura.darkwood_shovel.name=黑暗木鏟
+item.natura.darkwood_axe.name=黑暗木斧
+item.natura.darkwood_kama.name=黑暗木鐮
+item.natura.darkwood_bow.name=黑暗木弓
 
 item.natura.fusewood_sword.name=導火木劍
 item.natura.fusewood_pickaxe.name=導火木鎬

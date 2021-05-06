@@ -1,4 +1,4 @@
-# blocks
+﻿# blocks
 # chat messages
 # creative tab
 # keybindings
@@ -7,8 +7,8 @@
 #gui
 #items
 #update Checker
-camopaste.info=§6當前方塊：§5%s <br>§6元數據：§5%s
-camopaste.pressshift=按下 Shift 查看更多信息
+camopaste.info=§6目前方塊：§5%s <br>§6元數據：§5%s
+camopaste.pressshift=按下 Shift 查看更多資訊
 gui.programmable.info=輸入你想修改偽裝成的方塊名稱、礦物詞典名稱<br><br>如果有多個方塊，只需要點擊想要偽裝成的方塊，<br>然後就能夠在下方輸出格子中看到選擇的方塊了
 gui.secret_chest.name=偽裝箱子
 item.camouflage_paste.name=偽裝膏
@@ -36,7 +36,7 @@ tile.secret_gate.name=可延伸偽裝方塊
 tile.secret_heavy_pressure_plate.name=偽裝測重壓力板（重質）
 tile.secret_inverted_light_detector.name=偽裝陽光感測器
 tile.secret_iron_door.name=偽裝鐵門
-tile.secret_iron_trapdoor.name=偽裝鐵活板門
+tile.secret_iron_trapdoor.name=偽裝鐵暗門
 tile.secret_lever.name=偽裝拉桿
 tile.secret_light_detector.name=偽裝陽光感測器
 tile.secret_light_pressure_plate.name=偽裝測重壓力板（輕質）
@@ -48,7 +48,7 @@ tile.secret_stone_button.name=偽裝石製按鈕
 tile.secret_trapped_chest.name=偽裝陷阱箱
 tile.secret_wooden_button.name=偽裝木製按鈕
 tile.secret_wooden_door.name=偽裝木門
-tile.secret_wooden_trapdoor.name=偽裝木活板門
+tile.secret_wooden_trapdoor.name=偽裝木暗門
 tile.solid_air.name=固態空氣
 tile.torch_lever.name=火把拉桿
 update.hover=點擊跳轉到 %s

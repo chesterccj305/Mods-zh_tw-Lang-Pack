@@ -1,9 +1,9 @@
-item.glue.name=膠水
+﻿item.glue.name=膠水
 item.document.name=文件
 item.document005.name=SCP-005 文件
 
 itemGroup.scpletab=SCP鎖定附加功能
-itemGroup.scpletabdocs=SCPLE:文檔
+itemGroup.scpletabdocs=SCPLE:文件
 
 tile.metal_floor_a.name=金屬地板A
 tile.metal_floor_b.name=金屬地板B

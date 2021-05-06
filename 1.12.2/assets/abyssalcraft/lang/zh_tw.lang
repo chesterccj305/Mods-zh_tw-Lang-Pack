@@ -1,4 +1,4 @@
-#本地化檔起點
+﻿#本地化檔起點
 
 #成就
 advancements.abyssalcraft.necro.title=深淵國度
@@ -346,7 +346,7 @@ necronomicon.text.materials.dreadedabyssalnite.1=恐懼深淵礦石是一種在�
 necronomicon.text.materials.dreadlandsgrass.1=恐懼之地草地是一種在恐懼之地裡的恐懼之地森林找到的草地。相比於普通的草地，它是紅色的。
 necronomicon.text.materials.dreadlandstree.1=恐懼之地樹是一種在恐懼之地裡的恐懼之地森林找到的樹。它的原木能用來合成木材，木材能用來合成樓梯、半磚和柵欄。與橡樹相比，葉子和原木都是紅色的。
 necronomicon.text.materials.omotholstone.1=奧穆索石頭是構成奧穆索的一種石頭。除了裝飾之外沒有別的用途。
-necronomicon.text.materials.ethaxium.1=伊桑斯石是奧穆索裡的常用的新的建築材料。伊桑斯石極其堅硬，只能被由它製成的材料挖掘。
+necronomicon.text.materials.ethaxium.1=伊桑斯石是奧穆索里的常用的新的建築材料。伊桑斯石極其堅硬，只能被由它製成的材料挖掘。
 necronomicon.text.materials.ethaxium.2=傳說伊桑斯石是由靈魂構成的，這能解釋為什麼它如此難以破壞。也難怪紮哈爾會用這來建築神殿城市。
 necronomicon.text.materials.darkethaxium.1=深色伊桑斯石是伊桑斯石的強化版本。由普通的伊桑斯石和奧穆索石頭結合成。深色伊桑斯石比普通的更為堅硬。這種材料只能用於建造紮哈爾神殿。
 necronomicon.text.materials.ritualaltar.1=儀式祭壇是進行儀式的主要部分。透過手持有足夠位能的死靈之書並按住shift右擊儀式祭壇。除了足夠的位能外，周圍的儀式基座還需要正確的物品擺放在它們上面。
@@ -479,7 +479,7 @@ necronomicon.text.entity.evilanimals.2=這些邪惡動物是尚未進化的惡�
 necronomicon.text.entity.abyssalzombie.1=深淵殭屍能在海洋、沼澤、沙灘和黑暗之地生態域裡找到。
 necronomicon.text.entity.abyssalzombie.2=深淵殭屍是殭屍受到珊瑚侵染後變成的，對正常的殭屍有敵意。它們還生成在深淵荒蕪之地和終界。
 necronomicon.text.entity.depthsghoul.1=深淵食屍鬼是受珊瑚侵染的不死生物進化的。生成同深淵殭屍。
-necronomicon.text.entity.depthsghoul.2=深淵食屍鬼是珊瑚侵染殭屍後的傑作，極少會變異成這種巨獸。有一些還會獲得新的形式，例如皮特，威爾遜先生和奧蘭治醫生，每一個都比別的強大。
+necronomicon.text.entity.depthsghoul.2=深淵食屍鬼是珊瑚侵染殭屍後的傑作，極少會變異成這種巨獸。有一些還會獲得新的形式，例如皮特，威爾森先生和奧蘭治醫生，每一個都比別的強大。
 necronomicon.text.entity.skeletongoliath.1=骷髏哥利亞是一種漫遊在深淵荒蕪之地，手握棍棒的巨型骷髏，來源不明。
 necronomicon.text.entity.skeletongoliath.2=敢想像一種手握棍棒的巨型骷髏會像是在Minecraft裡的？好吧，骷髏哥利亞是行走在不死生物之中巨大並且強力的骷髏。在死亡後它們有小機率會掉落手中的棍棒。
 necronomicon.text.entity.spectraldragon.1=幽靈龍是極少生成在深淵荒蕪之地的透明的龍。
@@ -506,9 +506,9 @@ necronomicon.text.entity.chagaroth.1=恐懼野獸查加羅特，是深淵國度�
 necronomicon.text.entity.chagaroth.2=查加羅特是一種新型危險病毒造成的結果，用3個砍掉的九頭蛇頭顱和一個死亡的修格斯融合而成，變成了一個可以威脅舊日支配者生命的怪物，被放置在這個變成恐懼之地的維度，殺害和侵染一切生物。
 necronomicon.text.entity.remnant.1=殘存者是在奧穆索能找到的居民。
 necronomicon.text.entity.remnant.2=所有的舊日支配者都有不同的後代，紮哈爾的後代是殘存者，但殘存者很少像紮哈爾，沒有獲得紮哈爾所擁有的力量，反而崇拜紮哈爾雕像，並且用別的生命形式來交易物品。
-necronomicon.text.entity.omotholghoul.1=奧穆索食屍鬼是最終的進化體，在奧穆索裡找到。
+necronomicon.text.entity.omotholghoul.1=奧穆索食屍鬼是最終的進化體，在奧穆索里找到。
 necronomicon.text.entity.omotholghoul.2=奧穆索食屍鬼是深淵食屍鬼的最終進化體，解鎖了死亡的所有潛能。永世的黑暗使得這些巨獸免疫火焰，火焰反而會強化它們。
-necronomicon.text.entity.omotholwarden.1=奧穆索守衛是在奧穆索裡找到的惡魔。
+necronomicon.text.entity.omotholwarden.1=奧穆索守衛是在奧穆索里找到的惡魔。
 necronomicon.text.entity.omotholwarden.2=奧穆索守衛是由紮哈爾派遣的巡邏奧穆索的惡魔，它們會搜尋入侵者並消滅。這些惡魔是深淵裡的強大守衛。
 necronomicon.text.entity.gatekeeperminion.1=守門者僕從是在奧穆索能找到的紮哈爾忠誠的僕人。
 necronomicon.text.entity.gatekeeperminion.2=守門者僕從是更為強力的服從主人的殘存者裡的精英。它們能在紮哈爾神殿周圍經常找到，是守門者的忠誠僕從。
@@ -823,7 +823,7 @@ ac.rending.essence_aw=深淵荒蕪之地精髓可以從深淵珊瑚實體收穫�
 ac.rending.essence_dl=恐懼之地精髓可以從恐懼實體收穫恐懼能量得到。
 ac.rending.essence_omt=奧穆索精髓可以從奧穆索實體收穫奧穆索能量得到。
 
-#配置
+#設定
 ac_dimensions=維度
 ac_dimensions.tooltip=維度ID設定
 ac_biomes=生態域
@@ -847,9 +847,9 @@ ac_silly_settings.tooltip=雜項設定
 ac_blocks=方塊
 ac_blocks.tooltip=方塊設定
 ac_mod_compat=mod相容
-ac_mod_compat.tooltip=mod相容配置
+ac_mod_compat.tooltip=mod相容設定
 ac_wet_noodle=濕麵條
-ac_wet_noodle.tooltip=濕麵條配置
+ac_wet_noodle.tooltip=濕麵條設定
 
 #鍵位
 key.abyssalcraft.category=深淵國度
@@ -997,7 +997,7 @@ tile.dreadportal.name=恐懼之地傳送門
 tile.dreadfire.name=恐懼火
 tile.dghead.name=深淵食屍鬼頭顱
 tile.phead.name=皮特的頭顱
-tile.whead.name=威爾遜先生的頭顱
+tile.whead.name=威爾森先生的頭顱
 tile.ohead.name=奧蘭治醫生的頭顱
 tile.dreadbrickstairs.name=恐懼石磚階梯
 tile.dreadbrickfence.name=恐懼石磚柵欄
@@ -1447,7 +1447,7 @@ subtitle.abyssalcraft.ghoul.normal.idle=深淵食屍鬼：呻吟
 subtitle.abyssalcraft.ghoul.hit=深淵食屍鬼：受傷
 subtitle.abyssalcraft.ghoul.death=深淵食屍鬼：死亡
 subtitle.abyssalcraft.ghoul.pete.idle=皮特：呻吟
-subtitle.abyssalcraft.ghoul.wilson.idle=威爾遜先生：呻吟
+subtitle.abyssalcraft.ghoul.wilson.idle=威爾森先生：呻吟
 subtitle.abyssalcraft.ghoul.orange.idle=奧蘭治醫生：呻吟
 subtitle.abyssalcraft.golem.death=傀儡：死亡
 subtitle.abyssalcraft.golem.hit=傀儡：受傷

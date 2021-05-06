@@ -1,4 +1,4 @@
-#Creative Tabs
+﻿#Creative Tabs
 itemGroup.usefulglasses=實用眼鏡
 
 #Items
@@ -6,7 +6,7 @@ item.mlg_glasses.name=暴徒眼鏡
 item.infernal_glasses.name=烈焰眼鏡
 item.freezing_glasses.name=寒冰眼鏡
 item.poisonous_glasses.name=劇毒眼鏡
-item.diving_glasses.name=遊泳鏡
+item.diving_glasses.name=游泳鏡
 item.snowman_mask.name=雪人面罩
 item.elon_mask.name=埃隆·馬斯克面罩
 item.llama_mask.name=羊駝面罩
@@ -35,8 +35,8 @@ desc.infernal=§7讓你獲得噴火的能力；\n§7燒烤的不二之選！
 desc.freezing=§7讓你獲得噴射冰的能力；\n§7可以阻擋怪物的進攻。
 desc.poisonous=§7讓你獲得噴射毒藥的能力；\n§7可以讓大批的怪物中毒！
 desc.diving=§7讓你在水下看得更清楚；\n§7尋找海底神殿時戴上它！
-desc.snowman=§7讓你獲得無限投擲雪球的能力；\n§7成為烈焰人的克星！
-desc.elon=§7獲得瞬間飛上火星的能力！\n§7蹦極的不二選，記得控制著陸點。
+desc.snowman=§7讓你獲得無限投擲雪球的能力；\n§7成為烈焰人的剋星！
+desc.elon=§7獲得瞬間飛上火星的能力！\n§7高空彈跳的不二選，記得控制著陸點。
 desc.llama=§7獲得羊駝噴射唾液的能力！§7成為人見人愛的羊駝！
 desc.night_vision=§7讓你能夠短暫地獲得夜視，\n§7簡直是挖礦好幫手。
 desc.blind=§7讓你體驗失明的感覺；\n§7讓你的遊戲更具挑戰性！

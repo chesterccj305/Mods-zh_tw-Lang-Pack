@@ -1,4 +1,4 @@
-tile.bonsaitrees.bonsaipot.name=盆栽盆
+﻿tile.bonsaitrees.bonsaipot.name=盆栽盆
 tile.bonsaitrees.bonsaipot.hopping.name=漏斗盆栽盆
 
 commands.bonsaitrees.usage=/bonsaitrees [子命令，留空顯示可用子命令列表]
@@ -6,13 +6,13 @@ commands.bonsaitrees.usage=/bonsaitrees [子命令，留空顯示可用子命令
 commands.bonsaitrees.available=可用子命令：
 commands.bonsaitrees.denied=你沒有使用此命令的權限。
 
-commands.bonsaitrees.saveTreeShape.description=已將你當前指向的樹保存為 JSON 格式文件。
-commands.bonsaitrees.saveTreeShape.error_while_saving_shape=無法保存樹形到文件，請檢查日志獲取詳細信息。
+commands.bonsaitrees.saveTreeShape.description=已將你目前指向的樹保存為 JSON 格式文件。
+commands.bonsaitrees.saveTreeShape.error_while_saving_shape=無法保存樹形到文件，請檢查日誌獲取詳細資訊。
 commands.bonsaitrees.saveTreeShape.exception.can_not_determine_shape=無法確定形狀，也許你正在看著的方塊在排除列表裡？
 commands.bonsaitrees.saveTreeShape.exception.no_itemstack_in_mainhand=你的主手上必須有物品！
 commands.bonsaitrees.saveTreeShape.exception.not_looking_at_block=你的視線沒有指向方塊！
 commands.bonsaitrees.saveTreeShape.usage=/bonsaitrees saveTreeShape <類型名稱>，例如 "forestry:hillCherry"
-commands.bonsaitrees.saveTreeShape.wrote_shape_to_file=已將形狀寫入文件：%s
+commands.bonsaitrees.saveTreeShape.wrote_shape_to_file=已將形狀寫入檔案：%s
 
 commands.bonsaitrees.generateMissingShapes.created_shape_file=已創建的樹形文件：%s
 commands.bonsaitrees.generateMissingShapes.description=在你視線所向的地方生成所有缺失的樹的類型。警告：破壞力極強！
@@ -24,7 +24,7 @@ commands.bonsaitrees.generateMissingShapes.usage=/bonsaitrees generateMissingSha
 commands.bonsaitrees.upgradeJsonFiles.description=將樹形文件升級到最新受支持的版本。這是一個開發命令，可能不會對你有用。
 commands.bonsaitrees.upgradeJsonFiles.usage=/bonsaitrees upgradeJsonFiles
 
-commands.bonsaitrees.reloadTrees.description=從JSON文件和MOD中重新載入所有樹。這是一個開發命令，可能不會對你有用。這也會重載所以配置的土壤！
+commands.bonsaitrees.reloadTrees.description=從JSON文件和MOD中重新載入所有樹。這是一個開發命令，可能不會對你有用。這也會重載所以設定的土壤！
 commands.bonsaitrees.reloadTrees.usage=/bonsaitrees reloadTrees
 
 commands.bonsaitrees.reloadSoils.description=從JSON文件和MOD中重新載入所有樹。這是一個開發命令，可能不會對你有用。
@@ -36,11 +36,11 @@ commands.bonsaitrees.listIntegrations.result_entry_total=總計：樹：%d，土
 commands.bonsaitrees.listIntegrations.result_title=整合：
 commands.bonsaitrees.listIntegrations.usage=/bonsaitrees listIntegrations
 
-commands.bonsaitrees.listTrees.description=以列表形式顯示當前已註冊的樹的類型。
+commands.bonsaitrees.listTrees.description=以列表形式顯示目前已註冊的樹的類型。
 commands.bonsaitrees.listTrees.result_title=已註冊的樹的類型：
 commands.bonsaitrees.listTrees.usage=/bonsaitrees listTrees
 
-commands.bonsaitrees.listSoils.description=列出所有當前註冊的土壤
+commands.bonsaitrees.listSoils.description=列出所有目前註冊的土壤
 commands.bonsaitrees.listSoils.result_title=註冊的土壤：
 commands.bonsaitrees.listSoils.usage=/bonsaitrees listSoils
 
@@ -54,19 +54,19 @@ commands.bonsaitrees.checkCompatibility.usage=/bonsaitrees checkCompatibility <t
 
 tooltip.bonsaitrees.autoexport=自動將掉落物導出到下方物品欄。
 tooltip.bonsaitrees.use_jei_for_compatible_sapling=請使用JEI查找相容種植的土壤，樹苗以及其掉率。
-tooltip.bonsaitrees.hold_shift_hint=按住 Shift 鍵以查看詳細信息
-tooltip.bonsaitrees.warn_hopping_pots_disabled=在配置中功能被禁用！
+tooltip.bonsaitrees.hold_shift_hint=按住 Shift 鍵以查看詳細資訊
+tooltip.bonsaitrees.warn_hopping_pots_disabled=在設定中功能被禁用！
 
 hint.bonsaitrees.can_not_remove_soil_with_sapling=幼苗生長時, 土壤不能被移除。
 hint.bonsaitrees.incompatible_soil=這棵樹需要另一種土壤。
-hint.bonsaitrees.pot_has_no_soil=請先在花盆裏放一些土壤，試試 %s。
+hint.bonsaitrees.pot_has_no_soil=請先在花盆裡放一些土壤，試試 %s。
 
 bonsaitrees.jei.category.growing=盆景
-bonsaitrees.jei.category.growing.chance=概率：%d%%
+bonsaitrees.jei.category.growing.chance=機率：%d%%
 bonsaitrees.jei.category.sapling.growtime=種植這種盆栽通常需要 %s
 bonsaitrees.jei.category.soil.hint=沒有土壤，樹木就不會生長！
 bonsaitrees.jei.category.soil.growTimeModifier=生長時間：%.1f%%
-bonsaitrees.jei.category.soil.dropChanceModifier=掉落幾率：%.1f%%
+bonsaitrees.jei.category.soil.dropChanceModifier=掉落機率：%.1f%%
 
 advancements.bonsaitrees.craft_pot.title=盆景
 advancements.bonsaitrees.craft_pot.description=製作盆栽盆

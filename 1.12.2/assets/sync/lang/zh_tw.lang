@@ -1,4 +1,4 @@
-chat.command.clear.success=%s 清空了 %s 殼體的進度
+﻿chat.command.clear.success=%s 清空了 %s 殼體的進度
 chat.command.clear.usage=/Sync clear <玩家> | 清除玩家殼體的構建進度，僅在玩家被困與“邊境之地”時適用！
 chat.command.sync.usage=/Sync <clear>
 death.attack.shellConstruct=%1$s死於抽血
@@ -9,9 +9,9 @@ item.Sync_SyncCore.name=同步核心
 item.Sync_Treadmill.name=跑步機
 itemGroup.sync=Sync
 sync.breakShellUnit=%1$s摧毀了%2$s的一具殼體
-sync.config.cat.clientOnly.comment=這些設置僅限客戶端。
-sync.config.cat.clientOnly.name=僅客戶端
-sync.config.cat.gameplay.comment=這些選項影響使用這個模塊時的遊戲內容。
+sync.config.cat.clientOnly.comment=這些設置僅限用戶端。
+sync.config.cat.clientOnly.name=僅用戶端
+sync.config.cat.gameplay.comment=這些選項影響使用這個模組時的遊戲內容。
 sync.config.cat.gameplay.name=遊戲內容
 sync.config.prop.allowChunkLoading.comment=依需求添加，模組可以對區塊載入殼體。未測試，不支持。\n可造成嚴重的世界崩潰。\n自負風險禁用。
 sync.config.prop.allowChunkLoading.name=允許區塊載入
@@ -27,7 +27,7 @@ sync.config.prop.overrideDeathIfThereAreAvailableShells.comment=如玩家有其�
 sync.config.prop.overrideDeathIfThereAreAvailableShells.name=在有殼體的情況下覆蓋死亡
 sync.config.prop.prioritizeHomeShellOnDeath.comment=在玩家死亡和重新同步時有線“家園”殼體？
 sync.config.prop.prioritizeHomeShellOnDeath.name=在死亡時優先使用家園殼體？
-sync.config.prop.ratioRF.comment=Redstone Flux : Piggawatt的比列。\n1RF = <配置>PG\n預設為 1 RF 製造 2 PG
+sync.config.prop.ratioRF.comment=Redstone Flux : Piggawatt的比列。\n1RF = <設定>PG\n預設為 1 RF 製造 2 PG
 sync.config.prop.ratioRF.name=RF:PG比列
 sync.config.prop.reduceHealthOnDeathSync.comment=在死亡同步時減少血量（可疊加）？\n（2 = 1心）
 sync.config.prop.reduceHealthOnDeathSync.name=死亡時同步減少健康
@@ -35,8 +35,8 @@ sync.config.prop.shellConstructionPowerRequirement.comment=殼體建立需要的
 sync.config.prop.shellConstructionPowerRequirement.name=殼體構建功率需求
 sync.config.prop.shellStoragePowerRequirement.comment=以piggawatt為單位，每tick維持殼體收藏的能量需求。\n0 = 無需求
 sync.config.prop.shellStoragePowerRequirement.name=殼體儲存能源需求
-sync.config.prop.showAllShellInfoInGui.comment=在GUI裏顯示所有殼體的信息？\n0 = 不\n1 = 只有名字就好了\n2 = 對，全部都給我顯示！
-sync.config.prop.showAllShellInfoInGui.name=在GUI顯示所有殼體信息
+sync.config.prop.showAllShellInfoInGui.comment=在GUI裡顯示所有殼體的資訊？\n0 = 不\n1 = 只有名字就好了\n2 = 對，全部都給我顯示！
+sync.config.prop.showAllShellInfoInGui.name=在GUI顯示所有殼體資訊
 sync.isMorphed=無法使用! 你現在正處於變形狀態.
 sync.waila.active=啟用
 sync.waila.entity=實體名

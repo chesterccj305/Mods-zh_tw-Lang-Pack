@@ -1,4 +1,4 @@
-# Items
+﻿# Items
 item.flour.name=麵粉
 item.dough.name=生麵團
 
@@ -51,13 +51,13 @@ gui.horsepower.jei.category.press.fluid=壓（榨汁）
 gui.horsepower.jei.tooltip.chopping=切碎的時間: [%1] [%2->lap|laps]
 gui.horsepower.jei.tooltip.grinding=研磨的時間: [%1] [%2->lap|laps]
 gui.horsepower.jei.tooltip.pressing=壓榨的時間: [%1] [%2->lap|laps]
-gui.horsepower.jei.tooltip.grinding.chance=概率: [%1]%
+gui.horsepower.jei.tooltip.grinding.chance=機率: [%1]%
 gui.horsepower.jei.tooltip.manual.chopping=切碎數量: [%1]
 gui.horsepower.jei.tooltip.manual.chopping.desc.1=返還數量 (四捨五入): [%1]%
 gui.horsepower.jei.tooltip.manual.chopping.desc.2= +1機率: [%1]%
 gui.horsepower.jei.tooltip.manual.chopping.desc.3=返還數量以 [%1]%[%2] 在輸出槽中表示
 config.gui.general=基礎
-config.gui.client=客戶端
+config.gui.client=用戶端
 config.gui.recipes=合成配方
 config.gui.misc=雜項
 config.gui.recipes.grindstone=磨石配方
@@ -66,7 +66,7 @@ config.gui.recipes.chopping=砧板配方
 config.gui.recipes.manual_chopping=馬砧板配方
 config.gui.mobs=可用於驅動機器的生物列表
 config.gui.chopping_axes=可用於砧板的斧頭列表
-config.gui.harvest=收獲進度
+config.gui.harvest=收穫進度
 itemGroup.horsepower=馬的力量
 
 # Waila

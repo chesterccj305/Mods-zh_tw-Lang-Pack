@@ -1,4 +1,4 @@
-baublelicous.config.magnetSoundChance=磁鐵發聲概率
+﻿baublelicous.config.magnetSoundChance=磁鐵發聲機率
 item.ItemAmulet.name=護身符
 item.ItemAmuletFieryCore.name=火焰核心護身符
 item.ItemAmuletNightvision.name=夜視護身符

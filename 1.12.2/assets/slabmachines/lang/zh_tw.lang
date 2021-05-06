@@ -1,11 +1,11 @@
-#Creative Tab Name
+﻿#Creative Tab Name
 itemGroup.slabmachines=半磚設備
 
 #Config Name
-slabmachines.config.title=半磚設備模組配置
+slabmachines.config.title=半磚設備模組設定
 
 #blocks
-tile.slabmachines:workbenchslab.name=半磚工作台
+tile.slabmachines:workbenchslab.name=半磚工作檯
 tile.slabmachines:furnaceslab.name=半磚熔爐
 tile.slabmachines:trappedchestslab.name=半磚陷阱箱
 tile.slabmachines:chestslab.name=半磚箱子

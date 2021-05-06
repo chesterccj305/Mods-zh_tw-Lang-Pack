@@ -1,4 +1,4 @@
-
+﻿
 #繁體中文
 itemGroup.tab_better_diving=更好的潛水
 
@@ -56,7 +56,7 @@ item.standard_o2_tank.tooltip=增加潛水時間約 %d 秒
 item.wetsuit_leggings.tooltip=增加水下速度約 %d%%
 item.fins.tooltip=游泳速度提高約 %d%%
 
-item.rebreather.tooltip=在深度超過30米的情況下以正常效率潛水%s需要使用氧氣罐潛水
+item.rebreather.tooltip=在深度超過30公尺的情況下以正常效率潛水%s需要使用氧氣罐潛水
 item.high_capacity_o2_tank.tooltip=增加潛水時間約 %d 秒
 item.improved_wetsuit_leggings.tooltip=增加水下速度約 %d%%
 item.ultra_glide_fins.tooltip=游泳速度提高約 %d%%
@@ -76,8 +76,8 @@ item.lead.tooltip=鉛（Pb）。屏蔽輻射。
 item.gold.tooltip=金（Au）。良好的導電性能。高價值社會財產。
 item.titanium_ingot.tooltip=鈦（Ti）。濃縮鈦棒。
 item.wiring_kit.tooltip=絕緣銀線。基本電子元件。
-item.battery.tooltip=移動電源。
-item.power_cell.tooltip=大容量移動電源。
+item.battery.tooltip=行動電源。
+item.power_cell.tooltip=大容量行動電源。
 item.creepvine_seed_cluster.tooltip=高矽油含量的原生種子。
 item.silicone_rubber.tooltip=複合矽基橡膠。
 item.fiber_mesh.tooltip=天然纖維。舒服~
@@ -142,12 +142,12 @@ entity.boomerang.name=飛鏢魚
 
 #Config
 config.category_general=01 - 總體
-config.category_modules=02 - 模塊
+config.category_modules=02 - 模組
 config.category_ores=03 - 礦物
 config.category_plants=04 - 植物
 config.category_diving_values=05 - 潛水數值
 config.category_diving_gear=06 - 潛水服
-config.category_client_settings=07 - 客戶端設置
+config.category_client_settings=07 - 用戶端設置
 config.category_entity_settings=08 - 實體設置
 config.limestone=石灰岩
 config.sandstone=砂岩

@@ -1,4 +1,4 @@
-cont.box_large=大箱子
+﻿cont.box_large=大箱子
 cont.box_medium=中箱子
 cont.box_small=小箱子
 cont.cabinet_base=底櫃
@@ -43,7 +43,7 @@ gui.features=特性
 gui.hint_crafting=合成
 gui.hint_usage=用途
 gui.inventory=庫存清單
-gui.main_menu=主菜單
+gui.main_menu=主選單
 gui.mod_name=超多裝飾世界
 gui.mod_objects=類
 gui.operating_time=操作時間
@@ -68,7 +68,7 @@ gui.use_water_storage=持水桶單擊來儲存水
 gui.use_wool_for_cushion=放入羊毛作為墊子和墊背
 gui.use_wool_for_napkin=用羊毛作為餐巾
 gui.warning=警告
-gui.workbenches=工作台
+gui.workbenches=工作檯
 
 item.ingot_blkir.name=黑鐵錠
 item.nuggt_blkir.name=黑鐵粒
@@ -113,14 +113,14 @@ tile.beacm_iron.name=鐵樑連接體
 tile.beacm_blkir.name=黑鐵樑連接體
 
 tile.beacs_andes.name=安山岩樑連接體
-tile.beacs_cobbl.name=鵝卵石樑連接體
+tile.beacs_cobbl.name=鵝卵石梁連接體
 tile.beacs_diori.name=閃長岩樑連接體
 tile.beacs_grani.name=花崗岩樑連接體
-tile.beacs_prism.name=海磷石樑連接體
+tile.beacs_prism.name=海磷石梁連接體
 tile.beacs_quart.name=石英樑連接體
 tile.beacs_redsa.name=紅砂岩樑連接體
 tile.beacs_sands.name=砂岩樑連接體
-tile.beacs_stone.name=石樑連接體
+tile.beacs_stone.name=石梁連接體
 
 tile.beacw_acaci.name=相思桿連接體
 tile.beacw_birch.name=樺木桿連接體
@@ -151,21 +151,21 @@ tile.beamm_iron.name=鐵樑
 tile.beamm_blkir.name=黑鐵樑
 
 tile.beams_andes.name=安山岩樑
-tile.beams_cobbl.name=鵝卵石樑
+tile.beams_cobbl.name=鵝卵石梁
 tile.beams_diori.name=閃長岩樑
 tile.beams_grani.name=花崗岩樑
-tile.beams_prism.name=海磷石樑
+tile.beams_prism.name=海磷石梁
 tile.beams_quart.name=石英樑
 tile.beams_redsa.name=紅砂岩樑
 tile.beams_sands.name=砂岩樑
-tile.beams_stone.name=石樑
+tile.beams_stone.name=石梁
 
 tile.beamw_acaci.name=相思樑
-tile.beamw_birch.name=樺木樑
-tile.beamw_dkoak.name=黑橡木樑
-tile.beamw_jungl.name=叢林木樑
-tile.beamw_oak.name=橡木樑
-tile.beamw_spruc.name=杉木樑
+tile.beamw_birch.name=樺木梁
+tile.beamw_dkoak.name=黑橡木梁
+tile.beamw_jungl.name=叢林木梁
+tile.beamw_oak.name=橡木梁
+tile.beamw_spruc.name=杉木梁
 
 tile.benwd_acaci.name=相思長凳
 tile.benwd_birch.name=樺木長凳
@@ -580,12 +580,12 @@ tile.panwr_jungl.name=粗製叢林木鑲板
 tile.panwr_oak.name=粗製橡木鑲板
 tile.panwr_spruc.name=粗製杉木鑲板
 
-tile.panws_acaci.name=精制相思木鑲板
-tile.panws_birch.name=精制樺木鑲板
-tile.panws_dkoak.name=精制黑橡木鑲板
-tile.panws_jungl.name=精制叢林木鑲板
-tile.panws_oak.name=精制橡木鑲板
-tile.panws_spruc.name=精制杉木鑲板
+tile.panws_acaci.name=精製相思木鑲板
+tile.panws_birch.name=精製樺木鑲板
+tile.panws_dkoak.name=精製黑橡木鑲板
+tile.panws_jungl.name=精製叢林木鑲板
+tile.panws_oak.name=精製橡木鑲板
+tile.panws_spruc.name=精製杉木鑲板
 
 tile.plrlc_blk.name=粗黑色混凝土柱子
 tile.plrlc_blu.name=粗藍色混凝土柱子
@@ -930,12 +930,12 @@ tile.trmwr_jungl.name=粗製叢林木十字裁板
 tile.trmwr_oak.name=粗製橡木十字裁板
 tile.trmwr_spruc.name=粗製杉木十字裁板
 
-tile.trmws_acaci.name=精制相思木十字裁板
-tile.trmws_birch.name=精制樺木十字裁板
-tile.trmws_dkoak.name=精制黑橡木十字裁板
-tile.trmws_jungl.name=精制叢林木十字裁板
-tile.trmws_oak.name=精制橡木十字裁板
-tile.trmws_spruc.name=精制杉木十字裁板
+tile.trmws_acaci.name=精製相思木十字裁板
+tile.trmws_birch.name=精製樺木十字裁板
+tile.trmws_dkoak.name=精製黑橡木十字裁板
+tile.trmws_jungl.name=精製叢林木十字裁板
+tile.trmws_oak.name=精製橡木十字裁板
+tile.trmws_spruc.name=精製杉木十字裁板
 
 tile.whlba_acaci.name=相思木手推車
 tile.whlba_birch.name=樺木手推車

@@ -1,4 +1,4 @@
-item.baseupgradeitem.name=基礎抓勾升級
+﻿item.baseupgradeitem.name=基礎抓勾升級
 item.doubleupgradeitem.name=雙抓勾升級
 item.enderhook.name=終界抓勾
 item.forcefieldupgradeitem.name=力場抓勾升級
@@ -13,7 +13,7 @@ item.motorupgradeitem.name=機動抓勾升級
 item.multihook.name=雙機動抓勾
 item.repeller.name=磁力力場
 item.ropeupgradeitem.name=繩抓勾升級
-item.smarthook.name=智能機動抓勾
+item.smarthook.name=智慧機動抓勾
 item.staffupgradeitem.name=終界手杖抓勾升級
 item.swingupgradeitem.name=擺動抓勾升級
 item.throwupgradeitem.name=抓勾丟出升級

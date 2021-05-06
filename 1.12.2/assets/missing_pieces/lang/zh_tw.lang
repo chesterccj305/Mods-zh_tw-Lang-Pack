@@ -1,4 +1,4 @@
-                // Titles
+﻿                // Titles
 gui.configuration.basecandelabras.tooltip=啟用或禁用基礎金屬燭架
 gui.configuration.basecandelabras=基礎金屬燭架
 gui.configuration.baselamps.tooltip=啟用或禁用基礎金屬燈
@@ -9,8 +9,8 @@ gui.configuration.chairs.tooltip=啟用或禁用椅子
 gui.configuration.chairs=椅子
 gui.configuration.lamps.tooltip=啟用或禁用燈
 gui.configuration.lamps=燈
-gui.configuration.main_title.name=Missing Pieces 配置
-gui.configuration.main_title=Missing Pieces 配置
+gui.configuration.main_title.name=Missing Pieces 設定
+gui.configuration.main_title=Missing Pieces 設定
 gui.configuration.mineralpillars.tooltip=啟用或禁用礦物學柱子
 gui.configuration.mineralpillars=礦物學柱子
 gui.configuration.mineralwedges.tooltip=啟用或禁用礦物學楔子

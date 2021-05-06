@@ -1,4 +1,4 @@
-#PARSE_ESCAPES
+﻿#PARSE_ESCAPES
 # ^ having this in the first line allows us to use "\uXXXX" escapes in this file
 
 #***  Ender IO Foresty INT*****#
@@ -23,6 +23,6 @@ enderio.darksteel.upgrade.apiarist_armor.legs.tooltip.detailed.line1=提供保�
 enderio.darksteel.upgrade.apiarist_armor.feet.name=養蜂人之鞋
 enderio.darksteel.upgrade.apiarist_armor.feet.tooltip.detailed.line1=提供保護以減少蜜蜂的傷害
 
-enderio.config.items.darksteel.upgrades.forestry=林業聯動升級
+enderio.config.items.darksteel.upgrades.forestry=林業同步升級
 
 item.item_species_item_filter.name=物種物品過濾器

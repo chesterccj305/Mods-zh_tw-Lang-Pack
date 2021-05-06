@@ -1,4 +1,4 @@
-item.material.oreprefix.oreChunk=%s礦物碎塊
+﻿item.material.oreprefix.oreChunk=%s礦物碎塊
 item.material.oreprefix.oreNetherChunk=%s礦物碎塊
 item.material.oreprefix.oreEnderChunk=%s礦物碎塊
 item.material.oreprefix.oreFineChunk=粉碎%s礦物
@@ -28,11 +28,11 @@ gregblockutils.machine.attractor.uv.name=進階蜜蜂吸引子 VII
 gregblockutils.machine.pump.steam.name=蒸汽泵
 gregblockutils.machine.sieve.steam.name=蒸汽篩
 
-gregblockutils.machine.rock_breaker.steam.name=蒸汽碎巖機
+gregblockutils.machine.rock_breaker.steam.name=蒸汽碎岩機
 
 item.material.oreprefix.oreChunk=%s礦物碎塊
 item.material.oreprefix.oreEnderChunk=終界%s礦物碎塊
-item.material.oreprefix.oreNetherChunk=下界%s礦物碎塊
+item.material.oreprefix.oreNetherChunk=地獄%s礦物碎塊
 item.material.oreprefix.oreSandyChunk=含沙%s礦物碎塊
 
 item.gbpebble.basalt.name=玄武岩卵石

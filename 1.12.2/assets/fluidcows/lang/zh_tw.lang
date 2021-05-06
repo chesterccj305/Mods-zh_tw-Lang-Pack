@@ -1,4 +1,4 @@
-entity.fluidcows.fluidcow.name=流體牛
+﻿entity.fluidcows.fluidcow.name=流體牛
 item.fluidcows.cow_displayer.name=牛顯示器
 item.fluidcows.cow_halter.name=牛韁繩
 itemGroup.fluidcows=流體牛

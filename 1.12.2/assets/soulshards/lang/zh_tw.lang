@@ -1,4 +1,4 @@
-# Creative Tab
+﻿# Creative Tab
 itemGroup.soulshardsrespawn=重生靈魂碎片
 
 # Items
@@ -6,8 +6,8 @@ item.soulshardsrespawn.soul_shard.name=靈魂碎片
 item.soulshardsrespawn.soul_shard_unbound.name=靈魂碎片(未綁定)
 item.soulshardsrespawn.corrupted_ingot.name=腐化金屬錠
 item.soulshardsrespawn.corrupted_essence.name=腐化精華
-item.soulshardsrespawn.vile_dust.name=污穢粉末
-item.soulshardsrespawn.vile_sword.name=污穢劍
+item.soulshardsrespawn.vile_dust.name=汙穢粉末
+item.soulshardsrespawn.vile_sword.name=汙穢劍
 
 # Blocks
 tile.soulshardsrespawn.soul_cage.name=靈魂
@@ -47,7 +47,7 @@ commands.soulshardsrespawn.error.not_a_entity=%s 無效或未註冊。
 modifier.soul_stealer.name=竊魂
 modifier.soul_stealer.desc=每次擊殺給予靈魂碎片更多的靈魂
 modifier.soul_stealer.extra=獲得的靈魂：+%s
-modifier.vile.name=污穢
+modifier.vile.name=汙穢
 modifier.vile.desc=每次擊殺給予靈魂碎片更多的靈魂
 material.corrupted.name=損壞
 fluid.soulshardsrespawn.corrupted.name=熔融腐化

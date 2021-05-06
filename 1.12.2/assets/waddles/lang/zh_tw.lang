@@ -1,4 +1,4 @@
-#Entity
+﻿#Entity
 entity.waddles:adelie_penguin.name=阿德利企鵝
 
 #Subtitles
@@ -9,4 +9,4 @@ waddles:subtitles.adelie.hurt=阿德利企鵝：受到傷害
 
 #Tooltip
 waddles:config.category.general.tooltip=基礎設置
-waddles:config.category.spawnchances.tooltip=生成概率設置
+waddles:config.category.spawnchances.tooltip=生成機率設置

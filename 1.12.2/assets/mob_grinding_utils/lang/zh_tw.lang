@@ -1,4 +1,4 @@
-#Blocks
+﻿#Blocks
 tile.mob_grinding_utils.fan.name=怪物風扇
 tile.mob_grinding_utils.saw.name=怪物搗碎器
 tile.mob_grinding_utils.absorption_hopper.name=吸收漏斗
@@ -42,12 +42,12 @@ tooltip.fan_1=在風扇面朝的方向推動實體
 tooltip.fan_2=範圍可以使用怪物風扇升級來修改
 tooltip.fan_3=作用效果能在GUI中調整。
 
-tooltip.saw_1=高級的模塊化的怪物屠宰機
+tooltip.saw_1=高級的模組化的怪物屠宰機
 tooltip.saw_2=可以放入怪物搗碎機升級來增加各種功能
 tooltip.saw_3=怪物搗碎器能將殺怪計入玩家擊殺數。
 
 tooltip.hopper_1=在7x7x7的區域吸取物品和XP球。
-tooltip.hopper_2=可以配置向任何一邊輸出。
+tooltip.hopper_2=可以設定向任何一邊輸出。
 tooltip.hopper_3=液體將輸入儲罐，物品將輸入箱子
 tooltip.hopper_4=範圍通過吸取半徑升級增加。
 tooltip.hopper_5=作用效果能在GUI中調整。
@@ -73,7 +73,7 @@ tooltip.entityconveyor_1=傳送器可將怪物與物品沿水平方向移動。
 tooltip.entityconveyor_2=怪物可以在這個方塊上生成。
 
 tooltip.enderinhibitor_1=在最大8格範圍內抑制實體傳送。
-tooltip.enderinhibitor_2=能貼在實心方塊的任意麵。
+tooltip.enderinhibitor_2=能貼在實心方塊的任義大利麵。
 tooltip.enderinhibitor_3=右鍵來 啟用/關閉。
 
 #Item Tool tips

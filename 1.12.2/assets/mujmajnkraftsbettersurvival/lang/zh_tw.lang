@@ -1,4 +1,4 @@
-item.debug.name=除錯
+﻿item.debug.name=除錯
 item.crossbow.name=十字弓
 item.bigshield.name=大盾牌
 item.smallshield.name=圓盾牌
@@ -137,7 +137,7 @@ enchantment.mujmajnkraftsbettersurvival.disarm.desc=你的攻擊更有機會解�
 enchantment.mujmajnkraftsbettersurvival.education.desc=增加你在殺死敵人後可獲得的經驗值。
 enchantment.mujmajnkraftsbettersurvival.fling.desc=將你打到的敵人丟到空中。
 enchantment.mujmajnkraftsbettersurvival.highjump.desc=增加跳躍高度。
-enchantment.mujmajnkraftsbettersurvival.multishot.desc=讓你一次射出多支箭。
+enchantment.mujmajnkraftsbettersurvival.multishot.desc=讓你一次射出多枝箭。
 enchantment.mujmajnkraftsbettersurvival.range.desc=讓你射出的箭飛得更快更遠。
 enchantment.mujmajnkraftsbettersurvival.penetration.desc=使物品造成的部分傷害可穿透護甲。
 enchantment.mujmajnkraftsbettersurvival.rapidfire.desc=增加弓或十字弓的拉弓速度。

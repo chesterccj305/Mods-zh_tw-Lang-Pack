@@ -1,4 +1,4 @@
-itemGroup.Curio=古玩
+﻿itemGroup.Curio=古玩
 
 #ITEMS
 item.curio.ItemCurioBook.name=奇異的古玩
@@ -54,8 +54,8 @@ curio.ItemWaterShard.description=用於製作配方。通過開採水晶獲得�
 curio.ItemEarthShard.description=用於製作配方。通過開採水晶獲得的。
 curio.ItemFireShard.description=U用於製作配方。通過開採水晶獲得的。
 
-curio.ItemMysticCrystalDust.description=通過使用注入的神秘水晶恢復經驗獲得。可以重新製作成水晶。
-curio.ItemMysticCrystal.description=用於製作配方。可以注入經驗。 （右鍵單擊以返回經驗，並釋放灰塵）。通過在輸液表中添加青金石來選擇輸液級別。 1青金石是一步。
+curio.ItemMysticCrystalDust.description=透過使用注入的神秘水晶恢復經驗獲得。可以重新製作成水晶。
+curio.ItemMysticCrystal.description=用於製作配方。可以注入經驗。 （右鍵單擊以返回經驗，並釋放灰塵）。透過在打點滴表中添加青金石來選擇打點滴級別。 1青金石是一步。
 
 curio.ItemBeltWaterWalking.description=讓您在水上行走。按下Shift鍵可退回水中。
 curio.ItemDivingAmulet.description==讓您在水下呼吸。
@@ -78,8 +78,8 @@ curio.BlockWaterCrystal.description=在大型水體的底部發現。
 curio.BlockEarthCrystal.description=在森林地區發現。
 curio.BlockAirCrystal.description=在最高的山上發現。
 
-curio.BlockInfusionTable.description=將具有經驗的物品注入！通過在不可輸液項目之後添加青金石來選擇級別，以選擇級別。右鍵單擊以開始輸液，而Shift +右鍵單擊以刪除該項目。
-curio.BlockPedestal.description=顯示任何項目！如果該物品是小玩意，則基座將把該小玩意的效果提供給將方塊放置在25個方塊區域中的玩家。
+curio.BlockInfusionTable.description=將具有經驗的物品注入！透過在不可打點滴項目之後添加青金石來選擇級別，以選擇級別。右鍵單擊以開始打點滴，而Shift +右鍵單擊以刪除該項目。
+curio.BlockPedestal.description=顯示任何項目！如果該物品是小東西，則基座將把該小東西的效果提供給將方塊放置在25個方塊區域中的玩家。
 
 #KEYBINDS
 curio.category.curio=古玩

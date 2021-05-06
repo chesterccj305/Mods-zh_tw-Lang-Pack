@@ -1,4 +1,4 @@
-error.shetiphian.team.noteam.txt=你不在組之中
+﻿error.shetiphian.team.noteam.txt=你不在組之中
 error.shetiphian.team.wrong.txt=這東西被另一個組所擁有
 fluid.tile.lava=熔岩
 fluid.tile.water=水
@@ -13,7 +13,7 @@ info.north=北
 info.right=右
 info.shetiphian.creativeolny.txt=§e創造模式專用
 info.shetiphian.guide.txt=Fruzstrated的指導手冊
-info.shetiphian.holdshift.txt=§2按下SHIFT查看更多信息
+info.shetiphian.holdshift.txt=§2按下SHIFT查看更多資訊
 info.shetiphian.unused.name=未使用的物品
 info.south=南
 info.top=頂

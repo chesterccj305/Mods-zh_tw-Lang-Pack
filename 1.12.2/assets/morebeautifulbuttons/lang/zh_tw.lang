@@ -1,4 +1,4 @@
-language.name=繁體中文
+﻿language.name=繁體中文
 language.region=tw
 language.code=zh_tw
 itemGroup.morebeautifulbuttons=更多按鈕！！！
@@ -200,6 +200,6 @@ tile.morebeautifulbuttons.lapis_ore_button.name=青金石礦石按鈕
 tile.morebeautifulbuttons.lapis_block_button.name=青金石塊按鈕
 tile.morebeautifulbuttons.gold_block_button.name=金塊按鈕
 tile.morebeautifulbuttons.quartz_ore_button.name=石英礦石按鈕
-tile.morebeautifulbuttons.hay_block_button.name=幹草塊按鈕
+tile.morebeautifulbuttons.hay_block_button.name=乾草塊按鈕
 tile.morebeautifulbuttons.magma_button.name=岩漿按鈕
 tile.morebeautifulbuttons.block_of_quartz_button.name=石英塊按鈕

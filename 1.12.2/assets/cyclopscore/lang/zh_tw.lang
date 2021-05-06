@@ -1,7 +1,7 @@
-# General
+﻿# General
 itemGroup.cyclopscore=Cyclops核心
 general.cyclopscore.dev_world=開發世界
-general.cyclopscore.tooltip.info=<按下Shift以查看信息>
+general.cyclopscore.tooltip.info=<按下Shift以查看資訊>
 general.cyclopscore.info.enabled=§a開啟
 general.cyclopscore.info.disabled=關閉
 general.cyclopscore.version.updateAvailable=有可用的更新
@@ -25,11 +25,11 @@ chat.cyclopscore.command.invalidNewValue=無效的新數值
 chat.cyclopscore.command.updatedValue=更新%s到: %s
 chat.cyclopscore.command.invalidPlayer=玩家“%s”未找到
 chat.cyclopscore.command.ignitedPlayer=玩家“%s”在火中燃燒了%s秒
-chat.cyclopscore.command.noConfigsFound=沒有可設置的配置數值
+chat.cyclopscore.command.noConfigsFound=沒有可設置的設定數值
 
 # Multiblock
 multiblock.cyclopscore.error.invalidBlock=%s包含無效的方塊%s。
-multiblock.cyclopscore.error.size.cube=%s的形狀不是立方體，棱長不相等。
+multiblock.cyclopscore.error.size.cube=%s的形狀不是立方體，稜長不相等。
 multiblock.cyclopscore.error.size.exact=找到尺寸%s，而需求尺寸為%s。
 multiblock.cyclopscore.error.size.max=找到尺寸%s，而最大尺寸為%s。
 multiblock.cyclopscore.error.size.min=找到尺寸%s，而最小尺寸為%s。
@@ -61,8 +61,8 @@ config.cyclopscore.enchantment=附魔設置
 config.cyclopscore.enchantment.tooltip=附魔設置
 config.cyclopscore.mob=怪物設置
 config.cyclopscore.mob.tooltip=怪物設置
-config.cyclopscore.biome=生物群系生成設置
-config.cyclopscore.biome.tooltip=生物群系生成設置
+config.cyclopscore.biome=生態域生成設置
+config.cyclopscore.biome.tooltip=生態域生成設置
 config.cyclopscore.machine=機器設置
 config.cyclopscore.machine.tooltip=機器設置
 config.cyclopscore.potion=藥水設置

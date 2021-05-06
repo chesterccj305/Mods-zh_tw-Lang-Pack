@@ -1,4 +1,4 @@
-entity.hatedmobs.mosquito.name=蚊子
+﻿entity.hatedmobs.mosquito.name=蚊子
 entity.hatedmobs.silk_spider.name=吐絲蜘蛛
 entity.hatedmobs.giant_spider.name=巨型蜘蛛
 entity.hatedmobs.wasp.name=黃蜂
@@ -54,11 +54,11 @@ hatedmobs.giant_spider_biomes=每個生態系的巨型蜘蛛
 hatedmobs.toad_biomes=每個生態系的蟾蜍
 hatedmobs.scorpion_biomes=每個生態系的蠍子
 hatedmobs.slug_biomes=每個生態系的蛞蝓
-hatedmobs.mosquito_biomes.tooltip=生態系到蚊子生成的映射，更多的是頻率更高。密鑰是生物群系ID
-hatedmobs.giant_spider_biomes.tooltip=生態系到巨型蜘蛛生成的映射，更多的是頻率更高。密鑰是生物群系ID
-hatedmobs.toad_biomes.tooltip=生態系到蟾蜍生成的映射，更多的是頻率更高。密鑰是生物群系ID
-hatedmobs.scorpion_biomes.tooltip=生態系到蠍子生成的映射，更多的是頻率更高。密鑰是生物群系ID
-hatedmobs.slug_biomes.tooltip=生態系到蛞蝓生成的映射，更多的是頻率更高。密鑰是生物群系ID
+hatedmobs.mosquito_biomes.tooltip=生態繫到蚊子生成的映射，更多的是頻率更高。金鑰是生態域ID
+hatedmobs.giant_spider_biomes.tooltip=生態繫到巨型蜘蛛生成的映射，更多的是頻率更高。金鑰是生態域ID
+hatedmobs.toad_biomes.tooltip=生態繫到蟾蜍生成的映射，更多的是頻率更高。金鑰是生態域ID
+hatedmobs.scorpion_biomes.tooltip=生態繫到蠍子生成的映射，更多的是頻率更高。金鑰是生態域ID
+hatedmobs.slug_biomes.tooltip=生態繫到蛞蝓生成的映射，更多的是頻率更高。金鑰是生態域ID
 hatedmobs.mosquito_default_name.tooltip=未定義於生態系列表中的生態系當中，蚊子的預設生成率
 hatedmobs.giant_spider_default_name.tooltip=未定義於生態系列表中的生態系當中，巨型蜘蛛的預設生成率
 hatedmobs.toad_default.tooltip=未定義於生態系列表中的生態系當中，蟾蜍的預設生成率
@@ -74,5 +74,3 @@ hatedmobs.ant_toggle=螞蟻
 attribute.name.hatedmobs.silk_walk=在蜘蛛網中依然有正常的動速度
 
 itemGroup.hatedmobs=令人討厭的怪物
-
-
