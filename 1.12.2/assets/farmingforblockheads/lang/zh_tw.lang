@@ -9,11 +9,11 @@ item.farmingforblockheads:fertilizer_healthy.name=紅肥
 item.farmingforblockheads:fertilizer_rich.name=綠肥
 item.farmingforblockheads:fertilizer_stable.name=黃肥
 
-itemGroup.farmingforblockheads=懶人種田
+itemGroup.farmingforblockheads==傻瓜農場
 
 container.farmingforblockheads:market=小市場
 
-commands.farmingforblockheads:reload.success=懶人種田註冊項重載完成。
+commands.farmingforblockheads:reload.success=傻瓜農場註冊項重載完成。
 
 gui.farmingforblockheads:market.no_selection=未選擇
 gui.farmingforblockheads:market.cost=%dx %s
