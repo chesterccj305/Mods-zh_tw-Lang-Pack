@@ -1,0 +1,23 @@
+{
+  "sortnum": 19,
+  "name": "女僕娛樂方塊",
+  "icon": "touhou_little_maid:maid_joy",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_joy{MaidJoyType:'reading'}",
+      "text": "這些都是多方塊結構，所以請放在有足夠空間的地方。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_joy{MaidJoyType:'piano'}",
+      "text": "女僕會隨機在這些方塊上遊玩，遊玩時女僕的好感度會緩慢上升。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_joy{MaidJoyType:'live'}",
+      "text": "當然，如果遇到了敵對性生物等危險情況，女僕們還是會主動跑開。$(br2)畢竟生命永遠比娛樂本身更加重要。"
+    }
+  ]
+}

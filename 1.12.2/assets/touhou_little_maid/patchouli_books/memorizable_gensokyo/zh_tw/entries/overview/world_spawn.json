@@ -1,0 +1,26 @@
+{
+  "sortnum": 1,
+  "name": "世界生成",
+  "icon": "minecraft:spawn_egg{EntityTag:{id:'touhou_little_maid:entity.passive.maid'}}",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "text",
+      "text": "這個模組添加了兩種怪物。$(br2)怪物的掉落物是重要的合成材料。$(br2)本模組敵對性生物的生成幾率均可在配置文件中進行修改，設置為 0 時可以禁止這些怪物生成。"
+    },
+    {
+      "type": "entity",
+      "entity": "touhou_little_maid:entity.monster.fairy{OnGround:true}",
+      "offset": 0.125,
+      "text": "在平原生物群系的夜晚生成，會以飛行狀態彈幕攻擊玩家和女僕。",
+      "anchor": "fairy"
+    },
+    {
+      "type": "entity",
+      "entity": "touhou_little_maid:entity.monster.rinnosuke",
+      "offset": 0.125,
+      "text": "在森林生物群系的夜晚生成，會攻擊玩家和女僕。",
+      "anchor": "rinnosuke"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "sortnum": 9,
+  "name": "抽卡",
+  "icon": "touhou_little_maid:maid_model_coupon:5",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "當在配置文件中將自由切換女僕模型功能關閉時，我們為其設計了新的切換皮膚功能。$(br2)類似於抽卡遊戲，玩家消耗綠寶石或者扭蛋幣來抽取扭蛋，通過扭蛋獲取模型券。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon_machines",
+      "text": "用綠寶石或者扭蛋幣右擊扭蛋機獲取扭蛋，扭蛋的等級和概率均可在配置文件中自定義。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon:4",
+      "text": "右擊來獲取模型券。不同等級的扭蛋會得到不同等級的模型券。$(br2)概率可通過 csv 文件自定義，具體可查看本模組的 wiki。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_model_coupon:5",
+      "text": "右擊女僕應用模型。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:gashapon_coin",
+      "text": "殺死霖之助會獲得一定數量的扭蛋幣。其次，你可以通過模型券合成來得到扭蛋幣。"
+    }
+  ]
+}

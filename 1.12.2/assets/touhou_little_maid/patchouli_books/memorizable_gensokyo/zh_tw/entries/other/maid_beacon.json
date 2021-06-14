@@ -1,0 +1,17 @@
+{
+  "sortnum": 4,
+  "name": "神社庭燈",
+  "icon": "touhou_little_maid:maid_beacon",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_beacon",
+      "text": "神社庭燈既是一個不錯的裝飾物，還具有一定的實用功能。$(br2)神社庭燈右擊上部能夠打開 GUI，存儲玩家的 P 點，同時還能點擊按鈕選擇相應的效果，這些效果會消耗 P 點來為周圍範圍的女僕帶來對應增益效果。"
+    },
+    {
+      "type": "text",
+      "text": "神社庭燈還是一個自動收集 P 點的好工具，它能夠自動收集其三格範圍內的 P 點，並將其存儲起來。"
+    }
+  ]
+}

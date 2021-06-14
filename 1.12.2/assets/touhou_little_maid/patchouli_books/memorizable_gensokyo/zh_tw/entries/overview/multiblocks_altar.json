@@ -1,0 +1,31 @@
+{
+  "sortnum": 4,
+  "name": "多方塊祭壇",
+  "icon": "minecraft:wool:14",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "text",
+      "text": "祭壇是本模組用於合成所必需的多方塊結構。$(br2)祭壇的合成表可以通過 JEI 獲取，合成同時還需要玩家的$(l:overview/power_point)power 值$()。"
+    },
+    {
+      "type": "multiblock",
+      "name": "祭壇",
+      "multiblock_id": "touhou_little_maid:altar",
+      "text": "使用$(l:overview/gohei_and_danmaku)御幣$()右擊第四層中間偏左的紅色羊毛正面，能夠構建祭壇。"
+    },
+    {
+      "type": "text",
+      "text": "你可以右擊六個橡木柱子的頂端來放置物品。通過空手 Shift 右擊來移除物品。$(br2)當物品完全放置且玩家的 Power 值足夠，祭壇就能觸發合成。$(br2)因為缺少 Power 而導致的合成中斷，在獲取足夠 Power 以後，再次右擊可以重新觸發合成。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/altar_craft.png"
+      ],
+      "title": "祭壇合成",
+      "border": true,
+      "text": "展示了生成閃電的合成，謹記所有的合成都是無序合成。"
+    }
+  ]
+}

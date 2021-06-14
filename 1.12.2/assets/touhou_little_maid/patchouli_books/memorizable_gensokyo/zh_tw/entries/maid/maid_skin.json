@@ -1,0 +1,28 @@
+{
+  "sortnum": 3,
+  "name": "皮膚",
+  "icon": "touhou_little_maid:garage_kit{ModelId:'touhou_little_maid:komeiji_koishi'}",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "女僕的皮膚完全可以自定義，你可以很輕鬆的在遊戲內切換女僕的皮膚。$(br2)你可以添加第三方的資源包來增加女僕皮膚樣式。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/change_skin.png"
+      ],
+      "title": "更改皮膚按鈕",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "在女僕 GUI 的下方能夠打開資源包下載界面，在那裡你可以下載其他玩家製作的女僕模型資源包。$(br2)下載資源包以後，只需要在遊戲內加載它即可使用更多的女僕模型。"
+    },
+    {
+      "type": "text",
+      "text": "只需要使用 $(l:https://blockbench.net/)Blockbench$(/l) 軟件即可輕鬆創作你自己的女僕皮膚資源包。$(br2)女僕皮膚模型完全兼容 1.10.0 基岩版本實體模型。$(br2)瞭解關於更多自定義皮膚的信息，請查詢 Wiki。"
+    }
+  ]
+}

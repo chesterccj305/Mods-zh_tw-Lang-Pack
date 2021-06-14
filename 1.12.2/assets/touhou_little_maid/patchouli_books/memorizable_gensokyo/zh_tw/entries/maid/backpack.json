@@ -1,0 +1,17 @@
+{
+  "sortnum": 10,
+  "name": "背包",
+  "icon": "touhou_little_maid:maid_backpack",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_backpack",
+      "text": "背包可用於拓展女僕的物品欄，只需要手持背包右擊女僕即可應用。背包有三個等級。$(br2)使用相機移除女僕的背包，實體背包可以 shift 左擊打掉。"
+    },
+    {
+      "type": "text",
+      "text": "在女僕裝備了背包後，會依據其物品欄物品數量往周圍的漏斗進行丟擲。$(br2)漏鬥上方可以用展示框標記白名單物品，女僕不會向被紅石信號鎖住的漏斗裡丟擲物品。$(li)默認：女僕在背包半滿時，會從其物品欄第 8 格丟擲物品$(li)標記白名單的漏斗：女僕在背包半滿時，會嘗試丟擲背包內所有該物品。"
+    }
+  ]
+}

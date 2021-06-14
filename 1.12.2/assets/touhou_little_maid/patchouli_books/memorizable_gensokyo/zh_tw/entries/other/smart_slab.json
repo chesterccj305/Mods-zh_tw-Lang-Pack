@@ -1,0 +1,17 @@
+{
+  "sortnum": 22,
+  "name": "魂符",
+  "icon": "touhou_little_maid:smart_slab",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:smart_slab",
+      "text": "這可不是一塊普通的紙，它附上了遠古女僕的靈魂。$(br)每個玩家在剛剛出生時會獲得一塊魂符，右擊就可以釋放出一隻女僕。魂符可以重複利用，你可以右擊女僕將其裝回石板中。"
+    },
+    {
+      "type": "text",
+      "text": "在地牢戰利品箱中也能非常罕見的發現魂符。$(br2)你可以通過配置禁用上述兩個魂符獲取方式，魂符同樣會被「玩家女僕數量上限」配置所限制住。"
+    }
+  ]
+}
