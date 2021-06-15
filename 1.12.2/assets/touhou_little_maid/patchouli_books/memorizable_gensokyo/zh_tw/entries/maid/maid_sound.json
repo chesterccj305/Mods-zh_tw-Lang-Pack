@@ -1,0 +1,12 @@
+{
+  "sortnum": 11,
+  "name": "女僕音效",
+  "icon": "minecraft:jukebox",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "你可以製作自定義聲音包來替換、擴充女僕的音效。$(br2)在女僕主界面的下方有相關按鈕，點擊即可打開聲音素材播放界面。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sortnum": 3,
+  "name": "魔理沙的掃帚",
+  "icon": "touhou_little_maid:marisa_broom",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:marisa_broom",
+      "text": "掃帚是一個方便的飛行工具，玩家可以右擊騎上，配合鼠標視角、鍵盤的 AWSD 鍵進行飛行操作。$(br2)女僕在靠近掃帚時也會主動坐上去，坐上掃帚的女僕在絕大多數情況下將會以飛行模式進行移動。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/broom.png"
+      ],
+      "title": "魔理沙的掃帚",
+      "border": true,
+      "text": "騎在掃帚上的女僕。"
+    },
+    {
+      "type": "text",
+      "text": "不過目前僅允許創造模式玩家騎乘掃帚，你可以修改配置文件關閉此功能。"
+    }
+  ]
+}

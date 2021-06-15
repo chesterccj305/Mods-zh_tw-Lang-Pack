@@ -1,0 +1,17 @@
+{
+  "sortnum": 5,
+  "name": "旗幟",
+  "icon": "touhou_little_maid:hata_sasimono",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "touhou_little_maid:hata_sasimono",
+      "text": "女僕會傷害玩家，乃至其他女僕和寵物，旗幟就是為此設計的。"
+    },
+    {
+      "type": "text",
+      "text": "合成一個旗幟，接著右擊女僕可以為其添加旗幟。在女僕的主 GUI 中你可以找到對應切換旗幟樣式的按鈕。$(br2)你也可以自定義自己的旗幟，通過查找 Wiki 來獲取幫助。"
+    }
+  ]
+}

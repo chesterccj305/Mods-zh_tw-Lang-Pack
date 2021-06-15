@@ -1,0 +1,18 @@
+{
+  "sortnum": 2,
+  "name": "相機與相冊",
+  "icon": "touhou_little_maid:album",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:camera",
+      "text": "在跨維度或者遠距離攜帶女僕是一個麻煩的事情，相機就是為此設計的。$(br2)只需要用相機對著自己的女僕拍攝就能將其變成照片，之後拿著照片對著方塊右擊又可以將其釋放出來。"
+    },
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:album",
+      "text": "如果在玩家身上擁有相冊時，使用相機，得到的照片會直接進入相冊，而後拿著相冊右擊就可以逐次放置出女僕了。"
+    }
+  ]
+}

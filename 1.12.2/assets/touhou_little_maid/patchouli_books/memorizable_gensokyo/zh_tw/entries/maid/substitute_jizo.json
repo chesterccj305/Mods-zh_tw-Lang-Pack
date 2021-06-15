@@ -1,0 +1,13 @@
+{
+  "sortnum": 8,
+  "name": "替身地藏",
+  "icon": "touhou_little_maid:substitute_jizo",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:substitute_jizo",
+      "text": "替身地藏是一個創造模式物品，右擊女僕可將其切換為無敵模式。"
+    }
+  ]
+}

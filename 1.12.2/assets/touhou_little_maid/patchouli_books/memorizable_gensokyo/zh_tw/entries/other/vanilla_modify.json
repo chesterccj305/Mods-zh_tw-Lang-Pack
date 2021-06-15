@@ -1,0 +1,20 @@
+{
+  "sortnum": 8,
+  "name": "原版修改",
+  "icon": "minecraft:book",
+  "category": "other",
+  "pages": [
+    {
+      "type": "text",
+      "text": "本模組的配置文件部分添加了對原版兩個實體模型的修改。$(br2)一個可以將原版史萊姆修改為油庫裡模型，另一個可以將原版經驗球模型修改為得分道具。$(br2)你還可以將原版的不死圖騰修改為命點道具的材質。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/yukkuri.png"
+      ],
+      "title": "油庫裡",
+      "border": true
+    }
+  ]
+}

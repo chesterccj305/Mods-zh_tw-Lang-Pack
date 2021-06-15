@@ -1,0 +1,17 @@
+{
+  "sortnum": 7,
+  "name": "河童的羅盤",
+  "icon": "touhou_little_maid:kappa_compass",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:kappa_compass",
+      "text": "羅盤是配合女僕的 Home 模式使用的，右擊方塊可以記錄坐標，而後右擊女僕可以為其設置坐標。"
+    },
+    {
+      "type": "text",
+      "text": "羅盤擁有四個模式：$(br)$(li)單點模式：女僕會在設定坐標點內 16 格內活動$(li)多點折返：女僕會沿著設定的坐標來回移動$(li)多點閉合：女僕會沿著設定的坐標循環移動$(li)設置範圍：女僕只會在設置的範圍內活動"
+    }
+  ]
+}

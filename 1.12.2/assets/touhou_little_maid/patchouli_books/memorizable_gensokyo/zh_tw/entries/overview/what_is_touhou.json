@@ -1,0 +1,23 @@
+{
+  "sortnum": 0,
+  "name": "東方 Project",
+  "icon": "touhou_little_maid:hakurei_gohei",
+  "category": "overview",
+  "pages": [
+    {
+      "type": "link",
+      "text": "東方 Project 是日本同人社團上海愛麗絲幻樂團製作的一系列同人作品，系列以清版彈幕射擊遊戲為主。",
+      "url": "https://thwiki.cc/",
+      "link_text": "THB Wiki"
+    },
+    {
+      "type": "image",
+      "images": [
+        "touhou_little_maid:textures/book/hakurei_reimu.png"
+      ],
+      "title": "博麗靈夢",
+      "border": true,
+      "text": "東方 Project 系列中的主角之一。"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sortnum": 13,
+  "name": "載具",
+  "icon": "touhou_little_maid:maid_vehicle",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:maid_vehicle",
+      "text": "載具是一系列女僕可以駕駛的實體，女僕會在靠近$(l)空載具$()時會主動駕駛它，而後周圍的女僕可以主動騎乘此載具。$(br2)玩家右擊也能騎乘此載具。"
+    }
+  ]
+}

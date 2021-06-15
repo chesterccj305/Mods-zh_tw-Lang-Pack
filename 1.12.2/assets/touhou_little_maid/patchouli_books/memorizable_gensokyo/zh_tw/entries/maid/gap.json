@@ -1,0 +1,13 @@
+{
+  "sortnum": 14,
+  "name": "隙間",
+  "icon": "touhou_little_maid:wireless_io",
+  "category": "maid",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:wireless_io",
+      "text": "一個能夠傳輸物品的飾品。$(br2)你可以手持隙間右擊箱子進行標記，而後打開它的 GUI 進行各種設置，最後將其放置在女僕的飾品欄中。$(br2)這之後，女僕就能從箱子中「無線」的取出/存入物品。"
+    }
+  ]
+}

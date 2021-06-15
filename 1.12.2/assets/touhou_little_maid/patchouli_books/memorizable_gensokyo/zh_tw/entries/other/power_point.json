@@ -1,0 +1,13 @@
+{
+  "sortnum": 18,
+  "name": "P 點",
+  "icon": "touhou_little_maid:power_point",
+  "category": "other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "touhou_little_maid:power_point",
+      "text": "右鍵丟出，能夠掉落實體 P 點。$(br2)你可在地牢戰利品箱內發現物品形態的 P 點。"
+    }
+  ]
+}
