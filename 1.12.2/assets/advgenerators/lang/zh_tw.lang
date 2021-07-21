@@ -1,91 +1,93 @@
-﻿tile.advgenerators.FluidInput.name=液體輸入閥門
-tile.advgenerators.FuelTank.name=燃料箱
-tile.advgenerators.TurbineController.name=渦輪機控制端
-tile.advgenerators.FuelTank.name=燃料箱
-tile.advgenerators.EuOutputLV.name= LV輸出端
-tile.advgenerators.EuOutputMV.name= MV輸出端
-tile.advgenerators.EuOutputHV.name= HV輸出端
-tile.advgenerators.EuOutputEV.name= EV輸出端
-tile.advgenerators.RFOutput.name= RF輸出端
+tile.advgenerators.fluid_input.name=液體輸入閥門
+tile.advgenerators.fuel_tank.name=燃料箱
+tile.advgenerators.turbine_controller.name=渦輪機控制端
+tile.advgenerators.fuel_tank.name=燃料箱
+tile.advgenerators.eu_output_lv.name=LV輸出端
+tile.advgenerators.eu_output_mv.name=MV輸出端
+tile.advgenerators.eu_output_hv.name=HV輸出端
+tile.advgenerators.eu_output_ev.name=EV輸出端
+tile.advgenerators.rf_output.name=RF輸出端
+tile.advgenerators.tesla_output.name=Tesla輸出端
+tile.advgenerators.forge_output.name=Forge能量輸出端
 tile.advgenerators.steam.name=蒸汽
 tile.advgenerators.syngas.name=合成氣
-tile.advgenerators.SteamTurbineController.name=蒸汽渦輪機控制端
-tile.advgenerators.ExchangerController.name=熱交換器控制端
-tile.advgenerators.FluidOutputSelect.nam =液體輸出閥門
-tile.advgenerators.ItemOutput.name=物品輸出埠
-tile.advgenerators.ItemInput.name=物品輸入埠
-tile.advgenerators.PressureOutputSelect.name=壓縮液體輸出閥門
-tile.advgenerators.PressureInput.name=壓縮液體輸入閥門
-tile.advgenerators.HeatExchanger.name=熱交換器
-tile.advgenerators.SyngasController.name=合成氣製造器控制端
-tile.advgenerators.HeatingChamber.name=加熱室
-tile.advgenerators.MixingChamber.name=混合室
-tile.advgenerators.Sensor.name=感測器模組
-tile.advgenerators.GasInput.name=燃氣輸入閥門
-tile.advgenerators.Control.name=紅石控制模組
-tile.advgenerators.EfficiencyUpgradeTier1.name=燃料/空氣混合器
-tile.advgenerators.EfficiencyUpgradeTier2.name=燃氣混合加壓室
+tile.advgenerators.steam_turbine_controller.name=蒸汽渦輪機控制端
+tile.advgenerators.exchanger_controller.name=熱交換器控制端
+tile.advgenerators.fluid_output_select.nam =液體輸出閥門
+tile.advgenerators.item_output.name=物品輸出端口
+tile.advgenerators.item_onput.name=物品輸入端口
+tile.advgenerators.pressure_output_select.name=壓縮液體輸出閥門
+tile.advgenerators.pressure_input.name=壓縮液體輸入閥門
+tile.advgenerators.heat_exchanger.name=熱交換器
+tile.advgenerators.syngas_controller.name=合成氣製造器控制端
+tile.advgenerators.heating_chamber.name=加熱室
+tile.advgenerators.mixing_chamber.name=混合室
+tile.advgenerators.sensor.name=感測器模塊
+tile.advgenerators.gas_input.name=燃氣輸入閥門
+tile.advgenerators.control.name=紅石控制模塊
+tile.advgenerators.efficiency_upgrade_tier1.name=燃料/空氣混合器
+tile.advgenerators.efficiency_upgrade_tier2.name=燃氣混合加壓室
+tile.advgenerators.generators_data_port.name=機械數據端口
 
-item.advgenerators.IronFrame.name=鐵質框架
-item.advgenerators.PowerIO.name=能量介面組件
-item.advgenerators.IronTubing.name=鐵質管道
-item.advgenerators.IronWiring.name=紅石-鐵質線圈
-item.advgenerators.Controller.name=控制電路
-item.advgenerators.PressureValve.name=壓縮閥門
-item.advgenerators.AdvancedPressureValve.name=高級加壓閥門
-item.advgenerators.UpgradeKit.name=升級組件
+item.advgenerators.iron_frame.name=鐵質框架
+item.advgenerators.power_io.name=能量接口組件
+item.advgenerators.iron_tubing.name=鐵質管道
+item.advgenerators.iron_wiring.name=紅石-鐵質線圈
+item.advgenerators.controller.name=控制電路
+item.advgenerators.pressure_valve.name=壓縮閥門
+item.advgenerators.advanced_pressure_valve.name=高級加壓閥門
+item.advgenerators.upgrade_kit.name=升級組件
 
 // ===渦輪材料
 
-item.advgenerators.TurbineBladeIron.name=鐵質渦輪葉片
-item.advgenerators.TurbineRotorIron.name=鐵質渦輪轉子
-tile.advgenerators.TurbineIron.name=鐵質渦輪機
+item.advgenerators.turbine_blade_iron.name=鐵質渦輪葉片
+item.advgenerators.turbine_rotor_iron.name=鐵質渦輪轉子
+tile.advgenerators.turbine_iron.name=鐵質渦輪機
 
-item.advgenerators.TurbineRotorGold.name=鍍金渦輪轉子
-item.advgenerators.TurbineKitGold.name=鍍金轉子升級組件
-tile.advgenerators.TurbineGold.name=鍍金渦輪機
+item.advgenerators.turbine_rotor_gold.name=鍍金渦輪轉子
+item.advgenerators.turbine_kit_gold.name=鍍金轉子升級組件
+tile.advgenerators.turbine_gold.name=鍍金渦輪機
 
-item.advgenerators.TurbineBladeSteel.name=鋼製渦輪葉片
-item.advgenerators.TurbineRotorSteel.name=鋼製渦輪轉子
-item.advgenerators.TurbineKitSteel.name=鋼製轉子升級組件
-tile.advgenerators.TurbineSteel.name=鋼質渦輪機
+item.advgenerators.turbine_blade_steel.name=鋼製渦輪葉片
+item.advgenerators.turbine_rotor_steel.name=鋼製渦輪轉子
+item.advgenerators.turbine_kit_steel.name=鋼製轉子升級組件
+tile.advgenerators.turbine_steel.name=鋼質渦輪機
 
-item.advgenerators.TurbineBladeBronze.name=青銅渦輪葉片
-item.advgenerators.TurbineRotorBronze.name=青銅渦輪轉子
-item.advgenerators.TurbineKitBronze.name=青銅轉子升級組件
-tile.advgenerators.TurbineBronze.name=青銅渦輪機
+item.advgenerators.turbine_blade_bronze.name=青銅渦輪葉片
+item.advgenerators.turbine_rotor_bronze.name=青銅渦輪轉子
+item.advgenerators.turbine_kit_bronze.name=青銅轉子升級組件
+tile.advgenerators.turbine_bronze.name=青銅渦輪機
 
-item.advgenerators.TurbineBladeEnderium.name=終界錠渦輪葉片
-item.advgenerators.TurbineRotorEnderium.name=終界錠渦輪轉子
-item.advgenerators.TurbineKitEnderium.name=終界錠轉子升級組件
-tile.advgenerators.TurbineEnderium.name=終界錠渦輪機
+item.advgenerators.turbine_blade_enderium.name=終界錠渦輪葉片
+item.advgenerators.turbine_rotor_enderium.name=終界錠渦輪轉子
+item.advgenerators.turbine_kit_enderium.name=終界錠轉子升級組件
+tile.advgenerators.turbine_enderium.name=終界錠渦輪機
 
-item.advgenerators.TurbineBladeVibrant.name=脈衝合金渦輪葉片
-item.advgenerators.TurbineRotorVibrant.name=脈衝合金渦輪轉子
-item.advgenerators.TurbineKitVibrant.name=脈衝合金轉子升級組件
-tile.advgenerators.TurbineVibrant.name=脈衝合金渦輪機
+item.advgenerators.turbine_blade_vibrant.name=脈衝合金渦輪葉片
+item.advgenerators.turbine_rotor_vibrant.name=脈衝合金渦輪轉子
+item.advgenerators.turbine_kit_vibrant.name=脈衝合金轉子升級組件
+tile.advgenerators.turbine_vibrant.name=脈衝合金渦輪機
 
-item.advgenerators.TurbineBladeManyullyn.name=瑪玉玲渦輪葉片
-item.advgenerators.TurbineRotorManyullyn.name=瑪玉玲渦輪轉子
-item.advgenerators.TurbineKitManyullyn.name=瑪玉玲轉子升級組件
-tile.advgenerators.TurbineManyullyn.name=瑪玉玲渦輪機
+item.advgenerators.rurbine_blade_manyullyn.name=瑪玉靈渦輪葉片
+item.advgenerators.rurbine_rotor_manyullyn.name=瑪玉靈渦輪轉子
+item.advgenerators.rurbine_kit_manyullyn.name=瑪玉靈轉子升級組件
+tile.advgenerators.turbine_manyullyn.name=瑪玉靈渦輪機
 
-item.advgenerators.TurbineBladeAdvAlloy.name=高級合金渦輪葉片
-item.advgenerators.TurbineRotorAdvAlloy.name=高級合金渦輪轉子
-item.advgenerators.TurbineKitAdvAlloy.name=高級合金轉子升級組件
-tile.advgenerators.TurbineAdvAlloy.name=高級合金渦輪機
+item.advgenerators.turbine_blade_adv_alloy.name=高級合金渦輪葉片
+item.advgenerators.turbine_rotor_adv_alloy.name=高級合金渦輪轉子
+item.advgenerators.turbine_kit_adv_alloy.name=高級合金轉子升級組件
+tile.advgenerators.turbine_adv_alloy.name=高級合金渦輪機
 
 // ===電容器
 
-tile.advgenerators.PowerCapacitorRedstone.name=基礎能量電容
-tile.advgenerators.PowerCapacitorAdvanced.name=高級能量電容
-tile.advgenerators.PowerCapacitorDense.name=高密度能量電容
+tile.advgenerators.power_capacitor_redstone.name=基礎能量電容
+tile.advgenerators.power_capacitor_advanced.name=高級能量電容
+tile.advgenerators.power_capacitor_dense.name=高密度能量電容
 
-item.advgenerators.CapacitorKitAdvanced.name=高級能量電容升級組件
-item.advgenerators.CapacitorKitDense.name=高密度能量電容升級組件
+item.advgenerators.capacitor_kit_advanced.name=高級能量電容升級組件
+item.advgenerators.capacitor_kit_dense.name=高密度能量電容升級組件
 
-
-// ======
+// ======GUI
 
 advgenerators.gui.turbine.title=渦輪機控制端
 advgenerators.gui.turbine.steam.title=蒸汽渦輪機控制端
@@ -192,11 +194,11 @@ advgenerators.sensor.param.heat.exchanger.low=正在加熱（<％s HU）
 advgenerators.sensor.param.heat.exchanger.medium=能夠熱交換（>％s HU）
 advgenerators.sensor.param.heat.exchanger.high=達到最高熱量（％s HU）
 
-advgenerators.sensor.turbine.speed=垂直
+advgenerators.sensor.turbine.speed=渦輪速度
 advgenerators.sensor.param.turbine.speed.stop=停止
 advgenerators.sensor.param.turbine.speed.low=正在旋轉
-advgenerators.sensor.param.turbine.speed.medium=> =％s RPM
-advgenerators.sensor.param.turbine.speed.high= at％s RPM（最高排名）
+advgenerators.sensor.param.turbine.speed.medium=>=％s RPM
+advgenerators.sensor.param.turbine.speed.high=at ％s RPM（最高排名）
 
 advgenerators.sensor.turbine.generation=能量輸出
 advgenerators.sensor.param.turbine.generation.stop=停止
@@ -231,7 +233,7 @@ advgenerators.tooltip.kit= shift +右鍵完成升級
 advgenerators.tooltip.efficiency=燃料效率提升至％s
 advgenerators.tooltip.efficiency.req=需要一個已連接的燃料/空氣混合器
 
-
+advgenerators.tooltip.eu=等級 %s, 輸出 %s EU/t
 
 advgenerators.control.mode.high=未接受到信號時
 advgenerators.control.mode.low=接受到信號時
