@@ -1,0 +1,47 @@
+item.greatblade.name=巨劍
+item.battleaxe.name=戰斧
+item.cutlass.name=海盜短彎刀
+item.javelin.name=標槍
+item.dagger.name=匕首
+item.tconstruct:crossbow.name=十字弩
+item.scimitar.name=東方短彎刀
+item.explosive_bow.name=爆炸弓
+item.explosive_arrow.name=爆炸箭
+
+item.fullGuard.name=大型護手
+item.greatbladeCore.name=巨劍核心
+item.explosiveCore.name=爆炸觸媒
+
+item.greatblade.desc=這一武器的性能平衡且出色。沉重的巨劍犧牲了高攻擊力，但可以對敵人造成百分比傷害，是挑戰Boss的利器。攻擊速度慢，需要兩隻手揮動！
+item.battleaxe.desc=戰斧是種重型攻擊類武器。手持這把武器，化身為狂戰士的你可以造成比平常大得多的傷害。\n它還可以用於砍伐一些小型樹木。
+item.cutlass.desc=海盜短彎刀適合那些技巧高超、或是以為自己技藝高超而想用它來炫技的人的武器。暴擊時可以短時間獲得爆發速度。
+item.javelin.desc=遠近兼備的武器，它是近戰武器，卻擁有毀滅性的攻擊距離。
+item.tconstruct:crossbow.desc=十字弩是一個裝填速度緩慢但威力強大的武器。它必須事先裝填好彈藥，但裝填完畢後就可以隨時發射。\n使用匠魂的弩箭。
+item.dagger.desc=匕首劍刃較小並且不能投擲。
+item.scimitar.desc=東方短彎刀是一種尖銳輕便的刀，可以讓敵人失血致死。
+item.explosive_bow.desc=啟動時可以催化材料進行反應的一種特殊弓。使用爆炸箭。
+item.explosive_arrow.desc=用於從弓上發射的一種特殊重型箭。可用於裝填爆炸弓。
+
+modifier.explosive_range.name=催化
+modifier.explosive_range.desc=提高了催化效率，爆炸範圍因此而增加。
+
+stat.totaltinkers.explosive.radius.name=爆炸範圍
+stat.explosivecore.name=爆炸觸媒
+
+tinkers.greatblade.bossmultiplier.percentMaxHp=敵方最大生命值傷害: §9%.2f%%
+tinkers.greatblade.bossmultiplier.hpHover=§9+%.2f%% 敵方最大生命值傷害
+tinkers.greatblade.bossmultiplier.positive=§9對Boss最大生命值傷害: +%.2f%%
+tinkers.greatblade.bossmultiplier.negative=§c對Boss最大生命值傷害: -%.2f%%
+
+tinkers.battleaxe.extradamage.hover=造成了§c%1$,.2f倍的傷害
+
+tinkers.scimitar.bleed.hover=持續流血§c%1$,.2f秒
+tinkers.scimitar.bleed.duration=流血持續時間： §c%1$,.2f秒
+
+tooltip.fullGuard=也許你的村民朋友可以幫忙？
+tooltip.greatbladecore=可以在終界船中找到
+
+effect.totaltinkers.berserker=狂暴
+effect.totaltinkers.hemorrhage=大出血
+
+death.attack.totaltinkers.hemorrhage=%1$s 失血休克而死。
