@@ -50,3 +50,23 @@ item.dynamictreesphc:paperbarkseed.name=千層樹樹種
 tile.dynamictreesphc:cinnamonbranch.name=有活力的肉桂木
 tile.dynamictreesphc:maplebranch.name=有活力的楓木
 tile.dynamictreesphc:paperbarkbranch.name=有活力的千層木
+
+tile.dynamictreesphc:cinnamonbranch.name=肉桂樹
+tile.dynamictreesphc:maplebranch.name=楓樹
+tile.dynamictreesphc:paperbarkbranch.name=白千層樹
+tile.dynamictreesphc:paperbarkcutbranch.name=剝皮白千層樹
+tile.dynamictreesphc:dragonfruitbranch.name=火龍果仙人掌
+tile.dynamictreesphc:palmbranch.name=棕梠樹
+
+tile.dynamictreesphc:maple_spile.name=楓糖漿濾嘴
+tile.dynamictreesphc:maple_spile_bucket.name=楓糖漿濾嘴
+tile.dynamictreesphc:passionfruit_vine.name=百香果藤蔓
+
+item.dynamictreesphc:peppercornripeitem.name=過熟胡椒串
+tooltip.dynamictreesphc:peppercornripeitem.name=以要做成黑胡椒來說太熟了。在他們還是綠色時摘下來吧
+item.coconutitem.name=打開的椰子
+
+death.attack.fallingFruitCoconut=%1$s 被掉下來的椰子砸死了
+death.attack.fallingFruitDurian=%1$s 被掉下來的榴槤砸死了
+death.attack.fallingFruitJackfruit=%1$s 被掉下來的波羅蜜砸死了
+death.attack.fallingFruitBreadfruit=%1$s 被掉下來的麵包果砸死了
