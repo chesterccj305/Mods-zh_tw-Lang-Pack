@@ -1,0 +1,61 @@
+{
+  "item.constructionwand.stone_wand": "石製手杖",
+  "item.constructionwand.iron_wand": "鐵製手杖",
+  "item.constructionwand.diamond_wand": "鑽石手杖",
+  "item.constructionwand.infinity_wand": "無限手杖",
+  "item.constructionwand.core_angel": "天使手杖核心",
+  "item.constructionwand.core_destruction": "破壞手杖核心",
+
+  "constructionwand.tooltip.blocks": "最大 %d 個方塊",
+  "constructionwand.tooltip.shift": "按下 [SHIFT]",
+  "constructionwand.tooltip.cores": "手杖核心：",
+  "constructionwand.tooltip.core_tip": "在合成格中將核心與手杖結合",
+
+  "constructionwand.option.cores": "",
+  "constructionwand.option.cores.constructionwand:default": "建造核心",
+  "constructionwand.option.cores.constructionwand:default.desc": "延伸建造面向自己的方塊",
+  "constructionwand.option.cores.constructionwand:core_angel": "§6天使核心",
+  "constructionwand.option.cores.constructionwand:core_angel.desc": "Place behind blocks and in mid air",
+  "constructionwand.option.cores.constructionwand:core_destruction": "§c破壞核心",
+  "constructionwand.option.cores.constructionwand:core_destruction.desc": "破壞面向自己的方塊",
+
+  "constructionwand.option.lock": "限制：",
+  "constructionwand.option.lock.horizontal": "§a左/右",
+  "constructionwand.option.lock.horizontal.desc": "Build a horizontal column in front of the original block",
+  "constructionwand.option.lock.vertical": "§a上/下",
+  "constructionwand.option.lock.vertical.desc": "Build a vertical column in front of the original block",
+  "constructionwand.option.lock.northsouth": "§6北/南",
+  "constructionwand.option.lock.northsouth.desc": "Build a row in N/S direction on top of the original block",
+  "constructionwand.option.lock.eastwest": "§6東/西",
+  "constructionwand.option.lock.eastwest.desc": "Build a row in E/W direction on top of the original block",
+  "constructionwand.option.lock.nolock": "§c無",
+  "constructionwand.option.lock.nolock.desc": "Extend from any side of the original block",
+
+  "constructionwand.option.direction": "方向：",
+  "constructionwand.option.direction.target": "§6目標",
+  "constructionwand.option.direction.target.desc": "維持與原方塊相同方向建造",
+  "constructionwand.option.direction.player": "§a玩家",
+  "constructionwand.option.direction.player.desc": "將方塊以朝向玩家方向放置",
+
+  "constructionwand.option.replace": "取代：",
+  "constructionwand.option.replace.yes": "§a是",
+  "constructionwand.option.replace.yes.desc": "取代特定方塊像是液體，雪還有草叢",
+  "constructionwand.option.replace.no": "§c否",
+  "constructionwand.option.replace.no.desc": "不取代",
+
+  "constructionwand.option.match": "Matching: ",
+  "constructionwand.option.match.exact": "§a精準",
+  "constructionwand.option.match.exact.desc": "只放置與目標相同的方塊",
+  "constructionwand.option.match.similar": "§6相似",
+  "constructionwand.option.match.similar.desc": "平等放置相似方塊(ex：土/草地)",
+  "constructionwand.option.match.any": "§c任意",
+  "constructionwand.option.match.any.desc": "延伸任何方塊",
+
+  "constructionwand.option.random": "隨機：",
+  "constructionwand.option.random.yes": "§a是",
+  "constructionwand.option.random.yes.desc": "從快捷欄亂數放置方塊",
+  "constructionwand.option.random.no": "§c否",
+  "constructionwand.option.random.no.desc": "不亂數放置方塊",
+
+  "stat.constructionwand.use_wand": "使用建築手杖放置方塊"
+}
