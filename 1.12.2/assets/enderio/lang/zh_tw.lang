@@ -313,6 +313,12 @@ item.item_material.infinity_goop.tooltip.detailed.line2=有一次，Randalf 得�
 item.item_material.clayed_glowstone.name=黏土包覆螢石粉
 item.item_material.black_paper.name=黑紙
 
+item.item_material.token_animal.name=符文-動物
+item.item_material.token_monster.name=符文-敵對生物
+item.item_material.token_player.name=符文-玩家
+item.item_material.death_urn_unfired.name=未燒製死靈壺
+item.item_material.death_urn_unfired.tooltip.detailed=必須被加熱過才能發揮作用
+
 item.item_alloy_endergy_ingot_crude_steel.name=粗鋼錠
 item.item_alloy_endergy_ingot_crystalline_alloy.name=晶化合金錠
 item.item_alloy_endergy_ingot_melodic_alloy.name=旋律合金錠
@@ -536,6 +542,48 @@ tile.block_fused_glass.name=純淨玻璃
 
 tile.block_fused_quartz.name=石英玻璃
 
+tile.block_holy_fused_quartz.name=石英玻璃
+tile.block_holy_fused_glass.name=純淨玻璃
+tile.block_holy_enlightened_fused_quartz.name=螢光石英玻璃
+tile.block_holy_enlightened_fused_glass.name=螢光純淨玻璃
+tile.block_holy_dark_fused_quartz.name=漆黑石英玻璃
+tile.block_holy_dark_fused_glass.name=漆黑純淨玻璃
+
+tile.block_unholy_fused_quartz.name=石英玻璃
+tile.block_unholy_fused_glass.name=純淨玻璃
+tile.block_unholy_enlightened_fused_quartz.name=發光石英玻璃
+tile.block_unholy_enlightened_fused_glass.name=發光純淨玻璃
+tile.block_unholy_dark_fused_quartz.name=漆黑石英玻璃
+tile.block_unholy_dark_fused_glass.name=漆黑純淨玻璃
+
+tile.block_pasture_fused_quartz.name=石英玻璃
+tile.block_pasture_fused_glass.name=純淨玻璃
+tile.block_pasture_enlightened_fused_quartz.name=發光石英玻璃
+tile.block_pasture_enlightened_fused_glass.name=發光純淨玻璃
+tile.block_pasture_dark_fused_quartz.name=漆黑石英玻璃
+tile.block_pasture_dark_fused_glass.name=漆黑純淨玻璃
+
+tile.block_not_holy_fused_quartz.name=石英玻璃
+tile.block_not_holy_fused_glass.name=純淨玻璃
+tile.block_not_holy_enlightened_fused_quartz.name=發光石英玻璃
+tile.block_not_holy_enlightened_fused_glass.name=發光純淨玻璃
+tile.block_not_holy_dark_fused_quartz.name=漆黑石英玻璃
+tile.block_not_holy_dark_fused_glass.name=漆黑純淨玻璃
+
+tile.block_not_unholy_fused_quartz.name=石英玻璃
+tile.block_not_unholy_fused_glass.name=純淨玻璃
+tile.block_not_unholy_enlightened_fused_quartz.name=發光石英玻璃
+tile.block_not_unholy_enlightened_fused_glass.name=發光純淨玻璃
+tile.block_not_unholy_dark_fused_quartz.name=漆黑石英玻璃
+tile.block_not_unholy_dark_fused_glass.name=漆黑純淨玻璃
+
+tile.block_not_pasture_fused_quartz.name=石英玻璃
+tile.block_not_pasture_fused_glass.name=純淨玻璃
+tile.block_not_pasture_enlightened_fused_quartz.name=發光石英玻璃
+tile.block_not_pasture_enlightened_fused_glass.name=發光純淨玻璃
+tile.block_not_pasture_dark_fused_quartz.name=漆黑石英玻璃
+tile.block_not_pasture_dark_fused_glass.name=漆黑純淨玻璃
+
 tile.block_machine_base.name=（技術方塊）
 tile.block_machine_io.name=（技術方塊）
 
@@ -629,12 +677,16 @@ tile.block_self_resetting_lever30.name=自動復位控制桿（30秒）
 tile.block_self_resetting_lever60.name=自動復位控制桿（1分鐘）
 tile.block_self_resetting_lever300.name=自動復位控制桿（5分鐘）
 
-tile.block_self_resetting_lever5i.name=Inverted Self-resetting Lever (5 seconds)
-tile.block_self_resetting_lever10i.name=Inverted Self-resetting Lever (10 seconds)
-tile.block_self_resetting_lever30i.name=Inverted Self-resetting Lever (30 seconds)
-tile.block_self_resetting_lever60i.name=Inverted Self-resetting Lever (1 Minute)
-tile.block_self_resetting_lever300i.name=Inverted Self-resetting Lever (5 Minutes)
+tile.block_self_resetting_lever5i.name=逆自復位控制桿 (5秒)
+tile.block_self_resetting_lever10i.name=逆自復位控制桿 (10秒)
+tile.block_self_resetting_lever30i.name=逆自復位控制桿 (30秒)
+tile.block_self_resetting_lever60i.name=逆自復位控制桿 (1分鐘)
+tile.block_self_resetting_lever300i.name=逆自復位控制桿 (5分鐘)
 
+tile.block_death_pouch.name=死亡玩家
+item.block_death_pouch.name=死靈之壺
+item.block_death_pouch.tooltip.detailed=在玩家死亡後自動消耗並收集物品。必須放在物品欄中以生效
+enderio.gui.block_death_pouch.not_owner=這不屬於你！
 
 enderio.machine.tooltip.configured=%s（已設定）
 enderio.machine.tooltip.upgrade=機器升級
@@ -644,6 +696,12 @@ enderio.block.tooltip.blastResistant=防爆
 enderio.block.tooltip.lightEmitter=發光
 enderio.block.tooltip.lightBlocker=抗光
 
+enderio.block.tooltip.allowPlayers=只限玩家可通過
+enderio.block.tooltip.allowMonsters=只限敵對生物可通過
+enderio.block.tooltip.allowAnimals=只限動物可通過
+enderio.block.tooltip.disallowPlayers=限制玩家不可通過
+enderio.block.tooltip.disallowMonsters=限制敵對生物不可通過
+enderio.block.tooltip.disallowAnimals=限制動物不可通過
 
 enderio.grindingball.tooltip.line1=%sSAG磨粉機研磨球
 enderio.grindingball.tooltip.line2=%s全部增產 %s%%
