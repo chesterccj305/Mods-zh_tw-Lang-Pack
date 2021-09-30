@@ -2,10 +2,10 @@
 bbw.key.mode=轉換模式
 bbw.key.fluidmode=轉換流體模式
 
-item.betterbuilderswands:wandBasic.name=石質手杖
-item.betterbuilderswands:wandAdvanced.name=鐵質手杖
-item.betterbuilderswands:wandUnrestricted.name=鑽石手杖
-item.betterbuilderswands:wandUnbreakable.name=永恆手杖
+item.betterbuilderswands:wandbasic.name=石質手杖
+item.betterbuilderswands:wandadvanced.name=鐵質手杖
+item.betterbuilderswands:wandunrestricted.name=鑽石手杖
+item.betterbuilderswands:wandunbreakable.name=永恆手杖
 
 bbw.hover.mode.northsouth=模式：北-南
 bbw.hover.mode.verticalnorthsouth=模式：北-南（+豎直）
