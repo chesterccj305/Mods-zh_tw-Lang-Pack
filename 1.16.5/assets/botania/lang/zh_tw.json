@@ -1865,7 +1865,7 @@
   "botania.entry.pool": "魔力池",
   "botania.tagline.pool": "魔力儲存區",
   "botania.page.pool0": "$(item)魔力池$(0)簡單說就是儲存$(thing)魔力$(0)的地方。$(p)魔力能通過使用$(item)魔力發射器$(0)輸入，與魔力池相鄰的$(item)魔力發$(0)$(item)射器$(0)會自動從中抽取魔力增加內部快取。$(p)所有$(thing)功能花$(0)需要一個相鄰的$(item)魔力池$(0)提供能量。",
-  "botania.page.pool9": "$(item)魔力池$(0)有兩種，較弱的一個，$(item)稀釋的$(0)只能儲存極少量的$(thing)魔$(0)$(thing)力$(0)，此外還有一個$(item)普通的$(0)，可儲存百倍於稀釋的魔力且能注魔物品。$(p)其他地方所提及的\"魔力池\"都是指普通的那一個。",
+  "botania.page.pool9": "$(item)魔力池$(0)有兩種，較弱的一個，$(item)稀釋的$(0)只能儲存極少量的$(thing)魔$(0)$(thing)力$(0)，此外還有一個$(item)普通的$(0)，可儲存百倍於稀釋的魔力且能注魔物品。$(p)其他地方所提及的「魔力池」都是指普通的那一個。",
   "botania.page.pool1": "普通的$(item)魔力池$(0)",
   "botania.page.pool10": "製作$(item)稀釋魔力池$(0)。",
   "botania.page.pool14": "$(item)稀釋魔力池$(0)可以作為一個有用的快取，特別是那些不太消耗的$(thing)魔力$(0)的功能花或系統，因為普通的魔力池容量實在是太大了。令人高興不已的是，在普通魔力池中$(thing)魔力$(0)消耗的度數並不是那麼準確，因為容量太大，它們在顯示消耗魔力區別時不是那麼明顯",
@@ -1904,12 +1904,12 @@
   "botania.entry.manaVoid": "魔力銷毀器",
   "botania.tagline.manaVoid": "銷毀一切進來的魔力",
   "botania.page.manaVoid0": "$(item)魔力銷毀器$(0)通俗的說，就是$(thing)魔$(0)$(thing)力$(0)的垃圾桶。所有進入這個方塊的$(thing)魔力$(0)都會消失在虛空，再也不會出現。$(p)將它放在一個$(item)魔力池$(0)下方會讓池子總是接收$(thing)魔力$(0)，但銷毀超出容量的部分。",
-  "botania.page.manaVoid1": "Even Chad from accounting?",
+  "botania.page.manaVoid1": "甚至是會計的查德?",
 
   "botania.entry.rfGenerator": "魔力轉換器",
   "botania.tagline.rfGenerator": "魔力變RF啦!",
   "botania.page.rfGenerator0": "將$(thing)魔力$(0)引入紅石能量場，就可以將其從自然能量源形態轉為$(thing)紅石流量$(0)。$(p)將一魔力發射器對向此方塊，就可把進入其中的$(thing)魔力$(0)轉化為$(thing)RF$(0)。之後就能用各種傳輸$(thing)RF$(0)的裝置來輸出。",
-  "botania.page.rfGenerator1": "The bullet guys. I bit it.",
+  "botania.page.rfGenerator1": "子彈人!我咬了。",
 
   "botania.entry.lens": "魔力透鏡",
   "botania.tagline.lens": "發射器的多樣化配置",
@@ -2116,7 +2116,7 @@
   "botania.tagline.rannuncarpus": "放置方塊",
   "botania.page.rannuncarpus0": "真是朵方便的花，$(item)手掌花$(0)會拾取附近任何掉落物品形式的方塊並放置在其他地方。只會將方塊放置在特殊的方塊上，要指定這種特殊方塊，只需將它放在這朵花種植的土方塊下就可以。",
   "botania.page.rannuncarpus1": "方塊式物品，比如$(item)甘蔗$(0)也會奏效的，但，就像這些方塊一樣，它們只能被放在平常能放置的地方。$(p)最後，提供$(thing)魔力$(0)不是必需的，但這能增加工作範圍。",
-  "botania.page.rannuncarpus2": "$(o)The Sandpit of Yanille$(0)?",
+  "botania.page.rannuncarpus2": "$(o)亞尼爾的沙坑$(0)?",
 
   "botania.entry.hyacidus": "毒風信",
   "botania.tagline.hyacidus": "毒死怪物",
@@ -2207,8 +2207,8 @@
   "botania.entry.endoflame": "火紅蓮",
   "botania.tagline.endoflame": "燃燒產能",
   "botania.page.endoflame0": "儘管$(item)太陽花$(0)很好，對植物魔法師而言還需要更有效的生產$(thing)魔力$(0)的方法。$(p)$(item)火紅蓮$(0)恰好是那樣的，它會吸收掉落在附近的任何可燃物品和方塊(每次一個)並在燃燒期間釋放出魔力。",
-  "botania.page.endoflame1": "有個小提示，$(item)火紅蓮$(0)不會燃燒有燃燒產物的物品，比如$(item)岩漿$(0)$(item)桶$(0)，會留下$(item)空桶$(0)。$(p)根據它們的特性，你在書中所見的$(item)花格箱$(0)或許能助你實現它的補給。$(p)Furthermore, the flower can only hold fuel equivalent to that of four times a $(item)Block of Coal$(0). If any individual fuel with longer burn time than that is used, it won't be put to fullefficiency.",
-  "botania.page.endoflame3": "As the $(item)Endoflame$(0) is often a botanist's first foray into proper automatable $(thing)Active Generating Flora$(0), it would be best to not leave it to manual usage forever. As the flower requires dropped items, an $(item)Open Crate$(0) (which you can find in the $(thing)Natural Apparatus$(0)) section, and some sort of limiting mechanism (a timer or pressure plate) would be ideal for it.",
+  "botania.page.endoflame1": "有個小提示，$(item)火紅蓮$(0)不會燃燒有燃燒產物的物品，比如$(item)岩漿$(0)$(item)桶$(0)，會留下$(item)空桶$(0)。$(p)根據它們的特性，你在書中所見的$(item)花格箱$(0)或許能助你實現它的補給。$(p)然而，這種花只能承受相當於4倍的$(item)煤炭方塊$(0)。如果有單一燃料超過這樣的燃燒時間，這樣並不能達到最高效率。",
+  "botania.page.endoflame3": "$(item)火紅蓮$(0)通常作為植物學家初次涉足自動化的$(thing)主動產能花$(0)，最好能夠不要完全手動運作才好。因為需要掉落的物品，擁有$(item)花格箱$(0) (你可以在$(thing)自然裝置$(0)部分看到)和其他類的限制機制 (計時器或壓力板)會相當理想。",
   "botania.page.endoflame2": "$(o)不是閃耀之光$(0)。",
 
   "botania.entry.hydroangeas": "水繡球",
@@ -2491,7 +2491,7 @@
   "botania.entry.teruTeruBozu": "晴天娃娃",
   "botania.tagline.teruTeruBozu": "天氣控制以及超人的可愛",
   "botania.page.teruTeruBozu0": "$(item)晴天娃娃$(0)，眾所周知，是一種驅散壞天氣的護身符。簡單地製作一個並將它放在世界上能夠減少$(item)雨$(0)或$(item)雷暴s$(0)持續的時間。壞天氣的時候，拿著$(item)向日葵$(0)右擊他或朝他投擲向日葵會讓晴天再臨。給予一個$(item)紅石比較器$(0)能夠讓他檢測壞天氣。",
-  "botania.page.teruTeruBozu1": "Toospoopy",
+  "botania.page.teruTeruBozu1": "太詭異了",
 
   "botania.entry.avatar": "活木化身",
   "botania.tagline.avatar": "方塊中的法杖",
@@ -2667,7 +2667,7 @@
   "botania.tagline.gravityRod": "舉起，扔出生物",
   "botania.page.gravityRod0": "$(item)黑山法杖$(0)是個強力的遺物，傳說這些最初和撬棍被發現於一座黑山的山頂。$(p)使用時需要對怪物或是物品右鍵。鬆開右鍵就會扔出選擇的實體，左鍵時則會讓它吃發強力的爆破。",
   "botania.page.gravityRod1": "當然這種力量不是免費的，它會消耗使用者相當大量的$(thing)魔$(0)$(thing)力$(0)。",
-  "botania.page.gravityRod2": "Why the flax?",
+  "botania.page.gravityRod2": "為什麼有稻草?",
 
   "botania.entry.regenIvy": "永恆常春籐",
   "botania.tagline.regenIvy": "常春籐能夠附加在物品上，增加其耐久度",
@@ -2804,7 +2804,7 @@
   "botania.page.enderHand0": "$(item)終界之手$(0)讓使用者能跨維度觸及終界，換言之就是$(item)終界箱$(0)的物品欄。無論何地只需用這個手右擊並消耗一些$(thing)魔力$(0)。$(p)若對其他玩家使用則會相應開啟$(o)他們的$(0)終界物品欄，消耗更多的$(thing)魔力$(0)。",
   "botania.page.enderHand0a": "$(item)終界之手$(0)讓使用者能跨維度觸及終界，換言之就是$(item)終界箱$(0)的物品欄。無論何地只需用這個手右擊並消耗一些$(thing)魔力$(0)。",
   "botania.page.enderHand2": "不僅如此，若玩家的背包中有$(item)終界之手$(0)，那麼$(item)移殼杆$(0)就能使用玩家$(item)終界箱$(0)裡的方塊，這比起平時使用，要消耗更多的$(thing)瑪那$(0)。",
-  "botania.page.enderHand1": "Zezima hates him!",
+  "botania.page.enderHand1": "Zezima恨他!",
   "botania.page.enderHand1a": "就像是4G版的終界箱",
 
   "botania.entry.enderDagger": "靈魂匕首",
@@ -3112,9 +3112,9 @@
   "botania.page.aIntro7": "這本書裡關於$(item)艾爾夫海姆$(0)的情報也只有這麼多了，或許你$(thing)讓精靈看看這本書$(0)能獲得更多情報。",
 
   "botania.entry.elfMessage": "來自愛爾文·加爾得的訊息",
-  "botania.tagline.elfMessage": "肯定的回復。 Yup",
+  "botania.tagline.elfMessage": "肯定的回復-是",
   "botania.page.elfMessage0": "",
-  "botania.page.elfMessage1": "$(o)致以問候。我們注意到我們的傳送門被其他世界的連接開啟了。說起來的確有些震驚。感謝你向我們提供你所在世界的知識庫，讓我們能瞭解到在離開那里之後的事，真的過去很久了呢，it'sgoodtoseeit'sdoingwell。",
+  "botania.page.elfMessage1": "$(o)致以問候。我們注意到我們的傳送門被其他世界的連接開啟了。說起來的確有些震驚。感謝你向我們提供你所在世界的知識庫，讓我們能瞭解到在離開那里之後的事，真的過去很久了呢，很高興看到一切都正常。",
   "botania.page.elfMessage2": "$(o)經過與愛爾文·加爾德高級議會的討論，我們決定與您合作。你看，你的\"植物魔法辭典\"讓我們知道了諸多很難入手的你所在世界的資源，因為這些資源根本不存在於我們的土地。",
   "botania.page.elfMessage3": "$(o)你所建立的連接十分脆弱，生物無法穿過，你現在應該已經知道了。然而，這也有積極的一面，我們兩個世界之間的時間連接是不同步的，那就是為何你這麼快就拿回了書。",
   "botania.page.elfMessage4": "$(o)談到魔力和其他魔法能量，我們有充足的量，所以不用擔心傳送門在我們這一側關閉。讓我們展望未來，為了我們兩個文明的發展，我們約定交換彼此缺乏的資源。",
